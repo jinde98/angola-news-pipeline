@@ -1,0 +1,96 @@
+# Angola News Pipeline - Configuration
+
+{
+  "sources": [
+    {"name": "Diário dos Negócios", "url": "https://diariodosnegocios.com/", "lang": "pt", "category": "business"},
+    {"name": "Ver Angola", "url": "https://www.verangola.net/va/en/", "lang": "en", "category": "general"},
+    {"name": "Ecos do Henda", "url": "https://www.ecosdohenda.info/", "lang": "pt", "category": "social"},
+    {"name": "Jornal de Angola", "url": "https://www.jornaldeangola.ao/", "lang": "pt", "category": "general", "fetch_mode": "browser"},
+    {"name": "Club K", "url": "https://www.club-k.net/index.php?lang=pt", "lang": "pt", "category": "social"},
+    {"name": "ANGOP", "url": "https://www.angop.ao/en/", "lang": "en", "category": "general"},
+    {"name": "Valor Económico", "url": "https://valoreconomico.co.ao/", "lang": "pt", "category": "business"},
+    {"name": "O País", "url": "https://www.opais.ao/", "lang": "pt", "category": "general"},
+    {"name": "Correio Kianda", "url": "https://correiokianda.info/latest-news/", "lang": "en", "category": "social"},
+    {"name": "Angola 24 Horas", "url": "https://angola24horas.com/", "lang": "pt", "category": "general"},
+    {"name": "Novo Jornal", "url": "https://www.novojornal.co.ao/", "lang": "pt", "category": "general"},
+    {"name": "Expansão", "url": "https://expansao.co.ao/angola.html", "lang": "pt", "category": "business"},
+    {"name": "Jornal O Guardião", "url": "https://jornaloguardiao.com/", "lang": "pt", "category": "general"},
+    {"name": "Reporter Angola", "url": "https://www.reporterangola.info/", "lang": "pt", "category": "social", "fetch_mode": "browser"},
+    {"name": "Na Mira do Crime", "url": "https://namiradocrime.info/", "lang": "pt", "category": "security"},
+    {"name": "Hold On Angola", "url": "https://holdonangola.com/", "lang": "en", "category": "social"},
+    {"name": "Forbes África", "url": "https://forbesafricalusofona.com/", "lang": "pt", "category": "business"},
+    {"name": "Negócios de Angola", "url": "https://www.negociosdeangola.com/en/", "lang": "en", "category": "business"}
+  ],
+  "pipeline": {
+    "fetchTime": "07:00",
+    "timezone": "Asia/Shanghai",
+    "maxArticles": 20,
+    "minScore": 5,
+    "outputDir": "data",
+    "history": {
+      "daysToKeep": 7,
+      "cleanupAfterDays": 30
+    }
+  },
+  "scoring": {
+    "keywords_high": ["china", "chinese", "chinês", "chinesa", "pequim", "beijing", "huawei", "citic", "crec", "华人", "中国", "中资"],
+    "keywords_medium": ["petróleo", "oil", "kwanza", "câmbio", "exchange", "dólar", "inflação", "importação", "exportação", "进口", "出口", "trade", "comércio"],
+    "keywords_low": ["segurança", "security", "crime", "polícia", "presidência", "prisão", "violência", "tráfico"],
+    "dedup": {
+      "enabled": true
+    },
+    "providers": [
+      {
+        "name": "gemini-flash",
+        "enabled": true,
+        "type": "openai-compat",
+        "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+        "model": "gemini-2.5-flash",
+        "api_key_env": "GEMINI_API_KEY",
+        "note": "Google Gemini 2.5 Flash，默认首选，免费额度大"
+      },
+      {
+        "name": "glm-flash",
+        "enabled": true,
+        "type": "openai-compat",
+        "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+        "model": "glm-4.7-flash",
+        "batch_size": 50,
+        "api_key_env": "ZHIPU_API_KEY",
+        "note": "智谱 GLM-4.7-Flash，免费，思维链模型，Gemini 失败时自动降级"
+      },
+      {
+        "name": "claude-haiku",
+        "enabled": true,
+        "type": "anthropic",
+        "model": "claude-haiku-4-5-20251001",
+        "api_key_env": "ANTHROPIC_AUTH_TOKEN",
+        "note": "Claude Haiku，极快，Claude Code 自带 key，GLM 失败时自动降级"
+      },
+      {
+        "name": "deepseek-chat",
+        "enabled": false,
+        "type": "openai-compat",
+        "base_url": "https://api.deepseek.com/v1/",
+        "model": "deepseek-chat",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "note": "DeepSeek，低价，填入 DEEPSEEK_API_KEY 后设 enabled:true"
+      },
+      {
+        "name": "siliconflow",
+        "enabled": false,
+        "type": "openai-compat",
+        "base_url": "https://api.siliconflow.cn/v1/",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "api_key_env": "SILICONFLOW_API_KEY",
+        "note": "硅基流动，有免费额度，填入 SILICONFLOW_API_KEY 后设 enabled:true"
+      },
+      {
+        "name": "keyword",
+        "enabled": true,
+        "type": "keyword",
+        "note": "关键词评分，无需 API，最终兜底"
+      }
+    ]
+  }
+}
