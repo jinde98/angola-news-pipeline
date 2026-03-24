@@ -28,7 +28,7 @@ CURL_HEADERS = [
 ]
 
 
-def fetch_via_curl(url, timeout=30):
+def fetch_via_curl(url, timeout=45):
     """用 curl 抓取，带真实浏览器请求头"""
     result = subprocess.run(
         ['curl', '-sL', '--max-time', str(timeout),
