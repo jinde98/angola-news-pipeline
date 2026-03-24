@@ -3,7 +3,10 @@ name: Daily Angola News Pipeline
 on:
   schedule:
     - cron: '0 8 * * *'  # Every day at 08:00 UTC
-  workflow_dispatch:     # Allow manual trigger
+  workflow_dispatch:      # Allow manual trigger
+
+permissions:
+  contents: write         # Required to push data updates back to repo
 
 jobs:
   run-pipeline:
@@ -12,11 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -34,51 +35,44 @@ jobs:
         run: npm install -g agent-browser
 
       - name: Configure environment
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
-          ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          cat > .env << EOF
-          GEMINI_API_KEY=$GEMINI_API_KEY
-          ZHIPU_API_KEY=$ZHIPU_API_KEY
-          ANTHROPIC_AUTH_TOKEN=$ANTHROPIC_AUTH_TOKEN
-          TELEGRAM_BOT_TOKEN=$TELEGRAM_BOT_TOKEN
-          TELEGRAM_CHAT_ID=$TELEGRAM_CHAT_ID
-          EOF
+          printf '%s\n' \
+            'GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}' \
+            'ZHIPU_API_KEY=${{ secrets.ZHIPU_API_KEY }}' \
+            'ANTHROPIC_AUTH_TOKEN=${{ secrets.ANTHROPIC_AUTH_TOKEN }}' \
+            'TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}' \
+            'TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}' \
+            > .env
 
       - name: Run Angola News Pipeline
         env:
           AGENT_BROWSER_DEFAULT_TIMEOUT: '60000'
         run: bash RUN_ALL.sh
 
-      - name: Configure Git
+      - name: Commit and push data updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push database updates
-        run: |
-          if git diff --quiet data/articles-db.json data/sent-history.json; then
-            echo "No changes to commit"
+          git add data/articles-db.json \
+                 data/sent-history.json \
+                 data/extracted-headlines.json \
+                 data/delta-new.json \
+                 data/filtered-candidates.json \
+                 data/translated-headlines.json \
+                 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
           else
-            git add data/articles-db.json data/sent-history.json
-            git commit -m "chore: update article database and push history
-
-- Articles processed: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
-- New articles added to database
-- Updated push history
-
-[skip ci]"
+            COMMIT_DATE=$(date -u +'%Y-%m-%d %H:%M UTC')
+            git commit -m "chore: daily pipeline update ($COMMIT_DATE) [skip ci]"
             git push
+            echo "Pushed data updates to GitHub"
           fi
 
       - name: Upload logs on failure
         if: failure()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          name: pipeline-logs
+          name: pipeline-logs-${{ github.run_number }}
           path: data/runs/
           retention-days: 7

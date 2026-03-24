@@ -10,9 +10,28 @@ from datetime import datetime
 sys.path.insert(0, os.path.dirname(__file__))
 from utils import load_db, save_db, read_current_run, now_iso
 
-# Telegram 凭证从环境变量读取
-TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '6479792576:AAFBSPDwTgPCuGYsog6JdfdXa1Vx-GbGlE4')
-TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID', '6295625531')
+# Telegram 凭证：优先环境变量，其次 .env 文件
+def _load_telegram_config():
+    token = os.environ.get('TELEGRAM_BOT_TOKEN', '')
+    chat_id = os.environ.get('TELEGRAM_CHAT_ID', '')
+    if token and chat_id:
+        return token, chat_id
+    # 从 .env 文件读取
+    env_file = os.path.join(os.path.dirname(__file__), '..', '.env')
+    if os.path.exists(env_file):
+        with open(env_file) as f:
+            for line in f:
+                line = line.strip()
+                if '=' in line and not line.startswith('#'):
+                    k, v = line.split('=', 1)
+                    k, v = k.strip(), v.strip().strip('"\'')
+                    if k == 'TELEGRAM_BOT_TOKEN' and not token:
+                        token = v
+                    elif k == 'TELEGRAM_CHAT_ID' and not chat_id:
+                        chat_id = v
+    return token, chat_id
+
+TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID = _load_telegram_config()
 
 BATCH_SIZE = 15
 MAX_MESSAGE_LENGTH = 3000

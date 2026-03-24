@@ -1,50 +1,596 @@
 {
-  "date": "2026-03-08",
-  "total_extracted": 1950,
-  "total_new": 7,
-  "total_existing": 1943,
+  "date": "2026-03-24",
+  "total_extracted": 1841,
+  "total_new": 98,
+  "total_existing": 1743,
   "articles": [
     {
-      "title": "Angola to participate in first edition of Africa Open Water Swimming Cup",
-      "url": "https://www.angop.ao/en/noticias/desporto/angola-na-primeira-edicao-da-copa-de-africa-em-aguas-abertas/",
+      "title": "Angolan President praises legacy of the Cuito Cuanavale Battle",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-enaltece-legado-da-batalha-do-cuito-cuanavale-38-anos-depois/",
       "source": "ANGOP",
-      "_key": "369fa14ed6f6ab0c"
+      "_key": "753e6087fc5d4de8"
     },
     {
-      "title": "Coach Pep Clarós to remain in charge of national basketball team",
-      "url": "https://www.angop.ao/en/noticias/desporto/fab-confirma-continuidade-de-pep-claros-na-seleccao-nacional/",
+      "title": "Govt construction of the irrigated perimeters in Catabola",
+      "url": "https://www.angop.ao/en/noticias/agricultura/executivo-inicia-construcao-do-perimetro-irrigado-da-chicava-sande-e-missene/",
       "source": "ANGOP",
-      "_key": "4249706d6293c072"
+      "_key": "34d08cd444d3e246"
     },
     {
-      "title": "Bengo Province contributes to economic diversification",
-      "url": "https://www.angop.ao/en/noticias/economia/provincia-do-bengo-contribui-para-a-diversificacao-da-economia/",
+      "title": "Former National Police commanders honored",
+      "url": "https://www.angop.ao/en/noticias/politica/antigos-comandantes-da-policia-nacional-homenageados/",
       "source": "ANGOP",
-      "_key": "79e13b1701be61a9"
+      "_key": "42e7f049b1e87e9e"
     },
     {
-      "title": "Central Bank prepares mechanisms to comply with FATF recommendations",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-afina-mecanismos-para-cumprimento-das-recomendacoes-do-gafi/",
+      "title": "SADC Chairperson values ​​historic Battle of Cuito Cuanavale",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-sadc-valoriza-historica-batalha-do-cuito-cuanavale/",
       "source": "ANGOP",
-      "_key": "32c327e59fc382c4"
+      "_key": "f09bc3192a7ac6ec"
     },
     {
-      "title": "UJES bets on digital component to improve teaching",
-      "url": "https://www.angop.ao/en/noticias/educacao/ujes-aposta-na-componente-digital-para-melhoria-do-ensino/",
+      "title": "AFCON 2025 - National coach reiterates need for victory in opening match",
+      "url": "https://www.angop.ao/en/noticias/desporto/can-beaumelle-reitera-a-necessidade-de-vitoria-na-estreia/",
       "source": "ANGOP",
-      "_key": "9ad819c1aaf6a236"
+      "_key": "d7a8f39df398dcbe"
     },
     {
-      "title": "Minister considers youth as engine of economic development for countries",
-      "url": "https://www.angop.ao/en/noticias/sociedade/ministro-destaca-juventude-como-motor-do-desenvolvimento-economico-dos-paises/",
+      "title": "Huíla hosts International theatre festival in July",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/huila-acolhe-em-julho-deste-ano-festival-internacional-de-teatro/",
       "source": "ANGOP",
-      "_key": "91811926e0ddbed8"
+      "_key": "092b0887930ab561"
     },
     {
-      "title": "Govt reaffirms focus to elevate Tchitundu Hulu at world heritage level",
-      "url": "https://www.angop.ao/en/noticias/sociedade/executivo-identifica-necessidade-de-intervencao-de-tchitundu-hulu-para-elevacao-a-patrimonio-mundial/",
+      "title": "LAASP and LA create gallery of nationalism",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/laasp-e-la-criam-galeria-do-nacionalismo/",
       "source": "ANGOP",
-      "_key": "2c2b8438fe3a56eb"
+      "_key": "70df5db503459012"
+    },
+    {
+      "title": "“O fracasso do socialismo em Cuba já não pode ser ignorado”",
+      "url": "https://angola24horas.com/internacional/item/33990-o-fracasso-do-socialismo-em-cuba-ja-nao-pode-ser-ignorado",
+      "source": "Angola 24 Horas",
+      "_key": "b1fb2083ce3bcd3f"
+    },
+    {
+      "title": "INDRA é mais uma acha na fogueira da tensão eleitoral em Angola",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/33985-indra-e-mais-uma-acha-na-fogueira-da-tensao-eleitoral-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "3b71a28ddb0d426b"
+    },
+    {
+      "title": "Presidente do Supremo de Portugal considera “extremamente nocivo” partidarizar nomeação de juízes do TC",
+      "url": "https://angola24horas.com/internacional/item/33986-presidente-do-supremo-de-portugal-considera-extremamente-nocivo-partidarizar-nomeacao-de-juizes-do-tc",
+      "source": "Angola 24 Horas",
+      "_key": "bc345fdf3e9fb54d"
+    },
+    {
+      "title": "“Falar da batalha de Cuíto Cuanavale sem falar da derrota das FAPLA em Mavinga.”",
+      "url": "https://angola24horas.com/politica/item/33987-falar-da-batalha-de-cuito-cuanavale-sem-falar-da-derrota-das-fapla-em-mavinga",
+      "source": "Angola 24 Horas",
+      "_key": "955fe99f8045fa8f"
+    },
+    {
+      "title": "Preparativos finais para visita papal mobilizam Governo e Igreja Católica em Angola",
+      "url": "https://correiokianda.info/preparativos-finais-para-visita-papal-mobilizam-governo-e-igreja-catolica-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "ba90f662b90f45d8"
+    },
+    {
+      "title": "João Lourenço reconhece papel decisivo de Cuba na Batalha do Cuito Cuanavale",
+      "url": "https://correiokianda.info/presidente-reconhece-papel-decisivo-de-cuba-na-batalha-do-cuito-cuanavale/",
+      "source": "Correio Kianda",
+      "_key": "57c14e6d4df0035e"
+    },
+    {
+      "title": "Falta de registo civil nas novas províncias atrasa recolha de assinaturas, afirma Restino Fernandes",
+      "url": "https://correiokianda.info/falta-de-registo-civil-nas-novas-provincias-atrasa-recolha-de-assinaturas-afirma-restino-fernandes/",
+      "source": "Correio Kianda",
+      "_key": "11ea255c8710f448"
+    },
+    {
+      "title": "Angola intensifica busca de financiamento na China com foco em projectos estruturantes",
+      "url": "https://correiokianda.info/angola-intensifica-busca-de-financiamento-na-china-com-foco-em-projectos-estruturantes/",
+      "source": "Correio Kianda",
+      "_key": "a479a5f8e31416fb"
+    },
+    {
+      "title": "Kinshasa e Luanda aprofundam relações comerciais na III edição do Fórum Económico Bilateral",
+      "url": "https://correiokianda.info/kinshasa-e-luanda-aprofundam-relacoes-comerciais-na-iii-edicao-do-forum-economico-bilateral/",
+      "source": "Correio Kianda",
+      "_key": "646655c6c5243dc2"
+    },
+    {
+      "title": "População teme deixar corpos nas morgues por falta de BI",
+      "url": "https://correiokianda.info/populacao-teme-deixar-corpos-nas-morgues-por-falta-de-bi/",
+      "source": "Correio Kianda",
+      "_key": "d84f486368370f01"
+    },
+    {
+      "title": "Moradores do Cubango criticam ausência de serviços essenciais",
+      "url": "https://correiokianda.info/moradores-do-cubango-criticam-ausencia-de-servicos-essenciais/",
+      "source": "Correio Kianda",
+      "_key": "b0a869c0f4221bb4"
+    },
+    {
+      "title": "Classe dos taxistas rejeita imposto e acusa Estado de penalizar os mais vulneráveis",
+      "url": "https://correiokianda.info/classe-dos-taxistas-rejeita-imposto-e-acusa-estado-de-penalizar-os-mais-vulneraveis/",
+      "source": "Correio Kianda",
+      "_key": "bc0d2840dae4e39b"
+    },
+    {
+      "title": "Arranca esta terça-feira julgamento dos acusados de terrorismo durante greve dos taxistas",
+      "url": "https://correiokianda.info/arranca-esta-terca-feira-julgamento-dos-acusados-de-terrorismo-durante-greve-dos-taxistas/",
+      "source": "Correio Kianda",
+      "_key": "d5a3de90b5b52a46"
+    },
+    {
+      "title": "DIIP desmantela associação criminosa após onda de homicídios e roubos em Luanda",
+      "url": "https://correiokianda.info/diip-desmantela-associacao-criminosa-apos-onda-de-homicidios-e-roubos-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "564d576de8d757fc"
+    },
+    {
+      "title": "Trump prolonga por cinco dias prazo do ultimato a Teerão para reabrir estreito de Ormuz",
+      "url": "https://correiokianda.info/trump-prolonga-por-cinco-dias-prazo-do-ultimato-a-teerao-para-reabrir-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "d9290d1260125a0d"
+    },
+    {
+      "title": "Quénia: chuvas torrenciais causam pelo menos 81 mortos, revela último balanço",
+      "url": "https://correiokianda.info/no-quenia-chuvas-torrenciais-causam-pelo-menos-81-mortos-revela-ultimo-balanco/",
+      "source": "Correio Kianda",
+      "_key": "f9e81651d8cdfd61"
+    },
+    {
+      "title": "        África10 horas atrás  Guiné-Bissau endurece discurso e acusa Portugal de ingerência O Conselho Nacional de Transição (CNT) da Guiné-Bissau endureceu, esta segunda-feira, 23, o discurso político e diplomático contra Portugal, acusando directamente Lisboa de ingerência nos assuntos...   ",
+      "url": "https://correiokianda.info/guine-bissau-endurece-discurso-e-acusa-portugal-de-ingerencia/",
+      "source": "Correio Kianda",
+      "_key": "af2635efab679b5b"
+    },
+    {
+      "title": "Sonangol aumenta participação na Galp para 16,9% com redução de capital social",
+      "url": "https://diariodosnegocios.com/sonangol-aumenta-participacao-na-galp-para-169-com-reducao-de-capital-social/",
+      "source": "Diário dos Negócios",
+      "_key": "770513e6054f574c"
+    },
+    {
+      "title": " Sonangol aumenta participação na Galp para 16,9% com redução de capital social ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_bb6a92cc95ee29"
+    },
+    {
+      "title": "Município do Sequele recebe novo Comandante da Polícia Nacional",
+      "url": "https://ecosdohenda.info/municipio-do-sequele-recebe-novo-comandante-da-policia-nacional/",
+      "source": "Ecos do Henda",
+      "_key": "a12bd57365dc474d"
+    },
+    {
+      "title": "Administração do Sequele presta apoio a jovem doente na Funda",
+      "url": "https://ecosdohenda.info/administracao-do-sequele-presta-apoio-a-jovem-doente-na-funda/",
+      "source": "Ecos do Henda",
+      "_key": "33939518a93c4823"
+    },
+    {
+      "title": "Financiamento do Banco Mundial obriga a novos aumentos das tarifas da água e energia até 2028",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_aa5d96c54c6e31"
+    },
+    {
+      "title": "Cabo Verde realiza primeiro transplante renal da sua história",
+      "url": "https://forbesafricalusofona.com/cabo-verde-realiza-primeiro-transplante-renal-da-sua-historia/",
+      "source": "Forbes África",
+      "_key": "93067783d4932a2e"
+    },
+    {
+      "title": "Moçambique acolhe maior conferência jovem da CPLP e desafia periferia científica africana",
+      "url": "https://forbesafricalusofona.com/mocambique-acolhe-maior-conferencia-jovem-da-cplp-e-desafia-periferia-cientifica-africana/",
+      "source": "Forbes África",
+      "_key": "58a4adc68c9d3e55"
+    },
+    {
+      "title": "Hélder Chihuto move acção popular contra nomeação do PGR",
+      "url": "https://holdonangola.com/helder-chihuto-move-accao-popular-contra-nomeacao-do-pgr/",
+      "source": "Hold On Angola",
+      "_key": "54dc126adac3fad6"
+    },
+    {
+      "title": "MPLA assinala Dia da Libertação da África Austral e reforça apelo à democracia",
+      "url": "https://holdonangola.com/mpla-assinala-dia-da-libertacao-da-africa-austral-e-reforca-apelo-a-democracia/",
+      "source": "Hold On Angola",
+      "_key": "826e380bc32f40a8"
+    },
+    {
+      "title": "23 de Março: entre o mito e a…",
+      "url": "https://holdonangola.com/23-de-marco-entre-o-mito-e-a-historia-uma-leitura-critica-da-libertacao-da-africa-austral/",
+      "source": "Hold On Angola",
+      "_key": "6e74f466a9dcdb38"
+    },
+    {
+      "title": "Terça-feira, 24 de Março, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9a708bc117d6af"
+    },
+    {
+      "title": "Destaque Chefe de Estado felicita Forças Armadas Angolanas pelo Dia da Libertação da África Austral O Chefe de Estado, João Lourenço, felicitou, hoje, as Forças Armadas Angolanas, que com elevado sentido de patriotismo e profunda reverência mantêm a chama acesa do dia 23 de Março de 1988, consagrado como o Dia da Libertação da África Austral, uma data de inestimável significado histórico para os povos da região.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672213/chefe-de-estado-felicita-for%C3%A7as-armadas-angolanas-pelo-dia-da-liberta%C3%A7%C3%A3o-da-%C3%A1frica-austral-",
+      "source": "Jornal de Angola",
+      "_key": "877710e41c8e9a81"
+    },
+    {
+      "title": "Destaque Analisado reforço da cooperação entre Angola e Suíça O reforço da cooperação entre Angola e Suíça foi analisado, esta segunda-feira, em Luanda, durante um encontro de trabalho entre o ministro das Relações Exteriores, Téte António, e o homólogo helvético, Ignazio Cassis. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672203/analisado-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-entre-angola-e-su%C3%AD%C3%A7a-",
+      "source": "Jornal de Angola",
+      "_key": "eeaed5af5962ba31"
+    },
+    {
+      "title": "Destaque Executivo disponibiliza 97 milhões de dólares para perímetros irrigados no BiéO Ministério da Agricultura disponibilizou 97 milhões de dólares norte-americanos para a construção de perímetros irrigados nas localidades de Sande e Missene, no município de Catabola, província do Bié. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672202/executivo-disponibiliza-97-milh%C3%B5es-de-d%C3%B3lares-para-per%C3%ADmetros-irrigados-no-bi%C3%A9",
+      "source": "Jornal de Angola",
+      "_key": "8deadf4b7e741b68"
+    },
+    {
+      "title": "Destaque Vera Daves inicia visita oficial à República Popular da ChinaA ministra das Finanças, Vera Daves, iniciou, esta segunda-feira, uma visita oficial de cinco dias à República Popular da China para reforçar a cooperação económica e os excelentes laços existentes. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672216/vera-daves-inicia-visita-oficial-%C3%A0-rep%C3%BAblica-popular-da-china",
+      "source": "Jornal de Angola",
+      "_key": "f457c050e90a89cf"
+    },
+    {
+      "title": "Destaque Florbela Araújo: \"Provedores de Justiça ocupam hoje lugar incontornável na arquitectura institucional do Estado de Direito\"\"As instituições dos Provedores de Justiça ocupam hoje um lugar incontornável na arquitectura institucional do Estado Democrático e de Direito\", declarou, esta segunda-feira, a Provedora de Justiça, Florbela Araújo, na África do Sul. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672215/florbela-ara%C3%BAjo:-%22provedores-de-justi%C3%A7a-ocupam-hoje-lugar-incontorn%C3%A1vel-na-arquitectura-institucional-do-estado-de-direito%22",
+      "source": "Jornal de Angola",
+      "_key": "dec942070ede9536"
+    },
+    {
+      "title": "Política Balbina da Silva destaca bravura das Forças Armadas Angolanas na Batalha do Cuito Cuanavale ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672218/balbina-da-silva-destaca-bravura-das-for%C3%A7as-armadas-angolanas-na-batalha-do-cuito-cuanavale",
+      "source": "Jornal de Angola",
+      "_key": "2d9bde0c5601ce27"
+    },
+    {
+      "title": "Política Angola reforça cooperação com República Democrática do Congo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672214/angola-refor%C3%A7a-coopera%C3%A7%C3%A3o-com-rep%C3%BAblica-democr%C3%A1tica-do-congo",
+      "source": "Jornal de Angola",
+      "_key": "db718ffa5396459b"
+    },
+    {
+      "title": "Cultura Coral mensageiras de Cristo assinala 28 anos com louvores e adoração ao Senhor ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/672211/coral-mensageiras-de-cristo-assinala-28-anos-com-louvores-e-adora%C3%A7%C3%A3o-ao-senhor",
+      "source": "Jornal de Angola",
+      "_key": "2b11c4c1af48ac8e"
+    },
+    {
+      "title": "Regiões Juventude angolana chamada a preservar memória da histórica batalha do Cuito Cuanavale ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672209/juventude-angolana-chamada-a-preservar-mem%C3%B3ria-da-hist%C3%B3rica-batalha-do-cuito-cuanavale-",
+      "source": "Jornal de Angola",
+      "_key": "2217061212105428"
+    },
+    {
+      "title": "Política Discurso na íntegra do Presidente da SADC por ocasião do Dia da Libertação da África Austral ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672208/discurso-na-%C3%ADntegra-do-presidente-da-sadc-por-ocasi%C3%A3o-do-dia-da-liberta%C3%A7%C3%A3o-da-%C3%A1frica-austral",
+      "source": "Jornal de Angola",
+      "_key": "d8bf655c9e080d07"
+    },
+    {
+      "title": "Mundo Trump anuncia progressos nas conversações mantidas com Irão ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672207/trump-anuncia-progressos-nas-conversa%C3%A7%C3%B5es-mantidas-com-ir%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "faab16087f8fe354"
+    },
+    {
+      "title": "Cultura Mito Gaspar e Gingas do Maculusso animam Malanje em concerto intimista ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/672206/mito-gaspar-e-gingas-do-maculusso-animam-malanje-em-concerto-intimista--",
+      "source": "Jornal de Angola",
+      "_key": "e02a70cbdbe36699"
+    },
+    {
+      "title": " Câmara de Comércio Angola-Brasil presta homenagem a Libertação da África Austral ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/672205/c%C3%A2mara-de-com%C3%A9rcio-angola-brasil-presta-homenagem-a-liberta%C3%A7%C3%A3o-da-%C3%A1frica-austral",
+      "source": "Jornal de Angola",
+      "_key": "52235d19358f13f4"
+    },
+    {
+      "title": "Política Universidade Independente recebe grande palestra sobre diplomacia angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672204/universidade-independente-recebe-grande-palestra-sobre-diplomacia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "22f9255dc4d46382"
+    },
+    {
+      "title": "Mundo Israel contabiliza mais de 400 mísseis iranianos desde o início da guerra ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672194/israel-contabiliza-mais--de-400-m%C3%ADsseis-iranianos--desde-o-in%C3%ADcio-da-guerra",
+      "source": "Jornal de Angola",
+      "_key": "a4186e47e5ee24ea"
+    },
+    {
+      "title": "16:47 / 23 mar. 2026 MPLA no Icolo e Bengo defende necessidade de reflexão interna sobre funcionamento do Comité Provincial ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672210/mpla-no-icolo-e-bengo-defende-necessidade-de-reflex%C3%A3o-interna-sobre-funcionamento-do-comit%C3%A9-provincial",
+      "source": "Jornal de Angola",
+      "_key": "47d6677af52aecd9"
+    },
+    {
+      "title": "Mundo23/03/2026Madagáscar: Ministros são escolhidos após teste de polígrafo ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672200/madag%C3%A1scar:-ministros-s%C3%A3o-escolhidos-ap%C3%B3s-teste-de-pol%C3%ADgrafo-",
+      "source": "Jornal de Angola",
+      "_key": "4cebc5f30a495127"
+    },
+    {
+      "title": "Mundo23/03/2026Sul-africanos desfilam na defesa da soberania",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672199/sul-africanos-desfilam-na-defesa-da-soberania",
+      "source": "Jornal de Angola",
+      "_key": "5cb03613c9e16e8f"
+    },
+    {
+      "title": "Mundo23/03/2026 Bolsonaro recupera regalias inerentes ao estatuto de ex-Presidente da República",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672197/--bolsonaro-recupera-regalias-inerentes-ao-estatuto-de-ex-presidente-da-rep%C3%BAblica",
+      "source": "Jornal de Angola",
+      "_key": "f6ad2ce64a7d32be"
+    },
+    {
+      "title": "Mundo23/03/2026Cheias e inundações afectam 64 estabelecimentos hoteleiros",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672195/cheias-e-inunda%C3%A7%C3%B5es-afectam-64-estabelecimentos-hoteleiros",
+      "source": "Jornal de Angola",
+      "_key": "cc104b9259d05659"
+    },
+    {
+      "title": "No Zaire: Bandidos assaltam residência de um cidadão de 40 anos de idade dispararam contra a coxa da vítima e cortam o calcanhar com catana Acusado do crime de furto na obra do comandante - Efectivo do Ministério do Interior alega demissão injusta e pede reintegração Município de Belas - Continua em parte incerta menor de 02 anos raptado na porta de casa em Dezembro de 2025 Estudantes angolanos denunciam rejeição massiva de vistos para o Brasil e temem perder bolsas de estudo Chama-se \"Di-Maria\"",
+      "url": "https://namiradocrime.info/show/16254",
+      "source": "Na Mira do Crime",
+      "_key": "3925e873a266cc3f"
+    },
+    {
+      "title": " Acusado do crime de furto na obra do comandante - Efectivo do Ministério do Interior alega demissão injusta e pede reintegração    Um agente de 1.ª Classe do Ministério do Interior, colocado no Comando Provincial de Cabinda, denunciou ao jornal Na Mira do Crime ter sido demitido injustamente, alegando perseguição, detenção e priva&cc...               ",
+      "url": "https://namiradocrime.info/show/16253",
+      "source": "Na Mira do Crime",
+      "_key": "92a63af063549f77"
+    },
+    {
+      "title": " Município de Belas - Continua em parte incerta menor de 02 anos raptado na porta de casa em Dezembro de 2025    O paradeiro de um menor de 02 anos, identificado por Carlos Alemão, raptado à porta da sua casa, no bairro Mundial, município de Belas, no dia 11 de Dezembro do ano passado, continua a ser um mistério, pois, até ago...               ",
+      "url": "https://namiradocrime.info/show/16252",
+      "source": "Na Mira do Crime",
+      "_key": "948968266281165c"
+    },
+    {
+      "title": " Estudantes angolanos denunciam rejeição massiva de vistos para o Brasil e temem perder bolsas de estudo    Mais de 100 estudantes angolanos beneficiados com bolsas de estudo para a República Federativa do Brasil denunciam a negação massiva de vistos de estudante, sem qualquer explicação, por parte das autoridades consula...               ",
+      "url": "https://namiradocrime.info/show/16251",
+      "source": "Na Mira do Crime",
+      "_key": "d38b09aeca2b2702"
+    },
+    {
+      "title": " Chama-se \"Di-Maria\"- Violador de uma jovem de 18 anos de idade detido pelo DIIP no Bengo    O Departamento de Investigação de Ilícitos Penais (DIIP) na província do Bengo, deteve, esta segunda-feira, o cidadão Assurreira Mubau Capemba \"Di-Maria\", solteiro de 19 anos de idade, pelo seu envolviment...                           jQuery(window).on(\"load\", function () { jQuery(\".flexslider203\").flexslider({ animation: \"fade\", controlNav: \"thumbnails\", directionNav: true, slideshow: true, slideshowSpe",
+      "url": "https://namiradocrime.info/show/16250",
+      "source": "Na Mira do Crime",
+      "_key": "a57a02222970bd32"
+    },
+    {
+      "title": "  Ler Mais",
+      "url": "https://namiradocrime.info/show/16249",
+      "source": "Na Mira do Crime",
+      "_key": "c15d22cff094a766"
+    },
+    {
+      "title": "Discussão por causa de caporroto termina em morte no Bié",
+      "url": "https://namiradocrime.info/show/16247",
+      "source": "Na Mira do Crime",
+      "_key": "4ef33ed3dc79339a"
+    },
+    {
+      "title": "SIC-Luanda captura bandido \"K2\" por furto de mais de 14 placas electrónicas de viaturas no Sambizanga   24-Mar-2026  Hits:10 By admin      ",
+      "url": "https://namiradocrime.info/show/16248",
+      "source": "Na Mira do Crime",
+      "_key": "646b41de56a4e268"
+    },
+    {
+      "title": "\"Dia da Libertação da África Austral\": Executivo condecora...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/dia-da-libertacao-da-africa-austral-executivo-condecora-as-tres-primeiras-geracoes-da-pn-com-medalhas-de-ordem-publica-e-de-servico-70628.html",
+      "source": "Novo Jornal",
+      "_key": "28f56425605ff3a3"
+    },
+    {
+      "title": "Angola e Suíça reforçam cooperação nos projectos de desenvolvimento económico, político e social",
+      "url": "https://www.opais.ao/politica/angola-e-suica-reforcam-cooperacao-nos-projectos-de-desenvolvimento-economico-politico-e-social/",
+      "source": "O País",
+      "_key": "25c5b17191f5ab9b"
+    },
+    {
+      "title": "MINJUD garante ter cumprido as normas para a realização do clássico 91 no 11 de Novembro",
+      "url": "https://www.opais.ao/desporto/minjud-garante-ter-cumprido-as-normas-para-a-realizacao-do-classico-91-no-11-de-novembro/",
+      "source": "O País",
+      "_key": "c2f843f886e207e9"
+    },
+    {
+      "title": "Igreja católica e Polícia Nacional em Benguela adoptam medidas de segurança rodoviária em preparação para a visita papal",
+      "url": "https://www.opais.ao/sociedade/igreja-catolica-e-policia-nacional-em-benguela-adoptam-medidas-de-seguranca-rodoviaria-em-preparacao-para-a-visita-papal/",
+      "source": "O País",
+      "_key": "fa8e9c087a9727e8"
+    },
+    {
+      "title": "Camama regista mais de 1.300 mordeduras e reforça combate a animais vadios",
+      "url": "https://www.opais.ao/sociedade/camama-regista-mais-de-1-300-mordeduras-e-reforca-combate-a-animais-vadios/",
+      "source": "O País",
+      "_key": "9b0cbb9ad3707f4d"
+    },
+    {
+      "title": "SIC apresenta amanhã cidadão implicado no roubo de placas electrónicas de viaturas",
+      "url": "https://www.opais.ao/sociedade/sic-apresenta-amanha-cidadao-implicado-no-roubo-de-placas-electronicas-de-viaturas/",
+      "source": "O País",
+      "_key": "597566100a9987d9"
+    },
+    {
+      "title": "Tribunal marca para hoje início de julgamento dos russos acusados de terrorismo",
+      "url": "https://www.opais.ao/sociedade/tribunal-marca-para-hoje-inicio-de-julgamento-dos-russos-acusados-de-terrorismo/",
+      "source": "O País",
+      "_key": "425b026ae682cb20"
+    },
+    {
+      "title": "Ministro da defesa defende maior transmissão da história do 23 de Março às novas gerações",
+      "url": "https://www.opais.ao/politica/https-www-opais-ao-politica-ministro-da-defesa-defende-maior-transmissao-da-historia-do-23-de-marco-as-novas-geracoes/",
+      "source": "O País",
+      "_key": "0d1298777c843e02"
+    },
+    {
+      "title": "João Lourenço trabalha amanhã na Vila da Muxima",
+      "url": "https://www.opais.ao/politica/joao-lourenco-trabalha-amanha-na-vila-da-muxima/",
+      "source": "O País",
+      "_key": "02481d1a1318a459"
+    },
+    {
+      "title": "Detido jovem de 19 anos suspeito de homicídio no Prenda",
+      "url": "https://www.opais.ao/sociedade/detido-jovem-de-19-anos-suspeito-de-homicidio-no-prenda/",
+      "source": "O País",
+      "_key": "44c8e03a54459b14"
+    },
+    {
+      "title": "PR João Lourenço destaca legado da Batalha do Cuito Cuanavale na libertação da África Austral",
+      "url": "https://www.opais.ao/politica/pr-joao-lourenco-destaca-legado-da-batalha-do-cuito-cuanavale-na-libertacao-da-africa-austral/",
+      "source": "O País",
+      "_key": "e763df859e022dad"
+    },
+    {
+      "title": "Luanda acolhe Fórum Internacional de Processo Penal a 31 de Março",
+      "url": "https://www.opais.ao/politica/luanda-acolhe-forum-internacional-de-processo-penal-a-31-de-marco/",
+      "source": "O País",
+      "_key": "29c61bbbaa07a296"
+    },
+    {
+      "title": "Suíça manifesta interesse em ampliar investimentos e parcerias com Angola",
+      "url": "https://www.opais.ao/politica/suica-manifesta-interesse-em-ampliar-investimentos-e-parcerias-com-angola/",
+      "source": "O País",
+      "_key": "f19ea0dfbb163454"
+    },
+    {
+      "title": "Colisão entre avião e viatura de bombeiros em Nova Iorque deixa dois mortos e dezenas de feridos",
+      "url": "https://www.opais.ao/mundo/colisao-entre-aviao-e-viatura-de-bombeiros-em-nova-iorque-deixa-dois-mortos-e-dezenas-de-feridos/",
+      "source": "O País",
+      "_key": "9a2946c8aa1b2ebe"
+    },
+    {
+      "title": "Apóstola Ernestina Matias é a nova conselheira anciã da Ordem de Pastores de Angola",
+      "url": "https://www.opais.ao/sociedade/apostola-ernestina-matias-e-a-nova-conselheira-ancia-da-ordem-de-pastores-de-angola/",
+      "source": "O País",
+      "_key": "7bb70e801ec701e4"
+    },
+    {
+      "title": "Franco Mufinda defende preservação do legado da Batalha do Cuito Cuanavale",
+      "url": "https://www.opais.ao/politica/franco-mufinda-defende-preservacao-do-legado-da-batalha-do-cuito-cuanavale/",
+      "source": "O País",
+      "_key": "52e4eee25bd89d56"
+    },
+    {
+      "title": "Executivo reforça compromisso com a promoção da coesão social e da cultura de paz",
+      "url": "https://www.opais.ao/politica/executivo-reforca-compromisso-com-a-promocao-da-coesao-social-e-da-cultura-de-paz/",
+      "source": "O País",
+      "_key": "0232169eba600dd3"
+    },
+    {
+      "title": "Primeiro-ministro chinês afirma compromisso do país com aumento das importações",
+      "url": "https://www.opais.ao/mundo/primeiro-ministro-chines-afirma-compromisso-do-pais-com-aumento-das-importacoes/",
+      "source": "O País",
+      "_key": "53f704eee196ac4c"
+    },
+    {
+      "title": "Ucrânia: Casa Branca considera “construtivas” reuniões para preparar negociações com a Rússia",
+      "url": "https://www.opais.ao/mundo/ucrania-casa-branca-considera-construtivas-reunioes-para-preparar-negociacoes-com-a-russia/",
+      "source": "O País",
+      "_key": "c6c73889b9ca2349"
+    },
+    {
+      "title": "Projecto Banketu na Muvema capacita mulheres em matériade dança afro-contemporânea e artes performativas",
+      "url": "https://www.opais.ao/cultura/projecto-banketu-na-muvema-capacita-mulheres-em-materiade-danca-afro-contemporanea-e-artes-performativas/",
+      "source": "O País",
+      "_key": "cb6c423c72f7153a"
+    },
+    {
+      "title": "Batalha de Spoken Word reforça resgate das raízes culturais no Bailundo",
+      "url": "https://www.opais.ao/cultura/batalha-de-spoken-word-reforca-resgate-das-raizes-culturais-no-bailundo/",
+      "source": "O País",
+      "_key": "4f03303c39d3064d"
+    },
+    {
+      "title": "Ministro da Cultura e intervenientes do teatro discutem sobrevivência das artes cénicas no país e o desafio das infra-estruturas",
+      "url": "https://www.opais.ao/cultura/ministro-da-cultura-e-intervenientes-do-teatro-discutem-sobrevivencia-das-artes-cenicas-no-pais-e-o-desafio-das-infra-estruturas/",
+      "source": "O País",
+      "_key": "747e36dd2657069b"
+    },
+    {
+      "title": "Fernando Chioca vence corrida dos 10 km no Lobito",
+      "url": "https://www.opais.ao/desporto/fernando-chioca-vence-corrida-dos-10-km-no-lobito/",
+      "source": "O País",
+      "_key": "094f8c25f4556845"
+    },
+    {
+      "title": "Edgar Leandro participa em encontro estratégico de preparação para o TAFISA World Congress 2027",
+      "url": "https://www.opais.ao/desporto/edgar-leandro-participa-em-encontro-estrategico-de-preparacao-para-o-tafisa-world-congress-2027/",
+      "source": "O País",
+      "_key": "f92f2c7b1ec4db2b"
+    },
+    {
+      "title": "Académica e Luanda City repartem pontos no Buraco",
+      "url": "https://www.opais.ao/desporto/academica-e-luanda-city-repartem-pontos-no-buraco/",
+      "source": "O País",
+      "_key": "02bf501b62a8c29e"
+    },
+    {
+      "title": "Wiliete bate Desportivo e ascende ao segundo lugar da Liga Unitel Girabola 2025/2026",
+      "url": "https://www.opais.ao/desporto/wiliete-bate-desportivo-e-ascende-ao-segundo-lugar-da-liga-unitel-girabola-2025-2026/",
+      "source": "O País",
+      "_key": "2ebfb07da8d3677e"
+    },
+    {
+      "title": "Trump ‘agita’ mercados com anúncio de negociações, Irão nega acordos...",
+      "url": "https://valoreconomico.co.ao/artigo/trump-agita-mercados-com-anuncio-de-negociacoes-irao-nega-acordos-e-fala-em-manobras-para-influenciar-os-precos",
+      "source": "Valor Económico",
+      "_key": "00f68fc55eea0401"
+    },
+    {
+      "title": "Switzerland aims to strengthen economic cooperation with Angola and increase private investment",
+      "url": "https://www.verangola.net/va/en/032026/Politics/48165/Switzerland-aims-to-strengthen-economic-cooperation-with-Angola-and-increase-private-investment.htm",
+      "source": "Ver Angola",
+      "_key": "8f910fd3932fd637"
+    },
+    {
+      "title": "President asks Switzerland to comply with court ruling and return Angolan money",
+      "url": "https://www.verangola.net/va/en/102025/Politics/46331/President-asks-Switzerland-to-comply-with-court-ruling-and-return-Angolan-money.htm",
+      "source": "Ver Angola",
+      "_key": "4f46911c7e45656c"
+    },
+    {
+      "title": "Construction of irrigated perimeters begins in Bié. The project will cost more than 97 million",
+      "url": "https://www.verangola.net/va/en/032026/Environment/48166/Construction-of-irrigated-perimeters-begins-in-Bié-The-project-will-cost-more-than-97-million.htm",
+      "source": "Ver Angola",
+      "_key": "e433fb86d6da3692"
+    },
+    {
+      "title": "Athletics: Angolan sprinter makes history in Poland and breaks national record",
+      "url": "https://www.verangola.net/va/en/032026/Sports/48159/Athletics-Angolan-sprinter-makes-history-in-Poland-and-breaks-national-record.htm",
+      "source": "Ver Angola",
+      "_key": "094d5bdeb892690b"
+    },
+    {
+      "title": "The country celebrates the 38th anniversary of Southern Africa Liberation Day",
+      "url": "https://www.verangola.net/va/en/032026/Politics/48167/The-country-celebrates-the-38th-anniversary-of-Southern-Africa-Liberation-Day.htm",
+      "source": "Ver Angola",
+      "_key": "2b1b09d044f8fdf7"
+    },
+    {
+      "title": "Quadruplets born at Azancot de Menezes Hospital. Mother gave birth to four boys",
+      "url": "https://www.verangola.net/va/en/032026/Health/48158/Quadruplets-born-at-Azancot-de-Menezes-Hospital-Mother-gave-birth-to-four-boys.htm",
+      "source": "Ver Angola",
+      "_key": "c29c0b07eb98c7b7"
+    },
+    {
+      "title": "Workshop “Competitiveness of the Angolan Mining Sector in a Global Context”",
+      "url": "https://www.verangola.net/va/en/032026/Events/48160/Workshop-“Competitiveness-of-the-Angolan-Mining-Sector-in-a-Global-Context”-Conferences-Education.htm",
+      "source": "Ver Angola",
+      "_key": "22690ad8592d3c84"
+    },
+    {
+      "title": "Education",
+      "url": "https://www.verangola.net/va/en/032026/Events/?tpid=192",
+      "source": "Ver Angola",
+      "_key": "30a8c84f70134f43"
     }
   ]
 }
