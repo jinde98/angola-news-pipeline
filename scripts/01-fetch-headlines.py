@@ -10,13 +10,21 @@ import tempfile
 sys.path.insert(0, os.path.dirname(__file__))
 from utils import load_config, get_run_dir, write_current_run, now_iso
 
-# 模拟真实浏览器的 User-Agent 和请求头
+# 模拟真实 Chrome 浏览器的请求头（2025 年版本）
 CURL_HEADERS = [
-    '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    '-H', 'Accept-Language: pt-PT,pt;q=0.9,en;q=0.8',
+    '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+    '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    '-H', 'Accept-Language: pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7',
     '-H', 'Accept-Encoding: gzip, deflate, br',
     '-H', 'Connection: keep-alive',
+    '-H', 'Sec-Ch-Ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+    '-H', 'Sec-Ch-Ua-Mobile: ?0',
+    '-H', 'Sec-Ch-Ua-Platform: "Windows"',
+    '-H', 'Sec-Fetch-Dest: document',
+    '-H', 'Sec-Fetch-Mode: navigate',
+    '-H', 'Sec-Fetch-Site: none',
+    '-H', 'Sec-Fetch-User: ?1',
+    '-H', 'Upgrade-Insecure-Requests: 1',
 ]
 
 
@@ -36,8 +44,11 @@ def fetch_via_curl(url, timeout=30):
 
 
 def _ab_bin():
-    """找到 agent-browser 本地原生二进制，比 npx 快（无 npm 启动开销）"""
+    """找到 agent-browser 可执行路径，返回命令列表"""
     import glob as _glob
+    import shutil
+
+    # 1. 本地 npx 缓存的原生二进制（最快）
     patterns = [
         os.path.expanduser('~/.npm/_npx/*/node_modules/agent-browser/bin/agent-browser-linux-x64'),
         os.path.expanduser('~/.npm/_npx/*/node_modules/agent-browser/bin/agent-browser-linux-arm64'),
@@ -45,8 +56,19 @@ def _ab_bin():
     for pat in patterns:
         matches = _glob.glob(pat)
         if matches:
-            return matches[0]
-    return 'npx agent-browser'  # fallback
+            return [matches[0]]
+
+    # 2. 全局安装的 agent-browser（GitHub Actions: npm install -g）
+    ab_path = shutil.which('agent-browser')
+    if ab_path:
+        return [ab_path]
+
+    # 3. npx 启动（最慢但最通用）
+    npx_path = shutil.which('npx')
+    if npx_path:
+        return [npx_path, 'agent-browser']
+
+    return ['npx', 'agent-browser']
 
 
 def fetch_via_browser(url, timeout=120):
@@ -54,13 +76,13 @@ def fetch_via_browser(url, timeout=120):
 
     使用默认 session（共享 daemon），设置 60s 超时（默认 25s 太短）。
     """
-    ab = _ab_bin()
+    ab_cmd = _ab_bin()
     env = os.environ.copy()
     env['AGENT_BROWSER_DEFAULT_TIMEOUT'] = '60000'
 
     def run_ab(*args, input_text=None, t=75):
         return subprocess.run(
-            [ab] + list(args),
+            ab_cmd + list(args),
             capture_output=True, text=True, timeout=t,
             env=env, input=input_text
         )

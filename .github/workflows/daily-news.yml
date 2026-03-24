@@ -31,8 +31,10 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install agent-browser
-        run: npm install -g agent-browser
+      - name: Install agent-browser and Playwright
+        run: |
+          npm install -g agent-browser
+          npx playwright install --with-deps chromium
 
       - name: Configure environment
         run: |
