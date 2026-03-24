@@ -2,7 +2,7 @@ name: Daily Angola News Pipeline
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Every day at 08:00 UTC
+    - cron: '0 8,9,10,11,12,13,14 * * *'  # Every day at 08:00-14:00 UTC
   workflow_dispatch:      # Allow manual trigger
 
 permissions:
