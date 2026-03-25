@@ -1,56 +1,70 @@
 {
   "date": "2026-03-25",
-  "total_new": 23,
-  "total_filtered": 7,
+  "total_new": 30,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola: alta do petróleo, bênção fiscal ou perigo económico?",
-      "url": "https://correiokianda.info/angola-alta-do-petroleo-bencao-fiscal-ou-perigo-economico/",
-      "source": "Correio Kianda",
-      "_key": "8d46f25d00173c7b",
-      "score": 9
-    },
-    {
-      "title": "Angola emite mais 2.500 milhões USD em Eurobonds",
-      "url": "https://expansao.co.ao/economia/detalhe/angola-emite-mais-2500-milhoes-usd-em-eurobonds-70672.html",
-      "source": "Expansão",
-      "_key": "61daf211d5bbfa55",
-      "score": 7
-    },
-    {
-      "title": "Angola mobiliza mais de USD 2 mil milhões para reforçar implementação do OGE 2026",
-      "url": "https://www.opais.ao/politica/angola-mobiliza-mais-de-usd-2-mil-milhoes-para-reforcar-implementacao-do-oge-2026/",
-      "source": "O País",
-      "_key": "369ce1528ee2fd6f",
-      "score": 7
-    },
-    {
-      "title": "Annual Development Plan foresees economic growth",
-      "url": "https://www.angop.ao/en/noticias/politica/padn-2026-preve-crescimento-economico-e-reducao-da-inflacao/",
+      "title": "Port of Lobito invests in human resources training",
+      "url": "https://www.angop.ao/en/noticias/economia/porto-do-lobito-aposta-na-formacao-dos-recursos-humanos/",
       "source": "ANGOP",
-      "_key": "c02810d0381fe02c",
-      "score": 6
+      "_key": "0ad0e00f6aa68621",
+      "score": 8
     },
     {
-      "title": "Milho expõe contradições e dependência externa",
-      "url": "https://valoreconomico.co.ao/artigo/milho-expoe-contradicoes-e-dependencia-externa",
+      "title": "O ataque ao “Sonangol Namibe” e os desafios emergentes da...",
+      "url": "https://valoreconomico.co.ao/artigo/o-ataque-ao-sonangol-namibe-e-os-desafios-emergentes-da-diplomacia-petrolifera-angolana",
       "source": "Valor Económico",
-      "_key": "abc10e22289ea9ea",
+      "_key": "1aa4a4b4ab03a982",
+      "score": 8
+    },
+    {
+      "title": "Angola raises USD 2.5bln in international markets",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-mobiliza-2-5-mil-milhoes-de-dolares-em-condicoes-favoraveis-no-mercado-internacional/",
+      "source": "ANGOP",
+      "_key": "7d91f9134d791a11",
+      "score": 7
+    },
+    {
+      "title": "Executivo angolano mobiliza 2,5 mil milhões de dólares...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/executivo-angolano-mobiliza-25-mil-milhoes-de-dolares-norte-americanos-nos-mercados-financeiros-internacionais-70675.html",
+      "source": "Novo Jornal",
+      "_key": "1802a7bc4c8cb22e",
+      "score": 7
+    },
+    {
+      "title": "Angola warns of impact of maritime crime on blue economy",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-alerta-para-impacto-dos-crimes-maritimos-na-economia-azul/",
+      "source": "ANGOP",
+      "_key": "c00f4e9e78be2b4d",
       "score": 6
     },
     {
-      "title": "Diplomacy plays a crucial role in economic development",
-      "url": "https://www.angop.ao/en/noticias/politica/diplomacia-angolana-desempenha-um-papel-primordial-no-desenvolvimento-economico/",
-      "source": "ANGOP",
-      "_key": "72a42e219febbcc5",
+      "title": "União Europeia “injecta” 50 milhões de euros para implementação do Projecto AGRINVEST",
+      "url": "https://www.opais.ao/economia/uniao-europeia-injecta-50-milhoes-de-euros-para-implementacao-do-projecto-agrinvest/",
+      "source": "O País",
+      "_key": "6ca6ce007de31e20",
+      "score": 6
+    },
+    {
+      "title": "Ministro da Energia e Águas visita Empresa de Pesquisa Energética no Brasil",
+      "url": "https://www.opais.ao/politica/ministro-da-energia-e-aguas-visita-empresa-de-pesquisa-energetica-no-brasil/",
+      "source": "O País",
+      "_key": "9a8329bbbb82dc60",
+      "score": 6
+    },
+    {
+      "title": "Especialista defende “recriação urgente do plano director do agro-negócio em Angola”",
+      "url": "https://correiokianda.info/especialista-defende-recriacao-urgente-do-plano-director-do-agro-negocio-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "f928e19b1c7405ed",
       "score": 5
     },
     {
-      "title": "EUA, Israel, Venezuela, Irão, Mundo e Angola: Quando os interesses falam mais alto do que os direitos humanos",
-      "url": "https://www.opais.ao/opiniao/eua-israel-venezuela-irao-mundo-e-angola-quando-os-interesses-falam-mais-alto-do-que-os-direitos-humanos/",
-      "source": "O País",
-      "_key": "38c0671cb48c2d82",
+      "title": "Bancos mantêm-se distantes da excelência na avaliação da qualidade pelo...",
+      "url": "https://valoreconomico.co.ao/artigo/bancos-mantem-se-distantes-da-excelencia-na-avaliacao-da-qualidade-pelo-bna",
+      "source": "Valor Económico",
+      "_key": "b655686fd8e5b27f",
       "score": 5
     }
   ]
