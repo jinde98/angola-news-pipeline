@@ -1,22 +1,57 @@
 {
   "date": "2026-03-25",
-  "total_new": 13,
-  "total_filtered": 2,
+  "total_new": 23,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Luanda: Ex-presidiários associam-se e criam gang que...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-ex-presidiarios-associam-se-e-criam-gang-que-ja-matou-cinco-pessoas-em-assaltos-tres-foram-detidos-mas-ha-sete-que-estao-em-fuga-70670.html",
-      "source": "Novo Jornal",
-      "_key": "6a3fc64e83594393",
+      "title": "Angola: alta do petróleo, bênção fiscal ou perigo económico?",
+      "url": "https://correiokianda.info/angola-alta-do-petroleo-bencao-fiscal-ou-perigo-economico/",
+      "source": "Correio Kianda",
+      "_key": "8d46f25d00173c7b",
+      "score": 9
+    },
+    {
+      "title": "Angola emite mais 2.500 milhões USD em Eurobonds",
+      "url": "https://expansao.co.ao/economia/detalhe/angola-emite-mais-2500-milhoes-usd-em-eurobonds-70672.html",
+      "source": "Expansão",
+      "_key": "61daf211d5bbfa55",
       "score": 7
     },
     {
-      "title": "Minister calls for greater engagement in wheat cultivation",
-      "url": "https://www.angop.ao/en/noticias/agricultura/ministro-quer-maior-engajamento-no-cultivo-do-trigo/",
+      "title": "Angola mobiliza mais de USD 2 mil milhões para reforçar implementação do OGE 2026",
+      "url": "https://www.opais.ao/politica/angola-mobiliza-mais-de-usd-2-mil-milhoes-para-reforcar-implementacao-do-oge-2026/",
+      "source": "O País",
+      "_key": "369ce1528ee2fd6f",
+      "score": 7
+    },
+    {
+      "title": "Annual Development Plan foresees economic growth",
+      "url": "https://www.angop.ao/en/noticias/politica/padn-2026-preve-crescimento-economico-e-reducao-da-inflacao/",
       "source": "ANGOP",
-      "_key": "d0cb4addbab12dd4",
+      "_key": "c02810d0381fe02c",
       "score": 6
+    },
+    {
+      "title": "Milho expõe contradições e dependência externa",
+      "url": "https://valoreconomico.co.ao/artigo/milho-expoe-contradicoes-e-dependencia-externa",
+      "source": "Valor Económico",
+      "_key": "abc10e22289ea9ea",
+      "score": 6
+    },
+    {
+      "title": "Diplomacy plays a crucial role in economic development",
+      "url": "https://www.angop.ao/en/noticias/politica/diplomacia-angolana-desempenha-um-papel-primordial-no-desenvolvimento-economico/",
+      "source": "ANGOP",
+      "_key": "72a42e219febbcc5",
+      "score": 5
+    },
+    {
+      "title": "EUA, Israel, Venezuela, Irão, Mundo e Angola: Quando os interesses falam mais alto do que os direitos humanos",
+      "url": "https://www.opais.ao/opiniao/eua-israel-venezuela-irao-mundo-e-angola-quando-os-interesses-falam-mais-alto-do-que-os-direitos-humanos/",
+      "source": "O País",
+      "_key": "38c0671cb48c2d82",
+      "score": 5
     }
   ]
 }
