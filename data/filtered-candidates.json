@@ -1,35 +1,322 @@
 {
-  "date": "2026-03-24",
-  "total_new": 22,
-  "total_filtered": 4,
+  "date": "2026-03-25",
+  "total_new": 92,
+  "total_filtered": 45,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Investment in the Luanda Refinery Yet to Reduce Import Dependence",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9736",
-      "source": "Negócios de Angola",
-      "_key": "7974ffd4b23ff6c5",
+      "title": "Angolan Finance Minister in China to strengthen bilateral cooperation",
+      "url": "https://www.angop.ao/en/noticias/economia/ministra-das-financas-na-china-para-reforco-da-cooperacao-bilateral/",
+      "source": "ANGOP",
+      "_key": "401a7fdafac69a4c",
+      "score": 9
+    },
+    {
+      "title": "Port of Lobito aims to consolidate as regional infrastructure",
+      "url": "https://www.angop.ao/en/noticias/economia/porto-do-lobito-quer-consolidar-se-como-infra-estrutura-ao-servico-do-desenvolvimento-regional/",
+      "source": "ANGOP",
+      "_key": "c839afd4d042d6d9",
+      "score": 9
+    },
+    {
+      "title": "Entre Pequim e Hong Kong: Angola acelera ofensiva para captar dinheiro no mercado asiático",
+      "url": "https://angola24horas.com/economia/item/33993-entre-pequim-e-hong-kong-angola-acelera-ofensiva-para-captar-dinheiro-no-mercado-asiatico",
+      "source": "Angola 24 Horas",
+      "_key": "46a7dd27b58c7917",
+      "score": 9
+    },
+    {
+      "title": "Angola mira mercado de Hong Kong com plano de cooperação financeira e exploração de emissão de dívida",
+      "url": "https://expansao.co.ao/economia/detalhe/angola-mira-mercado-de-hong-kong-com-plano-de-cooperacao-financeira-e-exploracao-da-emissao-de-divida-70659.html",
+      "source": "Expansão",
+      "_key": "79d855bcc841c210",
+      "score": 9
+    },
+    {
+      "title": "Angola regressa à China à procura de financiamento e reforço...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-regressa-a-china-a-procura-de-financiamento-e-reforco-da-cooperacao",
+      "source": "Valor Económico",
+      "_key": "7c2729b5d9570305",
+      "score": 9
+    },
+    {
+      "title": "CHINA E O ‘TIMING’ SUSPEITO DO GOVERNO",
+      "url": "https://valoreconomico.co.ao/artigo/china-e-o-timing-suspeito-do-governo",
+      "source": "Valor Económico",
+      "_key": "b83c4f2833d8cef7",
+      "score": 9
+    },
+    {
+      "title": "União Europeia financia AGRINVEST com 50 milhões de euros para competitividade agrícola no Corredor do Lobito",
+      "url": "https://expansao.co.ao/economia/detalhe/uniao-europeia-financia-agrinvest-com-50-milhoes-de-euros-para-competitividade-agricola-no-corredor-do-lobito-70658.html",
+      "source": "Expansão",
+      "_key": "b376445c14940d91",
       "score": 8
     },
     {
-      "title": "Hospitais públicos podem deixar de ser totalmente gratuitos em Angola",
-      "url": "https://correiokianda.info/hospitais-publicos-podem-deixar-de-ser-totalmente-gratuitos-em-angola/",
+      "title": "\"O despachante é o advogado dos importadores e exportadores\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/o-despachante-e-o-advogado-dos-importadores-e-exportadores-70657.html",
+      "source": "Expansão",
+      "_key": "c983af85682bf63f",
+      "score": 8
+    },
+    {
+      "title": "Detida quadrilha que assassinou cinco pessoas nos últimos seis meses em Luanda",
+      "url": "https://www.opais.ao/sociedade/detida-quadrilha-que-assassinou-cinco-pessoas-nos-ultimos-seis-meses-em-luanda/",
+      "source": "O País",
+      "_key": "8fc8f76945c266ab",
+      "score": 8
+    },
+    {
+      "title": "AGT dispensa obrigatoriedade de apresentação do SAF-T e incentiva facturação electrónica",
+      "url": "https://www.opais.ao/economia/agt-dispensa-obrigatoriedade-de-apresentacao-do-saf-t-e-incentiva-facturacao-electronica/",
+      "source": "O País",
+      "_key": "cb7b4d074b310ea1",
+      "score": 8
+    },
+    {
+      "title": "Angola destina mais de 5 biliões de kwanzas a investimentos públicos estratégicos",
+      "url": "https://correiokianda.info/angola-destina-mais-de-5-bilioes-de-kwanzas-a-investimentos-publicos-estrategicos/",
       "source": "Correio Kianda",
-      "_key": "51b18bc2749f91db",
+      "_key": "fdbaaad16797cf33",
+      "score": 7
+    },
+    {
+      "title": "Conflito no Médio Oriente faz disparar preços e escasseia derivados de petróleo no Quénia",
+      "url": "https://correiokianda.info/166322-2/",
+      "source": "Correio Kianda",
+      "_key": "0453dc4a8abadedb",
+      "score": 7
+    },
+    {
+      "title": "Ormuz: entre a segurança energética e o risco de uma guerra sistémica",
+      "url": "https://correiokianda.info/ormuz-entre-a-seguranca-energetica-e-o-risco-de-uma-guerra-sistemica/",
+      "source": "Correio Kianda",
+      "_key": "cdb975d521ef66fd",
+      "score": 7
+    },
+    {
+      "title": "Despesas com sector económico de 2026 caíram em 20,50% se comparadas com OGE 2025",
+      "url": "https://www.opais.ao/economia/despesas-com-sector-economico-de-2026-cairam-em-2050-se-comparadas-com-oge-2025/",
+      "source": "O País",
+      "_key": "b90f36b190ec1826",
+      "score": 7
+    },
+    {
+      "title": "Efeitos da guerra prestes a atingirem a TAAG",
+      "url": "https://valoreconomico.co.ao/artigo/efeitos-da-guerra-prestes-a-atingirem-a-taag",
+      "source": "Valor Económico",
+      "_key": "52b4108540ca8627",
+      "score": 7
+    },
+    {
+      "title": "“A logística em Angola não pode ser pensada por políticos, mas...",
+      "url": "https://valoreconomico.co.ao/artigo/a-logistica-em-angola-nao-pode-ser-pensada-por-politicos-mas-por-tecnicos-com-experiencia-local-e-internacional",
+      "source": "Valor Económico",
+      "_key": "dd63286714102c7b",
+      "score": 7
+    },
+    {
+      "title": "Governo vai usar excedente para financiar OGE e reduzir empréstimos",
+      "url": "https://valoreconomico.co.ao/artigo/governo-vai-usar-excedente-para-financiar-oge-e-reduzir-emprestimos",
+      "source": "Valor Económico",
+      "_key": "74e45f30fb70dc3a",
+      "score": 7
+    },
+    {
+      "title": "Luanda Court begins trial of individuals accused of terrorism",
+      "url": "https://www.angop.ao/en/noticias/politica/tribunal-de-luanda-inicia-julgamento-de-cidadaos-acusados-de-terrorismo/",
+      "source": "ANGOP",
+      "_key": "d303a317c2420e93",
       "score": 6
     },
     {
-      "title": "Equity Group plans to acquire Angolan bank in 2026 after Ethiopia impasse24/03/2026",
-      "url": "https://www.negociosdeangola.com/en/equity-group-plans-to-acquire-angolan-bank-in-2026-after-ethiopia-impasse/",
-      "source": "Negócios de Angola",
-      "_key": "05958320b5e00e75",
+      "title": "Angola's National Bank aims to reduce interest rates in interbank market",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-quer-reducao-das-taxas-do-mercado-monetario-interbancario/",
+      "source": "ANGOP",
+      "_key": "bb5d8200be1ba59b",
       "score": 6
     },
     {
-      "title": "Linhas Áreas de Angola ambiciona reduzir prejuízo operacional de 123 milhões para 90 milhões USD este ano",
-      "url": "https://forbesafricalusofona.com/linhas-areas-de-angola-ambiciona-reduzir-prejuizo-operacional-de-123-milhoes-para-90-milhoes-usd-este-ano/",
+      "title": "Governo quer tributar economia informal e enfrenta contestação de taxistas e zungueiras",
+      "url": "https://angola24horas.com/sociedade/item/33997-governo-quer-tributar-economia-informal-e-enfrenta-contestacao-de-taxistas-e-zungueiras",
+      "source": "Angola 24 Horas",
+      "_key": "224d25f50cb0bdcd",
+      "score": 6
+    },
+    {
+      "title": "Cidadãos em Menongue pedem soluções antes de novos impostos",
+      "url": "https://correiokianda.info/cidadaos-em-menongue-pedem-solucoes-antes-de-novos-impostos/",
+      "source": "Correio Kianda",
+      "_key": "8c913316129791dd",
+      "score": 6
+    },
+    {
+      "title": "ANTT suspende veículos de 55 operadoras de transporte de passageiros",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e7fd956c896598",
+      "score": 6
+    },
+    {
+      "title": "Gastos com bens, serviços e obras dos ministérios 15 vezes superiores ao OGE 2026",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b8be58ca8a3a45",
+      "score": 6
+    },
+    {
+      "title": "ANTT suspende veículos de 55 operadoras de transporte de passageirosRegulador identificou a circulação de veículos afectos ao transporte rodoviário regular de passageiros com as licenças de exercício da actividade expiradas.",
+      "url": "https://expansao.co.ao/angola/detalhe/antt-suspende-veiculos-de-55-operadoras-de-transporte-de-passageiros-70656.html",
+      "source": "Expansão",
+      "_key": "6aca1f206e572b0d",
+      "score": 6
+    },
+    {
+      "title": "Destaque Diplomacia Económica Angolana em evidência durante palestra na Universidade IndependenteA diplomacia económica nacional foi evidenciada, esta terça-feira, durante uma palestra, em Luanda, pelo ministro das Relações Exteriores, Téte António, na Universidade Independente de Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672291/diplomacia-econ%C3%B3mica-angolana-em-evid%C3%AAncia-durante-palestra-na-universidade-independente",
+      "source": "Jornal de Angola",
+      "_key": "720e2ca1788c9fc3",
+      "score": 6
+    },
+    {
+      "title": "Lançada FIB 2026: Organização projecta feira “memorável” com volume de negócios acima de 500 milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/lancada-fib-2026-organizacao-projecta-feira-memoravel-com-volume-de-negocios-acima-de-500-milhoes-de-kwanzas/",
+      "source": "O País",
+      "_key": "c158e879b84a22ac",
+      "score": 6
+    },
+    {
+      "title": "Téte António destaca marcos e desafios da diplomacia angolana em palestra na Universidade Independente",
+      "url": "https://www.opais.ao/politica/tete-antonio-destaca-marcos-e-desafios-da-diplomacia-angolana-em-palestra-na-universidade-independente/",
+      "source": "O País",
+      "_key": "e92bfb737e521a17",
+      "score": 6
+    },
+    {
+      "title": "Ministério dos Transportes volta a testar controlo das finanças públicas",
+      "url": "https://valoreconomico.co.ao/artigo/ministerio-dos-transportes-volta-a-testar-controlo-das-financas-publicas",
+      "source": "Valor Económico",
+      "_key": "8f224673794ebf76",
+      "score": 6
+    },
+    {
+      "title": "CES alerta para agravamento da pobreza e destapa aumento da...",
+      "url": "https://valoreconomico.co.ao/artigo/ces-alerta-para-agravamento-da-pobreza-e-destapa-aumento-da-inseguranca-alimentar-em-16-8-em-cinco-anos",
+      "source": "Valor Económico",
+      "_key": "f2880200c2485e37",
+      "score": 6
+    },
+    {
+      "title": "Receita com multas supera previsão orçamental em 68%",
+      "url": "https://valoreconomico.co.ao/artigo/receita-com-multas-supera-previsao-orcamental-em-68",
+      "source": "Valor Económico",
+      "_key": "75b9a68521106c0f",
+      "score": 6
+    },
+    {
+      "title": "Angola and Brazil strengthen cooperation in electricity sector",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-brasil-reforcam-cooperacao-no-sector-da-energia-electrica-1/",
+      "source": "ANGOP",
+      "_key": "8addaa30827ba1b1",
+      "score": 5
+    },
+    {
+      "title": "Government strengthens road access to Muxima municipality",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-reforca-acessos-rodoviarios-a-muxima/",
+      "source": "ANGOP",
+      "_key": "126794ae6bee176f",
+      "score": 5
+    },
+    {
+      "title": "Zambia reaffirms interest in strengthening cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/zambia-reafirma-interesse-no-reforco-da-cooperacao-com-angola/",
+      "source": "ANGOP",
+      "_key": "8de8170e43fc45da",
+      "score": 5
+    },
+    {
+      "title": "Obras na Muxima aceleram com visita do Papa à vista",
+      "url": "https://correiokianda.info/obras-na-muxima-aceleram-com-visita-do-papa-a-vista/",
+      "source": "Correio Kianda",
+      "_key": "14cd1d377b0886ae",
+      "score": 5
+    },
+    {
+      "title": "Angola e UE assinam acordo de 50 milhões de euros para financiar cadeias agro-alimentares",
+      "url": "https://correiokianda.info/angola-e-ue-assinam-acordo-de-50-milhoes-de-euros-para-financiar-cadeias-agro-alimentares/",
+      "source": "Correio Kianda",
+      "_key": "46e22dc56a49defd",
+      "score": 5
+    },
+    {
+      "title": "Activistas reafirmam manifestação por alegados presos políticos",
+      "url": "https://correiokianda.info/activistas-reafirmam-manifestacao-por-alegados-presos-politicos/",
+      "source": "Correio Kianda",
+      "_key": "54d16e9d48c15683",
+      "score": 5
+    },
+    {
+      "title": "Presidente da República avalia obras na Muxima para visita do Papa Leão XIV",
+      "url": "https://ecosdohenda.info/presidente-da-republica-avalia-obras-na-muxima-para-visita-do-papa-leao-xiv/",
+      "source": "Ecos do Henda",
+      "_key": "21a34a3e4da6efa4",
+      "score": 5
+    },
+    {
+      "title": "Cimenfort estuda a saída do consórcio que ficou com cimenteira CIF no PROPRIV",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_763d7aba6333ed",
+      "score": 5
+    },
+    {
+      "title": "União Europeia reforça sector agrícola em Angola com doação de 50 milhões de euros",
+      "url": "https://forbesafricalusofona.com/uniao-europeia-reforca-sector-agricola-em-angola-com-doacao-de-50-milhoes-de-euros/",
       "source": "Forbes África",
-      "_key": "f47c37ef5979a9f3",
+      "_key": "b031cf9b4223a17e",
+      "score": 5
+    },
+    {
+      "title": "ANATA afasta taxistas de partidos políticos e pede diálogo com o Governo",
+      "url": "https://holdonangola.com/anata-afasta-taxistas-de-partidos-politicos-e-pede-dialogo-com-o-governo/",
+      "source": "Hold On Angola",
+      "_key": "8ecfe987cf60f456",
+      "score": 5
+    },
+    {
+      "title": "Destaque Angola e União Europeia assinam Acordo de Financiamento de 50 milhões de euros O Ministério do Planeamento e a União Europeia assinaram, hoje, em Luanda, um acordo de financiamento no valor de 50 milhões de euros, destinados à implementação do Projecto AGRINVEST – Oportunidades e Competitividade nas Cadeias de Valor Agroalimentares do Corredor do Lobito. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672292/angola-e-uni%C3%A3o-europeia-assinam-acordo-de-financiamento-de-50-milh%C3%B5es-de-euros-",
+      "source": "Jornal de Angola",
+      "_key": "fa54f6d7fcc395be",
+      "score": 5
+    },
+    {
+      "title": "Parlamento dá \"luz verde\" à discussão de alteração...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-da-luz-verde-a-discussao-de-alteracao-da-lei-sobre-observacao-eleitoral-dos-partidos-politicos-e-do-exercicio-do-direito-de-oposicao-democratica-da-iniciativa-da-unita-70661.html",
+      "source": "Novo Jornal",
+      "_key": "b8cee1c73e3639bd",
+      "score": 5
+    },
+    {
+      "title": "Executivo considera positivo nível de execução das obras na Muxima com conclusão prevista para 30 de Março",
+      "url": "https://www.opais.ao/politica/executivo-considera-positivo-nivel-de-execucao-das-obras-na-muxima-com-conclusao-prevista-para-30-de-marco/",
+      "source": "O País",
+      "_key": "bb7b2a307ac6abb9",
+      "score": 5
+    },
+    {
+      "title": "Angola e Zâmbia reforçam cooperação parlamentar e institucional",
+      "url": "https://www.opais.ao/politica/angola-e-zambia-reforcam-cooperacao-parlamentar-e-institucional/",
+      "source": "O País",
+      "_key": "6e0c5a87d02b04e9",
+      "score": 5
+    },
+    {
+      "title": "Diplomata zambiano defende cooperação coordenada para impulsionar o comércio e o desenvolvimento a nível da SADC",
+      "url": "https://www.opais.ao/politica/diplomata-zambiano-defende-cooperacao-coordenada-para-impulsionar-o-comercio-e-o-desenvolvimento-a-nivel-da-sadc/",
+      "source": "O País",
+      "_key": "0521a31a456a65e7",
       "score": 5
     }
   ]

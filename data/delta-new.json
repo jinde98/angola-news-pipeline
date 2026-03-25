@@ -1,140 +1,560 @@
 {
-  "date": "2026-03-24",
-  "total_extracted": 1663,
-  "total_new": 22,
-  "total_existing": 1641,
+  "date": "2026-03-25",
+  "total_extracted": 1662,
+  "total_new": 92,
+  "total_existing": 1570,
   "articles": [
     {
-      "title": "Girabola: Petro defeats Sagrada and consolidates leadership",
-      "url": "https://www.angop.ao/en/noticias/desporto/girabola2025-26-petro-bate-sagrada-e-consolida-lideranca/",
+      "title": "Luanda Court begins trial of individuals accused of terrorism",
+      "url": "https://www.angop.ao/en/noticias/politica/tribunal-de-luanda-inicia-julgamento-de-cidadaos-acusados-de-terrorismo/",
       "source": "ANGOP",
-      "_key": "28ee4c4c2eb145af"
+      "_key": "d303a317c2420e93"
     },
     {
-      "title": "Angolan athletics federation increases prizes for 2025 yearend footrace",
-      "url": "https://www.angop.ao/en/noticias/desporto/atletismo-faa-eleva-premios-da-sao-silvestre2025/",
+      "title": "Angola and Brazil strengthen cooperation in electricity sector",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-brasil-reforcam-cooperacao-no-sector-da-energia-electrica-1/",
       "source": "ANGOP",
-      "_key": "a258990e35a85f39"
+      "_key": "8addaa30827ba1b1"
     },
     {
-      "title": "Angola estreia-se nos Prémios Investidor Internacional com distinções ao BAI e ao seu CEO",
-      "url": "https://correiokianda.info/angola-estreia-se-nos-premios-investidor-internacional-com-distincoes-ao-bai-e-ao-seu-ceo/",
+      "title": "Luanda hosts ACI Africa 75th Conference",
+      "url": "https://www.angop.ao/en/noticias/economia/luanda-acolhe-75.a-conferencia-do-conselho-internacional-de-aeroportos-de-africa/",
+      "source": "ANGOP",
+      "_key": "f0f1a9afe841b0a0"
+    },
+    {
+      "title": "Angolan Finance Minister in China to strengthen bilateral cooperation",
+      "url": "https://www.angop.ao/en/noticias/economia/ministra-das-financas-na-china-para-reforco-da-cooperacao-bilateral/",
+      "source": "ANGOP",
+      "_key": "401a7fdafac69a4c"
+    },
+    {
+      "title": "Government strengthens road access to Muxima municipality",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-reforca-acessos-rodoviarios-a-muxima/",
+      "source": "ANGOP",
+      "_key": "126794ae6bee176f"
+    },
+    {
+      "title": "Luanda launches polio vaccination campaign targeting over 1 million children",
+      "url": "https://www.angop.ao/en/noticias/saude/luanda-preve-vacinar-mais-de-um-milhao-de-criancas-contra-poliomielite-1/",
+      "source": "ANGOP",
+      "_key": "c713f0cc279555fc"
+    },
+    {
+      "title": "Port of Lobito aims to consolidate as regional infrastructure",
+      "url": "https://www.angop.ao/en/noticias/economia/porto-do-lobito-quer-consolidar-se-como-infra-estrutura-ao-servico-do-desenvolvimento-regional/",
+      "source": "ANGOP",
+      "_key": "c839afd4d042d6d9"
+    },
+    {
+      "title": "Aeroportos",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=51329",
+      "source": "ANGOP",
+      "_key": "5412f63ec397bf65"
+    },
+    {
+      "title": "Visita de Trabalho",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=36676",
+      "source": "ANGOP",
+      "_key": "c5131d8f43bf1332"
+    },
+    {
+      "title": "Estradas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=32240",
+      "source": "ANGOP",
+      "_key": "5d2ee97c5d0b27f3"
+    },
+    {
+      "title": "CNE highlights progress made by Angolan presidency in ROJAE-CP",
+      "url": "https://www.angop.ao/en/noticias/politica/cne-destaca-avancos-da-presidencia-angolana-na-rojae-cplp/",
+      "source": "ANGOP",
+      "_key": "2ab42ca7e3f9e749"
+    },
+    {
+      "title": "Zambia reaffirms interest in strengthening cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/zambia-reafirma-interesse-no-reforco-da-cooperacao-com-angola/",
+      "source": "ANGOP",
+      "_key": "8de8170e43fc45da"
+    },
+    {
+      "title": "African wheelchair basketball championship moved to Luanda",
+      "url": "https://www.angop.ao/en/noticias/desporto/jogos-africanos-transferidos-para-luanda-devido-as-altas-temperaturas/",
+      "source": "ANGOP",
+      "_key": "dc6928a10429d3b2"
+    },
+    {
+      "title": "Jogos Africanos",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=231358",
+      "source": "ANGOP",
+      "_key": "3f19bf7a5ba8c78e"
+    },
+    {
+      "title": "Man found dead at Luvo River in Zaire province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/dois-individuos-encontrados-mortos-no-rio-luvo-no-zaire/",
+      "source": "ANGOP",
+      "_key": "e5efb1fe5ec1d38d"
+    },
+    {
+      "title": "Sumbe acolhe workshop de apresentação do projecto MOSAP III",
+      "url": "https://www.angop.ao/en/noticias/agricultura/sumbe-acolhe-workshop-de-apresentacao-do-projecto-mosap-iii/",
+      "source": "ANGOP",
+      "_key": "7d4d0631f3e9c957"
+    },
+    {
+      "title": "Basqutebol",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=43061",
+      "source": "ANGOP",
+      "_key": "da23cc9c4f70c146"
+    },
+    {
+      "title": "Roller Hockey - Mozambique gets double victory over South Africa",
+      "url": "https://www.angop.ao/en/noticias/desporto/hoquei-mocambique-com-duplo-triunfo-ante-africa-do-sul/",
+      "source": "ANGOP",
+      "_key": "dfd3d21fa25365a9"
+    },
+    {
+      "title": "Luanda - Sem LeBron James, a recuperar de uma lesão, o Los Angeles Lakers perdeu em casa, na madrugada desta quarta-feira, diante do Golden State Warriors, por 109-119, na sua estreia na temporada regular da NBA 2025-26.",
+      "url": "https://www.angop.ao/en/noticias/desporto/lakers-perde-em-casa-na-estreia-da-nba/",
+      "source": "ANGOP",
+      "_key": "c188eb0b201e8a8c"
+    },
+    {
+      "title": "Angola's National Bank aims to reduce interest rates in interbank market",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-quer-reducao-das-taxas-do-mercado-monetario-interbancario/",
+      "source": "ANGOP",
+      "_key": "bb5d8200be1ba59b"
+    },
+    {
+      "title": "Writer Trajanno Nankhova dies",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/morreu-escritor-trajanno-nankhova-trajanno/",
+      "source": "ANGOP",
+      "_key": "b4a594aab0f944a0"
+    },
+    {
+      "title": "“Mais perigoso que Hitler”: psiquiatra chama Trump de “narcisista maligno”",
+      "url": "https://angola24horas.com/internacional/item/33995-mais-perigoso-que-hitler-psiquiatra-chama-trump-de-narcisista-maligno",
+      "source": "Angola 24 Horas",
+      "_key": "cbef1466cb7a5ab9"
+    },
+    {
+      "title": "Luaty Beirão critica CNE e diz que Angola não terá eleições enquanto o MPLA governar",
+      "url": "https://angola24horas.com/politica/item/33996-luaty-beirao-critica-cne-e-diz-que-angola-nao-tera-eleicoes-enquanto-o-mpla-governar",
+      "source": "Angola 24 Horas",
+      "_key": "0dbaa29ec466c7ce"
+    },
+    {
+      "title": "Governo quer tributar economia informal e enfrenta contestação de taxistas e zungueiras",
+      "url": "https://angola24horas.com/sociedade/item/33997-governo-quer-tributar-economia-informal-e-enfrenta-contestacao-de-taxistas-e-zungueiras",
+      "source": "Angola 24 Horas",
+      "_key": "224d25f50cb0bdcd"
+    },
+    {
+      "title": "“Caso russos”: defesas querem Adalberto Costa Júnior, Higino Carneiro e Dino Matrosse como testemunhas",
+      "url": "https://angola24horas.com/component/k2/item/33994-caso-russos-defesas-querem-adalberto-costa-junior-higino-carneiro-e-dino-matrosse-como-testemunhas",
+      "source": "Angola 24 Horas",
+      "_key": "91079f08f44005c9"
+    },
+    {
+      "title": "Entre Pequim e Hong Kong: Angola acelera ofensiva para captar dinheiro no mercado asiático",
+      "url": "https://angola24horas.com/economia/item/33993-entre-pequim-e-hong-kong-angola-acelera-ofensiva-para-captar-dinheiro-no-mercado-asiatico",
+      "source": "Angola 24 Horas",
+      "_key": "46a7dd27b58c7917"
+    },
+    {
+      "title": "Obras na Muxima aceleram com visita do Papa à vista",
+      "url": "https://correiokianda.info/obras-na-muxima-aceleram-com-visita-do-papa-a-vista/",
       "source": "Correio Kianda",
-      "_key": "8652a3c3aa4afc67"
+      "_key": "14cd1d377b0886ae"
     },
     {
-      "title": "Hospitais públicos podem deixar de ser totalmente gratuitos em Angola",
-      "url": "https://correiokianda.info/hospitais-publicos-podem-deixar-de-ser-totalmente-gratuitos-em-angola/",
+      "title": "Governo de Malanje desmente Secretário Provincial da UNITA",
+      "url": "https://correiokianda.info/governo-de-malanje-desmente-secretario-provincial-da-unita/",
       "source": "Correio Kianda",
-      "_key": "51b18bc2749f91db"
+      "_key": "8d5980dd1a9a07ca"
     },
     {
-      "title": "EUA pressionam Cuba há décadas com objectivo de desgaste político, diz analista",
-      "url": "https://correiokianda.info/eua-pressionam-cuba-ha-decadas-com-objectivo-de-desgaste-politico-diz-analista/",
+      "title": "Angola destina mais de 5 biliões de kwanzas a investimentos públicos estratégicos",
+      "url": "https://correiokianda.info/angola-destina-mais-de-5-bilioes-de-kwanzas-a-investimentos-publicos-estrategicos/",
       "source": "Correio Kianda",
-      "_key": "e6962271f3b34427"
+      "_key": "fdbaaad16797cf33"
     },
     {
-      "title": "Defesa de Simões Pereira “formaliza pedido de libertação da prisão domiciliária”",
-      "url": "https://correiokianda.info/defesa-de-simoes-pereira-formaliza-pedido-de-libertacao-da-prisao-domiciliaria/",
+      "title": "Angola e UE assinam acordo de 50 milhões de euros para financiar cadeias agro-alimentares",
+      "url": "https://correiokianda.info/angola-e-ue-assinam-acordo-de-50-milhoes-de-euros-para-financiar-cadeias-agro-alimentares/",
       "source": "Correio Kianda",
-      "_key": "f31adc42a6a07471"
+      "_key": "46e22dc56a49defd"
     },
     {
-      "title": "Ex-presidente brasileiro Bolsonaro recebe aval para prisão domiciliária",
-      "url": "https://correiokianda.info/ex-presidente-brasileiro-bolsonaro-recebe-aval-para-prisao-domiciliaria/",
+      "title": "Cidadãos em Menongue pedem soluções antes de novos impostos",
+      "url": "https://correiokianda.info/cidadaos-em-menongue-pedem-solucoes-antes-de-novos-impostos/",
       "source": "Correio Kianda",
-      "_key": "4285a15dddd46c98"
+      "_key": "8c913316129791dd"
     },
     {
-      "title": "Miler Gomes assegura que Estádio França Ndalu tem condições para albergar clássicos do Girabola",
-      "url": "https://correiokianda.info/miler-gomes-assegura-que-estadio-franca-ndalu-tem-condicoes-para-albergar-classicos-do-girabola/",
+      "title": "Activistas reafirmam manifestação por alegados presos políticos",
+      "url": "https://correiokianda.info/activistas-reafirmam-manifestacao-por-alegados-presos-politicos/",
       "source": "Correio Kianda",
-      "_key": "3d41caa563b84cb1"
+      "_key": "54d16e9d48c15683"
     },
     {
-      "title": "Filha de “Nandó” renuncia gestão dos negócios da família",
-      "url": "https://ecosdohenda.info/filha-de-nando-renuncia-gestao-dos-negocios-da-familia/",
+      "title": "Defesa de Buka Tanda denuncia violação de direitos e tribunal adia julgamento para Abril",
+      "url": "https://correiokianda.info/defesa-de-buka-tanda-denuncia-violacao-de-direitos-e-tribunal-adia-julgamento-para-abril/",
+      "source": "Correio Kianda",
+      "_key": "62a0015663c4e001"
+    },
+    {
+      "title": "Grávida de nove meses morre após atropelamento em Cacuaco",
+      "url": "https://correiokianda.info/gravida-de-nove-meses-morre-apos-atropelamento-em-cacuaco/",
+      "source": "Correio Kianda",
+      "_key": "4e7b99c8d95f751f"
+    },
+    {
+      "title": "Cuanza Sul: Gabela espera há mais de uma década por água potável",
+      "url": "https://correiokianda.info/cuanza-sul-gabela-espera-ha-mais-de-uma-decada-por-agua-potavel/",
+      "source": "Correio Kianda",
+      "_key": "3e6cf4888b4df941"
+    },
+    {
+      "title": "Encontrado cadáver a flutuar no rio Luvo no Zaire",
+      "url": "https://correiokianda.info/encontrado-um-cadaver-a-flutuar-no-rio-luvo-no-zaire/",
+      "source": "Correio Kianda",
+      "_key": "7c0fa8d49cbae74e"
+    },
+    {
+      "title": "Conflito no Médio Oriente faz disparar preços e escasseia derivados de petróleo no Quénia",
+      "url": "https://correiokianda.info/166322-2/",
+      "source": "Correio Kianda",
+      "_key": "0453dc4a8abadedb"
+    },
+    {
+      "title": "Lavrov acusa Ocidente de alimentar conflitos globais e alerta para risco de “Terceira Guerra Mundial”",
+      "url": "https://correiokianda.info/lavrov-acusa-ocidente-de-alimentar-conflitos-globais-e-alerta-para-risco-de-terceira-guerra-mundial/",
+      "source": "Correio Kianda",
+      "_key": "3c98cee91b0fb7ad"
+    },
+    {
+      "title": "Guerra de Trump no Médio Oriente pode comprometer sua reeleição presidencial, dizem analistas",
+      "url": "https://correiokianda.info/guerra-de-trump-no-medio-oriente-pode-comprometer-sua-reeleicao-presidencial-dizem-analistas/",
+      "source": "Correio Kianda",
+      "_key": "64892d52f1c449b1"
+    },
+    {
+      "title": "“A mentira tem pernas curtas”, diz presidente do 1.º de Agosto sobre a FAF",
+      "url": "https://correiokianda.info/a-mentira-tem-pernas-curtas-diz-presidente-do-1-o-de-agosto-sobre-a-faf/",
+      "source": "Correio Kianda",
+      "_key": "e970eb81df0cac07"
+    },
+    {
+      "title": "Tribunal Arbitral do Desporto ainda não recebeu recurso do Senegal sobre retirada do título da CAN 2025",
+      "url": "https://correiokianda.info/tribunal-arbitral-do-desporto-ainda-nao-recebeu-recurso-do-senegal-sobre-retirada-do-titulo-da-can-2025/",
+      "source": "Correio Kianda",
+      "_key": "36ab75d4b8f24eee"
+    },
+    {
+      "title": "FAF adia jogos do Girabola devido à Data FIFA",
+      "url": "https://correiokianda.info/faf-adia-jogos-do-girabola-devido-a-data-fifa/",
+      "source": "Correio Kianda",
+      "_key": "6e37b78d6a78ab22"
+    },
+    {
+      "title": "Ormuz: entre a segurança energética e o risco de uma guerra sistémica",
+      "url": "https://correiokianda.info/ormuz-entre-a-seguranca-energetica-e-o-risco-de-uma-guerra-sistemica/",
+      "source": "Correio Kianda",
+      "_key": "cdb975d521ef66fd"
+    },
+    {
+      "title": "Comparticipação na saúde: reforma estrutural ou transferência de culpa?",
+      "url": "https://correiokianda.info/comparticipacao-na-saude-reforma-estrutural-ou-transferencia-de-culpa/",
+      "source": "Correio Kianda",
+      "_key": "1f327e32d7237204"
+    },
+    {
+      "title": "Presidente da República avalia obras na Muxima para visita do Papa Leão XIV",
+      "url": "https://ecosdohenda.info/presidente-da-republica-avalia-obras-na-muxima-para-visita-do-papa-leao-xiv/",
       "source": "Ecos do Henda",
-      "_key": "bdf6a96ba905c243"
+      "_key": "21a34a3e4da6efa4"
     },
     {
-      "title": "SIC desmantela rede de exploração sexual envolvendo 12 vietnamitas e detém 14 suspeitos",
-      "url": "https://ecosdohenda.info/sic-desmantela-rede-de-exploracao-sexual-envolvendo-12-vietnamitas-e-detem-14-suspeitos/",
-      "source": "Ecos do Henda",
-      "_key": "8d233fdefa549d83"
+      "title": "ANTT suspende veículos de 55 operadoras de transporte de passageiros",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e7fd956c896598"
     },
     {
-      "title": "Linhas Áreas de Angola ambiciona reduzir prejuízo operacional de 123 milhões para 90 milhões USD este ano",
-      "url": "https://forbesafricalusofona.com/linhas-areas-de-angola-ambiciona-reduzir-prejuizo-operacional-de-123-milhoes-para-90-milhoes-usd-este-ano/",
+      "title": "Gastos com bens, serviços e obras dos ministérios 15 vezes superiores ao OGE 2026",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b8be58ca8a3a45"
+    },
+    {
+      "title": "Cimenfort estuda a saída do consórcio que ficou com cimenteira CIF no PROPRIV",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_763d7aba6333ed"
+    },
+    {
+      "title": "ANTT suspende veículos de 55 operadoras de transporte de passageirosRegulador identificou a circulação de veículos afectos ao transporte rodoviário regular de passageiros com as licenças de exercício da actividade expiradas.",
+      "url": "https://expansao.co.ao/angola/detalhe/antt-suspende-veiculos-de-55-operadoras-de-transporte-de-passageiros-70656.html",
+      "source": "Expansão",
+      "_key": "6aca1f206e572b0d"
+    },
+    {
+      "title": "Angola mira mercado de Hong Kong com plano de cooperação financeira e exploração de emissão de dívida",
+      "url": "https://expansao.co.ao/economia/detalhe/angola-mira-mercado-de-hong-kong-com-plano-de-cooperacao-financeira-e-exploracao-da-emissao-de-divida-70659.html",
+      "source": "Expansão",
+      "_key": "79d855bcc841c210"
+    },
+    {
+      "title": "União Europeia financia AGRINVEST com 50 milhões de euros para competitividade agrícola no Corredor do Lobito",
+      "url": "https://expansao.co.ao/economia/detalhe/uniao-europeia-financia-agrinvest-com-50-milhoes-de-euros-para-competitividade-agricola-no-corredor-do-lobito-70658.html",
+      "source": "Expansão",
+      "_key": "b376445c14940d91"
+    },
+    {
+      "title": "\"O despachante é o advogado dos importadores e exportadores\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/o-despachante-e-o-advogado-dos-importadores-e-exportadores-70657.html",
+      "source": "Expansão",
+      "_key": "c983af85682bf63f"
+    },
+    {
+      "title": "Primeiro transplante renal realizado com sucesso em Cabo Verde",
+      "url": "https://forbesafricalusofona.com/primeiro-transplante-renal-realizado-com-sucesso-em-cabo-verde/",
       "source": "Forbes África",
-      "_key": "f47c37ef5979a9f3"
+      "_key": "c82dd7051c242e0f"
     },
     {
-      "title": "Geocientista angolano defende rastreio nacional do gás radão para reforçar protecção da saúde pública",
-      "url": "https://forbesafricalusofona.com/geocientista-angolano-defende-rastreio-nacional-do-gas-radao-para-reforcar-proteccao-da-saude-publica/",
+      "title": "União Europeia reforça sector agrícola em Angola com doação de 50 milhões de euros",
+      "url": "https://forbesafricalusofona.com/uniao-europeia-reforca-sector-agricola-em-angola-com-doacao-de-50-milhoes-de-euros/",
       "source": "Forbes África",
-      "_key": "1c8a624184ea438f"
+      "_key": "b031cf9b4223a17e"
     },
     {
-      "title": "Guiné Equatorial reforça soberania energética com financiamento do projecto de gás Aseng",
-      "url": "https://forbesafricalusofona.com/guine-equatorial-reforca-soberania-energetica-com-financiamento-do-projecto-de-gas-aseng/",
-      "source": "Forbes África",
-      "_key": "fe8bc53487e7bb9c"
+      "title": "ANATA afasta taxistas de partidos políticos e pede diálogo com o Governo",
+      "url": "https://holdonangola.com/anata-afasta-taxistas-de-partidos-politicos-e-pede-dialogo-com-o-governo/",
+      "source": "Hold On Angola",
+      "_key": "8ecfe987cf60f456"
     },
     {
-      "title": "Destaque País alerta para ausência de regulamentação unificada que permite crimes marítimos A ausência de um marco jurídico global e unificado para a protecção do meio ambiente permite crimes marítimos, alertou, segunda-feira, em Nova Iorque, o Representante Permanente de Angola Juntos das Nações Unidas, Francisco José da Cruz.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672288/pa%C3%ADs-alerta-para-aus%C3%AAncia-de-regulamenta%C3%A7%C3%A3o-unificada-que-permite-crimes-mar%C3%ADtimos-",
+      "title": "Julgamento do caso “espiões russos” adiado para 14 de Abril em Angola",
+      "url": "https://holdonangola.com/julgamento-do-caso-espioes-russos-adiado-para-14-de-abril-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "56b2f2e236f4c08f"
+    },
+    {
+      "title": "África escreve o futuro: uma…",
+      "url": "https://holdonangola.com/a-africa-escreve-o-futuro-uma-nova-geracao-de-escritores-conquista-o-mundo-e-redefine-a-literatura-global/",
+      "source": "Hold On Angola",
+      "_key": "e1e5e596a3f22d35"
+    },
+    {
+      "title": "Quarta-feira, 25 de Março, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_847626511251df"
+    },
+    {
+      "title": "Destaque Diplomacia Económica Angolana em evidência durante palestra na Universidade IndependenteA diplomacia económica nacional foi evidenciada, esta terça-feira, durante uma palestra, em Luanda, pelo ministro das Relações Exteriores, Téte António, na Universidade Independente de Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672291/diplomacia-econ%C3%B3mica-angolana-em-evid%C3%AAncia-durante-palestra-na-universidade-independente",
       "source": "Jornal de Angola",
-      "_key": "a60287a412f51a65"
+      "_key": "720e2ca1788c9fc3"
     },
     {
-      "title": "Destaque Angola e Brasil assinam Memorando de Entendimento no domínio da Energia EléctricaAngola e o Brasil assinaram, hoje, em Brasília, um Memorando de Entendimento sobre Cooperação Técnica no Sector da Energia Eléctrica. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672287/angola-e-brasil-assinam-memorando-de-entendimento-no-dom%C3%ADnio-da-energia-el%C3%A9ctrica",
+      "title": "Destaque Dionísio da Fonseca: \"A injustiça, em suas múltiplas formas, infligida ao povo africano não deve ser esquecida\"\"A injustiça, em suas múltiplas formas, infligida ao povo africano e às pessoas de descendência africana não deve ser esquecida, pois ainda ecoa em nossos dias\", sustentou, hoje, em Nova Iorque, o ministro de Estado, Dionísio da Fonseca.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672293/dion%C3%ADsio-da-fonseca:-%22a-injusti%C3%A7a-em-suas-m%C3%BAltiplas-formas-infligida-ao-povo-africano-n%C3%A3o-deve-ser-esquecida%22",
       "source": "Jornal de Angola",
-      "_key": "89b984588c883f70"
+      "_key": "df4dea6d52195035"
     },
     {
-      "title": "Sociedade Cartilha do Estudante Universitário lançada a 27 de Março ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672290/cartilha-do-estudante-universit%C3%A1rio-lan%C3%A7ada-a-27-de-mar%C3%A7o",
+      "title": "Destaque Angola e União Europeia assinam Acordo de Financiamento de 50 milhões de euros O Ministério do Planeamento e a União Europeia assinaram, hoje, em Luanda, um acordo de financiamento no valor de 50 milhões de euros, destinados à implementação do Projecto AGRINVEST – Oportunidades e Competitividade nas Cadeias de Valor Agroalimentares do Corredor do Lobito. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672292/angola-e-uni%C3%A3o-europeia-assinam-acordo-de-financiamento-de-50-milh%C3%B5es-de-euros-",
       "source": "Jornal de Angola",
-      "_key": "b1ee10e054ae515a"
+      "_key": "fa54f6d7fcc395be"
     },
     {
-      "title": "15:24 / 24 mar. 2026 Mais de 120 mil casos de tuberculose registados em Moçambique ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/672289/mais-de-120-mil-casos-de-tuberculose-registados-em-mo%C3%A7ambique",
+      "title": "Sociedade Ministra da Saúde pede foco aos bolseiros que seguem para Brasil em formação ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672295/ministra-da-sa%C3%BAde-pede-foco-aos-bolseiros-que-seguem-para-brasil-em-forma%C3%A7%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "1b7216ce81c5ea69"
+      "_key": "3d4b1484abad994b"
     },
     {
-      "title": "Equity Group plans to acquire Angolan bank in 2026 after Ethiopia impasse24/03/2026",
-      "url": "https://www.negociosdeangola.com/en/equity-group-plans-to-acquire-angolan-bank-in-2026-after-ethiopia-impasse/",
-      "source": "Negócios de Angola",
-      "_key": "05958320b5e00e75"
+      "title": "Sociedade Pesquisadora Valdirene Simão apresenta estudo sobre Governança da Inteligência Artificial ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672294/pesquisadora-valdirene-sim%C3%A3o-apresenta-estudo-sobre-governan%C3%A7a-da-intelig%C3%AAncia-artificial-",
+      "source": "Jornal de Angola",
+      "_key": "6d4c237491d3ce5f"
     },
     {
-      "title": "Investment in the Luanda Refinery Yet to Reduce Import Dependence",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9736",
-      "source": "Negócios de Angola",
-      "_key": "7974ffd4b23ff6c5"
+      "title": "Parlamento dá \"luz verde\" à discussão de alteração...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-da-luz-verde-a-discussao-de-alteracao-da-lei-sobre-observacao-eleitoral-dos-partidos-politicos-e-do-exercicio-do-direito-de-oposicao-democratica-da-iniciativa-da-unita-70661.html",
+      "source": "Novo Jornal",
+      "_key": "b8cee1c73e3639bd"
     },
     {
-      "title": "Angola e Brasil assinam memorando sobre cooperação técnica no sector da Energia Eléctrica",
-      "url": "https://www.opais.ao/politica/angola-e-brasil-assinam-memorando-sobre-cooperacao-tecnica-no-sector-da-energia-electrica/",
+      "title": "Caso russos: Questões prévias marcam arranque do julgamento...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-questoes-previas-marcam-arranque-do-julgamento-advogados-dos-russos-querem-acj-higino-carneiro-e-dino-matrosse-como-testemunhas-70652.html",
+      "source": "Novo Jornal",
+      "_key": "2ca23bf1e8e80df3"
+    },
+    {
+      "title": "O Feitiço e a Igreja",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-feitico-e-a-igreja-70660.html",
+      "source": "Novo Jornal",
+      "_key": "5567bc5829ae8098"
+    },
+    {
+      "title": "Executivo considera positivo nível de execução das obras na Muxima com conclusão prevista para 30 de Março",
+      "url": "https://www.opais.ao/politica/executivo-considera-positivo-nivel-de-execucao-das-obras-na-muxima-com-conclusao-prevista-para-30-de-marco/",
       "source": "O País",
-      "_key": "14467ea7ead4f8f8"
+      "_key": "bb7b2a307ac6abb9"
     },
     {
-      "title": "‎Obras de asfaltagem das sedes municipais de Icolo e Bengo arrancam este ano, garante governador",
-      "url": "https://www.opais.ao/ultimas_hora/obras-de-asfaltagem-das-sedes-municipais-de-icolo-e-bengo-arrancam-este-ano-garante-governador/",
+      "title": "Liga Unitel Girabola 2025/26 regista pausa neste fim-de-semana",
+      "url": "https://www.opais.ao/desporto/liga-unitel-girabola-2025-26-regista-pausa-neste-fim-de-semana/",
       "source": "O País",
-      "_key": "3985e664f9192f18"
+      "_key": "6660ea5ecd7a055f"
     },
     {
-      "title": "Demolições: Administração da Catumbela ‘‘limpa as mãos’’ e atira-se contra direcção do PDIC",
-      "url": "https://www.opais.ao/sociedade/demolicoes-administracao-da-catumbela-limpa-as-maos-e-atira-se-contra-direccao-do-pdic/",
+      "title": "Lançada FIB 2026: Organização projecta feira “memorável” com volume de negócios acima de 500 milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/lancada-fib-2026-organizacao-projecta-feira-memoravel-com-volume-de-negocios-acima-de-500-milhoes-de-kwanzas/",
       "source": "O País",
-      "_key": "3846f4fa0e24fe04"
+      "_key": "c158e879b84a22ac"
+    },
+    {
+      "title": "Caso Terrorismo: Advogado de russos pede presidente da UNITA, generais Higino Carneiro, Lukamba Gato e Dino Matrosse como declarantes",
+      "url": "https://www.opais.ao/sociedade/caso-terrorismo-advogado-de-russos-pede-presidente-da-unita-generais-higino-carneiro-lukamba-gato-e-dino-matrosse-como-declarantes/",
+      "source": "O País",
+      "_key": "943c1ab7df20ca05"
+    },
+    {
+      "title": "Detida quadrilha que assassinou cinco pessoas nos últimos seis meses em Luanda",
+      "url": "https://www.opais.ao/sociedade/detida-quadrilha-que-assassinou-cinco-pessoas-nos-ultimos-seis-meses-em-luanda/",
+      "source": "O País",
+      "_key": "8fc8f76945c266ab"
+    },
+    {
+      "title": "Luanda com cerca de 4 mil casos de abandono do tratamento da tuberculose",
+      "url": "https://www.opais.ao/sociedade/luanda-com-cerca-de-4-mil-casos-de-abandono-do-tratamento-da-tuberculose/",
+      "source": "O País",
+      "_key": "5f6fa2c96327cf54"
+    },
+    {
+      "title": "Parlamento agenda debate sobre alterações ao Supremo Tribunal Militar para Abril",
+      "url": "https://www.opais.ao/politica/parlamento-agenda-debate-sobre-alteracoes-ao-supremo-tribunal-militar-para-abril/",
+      "source": "O País",
+      "_key": "05b591fd7989265b"
+    },
+    {
+      "title": "Angola e Zâmbia reforçam cooperação parlamentar e institucional",
+      "url": "https://www.opais.ao/politica/angola-e-zambia-reforcam-cooperacao-parlamentar-e-institucional/",
+      "source": "O País",
+      "_key": "6e0c5a87d02b04e9"
+    },
+    {
+      "title": "‎Ministro de Estado representa João Lourenço na reunião sobre justiça reparadora em Nova Iorque",
+      "url": "https://www.opais.ao/politica/ministro-de-estado-representa-joao-lourenco-na-reuniao-sobre-justica-reparadora-em-nova-iorque/",
+      "source": "O País",
+      "_key": "484d45e0becd60e9"
+    },
+    {
+      "title": "Despesas com sector económico de 2026 caíram em 20,50% se comparadas com OGE 2025",
+      "url": "https://www.opais.ao/economia/despesas-com-sector-economico-de-2026-cairam-em-2050-se-comparadas-com-oge-2025/",
+      "source": "O País",
+      "_key": "b90f36b190ec1826"
+    },
+    {
+      "title": "Diplomata zambiano defende cooperação coordenada para impulsionar o comércio e o desenvolvimento a nível da SADC",
+      "url": "https://www.opais.ao/politica/diplomata-zambiano-defende-cooperacao-coordenada-para-impulsionar-o-comercio-e-o-desenvolvimento-a-nivel-da-sadc/",
+      "source": "O País",
+      "_key": "0521a31a456a65e7"
+    },
+    {
+      "title": "AGT dispensa obrigatoriedade de apresentação do SAF-T e incentiva facturação electrónica",
+      "url": "https://www.opais.ao/economia/agt-dispensa-obrigatoriedade-de-apresentacao-do-saf-t-e-incentiva-facturacao-electronica/",
+      "source": "O País",
+      "_key": "cb7b4d074b310ea1"
+    },
+    {
+      "title": "Téte António destaca marcos e desafios da diplomacia angolana em palestra na Universidade Independente",
+      "url": "https://www.opais.ao/politica/tete-antonio-destaca-marcos-e-desafios-da-diplomacia-angolana-em-palestra-na-universidade-independente/",
+      "source": "O País",
+      "_key": "e92bfb737e521a17"
+    },
+    {
+      "title": "Carta do leitor: Bairro da Cruz sem água…",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-bairro-da-cruz-sem-agua/",
+      "source": "O País",
+      "_key": "a0d13c6de12008f3"
+    },
+    {
+      "title": "É de hoje…Novo Comité Central dos ‘camaradas’",
+      "url": "https://www.opais.ao/opiniao/e-de-hojenovo-comite-central-dos-camaradas/",
+      "source": "O País",
+      "_key": "9695388d5a8365db"
+    },
+    {
+      "title": "Técnicos de saúde",
+      "url": "https://www.opais.ao/opiniao/tecnicos-de-saude/",
+      "source": "O País",
+      "_key": "6f2c4d59f26070b3"
+    },
+    {
+      "title": "Paula Lima defende a importância de construir marcas fortes para o desporto feminino ser comercialmente atractivo",
+      "url": "https://www.opais.ao/desporto/paula-lima-defende-a-importancia-de-construir-marcas-fortes-para-o-desporto-feminino-ser-comercialmente-atractivo/",
+      "source": "O País",
+      "_key": "406fd96f7700b8ca"
+    },
+    {
+      "title": "Ministério dos Transportes volta a testar controlo das finanças públicas",
+      "url": "https://valoreconomico.co.ao/artigo/ministerio-dos-transportes-volta-a-testar-controlo-das-financas-publicas",
+      "source": "Valor Económico",
+      "_key": "8f224673794ebf76"
+    },
+    {
+      "title": "Angola regressa à China à procura de financiamento e reforço...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-regressa-a-china-a-procura-de-financiamento-e-reforco-da-cooperacao",
+      "source": "Valor Económico",
+      "_key": "7c2729b5d9570305"
+    },
+    {
+      "title": "CES alerta para agravamento da pobreza e destapa aumento da...",
+      "url": "https://valoreconomico.co.ao/artigo/ces-alerta-para-agravamento-da-pobreza-e-destapa-aumento-da-inseguranca-alimentar-em-16-8-em-cinco-anos",
+      "source": "Valor Económico",
+      "_key": "f2880200c2485e37"
+    },
+    {
+      "title": "Efeitos da guerra prestes a atingirem a TAAG",
+      "url": "https://valoreconomico.co.ao/artigo/efeitos-da-guerra-prestes-a-atingirem-a-taag",
+      "source": "Valor Económico",
+      "_key": "52b4108540ca8627"
+    },
+    {
+      "title": "CHINA E O ‘TIMING’ SUSPEITO DO GOVERNO",
+      "url": "https://valoreconomico.co.ao/artigo/china-e-o-timing-suspeito-do-governo",
+      "source": "Valor Económico",
+      "_key": "b83c4f2833d8cef7"
+    },
+    {
+      "title": "“A logística em Angola não pode ser pensada por políticos, mas...",
+      "url": "https://valoreconomico.co.ao/artigo/a-logistica-em-angola-nao-pode-ser-pensada-por-politicos-mas-por-tecnicos-com-experiencia-local-e-internacional",
+      "source": "Valor Económico",
+      "_key": "dd63286714102c7b"
+    },
+    {
+      "title": "Receita com multas supera previsão orçamental em 68%",
+      "url": "https://valoreconomico.co.ao/artigo/receita-com-multas-supera-previsao-orcamental-em-68",
+      "source": "Valor Económico",
+      "_key": "75b9a68521106c0f"
+    },
+    {
+      "title": "Governo vai usar excedente para financiar OGE e reduzir empréstimos",
+      "url": "https://valoreconomico.co.ao/artigo/governo-vai-usar-excedente-para-financiar-oge-e-reduzir-emprestimos",
+      "source": "Valor Económico",
+      "_key": "74e45f30fb70dc3a"
+    },
+    {
+      "title": "Download PDF",
+      "url": "https://valoreconomico.co.ao/uploads/files/2026/03/jornal-valor-economico-586-edicao-500.pdf",
+      "source": "Valor Económico",
+      "_key": "e0b4cd72c3cd29cb"
     }
   ]
 }
