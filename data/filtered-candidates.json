@@ -1,56 +1,63 @@
 {
   "date": "2026-03-26",
-  "total_new": 12,
-  "total_filtered": 7,
+  "total_new": 48,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "TAAG to start China flights in March",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-inicia-voos-angola-china-em-marco/",
+      "title": "Economia BRICS disponível a apoiar projectos estruturantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672402/brics-dispon%C3%ADvel-a-apoiar--projectos-estruturantes",
+      "source": "Jornal de Angola",
+      "_key": "414b7381146befb2",
+      "score": 9
+    },
+    {
+      "title": "Regresso de Angola aos mercados internacionais marcado com captação de USD 2,5 milhões",
+      "url": "https://correiokianda.info/regresso-de-angola-aos-mercados-internacionais-marcado-com-captacao-de-usd-25-milhoes/",
+      "source": "Correio Kianda",
+      "_key": "9fe3ec9ef49530be",
+      "score": 8
+    },
+    {
+      "title": "Seguro de Acidentes de Trabalho e Doenças Profissionais…",
+      "url": "https://holdonangola.com/seguro-de-acidentes-de-trabalho-e-doencas-profissionais-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "2170cd48f638ef8c",
+      "score": 8
+    },
+    {
+      "title": "Governo mobiliza 2,5 mil milhões de dólares para financiar o OGEAngola conseguiu mobilizar, terça-feira última, 2,5 mil milhões de dólares com a emissão de eurobonds no mercado internacional, avançou, ontem, em Luanda, o ministro de Estado para a Coordenação Económica.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672385/governo-mobiliza-25-mil-milh%C3%B5es-de-d%C3%B3lares-para-financiar-o-oge",
+      "source": "Jornal de Angola",
+      "_key": "c77ea232b0043fee",
+      "score": 8
+    },
+    {
+      "title": "Ministry of Transport prepares national maritime and port strategy",
+      "url": "https://www.angop.ao/en/noticias/economia/mintrans-define-estrategia-maritima-e-portuaria-nacional/",
       "source": "ANGOP",
-      "_key": "60386c63a0dbdaa8",
-      "score": 9
-    },
-    {
-      "title": "Petróleo sobe enquanto cresce o cepticismo sobre resolução do conflito no Médio Oriente",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-sobe-enquanto-cresce-o-ceticismo-sobre-resolucao-do-conflito-no-medio-oriente-70684.html",
-      "source": "Expansão",
-      "_key": "dbe1b04e827a06b7",
-      "score": 9
-    },
-    {
-      "title": "Reestruturações \"silenciosas\": quando a mudança operacional cria um risco em matéria de Preços de Transferência",
-      "url": "https://expansao.co.ao/gestao/detalhe/reestruturacoes-silencio-sas-quando-a-mudanca-operacional-cria-um-risco-em-materia-de-precos-de-transferencia-70687.html",
-      "source": "Expansão",
-      "_key": "2410efc15918d409",
-      "score": 8
-    },
-    {
-      "title": "Médio Oriente: EUA e Irão em \"braço de ferro\" diplomático...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-eua-e-irao-em-braco-de-ferro-diplomatico-nos-bastidores-da-guerra-pentagono-junta-forca-forca-invasora-nas-margens-do-golfo-persico-70686.html",
-      "source": "Novo Jornal",
-      "_key": "d5800e49fbd7f0e2",
-      "score": 8
-    },
-    {
-      "title": "Serviço Nacional de Identificação assume que há muitos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/servico-nacional-de-identificacao-assume-que-ha-muitos-funcionarios-a-cometer-actos-vergonhosos-na-instituicao-chegando-a-atribuir-bi-a-cidadaos-estrangeiros-70693.html",
-      "source": "Novo Jornal",
-      "_key": "88c64d03d18fc077",
+      "_key": "fbeb4f787a8ee6a9",
       "score": 7
     },
     {
-      "title": "\"A agricultura neste momento já representa 15% do pib do nosso País\" Rui Miguêns de Oliveira",
-      "url": "https://expansao.co.ao/multimedia/detalhe/a-agricultura-neste-momento-ja-representa-15-do-pib-do-nosso-pais-rui-miguens-de-oliveira-70689.html",
-      "source": "Expansão",
-      "_key": "3bf451461f631e71",
+      "title": "Destaque MINTTICS lança esta quinta-feira em Malanje Internet via ANGOSAT-2 O Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS) vai lançar, hoje, oficialmente a internet via satélite ANGOSAT-2, durante o IV.º Conselho Consultivo do sector, que decorre em Malanje.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672420/minttics-lan%C3%A7a-esta-quinta-feira-em-malanje-internet-via-angosat-2-",
+      "source": "Jornal de Angola",
+      "_key": "82c4032d57b037c1",
       "score": 6
     },
     {
-      "title": "Luanda: DIIP desmantela rede que falsificava cartas...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-diip-desmantela-rede-que-falsificava-cartas-de-conducao-por-50-mil-kz-e-detem-elemento-principal-do-gangue-70688.html",
-      "source": "Novo Jornal",
-      "_key": "84f7d6bf98283877",
+      "title": "Fórum de Negócios e Conectividade arranca amanhã no Icolo e Bengo",
+      "url": "https://www.opais.ao/economia/forum-de-negocios-e-conectividade-arranca-amanha-no-icolo-e-bengo/",
+      "source": "O País",
+      "_key": "1ca87334498abef6",
+      "score": 6
+    },
+    {
+      "title": "Mário Oliveira defende transformação digital como pilar do desenvolvimento nacional",
+      "url": "https://www.opais.ao/politica/mario-oliveira-defende-transformacao-digital-como-pilar-do-desenvolvimento-nacional/",
+      "source": "O País",
+      "_key": "df4f4d072ce1c3c5",
       "score": 5
     }
   ]
