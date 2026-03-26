@@ -1,32 +1,16 @@
 {
   "date": "2026-03-26",
-  "total_new": 17,
-  "total_filtered": 3,
-  "scored_by": "gemini-flash",
+  "total_new": 15,
+  "total_filtered": 1,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Chamber of Minas and Bumbar Mining sign agreement",
-      "url": "https://www.angop.ao/en/noticias/economia/camara-de-minas-e-bumbar-mining-formalizam-acordo/",
-      "source": "ANGOP",
-      "_key": "9fa178833ab641cf",
-      "score": 7,
-      "title_cn": "矿业商会与Bumbar Mining（布姆巴矿业）签署协议"
-    },
-    {
-      "title": "Angola at 2026 GEC meeting in Paris",
-      "url": "https://www.angop.ao/en/noticias/educacao/angola-debate-transformacao-da-educacao-na-coligacao-global/",
-      "source": "ANGOP",
-      "_key": "39178db8c2b64c95",
-      "score": 6,
-      "title_cn": "安哥拉出席2026年巴黎GEC会议"
-    },
-    {
-      "title": "Destaque Mário Oliveira: \"A transformação digital só fará sentido se for inclusiva\"A transformação digital só fará sentido se for inclusiva, afirmou, hoje, em Malanje, o ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, na abertura do IV.º Conselho Consultivo do Sector. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672448/m%C3%A1rio-oliveira:-%22a-transforma%C3%A7%C3%A3o-digital-s%C3%B3-far%C3%A1-sentido-se-for-inclusiva%22",
-      "source": "Jornal de Angola",
-      "_key": "5e6193ea4bb6246a",
-      "score": 6,
-      "title_cn": "电信部长Mário Oliveira（马里奥·奥利维拉）：数字化转型须具包容性"
+      "title": "Petróleo: Produção angolana aguenta-se acima de 1 mbpd...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-producao-angolana-aguenta-se-acima-de-1-mbpd-mas-esta-seria-a-altura-certa-para-crescer-70701.html",
+      "source": "Novo Jornal",
+      "_key": "502a1b8b5bace415",
+      "score": 5,
+      "title_cn": "安哥拉原油日产量保持在100万桶以上"
     }
   ]
 }
