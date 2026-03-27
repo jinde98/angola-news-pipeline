@@ -1,48 +1,56 @@
 {
   "date": "2026-03-27",
-  "total_new": 22,
-  "total_filtered": 5,
+  "total_new": 20,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economia Memorando de entendimento fortalece cooperação bilateral ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672481/memorando-de-entendimento-fortalece-coopera%C3%A7%C3%A3o-bilateral",
+      "title": "Etu Energias reforça posição em águas profundas com acordo nos blocos 14 e 14K",
+      "url": "https://expansao.co.ao/empresas/detalhe/etu-energias-reforca-posicao-em-aguas-profundas-com-acordo-nos-blocos-14-e-14k-70725.html",
+      "source": "Expansão",
+      "_key": "4adb300c22cc225f",
+      "score": 8,
+      "title_cn": "Etu Energias通过14和14K区块协议巩固深水地位"
+    },
+    {
+      "title": "Destaque Ricardo Viegas d'Abreu: “A nossa economia e a diversificação da economia só vão crescer se caminharmos juntos\" A nossa economia e a diversificação da economia só vão crescer se caminharmos juntos, declarou, quinta-feira, em Luanda, o ministro dos Transportes, Ricardo Viegas d'Abreu. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672504/ricardo-viegas-d",
       "source": "Jornal de Angola",
-      "_key": "3da43fe1cbe5991a",
+      "_key": "09816aad2ba7c7c9",
       "score": 7,
-      "title_cn": "谅解备忘录加强双边合作"
+      "title_cn": "里卡多·维加斯·德阿布雷乌（Ricardo Viegas d'Abreu）：经济多元化需携手共进"
     },
     {
-      "title": "Economia Empresas nacionais consolidam espaço na indústria petrolífera ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672477/empresas-nacionais-consolidam-espa%C3%A7o-na-ind%C3%BAstria-petrol%C3%ADfera-",
-      "source": "Jornal de Angola",
-      "_key": "e45455c1d921b270",
-      "score": 7,
-      "title_cn": "本国企业巩固在石油工业中的地位"
+      "title": "Contas nacionais revisadas revelam economia que cresce, mas sem investimento nem inclusão",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ea030cb8b68b8d",
+      "score": 6,
+      "title_cn": "修正后国民账户显示经济增长，但缺乏投资和包容性"
     },
     {
-      "title": "2,5 mil milhões conseguidos: Perigo é usar quase tudo para consumo corrente do Estado",
-      "url": "https://www.opais.ao/opiniao/25-mil-milhoes-conseguidos-perigo-e-usar-quase-tudo-para-consumo-corrente-do-estado/",
-      "source": "O País",
-      "_key": "c480e1844722b960",
-      "score": 7,
-      "title_cn": "获25亿资金：警惕大部分用于国家经常性开支"
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaContas nacionais revisadas revelam economia que cresce, mas sem investimento nem inclusão",
+      "url": "https://expansao.co.ao/opiniao/detalhe/contas-nacionais-revisadas-revelam-economia-que-cresce-mas-sem-investimento-nem-inclusao-70709.html",
+      "source": "Expansão",
+      "_key": "3369be914d2d1d6f",
+      "score": 6,
+      "title_cn": "费尔南德斯·万达（Fernandes Wanda）：经济增长是奇迹还是海市蜃楼？"
     },
     {
-      "title": "Head of State travels to Malabo on Friday",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-desloca-se-sexta-feira-a-malabo/",
+      "title": "Minister highlights structural projects for adaptation to climate change",
+      "url": "https://www.angop.ao/en/noticias/ambiente/ministra-ressalta-projectos-estruturantes-na-adaptacao-das-alteracoes-climatica/",
       "source": "ANGOP",
-      "_key": "45c437c7814cb9fa",
-      "score": 6,
-      "title_cn": "国家元首周五访问马拉博"
+      "_key": "7f944b1e7b233dad",
+      "score": 5,
+      "title_cn": "部长强调适应气候变化的结构性项目"
     },
     {
-      "title": "Covid-19. Há mais uma nova variante a espalhar-se. O que se sabe?",
-      "url": "https://www.opais.ao/mundo/covid-19-ha-mais-uma-nova-variante-a-espalhar-se-o-que-se-sabe/",
-      "source": "O País",
-      "_key": "99f446bb7b0bcd5d",
-      "score": 6,
-      "title_cn": "新冠疫情：又一新变种蔓延，我们了解多少？"
+      "title": "PGR: Pedro Mendes de Carvalho reforça área de combate...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pgr-pedro-mendes-de-carvalho-reforca-area-de-combate-a-corrupcao-70723.html",
+      "source": "Novo Jornal",
+      "_key": "6a6c46118011b6a7",
+      "score": 5,
+      "title_cn": "PGR：佩德罗·门德斯·德卡瓦略加强战区……"
     }
   ]
 }
