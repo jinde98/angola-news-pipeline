@@ -1,260 +1,43 @@
 {
   "date": "2026-03-27",
-  "total_new": 101,
-  "total_filtered": 36,
+  "total_new": 22,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola's oil sector records USD 99 billion in investments over eight years",
-      "url": "https://www.angop.ao/en/noticias/economia/investidos-usd-99-mil-milhoes-no-sector-petrolifero-em-oito-anos/",
-      "source": "ANGOP",
-      "_key": "1005984c8b23e323",
-      "score": 9
-    },
-    {
-      "title": "Angola’s oil output surpasses 28 million barrels in February",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-produz-mais-de-28-milhoes-de-barris-de-petroleo-em-fevereiro/",
-      "source": "ANGOP",
-      "_key": "f80b44ddad2bec5f",
-      "score": 9
-    },
-    {
-      "title": "O Preço do petróleo: Uma vitória de Pirro",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-preco-do-petroleo-uma-vitoria-de-pirro-70698.html",
-      "source": "Novo Jornal",
-      "_key": "8f106ef83651204b",
-      "score": 9
-    },
-    {
-      "title": "Conflitos no Médio Oriente podem impactar negativamente economia angolana, afirmam especialistas",
-      "url": "https://www.opais.ao/economia/conflitos-no-medio-oriente-podem-impactar-negativamente-economia-angolana-afirmam-especialistas/",
-      "source": "O País",
-      "_key": "8e45f0ef8611e132",
-      "score": 9
-    },
-    {
-      "title": "Government clarifies interpretations regarding ban on ferrous materials sale",
-      "url": "https://www.angop.ao/en/noticias/economia/executivo-esclarece-interpretacoes-sobre-proibicao-da-venda-de-materiais-ferrosos/",
-      "source": "ANGOP",
-      "_key": "04be1848a5e23e12",
-      "score": 8
-    },
-    {
-      "title": "Infra-estruturas no Cuanza Norte e Luanda recebem aval da Presidência",
-      "url": "https://correiokianda.info/infra-estruturas-no-cuanza-norte-e-luanda-recebem-aval-da-presidencia/",
-      "source": "Correio Kianda",
-      "_key": "980b6286ce7eea23",
-      "score": 8
-    },
-    {
-      "title": "Défice quadruplica para 5,2 biliões Kz em 2025",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_9edd9fec536b68",
-      "score": 8
-    },
-    {
-      "title": "Défice quadruplica para 5,2 biliões Kz em 2025Há uma espécie de deriva expansionista na política orçamental, com aumentos de despesa significativos que não são compensados pelo crescimento das receitas, o que gera défices e obriga o Estado a endividar-se. Investimentos, o ano passado, quase que duplicaram para 6,8 biliões Kz, mas impõe-se a pergunta: está-se a investir ou a gastar?",
-      "url": "https://expansao.co.ao/angola/detalhe/defice-quadruplica-para-52-bilioes-kz-em-2025-70714.html",
-      "source": "Expansão",
-      "_key": "7cc9c01881bbe628",
-      "score": 8
-    },
-    {
-      "title": "Taxa de inflação mensal nos grossistas cresce para o dobro do mês anterior",
-      "url": "https://expansao.co.ao/economia/detalhe/taxa-de-inflacao-mensal-nos-grossistas-cresce-para-o-dobro-do-mes-anterior-70713.html",
-      "source": "Expansão",
-      "_key": "f36fe40e704c6f9e",
-      "score": 8
-    },
-    {
-      "title": "SIC desmantela associação criminosa envolvida em roubos violentos nos Mulenvos",
-      "url": "https://www.opais.ao/sociedade/sic-desmantela-associacao-criminosa-envolvida-em-roubos-violentos-nos-mulenvos/",
-      "source": "O País",
-      "_key": "33c8f079f57e3814",
-      "score": 8
-    },
-    {
-      "title": "Hiring of national companies in oil sector reaches 12pct",
-      "url": "https://www.angop.ao/en/noticias/economia/contratacao-de-empresas-nacionais-do-sector-petrolifero-atinge-12/",
-      "source": "ANGOP",
-      "_key": "b38395aea6a9a368",
-      "score": 7
-    },
-    {
-      "title": "CUFA Africa group plans to invest USD 250 million in agribusiness",
-      "url": "https://www.angop.ao/en/noticias/economia/cufa-africa-preve-investir-250-milhoes-de-dolares-no-agro-negocio/",
-      "source": "ANGOP",
-      "_key": "6cbb18929600a990",
-      "score": 7
-    },
-    {
-      "title": "Novo PGR inicia mandato com reforço da área anticorrupção",
-      "url": "https://angola24horas.com/politica/item/34008-novo-pgr-inicia-mandato-com-reforco-da-area-anticorrupcao",
-      "source": "Angola 24 Horas",
-      "_key": "cbf1aec386e5fb4d",
-      "score": 7
-    },
-    {
-      "title": "Crise de água potável em Luanda leva Executivo a autorizar intervenção de milhões",
-      "url": "https://correiokianda.info/crise-de-agua-em-luanda-leva-executivo-a-autorizar-intervencao-de-milhoes/",
-      "source": "Correio Kianda",
-      "_key": "4ad64494776310cd",
-      "score": 7
-    },
-    {
-      "title": "Directora-geral da OMC assume que as mudanças no sistema multilateral vieram para ficar",
-      "url": "https://expansao.co.ao/mundo/detalhe/directora-geral-da-omc-assume-que-as-mudancas-no-sistema-multilateral-vieram-para-ficar-70717.html",
-      "source": "Expansão",
-      "_key": "329870f17abf6877",
-      "score": 7
-    },
-    {
-      "title": "Banqueiros \"vendem\" Angola em fórum africano",
-      "url": "https://expansao.co.ao/economia/detalhe/banqueiros-vendem-angola-em-forum-africano-70708.html",
-      "source": "Expansão",
-      "_key": "befeef17a641f444",
-      "score": 7
-    },
-    {
-      "title": "Sexta edição do Fórum de Negócios & Conectividade arranca com mais de 100 empresários em Catete",
-      "url": "https://www.opais.ao/economia/sexta-edicao-do-forum-de-negocios-conectividade-arranca-com-mais-de-100-empresarios-em-catete/",
-      "source": "O País",
-      "_key": "9ac531651cc9bfbb",
-      "score": 7
-    },
-    {
-      "title": "Perigo é usar quase tudo para consumo corrente do Estado",
-      "url": "https://www.opais.ao/opiniao/perigo-e-usar-quase-tudo-para-consumo-corrente-do-estado/",
-      "source": "O País",
-      "_key": "38304d5c12ddd3ea",
-      "score": 7
-    },
-    {
-      "title": "Police seize over 210 diamond stones in Lunda-Norte",
-      "url": "https://www.angop.ao/en/noticias/politica/apreendidas-218-pedras-de-diamantes-na-lunda-norte/",
-      "source": "ANGOP",
-      "_key": "0b921e8294bb0178",
-      "score": 6
-    },
-    {
-      "title": "Desvio de finalidade: a irregularidade mais cometida pelos gestores públicos",
-      "url": "https://angola24horas.com/opiniao/item/34001-desvio-de-finalidade-a-irregularidade-mais-cometida-pelos-gestores-publicos",
-      "source": "Angola 24 Horas",
-      "_key": "e1b8d8cc83bf4922",
-      "score": 6
-    },
-    {
-      "title": "Julgamento de arguidos por terrorismo e espionagem começa hoje em Luanda",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/33991-julgamento-de-arguidos-por-terrorismo-e-espionagem-comeca-hoje-em-luanda",
-      "source": "Angola 24 Horas",
-      "_key": "38be86798e9f4ce3",
-      "score": 6
-    },
-    {
-      "title": "CICA denuncia envolvimento de igrejas no branqueamento de capitais e cárcere privado",
-      "url": "https://correiokianda.info/cica-denuncia-envolvimento-de-igrejas-no-branqueamento-de-capitais-e-carcere-privado/",
-      "source": "Correio Kianda",
-      "_key": "0ee200385b5a9d1d",
-      "score": 6
-    },
-    {
-      "title": "Reestruturações \"silenciosas\": quando a mudança operacional cria um risco em matéria de Preços de Transferência",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a27b651e95d66c",
-      "score": 6
-    },
-    {
-      "title": "“A nossa economia só vai crescer se caminharmos juntos”, afirma Ricardo de Abreu",
-      "url": "https://forbesafricalusofona.com/a-nossa-economia-so-vai-crescer-se-caminharmos-juntos-afirma-ricardo-de-abreu/",
-      "source": "Forbes África",
-      "_key": "715c68270650264c",
-      "score": 6
-    },
-    {
-      "title": "Destaque Angola reforça cooperação com Nações Unidas no combate aos fluxos financeiros ilícitos Angola reforçou, esta quinta-feira, a cooperação com a Organização das Nações Unidas (ONU), em Nova Iorque, no combate aos fluxos financeiros e ilícitos, e na recuperação e repatriamento de activos. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672460/angola-refor%C3%A7a-coopera%C3%A7%C3%A3o-com-na%C3%A7%C3%B5es-unidas-no-combate-aos-fluxos-financeiros-il%C3%ADcitos-",
+      "title": "Economia Memorando de entendimento fortalece cooperação bilateral ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672481/memorando-de-entendimento-fortalece-coopera%C3%A7%C3%A3o-bilateral",
       "source": "Jornal de Angola",
-      "_key": "91be4ded5926c5f8",
-      "score": 6
+      "_key": "3da43fe1cbe5991a",
+      "score": 7
     },
     {
-      "title": "Camiões fogem da pesagem na Barra do Kwanza e transferem risco para a ponte da Cabala",
-      "url": "https://www.opais.ao/sociedade/camioes-fogem-da-pesagem-na-barra-do-kwanza-e-transferem-risco-para-a-ponte-da-cabala/",
-      "source": "O País",
-      "_key": "712a8cad17f8ec09",
-      "score": 6
-    },
-    {
-      "title": "Executivo reafirma aposta na transformação digital como pilar estratégico do desenvolvimento nacional",
-      "url": "https://www.opais.ao/politica/executivo-reafirma-aposta-na-transformacao-digital-como-pilar-estrategico-do-desenvolvimento-nacional/",
-      "source": "O País",
-      "_key": "272b52848bd1b31a",
-      "score": 6
-    },
-    {
-      "title": "Consenso na concorrência: uma via eficiente para regular e credibilizar o mercado angolano",
-      "url": "https://www.opais.ao/opiniao/consenso-na-concorrencia-uma-via-eficiente-para-regular-e-credibilizar-o-mercado-angolano/",
-      "source": "O País",
-      "_key": "75cfc2d26d952347",
-      "score": 6
-    },
-    {
-      "title": "Contratação",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=252885",
-      "source": "ANGOP",
-      "_key": "f8bb6cde63595f23",
-      "score": 5
-    },
-    {
-      "title": "Angola registers over 4,000 attempted cyberattacks per week -Delloite",
-      "url": "https://www.angop.ao/en/noticias/economia/pelo-menos-duas-mil-tentativas-de-ataques-ciberneticos-sao-bem-sucedidas-deloitte/",
-      "source": "ANGOP",
-      "_key": "62bbb03daa836580",
-      "score": 5
-    },
-    {
-      "title": "Conselho consultivo destaca avanços e oportunidades no sector digital",
-      "url": "https://correiokianda.info/conselho-consultivo-destaca-avancos-e-oportunidades-no-sector-digital/",
-      "source": "Correio Kianda",
-      "_key": "4efbf36316d40ae9",
-      "score": 5
-    },
-    {
-      "title": "Corrida à energia nuclear como resposta à \"pior crise energética\"",
-      "url": "https://expansao.co.ao/mundo/detalhe/corrida-a-energia-nuclear-como-resposta-a-pior-crise-energetica-70715.html",
-      "source": "Expansão",
-      "_key": "bacf1e220530a656",
-      "score": 5
-    },
-    {
-      "title": "Angola e África do Sul assinam plano de acção para dinamizar frequências aéreas e impulsionar o sector do turismo",
-      "url": "https://forbesafricalusofona.com/angola-e-africa-do-sul-assinam-plano-de-accao-para-dinamizar-frequencias-aereas-e-impulsionar-o-sector-do-turismo/",
-      "source": "Forbes África",
-      "_key": "7934fd4fe2aa5649",
-      "score": 5
-    },
-    {
-      "title": "Destaque Turismo no país debatido na sexta-feira no Café CIPRA A promoção do Turismo no país vai estar no centro do debate, na sexta-feira, na 21.ª edição do Café CIPRA, realizado pelo Centro de Imprensa da Presidência da República de Angola (CIPRA).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672457/turismo-no-pa%C3%ADs-debatido-na-sexta-feira-no-caf%C3%A9-cipra",
+      "title": "Economia Empresas nacionais consolidam espaço na indústria petrolífera ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672477/empresas-nacionais-consolidam-espa%C3%A7o-na-ind%C3%BAstria-petrol%C3%ADfera-",
       "source": "Jornal de Angola",
-      "_key": "722cfe01dd669f5b",
-      "score": 5
+      "_key": "e45455c1d921b270",
+      "score": 7
     },
     {
-      "title": "Feira agropecuária e leilão de gado do Namibe arranca com mais de 200 expositores",
-      "url": "https://www.opais.ao/economia/feira-agropecuaria-e-leilao-de-gado-do-namibe-arranca-com-mais-de-200-expositores/",
+      "title": "2,5 mil milhões conseguidos: Perigo é usar quase tudo para consumo corrente do Estado",
+      "url": "https://www.opais.ao/opiniao/25-mil-milhoes-conseguidos-perigo-e-usar-quase-tudo-para-consumo-corrente-do-estado/",
       "source": "O País",
-      "_key": "949bef8a9e50dfe0",
-      "score": 5
+      "_key": "c480e1844722b960",
+      "score": 7
     },
     {
-      "title": "INAPEM promete tirar do informal cerca de 2 mil mulheres e apoiar 400 startups",
-      "url": "https://www.opais.ao/economia/inapem-promete-tirar-do-informal-cerca-de-2-mil-mulheres-e-apoiar-400-startups/",
+      "title": "Head of State travels to Malabo on Friday",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-desloca-se-sexta-feira-a-malabo/",
+      "source": "ANGOP",
+      "_key": "45c437c7814cb9fa",
+      "score": 6
+    },
+    {
+      "title": "Covid-19. Há mais uma nova variante a espalhar-se. O que se sabe?",
+      "url": "https://www.opais.ao/mundo/covid-19-ha-mais-uma-nova-variante-a-espalhar-se-o-que-se-sabe/",
       "source": "O País",
-      "_key": "b1bacefd7bb80a82",
-      "score": 5
+      "_key": "99f446bb7b0bcd5d",
+      "score": 6
     }
   ]
 }
