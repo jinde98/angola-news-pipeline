@@ -1,32 +1,48 @@
 {
   "date": "2026-03-28",
-  "total_new": 8,
-  "total_filtered": 3,
+  "total_new": 17,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Over 700 companies comply with national minimum wage",
-      "url": "https://www.angop.ao/en/noticias/sociedade/mais-de-700-empresas-regularizaram-salario-minimo-nacional/",
+      "title": "Angolan government signs agreement to speed up use of international cards",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-formaliza-acordo-com-visa-para-acelerar-uso-de-cartoes-internacionais/",
       "source": "ANGOP",
-      "_key": "99e10aa4c3ad7e6c",
+      "_key": "576b9fc1e996d3d1",
       "score": 8,
-      "title_cn": "逾700家公司遵守国家最低工资标准"
+      "title_cn": "安哥拉政府签署协议，加速国际银行卡使用"
     },
     {
-      "title": "‎Último dia do Fórum Negócios & Conectividade marcado por visitas à zonas de produção de Icolo e Bengo",
-      "url": "https://www.opais.ao/ultimas_hora/ultimo-dia-do-forum-negocios-conectividade-marcado-por-visitas-a-zonas-de-producao-de-icolo-e-bengo/",
-      "source": "O País",
-      "_key": "80a0b2afec62dd98",
+      "title": "Estrada Nacional 100 terá duas vias em cada sentido a partir de 2027",
+      "url": "https://correiokianda.info/estrada-nacional-100-tera-duas-vias-em-cada-sentido-a-partir-de-2027/",
+      "source": "Correio Kianda",
+      "_key": "da8b88c710466a1d",
       "score": 7,
-      "title_cn": "商业与互联互通论坛闭幕日：参观伊科洛-本戈生产区"
+      "title_cn": "安哥拉100号国道将从2027年起实现双向四车道"
     },
     {
-      "title": "CISP ganha drones e viaturas para o reforço da segurança pública",
-      "url": "https://www.opais.ao/ultimas_hora/cisp-ganha-drones-e-viaturas-para-o-reforco-da-seguranca-publica/",
+      "title": "Crédito bruto ao sector não financeiro em Angola atinge 8,51 mil milhões de euros em Fevereiro",
+      "url": "https://forbesafricalusofona.com/credito-bruto-ao-sector-nao-financeiro-em-angola-atinge-851-mil-milhoes-de-euros-em-fevereiro/",
+      "source": "Forbes África",
+      "_key": "986bef387f56afbc",
+      "score": 7,
+      "title_cn": "安哥拉2月非金融部门信贷总额达85.1亿欧元"
+    },
+    {
+      "title": "Carência nas famílias torna frequente casos de “trabalhadores juniores” em cantinas de estrangeiros",
+      "url": "https://www.opais.ao/sociedade/carencia-nas-familias-torna-frequente-casos-de-trabalhadores-juniores-em-cantinas-de-estrangeiros/",
       "source": "O País",
-      "_key": "582f4ad2112cc1c2",
+      "_key": "2abb1ed16bf2ae87",
+      "score": 7,
+      "title_cn": "家庭贫困致安哥拉“少年工”在外国人餐馆工作现象频发"
+    },
+    {
+      "title": "Angola pressiona Suíça para devolver 900 milhões de euros da corrupção",
+      "url": "https://angola24horas.com/sociedade/item/34017-angola-pressiona-suica-para-devolver-900-milhoes-de-euros-da-corrupcao",
+      "source": "Angola 24 Horas",
+      "_key": "32e731c07d6adc84",
       "score": 6,
-      "title_cn": "CISP获赠无人机和车辆，加强公共安全"
+      "title_cn": "安哥拉施压瑞士，要求归还9亿欧元腐败资金"
     }
   ]
 }
