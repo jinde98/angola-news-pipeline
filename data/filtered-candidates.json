@@ -1,63 +1,217 @@
 {
-  "date": "2026-03-27",
-  "total_new": 18,
-  "total_filtered": 8,
+  "date": "2026-03-28",
+  "total_new": 87,
+  "total_filtered": 30,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Azule Energy aliena à Etu Energias participações nos Blocos 14 e 14K",
-      "url": "https://forbesafricalusofona.com/azule-energy-aliena-a-etu-energias-participacoes-nos-blocos-14-e-14k/",
+      "title": "Contratos no setor petrolífero angolano atingem 54,4 mil milhões de dólares entre 2022 e 2025",
+      "url": "https://jornaloguardiao.com/2026/03/27/contratos-no-setor-petrolifero-angolano-atingem-544-mil-milhoes-de-dolares-entre-2022-e-2025/",
+      "source": "Jornal O Guardião",
+      "_key": "a0e834c50ae54580",
+      "score": 10
+    },
+    {
+      "title": " Contratos no setor petrolífero angolano atingem 54,4 mil milhões de dólares entre 2022 e 2025 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d7c03ae461cb35",
+      "score": 10
+    },
+    {
+      "title": "PR aprova acesso rodoviário ao Mussulo orçado em 166,8 milhões de dólares",
+      "url": "https://jornaloguardiao.com/2026/03/27/pr-aprova-acesso-rodoviario-ao-mussulo-orcado-em-1668-milhoes-de-dolares/",
+      "source": "Jornal O Guardião",
+      "_key": "461fe0caa0d0947d",
+      "score": 9
+    },
+    {
+      "title": "Escassez de combustível em postos de abastecimento e restrições em África",
+      "url": "https://jornaloguardiao.com/2026/03/27/escassez-de-combustivel-em-postos-de-abastecimento-e-restricoes-em-africa/",
+      "source": "Jornal O Guardião",
+      "_key": "7e0a1a2f45f1bd94",
+      "score": 9
+    },
+    {
+      "title": " PR aprova acesso rodoviário ao Mussulo orçado em 166,8 milhões de dólares ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_47c1289c37dee2",
+      "score": 9
+    },
+    {
+      "title": " Escassez de combustível em postos de abastecimento e restrições em África ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a8479a153db694",
+      "score": 9
+    },
+    {
+      "title": "ETU Energias reforça posição em blocos na Bacia do Baixo Congo",
+      "url": "https://angola24horas.com/sociedade/item/34009-etu-energias-reforca-posicao-em-blocos-na-bacia-do-baixo-congo",
+      "source": "Angola 24 Horas",
+      "_key": "40d8feabc0577c57",
+      "score": 8
+    },
+    {
+      "title": "Azule Energy vende participação nos blocos 14 e 14K à Etu Energias por 310 milhões de dólares",
+      "url": "https://diariodosnegocios.com/azule-energy-vende-blocos-petroleos-etu-energias-310-milhoes/",
+      "source": "Diário dos Negócios",
+      "_key": "bb83053f87826dc0",
+      "score": 8
+    },
+    {
+      "title": "Défice orçamental atinge 5,2 biliões Kz em 2025, quatro vezes superior a 2024",
+      "url": "https://diariodosnegocios.com/defice-orcamental-atinge-52-bilioes-kz-em-2025-quatro-vezes-superior-a-2024/",
+      "source": "Diário dos Negócios",
+      "_key": "9c3f052178dcfb3c",
+      "score": 8
+    },
+    {
+      "title": " Azule Energy vende participação nos blocos 14 e 14K à Etu Energias por 310 milhões de dólares ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ec32578c49375c",
+      "score": 8
+    },
+    {
+      "title": " Défice orçamental atinge 5,2 biliões Kz em 2025, quatro vezes superior a 2024 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5179062e03e69f",
+      "score": 8
+    },
+    {
+      "title": "Novo procurador-geral inicia mandato com reforço da área anticorrupção",
+      "url": "https://jornaloguardiao.com/2026/03/27/novo-procurador-geral-inicia-mandato-com-reforco-da-area-anticorrupcao/",
+      "source": "Jornal O Guardião",
+      "_key": "70a6852bff72381e",
+      "score": 8
+    },
+    {
+      "title": " Novo procurador-geral inicia mandato com reforço da área anticorrupção ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b8052cc4d3670c",
+      "score": 8
+    },
+    {
+      "title": "Angola regista reforço de integração de empresas nacionais no sector de petróleos",
+      "url": "https://correiokianda.info/angola-regista-reforco-de-integracao-de-empresas-nacionais-no-sector-de-petroleos/",
+      "source": "Correio Kianda",
+      "_key": "5a96e05ede2046c0",
+      "score": 7
+    },
+    {
+      "title": "Angola attends 14th World Trade Organization Conference",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-na-xiv-conferencia-da-organizacao-mundial-do-comercio/",
+      "source": "ANGOP",
+      "_key": "13fea21398137496",
+      "score": 6
+    },
+    {
+      "title": "PADDA defende aprovação urgente da legislação autárquica e alerta para ilusão com subida do petróleo",
+      "url": "https://correiokianda.info/padda-defende-aprovacao-urgente-da-legislacao-autarquica-e-alerta-para-ilusao-com-subida-do-petroleo/",
+      "source": "Correio Kianda",
+      "_key": "322ca794dac98ac1",
+      "score": 6
+    },
+    {
+      "title": "Governo defende que reforma da OMC deve proteger o multilateralismo",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-defende-que-reforma-da-omc-deve-proteger-o-multilateralismo-70734.html",
+      "source": "Expansão",
+      "_key": "a76a825ac1077ccc",
+      "score": 6
+    },
+    {
+      "title": "Angola defende reforma urgente da Organização Mundial do Comércio",
+      "url": "https://forbesafricalusofona.com/angola-defende-reforma-urgente-da-organizacao-mundial-do-comercio/",
       "source": "Forbes África",
-      "_key": "9363cdf0c9780743",
-      "score": 7
+      "_key": "b8d82cabc403d3a7",
+      "score": 6
     },
     {
-      "title": "‎Azule Energy assina acordo de venda da sua participação nos Blocos 14 e 14K",
-      "url": "https://www.opais.ao/economia/azule-energy-assina-acordo-de-venda-da-sua-participacao-nos-blocos-14-e-14k/",
-      "source": "O País",
-      "_key": "4a002f43870bf637",
-      "score": 7
+      "title": "BNA aplicou 3.744 milhões de kwanzas em multas em 2025 e sancionou cinco gestores",
+      "url": "https://jornaloguardiao.com/2026/03/27/bna-aplicou-3-744-milhoes-de-kwanzas-em-multas-em-2025-e-sancionou-cinco-gestores/",
+      "source": "Jornal O Guardião",
+      "_key": "98b5ee1e0fd730fb",
+      "score": 6
     },
     {
-      "title": "Angola e França aceleram cooperação e priorizam acordo de dupla tributação",
-      "url": "https://www.opais.ao/politica/angola-e-franca-aceleram-cooperacao-e-priorizam-acordo-de-dupla-tributacao/",
-      "source": "O País",
-      "_key": "bf512a4222282ced",
-      "score": 7
+      "title": " BNA aplicou 3.744 milhões de kwanzas em multas em 2025 e sancionou cinco gestores ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_651d2df349f957",
+      "score": 6
     },
     {
-      "title": "Destaque Angola apela à necessidade de consenso para reforma do comércio mundialAngola apelou, quinta-feira, nos Camarões, à necessidade de consenso para viabilizar a reforma do sistema global de comércio. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672509/angola-apela-%C3%A0-necessidade-de-consenso-para-reforma-do-com%C3%A9rcio-mundial",
+      "title": "Destaque Carlos dos Santos: \"Há uma relação entre o nível das infra-estruturas e o desenvolvimento do turismo\"Há uma relação entre o nível das infra-estruturas e o desenvolvimento do turismo, declarou, esta sexta-feira, em Luanda, o ministro do Urbanismo, Habitação e Obras Públicas, Carlos dos Santos, durante a 21.ª edição do Café CIPRA. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672516/carlos-dos-santos:-%22h%C3%A1-uma-rela%C3%A7%C3%A3o-entre-o-n%C3%ADvel-das-infra-estruturas-e-o-desenvolvimento-do-turismo%22",
       "source": "Jornal de Angola",
-      "_key": "cb4644c8a48e2473",
+      "_key": "fdbce45e782320ed",
       "score": 6
     },
     {
-      "title": "Angola defende mobilização de esforços para viabilizar processo da reforma da OMC",
-      "url": "https://www.opais.ao/economia/angola-defende-mobilizacao-de-esforcos-para-viabilizar-processo-da-reforma-da-omc/",
+      "title": "Presidente João Lourenço faz hoje o balanço na liderança da OEACP O Presidente da República e líder cessante da Organização dos Estados de África, Caraíbas e Pacífico (OEACP), João Lourenço, discursa, hoje, em Malabo, Guiné Equatorial, na abertura da 11ª Cimeira dos Chefes de Estado e de Governo da organização.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672525/presidente-jo%C3%A3o-louren%C3%A7o-faz-hoje--o-balan%C3%A7o-na-lideran%C3%A7a-da-oeacp",
+      "source": "Jornal de Angola",
+      "_key": "feac64d4a29d07ff",
+      "score": 6
+    },
+    {
+      "title": "Sociedade Angola pretende estar na linha da frente da soberania digital ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672535/angola-pretende-estar-na-linha-da-frente-da-soberania-digital",
+      "source": "Jornal de Angola",
+      "_key": "7d3573c6404f1123",
+      "score": 6
+    },
+    {
+      "title": "Política Angola pode ser considerado um país livre de minas a partir do próximo ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672528/angola-pode-ser-considerado-um-pa%C3%ADs-livre-de-minas-a-partir-do-pr%C3%B3ximo-ano",
+      "source": "Jornal de Angola",
+      "_key": "fc468f593f640311",
+      "score": 6
+    },
+    {
+      "title": "18:09 / 27 mar. 2026 Ricardo Viegas d'Abreu: \"Turismo pode facilmente acelerar a diversificação económica\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672515/ricardo-viegas-d",
+      "source": "Jornal de Angola",
+      "_key": "dccf24616b5382b7",
+      "score": 6
+    },
+    {
+      "title": "João Lourenço passa hoje presidência rotativa da OEACP a Teodoro Obiang Nguema",
+      "url": "https://www.opais.ao/politica/joao-lourenco-passa-hoje-presidencia-rotativa-da-oeacp-a-teodoro-obiang-nguema/",
       "source": "O País",
-      "_key": "9e30dea807317df9",
+      "_key": "fa2371327c9b17fa",
       "score": 6
     },
     {
-      "title": "Vice-governador do Icolo e Bengo convida turistas e investidores a apostar na província",
-      "url": "https://www.opais.ao/economia/vice-governador-do-icolo-e-bengo-convida-turistas-e-investidores-a-apostar-na-provincia/",
+      "title": "Obras do Hospital Militar Regional do Huambo concluídos em 2028",
+      "url": "https://www.opais.ao/ultimas_hora/obras-do-hospital-militar-regional-do-huambo-concluidos-em-2028/",
       "source": "O País",
-      "_key": "7d21fe34f16b2cc5",
+      "_key": "7cbb678f6bee75c7",
       "score": 6
     },
     {
-      "title": "Ministério das Obras Públicas alerta população para...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ministerio-das-obras-publicas-alerta-populacao-para-burlas-e-garante-que-nao-ha-apartamentos-desocupados-nas-centralidades-e-que-o-governo-nao-esta-a-vender-habitacoes-70731.html",
-      "source": "Novo Jornal",
-      "_key": "a092e7d561010406",
+      "title": "Destaque Mário Oliveira: \"Angotic 2026 não é um desafio exclusivo do Ministério, é a bandeira do país\"O ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, afirmou, hoje, em Malanje, que \"o Angotic 2026 não é um desafio exclusivo do Ministério, é a bandeira do país\". ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672519/m%C3%A1rio-oliveira:-%22angotic-2026-n%C3%A3o-%C3%A9-um-desafio-exclusivo-do-minist%C3%A9rio-%C3%A9-a-bandeira-do-pa%C3%ADs%22",
+      "source": "Jornal de Angola",
+      "_key": "581fed57dce64630",
       "score": 5
     },
     {
-      "title": "Presidente da República chega à Guiné Equatorial",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-chega-a-guine-equatorial/",
+      "title": "IV Conselho Consultivo do MINTTICS encerra com compromisso da transformação digital",
+      "url": "https://www.opais.ao/politica/iv-conselho-consultivo-do-minttics-encerra-com-compromisso-da-transformacao-digital/",
       "source": "O País",
-      "_key": "ee307580a088c1a9",
+      "_key": "8f9fb4fab532dc70",
+      "score": 5
+    },
+    {
+      "title": "Angola e Gabão preparam visitas de alto nível",
+      "url": "https://www.opais.ao/politica/angola-e-gabao-preparam-visitas-de-alto-nivel/",
+      "source": "O País",
+      "_key": "ab27d3512cc8bba7",
       "score": 5
     }
   ]

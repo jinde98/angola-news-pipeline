@@ -1,116 +1,530 @@
 {
-  "date": "2026-03-27",
-  "total_extracted": 1652,
-  "total_new": 18,
-  "total_existing": 1634,
+  "date": "2026-03-28",
+  "total_extracted": 1643,
+  "total_new": 87,
+  "total_existing": 1556,
   "articles": [
     {
-      "title": "External evaluation contributes to improving quality of higher education in Angola",
-      "url": "https://www.angop.ao/en/noticias/educacao/avaliacao-externa-contribui-para-elevacao-da-qualidade-do-ensino-superior-em-angola/",
+      "title": "Southern region meeting deemed a borderless forum",
+      "url": "https://www.angop.ao/en/noticias/politica/governador-considera-ii-encontro-de-alto-nivel-da-regiao-sul-como-um-forum-de-reflexao-que-nao-conhece-fronteiras-administr/",
       "source": "ANGOP",
-      "_key": "11d2b98e6027d875"
+      "_key": "7df9d4c50c8566fc"
     },
     {
-      "title": "Mais de 40% dos cursos superiores em Angola não estão acreditados",
-      "url": "https://correiokianda.info/mais-de-40-dos-cursos-superiores-em-angola-nao-estao-acreditados/",
+      "title": "Actor Will Smith highlights Angola's historical and cultural image",
+      "url": "https://www.angop.ao/en/noticias/economia/actor-will-smith-destaca-imagem-historica-e-cultural-de-angola/",
+      "source": "ANGOP",
+      "_key": "2186ca2259d80f97"
+    },
+    {
+      "title": "Minister confirms conditions for 2026 E1 GP World Championship are in place",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-assegura-condicoes-para-o-campeonato-mundial-e1-gp-2026/",
+      "source": "ANGOP",
+      "_key": "90e4f77db816eb01"
+    },
+    {
+      "title": "Angola attends 14th World Trade Organization Conference",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-na-xiv-conferencia-da-organizacao-mundial-do-comercio/",
+      "source": "ANGOP",
+      "_key": "13fea21398137496"
+    },
+    {
+      "title": "Angola reaffirms commitment to combating drought in southern region",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reafirma-empenho-no-combate-a-seca-no-sul-do-pais/",
+      "source": "ANGOP",
+      "_key": "bb349225510b2046"
+    },
+    {
+      "title": "Ex-ministro moçambicano Manuel Chang deixou prisão nos EUA",
+      "url": "https://angola24horas.com/internacional/item/34015-ex-ministro-mocambicano-manuel-chang-deixou-prisao-nos-eua",
+      "source": "Angola 24 Horas",
+      "_key": "27c03b6254a2486b"
+    },
+    {
+      "title": "ONU declara escravidão o mais grave crime contra humanidade",
+      "url": "https://angola24horas.com/internacional/item/34016-onu-declara-escravidao-o-mais-grave-crime-contra-humanidade",
+      "source": "Angola 24 Horas",
+      "_key": "ae412156ddffec15"
+    },
+    {
+      "title": "Líder religioso denuncia envolvimento de igrejas em branqueamento de capitais e cárcere privado",
+      "url": "https://angola24horas.com/component/k2/item/34014-lider-religioso-denuncia-envolvimento-de-igrejas-em-branqueamento-de-capitais-e-carcere-privado",
+      "source": "Angola 24 Horas",
+      "_key": "e9cc9c2d04bf8d11"
+    },
+    {
+      "title": "Ministério do Urbanismo desmente venda de apartamentos nas centralidades",
+      "url": "https://angola24horas.com/sociedade/item/34012-ministerio-do-urbanismo-desmente-venda-de-apartamentos-nas-centralidades",
+      "source": "Angola 24 Horas",
+      "_key": "606a290a20663f2f"
+    },
+    {
+      "title": "Bento Kangamba acusa a UNITA de retomar a “velha narrativa” de fraude eleitoral de 2022",
+      "url": "https://angola24horas.com/politica/item/34011-bento-kangamba-acusa-a-unita-de-retomar-a-velha-narrativa-de-fraude-eleitoral-de-2022",
+      "source": "Angola 24 Horas",
+      "_key": "274a524aca7bd884"
+    },
+    {
+      "title": "FNLA reconhece crispação interna e acusa líder de “teimosia”",
+      "url": "https://angola24horas.com/politica/item/34010-fnla-reconhece-crispacao-interna-e-acusa-lider-de-teimosia",
+      "source": "Angola 24 Horas",
+      "_key": "131e3d0d2e4a2f70"
+    },
+    {
+      "title": "ETU Energias reforça posição em blocos na Bacia do Baixo Congo",
+      "url": "https://angola24horas.com/sociedade/item/34009-etu-energias-reforca-posicao-em-blocos-na-bacia-do-baixo-congo",
+      "source": "Angola 24 Horas",
+      "_key": "40d8feabc0577c57"
+    },
+    {
+      "title": "Corrida de barcos elétricos em Angola vai custar zero aos cofres do Estado – ministro",
+      "url": "https://angola24horas.com/sociedade/item/34013-corrida-de-barcos-eletricos-em-angola-vai-custar-zero-aos-cofres-do-estado-ministro",
+      "source": "Angola 24 Horas",
+      "_key": "5ef9949ad71547f3"
+    },
+    {
+      "title": "Kangamba acusa UNITA de manipular percepção sobre eleições",
+      "url": "https://correiokianda.info/kangamba-acusa-unita-de-manipular-percepcao-sobre-eleicoes/",
       "source": "Correio Kianda",
-      "_key": "eeeafa3859b90229"
+      "_key": "52bfdd36533819d2"
     },
     {
-      "title": "Petro defronta Al Ahly com olhos na conquista dos primeiros pontos na corrida à fase final da BAL",
-      "url": "https://correiokianda.info/petro-defronta-al-ahly-com-olhos-na-conquista-dos-primeiros-pontos-na-corrida-a-fase-final-da-bal/",
+      "title": "Ministros admitem desafios e prometem melhorar acesso aos destinos turísticos",
+      "url": "https://correiokianda.info/ministros-admitem-desafios-e-prometem-melhorar-acesso-aos-destinos-turisticos/",
       "source": "Correio Kianda",
-      "_key": "d3204c1863530d3e"
+      "_key": "18072f1513b51123"
     },
     {
-      "title": "Ministro da Promoção de Investimentos e Fomento Empresarial de Cabo Verde recebe INAPEM de Angola para partilhar experiência",
-      "url": "https://forbesafricalusofona.com/ministro-da-promocao-de-investimentos-e-fomento-empresarial-de-cabo-verde-recebe-inapem-de-angola-para-partilhar-experiencia/",
+      "title": "Chivukuvuku diz que “Angola precisa de soluções e não de disputas entre MPLA e UNITA”",
+      "url": "https://correiokianda.info/chivukuvuku-diz-que-angola-precisa-de-solucoes-e-nao-de-disputas-entre-mpla-e-unita/",
+      "source": "Correio Kianda",
+      "_key": "2bd16dc0108a51ea"
+    },
+    {
+      "title": "BD exige intervenção do Presidente para travar “cemitérios rodoviários”",
+      "url": "https://correiokianda.info/bd-exige-intervencao-do-presidente-para-travar-cemiterios-rodoviarios/",
+      "source": "Correio Kianda",
+      "_key": "e848e433a907359c"
+    },
+    {
+      "title": "PADDA defende aprovação urgente da legislação autárquica e alerta para ilusão com subida do petróleo",
+      "url": "https://correiokianda.info/padda-defende-aprovacao-urgente-da-legislacao-autarquica-e-alerta-para-ilusao-com-subida-do-petroleo/",
+      "source": "Correio Kianda",
+      "_key": "322ca794dac98ac1"
+    },
+    {
+      "title": "Angola regista reforço de integração de empresas nacionais no sector de petróleos",
+      "url": "https://correiokianda.info/angola-regista-reforco-de-integracao-de-empresas-nacionais-no-sector-de-petroleos/",
+      "source": "Correio Kianda",
+      "_key": "5a96e05ede2046c0"
+    },
+    {
+      "title": "MEA denuncia “alimentação indigna” nas escolas públicas de Angola",
+      "url": "https://correiokianda.info/mea-denuncia-alimentacao-indigna-nas-escolas-publicas-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "0333eb36ec4fb9d5"
+    },
+    {
+      "title": "“Comunicação pública deve adaptar-se à era digital”, diz Nuno Caldas",
+      "url": "https://correiokianda.info/comunicacao-publica-deve-adaptar-se-a-era-digital-diz-nuno-caldas/",
+      "source": "Correio Kianda",
+      "_key": "3a72ff69898c432e"
+    },
+    {
+      "title": "Académicos criticam nível de acreditação de cursos no ensino superior",
+      "url": "https://correiokianda.info/academicos-criticam-nivel-de-acreditacao-de-cursos-no-ensino-superior/",
+      "source": "Correio Kianda",
+      "_key": "89545611bfea6a59"
+    },
+    {
+      "title": "Governo desmente venda de habitações nas centralidades e alerta para casos de burla",
+      "url": "https://correiokianda.info/governo-desmente-venda-de-habitacoes-nas-centralidades-e-alerta-para-casos-de-burla/",
+      "source": "Correio Kianda",
+      "_key": "06c2faf5aa22aed6"
+    },
+    {
+      "title": "Padre critica tributação de zungueiras e classifica como “ataque aos pobres”",
+      "url": "https://correiokianda.info/padre-critica-tributacao-de-zungueiras-e-classifica-como-ataque-aos-pobres/",
+      "source": "Correio Kianda",
+      "_key": "88ba80b1cbd9a438"
+    },
+    {
+      "title": "Azule Energy vende participação nos blocos 14 e 14K à Etu Energias por 310 milhões de dólares",
+      "url": "https://diariodosnegocios.com/azule-energy-vende-blocos-petroleos-etu-energias-310-milhoes/",
+      "source": "Diário dos Negócios",
+      "_key": "bb83053f87826dc0"
+    },
+    {
+      "title": "Défice orçamental atinge 5,2 biliões Kz em 2025, quatro vezes superior a 2024",
+      "url": "https://diariodosnegocios.com/defice-orcamental-atinge-52-bilioes-kz-em-2025-quatro-vezes-superior-a-2024/",
+      "source": "Diário dos Negócios",
+      "_key": "9c3f052178dcfb3c"
+    },
+    {
+      "title": " Azule Energy vende participação nos blocos 14 e 14K à Etu Energias por 310 milhões de dólares ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ec32578c49375c"
+    },
+    {
+      "title": " Défice orçamental atinge 5,2 biliões Kz em 2025, quatro vezes superior a 2024 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5179062e03e69f"
+    },
+    {
+      "title": "Governo defende que reforma da OMC deve proteger o multilateralismo",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-defende-que-reforma-da-omc-deve-proteger-o-multilateralismo-70734.html",
+      "source": "Expansão",
+      "_key": "a76a825ac1077ccc"
+    },
+    {
+      "title": "Angola defende reforma urgente da Organização Mundial do Comércio",
+      "url": "https://forbesafricalusofona.com/angola-defende-reforma-urgente-da-organizacao-mundial-do-comercio/",
       "source": "Forbes África",
-      "_key": "703a60384384e065"
+      "_key": "b8d82cabc403d3a7"
     },
     {
-      "title": "Azule Energy aliena à Etu Energias participações nos Blocos 14 e 14K",
-      "url": "https://forbesafricalusofona.com/azule-energy-aliena-a-etu-energias-participacoes-nos-blocos-14-e-14k/",
-      "source": "Forbes África",
-      "_key": "9363cdf0c9780743"
+      "title": "Laboratório de Inovação reforça modernização das Finanças Públicas",
+      "url": "https://holdonangola.com/laboratorio-de-inovacao-reforca-modernizacao-das-financas-publicas/",
+      "source": "Hold On Angola",
+      "_key": "137b0c106fa72be3"
     },
     {
-      "title": "Destaque Mulheres abordam sobre protecção de dados e segurança digitalA conferência dedicada ao papel da mulher na sociedade digital decorreu, na tarde desta sexta-feira, e destacou a protecção de dados, inclusão tecnológica e combate à violência digital.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672511/mulheres-abordam-sobre-protec%C3%A7%C3%A3o-de-dados-e-seguran%C3%A7a-digital",
+      "title": "Turismo sim, mais do que charme – Anabela…",
+      "url": "https://holdonangola.com/turismo-sim-mais-do-que-charme-anabela-sapalalo/",
+      "source": "Hold On Angola",
+      "_key": "9e64ed6afd8d82e0"
+    },
+    {
+      "title": "Novo procurador-geral inicia mandato com reforço da área anticorrupção",
+      "url": "https://jornaloguardiao.com/2026/03/27/novo-procurador-geral-inicia-mandato-com-reforco-da-area-anticorrupcao/",
+      "source": "Jornal O Guardião",
+      "_key": "70a6852bff72381e"
+    },
+    {
+      "title": "PR aprova acesso rodoviário ao Mussulo orçado em 166,8 milhões de dólares",
+      "url": "https://jornaloguardiao.com/2026/03/27/pr-aprova-acesso-rodoviario-ao-mussulo-orcado-em-1668-milhoes-de-dolares/",
+      "source": "Jornal O Guardião",
+      "_key": "461fe0caa0d0947d"
+    },
+    {
+      "title": "Contratos no setor petrolífero angolano atingem 54,4 mil milhões de dólares entre 2022 e 2025",
+      "url": "https://jornaloguardiao.com/2026/03/27/contratos-no-setor-petrolifero-angolano-atingem-544-mil-milhoes-de-dolares-entre-2022-e-2025/",
+      "source": "Jornal O Guardião",
+      "_key": "a0e834c50ae54580"
+    },
+    {
+      "title": "Angolana FNLA convoca congresso para setembro acusando presidente de “ditador”",
+      "url": "https://jornaloguardiao.com/2026/03/27/angolana-fnla-convoca-congresso-para-setembro-acusando-presidente-de-ditador/",
+      "source": "Jornal O Guardião",
+      "_key": "be71968471f70d66"
+    },
+    {
+      "title": "BNA aplicou 3.744 milhões de kwanzas em multas em 2025 e sancionou cinco gestores",
+      "url": "https://jornaloguardiao.com/2026/03/27/bna-aplicou-3-744-milhoes-de-kwanzas-em-multas-em-2025-e-sancionou-cinco-gestores/",
+      "source": "Jornal O Guardião",
+      "_key": "98b5ee1e0fd730fb"
+    },
+    {
+      "title": "Ator Will Smith quer gravar cenas de Bad Boys em Angola",
+      "url": "https://jornaloguardiao.com/2026/03/27/ator-will-smith-quer-gravar-cenas-de-bad-boys-em-angola/",
+      "source": "Jornal O Guardião",
+      "_key": "41107711a01f3851"
+    },
+    {
+      "title": "Angola lança campanha para vacinar nove milhões de crianças contra a poliomielite",
+      "url": "https://jornaloguardiao.com/2026/03/27/angola-lanca-campanha-para-vacinar-nove-milhoes-de-criancas-contra-a-poliomielite/",
+      "source": "Jornal O Guardião",
+      "_key": "986882dffca348e2"
+    },
+    {
+      "title": "Namíbia baixa imposto sobre combustível em 50% durante três meses",
+      "url": "https://jornaloguardiao.com/2026/03/27/namibia-baixa-imposto-sobre-combustivel-em-50-durante-tres-meses/",
+      "source": "Jornal O Guardião",
+      "_key": "16b0e5c1d1b45b10"
+    },
+    {
+      "title": "Escassez de combustível em postos de abastecimento e restrições em África",
+      "url": "https://jornaloguardiao.com/2026/03/27/escassez-de-combustivel-em-postos-de-abastecimento-e-restricoes-em-africa/",
+      "source": "Jornal O Guardião",
+      "_key": "7e0a1a2f45f1bd94"
+    },
+    {
+      "title": "França reduzida a 10 vence Brasil no último teste antes do Mundial2026",
+      "url": "https://jornaloguardiao.com/2026/03/27/franca-reduzida-a-10-vence-brasil-no-ultimo-teste-antes-do-mundial2026/",
+      "source": "Jornal O Guardião",
+      "_key": "9f28d7fb575ef8c0"
+    },
+    {
+      "title": "Jamaica ou República Democrática do Congo no grupo de Portugal no Mundial",
+      "url": "https://jornaloguardiao.com/2026/03/27/jamaica-ou-republica-democratica-do-congo-no-grupo-de-portugal-no-mundial/",
+      "source": "Jornal O Guardião",
+      "_key": "bde1a15bbb260310"
+    },
+    {
+      "title": "CAN2025: Federação do Senegal diz que perda de título é o “maior roubo da história”",
+      "url": "https://jornaloguardiao.com/2026/03/27/can2025-federacao-do-senegal-diz-que-perda-de-titulo-e-o-maior-roubo-da-historia/",
+      "source": "Jornal O Guardião",
+      "_key": "4d81f901901f3fa5"
+    },
+    {
+      "title": "Estados Unidos ponderam enviar mais 10 mil soldados para o Golfo Pérsico",
+      "url": "https://jornaloguardiao.com/2026/03/27/estados-unidos-ponderam-enviar-mais-10-mil-soldados-para-o-golfo-persico/",
+      "source": "Jornal O Guardião",
+      "_key": "0c8e39c720d9153f"
+    },
+    {
+      "title": "Trump prolonga até seis de abril ultimato para que o Irão reabra estreito de Ormuz",
+      "url": "https://jornaloguardiao.com/2026/03/27/trump-prolonga-ate-seis-de-abril-ultimato-para-que-o-irao-reabra-estreito-de-ormuz/",
+      "source": "Jornal O Guardião",
+      "_key": "b14ce077121260ef"
+    },
+    {
+      "title": "Teerão reduz idade mínima para integrar milícia Bassidj para 12 anos",
+      "url": "https://jornaloguardiao.com/2026/03/27/teerao-reduz-idade-minima-para-integrar-milicia-bassidj-para-12-anos/",
+      "source": "Jornal O Guardião",
+      "_key": "238f82af265176b5"
+    },
+    {
+      "title": "Sábado, 28 de Março, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_973cb13288904d"
+    },
+    {
+      "title": " Novo procurador-geral inicia mandato com reforço da área anticorrupção ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b8052cc4d3670c"
+    },
+    {
+      "title": " PR aprova acesso rodoviário ao Mussulo orçado em 166,8 milhões de dólares ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_47c1289c37dee2"
+    },
+    {
+      "title": " Contratos no setor petrolífero angolano atingem 54,4 mil milhões de dólares entre 2022 e 2025 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d7c03ae461cb35"
+    },
+    {
+      "title": " Angolana FNLA convoca congresso para setembro acusando presidente de “ditador” ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a3c74a9d060b4c"
+    },
+    {
+      "title": " BNA aplicou 3.744 milhões de kwanzas em multas em 2025 e sancionou cinco gestores ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_651d2df349f957"
+    },
+    {
+      "title": " Ator Will Smith quer gravar cenas de Bad Boys em Angola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_442419355787d8"
+    },
+    {
+      "title": " Angola lança campanha para vacinar nove milhões de crianças contra a poliomielite ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c403fe3f4886a0"
+    },
+    {
+      "title": " Namíbia baixa imposto sobre combustível em 50% durante três meses ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_cf141fc63e0f3e"
+    },
+    {
+      "title": " Escassez de combustível em postos de abastecimento e restrições em África ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a8479a153db694"
+    },
+    {
+      "title": " França reduzida a 10 vence Brasil no último teste antes do Mundial2026 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_64598ad01d4f3e"
+    },
+    {
+      "title": " Jamaica ou República Democrática do Congo no grupo de Portugal no Mundial ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b5a17eaaa80062"
+    },
+    {
+      "title": " CAN2025: Federação do Senegal diz que perda de título é o “maior roubo da história” ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_2d828257266ed2"
+    },
+    {
+      "title": " Estados Unidos ponderam enviar mais 10 mil soldados para o Golfo Pérsico ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f478c70361eb01"
+    },
+    {
+      "title": " Trump prolonga até seis de abril ultimato para que o Irão reabra estreito de Ormuz ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_fa9c6fdd1813f6"
+    },
+    {
+      "title": " Teerão reduz idade mínima para integrar milícia Bassidj para 12 anos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d4181190507210"
+    },
+    {
+      "title": "Destaque Mário Oliveira: \"Angotic 2026 não é um desafio exclusivo do Ministério, é a bandeira do país\"O ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, afirmou, hoje, em Malanje, que \"o Angotic 2026 não é um desafio exclusivo do Ministério, é a bandeira do país\". ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672519/m%C3%A1rio-oliveira:-%22angotic-2026-n%C3%A3o-%C3%A9-um-desafio-exclusivo-do-minist%C3%A9rio-%C3%A9-a-bandeira-do-pa%C3%ADs%22",
       "source": "Jornal de Angola",
-      "_key": "2b05b41e0301af5c"
+      "_key": "581fed57dce64630"
     },
     {
-      "title": "Destaque Angola apela à necessidade de consenso para reforma do comércio mundialAngola apelou, quinta-feira, nos Camarões, à necessidade de consenso para viabilizar a reforma do sistema global de comércio. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672509/angola-apela-%C3%A0-necessidade-de-consenso-para-reforma-do-com%C3%A9rcio-mundial",
+      "title": "Destaque Comité de Inteligência Militar avalia em Harare riscos de ameaça à segurança regionalA 52.ª Reunião do Comité Permanente de Inteligência Militar (DISC) dos Estados-Membros da Comunidade de Desenvolvimento da África Austral (SADC) avaliou, hoje, num hotel, em Harare, os riscos de ameaça à segurança regional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672518/comit%C3%A9-de-intelig%C3%AAncia-militar-avalia-em-harare-riscos-de-amea%C3%A7a-%C3%A0-seguran%C3%A7a-regional",
       "source": "Jornal de Angola",
-      "_key": "cb4644c8a48e2473"
+      "_key": "f88c30d653b441ae"
     },
     {
-      "title": "Sociedade Hospital Lucrécia Paim reabilita serviços ambulatoriais para melhorar atendimento ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672512/hospital-lucr%C3%A9cia-paim-reabilita-servi%C3%A7os-ambulatoriais-para-melhorar-atendimento",
+      "title": "Destaque Carlos dos Santos: \"Há uma relação entre o nível das infra-estruturas e o desenvolvimento do turismo\"Há uma relação entre o nível das infra-estruturas e o desenvolvimento do turismo, declarou, esta sexta-feira, em Luanda, o ministro do Urbanismo, Habitação e Obras Públicas, Carlos dos Santos, durante a 21.ª edição do Café CIPRA. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672516/carlos-dos-santos:-%22h%C3%A1-uma-rela%C3%A7%C3%A3o-entre-o-n%C3%ADvel-das-infra-estruturas-e-o-desenvolvimento-do-turismo%22",
       "source": "Jornal de Angola",
-      "_key": "dd607618588658a9"
+      "_key": "fdbce45e782320ed"
     },
     {
-      "title": "Política Destacados avanços do país no combate aos efeitos das alterações climáticas ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672510/destacados-avan%C3%A7os-do-pa%C3%ADs-no-combate-aos-efeitos-das-altera%C3%A7%C3%B5es-clim%C3%A1ticas-",
+      "title": "Presidente João Lourenço faz hoje o balanço na liderança da OEACP O Presidente da República e líder cessante da Organização dos Estados de África, Caraíbas e Pacífico (OEACP), João Lourenço, discursa, hoje, em Malabo, Guiné Equatorial, na abertura da 11ª Cimeira dos Chefes de Estado e de Governo da organização.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672525/presidente-jo%C3%A3o-louren%C3%A7o-faz-hoje--o-balan%C3%A7o-na-lideran%C3%A7a-da-oeacp",
       "source": "Jornal de Angola",
-      "_key": "45c8e3c1d6803b6f"
+      "_key": "feac64d4a29d07ff"
     },
     {
-      "title": "Ministério das Obras Públicas alerta população para...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ministerio-das-obras-publicas-alerta-populacao-para-burlas-e-garante-que-nao-ha-apartamentos-desocupados-nas-centralidades-e-que-o-governo-nao-esta-a-vender-habitacoes-70731.html",
-      "source": "Novo Jornal",
-      "_key": "a092e7d561010406"
+      "title": "Destaque Nuno Caldas enaltece processo de modernização da Edições NovembroA Edições Novembro, detentora dos títulos, Jornal de Angola, Economia e Finanças, Jornal dos Desportos e outros é referência no processo de modernização dos órgãos de Comunicação Social no país, nos últimos quatro anos, disse, hoje, o secretário de Estado do sector, Nuno Caldas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672520/nuno-caldas-enaltece-processo-de-moderniza%C3%A7%C3%A3o-da-edi%C3%A7%C3%B5es-novembro",
+      "source": "Jornal de Angola",
+      "_key": "7f764f7b675079d2"
     },
     {
-      "title": "Notáveis angolanos acusam EUA de cerco total a Cuba...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/notaveis-angolanos-acusam-eua-de-cerco-total-a-cuba-em-manifesto-publico-entregue-ao-presidente-da-republica-70719.html",
-      "source": "Novo Jornal",
-      "_key": "b39e3407b9ad1161"
+      "title": "Sociedade Angola pretende estar na linha da frente da soberania digital ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672535/angola-pretende-estar-na-linha-da-frente-da-soberania-digital",
+      "source": "Jornal de Angola",
+      "_key": "7d3573c6404f1123"
     },
     {
-      "title": "Presidente da República chega à Guiné Equatorial",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-chega-a-guine-equatorial/",
+      "title": "Política OMA encerra “Jornada Março Mulher” com apelo ao início de um novo ciclo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672532/oma-encerra-%E2%80%9Cjornada-mar%C3%A7o-mulher%E2%80%9D-com-apelo-ao-in%C3%ADcio-de-um-novo-ciclo",
+      "source": "Jornal de Angola",
+      "_key": "403e4396a86c7b4a"
+    },
+    {
+      "title": "Política Angola pode ser considerado um país livre de minas a partir do próximo ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672528/angola-pode-ser-considerado-um-pa%C3%ADs-livre-de-minas-a-partir-do-pr%C3%B3ximo-ano",
+      "source": "Jornal de Angola",
+      "_key": "fc468f593f640311"
+    },
+    {
+      "title": "Sociedade Enfermagem: Especialistas avançam com padronização e actualização de manuais ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672522/enfermagem:-especialistas-avan%C3%A7am-com-padroniza%C3%A7%C3%A3o-e-actualiza%C3%A7%C3%A3o-de-manuais",
+      "source": "Jornal de Angola",
+      "_key": "9e1f1586e0daa0c1"
+    },
+    {
+      "title": "Sociedade Luanda acolhe reunião de balanço dos cursos de enfermagem ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672517/luanda-acolhe-reuni%C3%A3o-de-balan%C3%A7o-dos-cursos-de-enfermagem",
+      "source": "Jornal de Angola",
+      "_key": "6e2b1d32ff3ef2da"
+    },
+    {
+      "title": "20:59 / 27 mar. 2026 Anabela Aya aquece noite com show memorável no MAAN ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/672521/anabela-aya-aquece-noite-com-show-memor%C3%A1vel-no-maan",
+      "source": "Jornal de Angola",
+      "_key": "c07dbf04368486ac"
+    },
+    {
+      "title": "18:09 / 27 mar. 2026 Ricardo Viegas d'Abreu: \"Turismo pode facilmente acelerar a diversificação económica\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672515/ricardo-viegas-d",
+      "source": "Jornal de Angola",
+      "_key": "dccf24616b5382b7"
+    },
+    {
+      "title": "17:38 / 27 mar. 2026 Márcio Daniel: \"Turismo está a ser feito sobretudo em prolongados e datas comemorativas\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672514/m%C3%A1rcio-daniel:-%22turismo-est%C3%A1-a-ser-feito-sobretudo-em-prolongados-e-datas-comemorativas%22",
+      "source": "Jornal de Angola",
+      "_key": "9db68ce8bd7cfb4d"
+    },
+    {
+      "title": "João Lourenço passa hoje presidência rotativa da OEACP a Teodoro Obiang Nguema",
+      "url": "https://www.opais.ao/politica/joao-lourenco-passa-hoje-presidencia-rotativa-da-oeacp-a-teodoro-obiang-nguema/",
       "source": "O País",
-      "_key": "ee307580a088c1a9"
+      "_key": "fa2371327c9b17fa"
     },
     {
-      "title": "MINTTICS garante cobertura mediática para visita do Papa Leão XIV a Angola",
-      "url": "https://www.opais.ao/politica/minttics-garante-cobertura-mediatica-para-visita-do-papa-leao-xiv-a-angola/",
+      "title": "Detidos no Huambo cinco cidadãos por abate e venda de carne de hipopótamo",
+      "url": "https://www.opais.ao/destaque/detidos-no-huambo-cinco-cidadaos-por-abate-e-venda-de-carne-de-hipopotamo/",
       "source": "O País",
-      "_key": "b04a235a86ae2d15"
+      "_key": "1e17599951dcb42c"
     },
     {
-      "title": "‎Azule Energy assina acordo de venda da sua participação nos Blocos 14 e 14K",
-      "url": "https://www.opais.ao/economia/azule-energy-assina-acordo-de-venda-da-sua-participacao-nos-blocos-14-e-14k/",
+      "title": "Pensionistas do MININT têm até o dia 31 deste mês para realizar prova de vida",
+      "url": "https://www.opais.ao/destaque/pensionistas-do-minint-tem-ate-o-dia-31-deste-mes-para-realizar-prova-de-vida/",
       "source": "O País",
-      "_key": "4a002f43870bf637"
+      "_key": "18f4219cb86ada79"
     },
     {
-      "title": "Angola defende mobilização de esforços para viabilizar processo da reforma da OMC",
-      "url": "https://www.opais.ao/economia/angola-defende-mobilizacao-de-esforcos-para-viabilizar-processo-da-reforma-da-omc/",
+      "title": "Assembleia Nacional participa na reunião do Fórum Parlamentar da SADC",
+      "url": "https://www.opais.ao/politica/assembleia-nacional-participa-na-reuniao-do-forum-parlamentar-da-sadc/",
       "source": "O País",
-      "_key": "9e30dea807317df9"
+      "_key": "f3addb8e07c02eb3"
     },
     {
-      "title": "Vice-governador do Icolo e Bengo convida turistas e investidores a apostar na província",
-      "url": "https://www.opais.ao/economia/vice-governador-do-icolo-e-bengo-convida-turistas-e-investidores-a-apostar-na-provincia/",
+      "title": "IV Conselho Consultivo do MINTTICS encerra com compromisso da transformação digital",
+      "url": "https://www.opais.ao/politica/iv-conselho-consultivo-do-minttics-encerra-com-compromisso-da-transformacao-digital/",
       "source": "O País",
-      "_key": "7d21fe34f16b2cc5"
+      "_key": "8f9fb4fab532dc70"
     },
     {
-      "title": "Angola votou a favor da resolução da ONU que classifica a escravatura como “traição à dignidade humana”",
-      "url": "https://www.opais.ao/politica/angola-votou-a-favor-da-resolucao-da-onu-que-classifica-a-escravatura-como-traicao-a-dignidade-humana/",
+      "title": "Detido cidadão de 43 anos por abuso sexual da neta menor de 2 anos na Lunda-Norte",
+      "url": "https://www.opais.ao/ultimas_hora/detido-cidadao-de-43-anos-por-abuso-sexual-da-neta-menor-de-2-anos-na-lunda-norte/",
       "source": "O País",
-      "_key": "3e1e3bdb6b98fb86"
+      "_key": "0384e0de28ce2042"
     },
     {
-      "title": "Angola e França aceleram cooperação e priorizam acordo de dupla tributação",
-      "url": "https://www.opais.ao/politica/angola-e-franca-aceleram-cooperacao-e-priorizam-acordo-de-dupla-tributacao/",
+      "title": "Obras do Hospital Militar Regional do Huambo concluídos em 2028",
+      "url": "https://www.opais.ao/ultimas_hora/obras-do-hospital-militar-regional-do-huambo-concluidos-em-2028/",
       "source": "O País",
-      "_key": "bf512a4222282ced"
+      "_key": "7cbb678f6bee75c7"
+    },
+    {
+      "title": "Angola e Gabão preparam visitas de alto nível",
+      "url": "https://www.opais.ao/politica/angola-e-gabao-preparam-visitas-de-alto-nivel/",
+      "source": "O País",
+      "_key": "ab27d3512cc8bba7"
+    },
+    {
+      "title": "PRS condiciona coligações à implementação do federalismo: “O único caminho é aceitar o nosso modelo”",
+      "url": "https://www.opais.ao/politica/prs-condiciona-coligacoes-a-implementacao-do-federalismo-o-unico-caminho-e-aceitar-o-nosso-modelo/",
+      "source": "O País",
+      "_key": "bcdcc926dc89b02c"
+    },
+    {
+      "title": "Saúde Pública em Benguela prevê imunizar mais de 700 mil crianças contra pólio em três dias",
+      "url": "https://www.opais.ao/sociedade/saude-publica-em-benguela-preve-imunizar-mais-de-700-mil-criancas-contra-polio-em-tres-dias/",
+      "source": "O País",
+      "_key": "202c48d76c27d894"
+    },
+    {
+      "title": "África",
+      "url": "https://www.opais.ao/categoria/africa/",
+      "source": "O País",
+      "_key": "c68ddbf941fd7e71"
     }
   ]
 }
