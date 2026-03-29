@@ -1,22 +1,15 @@
 {
   "date": "2026-03-29",
-  "total_new": 7,
-  "total_filtered": 2,
+  "total_new": 2,
+  "total_filtered": 1,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China reafirma compromisso de continuar a investir no Cuanza-Sul",
-      "url": "https://www.opais.ao/economia/china-reafirma-compromisso-de-continuar-a-investir-no-cuanza-sul/",
-      "source": "O País",
-      "_key": "6c19623acad06318",
-      "score": 9
-    },
-    {
-      "title": "Desempenho de empresas no conteúdo local reconhecido nos Angola Oil e Gas Awords",
-      "url": "https://correiokianda.info/desempenho-de-empresas-no-conteudo-local-reconhecido-nos-angola-oil-e-gas-awords/",
-      "source": "Correio Kianda",
-      "_key": "0d5a7d6b8f81c1fd",
-      "score": 8
+      "title": "Ministry of interior reinforces public security center",
+      "url": "https://www.angop.ao/en/noticias/politica/minint-reforca-cisp-com-meios-de-vigilancia-aerea/",
+      "source": "ANGOP",
+      "_key": "8cae7a9c983bad8d",
+      "score": 6
     }
   ]
 }
