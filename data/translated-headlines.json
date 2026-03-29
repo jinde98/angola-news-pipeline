@@ -1,48 +1,176 @@
 {
-  "date": "2026-03-28",
-  "total_new": 17,
-  "total_filtered": 5,
+  "date": "2026-03-29",
+  "total_new": 56,
+  "total_filtered": 21,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolan government signs agreement to speed up use of international cards",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-formaliza-acordo-com-visa-para-acelerar-uso-de-cartoes-internacionais/",
+      "title": "Economia / agora Porto do Namibe propõe Zona Económica no Sul ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672604/porto-do-namibe-prop%C3%B5e-zona-econ%C3%B3mica-no-sul",
+      "source": "Jornal de Angola",
+      "_key": "2dda14955e2a3457",
+      "score": 9,
+      "title_cn": "纳米贝港提议在南部设立经济区"
+    },
+    {
+      "title": "Obras Públicas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57907",
       "source": "ANGOP",
-      "_key": "576b9fc1e996d3d1",
+      "_key": "48ba4488b32be2ac",
       "score": 8,
-      "title_cn": "安哥拉政府签署协议，加速国际银行卡使用"
+      "title_cn": "公共工程"
     },
     {
-      "title": "Estrada Nacional 100 terá duas vias em cada sentido a partir de 2027",
-      "url": "https://correiokianda.info/estrada-nacional-100-tera-duas-vias-em-cada-sentido-a-partir-de-2027/",
-      "source": "Correio Kianda",
-      "_key": "da8b88c710466a1d",
-      "score": 7,
-      "title_cn": "安哥拉100号国道将从2027年起实现双向四车道"
-    },
-    {
-      "title": "Crédito bruto ao sector não financeiro em Angola atinge 8,51 mil milhões de euros em Fevereiro",
-      "url": "https://forbesafricalusofona.com/credito-bruto-ao-sector-nao-financeiro-em-angola-atinge-851-mil-milhoes-de-euros-em-fevereiro/",
-      "source": "Forbes África",
-      "_key": "986bef387f56afbc",
-      "score": 7,
-      "title_cn": "安哥拉2月非金融部门信贷总额达85.1亿欧元"
-    },
-    {
-      "title": "Carência nas famílias torna frequente casos de “trabalhadores juniores” em cantinas de estrangeiros",
-      "url": "https://www.opais.ao/sociedade/carencia-nas-familias-torna-frequente-casos-de-trabalhadores-juniores-em-cantinas-de-estrangeiros/",
-      "source": "O País",
-      "_key": "2abb1ed16bf2ae87",
-      "score": 7,
-      "title_cn": "家庭贫困致安哥拉“少年工”在外国人餐馆工作现象频发"
-    },
-    {
-      "title": "Angola pressiona Suíça para devolver 900 milhões de euros da corrupção",
-      "url": "https://angola24horas.com/sociedade/item/34017-angola-pressiona-suica-para-devolver-900-milhoes-de-euros-da-corrupcao",
+      "title": "ETU Energias reforça posição em blocos na Bacia do Baixo Congo",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34009-etu-energias-reforca-posicao-em-blocos-na-bacia-do-baixo-congo",
       "source": "Angola 24 Horas",
-      "_key": "32e731c07d6adc84",
+      "_key": "4a556d4455021adb",
+      "score": 8,
+      "title_cn": "ETU Energias加强在下刚果盆地区块的地位"
+    },
+    {
+      "title": "Expansão da rede de fibra óptica do Cuanza-Norte vai impulsionar surgimento de negócios digitais",
+      "url": "https://www.opais.ao/economia/expansao-da-rede-de-fibra-optica-do-cuanza-norte-vai-impulsionar-surgimento-de-negocios-digitais/",
+      "source": "O País",
+      "_key": "2ed010370860ff60",
+      "score": 8,
+      "title_cn": "北宽扎光纤网络扩张将推动数字业务发展"
+    },
+    {
+      "title": "Transport and tourism strengthen partnership to speed up economic diversification",
+      "url": "https://www.angop.ao/en/noticias/economia/transportes-e-turismo-reforcam-parceria-para-acelerar-diversificacao-economica/",
+      "source": "ANGOP",
+      "_key": "05db18807e241f25",
+      "score": 7,
+      "title_cn": "交通与旅游加强合作，加速经济多元化"
+    },
+    {
+      "title": "Destaque Mobilização eficaz de recursos internos constitui pilar essencial para desenvolvimento sustentável angolanoA mobilização eficaz de recursos internos constitui um pilar essencial para o desenvolvimento sustentável do país, afirmou, sexta-feira, em Nova Iorque, o administrador executivo da Administração Geral Tributária, Altair Marta.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672584/mobiliza%C3%A7%C3%A3o-eficaz-de-recursos-internos-constitui-pilar-essencial-para-desenvolvimento-sustent%C3%A1vel-angolano",
+      "source": "Jornal de Angola",
+      "_key": "c09cb7e04c4cad69",
+      "score": 7,
+      "title_cn": "有效调动内部资源是安哥拉可持续发展的重要支柱"
+    },
+    {
+      "title": "Angola defende actualização das regras de conexão tributáriaAngola defendeu, na sexta-feira, em Nova Iorque, a necessidade de se actualizarem as regras internacionais de conexão tributária, de modo a reflectir a realidade da economia digital e assegurar uma tributação justa nas jurisdições de origem.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672598/angola-defende-actualiza%C3%A7%C3%A3o-das-regras-de-conex%C3%A3o-tribut%C3%A1ria",
+      "source": "Jornal de Angola",
+      "_key": "ddd9ddb9d8c59a33",
+      "score": 7,
+      "title_cn": "安哥拉主张更新税收连接规则"
+    },
+    {
+      "title": "Economia Angola está a construir terminais para receber cruzeiros internacionais ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672601/angola-est%C3%A1-a-construir-terminais-para-receber-cruzeiros-internacionais",
+      "source": "Jornal de Angola",
+      "_key": "17c06bf2bad3a95e",
+      "score": 7,
+      "title_cn": "经济 安哥拉正在建设接收国际邮轮的码头"
+    },
+    {
+      "title": "Leisure tourism in Angola grows 20% in 2025",
+      "url": "https://www.angop.ao/en/noticias/turismo/turismo-de-lazer-em-angola-cresce-20-em-2025/",
+      "source": "ANGOP",
+      "_key": "1ffcb74d5c881d2a",
       "score": 6,
-      "title_cn": "安哥拉施压瑞士，要求归还9亿欧元腐败资金"
+      "title_cn": "安哥拉休闲旅游预计2025年增长20%"
+    },
+    {
+      "title": "“Polícia trava marcha e detém ativistas em Luanda: protesto pela liberdade acaba reprimido”",
+      "url": "https://angola24horas.com/sociedade/item/34020-policia-trava-marcha-e-detem-ativistas-em-luanda-protesto-pela-liberdade-acaba-reprimido",
+      "source": "Angola 24 Horas",
+      "_key": "b3b16d9d53f681b6",
+      "score": 6,
+      "title_cn": "罗安达警方阻止游行并拘捕活动人士，自由抗议遭镇压"
+    },
+    {
+      "title": "Angola e RDC: quando a vizinhança se torna questão de sobrevivência estratégica",
+      "url": "https://correiokianda.info/angola-e-rdc-quando-a-vizinhanca-se-torna-questao-de-sobrevivencia-estrategica/",
+      "source": "Correio Kianda",
+      "_key": "348ea3be3fbce772",
+      "score": 6,
+      "title_cn": "安哥拉与刚果（金）：邻里关系成为战略生存问题"
+    },
+    {
+      "title": "Livro coloca classe média no centro da estratégia económica angolana",
+      "url": "https://forbesafricalusofona.com/livro-coloca-classe-media-no-centro-da-estrategia-economica-angolana/",
+      "source": "Forbes África",
+      "_key": "cd3ab662bf99ee6e",
+      "score": 6,
+      "title_cn": "新书将中产阶级置于安哥拉经济战略核心"
+    },
+    {
+      "title": "Entrevista “Angola é um país estratégico em termos de água e biodiversidade na África Austral” ",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/672617/%E2%80%9Cangola-%C3%A9-um-pa%C3%ADs-estrat%C3%A9gico-em-termos--de-%C3%A1gua-e-biodiversidade-na-%C3%A1frica-austral%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "2d07662c5daca6f1",
+      "score": 6,
+      "title_cn": "专访：安哥拉是南部非洲水资源和生物多样性战略国家"
+    },
+    {
+      "title": "Política “Angola conseguiu renovar e aprofundar a parceria estratégica da OEACP com a UE” ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672590/%E2%80%9Cangola-conseguiu-renovar-e-aprofundar-a-parceria-estrat%C3%A9gica-da-oeacp-com-a-ue%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "7358f2313461068b",
+      "score": 6,
+      "title_cn": "安哥拉成功更新并深化非加太组织与欧盟的战略伙伴关系"
+    },
+    {
+      "title": "Angolan president warns of worsening global crises",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-lourenco-alerta-para-agravamento-das-crises-globais/",
+      "source": "ANGOP",
+      "_key": "edf37926b15c94a7",
+      "score": 5,
+      "title_cn": "安哥拉总统警告全球危机正在恶化"
+    },
+    {
+      "title": "Angolan Head of State highlights progress made during OACPS presidency",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-aponta-ganhos-da-presidencia-angolana-na-oeacp/",
+      "source": "ANGOP",
+      "_key": "4fc5085e2e609206",
+      "score": 5,
+      "title_cn": "安哥拉国家元首强调担任非加太组织轮值主席国期间的进展"
+    },
+    {
+      "title": "Angolan president highlights OASCP's resilience face global crises",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-realca-resiliencia-da-oeacp-face-a-crises-globais/",
+      "source": "ANGOP",
+      "_key": "555a287b32ab83ad",
+      "score": 5,
+      "title_cn": "安哥拉总统强调非加太组织面对全球危机的韧性"
+    },
+    {
+      "title": "Angola anuncia doação de 3 mil milhões de kwanzas para apoiar a OEACP",
+      "url": "https://correiokianda.info/angola-anuncia-doacao-de-cerca-de-3-mil-milhoes-de-kwanzas-para-apoiar-a-oeacp/",
+      "source": "Correio Kianda",
+      "_key": "cbedc6b650c0a95d",
+      "score": 5,
+      "title_cn": "安哥拉宣布捐赠30亿宽扎支持非加太组织"
+    },
+    {
+      "title": "        África16 horas atrás  João Lourenço acusa potências de usarem guerras para controlar recursos O Presidente da República, João Lourenço, afirmou este sábado, 28, que o mundo actual se transformou numa “selva”, onde as grandes potências recorrem a intervenções militares...   ",
+      "url": "https://correiokianda.info/joao-lourenco-acusa-potencias-de-usarem-guerras-para-controlar-recursos/",
+      "source": "Correio Kianda",
+      "_key": "e811d71d2ca7dd99",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）指责大国利用战争控制资源"
+    },
+    {
+      "title": "Sociedade CISP prepara drones para reforçar vigilância pública na visita do Papa ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672612/cisp-prepara-drones-para-refor%C3%A7ar--vigil%C3%A2ncia-p%C3%BAblica-na-visita-do-papa",
+      "source": "Jornal de Angola",
+      "_key": "e34f9a29b73e2ecf",
+      "score": 5,
+      "title_cn": "CISP准备无人机加强教皇访问期间的公共监控"
+    },
+    {
+      "title": "João Lourenço aponta desafios e avanços da OEACP durante a presidência de Angola",
+      "url": "https://www.opais.ao/politica/joao-lourenco-aponta-desafios-e-avancos-da-oeacp-durante-a-presidencia-de-angola/",
+      "source": "O País",
+      "_key": "924d2808d7dd9f14",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）指出安哥拉担任非加太组织轮值主席国期间的挑战与进展"
     }
   ]
 }
