@@ -1,7 +1,22 @@
 {
   "date": "2026-03-29",
-  "total_new": 6,
-  "total_filtered": 0,
+  "total_new": 9,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "Angolan president returns from OACPS Summit",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-apos-transferencia-da-presidencia-da-oeacp/",
+      "source": "ANGOP",
+      "_key": "f132e31bf6fc3551",
+      "score": 6
+    },
+    {
+      "title": "Angola attends OACPS dialogue on sustainable development",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-presente-no-dialogo-presidencial-sobre-desenvolvimento-duravel-da-oeacp/",
+      "source": "ANGOP",
+      "_key": "10ab9bdeb16c8917",
+      "score": 5
+    }
+  ]
 }

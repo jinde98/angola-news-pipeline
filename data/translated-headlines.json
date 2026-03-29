@@ -1,16 +1,24 @@
 {
   "date": "2026-03-29",
-  "total_new": 2,
-  "total_filtered": 1,
+  "total_new": 9,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Ministry of interior reinforces public security center",
-      "url": "https://www.angop.ao/en/noticias/politica/minint-reforca-cisp-com-meios-de-vigilancia-aerea/",
+      "title": "Angolan president returns from OACPS Summit",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-apos-transferencia-da-presidencia-da-oeacp/",
       "source": "ANGOP",
-      "_key": "8cae7a9c983bad8d",
+      "_key": "f132e31bf6fc3551",
       "score": 6,
-      "title_cn": "内政部加强公共安全中心建设"
+      "title_cn": "安哥拉总统从非加太组织峰会返回"
+    },
+    {
+      "title": "Angola attends OACPS dialogue on sustainable development",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-presente-no-dialogo-presidencial-sobre-desenvolvimento-duravel-da-oeacp/",
+      "source": "ANGOP",
+      "_key": "10ab9bdeb16c8917",
+      "score": 5,
+      "title_cn": "安哥拉出席非加太组织可持续发展对话"
     }
   ]
 }
