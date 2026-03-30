@@ -1,24 +1,232 @@
 {
-  "date": "2026-03-29",
-  "total_new": 9,
-  "total_filtered": 2,
+  "date": "2026-03-30",
+  "total_new": 90,
+  "total_filtered": 28,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolan president returns from OACPS Summit",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-apos-transferencia-da-presidencia-da-oeacp/",
-      "source": "ANGOP",
-      "_key": "f132e31bf6fc3551",
-      "score": 6,
-      "title_cn": "安哥拉总统从非加太组织峰会返回"
+      "title": "Petróleo: Barril não pára de voar e quem lhe está a...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-nao-para-de-voar-e-quem-lhe-esta-a-dar-asas-e-donald-trump-mercados-ja-nao-acreditam-num-regresso-rapido-da-paz-no-medio-oriente-70762.html",
+      "source": "Novo Jornal",
+      "_key": "db1d2abda9498364",
+      "score": 10,
+      "title_cn": "油价飙升不止。"
     },
     {
-      "title": "Angola attends OACPS dialogue on sustainable development",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-presente-no-dialogo-presidencial-sobre-desenvolvimento-duravel-da-oeacp/",
+      "title": "AGT isenta 32 empresas do pagamento da Contribuição Especial sobre as Operações Cambias com prazo de 1 ano",
+      "url": "https://www.opais.ao/economia/agt-isenta-32-empresas-do-pagamento-da-contribuicao-especial-sobre-as-operacoes-cambias-com-prazo-de-1-ano/",
+      "source": "O País",
+      "_key": "b570a3b2843509eb",
+      "score": 10,
+      "title_cn": "安哥拉税务总局免除32家企业一年期外汇业务特别税。"
+    },
+    {
+      "title": "Angola 2025: défice, dívida e desenvolvimento: entre Keynes e a realidade fiscal ",
+      "url": "https://correiokianda.info/angola-2025-defice-divida-e-desenvolvimento-entre-keynes-e-a-realidade-fiscal/",
+      "source": "Correio Kianda",
+      "_key": "db14b85f09cb4a06",
+      "score": 9,
+      "title_cn": "安哥拉2025：赤字、债务与发展——凯恩斯主义与财政现实之间。"
+    },
+    {
+      "title": "Caála testa logística de frio para impulsionar o Corredor do Lobito",
+      "url": "https://expansao.co.ao/angola/detalhe/caala-testa-logistica-de-frio-para-impulsionar-o-corredor-do-lobito-70756.html",
+      "source": "Expansão",
+      "_key": "60f9019f28b0ebc0",
+      "score": 9,
+      "title_cn": "卡阿拉测试冷链物流，助力洛比托走廊发展。"
+    },
+    {
+      "title": "Juros da dívida dos Eurobonds disparam 31% para 1.000 milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/juros-da-divida-dos-eurobonds-disparam-31-para-1000-milhoes-usd-70757.html",
+      "source": "Expansão",
+      "_key": "ea112864f0f1065e",
+      "score": 9,
+      "title_cn": "欧洲债券债务利息飙升31%至10亿美元。"
+    },
+    {
+      "title": "Energean assume 31 por cento do capital social no “Bloco 14”A companhia petrolífera grega Energean prepara-se para dar início às suas operações em águas profundas do offshore angolano, em virtude da compra de 31 por cento das acções da norte-americana Chevron, no Bloco 14, ao preço de 250 milhões de dólares, numa parceria que também conta com participações da Sonangol e da Etu Energias.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672657/energean-assume-31-por-cento-do-capital-social-no-%E2%80%9Cbloco-14%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "7ac93474efa79531",
+      "score": 9,
+      "title_cn": "希腊埃涅尔然公司获安哥拉“14号区块”31%股权，将启动深水作业。"
+    },
+    {
+      "title": "João Lourenço alerta para “lei do mais forte” nas relações internacionais e prevê colapso da economia global",
+      "url": "https://www.opais.ao/politica/joao-lourenco-alerta-para-lei-do-mais-forte-nas-relacoes-internacionais-e-preve-colapso-da-economia-global/",
+      "source": "O País",
+      "_key": "db28a3d96a7caeb3",
+      "score": 9,
+      "title_cn": "若昂·洛伦索警告国际关系“弱肉强食”，预言全球经济将崩溃。"
+    },
+    {
+      "title": "Obras do Metro de Superfície de Luanda arrancam ainda este ano",
+      "url": "https://correiokianda.info/obras-do-metro-de-superficie-de-luanda-arrancam-ainda-este-ano/",
+      "source": "Correio Kianda",
+      "_key": "82ca38d189fc31ed",
+      "score": 8,
+      "title_cn": "罗安达地面地铁项目将于今年开工。"
+    },
+    {
+      "title": "Dinâmicas geoestratégicas do petróleo: implicações para os produtores africanos",
+      "url": "https://correiokianda.info/dinamicas-geoestrategicas-do-petroleo-implicacoes-para-os-produtores-africanos/",
+      "source": "Correio Kianda",
+      "_key": "c3bc9287f579dacc",
+      "score": 8,
+      "title_cn": "石油地缘战略动态：对非洲产油国的影响。"
+    },
+    {
+      "title": "Economia / agora Conteúdo Local busca maior quota de mercado ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672659/conte%C3%BAdo-local-busca-maior-quota-de-mercado",
+      "source": "Jornal de Angola",
+      "_key": "c939f2114b7fd465",
+      "score": 8,
+      "title_cn": "经济：本地化内容寻求更大市场份额。"
+    },
+    {
+      "title": "Angola has 34 critical minerals for energy transition",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-tem-34-minerais-criticos-para-transicao-energetica/",
       "source": "ANGOP",
-      "_key": "10ab9bdeb16c8917",
+      "_key": "b85734a81b2e3c7e",
+      "score": 7,
+      "title_cn": "安哥拉拥有34种能源转型关键矿产。"
+    },
+    {
+      "title": "Angola seeks to reinforce regional leadership in the energy transition",
+      "url": "https://www.angop.ao/en/noticias/politica/oeacp-angola-procura-reforcar-lideranca-regional-na-transicao-energetica/",
+      "source": "ANGOP",
+      "_key": "9f2981601f3a2004",
+      "score": 7,
+      "title_cn": "安哥拉寻求加强在能源转型领域的区域领导力。"
+    },
+    {
+      "title": "Governo aplica 10,1 mil milhões Kz para combater desemprego e promover crescimento",
+      "url": "https://correiokianda.info/governo-aplica-101-mil-milhoes-kz-para-combater-desemprego-e-promover-crescimento/",
+      "source": "Correio Kianda",
+      "_key": "c4bd0bff9c24a82f",
+      "score": 7,
+      "title_cn": "安哥拉政府投入101亿宽扎，旨在应对失业、促进增长。"
+    },
+    {
+      "title": "“Mundo virou selva”: João Lourenço denuncia nova lógica colonial nas intervenções no Irão",
+      "url": "https://holdonangola.com/mundo-virou-selva-joao-lourenco-denuncia-nova-logica-colonial-nas-intervencoes-no-irao/",
+      "source": "Hold On Angola",
+      "_key": "0d73d759a58de160",
+      "score": 7,
+      "title_cn": "若昂·洛伦索谴责对伊朗干预中的“新殖民逻辑”，称“世界已成丛林”。"
+    },
+    {
+      "title": "Angola defende financiamento para a transição energéticaAngola apelou, domingo, na cidade de Malabo, Guiné Equatorial, aos membros da Organização dos Estados de África, Caraíbas e Pacífico (OEACP), à mobilização de financiamento misto para a industrialização verde e à urgência na transição energética, de modo a construir economias sustentáveis.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672634/angola-defende-financiamento-para-a-transi%C3%A7%C3%A3o-energ%C3%A9tica",
+      "source": "Jornal de Angola",
+      "_key": "bbdfcf9380368681",
+      "score": 7,
+      "title_cn": "安哥拉呼吁为能源转型提供资金，在赤道几内亚马拉博向非加太国家组织成员发出呼吁。"
+    },
+    {
+      "title": "Serviços de telecomunicações registam melhorias na qualidadeO serviço de telecomunicações em Angola tem registado, nos últimos tempos, melhorias significativas, com a implementação de projectos estruturantes em todo o território nacional, anunciou o ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, durante uma visita ao município de Lucala, na província do Cuanza-Norte.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672654/servi%C3%A7os-de-telecomunica%C3%A7%C3%B5es-registam-melhorias-na-qualidade",
+      "source": "Jornal de Angola",
+      "_key": "3fd27dbd1a862940",
+      "score": 7,
+      "title_cn": "安哥拉电信服务质量显著提升。"
+    },
+    {
+      "title": "Cabinda: Governo vai lançar concurso público para a...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/cabinda-governo-vai-lancar-concurso-publico-para-a-construcao-ampliacao-e-apetrechamento-do-centro-de-valorizacao-e-tratamento-de-residuos-70764.html",
+      "source": "Novo Jornal",
+      "_key": "055d879c3db80951",
+      "score": 7,
+      "title_cn": "卡宾达：政府将启动公开招标......"
+    },
+    {
+      "title": "Executivo vai injectar mais 10 mil milhões de kwanzas para o Fundo Nacional de Emprego(FUNEA)",
+      "url": "https://www.opais.ao/economia/executivo-vai-injectar-mais-10-mil-milhoes-de-kwanzas-para-o-fundo-nacional-de-emprego-funea/",
+      "source": "O País",
+      "_key": "55f13982f0a03a7e",
+      "score": 7,
+      "title_cn": "安哥拉政府将再向国家就业基金（FUNEA）注入100亿宽扎。"
+    },
+    {
+      "title": "Novo imposto prevê isenções para trabalhadores deficientes e pagamento em seis prestações",
+      "url": "https://expansao.co.ao/angola/detalhe/novo-imposto-preve-isencoes-para-trabalhadores-deficientes-e-pagamento-em-seis-prestacoes-70754.html",
+      "source": "Expansão",
+      "_key": "8ccb912ba2a494e0",
+      "score": 6,
+      "title_cn": "新税法规定残疾工人可获豁免，并允许分六期支付。"
+    },
+    {
+      "title": "Governo defende que reforma da OMC deve proteger o multilateralismo",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_d7e58370a419eb",
+      "score": 6,
+      "title_cn": "安哥拉政府主张世贸组织改革应维护多边主义。"
+    },
+    {
+      "title": "Política Ministro “Liberdade” prevê conclusão do Hospital Militar Regional em 2028 ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672643/ministro-%E2%80%9Cliberdade%E2%80%9D-prev%C3%AA-conclus%C3%A3o-do-hospital-militar-regional-em-2028",
+      "source": "Jornal de Angola",
+      "_key": "75dab352b89f3f6c",
+      "score": 6,
+      "title_cn": "“自由”部长预计地区军事医院将于2028年竣工。"
+    },
+    {
+      "title": "Economia / agora Standard Bank Angola reafirma compromisso com programas de inclusão financeira no país ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672662/standard-bank-angola-reafirma-compromisso-com-programas-de-inclus%C3%A3o-financeira-no-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "4cedd0b5f841c7c5",
+      "score": 6,
+      "title_cn": "经济：南非标准银行安哥拉分行重申金融普惠承诺。"
+    },
+    {
+      "title": "Angola reinforces strategic position in African aviation",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-posicao-estrategica-na-aviacao-africana-com-a-75.a-conferencia-da-aci-africa/",
+      "source": "ANGOP",
+      "_key": "31425809483a847a",
       "score": 5,
-      "title_cn": "安哥拉出席非加太组织可持续发展对话"
+      "title_cn": "安哥拉加强在非洲航空领域的战略地位。"
+    },
+    {
+      "title": "Angola acknowledges existing structural challenges in fisheries sector",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-reconhece-existencia-de-desafios-estruturantes-no-dominio-das-pescas/",
+      "source": "ANGOP",
+      "_key": "c36d21d221018bd2",
+      "score": 5,
+      "title_cn": "安哥拉承认渔业部门存在结构性挑战。"
+    },
+    {
+      "title": "        África9 horas atrás  Presidente moçambicano alerta para possível subida de combustíveis devido à crise no Médio Oriente O Presidente de Moçambique, Daniel Chapo, alertou para a possibilidade de aumento dos preços dos combustíveis nos próximos meses, caso se mantenha o conflito no Médio...   ",
+      "url": "https://correiokianda.info/presidente-mocambicano-alerta-para-possivel-subida-de-combustiveis-devido-a-crise-no-medio-oriente/",
+      "source": "Correio Kianda",
+      "_key": "ad5896efcba54fcf",
+      "score": 5,
+      "title_cn": "莫桑比克总统丹尼尔·沙波警告中东危机或致燃油价格上涨。"
+    },
+    {
+      "title": "Faustin-Archange Touadéra é investido Presidente da RCAO ministro das Relações Exteriores, Téte António, está, desde domingo, em Bangui, para representar o Chefe de Estado, João Lourenço, na cerimónia de investidura de Faustin-Archange Touadéra, reeleito para um terceiro mandato como Presidente da República Centro-Africana.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672647/faustin-archange-touad%C3%A9ra--%C3%A9-investido-presidente-da-rca",
+      "source": "Jornal de Angola",
+      "_key": "770eb236511e4770",
+      "score": 5,
+      "title_cn": "福斯坦-阿尔尚热·图瓦德拉就任中非共和国总统，特特·安东尼奥代表若昂·洛伦索出席。"
+    },
+    {
+      "title": "Economia / agora Mais de mil milhões de kwanzas movimentados em três dias no Namibe ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672661/mais-de-mil-milh%C3%B5es-de-kwanzas-movimentados-em-tr%C3%AAs-dias-no-namibe",
+      "source": "Jornal de Angola",
+      "_key": "9c7e51ca47d8352b",
+      "score": 5,
+      "title_cn": "经济：纳米贝三天内交易额超10亿宽扎。"
+    },
+    {
+      "title": "Polícia Nacional em Benguela define estratégias para conter elevado número de acidentes nas estradas",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-em-benguela-define-estrategias-para-conter-elevado-numero-de-acidentes-nas-estradas/",
+      "source": "O País",
+      "_key": "a8768d76b83dbb38",
+      "score": 5,
+      "title_cn": "本格拉国家警察制定战略，遏制道路交通事故高发。"
     }
   ]
 }
