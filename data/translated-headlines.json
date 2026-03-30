@@ -1,104 +1,40 @@
 {
   "date": "2026-03-30",
-  "total_new": 47,
-  "total_filtered": 12,
+  "total_new": 23,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "SME prepara enquadramento de mais de 500 novos efectivos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sme-prepara-enquadramento-de-mais-de-500-novos-efectivos-que-aguardam-ha-um-ano-por-colocacao-70766.html",
-      "source": "Novo Jornal",
-      "_key": "58a1dc47112f4808",
-      "score": 8,
-      "title_cn": "移民局将吸纳逾500名新员工"
+      "title": "Petróleo Brent sobe mais de 2% para 114 dólares e...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-sobe-mais-de-2-para-114-dolares-e-aumento-acumulado-aproxima-se-dos-60",
+      "source": "Valor Económico",
+      "_key": "f5628cb70adcce2f",
+      "score": 9,
+      "title_cn": "布伦特原油上涨超2%，达到114美元"
     },
     {
-      "title": "Novo imposto prevê isenções para trabalhadores deficientes e pagamento em seis prestações",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_027130519819a3",
+      "title": "PR aprova 11,4 mil milhões kz para obras no Cuanza...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/pr-aprova-114-mil-milhoes-kz-para-obras-no-cuanza-norte-70779.html",
+      "source": "Novo Jornal",
+      "_key": "1ceb5c1154547e97",
       "score": 7,
-      "title_cn": "新税法：残疾工人可免税，分六期缴纳"
+      "title_cn": "总统批准114亿宽扎用于宽扎省工程"
     },
     {
-      "title": "Ressurgimento de casos de cólera força adopção de estratégias de prevenção",
-      "url": "https://correiokianda.info/ressurgimento-de-casos-de-colera-forca-adopcao-de-estrategias-de-prevencao/",
-      "source": "Correio Kianda",
-      "_key": "60fbdf893eb7e23d",
-      "score": 6,
-      "title_cn": "霍乱病例再现，迫使采取预防策略"
-    },
-    {
-      "title": "Preço dos bilhetes de comboio vão subir 50% para 300 kwanzas a partir de 1 de Maio",
-      "url": "https://expansao.co.ao/angola/detalhe/preco-dos-bilhetes-de-comboio-vao-subir-50-para-300-kwanzas-a-partir-de-1-de-maio-70771.html",
-      "source": "Expansão",
-      "_key": "a9a3aec3fde5ad44",
-      "score": 6,
-      "title_cn": "5月1日起火车票价上涨50%至300宽扎"
-    },
-    {
-      "title": "Luanda: Bilhete de comboio suburbano vai subir 50%...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-bilhete-de-comboio-suburbano-vai-subir-50-e-igualar-o-preco-da-corrrida-de-taxi-a-partir-de-maio-70775.html",
-      "source": "Novo Jornal",
-      "_key": "d10eaba1b28d6ce0",
-      "score": 6,
-      "title_cn": "罗安达：市郊火车票价将上涨50%"
-    },
-    {
-      "title": "Angolan Foreign Minister to represent the Head of the State at inauguration of Faustin-Archange Touadéra",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-representa-pr-na-investidura-de-faustin-archange-touadera/",
+      "title": "Central bank of Angola imposes fines to more than 3 billion kwanzas in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-aplica-multa-de-mais-de-kz-tres-mil-milhoes-em-2025/",
       "source": "ANGOP",
-      "_key": "041d30234a69e289",
-      "score": 5,
-      "title_cn": "安哥拉外长将代表国家元首出席图瓦德拉（Faustin-Archange Touadéra）就职典礼"
+      "_key": "48d05d6b47503f3c",
+      "score": 6,
+      "title_cn": "安哥拉央行2025年处以超30亿宽扎罚款"
     },
     {
-      "title": "Over 1850 road accident reported in Angola in 2026 first quarter",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-regista-1-854-acidentes-de-viacao-no-primeiro-trimestre/",
-      "source": "ANGOP",
-      "_key": "6514b687da14b75a",
-      "score": 5,
-      "title_cn": "安哥拉2026年第一季度报告逾1850起交通事故"
-    },
-    {
-      "title": "        África2 horas atrás  Bangui recebe diplomacia angolana na tomada de posse do chefe de Estado O ministro das Relações Exteriores de Angola, Téte António, encontra-se em Bangui, capital da República Centro‑Africana (RCA), para representar oficialmente o país na cerimónia de investidura...   ",
-      "url": "https://correiokianda.info/bangui-recebe-diplomacia-angolana-na-tomada-de-posse-do-chefe-de-estado/",
-      "source": "Correio Kianda",
-      "_key": "591db1f6c23144e2",
-      "score": 5,
-      "title_cn": "安哥拉外长特特·安东尼奥（Téte António）出席中非共和国总统就职典礼"
-    },
-    {
-      "title": "Financiamento americano para a Saúde em Angola não inclui cláusulas polémicas",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_91d67b6872773e",
-      "score": 5,
-      "title_cn": "美国对安哥拉卫生援助不含争议条款"
-    },
-    {
-      "title": "Sociedade Bombeiros registam 16 mortos no fim-de-semana ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672689/bombeiros-registam-16-mortos-no-fim-de-semana",
-      "source": "Jornal de Angola",
-      "_key": "ac70d9b29f7be647",
-      "score": 5,
-      "title_cn": "消防部门周末记录16人死亡"
-    },
-    {
-      "title": "Teté António representa PR na investidura do Chefe de Estado da República Centro-Africana",
-      "url": "https://www.opais.ao/politica/tete-antonio-representa-pr-na-investidura-do-chefe-de-estado-da-republica-centro-africana/",
+      "title": "‎Detidos mais de 100 cidadãos durante o fim-de-semana em Luanda",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-mais-de-100-cidadaos-durante-o-fim-de-semana-em-luanda/",
       "source": "O País",
-      "_key": "ce3aba8bf1f4cc59",
+      "_key": "45a6ec7aad041d2b",
       "score": 5,
-      "title_cn": "特特·安东尼奥（Téte António）代表总统出席中非共和国总统就职典礼"
-    },
-    {
-      "title": "Bombeiros registam 16 mortes nas últimas 72 horas",
-      "url": "https://www.opais.ao/ultimas_hora/bombeiros-registam-16-mortes-nas-ultimas-72-horas/",
-      "source": "O País",
-      "_key": "24bb177e06249c49",
-      "score": 5,
-      "title_cn": "消防部门过去72小时记录16人死亡"
+      "title_cn": "罗安达周末逾百名公民被捕"
     }
   ]
 }
