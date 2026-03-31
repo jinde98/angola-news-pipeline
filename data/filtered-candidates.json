@@ -1,22 +1,295 @@
 {
-  "date": "2026-03-30",
-  "total_new": 15,
-  "total_filtered": 2,
+  "date": "2026-03-31",
+  "total_new": 99,
+  "total_filtered": 41,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economista defende a adopção de outras formas para financiar OGE",
-      "url": "https://correiokianda.info/economista-defende-a-adopcao-de-outras-formas-para-financiar-oge/",
+      "title": "Caála testa logística de frio para impulsionar o Corredor do Lobito",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_be4025afc1ca39",
+      "score": 10
+    },
+    {
+      "title": "Economia / agora Brent recupera 0,47% e se fixa nos 108,8 dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672716/brent-recupera-047%25--e-se-fixa-nos-1088-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "19142e1e822cbfdb",
+      "score": 10
+    },
+    {
+      "title": "Petroléo e Gás",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=56790",
+      "source": "ANGOP",
+      "_key": "0e8e2d8118d195f8",
+      "score": 9
+    },
+    {
+      "title": "Governo cede a pedidos e amplia prazo para propostas do Corredor do Namibe",
+      "url": "https://correiokianda.info/governo-cede-a-pedidos-e-amplia-prazo-para-propostas-do-corredor-do-namibe/",
       "source": "Correio Kianda",
-      "_key": "b0f18e5859702e2c",
+      "_key": "17965572b120d0a1",
+      "score": 9
+    },
+    {
+      "title": "Petróleo perde terreno após notícias de que Trump está a considerar abandonar a guerra",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-perde-terreno-apos-noticias-de-que-trump-esta-a-considerar-abandonar-a-guerra-70791.html",
+      "source": "Expansão",
+      "_key": "a501fc317dee4ff8",
+      "score": 9
+    },
+    {
+      "title": "Cinquenta anos de legislação laboral independente e a reforma em curso",
+      "url": "https://expansao.co.ao/analise/detalhe/cinquenta-anos-de-legislacao-laboral-independente-e-a-reforma-em-curso-70786.html",
+      "source": "Expansão",
+      "_key": "e7c92d9da36f6016",
+      "score": 9
+    },
+    {
+      "title": "Crédito bruto ao sector não financeiro atinge nove biliões de kwanzas em Fevereiro, revela BNA",
+      "url": "https://diariodosnegocios.com/credito-sector-nao-financeiro-angola-nove-biliao-kwanzas-fevereiro-2025/",
+      "source": "Diário dos Negócios",
+      "_key": "060dd52ec3937048",
+      "score": 8
+    },
+    {
+      "title": " Crédito bruto ao sector não financeiro atinge nove biliões de kwanzas em Fevereiro, revela BNA ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_3728851c5fb500",
+      "score": 8
+    },
+    {
+      "title": "Novo imposto prevê isenções para trabalhadores com deficiência e pagamento em seis prestações",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_243547299c7b96",
+      "score": 8
+    },
+    {
+      "title": "Startups vão ter selo de certificação que garante \"folga fiscal\" por três anos",
+      "url": "https://expansao.co.ao/empresas/detalhe/startups-vao-ter-selo-de-certificacao-que-garante-folga-fiscal-por-tres-anos-70753.html",
+      "source": "Expansão",
+      "_key": "94ae0070a5a32221",
+      "score": 8
+    },
+    {
+      "title": "Executivo vai gastar mais de 2 biliões de kwanzas com sector da saúde",
+      "url": "https://www.opais.ao/economia/executivo-vai-gastar-mais-de-2-bilioes-de-kwanzas-com-sector-da-saude/",
+      "source": "O País",
+      "_key": "a24270a92bae70f7",
+      "score": 8
+    },
+    {
+      "title": "Carta do leitor: Cidadãos assaltados na Vila de Viana",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-cidadaos-assaltados-na-vila-de-viana/",
+      "source": "O País",
+      "_key": "df44f3f06eea81fc",
+      "score": 8
+    },
+    {
+      "title": "Economia / agora Participação feminina no sector Petrolífero angolano atinge os 21% ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672723/participa%C3%A7%C3%A3o-feminina-no-sector-petrol%C3%ADfero-angolano-atinge-os-21%25",
+      "source": "Jornal de Angola",
+      "_key": "3df7d3562be07331",
+      "score": 7
+    },
+    {
+      "title": "Irão: EUA afirmam que retomarão em breve o controlo do Estreito de Ormuz",
+      "url": "https://angola24horas.com/internacional/item/34027-irao-eua-afirmam-que-retomarao-em-breve-o-controlo-do-estreito-de-ormuz",
+      "source": "Angola 24 Horas",
+      "_key": "8b6805ec8498be78",
       "score": 6
     },
     {
-      "title": "Tchize dos Santos desaconselha manifestações em Angola e apela à contenção",
-      "url": "https://holdonangola.com/tchize-dos-santos-desaconselha-manifestacoes-em-angola-e-apela-a-contencao/",
-      "source": "Hold On Angola",
-      "_key": "d6a91e51d6d927c0",
+      "title": "Presidência desafia as empresas a investir na valorização do capital humano",
+      "url": "https://expansao.co.ao/angola/detalhe/presidencia-desafia-as-empresas-a-investir-na-valorizacao-do-capital-humano-70787.html",
+      "source": "Expansão",
+      "_key": "5235a1ee08e48836",
       "score": 6
+    },
+    {
+      "title": "\"O objectivo é fazer com que a empresa onde investirmos ganhe um parceiro de negócio\"Depois de uma fase inicial cinzenta com a gestão do FACRA nas mãos do banco privado Kwanza Invest, do suiço-angolano Bastos de Morais, o Fundo prepara-se para um novo período mais transparente e de apoio real às empresas nacionais.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/o-objectivo-e-fazer-com-que-a-empresa-onde-investirmos-ganhe-um-parceiro-de-negocio-70778.html",
+      "source": "Expansão",
+      "_key": "b66bb1caf4c1db6b",
+      "score": 6
+    },
+    {
+      "title": "Economia / agora TAAG anuncia reforço de 70 novos pilotos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672717/taag-anuncia-refor%C3%A7o--de-70-novos-pilotos",
+      "source": "Jornal de Angola",
+      "_key": "51dffaea9680eeba",
+      "score": 6
+    },
+    {
+      "title": "INADEC regista mensalmente 50 reclamações por incumprimento de acordos por parte de empresas de construção",
+      "url": "https://www.opais.ao/economia/inadec-regista-mensalmente-50-reclamacoes-por-incumprimento-de-acordos-por-parte-de-empresas-de-construcao/",
+      "source": "O País",
+      "_key": "34b0a8684d1e24e2",
+      "score": 6
+    },
+    {
+      "title": "Transição energética",
+      "url": "https://www.opais.ao/opiniao/transicao-energetica-2/",
+      "source": "O País",
+      "_key": "b8e80b709bf4501b",
+      "score": 6
+    },
+    {
+      "title": "Angola plans to produce 8,000 tons of fish by 2027",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-projecta-produzir-800-mil-toneladas-de-pescado-em-aquicultura-ate-2050/",
+      "source": "ANGOP",
+      "_key": "f7f913f99fc48548",
+      "score": 5
+    },
+    {
+      "title": "Angola’s Defense Minister announces completion of new military hospitals in four provinces",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-anuncia-conclusao-das-obras-dos-novos-hospitais-militares-em-quatro-provincias/",
+      "source": "ANGOP",
+      "_key": "f3021d8ddfa7a46c",
+      "score": 5
+    },
+    {
+      "title": "Pescas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=75356",
+      "source": "ANGOP",
+      "_key": "2db5d6d15dad863b",
+      "score": 5
+    },
+    {
+      "title": "Polícia Nacional alerta para uso indevido de uniformes militares em actos políticos",
+      "url": "https://angola24horas.com/politica/item/34028-policia-nacional-alerta-para-uso-indevido-de-uniformes-militares-em-actos-politicos",
+      "source": "Angola 24 Horas",
+      "_key": "63b114f3f98bee19",
+      "score": 5
+    },
+    {
+      "title": "Preço alto dos fertilizantes vai agravar situação dos produtores angolanos – associações",
+      "url": "https://angola24horas.com/sociedade/item/34025-preco-alto-dos-fertilizantes-vai-agravar-situacao-dos-produtores-angolanos-associacoes",
+      "source": "Angola 24 Horas",
+      "_key": "1714a31dd99461b8",
+      "score": 5
+    },
+    {
+      "title": "Governo projecta conclusão de terminais com olhos na recepção de cruzeiros internacionais",
+      "url": "https://correiokianda.info/governo-projecta-conclusao-de-terminais-com-olhos-na-recepcao-de-cruzeiros-internacionais/",
+      "source": "Correio Kianda",
+      "_key": "6f8b5fdf0633281e",
+      "score": 5
+    },
+    {
+      "title": "“Uso de uniformes militares em acto político viola legislação”, alerta Polícia Nacional",
+      "url": "https://correiokianda.info/uso-de-uniformes-militares-em-acto-politico-viola-legislacao-alerta-policia-nacional/",
+      "source": "Correio Kianda",
+      "_key": "33c9cb941667a03b",
+      "score": 5
+    },
+    {
+      "title": "Aumento de 50% no preço do comboio gera revolta entre passageiros em Luanda",
+      "url": "https://correiokianda.info/aumento-de-50-no-preco-do-comboio-gera-revolta-entre-passageiros-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "3e959aa0475289c4",
+      "score": 5
+    },
+    {
+      "title": "Petroleiro russo chega a Cuba com 100 mil toneladas de crude: “não há problema”, diz Trump ",
+      "url": "https://correiokianda.info/petroleiro-russo-chega-a-cuba-com-100-mil-toneladas-de-crude-nao-ha-problema-diz-trump/",
+      "source": "Correio Kianda",
+      "_key": "ca5f53b1c2c6eb49",
+      "score": 5
+    },
+    {
+      "title": "        Sociedade13 horas atrás  Produção excessiva de lixo agrava riscos ambientais e de saúde em Angola A produção significativa de lixo no país é apontada como um “grande problema ambiental”, numa altura em que se debatem acções de gestão de resíduos sólidos....   ",
+      "url": "https://correiokianda.info/producao-excessiva-de-lixo-agrava-riscos-ambientais-e-de-saude-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "b5b6110974d07488",
+      "score": 5
+    },
+    {
+      "title": "PR: ‘Mundo virou selva’ – Discurso na OEACP destaca riscos de guerras e desigualdades",
+      "url": "https://diariodosnegocios.com/pr-mundo-virou-selva-discurso-na-oeacp-destaca-riscos-de-guerras-e-desigualdades/",
+      "source": "Diário dos Negócios",
+      "_key": "101df7f5d6cd5ed3",
+      "score": 5
+    },
+    {
+      "title": " PR: ‘Mundo virou selva’ – Discurso na OEACP destaca riscos de guerras e desigualdades ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7335c8808817b8",
+      "score": 5
+    },
+    {
+      "title": "Preço dos bilhetes de comboio vão subir 50% para 300 kwanzas a partir de 1 de Maio",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0605cfbdf9b2cb",
+      "score": 5
+    },
+    {
+      "title": "Fundação Tony Elumelu reforça aposta em África com 16 milhões USD para 3.200 empreendedores",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0f0ab749cbed5b",
+      "score": 5
+    },
+    {
+      "title": "\"O objectivo é fazer com que a empresa onde investirmos ganhe um parceiro de negócio\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_24f6feefe660a8",
+      "score": 5
+    },
+    {
+      "title": "Fundação Tony Elumelu reforça aposta em África com 16 milhões USD para 3.200 empreendedoresA Fundação Tony Elumelu (TEF) anunciou a atribuição de 16 milhões USD a 3.200 empreendedores provenientes dos 54 países africanos, no âmbito da edição 2026 do seu programa emblemático de apoio ao empreendedorismo, uma das maiores distribuições anuais de capital no continente.",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/fundacao-tony-elumelu-reforca-aposta-em-africa-com-16-milhoes-usd-para-3200-empreendedores-70790.html",
+      "source": "Expansão",
+      "_key": "c6d2295f7c207fe2",
+      "score": 5
+    },
+    {
+      "title": "Destaque INAMET prevê chuva forte com trovoada em Luanda e no BengoO Instituto de Nacional de Meteorologia e Geofísica de Angola (INAMET) emitiu, esta segunda-feira, um alerta amarelo que prevê chuva forte com trovoada, nas províncias de Luanda e no Bengo, e o risco de queda de árvores e cortes de energia.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672701/inamet-prev%C3%AA-chuva-forte-com-trovoada-em-luanda-e-no-bengo",
+      "source": "Jornal de Angola",
+      "_key": "bedad483fc9443a6",
+      "score": 5
+    },
+    {
+      "title": "Luanda acolhe conferência em alusão ao Dia da Paz e Reconciliação NacionalAfirmar Angola como um Estado estrategicamente alinhado com as dinâmicas contemporâneas da segurança internacional, valorizando a trajectória histórica de pacificação como um activo estruturante da sua projecção regional e internacional, é o objectivo principal da Conferência Internacional que acontece no dia 2 de Abril, em Luanda, em alusão ao Dia da Paz e da Reconciliação Nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672705/luanda-acolhe-confer%C3%AAncia-em-alus%C3%A3o-ao-dia-da-paz-e-reconcilia%C3%A7%C3%A3o-nacional",
+      "source": "Jornal de Angola",
+      "_key": "78ce1adf23c79083",
+      "score": 5
+    },
+    {
+      "title": "Regiões Malanje regista diminuição de acidentes e mortos nas estradas ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672699/malanje-regista-diminui%C3%A7%C3%A3o-de-acidentes-e-mortos-nas-estradas",
+      "source": "Jornal de Angola",
+      "_key": "9d40a1439958c5dd",
+      "score": 5
+    },
+    {
+      "title": "Angola produz 12,8 mil toneladas de tilápia de Janeiro a FevereiroO país produziu, entre Janeiro e Fevereiro, um total de 12 mil e 849 toneladas de tilápia (cacusso), revelou, segunda-feira, em Porto-Amboim, a ministra das Pescas e Recursos Marinhos, Carmen do Sacramento Neto, considerando que há um crescimento notável, em comparação com os anos anteriores.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672718/angola-produz-128-mil-toneladas-de-til%C3%A1pia-de-janeiro-a-fevereiro",
+      "source": "Jornal de Angola",
+      "_key": "812e8f762650b492",
+      "score": 5
+    },
+    {
+      "title": "Transbordo de rio em Benguela desaloja mais de 400 famílias e destrói 12 residências",
+      "url": "https://www.opais.ao/sociedade/transbordo-de-rio-em-benguela-desaloja-mais-de-400-familias-e-destroi-12-residencias/",
+      "source": "O País",
+      "_key": "b2cec53df563a726",
+      "score": 5
+    },
+    {
+      "title": "Defesa prevê concluir hospitais militares em quatro províncias até 2028",
+      "url": "https://www.opais.ao/politica/defesa-preve-concluir-hospitais-militares-em-quatro-provincias-ate-2028/",
+      "source": "O País",
+      "_key": "9ca0fb0c22e9779a",
+      "score": 5
     }
   ]
 }

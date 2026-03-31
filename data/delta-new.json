@@ -1,98 +1,602 @@
 {
-  "date": "2026-03-30",
-  "total_extracted": 1641,
-  "total_new": 15,
-  "total_existing": 1626,
+  "date": "2026-03-31",
+  "total_extracted": 1639,
+  "total_new": 99,
+  "total_existing": 1540,
   "articles": [
     {
-      "title": "Family farming fund plans to assist 114,000 families in nine provinces",
-      "url": "https://www.angop.ao/en/noticias/agricultura/samap-preve-assistir-de-114-mil-familias-camponesas-em-nove-provincias/",
+      "title": "Jornal de Angola newspaper launches special edition produced by women",
+      "url": "https://www.angop.ao/en/noticias/sociedade/jornal-de-angola-lanca-edicao-especial-produzida-por-mulheres/",
       "source": "ANGOP",
-      "_key": "b56237080d546e0c"
+      "_key": "3d2c51b72b55fe5c"
     },
     {
-      "title": "PRA-JA diz “ser o partido mais dinâmico, enquanto Renova desvaloriza e diz que cada um tem seu ritmo”",
-      "url": "https://correiokianda.info/pra-ja-diz-ser-o-partido-mais-dinamico-enquanto-renova-desvaloriza-e-diz-que-cada-um-tem-seu-ritmo/",
+      "title": "Angola approaches the semifinals of the African Wheelchair Championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/seleccao-feminina-derrota-marrocos-e-aproxima-se-as-meias-finais-do-africano/",
+      "source": "ANGOP",
+      "_key": "16fa6ff52a82293c"
+    },
+    {
+      "title": "Angolan Foreign Minister witnesses inauguration of Faustin-Archange Touadéra",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-testemunha-tomada-de-posse-de-faustin-archange-touadera/",
+      "source": "ANGOP",
+      "_key": "821d99a6c018d790"
+    },
+    {
+      "title": "Angola plans to produce 8,000 tons of fish by 2027",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-projecta-produzir-800-mil-toneladas-de-pescado-em-aquicultura-ate-2050/",
+      "source": "ANGOP",
+      "_key": "f7f913f99fc48548"
+    },
+    {
+      "title": "Angola’s Defense Minister announces completion of new military hospitals in four provinces",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-anuncia-conclusao-das-obras-dos-novos-hospitais-militares-em-quatro-provincias/",
+      "source": "ANGOP",
+      "_key": "f3021d8ddfa7a46c"
+    },
+    {
+      "title": "President João Lourenço grants pardon to 310 prisoners",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-concede-indultos-a-307-presos/",
+      "source": "ANGOP",
+      "_key": "c9873e359e9606aa"
+    },
+    {
+      "title": "Luanda to host international forum on Criminal Law and Criminal Procedure",
+      "url": "https://www.angop.ao/en/noticias/politica/luanda-acolhe-forum-internacional-sobre-direito-penal-e-processo-penal/",
+      "source": "ANGOP",
+      "_key": "a0df9e9514afd157"
+    },
+    {
+      "title": "Jornalistas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=48777",
+      "source": "ANGOP",
+      "_key": "1f5ee661c1851aeb"
+    },
+    {
+      "title": "Pescas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=75356",
+      "source": "ANGOP",
+      "_key": "2db5d6d15dad863b"
+    },
+    {
+      "title": "Pardon",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=15845",
+      "source": "ANGOP",
+      "_key": "5086119c9e3b1f5a"
+    },
+    {
+      "title": "Direito",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=51414",
+      "source": "ANGOP",
+      "_key": "d5d75c7cb9dee1d3"
+    },
+    {
+      "title": "Angola qualified to the African men's wheelchair quarter-finals",
+      "url": "https://www.angop.ao/en/noticias/desporto/angola-nos-quartos-de-final-do-africano-masculino-em-cadeira-de-rodas/",
+      "source": "ANGOP",
+      "_key": "07a3bb498a54cc4f"
+    },
+    {
+      "title": "PAT II scholarship program begins on Tuesday in Uíge province",
+      "url": "https://www.angop.ao/en/noticias/educacao/programa-de-bolsas-de-estudo-do-pat-ii-arranca-terca-feira-no-uige/",
+      "source": "ANGOP",
+      "_key": "ee48175e5adce43f"
+    },
+    {
+      "title": "Bolsas de estudo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=129152",
+      "source": "ANGOP",
+      "_key": "de7d8c52b9c90327"
+    },
+    {
+      "title": "Police arrests four citizens involved in ivory smuggling crime",
+      "url": "https://www.angop.ao/en/noticias/sociedade/pn-detem-quatro-cidadaos-envolvidos-num-crime-de-contrabando-de-marfim/",
+      "source": "ANGOP",
+      "_key": "2fa906923e8ff1ad"
+    },
+    {
+      "title": "Petroléo e Gás",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=56790",
+      "source": "ANGOP",
+      "_key": "0e8e2d8118d195f8"
+    },
+    {
+      "title": "Chess players from Cunene join national team for African tournament",
+      "url": "https://www.angop.ao/en/noticias/desporto/cunene-integra-seleccao-nacional-para-o-africano-de-xadrez/",
+      "source": "ANGOP",
+      "_key": "66efd51913af8633"
+    },
+    {
+      "title": "Street Troops play announced for November",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/a-voz-do-saber-exibe-peca-teatral-tropas-das-ruas/",
+      "source": "ANGOP",
+      "_key": "de9411f11d078a14"
+    },
+    {
+      "title": "Irão: EUA afirmam que retomarão em breve o controlo do Estreito de Ormuz",
+      "url": "https://angola24horas.com/internacional/item/34027-irao-eua-afirmam-que-retomarao-em-breve-o-controlo-do-estreito-de-ormuz",
+      "source": "Angola 24 Horas",
+      "_key": "8b6805ec8498be78"
+    },
+    {
+      "title": "João Lourenço concede indulto a 310 reclusos por ocasião do Dia da Paz",
+      "url": "https://angola24horas.com/component/k2/item/34026-joao-lourenco-concede-indulto-a-310-reclusos-por-ocasiao-do-dia-da-paz",
+      "source": "Angola 24 Horas",
+      "_key": "0a9907826562df80"
+    },
+    {
+      "title": "Polícia Nacional alerta para uso indevido de uniformes militares em actos políticos",
+      "url": "https://angola24horas.com/politica/item/34028-policia-nacional-alerta-para-uso-indevido-de-uniformes-militares-em-actos-politicos",
+      "source": "Angola 24 Horas",
+      "_key": "63b114f3f98bee19"
+    },
+    {
+      "title": "“Riquinho rejeita acusações de burla no projecto de táxis em Angola”",
+      "url": "https://angola24horas.com/sociedade/item/34029-riquinho-rejeita-acusacoes-de-burla-no-projecto-de-taxis-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "8a251249b38bcecf"
+    },
+    {
+      "title": "Preço alto dos fertilizantes vai agravar situação dos produtores angolanos – associações",
+      "url": "https://angola24horas.com/sociedade/item/34025-preco-alto-dos-fertilizantes-vai-agravar-situacao-dos-produtores-angolanos-associacoes",
+      "source": "Angola 24 Horas",
+      "_key": "1714a31dd99461b8"
+    },
+    {
+      "title": "JMPLA debate desafios políticos e mobilização da juventude",
+      "url": "https://correiokianda.info/jmpla-debate-desafios-politicos-e-mobilizacao-da-juventude/",
       "source": "Correio Kianda",
-      "_key": "380e846ba42f72a7"
+      "_key": "3b9f38169f28d5f1"
     },
     {
-      "title": "Economista defende a adopção de outras formas para financiar OGE",
-      "url": "https://correiokianda.info/economista-defende-a-adopcao-de-outras-formas-para-financiar-oge/",
+      "title": "Presidente João Lourenço concede indulto a reclusos em celebração do 4 de Abril",
+      "url": "https://correiokianda.info/presidente-joao-lourenco-concede-indulto-a-reclusos-em-celebracao-do-4-de-abril/",
       "source": "Correio Kianda",
-      "_key": "b0f18e5859702e2c"
+      "_key": "2c42a23dcc58745e"
     },
     {
-      "title": "INAMET alerta para chuva forte e trovoadas em Luanda, Icolo e Bengo e Bengo",
-      "url": "https://correiokianda.info/inamet-alerta-para-chuva-forte-e-trovoadas-em-luanda-icolo-e-bengo-e-bengo/",
+      "title": "“Falta de patriotismo é entrave ao desenvolvimento em Angola”, dizem comentadores do Círculo da Kianda",
+      "url": "https://correiokianda.info/falta-de-patriotismo-e-entrave-ao-desenvolvimento-em-angola-dizem-comentadores-do-circulo-da-kianda/",
       "source": "Correio Kianda",
-      "_key": "a21157951ac11a8d"
+      "_key": "451069ea169dad59"
     },
     {
-      "title": "Escalada no Golfo: Trump condiciona fim da guerra à reabertura do Estreito de Ormuz e ameaça o Irão",
-      "url": "https://correiokianda.info/escalada-no-golfo-trump-condiciona-fim-da-guerra-a-reabertura-do-estreito-de-ormuz-e-ameaca-o-irao/",
+      "title": "UNITA exige esclarecimentos sobre morte de Monteiro Eliseu; jurista considera posição legítima",
+      "url": "https://correiokianda.info/unita-exige-esclarecimentos-sobre-morte-de-monteiro-eliseu-jurista-considera-posicao-legitima/",
       "source": "Correio Kianda",
-      "_key": "38f1eb76f1dd7723"
+      "_key": "f655420853b7fe29"
     },
     {
-      "title": "Profissionais de saúde moçambicanos acusam governo de incumprimento",
-      "url": "https://correiokianda.info/profissionais-de-saude-mocambicanos-acusam-governo-de-incumprimento/",
+      "title": "Governo projecta conclusão de terminais com olhos na recepção de cruzeiros internacionais",
+      "url": "https://correiokianda.info/governo-projecta-conclusao-de-terminais-com-olhos-na-recepcao-de-cruzeiros-internacionais/",
       "source": "Correio Kianda",
-      "_key": "ab1e45d5ee0b7b28"
+      "_key": "6f8b5fdf0633281e"
     },
     {
-      "title": "Tchize dos Santos desaconselha manifestações em Angola e apela à contenção",
-      "url": "https://holdonangola.com/tchize-dos-santos-desaconselha-manifestacoes-em-angola-e-apela-a-contencao/",
+      "title": "Governo cede a pedidos e amplia prazo para propostas do Corredor do Namibe",
+      "url": "https://correiokianda.info/governo-cede-a-pedidos-e-amplia-prazo-para-propostas-do-corredor-do-namibe/",
+      "source": "Correio Kianda",
+      "_key": "17965572b120d0a1"
+    },
+    {
+      "title": "Projecto de táxis: Riquinho nega burla, mas projecto continua envolto em incertezas",
+      "url": "https://correiokianda.info/projecto-de-taxis-riquinho-nega-burla-mas-projecto-continua-envolto-em-incertezas/",
+      "source": "Correio Kianda",
+      "_key": "3cddc5f77170c5a0"
+    },
+    {
+      "title": "Inspecção ao MININT visa gestão de Eugénio Laborinho, não mandato de Manuel Homem",
+      "url": "https://correiokianda.info/inspeccao-ao-minint-visa-gestao-de-eugenio-laborinho-nao-mandato-de-manuel-homem/",
+      "source": "Correio Kianda",
+      "_key": "6bf28d94fa998fd6"
+    },
+    {
+      "title": "“Uso de uniformes militares em acto político viola legislação”, alerta Polícia Nacional",
+      "url": "https://correiokianda.info/uso-de-uniformes-militares-em-acto-politico-viola-legislacao-alerta-policia-nacional/",
+      "source": "Correio Kianda",
+      "_key": "33c9cb941667a03b"
+    },
+    {
+      "title": "Restos mortais do deputado Monteiro Eliseu vão a enterrar quinta-feira no Huambo",
+      "url": "https://correiokianda.info/166951-2/",
+      "source": "Correio Kianda",
+      "_key": "828226c35fea6ca7"
+    },
+    {
+      "title": "Aumento de 50% no preço do comboio gera revolta entre passageiros em Luanda",
+      "url": "https://correiokianda.info/aumento-de-50-no-preco-do-comboio-gera-revolta-entre-passageiros-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "3e959aa0475289c4"
+    },
+    {
+      "title": "Petroleiro russo chega a Cuba com 100 mil toneladas de crude: “não há problema”, diz Trump ",
+      "url": "https://correiokianda.info/petroleiro-russo-chega-a-cuba-com-100-mil-toneladas-de-crude-nao-ha-problema-diz-trump/",
+      "source": "Correio Kianda",
+      "_key": "ca5f53b1c2c6eb49"
+    },
+    {
+      "title": "Massacre no Haiti deixa pelo menos 30 mortos em Jean-Denis",
+      "url": "https://correiokianda.info/massacre-no-haiti-deixa-pelo-menos-30-mortos-em-jean-denis/",
+      "source": "Correio Kianda",
+      "_key": "3ca9384a192af7ea"
+    },
+    {
+      "title": "Espanha invoca soberania e fecha espaço aéreo a voos militares dos EUA",
+      "url": "https://correiokianda.info/espanha-invoca-soberania-e-fecha-espaco-aereo-a-voos-militares-dos-eua/",
+      "source": "Correio Kianda",
+      "_key": "892e1079617f1fb8"
+    },
+    {
+      "title": "Diplomas e certificados em Angola: a demora que frustra os estudantes",
+      "url": "https://correiokianda.info/diplomas-e-certificados-em-angola-a-demora-que-frustra-os-estudantes/",
+      "source": "Correio Kianda",
+      "_key": "1c261daf2d63e692"
+    },
+    {
+      "title": "Datacracia ou democracia? A captura algorítmica do poder político no século XXI",
+      "url": "https://correiokianda.info/datacracia-ou-democracia-a-captura-algoritmica-do-poder-politico-no-seculo-xxi/",
+      "source": "Correio Kianda",
+      "_key": "7281a1cbe32d3ab7"
+    },
+    {
+      "title": "        Sociedade13 horas atrás  Produção excessiva de lixo agrava riscos ambientais e de saúde em Angola A produção significativa de lixo no país é apontada como um “grande problema ambiental”, numa altura em que se debatem acções de gestão de resíduos sólidos....   ",
+      "url": "https://correiokianda.info/producao-excessiva-de-lixo-agrava-riscos-ambientais-e-de-saude-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "b5b6110974d07488"
+    },
+    {
+      "title": "PR: ‘Mundo virou selva’ – Discurso na OEACP destaca riscos de guerras e desigualdades",
+      "url": "https://diariodosnegocios.com/pr-mundo-virou-selva-discurso-na-oeacp-destaca-riscos-de-guerras-e-desigualdades/",
+      "source": "Diário dos Negócios",
+      "_key": "101df7f5d6cd5ed3"
+    },
+    {
+      "title": "Presidente João Lourenço concede indulto a centenas de reclusos no Dia da Paz e Reconciliação Nacional",
+      "url": "https://diariodosnegocios.com/indulto-presidencial-4-abril-paz-reconciliacao-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "0ced8e13cb81b169"
+    },
+    {
+      "title": "Crédito bruto ao sector não financeiro atinge nove biliões de kwanzas em Fevereiro, revela BNA",
+      "url": "https://diariodosnegocios.com/credito-sector-nao-financeiro-angola-nove-biliao-kwanzas-fevereiro-2025/",
+      "source": "Diário dos Negócios",
+      "_key": "060dd52ec3937048"
+    },
+    {
+      "title": " PR: ‘Mundo virou selva’ – Discurso na OEACP destaca riscos de guerras e desigualdades ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7335c8808817b8"
+    },
+    {
+      "title": " Presidente João Lourenço concede indulto a centenas de reclusos no Dia da Paz e Reconciliação Nacional ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5d4eda8282b1e7"
+    },
+    {
+      "title": " Crédito bruto ao sector não financeiro atinge nove biliões de kwanzas em Fevereiro, revela BNA ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_3728851c5fb500"
+    },
+    {
+      "title": "Presidência desafia as empresas a investir na valorização do capital humano",
+      "url": "https://expansao.co.ao/angola/detalhe/presidencia-desafia-as-empresas-a-investir-na-valorizacao-do-capital-humano-70787.html",
+      "source": "Expansão",
+      "_key": "5235a1ee08e48836"
+    },
+    {
+      "title": "Preço dos bilhetes de comboio vão subir 50% para 300 kwanzas a partir de 1 de Maio",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0605cfbdf9b2cb"
+    },
+    {
+      "title": "Caála testa logística de frio para impulsionar o Corredor do Lobito",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_be4025afc1ca39"
+    },
+    {
+      "title": "Novo imposto prevê isenções para trabalhadores com deficiência e pagamento em seis prestações",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_243547299c7b96"
+    },
+    {
+      "title": "Startups vão ter selo de certificação que garante \"folga fiscal\" por três anos",
+      "url": "https://expansao.co.ao/empresas/detalhe/startups-vao-ter-selo-de-certificacao-que-garante-folga-fiscal-por-tres-anos-70753.html",
+      "source": "Expansão",
+      "_key": "94ae0070a5a32221"
+    },
+    {
+      "title": "Fundação Tony Elumelu reforça aposta em África com 16 milhões USD para 3.200 empreendedores",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0f0ab749cbed5b"
+    },
+    {
+      "title": "\"O objectivo é fazer com que a empresa onde investirmos ganhe um parceiro de negócio\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_24f6feefe660a8"
+    },
+    {
+      "title": "Petróleo perde terreno após notícias de que Trump está a considerar abandonar a guerra",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-perde-terreno-apos-noticias-de-que-trump-esta-a-considerar-abandonar-a-guerra-70791.html",
+      "source": "Expansão",
+      "_key": "a501fc317dee4ff8"
+    },
+    {
+      "title": "Cinquenta anos de legislação laboral independente e a reforma em curso",
+      "url": "https://expansao.co.ao/analise/detalhe/cinquenta-anos-de-legislacao-laboral-independente-e-a-reforma-em-curso-70786.html",
+      "source": "Expansão",
+      "_key": "e7c92d9da36f6016"
+    },
+    {
+      "title": "Fundação Tony Elumelu reforça aposta em África com 16 milhões USD para 3.200 empreendedoresA Fundação Tony Elumelu (TEF) anunciou a atribuição de 16 milhões USD a 3.200 empreendedores provenientes dos 54 países africanos, no âmbito da edição 2026 do seu programa emblemático de apoio ao empreendedorismo, uma das maiores distribuições anuais de capital no continente.",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/fundacao-tony-elumelu-reforca-aposta-em-africa-com-16-milhoes-usd-para-3200-empreendedores-70790.html",
+      "source": "Expansão",
+      "_key": "c6d2295f7c207fe2"
+    },
+    {
+      "title": "\"O objectivo é fazer com que a empresa onde investirmos ganhe um parceiro de negócio\"Depois de uma fase inicial cinzenta com a gestão do FACRA nas mãos do banco privado Kwanza Invest, do suiço-angolano Bastos de Morais, o Fundo prepara-se para um novo período mais transparente e de apoio real às empresas nacionais.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/o-objectivo-e-fazer-com-que-a-empresa-onde-investirmos-ganhe-um-parceiro-de-negocio-70778.html",
+      "source": "Expansão",
+      "_key": "b66bb1caf4c1db6b"
+    },
+    {
+      "title": "Moçambique prevê movimentação de 250 mil turistas nacionais e entrada de 55 mil estrangeiros durante a Páscoa",
+      "url": "https://forbesafricalusofona.com/mocambique-preve-movimentacao-de-250-mil-turistas-nacionais-e-entrada-de-55-mil-estrangeiros-durante-a-pascoa/",
+      "source": "Forbes África",
+      "_key": "76c08eafdf384649"
+    },
+    {
+      "title": "Produtos importados mais baratos em Cabo Verde",
+      "url": "https://forbesafricalusofona.com/produtos-importados-mais-baratos-em-cabo-verde/",
+      "source": "Forbes África",
+      "_key": "9bef0c8a91d8dc0d"
+    },
+    {
+      "title": "Governo de Cabo Verde defende sistema de qualificação profissional alinhado às necessidades do mercado e voltado para as empresas",
+      "url": "https://forbesafricalusofona.com/governo-de-cabo-verde-defende-sistema-de-qualificacao-profissional-alinhado-as-necessidades-do-mercado-e-voltado-para-as-empresas/",
+      "source": "Forbes África",
+      "_key": "adae3b810ea2ed3d"
+    },
+    {
+      "title": "Assembleia Nacional lamenta morte do deputado Monteiro Eliseu",
+      "url": "https://holdonangola.com/assembleia-nacional-lamenta-morte-do-deputado-monteiro-eliseu/",
       "source": "Hold On Angola",
-      "_key": "d6a91e51d6d927c0"
+      "_key": "71f9aa6d250d9614"
     },
     {
-      "title": "Regiões Hospital Militar de Cabinda inaugurado em 2028 ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672694/hospital-militar-de-cabinda-inaugurado-em-2028",
+      "title": "Terça-feira, 31 de Março, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_58fcb7a8eb619a"
+    },
+    {
+      "title": "Destaque Jornal de Angola prepara edição especial produzida por mulheres O Jornal de Angola vai lançar, na próxima terça-feira, 31, uma edição especial produzida exclusivamente por mulheres da redacção.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672702/jornal-de-angola-prepara-edi%C3%A7%C3%A3o-especial-produzida-por-mulheres",
       "source": "Jornal de Angola",
-      "_key": "34e7f5f48e06f2ac"
+      "_key": "ef9698d035acdea4"
     },
     {
-      "title": "Regiões UNITA em Malanje preocupada com propagação de doenças vulneráveis na região ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672696/unita-em-malanje-preocupada-com-propaga%C3%A7%C3%A3o-de-doen%C3%A7as-vulner%C3%A1veis-na-regi%C3%A3o",
+      "title": "Destaque INAMET prevê chuva forte com trovoada em Luanda e no BengoO Instituto de Nacional de Meteorologia e Geofísica de Angola (INAMET) emitiu, esta segunda-feira, um alerta amarelo que prevê chuva forte com trovoada, nas províncias de Luanda e no Bengo, e o risco de queda de árvores e cortes de energia.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672701/inamet-prev%C3%AA-chuva-forte-com-trovoada-em-luanda-e-no-bengo",
       "source": "Jornal de Angola",
-      "_key": "f9cef0b2480febda"
+      "_key": "bedad483fc9443a6"
     },
     {
-      "title": "Regiões Aumento do caudal da lagoa de Cangoua destrói 17 casas ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672695/aumento-do-caudal-da-lagoa-de-cangoua-destr%C3%B3i-17-casas-",
+      "title": "Destaque Téte António participa na Cerimónia de Investidura do Presidente da República Centro-AfricanaO ministro das Relações Exteriores participou, hoje, em Bangui, na Cerimónia de Investidura do Presidente da República Centro-Africana, Faustin-Archange Touaderá. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672700/t%C3%A9te-ant%C3%B3nio-participa-na-cerim%C3%B3nia-de-investidura-do-presidente-da-rep%C3%BAblica-centro-africana",
       "source": "Jornal de Angola",
-      "_key": "0b09e92d3044b373"
+      "_key": "b7c792aaf6fc0eac"
     },
     {
-      "title": "Médio Oriente: Trump diz que a guerra está a acabar...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-diz-que-a-guerra-esta-a-acabar-e-que-os-eua-vao-terminar-a-amorosa-passagem-pelo-irao-para-tras-ameaca-deixar-um-pais-sem-energia-electrica-70783.html",
+      "title": "Luanda acolhe conferência em alusão ao Dia da Paz e Reconciliação NacionalAfirmar Angola como um Estado estrategicamente alinhado com as dinâmicas contemporâneas da segurança internacional, valorizando a trajectória histórica de pacificação como um activo estruturante da sua projecção regional e internacional, é o objectivo principal da Conferência Internacional que acontece no dia 2 de Abril, em Luanda, em alusão ao Dia da Paz e da Reconciliação Nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672705/luanda-acolhe-confer%C3%AAncia-em-alus%C3%A3o-ao-dia-da-paz-e-reconcilia%C3%A7%C3%A3o-nacional",
+      "source": "Jornal de Angola",
+      "_key": "78ce1adf23c79083"
+    },
+    {
+      "title": "“Olho paras as mulheres ligadas à liderança feminina em Angola e encontro boas referências”A Vice-Presidente da República, Esperança da Costa, enaltece a aposta na educação como chave de sucesso para afirmação das mulheres. Em entrevista exclusiva ao Jornal de Angola, focada essencialmente na problemática da igualdade do género e representatividade nas estruturas do poder, destacou a importância de políticas públicas, apesar da existência de alguns constrangimentos. Bióloga de formação, com perc",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/672704/%E2%80%9Colho-paras-as-mulheres-ligadas-%C3%A0-lideran%C3%A7a-feminina-em-angola-e-encontro--boas-refer%C3%AAncias%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "dde7e1479c2e33ba"
+    },
+    {
+      "title": "Economia “Enfrentei o preconceito, mas escolhi apostar em mim e hoje conquistei respeito” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672722/%E2%80%9Cenfrentei-o-preconceito-mas-escolhi-apostar-em-mim-e-hoje-conquistei-respeito%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "a70f93e5c9e572be"
+    },
+    {
+      "title": "Política Defensora dos direitos e garantias dos cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672710/defensora-dos-direitos--e-garantias--dos-cidad%C3%A3os-",
+      "source": "Jornal de Angola",
+      "_key": "f29af82b1f614a91"
+    },
+    {
+      "title": "Entrevista Sonho da medicina esbarra na quadra ",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/672708/sonho-da-medicina-esbarra-na-quadra",
+      "source": "Jornal de Angola",
+      "_key": "dfa7a0882ec9b308"
+    },
+    {
+      "title": "Sociedade “Com as vendas, construí a minha casa e formei os meus filhos” ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672707/%E2%80%9Ccom-as-vendas-constru%C3%AD-a-minha-casa-e-formei-os-meus-filhos%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "c857c8b75e9558b4"
+    },
+    {
+      "title": "Sociedade Iniciativa de Ana Bartolomeu promove empregos a 3.000 vendedoras informais ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672706/iniciativa-de-ana-bartolomeu-promove-empregos-a-3.000-vendedoras-informais",
+      "source": "Jornal de Angola",
+      "_key": "aa2ad8d673a2a6ec"
+    },
+    {
+      "title": "Regiões Malanje regista diminuição de acidentes e mortos nas estradas ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672699/malanje-regista-diminui%C3%A7%C3%A3o-de-acidentes-e-mortos-nas-estradas",
+      "source": "Jornal de Angola",
+      "_key": "9d40a1439958c5dd"
+    },
+    {
+      "title": "Regiões MPLA em Malanje destaca importância da participação activa no IX Congresso Ordinário ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672697/mpla-em-malanje-destaca-import%C3%A2ncia-da-participa%C3%A7%C3%A3o-activa-no-ix-congresso-ordin%C3%A1rio",
+      "source": "Jornal de Angola",
+      "_key": "8793d2d56da03d1f"
+    },
+    {
+      "title": "19:50 / 30 mar. 2026 Mais de 124 casos de mordeduras de cães e gatos registados em Malanje ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672703/mais-de-124-casos-de-mordeduras-de-c%C3%A3es-e-gatos-registados-em-malanje",
+      "source": "Jornal de Angola",
+      "_key": "8b19c9d738196be4"
+    },
+    {
+      "title": "Angola produz 12,8 mil toneladas de tilápia de Janeiro a FevereiroO país produziu, entre Janeiro e Fevereiro, um total de 12 mil e 849 toneladas de tilápia (cacusso), revelou, segunda-feira, em Porto-Amboim, a ministra das Pescas e Recursos Marinhos, Carmen do Sacramento Neto, considerando que há um crescimento notável, em comparação com os anos anteriores.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672718/angola-produz-128-mil-toneladas-de-til%C3%A1pia-de-janeiro-a-fevereiro",
+      "source": "Jornal de Angola",
+      "_key": "812e8f762650b492"
+    },
+    {
+      "title": "Economia / agora Participação feminina no sector Petrolífero angolano atinge os 21% ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672723/participa%C3%A7%C3%A3o-feminina-no-sector-petrol%C3%ADfero-angolano-atinge-os-21%25",
+      "source": "Jornal de Angola",
+      "_key": "3df7d3562be07331"
+    },
+    {
+      "title": "Economia / agora TAAG anuncia reforço de 70 novos pilotos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672717/taag-anuncia-refor%C3%A7o--de-70-novos-pilotos",
+      "source": "Jornal de Angola",
+      "_key": "51dffaea9680eeba"
+    },
+    {
+      "title": "Economia / agora Brent recupera 0,47% e se fixa nos 108,8 dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672716/brent-recupera-047%25--e-se-fixa-nos-1088-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "19142e1e822cbfdb"
+    },
+    {
+      "title": "Última hora João Lourenço concede Indulto Presidencial a centenas de cidadãos",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672698/jo%C3%A3o-louren%C3%A7o-concede-indulto-presidencial-a-centenas-de-cidad%C3%A3os",
+      "source": "Jornal de Angola",
+      "_key": "2604911ab9eec144"
+    },
+    {
+      "title": "Cuba e o dia da libertação da áfrica austral",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/cuba-e-o-dia-da-libertacao-da-africa-austral-70793.html",
       "source": "Novo Jornal",
-      "_key": "2428dce8e862e790"
+      "_key": "eeff45c69eb78f0e"
     },
     {
-      "title": "‎Hospital Militar Regional de Cabinda vai ser inaugurado em 2028",
-      "url": "https://www.opais.ao/ultimas_hora/hospital-militar-regional-de-cabinda-vai-ser-inaugurado-em-2028/",
+      "title": "Mulher detida por promover prostituição de crianças em Talatona",
+      "url": "https://www.opais.ao/sociedade/mulher-detida-por-promover-prostituicao-de-criancas-em-talatona/",
       "source": "O País",
-      "_key": "c8088a8f2722b223"
+      "_key": "f7a227f2db54dbce"
     },
     {
-      "title": "‎Mais de 100 profissionais da saúde capacitados sobre atendimento a pacientes politraumáticos‎",
-      "url": "https://www.opais.ao/ultimas_hora/mais-de-100-profissionais-da-saude-capacitados-sobre-atendimento-a-pacientes-politraumaticos/",
+      "title": "Falta de verbas por parte do MINJUD ‘ameaça’ realização do Africano de MMA em Luanda",
+      "url": "https://www.opais.ao/desporto/falta-de-verbas-por-parte-do-minjud-ameaca-realizacao-do-africano-de-mma-em-luanda/",
       "source": "O País",
-      "_key": "3761f2e2147f0b48"
+      "_key": "39f72e6caea571c2"
     },
     {
-      "title": "Embaixada de Angola na Suíça proporciona serviços de justiça aos angolanos residentes em Zurique‎",
-      "url": "https://www.opais.ao/politica/embaixada-de-angola-na-suica-proporciona-servicos-de-justica-aos-angolanos-residentes-em-zurique/",
+      "title": "Criança vê as duas mãos queimadas por pisar no relvado da vizinha",
+      "url": "https://www.opais.ao/sociedade/crianca-ve-as-duas-maos-queimadas-por-pisar-no-relvado-da-vizinha/",
       "source": "O País",
-      "_key": "ceeb8ed091f21b05"
+      "_key": "1fc08cd3fcc05e00"
     },
     {
-      "title": "‎Governo do Huambo lamenta morte do deputado Monteiro Eliseu",
-      "url": "https://www.opais.ao/ultimas_hora/governo-do-huambo-lamenta-morte-do-deputado-monteiro-eliseu/",
+      "title": "INADEC regista mensalmente 50 reclamações por incumprimento de acordos por parte de empresas de construção",
+      "url": "https://www.opais.ao/economia/inadec-regista-mensalmente-50-reclamacoes-por-incumprimento-de-acordos-por-parte-de-empresas-de-construcao/",
       "source": "O País",
-      "_key": "11e7485b5efeb0f6"
+      "_key": "34b0a8684d1e24e2"
+    },
+    {
+      "title": "Presidente indulta 310 reclusos no âmbito do 4 de Abril",
+      "url": "https://www.opais.ao/politica/presidente-indulta-310-reclusos-no-ambito-do-4-de-abril/",
+      "source": "O País",
+      "_key": "5cc7a31db34e90bc"
+    },
+    {
+      "title": "Seminarista na Huíla encontrado sem vida",
+      "url": "https://www.opais.ao/sociedade/seminarista-na-huila-encontrado-sem-vida/",
+      "source": "O País",
+      "_key": "fe7d675d6db681cc"
+    },
+    {
+      "title": "Transbordo de rio em Benguela desaloja mais de 400 famílias e destrói 12 residências",
+      "url": "https://www.opais.ao/sociedade/transbordo-de-rio-em-benguela-desaloja-mais-de-400-familias-e-destroi-12-residencias/",
+      "source": "O País",
+      "_key": "b2cec53df563a726"
+    },
+    {
+      "title": "II Reunião Ordinária da JMPLA acontece amanhã em Luanda‎",
+      "url": "https://www.opais.ao/politica/ii-a-reuniao-ordinaria-da-jmpla-acontece-amanha-em-luanda/",
+      "source": "O País",
+      "_key": "59852fe2163b9150"
+    },
+    {
+      "title": "MINSA realiza “Café Oncológico” para reforçar importância do diagnóstico precoce do cancro",
+      "url": "https://www.opais.ao/sociedade/minsa-realiza-cafe-oncologico-para-reforcar-importancia-do-diagnostico-precoce-do-cancro/",
+      "source": "O País",
+      "_key": "142400b520202d52"
+    },
+    {
+      "title": "Executivo vai gastar mais de 2 biliões de kwanzas com sector da saúde",
+      "url": "https://www.opais.ao/economia/executivo-vai-gastar-mais-de-2-bilioes-de-kwanzas-com-sector-da-saude/",
+      "source": "O País",
+      "_key": "a24270a92bae70f7"
+    },
+    {
+      "title": "Defesa prevê concluir hospitais militares em quatro províncias até 2028",
+      "url": "https://www.opais.ao/politica/defesa-preve-concluir-hospitais-militares-em-quatro-provincias-ate-2028/",
+      "source": "O País",
+      "_key": "9ca0fb0c22e9779a"
+    },
+    {
+      "title": "Carta do leitor: Cidadãos assaltados na Vila de Viana",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-cidadaos-assaltados-na-vila-de-viana/",
+      "source": "O País",
+      "_key": "df44f3f06eea81fc"
+    },
+    {
+      "title": "É de hoje…Morrer em África exige sempre um culpado",
+      "url": "https://www.opais.ao/opiniao/e-de-hojemorrer-em-africa-exige-sempre-um-culpado/",
+      "source": "O País",
+      "_key": "9e12c6fa71408d39"
+    },
+    {
+      "title": "Transição energética",
+      "url": "https://www.opais.ao/opiniao/transicao-energetica-2/",
+      "source": "O País",
+      "_key": "b8e80b709bf4501b"
+    },
+    {
+      "title": "PR indulta 310 reclusos no âmbito do 4 de Abril",
+      "url": "https://www.opais.ao/politica/pr-indulta-310-reclusos-no-ambito-do-4-de-abril/",
+      "source": "O País",
+      "_key": "6680a783ecfd9c0d"
+    },
+    {
+      "title": "‎Presidente da República concede indulto a mais de 100 cidadãos",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-concede-indulto-a-mais-de-100-cidadaos/",
+      "source": "O País",
+      "_key": "b8f420a5dc52585a"
+    },
+    {
+      "title": "No Namibe: Biblioteca comunitária celebra cinco anos com reflexão sobre estado da literatura na província",
+      "url": "https://www.opais.ao/cultura/no-namibe-biblioteca-comunitaria-celebra-cinco-anos-com-reflexao-sobre-estado-da-literatura-na-provincia/",
+      "source": "O País",
+      "_key": "d7f2bebd06d64a70"
+    },
+    {
+      "title": "Xadrez: Lulceni Mendes conquista Zonal a de apuramento para o Nacional",
+      "url": "https://www.opais.ao/desporto/xadrez-lulceni-mendes-conquista-zonal-a-de-apuramento-para-o-nacional/",
+      "source": "O País",
+      "_key": "10eeb2a221c770d6"
     }
   ]
 }
