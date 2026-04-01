@@ -1,70 +1,84 @@
 {
   "date": "2026-04-01",
-  "total_new": 36,
-  "total_filtered": 9,
+  "total_new": 27,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Director do FAS de Malanje detido por alegado desvio de mais de mil milhões de kwanzas O Serviço de Investigação Criminal (SIC) em Malanje deteve, hoje, o director provincial do Fundo de Apoio Social (FAS), Gomes António Golombole, por um alegado desvio de mais de mil milhões de kwanzas do Programa Kwenda.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672789/director-do-fas-de-malanje-detido-por-alegado-desvio-de-mais-de-mil-milh%C3%B5es-de-kwanzas-",
+      "title": "Número de licenças para construção de edifícios em Angola reduz 46,97% em 2025",
+      "url": "https://forbesafricalusofona.com/numero-de-licencas-para-construcao-de-edificios-em-angola-reduz-4697-em-2025/",
+      "source": "Forbes África",
+      "_key": "5ab8cc0599496524",
+      "score": 9
+    },
+    {
+      "title": "Governadora destaca oportunidades de investimentos na província do Bengo",
+      "url": "https://www.opais.ao/ultimas_hora/governadora-destaca-oportunidades-de-investimentos-na-provincia-do-bengo/",
+      "source": "O País",
+      "_key": "dcce776a88aca48a",
+      "score": 9
+    },
+    {
+      "title": "Fiscalidade verde em Angola: pode o sistema tributário impulsionar a transição energética?",
+      "url": "https://www.opais.ao/opiniao/fiscalidade-verde-em-angola-pode-o-sistema-tributario-impulsionar-a-transicao-energetica/",
+      "source": "O País",
+      "_key": "38746226a6d7e765",
+      "score": 9
+    },
+    {
+      "title": "Londres anuncia reunião internacional sobre reabertura do Estreito de Ormuz",
+      "url": "https://jornaloguardiao.com/2026/04/01/londres-anuncia-reuniao-internacional-sobre-reabertura-do-estreito-de-ormuz/",
+      "source": "Jornal O Guardião",
+      "_key": "cd4139a6ba41fb65",
+      "score": 8
+    },
+    {
+      "title": " Londres anuncia reunião internacional sobre reabertura do Estreito de Ormuz ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e16ee175ade850",
+      "score": 8
+    },
+    {
+      "title": "Economia MIREMPET apresenta balanço da indústria diamantífera de 2025 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672791/mirempet-apresenta-balan%C3%A7o-da-ind%C3%BAstria-diamant%C3%ADfera-de-2025",
       "source": "Jornal de Angola",
-      "_key": "c288a7891e7da933",
+      "_key": "42a8b36b421b4072",
       "score": 7
     },
     {
-      "title": "Detido director do Fundo de Apoio Social de Malanje...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-director-do-fundo-de-apoio-social-de-malanje-por-desviar-mais-de-mil-milhoes-de-kz-do-projecto-kwenda-70831.html",
-      "source": "Novo Jornal",
-      "_key": "251b4672514806b5",
-      "score": 7
-    },
-    {
-      "title": "Criminosos burlam cidadãos em Cabinda em esquema de 80 milhões Kz",
-      "url": "https://correiokianda.info/criminosos-burlam-cidadaos-em-cabinda-em-esquema-de-80-milhoes-kz/",
-      "source": "Correio Kianda",
-      "_key": "3d7d4f3b8af9efc1",
-      "score": 6
-    },
-    {
-      "title": "SIC detém falso subcomissário da Polícia no Calumbo",
-      "url": "https://holdonangola.com/sic-detem-falso-subcomissario-da-policia-no-calumbo/",
-      "source": "Hold On Angola",
-      "_key": "fec73e9f72d501ca",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Detido no Calumbo falso subcomissário da Polícia Nacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/672790/detido-no-calumbo-falso-subcomiss%C3%A1rio-da-pol%C3%ADcia-nacional-",
-      "source": "Jornal de Angola",
-      "_key": "255b60331fa3cc8a",
-      "score": 6
-    },
-    {
-      "title": "FGC garante financiamento a mais de 19 mil projectos desde a sua criação",
-      "url": "https://www.opais.ao/economia/fgc-garante-financiamento-a-mais-de-19-mil-projectos-desde-a-sua-criacao/",
-      "source": "O País",
-      "_key": "57100a4913a02cfc",
-      "score": 6
-    },
-    {
-      "title": "Detido falso subcomissário da Polícia Nacional no Icolo e Bengo",
-      "url": "https://www.opais.ao/ultimas_hora/detido-falso-subcomissario-da-policia-nacional-no-icolo-e-bengo/",
-      "source": "O País",
-      "_key": "eb1591cb7152ed8e",
-      "score": 6
-    },
-    {
-      "title": "ARSEG approves mandatory chart of accounts for insurance and reinsurance companies",
-      "url": "https://www.angop.ao/en/noticias/economia/arseg-aprova-plano-de-contas-obrigatorio-para-empresas-de-seguros-e-resseguros/",
+      "title": "Chinese researcher translated 15 Angolan books into Mandarin",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/investigador-chines-traduz-15-obras-angolanas-em-mandarim/",
       "source": "ANGOP",
-      "_key": "9ffeadeaa04fdbcc",
+      "_key": "1a8482a6a1ad4e8c",
+      "score": 6
+    },
+    {
+      "title": "Destaque Reiterada em Kinshasa aposta no aprofundamento da integração económicaAngola reiterou, esta quarta-feira, em Kinshasa, a aposta no aprofundamento da integração económica e apelou aos empresários e investidores nacionais e da República Democrática do Congo (RDC) para transformarem o potencial comum em projectos concretos. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672792/reiterada-em-kinshasa-aposta-no-aprofundamento-da-integra%C3%A7%C3%A3o-econ%C3%B3mica",
+      "source": "Jornal de Angola",
+      "_key": "63688ee578dc4fb1",
+      "score": 6
+    },
+    {
+      "title": "Director do FAS detido em Malanje por desvio no Kwenda",
+      "url": "https://holdonangola.com/director-do-fas-detido-em-malanje-por-desvio-no-kwenda/",
+      "source": "Hold On Angola",
+      "_key": "e124bb3e6580d6d2",
       "score": 5
     },
     {
-      "title": "AGT representa Angola em reunião fiscal da ONU em Nova Iorque",
-      "url": "https://holdonangola.com/agt-representa-angola-em-reuniao-fiscal-da-onu-em-nova-iorque/",
-      "source": "Hold On Angola",
-      "_key": "ba72cb4d3982b47d",
+      "title": "Governo prevê mais bolsas de estudo e novas salas de aula no Plano Anual de Desenvolvimento",
+      "url": "https://jornaloguardiao.com/2026/04/01/governo-preve-mais-bolsas-de-estudo-e-novas-salas-de-aula-no-plano-anual-de-desenvolvimento/",
+      "source": "Jornal O Guardião",
+      "_key": "9b2825932cd623d1",
+      "score": 5
+    },
+    {
+      "title": " Governo prevê mais bolsas de estudo e novas salas de aula no Plano Anual de Desenvolvimento ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b326bef0f48ada",
       "score": 5
     }
   ]
