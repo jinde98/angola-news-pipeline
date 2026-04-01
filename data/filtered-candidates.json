@@ -1,91 +1,203 @@
 {
-  "date": "2026-03-31",
-  "total_new": 22,
-  "total_filtered": 12,
+  "date": "2026-04-01",
+  "total_new": 86,
+  "total_filtered": 28,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo Brent pode chegar a 200 dólares se crise com Irã se prolongar",
-      "url": "https://correiokianda.info/petroleo-brent-pode-chegar-a-200-dolares-se-crise-com-ira-se-prolongar/",
-      "source": "Correio Kianda",
-      "_key": "4563b597f9946dfb",
+      "title": "Destaque Actual estado da cooperação sino-angolana em análiseO estado actual da cooperação entre Angola e China foi analisado, esta terça-feira, em Luanda, durante uma audiência concedida pelo ministro das Relações Exteriores, Téte António, ao embaixador daquele país em solo nacional, Zhang Bin.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672786/actual-estado-da-coopera%C3%A7%C3%A3o-sino-angolana-em-an%C3%A1lise",
+      "source": "Jornal de Angola",
+      "_key": "5d0a63f2091e3dbb",
+      "score": 10
+    },
+    {
+      "title": "COMBUSTÍVEL EM FALTA E DÍVIDA FORA DE CONTROLO",
+      "url": "https://valoreconomico.co.ao/artigo/combustivel-em-falta-e-divida-fora-de-controlo",
+      "source": "Valor Económico",
+      "_key": "1b51ff50a263bfae",
+      "score": 10
+    },
+    {
+      "title": "Angola em risco de registar falhas de combustível a partir de Abril/Maio",
+      "url": "https://valoreconomico.co.ao/artigo/angola-em-risco-de-registar-falhas-de-combustivel-a-partir-de-abril-maio",
+      "source": "Valor Económico",
+      "_key": "78b5e969a701869c",
+      "score": 10
+    },
+    {
+      "title": "Bancos ficaram só com 1.831 milhões USD em divisas",
+      "url": "https://expansao.co.ao/empresas/detalhe/bancos-ficaram-so-com-1831-milhoes-usd-em-divisas-70820.html",
+      "source": "Expansão",
+      "_key": "05372b768cfdd000",
       "score": 9
     },
     {
-      "title": "África como um futuro player em economia digital",
-      "url": "https://forbesafricalusofona.com/africa-como-um-futuro-player-em-economia-digital/",
-      "source": "Forbes África",
-      "_key": "496e052b9490f76f",
-      "score": 7
-    },
-    {
-      "title": "FAA e PN \"irritadas\" com UNITA por fazer exibição de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/faa-e-pn-irritadas-com-unita-por-fazer-exibicao-de-uniformes-militares-unita-desvaloriza-e-diz-que-apenas-fez-encenacao-das-extintas-fala-no-ambito-dos-60-anos-do-partido-70806.html",
+      "title": "Petróleo: Depois de subida histórica em Março, barril...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-depois-de-subida-historica-em-marco-barril-da-tombo-memoravel-no-1-dia-de-abril-e-nao-e-mentira-70828.html",
       "source": "Novo Jornal",
-      "_key": "2183b7d78977e114",
-      "score": 7
+      "_key": "1b1da4d73c19b2d4",
+      "score": 9
     },
     {
-      "title": "Autoridades iranianas confirmam ataque contra instalações militares",
-      "url": "https://correiokianda.info/autoridades-iranianas-confirmam-ataque-contra-instalacoes-militares/",
-      "source": "Correio Kianda",
-      "_key": "3eba4dc480ccccd0",
-      "score": 6
-    },
-    {
-      "title": "E1 Luanda GP 2026: “Potencial turístico de Angola é enorme. A água representa uma grande oportunidade para a economia azul” – Alejandro Agag",
-      "url": "https://forbesafricalusofona.com/e1-luanda-gp-2026-potencial-turistico-de-angola-e-enorme-a-agua-representa-uma-grande-oportunidade-para-a-economia-azul-alejandro-agag/",
-      "source": "Forbes África",
-      "_key": "5b5afec9c7036e28",
-      "score": 6
-    },
-    {
-      "title": "Processo contra Higino Carneiro arquivado após desistência da queixa",
-      "url": "https://holdonangola.com/processo-contra-higino-carneiro-arquivado-apos-desistencia-da-queixa/",
-      "source": "Hold On Angola",
-      "_key": "6a868618ad345b8f",
-      "score": 6
-    },
-    {
-      "title": "Política MIREX promove conferência sobre experiência angolana nas Nações Unidas e na Unidade Africana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672777/mirex-promove-confer%C3%AAncia-sobre-experi%C3%AAncia-angolana-nas-na%C3%A7%C3%B5es-unidas-e-na-unidade-africana",
-      "source": "Jornal de Angola",
-      "_key": "958129074c50e146",
-      "score": 6
-    },
-    {
-      "title": "Médio Oriente: Trump ameaça, Rubio ameaça, Hegseth...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-ameaca-rubio-ameaca-hegseth-ameaca-e-o-irao-mantem-o-estreito-de-ormuz-fechado-70812.html",
-      "source": "Novo Jornal",
-      "_key": "2791f42deac966ea",
-      "score": 6
-    },
-    {
-      "title": "Aquiles Francisco é o novo Juiz Conselheiro do Tribunal de Contas",
-      "url": "https://correiokianda.info/aquiles-francisco-e-o-novo-juiz-conselheiro-do-tribunal-de-contas/",
-      "source": "Correio Kianda",
-      "_key": "6f161ba636ac1324",
-      "score": 5
-    },
-    {
-      "title": "Dívida interna em Moçambique triplica desde 2020",
-      "url": "https://forbesafricalusofona.com/divida-interna-em-mocambique-triplica-desde-2020/",
-      "source": "Forbes África",
-      "_key": "5683067d9b442c5d",
-      "score": 5
-    },
-    {
-      "title": "Discussão entre vizinhas termina em morte na Maianga",
-      "url": "https://holdonangola.com/discussao-entre-vizinhas-termina-em-morte-na-maianga/",
-      "source": "Hold On Angola",
-      "_key": "f628457b13af4672",
-      "score": 5
-    },
-    {
-      "title": "PR nomeia Aquiles Francisco novo Juiz Conselheiro do Tribunal de Contas",
-      "url": "https://www.opais.ao/politica/pr-nomeia-aquiles-francisco-novo-juiz-conselheiro-do-tribunal-de-contas/",
+      "title": "Sector petrolífero somou 4,27 biliões de Kz no IV trimestre 2025 com barril USD 62,6 abaixo do previsto",
+      "url": "https://www.opais.ao/economia/sector-petrolifero-somou-427-bilioes-de-kz-no-iv-trimestre-2025-com-barril-usd-626-abaixo-do-previsto/",
       "source": "O País",
-      "_key": "f261d59275dfb709",
+      "_key": "0e52c84f5c2d8dc2",
+      "score": 9
+    },
+    {
+      "title": "Building construction permits fall 46.97% in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/licencas-para-a-construcao-de-edificios-reduzem-46-97-em-2025/",
+      "source": "ANGOP",
+      "_key": "8909126eb2787629",
+      "score": 8
+    },
+    {
+      "title": "Jurista alerta para má prestação do serviço público na emissão de documentos",
+      "url": "https://correiokianda.info/jurista-alerta-para-ma-prestacao-do-servico-publico-na-emissao-de-documentos/",
+      "source": "Correio Kianda",
+      "_key": "7b4b5f1c953f11c7",
+      "score": 8
+    },
+    {
+      "title": "Executivo autoriza construção de 12 pavilhões multiusos no país",
+      "url": "https://correiokianda.info/executivo-autoriza-construcao-de-12-pavilhoes-multiusos-no-pais/",
+      "source": "Correio Kianda",
+      "_key": "1a7370a72f87293f",
+      "score": 8
+    },
+    {
+      "title": "Dívida pública dispara para 68 mil milhões de dólares",
+      "url": "https://valoreconomico.co.ao/artigo/divida-publica-dispara-para-68-mil-milhoes-de-dolares",
+      "source": "Valor Económico",
+      "_key": "eec887bee1d4dede",
+      "score": 8
+    },
+    {
+      "title": "Licenças de construção afundam quase 50% em 2025, mas área...",
+      "url": "https://valoreconomico.co.ao/artigo/licencas-de-construcao-afundam-quase-50-em-2025-mas-area-licenciada-cresce-cerca-de-1-3-milhoes-de-metros-quadrados",
+      "source": "Valor Económico",
+      "_key": "572a865917d94e27",
+      "score": 8
+    },
+    {
+      "title": "At least five million people to benefit from Quilonga water supply system",
+      "url": "https://www.angop.ao/en/noticias/economia/quilonga-grande-reforca-abastecimento-de-agua-a-cinco-milhoes-de-cidadaos/",
+      "source": "ANGOP",
+      "_key": "ee4a998f9fbff4fc",
+      "score": 7
+    },
+    {
+      "title": "Kinshasa hosts 3rd Angola–DRC Economic Forum",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-de-estado-lidera-delegacao-angolana-ao-3.o-forum-economico-angola-rdc/",
+      "source": "ANGOP",
+      "_key": "d3129cb81d1e75a8",
+      "score": 6
+    },
+    {
+      "title": "Construção",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57769",
+      "source": "ANGOP",
+      "_key": "aeeb0eaa5cc3a9e1",
+      "score": 6
+    },
+    {
+      "title": "Executivo injeta 170 mil milhões kz na TAAG via Obrigações do Tesouro",
+      "url": "https://correiokianda.info/executivo-injeta-170-mil-milhoes-kz-na-taag-via-obrigacoes-do-tesouro/",
+      "source": "Correio Kianda",
+      "_key": "b24536763cdac545",
+      "score": 6
+    },
+    {
+      "title": "Startups vão ter selo de certificação que garante \"folga fiscal\" por três anos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c918590cfbd089",
+      "score": 6
+    },
+    {
+      "title": "Mercado segurador angolano | Entre o crescimento financeiro e o desafio da massificação",
+      "url": "https://expansao.co.ao/analise/detalhe/mercado-segurador-angolano-entre-o-crescimento-financeiro-e-o-desafio-da-massificacao-70823.html",
+      "source": "Expansão",
+      "_key": "77fe8830a60a1aa4",
+      "score": 6
+    },
+    {
+      "title": "Destaque País participa na 3.ª edição do Fórum Económico Angola-República Democrática do CongoUma delegação nacional chefiada pelo ministro de Estado para a Coordenação Económica, José de Lima Massano, participa, de quarta-feira a quinta-feira, 2, do próximo mês, na 3.ª edição do Fórum Económico Angola–República Democrática do Congo (RDC).",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672784/pa%C3%ADs-participa-na-3.%C2%AA-edi%C3%A7%C3%A3o-do-f%C3%B3rum-econ%C3%B3mico-angola-rep%C3%BAblica-democr%C3%A1tica-do-congo",
+      "source": "Jornal de Angola",
+      "_key": "0c176db2d61d0cdc",
+      "score": 6
+    },
+    {
+      "title": "Destaque Chuvas condicionam circulação no troço Moçâmedes-TômbwaA circulação de viaturas no troço Moçâmedes-Tômbwa na Estrada Nacional 100, ao nível do km 50, encontra-se condicionada, desde a noite de segunda-feira, devido à acumulação de água na estrada, após a queda de chuvas intensas na zona dos Flamingos.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672782/chuvas-condicionam-circula%C3%A7%C3%A3o-no-tro%C3%A7o-mo%C3%A7%C3%A2medes-t%C3%B4mbwa",
+      "source": "Jornal de Angola",
+      "_key": "b14a0e900ef5780c",
+      "score": 6
+    },
+    {
+      "title": "Executivo aprova 170 mil milhões de kwanzas em Obrigações do Tesouro para capitalização da TAAG",
+      "url": "https://www.opais.ao/economia/executivo-aprova-170-mil-milhoes-de-kwanzas-em-obrigacoes-do-tesouro-para-capitalizacao-da-taag/",
+      "source": "O País",
+      "_key": "0336811c0aa870a3",
+      "score": 6
+    },
+    {
+      "title": "Fórum Económico Angola-RDC",
+      "url": "https://www.opais.ao/opiniao/forum-economico-angola-rdc/",
+      "source": "O País",
+      "_key": "f596a7f219dc2592",
+      "score": 6
+    },
+    {
+      "title": "United Bank for Africa novamente em processo de licenciamento no...",
+      "url": "https://valoreconomico.co.ao/artigo/united-bank-for-africa-novamente-em-processo-de-licenciamento-no-bna-e-desta-vez-com-sinal-verde",
+      "source": "Valor Económico",
+      "_key": "e7efdbfa3815bc05",
+      "score": 6
+    },
+    {
+      "title": "Esperança da Costa apela a práticas transparentes na administração do Estado",
+      "url": "https://correiokianda.info/esperanca-da-costa-apela-a-praticas-transparentes-na-administracao-do-estado/",
+      "source": "Correio Kianda",
+      "_key": "872dab4ffd3975e7",
+      "score": 5
+    },
+    {
+      "title": "Sector da saúde recebe 2,09 biliões kz para reforço do sistema nacional",
+      "url": "https://correiokianda.info/sector-da-saude-recebe-209-bilioes-kz-para-reforco-do-sistema-nacional/",
+      "source": "Correio Kianda",
+      "_key": "fe3d5099e0b15a2a",
+      "score": 5
+    },
+    {
+      "title": "Presidência desafia as empresas a investir na valorização do capital humano",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3163caf4200d15",
+      "score": 5
+    },
+    {
+      "title": "Destaque Bengo e Voivodina realizam Fórum de Negócios quarta-feira A província do Bengo acolhe, na próxima quarta-feira, 1, na cidade de Caxito, o Fórum de Negócios Bengo–Voivodina para reforçar a cooperação económica e empresarial entre Angola e a Sérvia.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/672785/bengo-e-voivodina-realizam-f%C3%B3rum-de-neg%C3%B3cios-quarta-feira",
+      "source": "Jornal de Angola",
+      "_key": "131ed5c19ff8c585",
+      "score": 5
+    },
+    {
+      "title": "Moradores do Sambizanga clamam por iluminação pública e combate à criminalidade",
+      "url": "https://www.opais.ao/sociedade/moradores-do-sambizanga-clamam-por-iluminacao-publica-e-combate-a-criminalidade/",
+      "source": "O País",
+      "_key": "26edb9bc5e0bc8e4",
+      "score": 5
+    },
+    {
+      "title": "Luanda acolhe conferência internacional sobre os 24 anos de paz",
+      "url": "https://www.opais.ao/politica/luanda-acolhe-conferencia-internacional-sobre-os-24-anos-de-paz/",
+      "source": "O País",
+      "_key": "0dd7a6353c80e0d4",
       "score": 5
     }
   ]
