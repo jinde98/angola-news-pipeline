@@ -1,42 +1,308 @@
 {
-  "date": "2026-04-01",
-  "total_new": 15,
-  "total_filtered": 5,
+  "date": "2026-04-02",
+  "total_new": 123,
+  "total_filtered": 43,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "‎Delegação da Embaixada da China em Angola visita Assembleia Nacional",
-      "url": "https://www.opais.ao/politica/delegacao-da-embaixada-da-china-em-angola-visita-assembleia-nacional/",
-      "source": "O País",
-      "_key": "9c969228cd8929cf",
+      "title": "Alta do petróleo Brent favorece divisas, mas ameaça aumentar inflação em Angola",
+      "url": "https://angola24horas.com/economia/item/34048-alta-do-petroleo-brent-favorece-divisas-mas-ameaca-aumentar-inflacao-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "b49c75976210a70b",
       "score": 9
     },
     {
-      "title": "A Nova face da dívida africana",
-      "url": "https://valoreconomico.co.ao/artigo/a-nova-face-da-divida-africana",
-      "source": "Valor Económico",
-      "_key": "b85b711f499dc161",
+      "title": "Queda de 5% nas divisas à banca não impede ligeira apreciação do kwanza face ao dólar",
+      "url": "https://diariodosnegocios.com/divisas-banca-angolana-queda-5-por-cento-2026/",
+      "source": "Diário dos Negócios",
+      "_key": "671ac42b926efabd",
+      "score": 9
+    },
+    {
+      "title": " Queda de 5% nas divisas à banca não impede ligeira apreciação do kwanza face ao dólar ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_3cf02491062b99",
+      "score": 9
+    },
+    {
+      "title": "Bancos ficaram só com 1.831 milhões USD em divisas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ae7b9ed8feb079",
+      "score": 9
+    },
+    {
+      "title": "Segregation works on railway section to AIAAN reach 87% of physical execution",
+      "url": "https://www.angop.ao/en/noticias/economia/obras-de-segregacao-do-troco-bungo-aiaan-atingem-87-de-execucao-fisica/",
+      "source": "ANGOP",
+      "_key": "a58c8f8de269251b",
+      "score": 8
+    },
+    {
+      "title": "Acesso rodoviário ao Mussulo vai custar mais de 174 milhões USD",
+      "url": "https://expansao.co.ao/angola/detalhe/acesso-rodoviario-ao-mussulo-vai-custar-mais-de-174-milhoes-usd-70851.html",
+      "source": "Expansão",
+      "_key": "1b673d2b493adcf2",
+      "score": 8
+    },
+    {
+      "title": "Dívida externa de Angola dispara mais de 100% no último trimestre de 2025",
+      "url": "https://correiokianda.info/divida-externa-de-angola-dispara-mais-de-100-no-ultimo-trimestre-de-2025/",
+      "source": "Correio Kianda",
+      "_key": "b601d4148a9de8a6",
       "score": 7
     },
     {
-      "title": "Ministro de Estado insta investidores de Angola e da RDC a transformarem potencial económico em projectos concretos‎",
-      "url": "https://www.opais.ao/politica/ministro-de-estado-insta-investidores-de-angola-e-da-rdc-a-transformarem-potencial-economico-em-projectos-concretos/",
+      "title": "Esquema com funcionários da AGT desvia mais de 90 mil milhões Kz",
+      "url": "https://correiokianda.info/esquema-com-funcionarios-da-agt-desvia-mais-de-90-mil-milhoes-kz/",
+      "source": "Correio Kianda",
+      "_key": "1ef7f75762927bc0",
+      "score": 7
+    },
+    {
+      "title": "Crise energética agrava-se com avaria de turbinas em Cabinda",
+      "url": "https://correiokianda.info/crise-energetica-agrava-se-com-avaria-de-turbinas-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "b3344ef7fafc3af2",
+      "score": 7
+    },
+    {
+      "title": "Ministro do Interior atribui irregularidades no OGE 2025 à gestão anterior; inspeção presidencial apura responsabilidades",
+      "url": "https://diariodosnegocios.com/ministro-interior-irregularidades-oge-2025-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "9a0c2e221b05f145",
+      "score": 7
+    },
+    {
+      "title": " Ministro do Interior atribui irregularidades no OGE 2025 à gestão anterior; inspeção presidencial apura responsabilidades ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_4559680ec56a5e",
+      "score": 7
+    },
+    {
+      "title": "Governo tira 1,4 biliões Kz a Educação e Saúde e 'dá' a Defesa e Segurança",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-tira-14-bilioes-kz-a-educacao-e-saude-e-da-a-defesa-e-seguranca-70846.html",
+      "source": "Expansão",
+      "_key": "af5d0f84ef9cb12e",
+      "score": 7
+    },
+    {
+      "title": "Angola quer passar de “diplomacia de afirmação” para “influência estratégica”",
+      "url": "https://jornaloguardiao.com/2026/04/01/angola-quer-passar-de-diplomacia-de-afirmacao-para-influencia-estrategica/",
+      "source": "Jornal O Guardião",
+      "_key": "fd0e48827dd7651a",
+      "score": 7
+    },
+    {
+      "title": " Angola quer passar de “diplomacia de afirmação” para “influência estratégica” ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_abd46769fbc0b7",
+      "score": 7
+    },
+    {
+      "title": "Política “Diplomacia angolana deve passar de afirmação para influência estratégica” ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672811/%E2%80%9Cdiplomacia-angolana-deve-passar-de-afirma%C3%A7%C3%A3o-para-influ%C3%AAncia-estrat%C3%A9gica%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "74fee9578ce92114",
+      "score": 7
+    },
+    {
+      "title": "Continuam as detenções na AGT: Três funcionários e...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/continuam-as-detencoes-na-agt-tres-funcionarios-e-um-despachante-oficial-foram-presos-no-cunene-por-falsificacao-de-documentos-e-fraude-fiscal-qualificada-70856.html",
+      "source": "Novo Jornal",
+      "_key": "d7ef104a49c620c8",
+      "score": 7
+    },
+    {
+      "title": "Desafios globais “pressionam Angola” a reforçar capacidade diplomática",
+      "url": "https://www.opais.ao/politica/desafios-globais-pressionam-angola-a-reforcar-capacidade-diplomatica/",
       "source": "O País",
-      "_key": "b86a7a8dae521617",
+      "_key": "65eaa7d0c141469c",
+      "score": 7
+    },
+    {
+      "title": "Baixa produção provoca restrições no fornecimento de energia eléctrica em Cabinda",
+      "url": "https://www.opais.ao/sociedade/baixa-producao-provoca-restricoes-no-fornecimento-de-energia-electrica-em-cabinda/",
+      "source": "O País",
+      "_key": "50b14484e0bd8eb2",
+      "score": 7
+    },
+    {
+      "title": "Dívida externa subiu acima de 100% no quarto trimestre de 2025",
+      "url": "https://www.opais.ao/economia/divida-externa-subiu-acima-de-100-no-quarto-trimestre-de-2025/",
+      "source": "O País",
+      "_key": "10256e488a1024bb",
+      "score": 7
+    },
+    {
+      "title": "Angolan banks to charge 20 Kwanza fee for printed ATM receipts",
+      "url": "https://www.angop.ao/en/noticias/economia/clientes-passam-a-pagar-20-kwanzas-por-operacao-no-atm/",
+      "source": "ANGOP",
+      "_key": "e70eb4b6305441a0",
       "score": 6
     },
     {
-      "title": "FM highlights Angola’s role as peace promoter in Africa",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-realca-papel-de-angola-como-promotora-da-paz-em-africa/",
+      "title": "Business forum is an essential platform for investment – Governor",
+      "url": "https://www.angop.ao/en/noticias/economia/governadora-destaca-importancia-do-forum-de-negocios-e-empresarial-com-voivodina/",
       "source": "ANGOP",
-      "_key": "1a8333c8489e3f8e",
+      "_key": "c82140aa0c595570",
+      "score": 6
+    },
+    {
+      "title": "3. Angola-DRC cross-border trade boosted by strategic measures",
+      "url": "https://www.angop.ao/en/noticias/economia/formalizacao-do-comercio-transfronteirico-entre-angola-e-rdc-impulsionada-por-medidas-estrategicas/",
+      "source": "ANGOP",
+      "_key": "bccb2436a960771e",
+      "score": 6
+    },
+    {
+      "title": "At least 50 trucks cross the Luvo border post every day",
+      "url": "https://www.angop.ao/en/noticias/economia/pelo-menos-50-camioes-atravessam-por-dia-posto-fronteirico-do-luvo/",
+      "source": "ANGOP",
+      "_key": "bf8b8b6d1a6c731d",
+      "score": 6
+    },
+    {
+      "title": "CMT Stuttgart 2026 - Angola to attract more investment after event",
+      "url": "https://www.angop.ao/en/noticias/economia/diplomata-espera-captacao-de-mais-investidores-para-angola-apos-feira-do-turismo-de-estugarda/",
+      "source": "ANGOP",
+      "_key": "a5bc7d055e5d9931",
+      "score": 6
+    },
+    {
+      "title": "Sector dos serviços representa cerca de 46,8% do PIB nacional, diz ministro Massano",
+      "url": "https://correiokianda.info/sector-dos-servicos-representa-cerca-de-468-do-pib-nacional-diz-ministro-massano/",
+      "source": "Correio Kianda",
+      "_key": "3b809c563993979d",
+      "score": 6
+    },
+    {
+      "title": "OTs de 170 mil milhões Kz para capitalizar a TAAG",
+      "url": "https://expansao.co.ao/empresas/detalhe/ots-de-170-mil-milhoes-kz-para-capitalizar-a-taag-70848.html",
+      "source": "Expansão",
+      "_key": "946b823e6d9b9801",
+      "score": 6
+    },
+    {
+      "title": "África boicota Cimeira Africana das Energias em Londres",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/africa-boicota-cimeira-africana-das-energias-em-londres-70850.html",
+      "source": "Expansão",
+      "_key": "85584a40e64574a2",
+      "score": 6
+    },
+    {
+      "title": "Polícia desmantela rede de burla de 80 milhões…",
+      "url": "https://holdonangola.com/policia-desmantela-rede-de-burla-de-80-milhoes-em-cabinda/",
+      "source": "Hold On Angola",
+      "_key": "a2adce976ab4e52e",
+      "score": 6
+    },
+    {
+      "title": "Destaque Discurso na íntegra do ministro da Indústria e Comércio na 3.ª Edição do Fórum Económico RDC-AngolaEis o discurso na íntegra que o ministro da Indústria e Comércio, Rui Miguêns, proferiu, hoje, em Kinshasa, na 3.ª edição do Fórum Económico RDC-Angola. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672797/discurso-na-%C3%ADntegra-do-ministro-da-ind%C3%BAstria-e-com%C3%A9rcio-na-3.%C2%AA-edi%C3%A7%C3%A3o-do-f%C3%B3rum-econ%C3%B3mico-rdc-angola",
+      "source": "Jornal de Angola",
+      "_key": "1de94bbc8b1f138d",
+      "score": 6
+    },
+    {
+      "title": "Economia Empresários desafiados a transformar potencial económico em projectos concretos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/672819/empres%C3%A1rios-desafiados--a-transformar-potencial-econ%C3%B3mico-em-projectos-concretos",
+      "source": "Jornal de Angola",
+      "_key": "9debdf56d96d80f4",
+      "score": 6
+    },
+    {
+      "title": "Perto de 100 efectivos da Polícia Nacional expulsos por violação grave das normas",
+      "url": "https://www.opais.ao/sociedade/perto-de-100-efectivos-da-policia-nacional-expulsos-por-violacao-grave-das-normas/",
+      "source": "O País",
+      "_key": "98850894d9698a9a",
+      "score": 6
+    },
+    {
+      "title": "Governador de Benguela anuncia realojamento de população no traçado de via rápida para travar “perturbações sociais”",
+      "url": "https://www.opais.ao/sociedade/governador-de-benguela-anuncia-realojamento-de-populacao-no-tracado-de-via-rapida-para-travar-perturbacoes-sociais/",
+      "source": "O País",
+      "_key": "61523cb59e5985be",
+      "score": 6
+    },
+    {
+      "title": "Juristas defendem aperfeiçoamento dos códigos penal e processual cinco anos após entrada em vigor",
+      "url": "https://www.opais.ao/politica/juristas-defendem-aperfeicoamento-dos-codigos-penal-e-processual-cinco-anos-apos-entrada-em-vigor/",
+      "source": "O País",
+      "_key": "748f7e9be9d94593",
+      "score": 6
+    },
+    {
+      "title": "UNICEF reaffirms support for balanced public finances promotion in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/unicef-reitera-apoio-a-promocao-de-financas-publicas-equilibradas-em-angola/",
+      "source": "ANGOP",
+      "_key": "a83bd39a909fea95",
       "score": 5
     },
     {
-      "title": "Ministro das Relações Exteriores destaca papel de Angola como promotora da paz em África",
-      "url": "https://www.opais.ao/politica/ministro-das-relacoes-exteriores-destaca-papel-de-angola-como-promotora-da-paz-em-africa/",
-      "source": "O País",
-      "_key": "952490427f32e731",
+      "title": "Casa Militar promove conferência internacional sobre a paz e reconciliação nacional",
+      "url": "https://correiokianda.info/casa-militar-promove-conferencia-internacional-sobre-a-paz-e-reconciliacao-nacional/",
+      "source": "Correio Kianda",
+      "_key": "3e08da052ccf2889",
+      "score": 5
+    },
+    {
+      "title": "SINPROF avalia possível paralisação devido má condução do concurso interno",
+      "url": "https://correiokianda.info/sinprof-avalia-possivel-paralisacao-devido-ma-conducao-do-concurso-interno/",
+      "source": "Correio Kianda",
+      "_key": "55876e329cb31cce",
+      "score": 5
+    },
+    {
+      "title": "        Sociedade2 horas atrás  Bengo: Administradora do Quibaxi procura empresa de construção que abandonou obras de escolas públicas Trata-se da empresa AnKAVE Construção Civil e Obras públicas, sedeada no município de Viana, em Luanda, que está a ser procurada, com carácter de urgência por...   ",
+      "url": "https://correiokianda.info/bengo-administradora-do-quibaxi-procura-empresa-de-construcao-que-abandonou-obras-de-escolas-publicas/",
+      "source": "Correio Kianda",
+      "_key": "4eb6a9d2fac81e68",
+      "score": 5
+    },
+    {
+      "title": "Formados para o desemprego ou com guia de marcha para o aeroporto?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_774b3f78c6e9af",
+      "score": 5
+    },
+    {
+      "title": "Sã concorrência | Condição para a eficiência dos mercados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_09333a93304a08",
+      "score": 5
+    },
+    {
+      "title": "Editorial João ArmandoEducação e SaúdeNesta lógica, o importante é a intenção e não realização, onde as cerimónias de lançamento são infinitamente maiores que as inaugurações. Onde a cloud cor de rosa se sobrepõe ao que verdadeiramente acontece, uma estranha hipnose que não resolve os problemas dos cidadãos, mas que até parece que somos todos felizes.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/educacao-e-saude-70847.html",
+      "source": "Expansão",
+      "_key": "a91ee530530f316a",
+      "score": 5
+    },
+    {
+      "title": "CONVIDADAMarta Bickel, Formados para o desemprego ou com guia de marcha para o aeroporto?",
+      "url": "https://expansao.co.ao/opiniao/detalhe/formados-para-o-desemprego-ou-com-guia-de-marcha-para-o-aeroporto-70758.html",
+      "source": "Expansão",
+      "_key": "d05efebda931c5e2",
+      "score": 5
+    },
+    {
+      "title": "CONVIDADOMilton Gonçalves Fernandes Sã concorrência | Condição para a eficiência dos mercados",
+      "url": "https://expansao.co.ao/opiniao/detalhe/sa-concorrencia-condicao-para-a-eficiencia-dos-mercados-70821.html",
+      "source": "Expansão",
+      "_key": "8bc5f9814483a620",
+      "score": 5
+    },
+    {
+      "title": "Conferência Internacional assinala 24.º aniversário da Paz e ReconciliaçãoO ministro de Estado e chefe da Casa Militar do Presidente da República, Francisco Pereira Furtado, apresentou, quarta-feira, a exposição “Caminhos de Fogo, Horizontes de Paz”, aos convidados e prelectores portugueses à Conferência Internacional em alusão ao 24.º aniversário da Paz e da Reconciliação, que decorre, hoje, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672803/confer%C3%AAncia-internacional-assinala-24.%C2%BA-anivers%C3%A1rio-da-paz-e-reconcilia%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "fcd8f70a2f7046ac",
       "score": 5
     }
   ]
