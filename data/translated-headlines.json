@@ -1,16 +1,56 @@
 {
-  "date": "2026-04-03",
-  "total_new": 8,
-  "total_filtered": 1,
+  "date": "2026-04-04",
+  "total_new": 41,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "“Os governantes devem ajudar os investidores, não criar barreiras”",
-      "url": "https://valoreconomico.co.ao/artigo/os-governantes-devem-ajudar-os-investidores-nao-criar-barreiras",
-      "source": "Valor Económico",
-      "_key": "dc7cfe7b5e53aa36",
-      "score": 8,
-      "title_cn": "政府官员应帮助投资者，而非设置障碍"
+      "title": "EUA movimentam 6 mil milhões de dólares em investimentos para o Corredor do Lobito",
+      "url": "https://www.opais.ao/economia/eua-movimentam-6-mil-milhoes-de-dolares-em-investimentos-para-o-corredor-do-lobito/",
+      "source": "O País",
+      "_key": "6b5d55f55b4daa00",
+      "score": 9,
+      "title_cn": "美国为洛比托走廊调动60亿美元投资"
+    },
+    {
+      "title": "Angola terá em breve pontes modulares ‘Acrow Bridge’ com apoio dos EUA",
+      "url": "https://www.opais.ao/ultimas_hora/angola-tera-em-breve-pontes-modulares-acrow-bridge-com-apoio-dos-eua/",
+      "source": "O País",
+      "_key": "70fef5341cc24025",
+      "score": 7,
+      "title_cn": "安哥拉将在美国支持下引入Acrow模块化桥梁"
+    },
+    {
+      "title": "Angola e RDC assinam protocolo para facilitar pagamentos e formalização do comércio",
+      "url": "https://forbesafricalusofona.com/angola-e-rdc-assinam-protocolo-para-facilitar-pagamentos-e-formalizacao-do-comercio/",
+      "source": "Forbes África",
+      "_key": "a13e827f381a7b7e",
+      "score": 6,
+      "title_cn": "安哥拉与刚果（金）签署协议，便利支付并规范贸易"
+    },
+    {
+      "title": "Péssima situação socioeconómica compromete 24 anos de paz, afirma Rui Malopa",
+      "url": "https://correiokianda.info/pessima-situacao-socioeconomica-compromete-24-anos-de-paz-afirma-rui-malopa/",
+      "source": "Correio Kianda",
+      "_key": "22734a1646de5a92",
+      "score": 5,
+      "title_cn": "鲁伊·马洛帕（Rui Malopa）称，糟糕的社会经济状况威胁安哥拉24年和平"
+    },
+    {
+      "title": "EMBRAPA: o modelo que Angola ainda não teve coragem de replicar ",
+      "url": "https://correiokianda.info/embrapa-o-modelo-que-angola-ainda-nao-teve-coragem-de-replicar/",
+      "source": "Correio Kianda",
+      "_key": "ec9f06a23084454c",
+      "score": 5,
+      "title_cn": "EMBRAPA：安哥拉尚未敢于复制的模式"
+    },
+    {
+      "title": "MINFIN e UNICEF lançam Orçamento Cidadão 2026",
+      "url": "https://holdonangola.com/minfin-e-unicef-lancam-orcamento-cidadao-2026/",
+      "source": "Hold On Angola",
+      "_key": "a8d757d1c755398f",
+      "score": 5,
+      "title_cn": "安哥拉财政部与联合国儿基会发布2026公民预算"
     }
   ]
 }
