@@ -1,96 +1,32 @@
 {
   "date": "2026-04-04",
-  "total_new": 22,
-  "total_filtered": 11,
+  "total_new": 17,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Sistema emperra emissão do BI, responsável admite falhas",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/sistema-emperra-emissao-do-bi-responsavel-admite-falhas-70891.html",
-      "source": "Novo Jornal",
-      "_key": "6c59980dfaf977a8",
-      "score": 8,
-      "title_cn": "系统故障致身份证签发受阻，负责人承认失误"
+      "title": "US aims to accelerate leadership in partnerships in the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/eua-querem-acelerar-lideranca-de-parcerias-no-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "fdf8c738b5c6a701",
+      "score": 9,
+      "title_cn": "美国旨在加速主导洛比托走廊伙伴关系"
     },
     {
-      "title": "Ministro de Estado destaca valor da paz para o fortalecimento da coesão socialO ministro de Estado e chefe da Casa Militar do Presidente da República, Francisco Furtado, sublinhou, em Luanda, a importância da Paz e Reconciliação Nacional como valor essencial a ser preservado e fortalecido, enquanto conquista colectiva dos angolanos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672955/ministro-de-estado-destaca-valor-da-paz-para-o-fortalecimento-da-coes%C3%A3o-social",
-      "source": "Jornal de Angola",
-      "_key": "824337a49079c12b",
-      "score": 7,
-      "title_cn": "国务部长弗朗西斯科·富尔塔多（Francisco Furtado）在罗安达强调和平对加强社会凝聚力的价值"
-    },
-    {
-      "title": "ONU confiante na construção de uma Angola inclusiva e prósperaAs Nações Unidas mantêm o compromisso em trabalhar com o Governo angolano para a construção de um futuro mais próspero, inclusivo e pacífico, segundo a representante da organização no país, Amanda Khozi Mukwashi.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672950/onu-confiante-na-constru%C3%A7%C3%A3o-de--uma-angola-inclusiva-e-pr%C3%B3spera",
-      "source": "Jornal de Angola",
-      "_key": "3602c295b320a188",
-      "score": 6,
-      "title_cn": "联合国对建设包容繁荣的安哥拉充满信心"
-    },
-    {
-      "title": "Política Mensagens a enaltecer os sacrifícios pela Paz marcam abertura das festividades ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672954/mensagens-a-enaltecer-os-sacrif%C3%ADcios--pela-paz-marcam-abertura-das-festividades",
-      "source": "Jornal de Angola",
-      "_key": "02eee76673b169a7",
-      "score": 6,
-      "title_cn": "赞扬和平牺牲的讯息标志着庆祝活动开幕"
-    },
-    {
-      "title": "INAAREES acusado de morosidade na homologação e reconhecimento...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inaarees-acusado-de-morosidade-na-homologacao-e-reconhecimento-de-documentos-70895.html",
-      "source": "Novo Jornal",
-      "_key": "d1618017359ce6f2",
-      "score": 6,
-      "title_cn": "INAAREES被指在认证和认可方面效率低下"
-    },
-    {
-      "title": "Antigos combatentes destacam papel na conquista da paz e apelam à sua preservação",
-      "url": "https://www.opais.ao/politica/antigos-combatentes-destacam-papel-na-conquista-da-paz-e-apelam-a-sua-preservacao/",
+      "title": "Executivo reforça aposta nas infra-estruturas e nos sectores produtivos do Cubango",
+      "url": "https://www.opais.ao/opiniao/executivo-reforca-aposta-nas-infra-estruturas-e-nos-sectores-produtivos-do-cubango/",
       "source": "O País",
-      "_key": "17a58a6fddf52f67",
+      "_key": "77d0c9040d6ca3e8",
+      "score": 7,
+      "title_cn": "政府加大对库邦戈地区基础设施和生产性部门的投入"
+    },
+    {
+      "title": "ADRA highlights recovery of Productive Base in 24 years of peace",
+      "url": "https://www.angop.ao/en/noticias/politica/adra-destaca-recuperacao-da-base-produtiva-apos-a-paz-na-huila-e-namibe/",
+      "source": "ANGOP",
+      "_key": "f46da1acd0a36c0c",
       "score": 6,
-      "title_cn": "退伍军人强调在争取和平中的作用，呼吁维护和平"
-    },
-    {
-      "title": "China e Coreia do Norte retomam voos após seis anos de suspensão",
-      "url": "https://correiokianda.info/china-e-coreia-do-norte-retomam-voos-apos-seis-anos-de-suspensao/",
-      "source": "Correio Kianda",
-      "_key": "86035c5a312db3ce",
-      "score": 5,
-      "title_cn": "中朝两国在暂停六年之后恢复航班"
-    },
-    {
-      "title": "Política Académico realça visão estratégica na política externa ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/672952/acad%C3%A9mico-real%C3%A7a-vis%C3%A3o--estrat%C3%A9gica-na-pol%C3%ADtica-externa-",
-      "source": "Jornal de Angola",
-      "_key": "0d14e68db7c0b821",
-      "score": 5,
-      "title_cn": "学术政策凸显外交政策的战略视野"
-    },
-    {
-      "title": "Nenhuma lei impede a recolha de imagem: Quem tem medo...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/nenhuma-lei-impede-a-recolha-de-imagem-quem-tem-medo-das-filmagens-nas-instituicoes-ou-nos-espacos-publicos-70894.html",
-      "source": "Novo Jornal",
-      "_key": "be3f8e8d43a84e1e",
-      "score": 5,
-      "title_cn": "法律不禁止图像采集：谁在害怕？"
-    },
-    {
-      "title": "«A nossa medida visa esclarecer que o cidadão deve...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/a-nossa-medida-visa-esclarecer-que-o-cidadao-deve-ter-o-bi-e-nao-e-so-a-pensar-na-questao-da-morte-aristides-marques-director-nacional-de-identificacao-registos-e-notariado-70892.html",
-      "source": "Novo Jornal",
-      "_key": "a3e493a99d807ac0",
-      "score": 5,
-      "title_cn": "我们的措施旨在澄清公民义务"
-    },
-    {
-      "title": "Falta de domínio do inglês pode \"condicionar\" obtenção...",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/falta-de-dominio-do-ingles-pode-condicionar-obtencao-de-licenca-a-da-caf-70896.html",
-      "source": "Novo Jornal",
-      "_key": "b2cb463dc96eb29c",
-      "score": 5,
-      "title_cn": "英语水平不足可能制约获取某些资格"
+      "title_cn": "ADRA强调和平24年生产基础的恢复"
     }
   ]
 }

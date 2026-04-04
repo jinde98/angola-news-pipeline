@@ -1,7 +1,29 @@
 {
   "date": "2026-04-04",
-  "total_new": 2,
-  "total_filtered": 0,
+  "total_new": 17,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "US aims to accelerate leadership in partnerships in the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/eua-querem-acelerar-lideranca-de-parcerias-no-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "fdf8c738b5c6a701",
+      "score": 9
+    },
+    {
+      "title": "Executivo reforça aposta nas infra-estruturas e nos sectores produtivos do Cubango",
+      "url": "https://www.opais.ao/opiniao/executivo-reforca-aposta-nas-infra-estruturas-e-nos-sectores-produtivos-do-cubango/",
+      "source": "O País",
+      "_key": "77d0c9040d6ca3e8",
+      "score": 7
+    },
+    {
+      "title": "ADRA highlights recovery of Productive Base in 24 years of peace",
+      "url": "https://www.angop.ao/en/noticias/politica/adra-destaca-recuperacao-da-base-produtiva-apos-a-paz-na-huila-e-namibe/",
+      "source": "ANGOP",
+      "_key": "f46da1acd0a36c0c",
+      "score": 6
+    }
+  ]
 }
