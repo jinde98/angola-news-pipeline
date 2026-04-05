@@ -1,7 +1,50 @@
 {
   "date": "2026-04-05",
-  "total_new": 2,
-  "total_filtered": 0,
+  "total_new": 13,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "Organização alerta para surgimento de doenças após inundações em Luanda",
+      "url": "https://correiokianda.info/organizacao-alerta-para-surgimento-de-doencas-apos-inundacoes-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "35f2e9b8aa4692d2",
+      "score": 8
+    },
+    {
+      "title": "Chuvas matam 15 pessoas e deixam rasto de destruição em Angola",
+      "url": "https://correiokianda.info/chuvas-matam-15-pessoas-e-deixam-rasto-de-destruicao-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "e827cf722b46dbf6",
+      "score": 8
+    },
+    {
+      "title": "“Empresas chinesas estão a negociar dados sobre tropas americanas”, diz Washington Post",
+      "url": "https://correiokianda.info/empresas-chinesas-estao-a-negociar-dados-sobre-tropas-americanas-diz-washington-post/",
+      "source": "Correio Kianda",
+      "_key": "690e246ee9c9d1fe",
+      "score": 8
+    },
+    {
+      "title": "Três mortos e milhares de habitações inundadas após fortes chuvas em Luanda",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34063-tres-mortos-e-milhares-de-habitacoes-inundadas-apos-fortes-chuvas-em-luanda",
+      "source": "Angola 24 Horas",
+      "_key": "f466e2b963703b15",
+      "score": 7
+    },
+    {
+      "title": "Chuvas em Benguela matam 14 pessoas",
+      "url": "https://www.opais.ao/destaque/chuvas-em-benguela-matam-14-pessoas/",
+      "source": "O País",
+      "_key": "364e12f3292ecc08",
+      "score": 7
+    },
+    {
+      "title": "Minuto Verde alerta para riscos das chuvas em Luanda",
+      "url": "https://holdonangola.com/minuto-verde-alerta-para-riscos-das-chuvas-em-luanda/",
+      "source": "Hold On Angola",
+      "_key": "f5de9db5eb81eb49",
+      "score": 6
+    }
+  ]
 }

@@ -1,24 +1,56 @@
 {
   "date": "2026-04-05",
-  "total_new": 9,
-  "total_filtered": 2,
+  "total_new": 13,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China executa cidadão francês condenado por tráfico de drogas",
-      "url": "https://www.opais.ao/mundo/china-executa-cidadao-frances-condenado-por-trafico-de-drogas/",
-      "source": "O País",
-      "_key": "db4f7a4168e23541",
-      "score": 6,
-      "title_cn": "中国处决一名法国毒贩"
+      "title": "Organização alerta para surgimento de doenças após inundações em Luanda",
+      "url": "https://correiokianda.info/organizacao-alerta-para-surgimento-de-doencas-apos-inundacoes-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "35f2e9b8aa4692d2",
+      "score": 8,
+      "title_cn": "组织警告罗安达洪灾后疾病或爆发"
     },
     {
-      "title": "Angola to receive support from World Tourism Forum",
-      "url": "https://www.angop.ao/en/noticias/economia/forum-mundial-de-turismo-apoia-angola-na-realizacao-do-evento-sobre-investimento-no-sector/",
-      "source": "ANGOP",
-      "_key": "71fb758a9b7c4ab3",
-      "score": 5,
-      "title_cn": "安哥拉将获世界旅游论坛支持"
+      "title": "Chuvas matam 15 pessoas e deixam rasto de destruição em Angola",
+      "url": "https://correiokianda.info/chuvas-matam-15-pessoas-e-deixam-rasto-de-destruicao-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "e827cf722b46dbf6",
+      "score": 8,
+      "title_cn": "安哥拉暴雨致15人死亡，造成大范围破坏"
+    },
+    {
+      "title": "“Empresas chinesas estão a negociar dados sobre tropas americanas”, diz Washington Post",
+      "url": "https://correiokianda.info/empresas-chinesas-estao-a-negociar-dados-sobre-tropas-americanas-diz-washington-post/",
+      "source": "Correio Kianda",
+      "_key": "690e246ee9c9d1fe",
+      "score": 8,
+      "title_cn": "《华盛顿邮报》称“中国公司正交易美军数据”"
+    },
+    {
+      "title": "Três mortos e milhares de habitações inundadas após fortes chuvas em Luanda",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34063-tres-mortos-e-milhares-de-habitacoes-inundadas-apos-fortes-chuvas-em-luanda",
+      "source": "Angola 24 Horas",
+      "_key": "f466e2b963703b15",
+      "score": 7,
+      "title_cn": "罗安达强降雨致3人死亡，数千房屋被淹"
+    },
+    {
+      "title": "Chuvas em Benguela matam 14 pessoas",
+      "url": "https://www.opais.ao/destaque/chuvas-em-benguela-matam-14-pessoas/",
+      "source": "O País",
+      "_key": "364e12f3292ecc08",
+      "score": 7,
+      "title_cn": "本格拉暴雨致14人死亡"
+    },
+    {
+      "title": "Minuto Verde alerta para riscos das chuvas em Luanda",
+      "url": "https://holdonangola.com/minuto-verde-alerta-para-riscos-das-chuvas-em-luanda/",
+      "source": "Hold On Angola",
+      "_key": "f5de9db5eb81eb49",
+      "score": 6,
+      "title_cn": "Minuto Verde (米努托·维德) 警告罗安达降雨风险"
     }
   ]
 }
