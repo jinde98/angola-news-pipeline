@@ -1,56 +1,224 @@
 {
-  "date": "2026-04-05",
-  "total_new": 13,
-  "total_filtered": 6,
+  "date": "2026-04-06",
+  "total_new": 52,
+  "total_filtered": 27,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Organização alerta para surgimento de doenças após inundações em Luanda",
-      "url": "https://correiokianda.info/organizacao-alerta-para-surgimento-de-doencas-apos-inundacoes-em-luanda/",
-      "source": "Correio Kianda",
-      "_key": "35f2e9b8aa4692d2",
+      "title": "WTI firme acima e Brent em leve alta com mercado dividido entre guerra e negociações",
+      "url": "https://expansao.co.ao/economia/detalhe/wti-firme-acima-e-brent-em-leve-alta-com-mercado-dividido-entre-guerra-e-negociacoes-70921.html",
+      "source": "Expansão",
+      "_key": "15b1143c04352ecd",
+      "score": 9,
+      "title_cn": "WTI油价坚挺，布伦特小幅上涨，市场受战争与谈判影响"
+    },
+    {
+      "title": "Luvo and Yema logistics platforms to boost DRC-Angola trade",
+      "url": "https://www.angop.ao/en/noticias/economia/plataformas-logisticas-do-luvo-e-yema-vao-dinamizar-trocas-comerciais-com-a-rdc/",
+      "source": "ANGOP",
+      "_key": "b66552ee911be9bb",
       "score": 8,
-      "title_cn": "组织警告罗安达洪灾后疾病或爆发"
+      "title_cn": "Luvo和Yema物流平台将促进刚果（金）与安哥拉贸易"
     },
     {
-      "title": "Chuvas matam 15 pessoas e deixam rasto de destruição em Angola",
-      "url": "https://correiokianda.info/chuvas-matam-15-pessoas-e-deixam-rasto-de-destruicao-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "e827cf722b46dbf6",
+      "title": "Preços caem 1,4% no mercado informal e 0,3% no formal",
+      "url": "https://expansao.co.ao/economia/detalhe/precos-caem-14-no-mercado-informal-e-03-no-formal-70917.html",
+      "source": "Expansão",
+      "_key": "ef300ab2ba359a19",
       "score": 8,
-      "title_cn": "安哥拉暴雨致15人死亡，造成大范围破坏"
+      "title_cn": "非正式市场价格下跌1.4%，正式市场下跌0.3%"
     },
     {
-      "title": "“Empresas chinesas estão a negociar dados sobre tropas americanas”, diz Washington Post",
-      "url": "https://correiokianda.info/empresas-chinesas-estao-a-negociar-dados-sobre-tropas-americanas-diz-washington-post/",
-      "source": "Correio Kianda",
-      "_key": "690e246ee9c9d1fe",
-      "score": 8,
-      "title_cn": "《华盛顿邮报》称“中国公司正交易美军数据”"
-    },
-    {
-      "title": "Três mortos e milhares de habitações inundadas após fortes chuvas em Luanda",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34063-tres-mortos-e-milhares-de-habitacoes-inundadas-apos-fortes-chuvas-em-luanda",
-      "source": "Angola 24 Horas",
-      "_key": "f466e2b963703b15",
-      "score": 7,
-      "title_cn": "罗安达强降雨致3人死亡，数千房屋被淹"
-    },
-    {
-      "title": "Chuvas em Benguela matam 14 pessoas",
-      "url": "https://www.opais.ao/destaque/chuvas-em-benguela-matam-14-pessoas/",
+      "title": "Proposta que prevê taxar subsídios de alimentação que excedam 43 mil kwanzas gera discórdia",
+      "url": "https://www.opais.ao/economia/proposta-que-preve-taxar-subsidios-de-alimentacao-que-excedam-43-mil-kwanzas-gera-discordia/",
       "source": "O País",
-      "_key": "364e12f3292ecc08",
-      "score": 7,
-      "title_cn": "本格拉暴雨致14人死亡"
+      "_key": "4e90549400580770",
+      "score": 8,
+      "title_cn": "拟对超4.3万宽扎（Kz）餐补征税引争议"
     },
     {
-      "title": "Minuto Verde alerta para riscos das chuvas em Luanda",
-      "url": "https://holdonangola.com/minuto-verde-alerta-para-riscos-das-chuvas-em-luanda/",
-      "source": "Hold On Angola",
-      "_key": "f5de9db5eb81eb49",
+      "title": "Quatro em cada cinco contratos comunicados ao SNCP foram ajustes directos",
+      "url": "https://expansao.co.ao/angola/detalhe/quatro-em-cada-cinco-contratos-comunicados-ao-sncp-foram-ajustes-directos-70916.html",
+      "source": "Expansão",
+      "_key": "9b3da51532f907d1",
+      "score": 7,
+      "title_cn": "国家公共采购服务中心（SNCP）报告：五分之四合同为直接调整"
+    },
+    {
+      "title": "Parlamento: Proposta que altera Lei Orgânica do Supremo...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-proposta-que-altera-lei-organica-do-supremo-tribunal-militar-em-debate-na-especialidade-70919.html",
+      "source": "Novo Jornal",
+      "_key": "d5064d374dd44da5",
+      "score": 7,
+      "title_cn": "议会：修改最高法院组织法的提案"
+    },
+    {
+      "title": "Governo vai instalar balanças na EN-110 para travar a fuga de camiões e proteger ponte da Cabala",
+      "url": "https://www.opais.ao/politica/governo-vai-instalar-balancas-na-en-110-para-travar-a-fuga-de-camioes-e-proteger-ponte-da-cabala/",
+      "source": "O País",
+      "_key": "37c8c4505d9fa9ed",
+      "score": 7,
+      "title_cn": "政府将在EN-110公路安装地磅，遏制卡车逃避检查并保护卡巴拉桥"
+    },
+    {
+      "title": "Carta do leitor: Irregularidade no abastecimento de combustível na Bomba da Sonangol",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-irregularidade-no-abastecimento-de-combustivel-na-bomba-da-sonangol/",
+      "source": "O País",
+      "_key": "36249979ba218743",
+      "score": 7,
+      "title_cn": "读者来信：索南戈尔（Sonangol）加油站燃油供应不规律"
+    },
+    {
+      "title": "Cubango reforça combate à cólera com meios técnicos e medicamentos",
+      "url": "https://www.opais.ao/ultimas_hora/cubango-reforca-combate-a-colera-com-meios-tecnicos-e-medicamentos/",
+      "source": "O País",
+      "_key": "c2e8ab3a71f646b1",
+      "score": 7,
+      "title_cn": "库邦戈省（Cubango）加强霍乱防治，提供技术和药品支持"
+    },
+    {
+      "title": "Labour minister ensures human capital strengthening",
+      "url": "https://www.angop.ao/en/noticias/sociedade/maptess-assegura-capital-humano-e-formacao-itinerante-como-prioridades-do-executivo/",
+      "source": "ANGOP",
+      "_key": "1ef744afd699ff8e",
       "score": 6,
-      "title_cn": "Minuto Verde (米努托·维德) 警告罗安达降雨风险"
+      "title_cn": "劳工部长强调加强人力资本建设"
+    },
+    {
+      "title": "BIR aumenta capital para 30 mil milhões Kz",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_98a466593c06ef",
+      "score": 6,
+      "title_cn": "BIR公司增资至300亿宽扎（Kz）"
+    },
+    {
+      "title": "Protectorado da Lunda acusa imprensa angolana de omitir denúncias da região diamantífera SJA nega responsabilidades",
+      "url": "https://holdonangola.com/protectorado-da-lunda-acusa-imprensa-angolana-de-omitir-denuncias-da-regiao-diamantifera-sja-nega-responsabilidades/",
+      "source": "Hold On Angola",
+      "_key": "79ec94d53882e7dd",
+      "score": 6,
+      "title_cn": "隆达保护国指责安哥拉媒体忽视钻石产区的报道 SJA 否认责任"
+    },
+    {
+      "title": "Saúde pública e vigilância sanitária",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/saude-publica-e-vigilancia-sanitaria-70920.html",
+      "source": "Novo Jornal",
+      "_key": "e0de68c8550243f9",
+      "score": 6,
+      "title_cn": "公共卫生与卫生监测"
+    },
+    {
+      "title": "Executivo reitera aposta no capital humano como pilar essencial para o desenvolvimento económico do país",
+      "url": "https://www.opais.ao/politica/executivo-reitera-aposta-no-capital-humano-como-pilar-essencial-para-o-desenvolvimento-economico-do-pais/",
+      "source": "O País",
+      "_key": "2624f39e5347be38",
+      "score": 6,
+      "title_cn": "安哥拉政府重申人力资本是国家经济发展的重要支柱"
+    },
+    {
+      "title": "FUNEA considerado um instrumento de criação de postos de trabalho para atingir objectivos a curto prazo",
+      "url": "https://www.opais.ao/economia/funea-considerado-um-instrumento-de-criacao-de-postos-de-trabalho-para-atingir-objectivos-a-curto-prazo/",
+      "source": "O País",
+      "_key": "1d44f05eaff8d6cf",
+      "score": 6,
+      "title_cn": "FUNEA被视为短期内创造就业的工具"
+    },
+    {
+      "title": "Hospital Geral do Cubango passa a produzir oxigénio e prevê poupar mais de 15 milhões de kwanzas mês",
+      "url": "https://www.opais.ao/ultimas_hora/hospital-geral-do-cubango-passa-a-produzir-oxigenio-e-preve-poupar-mais-de-15-milhoes-de-kwanzas-mes/",
+      "source": "O País",
+      "_key": "0f9dc1c24b9d2183",
+      "score": 6,
+      "title_cn": "库邦戈（Cubango）总医院开始制氧，预计每月节省超1500万宽扎"
+    },
+    {
+      "title": "Heavy rains leave 28 dead in Luanda and Benguela provinces",
+      "url": "https://www.angop.ao/en/noticias/sociedade/chuva-provoca-28-mortes-e-17-feridos-em-luanda-e-benguela/",
+      "source": "ANGOP",
+      "_key": "1fa8d4e80819d5c1",
+      "score": 5,
+      "title_cn": "罗安达和本格拉省暴雨致28人死亡"
+    },
+    {
+      "title": "Chuvas fazem 28 mortos, 17 feridos e três desaparecidos em Luanda e Benguela",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34063-chuvas-fazem-28-mortos-17-feridos-e-tres-desaparecidos-em-luanda-e-benguela",
+      "source": "Angola 24 Horas",
+      "_key": "db2f1f01335bd7b7",
+      "score": 5,
+      "title_cn": "罗安达和本格拉省降雨致28死17伤3失踪"
+    },
+    {
+      "title": "A dívida de Angola com Cuba ainda não foi quitada?",
+      "url": "https://angola24horas.com/politica/item/34065-a-divida-de-angola-com-cuba-ainda-nao-foi-quitada",
+      "source": "Angola 24 Horas",
+      "_key": "9060fb4b5c028900",
+      "score": 5,
+      "title_cn": "安哥拉对古巴的债务尚未偿清？"
+    },
+    {
+      "title": "SIC investiga circunstâncias da morte de três funcionários...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-investiga-circunstancias-da-morte-de-tres-funcionarios-da-fazenda-filomena-no-panguila-70922.html",
+      "source": "Novo Jornal",
+      "_key": "cd19d7efc614feae",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）调查三名员工死亡情况"
+    },
+    {
+      "title": "Chuvas fizeram 30 mortos em Angola, só a província...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/chuvas-fizeram-30-mortos-em-angola-so-a-provincia-de-benguela-registou-24-70915.html",
+      "source": "Novo Jornal",
+      "_key": "0f2de5677cfcfdc9",
+      "score": 5,
+      "title_cn": "安哥拉降雨致30人死亡，仅本格拉省就..."
+    },
+    {
+      "title": "Chuvas fizeram 28 mortos em Angola, só a província de Benguela registou 24",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/chuvas-provocaram-pelo-menos-24-mortes-em-benguela-28-em-angola-70915.html",
+      "source": "Novo Jornal",
+      "_key": "174c7c3c4e6bd52f",
+      "score": 5,
+      "title_cn": "安哥拉降雨致28人死亡，本格拉省独占24例"
+    },
+    {
+      "title": "Chuvas provocam 28 mortos e mais de 34 mil afectados em Angola",
+      "url": "https://www.opais.ao/sociedade/chuvas-provocam-28-mortos-e-mais-de-34-mil-afectados-em-angola/",
+      "source": "O País",
+      "_key": "e1ddd213de5c18b7",
+      "score": 5,
+      "title_cn": "安哥拉降雨致28人死亡，超3.4万人受灾"
+    },
+    {
+      "title": "SIC investiga morte de três funcionários da fazenda filomena",
+      "url": "https://www.opais.ao/sociedade/sic-investiga-morte-de-tres-funcionarios-da-fazenda-filomena/",
+      "source": "O País",
+      "_key": "ce7322ac6a2cd47a",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）调查菲洛梅娜农场三名员工死亡案"
+    },
+    {
+      "title": "Reconhecimento aos feitos e méritos da Polícia Nacional: ministro Manuel Homem condecora 160 efectivos",
+      "url": "https://www.opais.ao/politica/reconhecimento-aos-feitos-e-meritos-da-policia-nacional-ministro-manuel-homem-condecora-160-efectivos/",
+      "source": "O País",
+      "_key": "023f57631eafc056",
+      "score": 5,
+      "title_cn": "表彰国家警察功绩：曼努埃尔·奥门（Manuel Homem）部长嘉奖160名警员"
+    },
+    {
+      "title": "Chuvas em Benguela matam 22 pessoas e ‘reeditam’ drama das cheias de 2015",
+      "url": "https://www.opais.ao/sociedade/chuvas-em-benguela-matam-22-pessoas-e-reeditam-drama-das-cheias-de-2015/",
+      "source": "O País",
+      "_key": "bfd64c0ad853947a",
+      "score": 5,
+      "title_cn": "本格拉省降雨致22人死亡，2015年洪灾悲剧重演"
+    },
+    {
+      "title": "Chuvas em Luanda e Benguela matam 28 pessoas e inundam mais de seis mil casas",
+      "url": "https://www.opais.ao/destaque/chuvas-em-luanda-e-benguela-matam-28-pessoas-e-inundam-mais-de-seis-mil-casas/",
+      "source": "O País",
+      "_key": "214f5ccba6c2e98f",
+      "score": 5,
+      "title_cn": "罗安达和本格拉省降雨致28人死亡，超6000所房屋被淹"
     }
   ]
 }
