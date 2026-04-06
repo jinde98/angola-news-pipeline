@@ -1,28 +1,35 @@
 {
   "date": "2026-04-06",
-  "total_new": 9,
-  "total_filtered": 3,
+  "total_new": 18,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Minerais críticos e energias renováveis: A oportunidade de Angola num mundo em transformação",
-      "url": "https://www.opais.ao/opiniao/minerais-criticos-e-energias-renovaveis-a-oportunidade-de-angola-num-mundo-em-transformacao/",
-      "source": "O País",
-      "_key": "cd58bddaf4f7ad09",
-      "score": 9
+      "title": "Executivo promete apoio ao agro juvenil, mas acesso ao crédito continua a travar projectos",
+      "url": "https://correiokianda.info/executivo-promete-apoio-ao-agro-juvenil-mas-acesso-ao-credito-continua-a-travar-projectos/",
+      "source": "Correio Kianda",
+      "_key": "fb9172c62d1cb1d3",
+      "score": 6
     },
     {
-      "title": "Nova fórmula para relançar as Parcerias Público-Privadas em sectores estratégicos do País",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_1f9b1a85d1ac4b",
-      "score": 8
+      "title": "Malanje: Dois mortos, seis feridos e três pontes destruídas...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/malanje-dois-mortos-seis-feridos-e-tres-pontes-destruidas-pela-chuva-70942.html",
+      "source": "Novo Jornal",
+      "_key": "2b94ec6028ddd454",
+      "score": 6
     },
     {
-      "title": "Chuvas fazem 29 mortos, 17 feridos e três desaparecidos em Luanda e Benguela",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34063-chuvas-fazem-29-mortos-17-feridos-e-tres-desaparecidos-em-luanda-e-benguela",
-      "source": "Angola 24 Horas",
-      "_key": "99d2574cc62aa718",
+      "title": "Produção acelera em Moçambique, mas crise de liquidez trava expansão empresarial",
+      "url": "https://forbesafricalusofona.com/producao-acelera-em-mocambique-mas-crise-de-liquidez-trava-expansao-empresarial/",
+      "source": "Forbes África",
+      "_key": "931552b7475d3919",
+      "score": 5
+    },
+    {
+      "title": "MININT alarga prazo de programa de emissão de passaporte...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/minint-alarga-prazo-de-programa-de-emissao-de-passaporte-e-carta-de-conducao-na-baia-de-luanda-70941.html",
+      "source": "Novo Jornal",
+      "_key": "c35048e63a3af4b7",
       "score": 5
     }
   ]
