@@ -1,56 +1,112 @@
 {
   "date": "2026-04-07",
-  "total_new": 135,
-  "total_filtered": 6,
-  "scored_by": "keyword",
+  "total_new": 31,
+  "total_filtered": 13,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Government invests 2.1 billion kwanzas in Ndalatando market",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-investe-mais-de-2-1-mil-milhoes-de-kwanzas-na-conclusao-do-mercado-de-ndalatando/",
+      "title": "Petróleo volta a ultrapassar os 110 USD após Trump ameaçar obliterar Irão",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-ultrapassar-os-110-usd-apos-trump-ameacar-obliterar-irao-70954.html",
+      "source": "Expansão",
+      "_key": "56b396981eb1f367",
+      "score": 9,
+      "title_cn": "特朗普（Trump）威胁摧毁伊朗后，油价重回110美元上方"
+    },
+    {
+      "title": "BAD vai emprestar 210,4 milhões USD a Angola para impulsionar...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/bad-vai-emprestar-2104-milhoes-usd-a-angola-para-impulsionar-o-sector-agricola-na-regiao-leste-projecto-que-promete-criar-7500-empregos-directos-70958.html",
+      "source": "Novo Jornal",
+      "_key": "3d25469f733e8304",
+      "score": 8,
+      "title_cn": "非洲开发银行将向安哥拉贷款2.104亿美元以促进发展"
+    },
+    {
+      "title": "Luau photovoltaic solar park begins operational phase",
+      "url": "https://www.angop.ao/en/noticias/economia/parque-solar-fotovoltaico-do-luau-entra-na-fase-de-operacionalizacao/",
       "source": "ANGOP",
-      "_key": "e6e04d17bfab5bd4",
-      "score": 5,
-      "title_cn": "政府在恩达拉坦多市场投资21亿宽扎"
+      "_key": "0c121b7223696093",
+      "score": 7,
+      "title_cn": "卢奥（Luau）光伏太阳能公园投入运营"
     },
     {
-      "title": "Soyo administrator highlights gains in the oil and gas sectors",
-      "url": "https://www.angop.ao/en/noticias/politica/administrador-do-soyo-realca-ganhos-nos-sectores-do-petroleo-e-gas/",
-      "source": "ANGOP",
-      "_key": "f022ad1e76c8cee5",
-      "score": 5,
-      "title_cn": "Soyo管理员强调石油和天然气行业的收益"
+      "title": "'Ultimato' de Trump ao Irão trava ouro e mantém mercados em alerta",
+      "url": "https://expansao.co.ao/economia/detalhe/ultimato-de-trump-ao-irao-trava-ouro-e-mantem-mercados-em-alerta-70955.html",
+      "source": "Expansão",
+      "_key": "d55909b10519d421",
+      "score": 7,
+      "title_cn": "特朗普（Trump）对伊朗的“最后通牒”遏制黄金，市场保持警惕"
     },
     {
-      "title": "Destaque Ministério do Comércio alinha estratégias para FILDA 2026O Ministério do Comércio alinhou, hoje, as estratégias para a Feira Internacional de Angola (FILDA 2026), prevista para Julho.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673145/minist%C3%A9rio-do-com%C3%A9rcio-alinha-estrat%C3%A9gias-para-filda-2026",
-      "source": "Jornal de Angola",
-      "_key": "9bfa7fcc316b8140",
-      "score": 5,
-      "title_cn": "商务部今天调整了定于 7 月举行的安哥拉国际博览会 （ FILDA 2026 ） 的战略。"
+      "title": "Crédito malparado na banca encolhe 256 milhões USD em 2025",
+      "url": "https://expansao.co.ao/economia/detalhe/credito-malparado-na-banca-encolhe-256-milhoes-usd-em-2025-70952.html",
+      "source": "Expansão",
+      "_key": "2e08bec330943f38",
+      "score": 7,
+      "title_cn": "2025年银行业不良贷款减少2.56亿美元"
     },
     {
-      "title": "Economia / agora Petróleo apresenta variação acima de 60 por cento/ano ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673186/petr%C3%B3leo-apresenta-varia%C3%A7%C3%A3o-acima-de-60-por-centoano",
-      "source": "Jornal de Angola",
-      "_key": "158d769bc7b7b2ee",
-      "score": 5,
-      "title_cn": "经济/现在石油呈现超过60%的变化/年"
-    },
-    {
-      "title": "Economia / Há 23 horas Festas do Mar registam 235 milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673093/festas-do-mar-registam-235-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "6c04c494870ecbc1",
-      "score": 5,
-      "title_cn": "经济 / 23 小时前海上节日记录 2.35 亿宽扎"
-    },
-    {
-      "title": "Dívida de mais de 15 milhões de kwanzas ‘trava’ Carmona do Uíge de sonhar com regresso ao Girabola",
-      "url": "https://www.opais.ao/desporto/divida-de-mais-de-15-milhoes-de-kwanzas-trava-carmona-do-uige-de-sonhar-com-regresso-ao-girabola/",
+      "title": "Vietnamitas detidos por pesca ilegal na costa de Cabo ledo",
+      "url": "https://www.opais.ao/sociedade/vietnamitas-detidos-por-pesca-ilegal-na-costa-de-cabo-ledo/",
       "source": "O País",
-      "_key": "1cefd8a2b76b3d08",
+      "_key": "1598b2e0bcf3fb4d",
+      "score": 7,
+      "title_cn": "越南渔民在卡布莱多（Cabo Ledo）海岸因非法捕鱼被拘留"
+    },
+    {
+      "title": "Linhas Áreas de Angola alcança nova etapa estratégica com arranque da rota Luanda – Abidjan e promove novas oportunidades de mobilidade e negócios",
+      "url": "https://forbesafricalusofona.com/linhas-areas-de-angola-alcanca-nova-etapa-estrategica-com-arranque-da-rota-luanda-abidjan-e-promove-novas-oportunidades-de-mobilidade-e-negocios/",
+      "source": "Forbes África",
+      "_key": "a4daec1738eced24",
+      "score": 6,
+      "title_cn": "安哥拉航空开通罗安达-阿比让航线，开启战略新篇章"
+    },
+    {
+      "title": "Economia MIREMPET abre hoje jornadas cientificas do Dia do Trabalhador Mineiro ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673209/mirempet-abre-hoje-jornadas-cientificas-do-dia-do-trabalhador-mineiro",
+      "source": "Jornal de Angola",
+      "_key": "dfb2c26541f78bcd",
+      "score": 6,
+      "title_cn": "矿产资源部今日启动矿工日科学研讨会"
+    },
+    {
+      "title": "MIREMPET abre hoje Jornadas Técnicas e Científicas alusivas ao Dia do Trabalhador Mineiro",
+      "url": "https://www.opais.ao/economia/mirempet-abre-hoje-jornadas-tecnicas-e-cientificas-alusivas-ao-dia-do-trabalhador-mineiro/",
+      "source": "O País",
+      "_key": "8382367953bde719",
+      "score": 6,
+      "title_cn": "矿产资源部今日启动矿工日技术与科学研讨会"
+    },
+    {
+      "title": "Energia eléctrica",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=71060",
+      "source": "ANGOP",
+      "_key": "3272a5c2611445a5",
       "score": 5,
-      "title_cn": "超过 1500 万宽扎的债务 \"阻止\" 维吾尔人卡莫纳重返吉拉博拉的梦想"
+      "title_cn": "电力能源"
+    },
+    {
+      "title": "\"O direito do consumidor não é como um direito comum, é um direito especial\"Lourenço Texe defende a necessidade de criação de uma instituição independente que garanta o direito do consumidor e aponta a alteração da lei como caminho para responder aos desafios do mercado, assim como a capacitação de magistrados para que os tribunais sejam mais eficazes na defesa de direitos dos compradores.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/o-direito-do-consumidor-nao-e-como-um-direito-comum-e-um-direito-especial-70953.html",
+      "source": "Expansão",
+      "_key": "d483d8c1fef43532",
+      "score": 5,
+      "title_cn": "洛伦索·特谢（Lourenço Texe）呼吁设立独立机构保障消费者特殊权利"
+    },
+    {
+      "title": "Governo volta a recorrer à Caixa para levar avante...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-volta-a-recorrer-a-caixa-para-levar-avante-a-reabilitacao-da-urbanizacao-nova-vida-70949.html",
+      "source": "Novo Jornal",
+      "_key": "dbac1b641bd5b2ea",
+      "score": 5,
+      "title_cn": "政府再次求助于银行以推进项目"
+    },
+    {
+      "title": "Governadora do Cunene confere posse à nova coordenadora do Comité de Gestão Coordenada de Fronteiras",
+      "url": "https://www.opais.ao/politica/governadora-do-cunene-confere-posse-a-nova-coordenadora-do-comite-de-gestao-coordenada-de-fronteiras/",
+      "source": "O País",
+      "_key": "717f74872344a2fe",
+      "score": 5,
+      "title_cn": "库内内省省长任命边境协调管理委员会新协调员"
     }
   ]
 }
