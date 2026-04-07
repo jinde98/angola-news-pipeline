@@ -1,98 +1,56 @@
 {
   "date": "2026-04-07",
-  "total_new": 31,
-  "total_filtered": 13,
+  "total_new": 20,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo volta a ultrapassar os 110 USD após Trump ameaçar obliterar Irão",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-ultrapassar-os-110-usd-apos-trump-ameacar-obliterar-irao-70954.html",
-      "source": "Expansão",
-      "_key": "56b396981eb1f367",
-      "score": 9
-    },
-    {
-      "title": "BAD vai emprestar 210,4 milhões USD a Angola para impulsionar...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/bad-vai-emprestar-2104-milhoes-usd-a-angola-para-impulsionar-o-sector-agricola-na-regiao-leste-projecto-que-promete-criar-7500-empregos-directos-70958.html",
-      "source": "Novo Jornal",
-      "_key": "3d25469f733e8304",
+      "title": "Grupo armado invade armazém e rouba 1,4 milhão de kwanzas em Luanda",
+      "url": "https://correiokianda.info/grupo-armado-invade-armazem-e-rouba-14-milhao-de-kwanzas-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "1adba17aee9c1c3c",
       "score": 8
     },
     {
-      "title": "Luau photovoltaic solar park begins operational phase",
-      "url": "https://www.angop.ao/en/noticias/economia/parque-solar-fotovoltaico-do-luau-entra-na-fase-de-operacionalizacao/",
-      "source": "ANGOP",
-      "_key": "0c121b7223696093",
-      "score": 7
-    },
-    {
-      "title": "'Ultimato' de Trump ao Irão trava ouro e mantém mercados em alerta",
-      "url": "https://expansao.co.ao/economia/detalhe/ultimato-de-trump-ao-irao-trava-ouro-e-mantem-mercados-em-alerta-70955.html",
-      "source": "Expansão",
-      "_key": "d55909b10519d421",
-      "score": 7
-    },
-    {
-      "title": "Crédito malparado na banca encolhe 256 milhões USD em 2025",
-      "url": "https://expansao.co.ao/economia/detalhe/credito-malparado-na-banca-encolhe-256-milhoes-usd-em-2025-70952.html",
-      "source": "Expansão",
-      "_key": "2e08bec330943f38",
-      "score": 7
-    },
-    {
-      "title": "Vietnamitas detidos por pesca ilegal na costa de Cabo ledo",
-      "url": "https://www.opais.ao/sociedade/vietnamitas-detidos-por-pesca-ilegal-na-costa-de-cabo-ledo/",
-      "source": "O País",
-      "_key": "1598b2e0bcf3fb4d",
-      "score": 7
-    },
-    {
-      "title": "Linhas Áreas de Angola alcança nova etapa estratégica com arranque da rota Luanda – Abidjan e promove novas oportunidades de mobilidade e negócios",
-      "url": "https://forbesafricalusofona.com/linhas-areas-de-angola-alcanca-nova-etapa-estrategica-com-arranque-da-rota-luanda-abidjan-e-promove-novas-oportunidades-de-mobilidade-e-negocios/",
-      "source": "Forbes África",
-      "_key": "a4daec1738eced24",
-      "score": 6
-    },
-    {
-      "title": "Economia MIREMPET abre hoje jornadas cientificas do Dia do Trabalhador Mineiro ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673209/mirempet-abre-hoje-jornadas-cientificas-do-dia-do-trabalhador-mineiro",
+      "title": "Mundo07/04/2026Macau organiza feira para países lusófonos",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673215/macau-organiza-feira-para-pa%C3%ADses-lus%C3%B3fonos",
       "source": "Jornal de Angola",
-      "_key": "dfb2c26541f78bcd",
+      "_key": "fe8d836bad9f0d6a",
+      "score": 7
+    },
+    {
+      "title": "Taxa do subsídio de alimentação acima de 43 mil kwanzas pode reduzir consumo, alertam especialistas",
+      "url": "https://correiokianda.info/taxa-do-subsidio-de-alimentacao-acima-de-43-mil-kwanzas-pode-reduzir-consumo-alertam-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "fdd418f0be067e4b",
       "score": 6
     },
     {
-      "title": "MIREMPET abre hoje Jornadas Técnicas e Científicas alusivas ao Dia do Trabalhador Mineiro",
-      "url": "https://www.opais.ao/economia/mirempet-abre-hoje-jornadas-tecnicas-e-cientificas-alusivas-ao-dia-do-trabalhador-mineiro/",
-      "source": "O País",
-      "_key": "8382367953bde719",
+      "title": "Mundo Conselho de Segurança das Nações Unidas vota resolução exigindo reabertura de Ormuz ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673210/conselho-de-seguran%C3%A7a-das-na%C3%A7%C3%B5es-unidas-vota-resolu%C3%A7%C3%A3o-exigindo-reabertura-de-ormuz-",
+      "source": "Jornal de Angola",
+      "_key": "b2150a209f21c618",
       "score": 6
     },
     {
-      "title": "Energia eléctrica",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=71060",
-      "source": "ANGOP",
-      "_key": "3272a5c2611445a5",
+      "title": "SIC em Cabinda desmantela grupo que “tirava sono dos moradores do bairro Gika”",
+      "url": "https://correiokianda.info/sic-em-cabinda-desmantela-grupo-que-tirava-sono-dos-moradores-do-bairro-gika/",
+      "source": "Correio Kianda",
+      "_key": "1879f7e617bbc99a",
       "score": 5
     },
     {
-      "title": "\"O direito do consumidor não é como um direito comum, é um direito especial\"Lourenço Texe defende a necessidade de criação de uma instituição independente que garanta o direito do consumidor e aponta a alteração da lei como caminho para responder aos desafios do mercado, assim como a capacitação de magistrados para que os tribunais sejam mais eficazes na defesa de direitos dos compradores.",
-      "url": "https://expansao.co.ao/multimedia/detalhe/o-direito-do-consumidor-nao-e-como-um-direito-comum-e-um-direito-especial-70953.html",
-      "source": "Expansão",
-      "_key": "d483d8c1fef43532",
+      "title": "Sindicato dos Médicos denuncia retrocesso grave da saúde em Angola em dia de efeméride",
+      "url": "https://correiokianda.info/sindicato-dos-medicos-denuncia-retrocesso-grave-da-saude-em-angola-em-dia-de-efemeride/",
+      "source": "Correio Kianda",
+      "_key": "a964ec809f593fca",
       "score": 5
     },
     {
-      "title": "Governo volta a recorrer à Caixa para levar avante...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-volta-a-recorrer-a-caixa-para-levar-avante-a-reabilitacao-da-urbanizacao-nova-vida-70949.html",
-      "source": "Novo Jornal",
-      "_key": "dbac1b641bd5b2ea",
-      "score": 5
-    },
-    {
-      "title": "Governadora do Cunene confere posse à nova coordenadora do Comité de Gestão Coordenada de Fronteiras",
-      "url": "https://www.opais.ao/politica/governadora-do-cunene-confere-posse-a-nova-coordenadora-do-comite-de-gestao-coordenada-de-fronteiras/",
+      "title": "Sindicato dos Médicos contesta centro de trauma em Luanda e defende instalação em rede nacional",
+      "url": "https://www.opais.ao/sociedade/sindicato-dos-medicos-contesta-centro-de-trauma-em-luanda-e-defende-instalacao-em-rede-nacional/",
       "source": "O País",
-      "_key": "717f74872344a2fe",
+      "_key": "e7dfefd94f45a2e6",
       "score": 5
     }
   ]
