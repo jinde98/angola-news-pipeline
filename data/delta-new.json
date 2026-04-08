@@ -1,230 +1,116 @@
 {
   "date": "2026-04-08",
-  "total_extracted": 1580,
-  "total_new": 37,
-  "total_existing": 1543,
+  "total_extracted": 1585,
+  "total_new": 18,
+  "total_existing": 1567,
   "articles": [
     {
-      "title": "Transport minister stresses aviation’s role in country's development",
-      "url": "https://www.angop.ao/en/noticias/economia/destacado-papel-crucial-da-aviacao-no-desenvolvimento-pais/",
+      "title": "Vice President chairs National Road Council 1st Ordinary Session",
+      "url": "https://www.angop.ao/en/noticias/politica/vice-presidente-orienta-1.a-sessao-ordinaria-do-conselho-nacional-de-viacao/",
       "source": "ANGOP",
-      "_key": "633e073414a8056d"
+      "_key": "8c45ccd7819d7c93"
     },
     {
-      "title": "Angola/Cape Verde airlink to resume shortly",
-      "url": "https://www.angop.ao/en/noticias/transporte/taag-reestabelece-em-breve-ligacao-aerea-angola-cabo-verde/",
+      "title": "Transit",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5659",
       "source": "ANGOP",
-      "_key": "9f635085ba86c603"
+      "_key": "28acbee9deab7877"
     },
     {
-      "title": "Angola/Côte d’Ivoire airlink strengthens intra-African connectivity",
-      "url": "https://www.angop.ao/en/noticias/transporte/ligacao-aerea-entre-angola-e-cote-divoire-reforca-conectividade-intra-africana-e-internacional/",
+      "title": "ANAC reaffirms commitment to modern regulation",
+      "url": "https://www.angop.ao/en/noticias/economia/anac-reafirma-compromisso-de-regulacao-economica-e-moderna/",
       "source": "ANGOP",
-      "_key": "d1f28b440509829a"
+      "_key": "f5c3322ded8ae5a8"
     },
     {
-      "title": "Chieftains debate culture preservation and conflict mediation",
-      "url": "https://www.angop.ao/en/noticias/politica/preservacao-da-cultura-e-mediacao-de-conflitos-debatidos-em-encontro-com-sobas-no-quipungo/",
-      "source": "ANGOP",
-      "_key": "a33b0b50fdd1ccd4"
+      "title": "Crise sanitária agrava-se: Sindicato denuncia prioridades “invertidas” e prevê aumento de doenças evitáveis",
+      "url": "https://angola24horas.com/sociedade/item/34084-crise-sanitaria-agrava-se-sindicato-denuncia-prioridades-invertidas-e-preve-aumento-de-doencas-evitaveis",
+      "source": "Angola 24 Horas",
+      "_key": "ef4a10d2bd29459c"
     },
     {
-      "title": "Governação Local",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=208264",
-      "source": "ANGOP",
-      "_key": "90db5bb610beb2f1"
-    },
-    {
-      "title": "Minister João Baptista Borges leads meeting on electricity sector reform",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-joao-baptista-borges-orienta-reuniao-sobre-reforma-do-sector-electrico/",
-      "source": "ANGOP",
-      "_key": "a0897bc3a25ed666"
-    },
-    {
-      "title": "Angola and Côte d'Ivoire foster mobility through Luanda-Abidjan route",
-      "url": "https://www.angop.ao/en/noticias/transporte/taag-reforca-cooperacao-bilateral-com-rota-luanda-abidjan/",
-      "source": "ANGOP",
-      "_key": "7be8b9c4e52f276f"
-    },
-    {
-      "title": "Artistic center promotes training in artistic ceramics",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/animarts-promove-formacao-sobre-ceramica-artistica/",
-      "source": "ANGOP",
-      "_key": "d1cad831a28a8320"
-    },
-    {
-      "title": "Over 20,000 people benefited from free medical observation in 2025",
-      "url": "https://www.angop.ao/en/noticias/saude/mais-de-20-mil-pessoas-beneficiam-de-pre-consultas-de-aditivo-e-visual-em-angola/",
-      "source": "ANGOP",
-      "_key": "b07c82a54cd9c8c4"
-    },
-    {
-      "title": "Sports Ministry mourns death of former athlete Manuel Barros",
-      "url": "https://www.angop.ao/en/noticias/desporto/golfe-minjud-lamenta-morte-de-manuel-barros/",
-      "source": "ANGOP",
-      "_key": "7a1868fbc2f64c36"
-    },
-    {
-      "title": "Angola to reintroduce chimpanzees to Maiombe Park",
-      "url": "https://www.angop.ao/en/noticias/ambiente/inbac-reintroduz-chimpanzes-no-parque-do-maiombe/",
-      "source": "ANGOP",
-      "_key": "87a8510f30812b4a"
-    },
-    {
-      "title": "Angolan govt expands programs to help young and adult students catch up academically",
-      "url": "https://www.angop.ao/en/noticias/educacao/executivo-massifica-programas-para-recuperacao-escolar-de-jovens-e-adultos/",
-      "source": "ANGOP",
-      "_key": "4d0e9537d055cbbd"
-    },
-    {
-      "title": "Lixo invade ruas do Zango, enquanto administração diz que problema tem dias contados",
-      "url": "https://correiokianda.info/lixo-invade-ruas-do-zango-enquanto-administracao-diz-que-problema-tem-dias-contados/",
+      "title": "Governo usa dívida para ajudar BDA a crescer",
+      "url": "https://correiokianda.info/governo-usa-divida-para-ajudar-bda-a-crescer/",
       "source": "Correio Kianda",
-      "_key": "6403021506894fd6"
+      "_key": "0f83341c0c40f505"
     },
     {
-      "title": "Alargado para mais um mês funcionamento do Centro de apoio ao Utente na Marginal de Luanda",
-      "url": "https://correiokianda.info/alargado-para-mais-um-mes-funcionamento-do-centro-de-apoio-ao-utente-na-marginal-de-luanda/",
+      "title": "Corte de vagas na Saúde expõe falhas de planeamento, afirma especialista",
+      "url": "https://correiokianda.info/corte-de-vagas-na-saude-expoe-falhas-de-planeamento-afirma-especialista/",
       "source": "Correio Kianda",
-      "_key": "67d4b698a536be69"
+      "_key": "51687839e11a910f"
     },
     {
-      "title": "Falha tecnológica deixa centenas de angolanos sem bilhete de identidade e registo criminal",
-      "url": "https://correiokianda.info/falha-tecnologica-deixa-centenas-de-angolanos-sem-bilhete-de-identidade-e-registo-criminal/",
-      "source": "Correio Kianda",
-      "_key": "ddaf48d76e9a85f2"
-    },
-    {
-      "title": "Concurso público na Saúde em Angola: vagas reduzidas, necessidades ignoradas",
-      "url": "https://correiokianda.info/concurso-publico-na-saude-em-angola-vagas-reduzidas-necessidades-ignoradas/",
-      "source": "Correio Kianda",
-      "_key": "41b56bdc009cea1a"
-    },
-    {
-      "title": "        África1 hora atrás  Sudão do Sul: Presidente Salva Kiir demite presidente e vice-presidente do parlamento O presidente do Sudão do Sul, Salva Kiir, demitiu nesta terça-feira, o presidente e o vice-presidente do parlamento do país, por suposta má gestão, segundo um...   ",
-      "url": "https://correiokianda.info/sudao-do-sul-presidente-salva-kiir-demite-presidente-e-vice-presidente-do-parlamento/",
-      "source": "Correio Kianda",
-      "_key": "da9ae16b36d01359"
-    },
-    {
-      "title": "PR de Angola cria comissão para preparar Cimeira da Indústria Financeira em África",
-      "url": "https://forbesafricalusofona.com/pr-de-angola-cria-comissao-para-preparar-cimeira-da-industria-financeira-em-africa/",
+      "title": "Internacional Alibaba quer impulsionar desenvolvimento do comércio digital na Guiné Equatorial",
+      "url": "https://forbesafricalusofona.com/internacional-alibaba-quer-impulsionar-desenvolvimento-do-comercio-digital-na-guine-equatorial/",
       "source": "Forbes África",
-      "_key": "0ce0ab4029938d5e"
+      "_key": "335e8c007b473afc"
     },
     {
-      "title": "Inflação em Angola desacelera 0,93 ponto percentual em Março",
-      "url": "https://forbesafricalusofona.com/inflacao-em-angola-desacelera-093-ponto-percentual-em-marco/",
-      "source": "Forbes África",
-      "_key": "cb1f4a36254c7f79"
-    },
-    {
-      "title": "Guiné Equatorial inicia processo de estabilização e modernização da rede de fibra óptica",
-      "url": "https://forbesafricalusofona.com/guine-equatorial-inicia-processo-de-estabilizacao-e-modernizacao-da-rede-de-fibra-optica/",
-      "source": "Forbes África",
-      "_key": "354a7fb10cea3afb"
-    },
-    {
-      "title": "INAAREES chumba mais de 50 cursos de universidades...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inaarees-chumba-mais-de-50-cursos-de-universidades-publicas-e-200-de-universidades-privadas-por-falta-de-condicoes-mea-aplaude-a-decisao-70978.html",
+      "title": "Bengo: SIC resgata vários adolescentes provenientes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bengo-sic-resgata-varios-adolescentes-provenientes-de-benguela-que-faziam-trabalhos-forcados-em-fazenda-e-detiveram-um-empresario-70979.html",
       "source": "Novo Jornal",
-      "_key": "14b36ec04a27fbe4"
+      "_key": "d17b9af1c0f5ad44"
     },
     {
-      "title": "Proposta de revisão do Código dos Valores Mobiliários...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/proposta-de-revisao-do-codigo-dos-valores-mobiliarios-em-debate-no-parlamento-70980.html",
+      "title": "Futebol: FAF já encontrou o novo treinador para os...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/futebol-faf-ja-encontrou-o-novo-treinador-para-os-palancas-negras-substituto-de-patrice-beaumelle-sera-anunciado-esta-quinta-feira-70985.html",
       "source": "Novo Jornal",
-      "_key": "9440a750a3bbf7dc"
+      "_key": "46cd3c783a26261a"
     },
     {
-      "title": "Petróleo: Foi com alívio que os mercados mergulharam...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-foi-com-alivio-que-os-mercados-mergulharam-para-baixo-dos-100-usd-economia-mundial-tem-duas-semanas-para-se-alimentar-sem-restricoes-70983.html",
-      "source": "Novo Jornal",
-      "_key": "a8c7e3a0390c73c8"
-    },
-    {
-      "title": "Médio Oriente: Papa Leão XIV e Secretário-Geral da...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-papa-leao-xiv-e-secretario-geral-da-onu-pedem-vigilancia-e-boa-vontade-para-que-cessar-fogo-resulte-em-paz-definitiva-70984.html",
-      "source": "Novo Jornal",
-      "_key": "1d401b0a5c915445"
-    },
-    {
-      "title": "O 4 de Abril de 2002: um marco civilizacional de excepção na história da humanidade",
-      "url": "https://www.opais.ao/opiniao/o-4-de-abril-de-2002-um-marco-civilizacional-de-excepcao-na-historia-da-humanidade/",
+      "title": "Filho mata mãe com machado por suposta crença ao feiticismo",
+      "url": "https://www.opais.ao/ultimas_hora/filho-mata-mae-com-machado-por-suposta-crenca-ao-feiticismo/",
       "source": "O País",
-      "_key": "7b38bac9acf1343f"
+      "_key": "c8b84d0ab9f0c406"
     },
     {
-      "title": "O fenómeno mata-aulas: o maior dilema dos estudantes angolanos",
-      "url": "https://www.opais.ao/opiniao/o-fenomeno-mata-aulas-o-maior-dilema-dos-estudantes-angolanos/",
+      "title": "Morreu uma das vítimas do acidente de comboio do CFB no Moxico",
+      "url": "https://www.opais.ao/ultimas_hora/morreu-uma-das-vitimas-do-acidente-de-comboio-do-cfb-no-moxico/",
       "source": "O País",
-      "_key": "5f84e31f9cc3fb36"
+      "_key": "593fc4d903681840"
     },
     {
-      "title": "FAF apresenta amanhã Jean-Michele Cavalli como novo treinador dos Palancas Negras",
-      "url": "https://www.opais.ao/desporto/faf-apresenta-amanha-jean-michele-cavalli-como-novo-treinador-dos-palancas-negras/",
+      "title": "MINSA inicia curso de Especialização em Bioquímica Clínica e Hematologia nas províncias do Huambo e Bié",
+      "url": "https://www.opais.ao/ultimas_hora/minsa-inicia-curso-de-especializacao-em-bioquimica-clinica-e-hematologia-nas-provincias-do-huambo-e-bie/",
       "source": "O País",
-      "_key": "336631b72c08f72e"
+      "_key": "8cb2026fa7eeb04b"
     },
     {
-      "title": "Irão pede à população para formar “correntes humanas” junto a centrais",
-      "url": "https://www.opais.ao/mundo/irao-pede-a-populacao-para-formar-correntes-humanas-junto-a-centrais/",
+      "title": "Ministra da Educação avalia andamento das obras em algumas escolas de Luanda",
+      "url": "https://www.opais.ao/ultimas_hora/ministra-da-educacao-avalia-andamento-das-obras-em-algumas-escolas-de-luanda/",
       "source": "O País",
-      "_key": "9d77f017863d9f56"
+      "_key": "99bbaa6ed3b2fa1f"
     },
     {
-      "title": "Governo espanhol aprova inclusão do direito ao aborto na Constituição",
-      "url": "https://www.opais.ao/mundo/governo-espanhol-aprova-inclusao-do-direito-ao-aborto-na-constituicao/",
+      "title": "Luena, 24 anos depois: a Paz como projecto de Nação",
+      "url": "https://www.opais.ao/opiniao/luena-24-anos-depois-a-paz-como-projecto-de-nacao/",
       "source": "O País",
-      "_key": "4f5395ef62625178"
+      "_key": "e3b94d056b472c6c"
     },
     {
-      "title": "Epidemia de cólera em Moçambique com mais de 8.300 casos",
-      "url": "https://www.opais.ao/mundo/epidemia-de-colera-em-mocambique-com-mais-de-8-300-casos/",
+      "title": "A abordagem da metodologia da aprendizagem integrada de conteúdos e línguas estrangeiras – uma análise que se impõe na nossa realidade educacional",
+      "url": "https://www.opais.ao/opiniao/a-abordagem-da-metodologia-da-aprendizagem-integrada-de-conteudos-e-linguas-estrangeiras-uma-analise-que-se-impoe-na-nossa-realidade-educacional/",
       "source": "O País",
-      "_key": "f6960176332a70bc"
+      "_key": "65a4796cc3cf858c"
     },
     {
-      "title": "Artistas homenageiam Bel Neto com recital de poesia",
-      "url": "https://www.opais.ao/cultura/artistas-homenageiam-bel-neto-com-recital-de-poesia/",
+      "title": "Vice-presidente da República orienta Sessão Ordinária do Conselho de Viação e Trânsito",
+      "url": "https://www.opais.ao/politica/vice-presidente-da-republica-orienta-sessao-ordinaria-do-conselho-de-viacao-e-transito/",
       "source": "O País",
-      "_key": "02ae318970f0787c"
+      "_key": "d7dc6b5caabb1faa"
     },
     {
-      "title": "José Saramago deixa de ser leitura obrigatória no ensino português",
-      "url": "https://www.opais.ao/cultura/jose-saramago-deixa-de-ser-leitura-obrigatoria-no-ensino-portugues/",
+      "title": "Detido cidadão por tentativa de transporte ilícito de 15 mil dólares‎",
+      "url": "https://www.opais.ao/ultimas_hora/detido-cidadao-por-tentativa-de-transporte-ilicito-de-15-mil-dolares/",
       "source": "O País",
-      "_key": "1ec02b7ef1f85238"
+      "_key": "5fc1b8789e8bbe7a"
     },
     {
-      "title": "Grupo musical “OHALI” representa cultura angolana num dos maiores festivais internacionais africanos",
-      "url": "https://www.opais.ao/cultura/grupo-musical-ohali-representa-cultura-angolana-num-dos-maiores-festivais-internacionais-africanos/",
+      "title": "OMA destaca participação da mulher moçambicana na luta pela igualdade de género em África",
+      "url": "https://www.opais.ao/politica/oma-destaca-participacao-da-mulher-mocambicana-na-luta-pela-igualdade-de-genero-em-africa/",
       "source": "O País",
-      "_key": "fdedaf9d7228be91"
-    },
-    {
-      "title": "5ª edição do Doc Luanda adiada por falta de financiamento",
-      "url": "https://www.opais.ao/cultura/5a-edicao-do-doc-luanda-adiada-por-falta-de-financiamento/",
-      "source": "O País",
-      "_key": "1bb536d496a43512"
-    },
-    {
-      "title": "Dom Caetano destaca semba como impulsionador da cultura angolana no exterior",
-      "url": "https://www.opais.ao/cultura/dom-caetano-destaca-semba-como-impulsionador-da-cultura-angolana-no-exterior/",
-      "source": "O País",
-      "_key": "cba58655a1e82f58"
-    },
-    {
-      "title": "Jogos Escolares: Atletas visitam projecto agrícola no Lôvua",
-      "url": "https://www.opais.ao/desporto/jogos-escolares-atletas-visitam-projecto-agricola-no-lovua/",
-      "source": "O País",
-      "_key": "b3c89a28d42f7510"
-    },
-    {
-      "title": "Palancas Negras podem cruzar com “tubarões” nas eliminatórias de acesso ao CAN 2027",
-      "url": "https://www.opais.ao/desporto/palancas-negras-podem-cruzar-com-tubaroes-nas-eliminatorias-de-acesso-ao-can-2027/",
-      "source": "O País",
-      "_key": "bd53755dc4724ca5"
+      "_key": "5ff842e466e3f28a"
     }
   ]
 }
