@@ -1,104 +1,716 @@
 {
-  "date": "2026-04-07",
-  "total_extracted": 1651,
-  "total_new": 16,
-  "total_existing": 1635,
+  "date": "2026-04-08",
+  "total_extracted": 1644,
+  "total_new": 118,
+  "total_existing": 1526,
   "articles": [
     {
-      "title": "Angola's first gold refinery kicks off production this year",
-      "url": "https://www.angop.ao/en/noticias/economia/primeira-refinaria-de-ouro-de-angola-inicia-producao-no-primeiro-semestre/",
+      "title": "João Lourenço sends message of condolence to Algerian counterpart",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-endereca-condolencias-pela-morte-de-antigo-chefe-de-estado-argelino/",
       "source": "ANGOP",
-      "_key": "6b6cf17892febccc"
+      "_key": "d47033e0e2624cce"
     },
     {
-      "title": "Government begins restoration of timber industry",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-inicia-restauracao-da-industria-madeireira/",
+      "title": "Angolan doctors return from scholarships",
+      "url": "https://www.angop.ao/en/noticias/saude/catorze-bolseiros-em-especializacao-regressam-ao-pais/",
       "source": "ANGOP",
-      "_key": "0f08d17ccf445622"
+      "_key": "73a78cd5f86828d8"
     },
     {
-      "title": "Timber",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=20834",
+      "title": "Angola reinforces strategies to increase vaccination coverage for children",
+      "url": "https://www.angop.ao/en/noticias/saude/governo-reforca-aposta-na-vacinacao-para-alcancar-criancas-sem-qualquer-dose/",
       "source": "ANGOP",
-      "_key": "7918c2471ded9d67"
+      "_key": "3dce6d46d06beb1c"
     },
     {
-      "title": "Criminal Investigation denies rumors about genital organs trafficking in Moxico",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-desmente-alegada-rede-de-trafico-de-orgaos-genitais-no-moxico/",
+      "title": "Health Ministry",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3093",
       "source": "ANGOP",
-      "_key": "58a1db6e288bef0f"
+      "_key": "79c6112ab15f3967"
     },
     {
-      "title": "Cabinda governor reiterates support for former combatants",
-      "url": "https://www.angop.ao/en/noticias/sociedade/governadora-de-cabinda-reitera-apoio-aos-antigos-combatentes/",
+      "title": "MPs defend increased investment in energy and water",
+      "url": "https://www.angop.ao/en/noticias/economia/deputados-defendem-reforco-de-investimento-nos-sectores-da-energia-e-agua/",
       "source": "ANGOP",
-      "_key": "0b7fcffbb4fa5ac0"
+      "_key": "d90819ad95f831c2"
     },
     {
-      "title": "Lukamba Gato acusa TPA de sensacionalismo na abordagem à morte de Jonas Savimbi",
-      "url": "https://angola24horas.com/politica/item/34077-lukamba-gato-acusa-tpa-de-sensacionalismo-na-abordagem-a-morte-de-jonas-savimbi",
+      "title": "Energia eléctrica e água",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=53978",
+      "source": "ANGOP",
+      "_key": "cfb95583f4194d5e"
+    },
+    {
+      "title": "ANAC calls for promotion of investment plans for country",
+      "url": "https://www.angop.ao/en/noticias/economia/anac-recomenda-promocao-de-planos-de-investimentos-para-o-pais/",
+      "source": "ANGOP",
+      "_key": "fa3fb754e1d56ffe"
+    },
+    {
+      "title": "TAAG promotes new destinations at FITUR in Madrid",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-promove-novos-destinos-na-feira-internacional-do-turismo-em-madrid/",
+      "source": "ANGOP",
+      "_key": "c5b608fdfbb670a1"
+    },
+    {
+      "title": "Trump aceita suspender ataques ao Irão por duas semanas",
+      "url": "https://angola24horas.com/internacional/item/34083-trump-aceita-suspender-ataques-ao-irao-por-duas-semanas",
       "source": "Angola 24 Horas",
-      "_key": "0c12441f67940e70"
+      "_key": "eeb578624173e91f"
     },
     {
-      "title": "Defesa de Osvaldo Caholo levanta dúvidas sobre imparcialidade da justiça em vespéra da terceira sessão",
-      "url": "https://correiokianda.info/defesa-de-osvaldo-caholo-levanta-duvidas-sobre-imparcialidade-da-justica-em-vespera-da-terceira-sessao/",
+      "title": "Governo defende produção nacional de medicamentos para reduzir dependência externa",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34079-governo-defende-producao-nacional-de-medicamentos-para-reduzir-dependencia-externa",
+      "source": "Angola 24 Horas",
+      "_key": "d681e34ef27e25cf"
+    },
+    {
+      "title": "João Lourenço aprova investimento de 262 milhões de euros em projetos de água para Luanda",
+      "url": "https://angola24horas.com/component/k2/item/34080-joao-lourenco-aprova-investimento-de-262-milhoes-de-euros-em-projetos-de-agua-para-luanda",
+      "source": "Angola 24 Horas",
+      "_key": "fb1fdcdfbee99d6a"
+    },
+    {
+      "title": "Entre a Paz Proclamada e a Realidade Sofrida.",
+      "url": "https://angola24horas.com/opiniao/item/34082-entre-a-paz-proclamada-e-a-realidade-sofrida",
+      "source": "Angola 24 Horas",
+      "_key": "76eeb4e88fd283b5"
+    },
+    {
+      "title": "UNITA pede responsabilização de gestores de projetos que podiam evitar tragédia das chuvas",
+      "url": "https://angola24horas.com/politica/item/34081-unita-pede-responsabilizacao-de-gestores-de-projetos-que-podiam-evitar-tragedia-das-chuvas",
+      "source": "Angola 24 Horas",
+      "_key": "734ed3409dc23439"
+    },
+    {
+      "title": "Angola e Namíbia apostam na interligação eléctrica para dinamizar a economia regional",
+      "url": "https://angola24horas.com/sociedade/item/34078-angola-e-namibia-apostam-na-interligacao-electrica-para-dinamizar-a-economia-regional",
+      "source": "Angola 24 Horas",
+      "_key": "263a2f1ade4f278a"
+    },
+    {
+      "title": "Sobe para 45 o número de mortos causados pelas chuvas em Angola",
+      "url": "https://angola24horas.com/sociedade/item/34075-sobe-para-45-o-numero-de-mortos-causados-pelas-chuvas-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "e1c9f475b94a28cf"
+    },
+    {
+      "title": "OMA mobiliza-se e manifesta solidariedade às vítimas das chuvas",
+      "url": "https://correiokianda.info/oma-mobiliza-se-e-manifesta-solidariedade-as-vitimas-das-chuvas/",
       "source": "Correio Kianda",
-      "_key": "ab2d09bdcad9c12a"
+      "_key": "a7368949540da676"
     },
     {
-      "title": "João Lourenço promete assistência imediata às vítimas das chuvas em Angola",
-      "url": "https://diariodosnegocios.com/joao-lourenco-promete-assistencia-imediata-as-vitimas-das-chuvas-em-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "2955f2115a2702ad"
+      "title": "UNITA defende responsabilização civil e criminal de gestores que não cumprem com os projectos",
+      "url": "https://correiokianda.info/unita-defende-responsabilizacao-civil-e-criminal-de-gestores-que-nao-cumprem-com-os-projectos/",
+      "source": "Correio Kianda",
+      "_key": "1f02bee76ae1ba93"
     },
     {
-      "title": " João Lourenço promete assistência imediata às vítimas das chuvas em Angola ",
+      "title": "Brent cai mais de 15% após trégua temporária entre EUA e Irão",
+      "url": "https://correiokianda.info/brent-cai-mais-de-15-apos-tregua-temporaria-entre-eua-e-irao/",
+      "source": "Correio Kianda",
+      "_key": "9965954f6badcc4f"
+    },
+    {
+      "title": "Sobe para 39, número de mortes das chuvas do fim-de-semana",
+      "url": "https://correiokianda.info/sobe-para-39-numero-de-mortes-das-chuvas-do-fim-de-semana/",
+      "source": "Correio Kianda",
+      "_key": "26e7edb83d571b12"
+    },
+    {
+      "title": "Despiste seguido de capotamento faz dois mortos e três feridos em Catete",
+      "url": "https://correiokianda.info/despiste-seguido-de-capotamento-faz-dois-mortos-e-tres-feridos-em-catete/",
+      "source": "Correio Kianda",
+      "_key": "78e1f73ff260fc95"
+    },
+    {
+      "title": "“Inundações em Luanda estarão resolvidas com a conclusão das obras de macrodrenagem”, diz Luís Nunes",
+      "url": "https://correiokianda.info/problemas-de-inundacoes-em-luanda-estarao-resolvidos-com-a-conclusao-das-obras-de-macrodrenagem-diz-luis-nunes/",
+      "source": "Correio Kianda",
+      "_key": "3c3b4b046b469190"
+    },
+    {
+      "title": "Minsa reduz para menos de 50% número de vagas para novos profissionais do sector ",
+      "url": "https://correiokianda.info/minsa-reduz-para-menos-de-50-numero-de-vagas-para-novos-profissionais-do-sector/",
+      "source": "Correio Kianda",
+      "_key": "875286e2a0786a00"
+    },
+    {
+      "title": "Trump aceita cessar-fogo de última hora com o Irão",
+      "url": "https://correiokianda.info/trump-aceita-cessar-fogo-de-ultima-hora-com-o-irao/",
+      "source": "Correio Kianda",
+      "_key": "50e7ad5034264530"
+    },
+    {
+      "title": "Irão aceita cessar-fogo condicionado e admite abertura temporária do Estreito de Ormuz",
+      "url": "https://correiokianda.info/irao-aceita-cessar-fogo-condicionado-e-admite-abertura-temporaria-do-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "43bc5f20019e225f"
+    },
+    {
+      "title": "Trump suspende “bombardeios e ataques” ao Irão. Países do Golfo mantém defesas aéreas activas",
+      "url": "https://correiokianda.info/trump-suspende-bombardeios-e-ataques-ao-irao-paises-do-golfo-mantem-defesas-aereas-activas/",
+      "source": "Correio Kianda",
+      "_key": "25b9eda86b2df270"
+    },
+    {
+      "title": "Missão Artemis II: astronautas iniciam viagem de regresso à Terra",
+      "url": "https://correiokianda.info/missao-artemis-ii-astronautas-iniciam-viagem-de-regresso-a-terra/",
+      "source": "Correio Kianda",
+      "_key": "b2f9e1ea938c887a"
+    },
+    {
+      "title": "Vice-Presidente dos EUA assume diplomacia e faz último apelo ao Irão antes do ultimato de Trump",
+      "url": "https://correiokianda.info/vice-presidente-dos-eua-assume-diplomacia-e-faz-ultimo-apelo-ao-irao-antes-do-ultimato-de-trump/",
+      "source": "Correio Kianda",
+      "_key": "559e225b9ebf8fed"
+    },
+    {
+      "title": "FAF apresenta novo seleccionador dos Palancas Negras esta quinta-feira",
+      "url": "https://correiokianda.info/faf-apresenta-novo-seleccionador-dos-palancas-negras-esta-quinta-feira/",
+      "source": "Correio Kianda",
+      "_key": "c8ecf70da5006b0e"
+    },
+    {
+      "title": "Combater a pobreza exige mais que dar dinheiro",
+      "url": "https://correiokianda.info/combater-a-pobreza-exige-mais-que-dar-dinheiro/",
+      "source": "Correio Kianda",
+      "_key": "d9b8fc86b20d0574"
+    },
+    {
+      "title": "Número de passageiros cresce 4% para quase 3 milhões em 2025",
+      "url": "https://expansao.co.ao/angola/detalhe/numero-de-passageiros-cresce-4-para-quase-3-milhoes-em-2025-70970.html",
+      "source": "Expansão",
+      "_key": "4b66e79337383065"
+    },
+    {
+      "title": "Angola contrai empréstimo de 210,4 milhões USD junto do BAD para impulsionar agricultura no leste",
+      "url": "https://expansao.co.ao/economia/detalhe/angola-contrai-emprestimo-de-2104-milhoes-usd-junto-do-bad-para-impulsionar-agricultura-no-leste-70974.html",
+      "source": "Expansão",
+      "_key": "e9d4fc7f55611c5b"
+    },
+    {
+      "title": "Preços do petróleo e gás afundam após Trump anunciar cessar-fogo de duas semanas",
+      "url": "https://expansao.co.ao/economia/detalhe/precos-do-petroleo-e-gas-afundam-apos-trump-anunciar-cessar-fogo-de-duas-semanas-70973.html",
+      "source": "Expansão",
+      "_key": "4e7d18465142866a"
+    },
+    {
+      "title": "Portos de Cabo Verde assina contrato de construção de navio para transporte Interilhas de 17 milhões de euros",
+      "url": "https://forbesafricalusofona.com/portos-de-cabo-verde-assina-contrato-de-construcao-de-navio-para-transporte-interilhas-de-17-milhoes-de-euros/",
+      "source": "Forbes África",
+      "_key": "ce879950bd4e8afc"
+    },
+    {
+      "title": "TAAG garante retoma de voos regulares entre Angola e Cabo Verde este ano",
+      "url": "https://forbesafricalusofona.com/taag-garante-retoma-de-voos-regulares-entre-angola-e-cabo-verde-este-ano/",
+      "source": "Forbes África",
+      "_key": "0c32e27300d71cc4"
+    },
+    {
+      "title": "Médicos lusófonos apelam mais divulgação pública da doença falciforme",
+      "url": "https://forbesafricalusofona.com/medicos-lusofonos-apelam-mais-divulgacao-publica-da-doenca-falciforme/",
+      "source": "Forbes África",
+      "_key": "7d6f0d7568694fbe"
+    },
+    {
+      "title": "Investimento estrangeiro em Moçambique aumenta 69% para 4 milhões de euros em nove meses",
+      "url": "https://forbesafricalusofona.com/investimento-estrangeiro-em-mocambique-aumenta-69-para-4-milhoes-em-nove-meses/",
+      "source": "Forbes África",
+      "_key": "12dd1db35d2eef4d"
+    },
+    {
+      "title": "Exportação de tabacos em Moçambique sobe 224 milhões de euros em 2025",
+      "url": "https://forbesafricalusofona.com/exportacao-de-tabacos-em-mocambique-sobe-224-milhoes-de-euros-em-2025/",
+      "source": "Forbes África",
+      "_key": "d85ddb7efa7f17c9"
+    },
+    {
+      "title": "Adalberto Costa Júnior solidariza-se com vítimas das chuvas e propõe novo ordenamento territorial",
+      "url": "https://holdonangola.com/adalberto-costa-junior-solidariza-se-com-vitimas-das-chuvas-e-propoe-novo-ordenamento-territorial/",
+      "source": "Hold On Angola",
+      "_key": "bac00449d2bae61f"
+    },
+    {
+      "title": "Sobe para 42 o número de mortos causados pelas chuvas em Angola",
+      "url": "https://holdonangola.com/sobe-para-42-o-numero-de-mortos-causados-pelas-chuvas-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "713d175debcea2ef"
+    },
+    {
+      "title": "Lukamba “Gato” apela a maior prudência editorial da TPA em matérias sensíveis",
+      "url": "https://holdonangola.com/lukamba-gato-apela-a-maior-prudencia-editorial-da-tpa-em-materias-sensiveis/",
+      "source": "Hold On Angola",
+      "_key": "ea3de12c801dded7"
+    },
+    {
+      "title": "Brasil e Angola reforçam agenda bilateral e confirmam…",
+      "url": "https://holdonangola.com/brasil-e-angola-reforcam-agenda-bilateral-e-confirmam-participacao-na-zopacas/",
+      "source": "Hold On Angola",
+      "_key": "e884649d78382ed5"
+    },
+    {
+      "title": "João Lourenço expressa condolências pelas chuvas em Angola",
+      "url": "https://holdonangola.com/joao-lourenco-expressa-condolencias-pelas-chuvas-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "d5c84dde035d9082"
+    },
+    {
+      "title": "Angola assume dívida de 25 milhões de euros para reabilitação rodoviária no Huambo e Huíla",
+      "url": "https://holdonangola.com/angola-assume-divida-de-25-milhoes-de-euros-para-reabilitacao-rodoviaria-no-huambo-e-huila/",
+      "source": "Hold On Angola",
+      "_key": "20d63c1a2fb14935"
+    },
+    {
+      "title": "SleepyThePrince lança single “DILEMA” em todas plataformas",
+      "url": "https://holdonangola.com/sleepytheprince-lanca-single-dilema-em-todas-plataformas/",
+      "source": "Hold On Angola",
+      "_key": "7baf01a396ec94f9"
+    },
+    {
+      "title": "Conselho de Segurança Nacional do Irão aceita cessar-fogo de 2 semanas",
+      "url": "https://jornaloguardiao.com/2026/04/08/conselho-de-seguranca-nacional-do-irao-aceita-cessar-fogo-de-2-semanas/",
+      "source": "Jornal O Guardião",
+      "_key": "da16ddacd87cc261"
+    },
+    {
+      "title": "Trump aceita suspender ataques ao Irão por duas semanas",
+      "url": "https://jornaloguardiao.com/2026/04/08/trump-aceita-suspender-ataques-ao-irao-por-duas-semanas/",
+      "source": "Jornal O Guardião",
+      "_key": "f1c57c169c7ce50e"
+    },
+    {
+      "title": "Petróleo cai mais de 15% para abaixo dos 100 dólares após anúncio de cessar-fogo no Irão",
+      "url": "https://jornaloguardiao.com/2026/04/08/petroleo-cai-mais-de-15-para-abaixo-dos-100-dolares-apos-anuncio-de-cessar-fogo-no-irao/",
+      "source": "Jornal O Guardião",
+      "_key": "3c02032f554e14c8"
+    },
+    {
+      "title": "PR angolano autoriza despesa de 262 ME em projetos de água para Luanda",
+      "url": "https://jornaloguardiao.com/2026/04/08/pr-angolano-autoriza-despesa-de-262-me-em-projetos-de-agua-para-luanda/",
+      "source": "Jornal O Guardião",
+      "_key": "ef31fc8afbfb0e65"
+    },
+    {
+      "title": "Subiu para 45 número de mortes em consequência das chuvas em Angola",
+      "url": "https://jornaloguardiao.com/2026/04/08/subiu-para-45-numero-de-mortes-em-consequencia-das-chuvas-em-angola/",
+      "source": "Jornal O Guardião",
+      "_key": "21507904ad2b85c5"
+    },
+    {
+      "title": "TAAG realiza primeiro voo comercial para Abidjan e reforça conectividade regional",
+      "url": "https://jornaloguardiao.com/2026/04/07/taag-realiza-primeiro-voo-comercial-para-abidjan-e-reforca-conectividade-regional/",
+      "source": "Jornal O Guardião",
+      "_key": "65b3ce5373dcd812"
+    },
+    {
+      "title": "Israel afirma que respeitará o cessar-fogo no Irão mas exclui o Líbano",
+      "url": "https://jornaloguardiao.com/2026/04/08/israel-afirma-que-respeitara-o-cessar-fogo-no-irao-mas-exclui-o-libano/",
+      "source": "Jornal O Guardião",
+      "_key": "eb023ee840924c24"
+    },
+    {
+      "title": "Irão: Vice-presidente dos EUA, JD Vance, participará nas próximas conversações — CNN",
+      "url": "https://jornaloguardiao.com/2026/04/08/irao-vice-presidente-dos-eua-jd-vance-participara-nas-proximas-conversacoes-cnn/",
+      "source": "Jornal O Guardião",
+      "_key": "e9c1b3f8b34b0d05"
+    },
+    {
+      "title": "Rússia está a receber “enorme quantidade” de pedidos de energia – Moscovo",
+      "url": "https://jornaloguardiao.com/2026/04/07/russia-esta-a-receber-enorme-quantidade-de-pedidos-de-energia-moscovo/",
+      "source": "Jornal O Guardião",
+      "_key": "5d8da25759450ba7"
+    },
+    {
+      "title": "Quarta-feira, 8 de Abril, 2026",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_38489f46040810"
+      "source": "Jornal O Guardião",
+      "_key": "t_bc9b9d6f4e5b71"
     },
     {
-      "title": "Sociedade Comité de Reforma do Sector Eléctrico analisa desafios estruturais ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673227/comit%C3%A9-de-reforma-do-sector-el%C3%A9ctrico-analisa-desafios-estruturais",
+      "title": " Conselho de Segurança Nacional do Irão aceita cessar-fogo de 2 semanas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f486f1fdc56796"
+    },
+    {
+      "title": " Trump aceita suspender ataques ao Irão por duas semanas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7d1685190305f5"
+    },
+    {
+      "title": " Petróleo cai mais de 15% para abaixo dos 100 dólares após anúncio de cessar-fogo no Irão ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_faf24aa21c8c5e"
+    },
+    {
+      "title": " PR angolano autoriza despesa de 262 ME em projetos de água para Luanda ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_00831a4bd30f8e"
+    },
+    {
+      "title": " Subiu para 45 número de mortes em consequência das chuvas em Angola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_61de95dc9cc8df"
+    },
+    {
+      "title": " TAAG realiza primeiro voo comercial para Abidjan e reforça conectividade regional ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_1272f505137831"
+    },
+    {
+      "title": " Israel afirma que respeitará o cessar-fogo no Irão mas exclui o Líbano ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9d3a36f803a55f"
+    },
+    {
+      "title": " Irão: Vice-presidente dos EUA, JD Vance, participará nas próximas conversações — CNN ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_da7d0b851d9b4b"
+    },
+    {
+      "title": " Rússia está a receber “enorme quantidade” de pedidos de energia – Moscovo ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_203d612052616c"
+    },
+    {
+      "title": "Índice de mortalidade materna infantil em Angola regista queda A ministra da Saúde, Sílvia Lutucuta, anunciou, terça-feira, em Luanda, que já se encontra definido o calendário para novas rondas de vacinação contra a poliomielite, reafirmando o compromisso das autoridades em garantir a cobertura vacinal universal.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/673240/%C3%ADndice-de-mortalidade-materna-infantil-em-angola-regista-queda",
       "source": "Jornal de Angola",
-      "_key": "639241047da3ca2a"
+      "_key": "80c76617b8e4f1ac"
     },
     {
-      "title": "Mundo Qatar alerta que Médio Oriente está \"fora de controlo\" ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673225/qatar-alerta-que-m%C3%A9dio-oriente-est%C3%A1-%22fora-de-controlo%22",
+      "title": "Destaque Petróleo cai para 92 dólares após anúncio de cessar-fogo no IrãoO barril de petróleo Brent, que serve de referência às exportações angolanas caiu, esta quarta-feira, mais de 15,03%, fixando-se nos 92,85 dólares, depois de Donald Trump ter adiado o ultimato ao Irão.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673239/petr%C3%B3leo-cai-para-92-d%C3%B3lares-ap%C3%B3s-an%C3%BAncio-de-cessar-fogo-no-ir%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "ec4d590cda6dda91"
+      "_key": "f7431b899d820be6"
     },
     {
-      "title": "15:32 / 7 abr. 2026 NASA e Casa Branca partilham imagens inusitadas da Lua ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673226/nasa-e-casa-branca-partilham-imagens-inusitadas-da-lua",
+      "title": "Destaque Donald Trump anuncia suspensão de cessar-fogo dos ataques ao Irão O Presidente dos Estados Unidos da América, Donald Trump, anunciou, esta terça-feira, numa publicação na Truth Social, a suspensão por um prazo de duas semanas dos ataques ao Irão.",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673237/donald-trump-anuncia-suspens%C3%A3o-de-cessar-fogo--dos-ataques-ao-ir%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "a2ef5d750ef83c88"
+      "_key": "de471bdc5a4feebe"
     },
     {
-      "title": "15:06 / 7 abr. 2026 Moçambique regista mais de oito mil casos de cólera ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673224/mo%C3%A7ambique-regista-mais-de-oito-mil-casos-de-c%C3%B3lera",
+      "title": "Destaque Angolanos nos EAU e países da região seguem orientações das autoridadesOs angolanos residentes nos Emirados Árabes Unidos (EAU) e países da região como Bahrein e Kuwait seguem as orientações das autoridades diplomáticas, na sequência das tensões naquela região do Médio Oriente. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673255/angolanos-nos-eau-e-pa%C3%ADses-da-regi%C3%A3o-seguem-orienta%C3%A7%C3%B5es-das-autoridades",
       "source": "Jornal de Angola",
-      "_key": "97fccced8385928a"
+      "_key": "c38c49636ece5b44"
     },
     {
-      "title": "Luanda: Detido grupo criminoso que fazia assaltos à...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-detido-grupo-criminoso-que-fazia-assaltos-a-mao-armada-e-deixou-um-seguranca-em-coma-70964.html",
+      "title": "Presidente João Lourenço expressa condolências ao homólogo argelinoO Presidente da República, João Lourenço, endereçou, terça-feira, uma mensagem de condolências ao homólogo argelino, Abdelmajid Tebboune, pelo passamento físico de Liamine Zeroual, antigo Chefe de Estado daquele país do Norte de África.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673244/presidente-jo%C3%A3o-louren%C3%A7o-expressa-condol%C3%AAncias-ao-hom%C3%B3logo-argelino",
+      "source": "Jornal de Angola",
+      "_key": "10362622a67a5e63"
+    },
+    {
+      "title": "Mundo Trump suspende ataques contra o Irão ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673275/trump-suspende--ataques-contra-o-ir%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "699f70bffa0b6748"
+    },
+    {
+      "title": "Política Países da SADC devem reforçar laços para lidar com os conflitos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673272/pa%C3%ADses-da-sadc-devem-refor%C3%A7ar-la%C3%A7os-para-lidar-com-os-conflitos",
+      "source": "Jornal de Angola",
+      "_key": "0c9cb57bcbb83d47"
+    },
+    {
+      "title": "Política Especialistas angolanos alertam Angola e região para diversificarem economia ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673271/especialistas-angolanos-alertam-angola-e-regi%C3%A3o-para-diversificarem-economia",
+      "source": "Jornal de Angola",
+      "_key": "6c79facaad2f1c20"
+    },
+    {
+      "title": "Sociedade Delegação do Vaticano avalia as obras na vila da Muxima ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673269/delega%C3%A7%C3%A3o--do-vaticano-avalia-as-obras-na-vila-da-muxima",
+      "source": "Jornal de Angola",
+      "_key": "b80800f7d3097e15"
+    },
+    {
+      "title": "Economia Refinaria de ouro entra em operações este ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673266/refinaria-de-ouro-entra--em-opera%C3%A7%C3%B5es-este-ano",
+      "source": "Jornal de Angola",
+      "_key": "3b246ed8ee69ece3"
+    },
+    {
+      "title": "Política Executivo reforça assistência aos antigos combatentes ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673261/executivo-refor%C3%A7a-assist%C3%AAncia-aos-antigos-combatentes-",
+      "source": "Jornal de Angola",
+      "_key": "1439b6c789df82fc"
+    },
+    {
+      "title": "Sociedade INAC destaca avanços na protecção infantil ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673254/inac-destaca-avan%C3%A7os-na-protec%C3%A7%C3%A3o-infantil",
+      "source": "Jornal de Angola",
+      "_key": "652d5973b7f87757"
+    },
+    {
+      "title": "Economia Aviação Civil desempenha papel de plataforma regional de mobilidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673250/avia%C3%A7%C3%A3o-civil-desempenha-papel-de-plataforma-regional-de-mobilidade",
+      "source": "Jornal de Angola",
+      "_key": "69363922a354fec1"
+    },
+    {
+      "title": "Política Paz e reconciliação devem estar na agenda da juventude angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673245/paz-e-reconcilia%C3%A7%C3%A3o-devem-estar-na-agenda-da-juventude-angolana",
+      "source": "Jornal de Angola",
+      "_key": "0beb1abee3c937b5"
+    },
+    {
+      "title": "Mundo Irão aceita proposta de cessar-fogo de duas semanas ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673238/ir%C3%A3o-aceita-proposta-de-cessar-fogo-de-duas-semanas-",
+      "source": "Jornal de Angola",
+      "_key": "3fc88eb03f9d45d0"
+    },
+    {
+      "title": "Mundo Rússia e China bloqueiam resolução da ONU que exigia reabertura de Ormuz ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673234/r%C3%BAssia-e-china-bloqueiam-resolu%C3%A7%C3%A3o-da-onu-que-exigia-reabertura-de-ormuz",
+      "source": "Jornal de Angola",
+      "_key": "0381a9a7c51395b1"
+    },
+    {
+      "title": "Economia Realçado contributo do trabalhador mineiro ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673232/real%C3%A7ado-contributo-do-trabalhador-mineiro-",
+      "source": "Jornal de Angola",
+      "_key": "9b363e26cc0eb521"
+    },
+    {
+      "title": "19:40 / 7 abr. 2026 FAF apresenta Seleccionador Nacional quinta-feira ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/673236/faf-apresenta-seleccionador-nacional-quinta-feira",
+      "source": "Jornal de Angola",
+      "_key": "8d632cf5aab9a98f"
+    },
+    {
+      "title": "A festa da vacinação para proteger o futuro",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/673247/a-festa-da-vacina%C3%A7%C3%A3o--para-proteger-o-futuro",
+      "source": "Jornal de Angola",
+      "_key": "9a8ac0798b0aa0db"
+    },
+    {
+      "title": "Gente07/04/2026Projecto Marcantes regressa dia 25 com foco no empoderamento das mulheresA terceira edição do Projecto Marcantes vai realizar-se, no próximo dia 25, em Luanda, como uma experiência imersiva desenvolvida para mulheres que buscam alinhar identidade, comportamento e posicionamento com base em estratégias de gestão da marca pessoal. ",
+      "url": "https://www.jornaldeangola.ao/noticias/11/gente/673233/projecto-marcantes-regressa-dia-25-com-foco-no-empoderamento-das-mulheres",
+      "source": "Jornal de Angola",
+      "_key": "71f75b557ff0de8b"
+    },
+    {
+      "title": "Gente Premium 07/04/2026Higineth Pinto lança obra “Lenine” A gestora Ambiental e Social, Higineth Pinto lança no sábado, 11, às 16h00, em Luanda, a primeira obra intitulada “Lenine”.",
+      "url": "https://www.jornaldeangola.ao/noticias/11/gente/673214/higineth-pinto-lan%C3%A7a-obra-%E2%80%9Clenine%E2%80%9D--",
+      "source": "Jornal de Angola",
+      "_key": "b11c09dc27c911ad"
+    },
+    {
+      "title": "Mundo07/04/2026Impasse na reabertura de estreito de Ormuz motiva ultimato de Trump",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673230/impasse-na-reabertura-de-estreito-de-ormuz-motiva-ultimato-de-trump",
+      "source": "Jornal de Angola",
+      "_key": "9d95fb0dd71853ae"
+    },
+    {
+      "title": "Médio Oriente: EUA e Irão mergulham na paz por duas...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-eua-e-irao-mergulham-na-paz-por-duas-semanas-mas-israel-parece-pouco-convencido-mercados-petroliferos-mergulham-para-o-fundo-da-tabela-70976.html",
       "source": "Novo Jornal",
-      "_key": "9f279c33bf1e9e56"
+      "_key": "6a95e128ee2def5e"
     },
     {
-      "title": "Governador de Luanda constata situação social da capital após as fortes chuvas",
-      "url": "https://www.opais.ao/ultimas_hora/governador-de-luanda-constata-situacao-social-da-capital-apos-as-fortes-chuvas/",
-      "source": "O País",
-      "_key": "0e185e74b78428d1"
+      "title": "Médio Oriente: Trump recua e suspende ataques ao Irão...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-recua-e-suspende-ataques-ao-irao-por-duas-semanas-70972.html",
+      "source": "Novo Jornal",
+      "_key": "6ae35e60b137d6d0"
     },
     {
-      "title": "‎Governadora de Cabinda constata grau de execução das obras de estancamento de ravinas..",
-      "url": "https://www.opais.ao/ultimas_hora/governadora-de-cabinda-constata-grau-de-execucao-das-obras-de-estancamento-de-ravinas/",
+      "title": "Quando o bater da bola é diferente",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/quando-o-bater-da-bola-e-diferente-70977.html",
+      "source": "Novo Jornal",
+      "_key": "880b93d9093b5611"
+    },
+    {
+      "title": "Combate ao vandalismo e à corrupção entre as prioridades do novo titular da PGR na região centro",
+      "url": "https://www.opais.ao/sociedade/combate-ao-vandalismo-e-a-corrupcao-entre-as-prioridades-do-novo-titular-da-pgr-na-regiao-centro/",
       "source": "O País",
-      "_key": "44d11a1f1f854299"
+      "_key": "bd541644b5da8f14"
+    },
+    {
+      "title": "Recreativo do Libolo procura regresso às vitórias frente ao Petro de Luanda em Calulo",
+      "url": "https://www.opais.ao/desporto/recreativo-do-libolo-procura-regresso-as-vitorias-frente-ao-petro-de-luanda-em-calulo/",
+      "source": "O País",
+      "_key": "21ffbb293b474225"
+    },
+    {
+      "title": "Primeira refinaria de ouro de Angola inicia produção este ano",
+      "url": "https://www.opais.ao/economia/primeira-refinaria-de-ouro-de-angola-inicia-producao-este-ano/",
+      "source": "O País",
+      "_key": "b0118acd349cf18b"
+    },
+    {
+      "title": "Falhas no sistema paralisam registos civis em Luanda e geram enchentes na DNIRN",
+      "url": "https://www.opais.ao/sociedade/falhas-no-sistema-paralisam-registos-civis-em-luanda-e-geram-enchentes-na-dnirn/",
+      "source": "O País",
+      "_key": "c5e6cfd05246b46d"
+    },
+    {
+      "title": "Angola tem mais de 600 licenças emitidas para actividade mineira",
+      "url": "https://www.opais.ao/economia/angola-tem-mais-de-600-licencas-emitidas-para-actividade-mineira/",
+      "source": "O País",
+      "_key": "d99bfc6eca7ae7d2"
+    },
+    {
+      "title": "João Lourenço manifesta pesar pela morte do antigo Presidente da Argélia",
+      "url": "https://www.opais.ao/politica/joao-lourenco-manifesta-pesar-pela-morte-do-antigo-presidente-da-argelia/",
+      "source": "O País",
+      "_key": "543bcdf065c15d73"
+    },
+    {
+      "title": "Shopping Fortaleza e Centro Óptico promovem rastreios visuais e auditivos gratuitos",
+      "url": "https://www.opais.ao/ultimas_hora/shopping-fortaleza-e-centro-optico-promovem-rastreios-visuais-e-auditivos-gratuitos/",
+      "source": "O País",
+      "_key": "0a2fc44f3b1745ff"
+    },
+    {
+      "title": "Acidente rodoviário mata duas pessoas e deixa três feridos em Catete‎",
+      "url": "https://www.opais.ao/ultimas_hora/acidente-rodoviario-mata-duas-pessoas-e-deixa-tres-feridos-em-catete/",
+      "source": "O País",
+      "_key": "3560552be097def6"
+    },
+    {
+      "title": "Primeira refinaria de ouro de Angola pode entrar em funcionamento ainda este ano",
+      "url": "https://www.opais.ao/economia/primeira-refinaria-de-ouro-de-angola-pode-entrar-em-funcionamento-ainda-este-ano/",
+      "source": "O País",
+      "_key": "4045c68f3823e144"
+    },
+    {
+      "title": "Jovem angolano lança plataforma de combate a fraudes digitais em Angola",
+      "url": "https://www.opais.ao/sociedade/jovem-angolano-lanca-plataforma-de-combate-a-fraudes-digitais-em-angola/",
+      "source": "O País",
+      "_key": "2382f5d26ea15b2a"
+    },
+    {
+      "title": "Luanda acolhe 1.ª conferência internacional sobre gestão estratégica e PMO",
+      "url": "https://www.opais.ao/economia/luanda-acolhe-1-a-conferencia-internacional-sobre-gestao-estrategica-e-pmo/",
+      "source": "O País",
+      "_key": "6317bc7e99f6916f"
+    },
+    {
+      "title": "Ministra da Saúde destaca produção nacional para melhoria do sistema de saúde",
+      "url": "https://www.opais.ao/sociedade/ministra-da-saude-destaca-producao-nacional-para-melhoria-do-sistema-de-saude/",
+      "source": "O País",
+      "_key": "b3398bc1be3e4ca7"
+    },
+    {
+      "title": "Ministério do Interior alarga para mais 30 dias período de funcionamento do Centro de Apoio ao Utente",
+      "url": "https://www.opais.ao/politica/ministerio-do-interior-alarga-para-mais-30-dias-periodo-de-funcionamento-do-centro-de-apoio-ao-utente/",
+      "source": "O País",
+      "_key": "0bad0437de77beaa"
+    },
+    {
+      "title": "Carta do leitor: Vamos melhorar o nosso ambiente…",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-vamos-melhorar-o-nosso-ambiente/",
+      "source": "O País",
+      "_key": "f9b5a5754eb0efe2"
+    },
+    {
+      "title": "É de hoje…Virgens e pecadores",
+      "url": "https://www.opais.ao/opiniao/e-de-hojevirgens-e-pecadores/",
+      "source": "O País",
+      "_key": "c11c68eceb329fac"
+    },
+    {
+      "title": "Exemplo para África",
+      "url": "https://www.opais.ao/opiniao/exemplo-para-africa/",
+      "source": "O País",
+      "_key": "7711d4adf7989671"
+    },
+    {
+      "title": "Ministério da Energia e Águas avalia processo de reforma do sistema eléctrico nacional‎",
+      "url": "https://www.opais.ao/ultimas_hora/ministerio-da-energia-e-aguas-avalia-processo-de-reforma-do-sistema-electrico-nacional/",
+      "source": "O País",
+      "_key": "9ac41907f41fd8ef"
+    },
+    {
+      "title": "‎MININT entrega mais de dez mil passaportes electrónicos durante Programa de Apoio ao Utente",
+      "url": "https://www.opais.ao/ultimas_hora/minint-entrega-mais-de-dez-mil-passaportes-electronicos-durante-programa-de-apoio-ao-utente/",
+      "source": "O País",
+      "_key": "bf195e7020966ceb"
+    },
+    {
+      "title": "Tribunal de Contas reafirma missão constitucional de fiscalização da legalidade das finanças públicas e de julgamento das contas do Estado",
+      "url": "https://www.opais.ao/sociedade/tribunal-de-contas-reafirma-missao-constitucional-de-fiscalizacao-da-legalidade-das-financas-publicas-e-de-julgamento-das-contas-do-estado/",
+      "source": "O País",
+      "_key": "7dbdbcaf066b84a8"
+    },
+    {
+      "title": "Ex-alunos da UAN gratificam formação adquirida com doação de livros à Faculdade de Direito",
+      "url": "https://www.opais.ao/sociedade/ex-alunos-da-uan-gratificam-formacao-adquirida-com-doacao-de-livros-a-faculdade-de-direito/",
+      "source": "O País",
+      "_key": "23cf38a3e3158db5"
+    },
+    {
+      "title": "Real Madrid e Bayern München agitam “oitavos” da Liga dos Campeões",
+      "url": "https://www.opais.ao/desporto/real-madrid-e-bayern-munchen-agitam-oitavos-da-liga-dos-campeoes/",
+      "source": "O País",
+      "_key": "debe198c7dbe0ec0"
+    },
+    {
+      "title": "Credores internos frustram previsões do Governo",
+      "url": "https://valoreconomico.co.ao/artigo/credores-internos-frustram-previsoes-do-governo",
+      "source": "Valor Económico",
+      "_key": "92932a4f6fe9040b"
+    },
+    {
+      "title": "APEPA regista queda nas exportações de rochas ornamentais nos últimos...",
+      "url": "https://valoreconomico.co.ao/artigo/apepa-regista-queda-nas-exportacoes-de-rochas-ornamentais-nos-ultimos-dois-anos",
+      "source": "Valor Económico",
+      "_key": "4e9fab8d83effbe0"
+    },
+    {
+      "title": "Emprego industrial cai 2,71%, enquanto indústria extractiva mantém sector instável",
+      "url": "https://valoreconomico.co.ao/artigo/emprego-industrial-cai-2-71-enquanto-industria-extractiva-mantem-sector-instavel",
+      "source": "Valor Económico",
+      "_key": "90f5047fc315bcfd"
+    },
+    {
+      "title": "Sonangol volta a ‘engavetar’ concurso para importação de combustíveis",
+      "url": "https://valoreconomico.co.ao/artigo/sonangol-volta-a-engavetar-concurso-para-importacao-de-combustiveis",
+      "source": "Valor Económico",
+      "_key": "61c7fee3f21b6b0a"
+    },
+    {
+      "title": "Instituições financeiras com deficiências para travar branqueamento de capitais e...",
+      "url": "https://valoreconomico.co.ao/artigo/instituicoes-financeiras-com-deficiencias-para-travar-branqueamento-de-capitais-e-operacoes-suspeitas-disparam-mais-de-3-000",
+      "source": "Valor Económico",
+      "_key": "4ac795d9b5dd2d73"
+    },
+    {
+      "title": "GOVERNAR NÃO É PROIBIR E PROIBIR…",
+      "url": "https://valoreconomico.co.ao/artigo/governar-nao-e-proibir-e-proibir",
+      "source": "Valor Económico",
+      "_key": "13ebf26bfac75b79"
+    },
+    {
+      "title": "Governo prevê arranque da refinaria de ouro após falhar prazos...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-preve-arranque-da-refinaria-de-ouro-apos-falhar-prazos-anteriores",
+      "source": "Valor Económico",
+      "_key": "deb3260d29c6c832"
+    },
+    {
+      "title": "“Angola precisa de instituições financeiras não bancárias mais criativas e inovadoras”",
+      "url": "https://valoreconomico.co.ao/artigo/angola-precisa-de-instituicoes-financeiras-nao-bancarias-mais-criativas-e-inovadoras",
+      "source": "Valor Económico",
+      "_key": "19814f0150425958"
+    },
+    {
+      "title": "Download PDF",
+      "url": "https://valoreconomico.co.ao/uploads/files/2026/04/jornal-valor-economico-588-edicao-502.pdf",
+      "source": "Valor Económico",
+      "_key": "56ea9235c6b813a1"
     }
   ]
 }
