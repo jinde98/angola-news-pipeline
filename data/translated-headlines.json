@@ -1,24 +1,128 @@
 {
   "date": "2026-04-09",
-  "total_new": 46,
-  "total_filtered": 2,
-  "scored_by": "keyword",
+  "total_new": 50,
+  "total_filtered": 15,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Diamantino Azevedo constata andamento da construção do projecto Kaminho na ChinaA construção do projecto FSO Kaminho, destinado à actividade petrolífera offshore, na China, foi constatada, esta quinta-feira, pelo ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673387/diamantino-azevedo-constata-andamento-da-constru%C3%A7%C3%A3o-do-projecto-kaminho-na-china",
-      "source": "Jornal de Angola",
-      "_key": "7febf012138a164b",
-      "score": 7,
-      "title_cn": "矿产资源、石油和天然气部长 Diamantino Azevedo 周四证实了 FSO Kaminho 项目的建设 ， 该项目旨在在中国进行海上石油活动。"
+      "title": "Lobito Corridor to boost Angola and Tanzania cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/corredor-do-lobito-vai-impulsionar-cooperacao-entre-angola-e-tanzania/",
+      "source": "ANGOP",
+      "_key": "f2d075f0bdfa42b2",
+      "score": 9,
+      "title_cn": "洛比托走廊促进安哥拉和坦桑尼亚的合作"
     },
     {
-      "title": "Preços do petróleo voltam a subir mas mantêm-se abaixo dos 100 USD por barril",
-      "url": "https://expansao.co.ao/economia/detalhe/precos-do-petroleo-voltam-a-subir-mas-mantem-se-abaixo-dos-100-usd-por-barril-71001.html",
-      "source": "Expansão",
-      "_key": "b2d76b18efae3d9f",
+      "title": "Destaque Aberto concurso público internacional de concessão do Terminal de Águas Profundas do CaioO concurso público internacional para a concessão dos direitos de exploração, serviços de gestão e manutenção do Terminal de Águas Profundas do Caio, foi aberto, hoje, pelo ministro dos Transportes, Ricardo D' Abreu. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673404/aberto-concurso-p%C3%BAblico-internacional-de-concess%C3%A3o-do-terminal-de-%C3%A1guas-profundas-do-caio",
+      "source": "Jornal de Angola",
+      "_key": "d30749dcf7b7b9eb",
+      "score": 9,
+      "title_cn": "今天 ， 交通部长里卡多 · 达布雷乌 （ Ricardo D'Abreu ） 为授予卡约深水码头的勘探、管理和维护权而进行的国际公开招标。"
+    },
+    {
+      "title": "Petróleo: Depois da queda mais extraordinária em 35...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-depois-da-queda-mais-extraordinaria-em-35-anos-o-barril-esta-hoje-a-subir-normalmente-71016.html",
+      "source": "Novo Jornal",
+      "_key": "d466fba0e5a0953f",
+      "score": 9,
+      "title_cn": "原油价格 ： 经过 35 年来的最大跌幅..."
+    },
+    {
+      "title": "Ministério dos Transportes lança concurso público para concessão do terminal do Caio",
+      "url": "https://www.opais.ao/ultimas_hora/ministerio-dos-transportes-lanca-concurso-publico-para-concessao-do-terminal-do-caio/",
+      "source": "O País",
+      "_key": "c783824f8931ad54",
+      "score": 9,
+      "title_cn": "交通运输部启动 Caio 码头特许权公开招标"
+    },
+    {
+      "title": "Petróleo regista queda histórica e negoceia abaixo dos 100 dólares...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-regista-queda-historica-e-negoceia-abaixo-dos-100-dolares-apos-trump-anunciar-cessar-fogo",
+      "source": "Valor Económico",
+      "_key": "abfbfa6bbe4b16d6",
+      "score": 9,
+      "title_cn": "油价创历史新低 ， 跌破 100 美元"
+    },
+    {
+      "title": "Construção da plataforma do FPSO Kaminho de Angola atinge 50% de execução física",
+      "url": "https://forbesafricalusofona.com/construcao-da-plataforma-do-fpso-kaminho-de-angola-atinge-50-de-execucao-fisica/",
+      "source": "Forbes África",
+      "_key": "45293257578bd9b5",
+      "score": 8,
+      "title_cn": "安哥拉 Kaminho FPSO 平台建设实现 50% 物理运行"
+    },
+    {
+      "title": "Economia Suzana Abreu realça importância do Terminal de Águas Profundas do Caio ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673400/suzana-abreu-real%C3%A7a-import%C3%A2ncia-do-terminal-de-%C3%A1guas-profundas-do-caio",
+      "source": "Jornal de Angola",
+      "_key": "65986bd8dbf4ce27",
+      "score": 8,
+      "title_cn": "Suzana Abreu 强调 Caio 深水码头的重要性"
+    },
+    {
+      "title": "Fantasmas de Golpe de Estado assombram a Cidade…",
+      "url": "https://holdonangola.com/fantasmas-de-golpe-de-estado-assombram-a-cidade-alta-samussuku/",
+      "source": "Hold On Angola",
+      "_key": "913fa5678625f0a1",
+      "score": 7,
+      "title_cn": "政变的幽灵笼罩着这座城市。"
+    },
+    {
+      "title": "Trade volume between Angola and Nigeria estimated at USD 245 million",
+      "url": "https://www.angop.ao/en/noticias/economia/volume-de-negocios-entre-angola-e-nigeria-avaliado-em-245-milhoes-de-dolares/",
+      "source": "ANGOP",
+      "_key": "a14ef39d71132b27",
+      "score": 6,
+      "title_cn": "安哥拉和尼日利亚之间的贸易额估计为2.45亿美元"
+    },
+    {
+      "title": "João Lourenço aprova reabilitação de 212 km da estrada Mavinga-Rivungo",
+      "url": "https://correiokianda.info/joao-lourenco-aprova-reabilitacao-de-212-km-da-estrada-mavinga-rivungo/",
+      "source": "Correio Kianda",
+      "_key": "9ce9c50a0ec8c871",
+      "score": 6,
+      "title_cn": "João Lourenço 批准修复 Mavinga-Rivungo 公路 212 公里"
+    },
+    {
+      "title": "África Subsaariana cresce, mas enfrenta riscos de abrandamento económico",
+      "url": "https://forbesafricalusofona.com/africa-subsaariana-cresce-mas-enfrenta-riscos-de-abrandamento-economico/",
+      "source": "Forbes África",
+      "_key": "3b808ea80554e17e",
+      "score": 6,
+      "title_cn": "撒哈拉以南非洲经济增长 ， 但面临经济放缓风险"
+    },
+    {
+      "title": "Banco Mundial reduz crescimento na África subsaariana para 4,1% este ano",
+      "url": "https://forbesafricalusofona.com/banco-mundial-reduz-crescimento-na-africa-subsaariana-para-41-este-ano/",
+      "source": "Forbes África",
+      "_key": "da671693dae5d6f0",
+      "score": 6,
+      "title_cn": "世界银行将撒哈拉以南非洲经济增长率下调至 4.1%"
+    },
+    {
+      "title": "TAAG garante que Capitalização de 158,9 milhões de dólares irá...",
+      "url": "https://valoreconomico.co.ao/artigo/taag-garante-que-capitalizacao-de-158-9-milhoes-de-dolares-ira-reforcar-a-qualidade-do-servico-ao-cliente",
+      "source": "Valor Económico",
+      "_key": "84d48abc5f116ebe",
+      "score": 6,
+      "title_cn": "TAAG 保证 1.589 亿美元的资本化将..."
+    },
+    {
+      "title": "Vera Daves de Sousa defende exclusão de matérias penais da supervisão da CMC",
+      "url": "https://angola24horas.com/economia/item/34092-vera-daves-de-sousa-defende-exclusao-de-materias-penais-da-supervisao-da-cmc",
+      "source": "Angola 24 Horas",
+      "_key": "f749f58f0a3259b4",
       "score": 5,
-      "title_cn": "原油价格回升 ， 但仍低于每桶 100 美元"
+      "title_cn": "Vera Daves de Sousa 为将刑事案件排除在 CMC 监督之外辩护"
+    },
+    {
+      "title": "SIC detém sete efectivos em quatro províncias do País...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-detem-sete-efectivos-em-quatro-provincias-do-pais---agressao-fisica-extorsao-e-roubo-estao-entre-os-crimes-cometidos-pelos-agentes-71015.html",
+      "source": "Novo Jornal",
+      "_key": "79e8782c6d1328a5",
+      "score": 5,
+      "title_cn": "SIC 在该国四个省拥有 7 名工作人员。"
     }
   ]
 }
