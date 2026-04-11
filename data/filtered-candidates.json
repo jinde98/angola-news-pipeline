@@ -1,7 +1,29 @@
 {
   "date": "2026-04-11",
-  "total_new": 16,
-  "total_filtered": 0,
+  "total_new": 12,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "SIC detém 54 ex-militares por treinarem civis clandestinamente",
+      "url": "https://angola24horas.com/component/k2/item/34105-sic-detem-54-ex-militares-por-treinarem-civis-clandestinamente",
+      "source": "Angola 24 Horas",
+      "_key": "8b30814eb0152f55",
+      "score": 7
+    },
+    {
+      "title": "Sociedade Detidos 54 ex-militares em Luanda e na Lunda-Norte ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673567/detidos-54-ex-militares-em-luanda-e-na-lunda-norte",
+      "source": "Jornal de Angola",
+      "_key": "c73e55241ab480f8",
+      "score": 7
+    },
+    {
+      "title": "Angola propõe nova agenda estratégica para reforçar cooperação com a França",
+      "url": "https://www.opais.ao/politica/angola-propoe-nova-agenda-estrategica-para-reforcar-cooperacao-com-a-franca/",
+      "source": "O País",
+      "_key": "93750ceb8351de0d",
+      "score": 6
+    }
+  ]
 }

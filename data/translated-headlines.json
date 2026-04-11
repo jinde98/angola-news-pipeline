@@ -1,16 +1,32 @@
 {
   "date": "2026-04-11",
-  "total_new": 9,
-  "total_filtered": 1,
+  "total_new": 12,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Senhorios criticam impostos e Estado falha na formalização...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/senhorios-criticam-impostos-e-estado-falha-na-formalizacao-do-sector-em-luanda---arrendamento-informal-domina-mercado-e-senhorios-fintam-fisco-71043.html",
-      "source": "Novo Jornal",
-      "_key": "526a71166efe9bba",
+      "title": "SIC detém 54 ex-militares por treinarem civis clandestinamente",
+      "url": "https://angola24horas.com/component/k2/item/34105-sic-detem-54-ex-militares-por-treinarem-civis-clandestinamente",
+      "source": "Angola 24 Horas",
+      "_key": "8b30814eb0152f55",
+      "score": 7,
+      "title_cn": "SIC逮捕54名退役军人，涉嫌秘密训练平民"
+    },
+    {
+      "title": "Sociedade Detidos 54 ex-militares em Luanda e na Lunda-Norte ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673567/detidos-54-ex-militares-em-luanda-e-na-lunda-norte",
+      "source": "Jornal de Angola",
+      "_key": "c73e55241ab480f8",
+      "score": 7,
+      "title_cn": "罗安达和北隆达逮捕54名退役军人"
+    },
+    {
+      "title": "Angola propõe nova agenda estratégica para reforçar cooperação com a França",
+      "url": "https://www.opais.ao/politica/angola-propoe-nova-agenda-estrategica-para-reforcar-cooperacao-com-a-franca/",
+      "source": "O País",
+      "_key": "93750ceb8351de0d",
       "score": 6,
-      "title_cn": "业主批税收，政府正规化受阻"
+      "title_cn": "安哥拉提议新战略议程，加强与法国合作"
     }
   ]
 }
