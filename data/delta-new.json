@@ -1,296 +1,98 @@
 {
   "date": "2026-04-11",
-  "total_extracted": 1569,
-  "total_new": 48,
-  "total_existing": 1521,
+  "total_extracted": 1639,
+  "total_new": 15,
+  "total_existing": 1624,
   "articles": [
     {
-      "title": "President João Lourenço appoints deputy commissioner-general for Expo Yokohama 2027",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-nomeia-comissaria-geral-adjunta-para-expo-yokohama-2027/",
-      "source": "ANGOP",
-      "_key": "71ac249900d7231a"
-    },
-    {
-      "title": "Angola’s Financial Inclusion Plan aims to reach 65% of the population by 2027",
-      "url": "https://www.angop.ao/en/noticias/economia/plano-nacional-de-inclusao-financeira-preve-atingir-65-da-populacao-ate-2027/",
-      "source": "ANGOP",
-      "_key": "41104fd0f3110938"
-    },
-    {
-      "title": "Angolan government settles payment for July and November 2025",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-confirma-pagamento-das-ordens-de-saque-de-julho-a-novembro-de-2025/",
-      "source": "ANGOP",
-      "_key": "1077f4cb85c4a175"
-    },
-    {
-      "title": "Vatican deems Angola the “heart of African Christianity”",
-      "url": "https://www.angop.ao/en/noticias/politica/vaticano-considera-angola-coracao-do-cristianismo-africano/",
-      "source": "ANGOP",
-      "_key": "7a26e1848ceab8a5"
-    },
-    {
-      "title": "Audit Courts of Angola and the Brazilian state of Amazonas formalize agreement",
-      "url": "https://www.angop.ao/en/noticias/politica/tribunais-de-contas-de-angola-e-do-estado-de-amazonas-formalizam-acordo/",
-      "source": "ANGOP",
-      "_key": "9b8e4ef251e0f585"
-    },
-    {
-      "title": "Angola stands against economic and financial embargo on Cuba",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-manifesta-se-contra-embargo-economico-e-financeiro-a-cuba/",
-      "source": "ANGOP",
-      "_key": "6d66da1fff1ceaf6"
-    },
-    {
-      "title": "Football: Angolan referee Jerson Emiliano for the 3rd time at the World Cup",
-      "url": "https://www.angop.ao/en/noticias/desporto/futebol-arbitro-angolano-gerson-emiliano-pela-3a-vez-no-mundial/",
-      "source": "ANGOP",
-      "_key": "34cacaf36436d84f"
-    },
-    {
-      "title": "Campeonato do Mundo",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=211158",
-      "source": "ANGOP",
-      "_key": "28ed46ed618e47f2"
-    },
-    {
-      "title": "More than 300 Namibian farmers in illegal migration situation in Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/sme-regista-mais-de-300-fazendeiros-namibianos-em-situacao-migratoria-ilegal/",
-      "source": "ANGOP",
-      "_key": "78c613fc3b29c3b6"
-    },
-    {
-      "title": "ITB Berlin2026 - Angola distinguished with three best tourist destination category awards",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-distinguida-com-tres-premios-na-categoria-melhor-destino-turistico-do-ano/",
-      "source": "ANGOP",
-      "_key": "c604e622e3d0a4a3"
-    },
-    {
-      "title": "Angola sends over 100 health scholarship students to Brazil",
-      "url": "https://www.angop.ao/en/noticias/saude/angola-envia-mais-de-100-bolseiros-de-saude-para-brasil/",
-      "source": "ANGOP",
-      "_key": "42ea28ab7ca1ec7a"
-    },
-    {
-      "title": "Vaticano nega ter recebido uma repreensão do Pentágono",
-      "url": "https://angola24horas.com/internacional/item/34103-vaticano-nega-ter-recebido-uma-repreensao-do-pentagono",
-      "source": "Angola 24 Horas",
-      "_key": "e2e2c403ea13525f"
-    },
-    {
-      "title": "Parlamento prepara revisão de diplomas legais para reforçar a transparência do processo eleitoral",
-      "url": "https://angola24horas.com/politica/item/34104-parlamento-prepara-revisao-de-diplomas-legais-para-reforcar-a-transparencia-do-processo-eleitoral",
-      "source": "Angola 24 Horas",
-      "_key": "eb879fdf7570a9d6"
-    },
-    {
-      "title": "Concursos públicos da justiça em Angola são \"de fachada\"?",
-      "url": "https://angola24horas.com/sociedade/item/34101-concursos-publicos-da-justica-em-angola-sao-de-fachada",
-      "source": "Angola 24 Horas",
-      "_key": "e9f38a7dfc4dbb5c"
-    },
-    {
-      "title": "Administração Municipal em Malanje persegue jovem por filiação ao Partido Liberal",
-      "url": "https://angola24horas.com/politica/item/34099-administracao-municipal-em-malanje-persegue-jovem-por-filiacao-ao-partido-liberal",
-      "source": "Angola 24 Horas",
-      "_key": "3176da496fa07e33"
-    },
-    {
-      "title": "Amicus de veritas sed: a verdade como retórica e a mentira como método na política angolana",
-      "url": "https://angola24horas.com/opiniao/item/34100-amicus-de-veritas-sed-a-verdade-como-retorica-e-a-mentira-como-metodo-na-politica-angolana",
-      "source": "Angola 24 Horas",
-      "_key": "761a687c3b9b57d2"
-    },
-    {
-      "title": "Presidente escolhe nova responsável para apoiar presença de Angola na Expo",
-      "url": "https://correiokianda.info/presidente-escolhe-nova-responsavel-para-apoiar-presenca-de-angola-na-expo/",
+      "title": "EUA e Líbano pedem “pausa” nos ataques de Israel antes de negociações decisivas",
+      "url": "https://correiokianda.info/eua-e-libano-pedem-pausa-nos-ataques-de-israel-antes-de-negociacoes-decisivas/",
       "source": "Correio Kianda",
-      "_key": "b36d14409507cb5b"
+      "_key": "41dc4ac04a6568c3"
     },
     {
-      "title": "GPL quer reforçar fiscais no Cazenga para travar a venda desordenada",
-      "url": "https://correiokianda.info/gpl-quer-reforcar-fiscais-no-cazenga-para-travar-a-venda-desordenada/",
-      "source": "Correio Kianda",
-      "_key": "fe0ee8db5747a731"
-    },
-    {
-      "title": "Filomeno Vieira Lopes critica actuação da Indra e questiona transparência dos processos eleitorais",
-      "url": "https://correiokianda.info/filomeno-vieira-lopes-critica-actuacao-da-indra-e-questiona-transparencia-dos-processos-eleitorais/",
-      "source": "Correio Kianda",
-      "_key": "69dc2c78febeaa70"
-    },
-    {
-      "title": "“Oposição não inspira confiança”, afirma Tito Cambanje",
-      "url": "https://correiokianda.info/oposicao-nao-inspira-confianca-afirma-tito-cambanje/",
-      "source": "Correio Kianda",
-      "_key": "0c44039316996ed7"
-    },
-    {
-      "title": "PR avalia preparativos para visita do Papa a oito dias do início",
-      "url": "https://correiokianda.info/pr-avalia-preparativos-para-visita-do-papa-a-oito-dias-do-inicio/",
-      "source": "Correio Kianda",
-      "_key": "d0ce20be3c4ae07c"
-    },
-    {
-      "title": "Vera Daves quer evitar confusão entre supervisão e justiça penal",
-      "url": "https://correiokianda.info/vera-daves-quer-evitar-confusao-entre-supervisao-e-justica-penal/",
-      "source": "Correio Kianda",
-      "_key": "5dce1a65e8f7f9d6"
-    },
-    {
-      "title": "Executivo liquida todas as ordens de saque em atraso no sistema",
-      "url": "https://correiokianda.info/executivo-liquida-todas-as-ordens-de-saque-em-atraso-no-sistema/",
-      "source": "Correio Kianda",
-      "_key": "52ac448a5bdb5ff6"
-    },
-    {
-      "title": "Falta de saneamento agrava cólera em Benguela",
-      "url": "https://correiokianda.info/pfalta-de-saneamento-agrava-colera-em-benguela/",
-      "source": "Correio Kianda",
-      "_key": "e1cdebfe3d5f6a63"
-    },
-    {
-      "title": "Moradores da Palanca na Huíla sem resposta para emissão de documentos",
-      "url": "https://correiokianda.info/moradores-da-palanca-na-huila-sem-resposta-para-emissao-de-documentos/",
-      "source": "Correio Kianda",
-      "_key": "922d3c8e8643c3ad"
-    },
-    {
-      "title": "Governo muda contrato em obra da Universidade José Eduardo dos Santos",
-      "url": "https://correiokianda.info/governo-muda-contrato-em-obra-da-universidade-jose-eduardo-dos-santos/",
-      "source": "Correio Kianda",
-      "_key": "867841384a70a8d7"
-    },
-    {
-      "title": "Motoristas falam em vias “abandonadas” no percurso Cunene–Luanda",
-      "url": "https://correiokianda.info/motoristas-falam-em-vias-abandonadas-no-percurso-cunene-luanda/",
-      "source": "Correio Kianda",
-      "_key": "3a1e16fb22d31d64"
-    },
-    {
-      "title": "Intermediários são acusados de inflacionar preço do peixe no mercado da Mabunda",
-      "url": "https://correiokianda.info/intermediarios-sao-acusados-de-inflacionar-preco-do-peixe-no-mercado-da-mabunda/",
-      "source": "Correio Kianda",
-      "_key": "910c5a99422cd558"
-    },
-    {
-      "title": "Guerra na Ucrânia: “trégua de Páscoa” entra em vigor na tarde de hoje",
-      "url": "https://correiokianda.info/guerra-na-ucrania-tregua-de-pascoa-entra-em-vigor-na-tarde-de-hoje/",
-      "source": "Correio Kianda",
-      "_key": "0b9f80c5668e873e"
-    },
-    {
-      "title": "Rússia: Ex-vice ministro da defesa condenado a 19 anos de prisão",
-      "url": "https://correiokianda.info/russia-ex-vice-ministro-da-defesa-condenado-a-19-anos-de-prisao/",
-      "source": "Correio Kianda",
-      "_key": "ae55175f9434c174"
-    },
-    {
-      "title": "Petro arrasa Interclube e conquista a Taça de Angola em basquetebol",
-      "url": "https://correiokianda.info/petro-arrasa-interclube-e-conquista-a-taca-de-angola-em-basquetebol/",
-      "source": "Correio Kianda",
-      "_key": "6dc638933a9f3aa9"
-    },
-    {
-      "title": "A juventude quer voz, não protocolo",
-      "url": "https://correiokianda.info/a-juventude-quer-voz-nao-protocolo/",
-      "source": "Correio Kianda",
-      "_key": "173455dd3f1553a2"
-    },
-    {
-      "title": "COMUNICADO: Adiamento Fórum Energia & Ambiente - 17 de Abril 2026",
-      "url": "https://expansao.co.ao/angola/detalhe/comunicado-adiamento-forum-energia-ambiente---17-de-abril-2026-71059.html",
+      "title": "Omatapalo e Mota-Engil concentram as grandes obras públicas em Luanda",
+      "url": "https://expansao.co.ao/angola/detalhe/omatapalo-e-mota-engil-concentram-as-grandes-obras-publicas-em-luanda-71064.html",
       "source": "Expansão",
-      "_key": "a92591a2f22514e8"
+      "_key": "64bacbdf5a1588b2"
     },
     {
-      "title": "Banco Mundial aponta avanço da cooperação na África Ocidental e destaca Guiné-Bissau",
-      "url": "https://forbesafricalusofona.com/banco-mundial-aponta-avanco-da-cooperacao-na-africa-ocidental-e-destaca-guine-bissau/",
-      "source": "Forbes África",
-      "_key": "602f111042106f2c"
+      "title": "\"As nossas sociedades são o somatório das nossas acções individuais\"",
+      "url": "https://expansao.co.ao/weekend/lifestyle/detalhe/as-nossas-sociedades-sao-o-somatorio-das-nossas-accoes-individuais-71062.html",
+      "source": "Expansão",
+      "_key": "4f2410e3f8315f26"
     },
     {
-      "title": "Sábado, 11 de Abril, 2026",
+      "title": "Financiamento do ensino superior vira-se para o mérito e desempenho",
+      "url": "https://expansao.co.ao/universidade/detalhe/financiamento-do-ensino-superior-vira-se-para-o-merito-e-desempenho-71061.html",
+      "source": "Expansão",
+      "_key": "e02a9fd4b52af7a9"
+    },
+    {
+      "title": "Unitel e BPI mantêm tradição dos grandes dividendos enquanto Lélis é o gestor que mais ganha",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_85c21700adad2e"
+      "source": "Expansão",
+      "_key": "t_124cc61bea44e4"
     },
     {
-      "title": "Última hora Astronautas da Artemis II regressam à Terra ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673492/astronautas-da-artemis-ii-regressam-%C3%A0-terra-",
+      "title": "BAI, BFA, BCGA, ENSA e BODIVA pagam dividendos recorde de 344 milhões USD já na próxima semana",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7df93d3057a03f"
+    },
+    {
+      "title": "SEP deve apresentar contas de 2025 até 30 de Abril",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8cc8e95549a2f6"
+    },
+    {
+      "title": "Mundo Missão da ONU insta cessar-fogo permanente ao Irão ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673489/miss%C3%A3o-da-onu-insta-cessar-fogo-permanente-ao-ir%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "44e6b5aa1e7de69d"
+      "_key": "5b577d84a3d6073f"
     },
     {
-      "title": "Última hora Hospitais em Luanda reforçados com mais 62 médicos especialistas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673491/hospitais-em-luanda-refor%C3%A7ados-com-mais-62-m%C3%A9dicos-especialistas-",
+      "title": "Mundo Kamala Harris admite nova candidatura à presidência ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673488/kamala-harris-admite-nova-candidatura-%C3%A0-presid%C3%AAncia",
       "source": "Jornal de Angola",
-      "_key": "d05ca2dc3694859e"
+      "_key": "0056d63ab4cd457a"
     },
     {
-      "title": "Última hora Missão Artemis II regressa à terra na noite desta sexta-feira",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673490/miss%C3%A3o-artemis-ii-regressa-%C3%A0-terra-na-noite-desta-sexta-feira",
+      "title": "Sociedade Câmara de Comércio e Indústria Angola–Moçambique realiza limpeza na Ilha de Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673486/c%C3%A2mara-de-com%C3%A9rcio-e-ind%C3%BAstria-angola%E2%80%93mo%C3%A7ambique-realiza-limpeza-na-ilha-de-luanda",
       "source": "Jornal de Angola",
-      "_key": "1d9ef41f104e6b21"
+      "_key": "631ff2a61c24e06e"
     },
     {
-      "title": "Última hora Angola manifesta-se contra o embargo económico a Cuba",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673487/angola-manifesta-se-contra-o-embargo-econ%C3%B3mico-a-cuba",
+      "title": "Sociedade Estudantes angolanos em Coimbra celebram o Dia da Paz com o apoio da Universidade local ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673484/estudantes-angolanos-em-coimbra---celebram-o-dia-da-paz-com-o-apoio--da-universidade-local",
       "source": "Jornal de Angola",
-      "_key": "35c2a5ac070ce0aa"
+      "_key": "13e3cc28dd184b4e"
     },
     {
-      "title": "Última hora Chefe de Estado nomeia Neusa Dias dos Santos Comissária Geral Adjunta na Expo Yokohama Japão",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673485/chefe-de-estado-nomeia-neusa-dias-dos-santos-comiss%C3%A1ria-geral-adjunta-na-expo-yokohama-jap%C3%A3o",
+      "title": "Mundo EUA vão pedir libertação de norte-americanos no âmbito das negociações ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673483/eua-v%C3%A3o-pedir-liberta%C3%A7%C3%A3o-de-norte-americanos-no-%C3%A2mbito-das-negocia%C3%A7%C3%B5es",
       "source": "Jornal de Angola",
-      "_key": "e99712d3a97610f8"
+      "_key": "3bf77462087974f5"
     },
     {
-      "title": "As relações comerciais EUA/ China e África",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/as-relacoes-comerciais-eua-china-e-africa-71053.html",
-      "source": "Novo Jornal",
-      "_key": "1d1146a7575d11d3"
+      "title": "Regiões Ministério Público enaltece redução de casos de prisão preventiva ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673482/minist%C3%A9rio-p%C3%BAblico-enaltece-redu%C3%A7%C3%A3o-de-casos-de-pris%C3%A3o-preventiva",
+      "source": "Jornal de Angola",
+      "_key": "40408b24e79d252b"
     },
     {
-      "title": "DESPORTO MARGINAL: O DESPORTO EM DEBATE. Aliou Cissé é o novo treinador dos Palancas.",
-      "url": "https://marginal.co.ao/programas/desporto-marginal?ep=71056",
-      "source": "Novo Jornal",
-      "_key": "5dca0ebfa30c613c"
-    },
-    {
-      "title": "MUTAMBA: TALENTO MADE IN ANGOLA Com a banda DS.",
-      "url": "https://marginal.co.ao/programas/mutamba?ep=71037",
-      "source": "Novo Jornal",
-      "_key": "2b6028992bc3881f"
-    },
-    {
-      "title": "Administração de Calumbo promete remoção dos amontoados de lixo até final deste mês",
-      "url": "https://www.opais.ao/destaque/administracao-de-calumbo-promete-remocao-dos-amontoados-de-lixo-ate-final-deste-mes/",
+      "title": "Mais de trinta cidadãos detidos no Bié acusados de crimes diversos",
+      "url": "https://www.opais.ao/destaque/mais-de-trinta-cidadaos-detidos-no-bie-acusados-de-crimes-diversos/",
       "source": "O País",
-      "_key": "63728d708733dde5"
+      "_key": "d0f07f0ecb179a9d"
     },
     {
-      "title": "Executivo prevê aumentar taxa de inclusão financeira para 65% até 2027",
-      "url": "https://www.opais.ao/economia/executivo-preve-aumentar-taxa-de-inclusao-financeira-para-65-ate-2027/",
+      "title": "Mais de trinta candidatos disputam eleições presidências no Peru",
+      "url": "https://www.opais.ao/mundo/mais-de-trinta-candidatos-disputam-eleicoes-presidencias-no-peru/",
       "source": "O País",
-      "_key": "8b48a9a4fb31a4d1"
-    },
-    {
-      "title": "Governo confirma pagamento das ordens de saque do período que vai de Julho a Novembro de 2025",
-      "url": "https://www.opais.ao/politica/governo-confirma-pagamento-das-ordens-de-saque-do-periodo-que-vai-de-julho-a-novembro-de-2025/",
-      "source": "O País",
-      "_key": "bbd71242c38c57e4"
-    },
-    {
-      "title": "Vice-governador de Luanda defende reforço dos fiscais no município do Cazenga",
-      "url": "https://www.opais.ao/ultimas_hora/vice-governador-de-luanda-defende-reforco-dos-fiscais-no-municipio-do-cazenga/",
-      "source": "O País",
-      "_key": "0c82411a02e96b3e"
-    },
-    {
-      "title": "Cabinda ganha primeira sala de audiências virtuais da Provedoria de Justiça",
-      "url": "https://www.opais.ao/ultimas_hora/cabinda-ganha-primeira-sala-de-audiencias-virtuais-da-provedoria-de-justica/",
-      "source": "O País",
-      "_key": "939fa461101d53c2"
+      "_key": "fa20b83f0756242e"
     }
   ]
 }

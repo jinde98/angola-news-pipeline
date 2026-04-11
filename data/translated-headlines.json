@@ -1,88 +1,40 @@
 {
   "date": "2026-04-11",
-  "total_new": 48,
-  "total_filtered": 10,
+  "total_new": 15,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "As relações comerciais EUA/ China e África",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/as-relacoes-comerciais-eua-china-e-africa-71053.html",
-      "source": "Novo Jornal",
-      "_key": "1d1146a7575d11d3",
-      "score": 9,
-      "title_cn": "美中非贸易关系"
-    },
-    {
-      "title": "Executivo liquida todas as ordens de saque em atraso no sistema",
-      "url": "https://correiokianda.info/executivo-liquida-todas-as-ordens-de-saque-em-atraso-no-sistema/",
-      "source": "Correio Kianda",
-      "_key": "52ac448a5bdb5ff6",
-      "score": 7,
-      "title_cn": "政府结清所有系统内逾期支付指令"
-    },
-    {
-      "title": "Governo confirma pagamento das ordens de saque do período que vai de Julho a Novembro de 2025",
-      "url": "https://www.opais.ao/politica/governo-confirma-pagamento-das-ordens-de-saque-do-periodo-que-vai-de-julho-a-novembro-de-2025/",
-      "source": "O País",
-      "_key": "bbd71242c38c57e4",
-      "score": 7,
-      "title_cn": "政府确认支付2025年7月至11月支付指令"
-    },
-    {
-      "title": "Angolan government settles payment for July and November 2025",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-confirma-pagamento-das-ordens-de-saque-de-julho-a-novembro-de-2025/",
-      "source": "ANGOP",
-      "_key": "1077f4cb85c4a175",
-      "score": 6,
-      "title_cn": "安哥拉政府结清2025年7月和11月款项"
-    },
-    {
-      "title": "Governo muda contrato em obra da Universidade José Eduardo dos Santos",
-      "url": "https://correiokianda.info/governo-muda-contrato-em-obra-da-universidade-jose-eduardo-dos-santos/",
-      "source": "Correio Kianda",
-      "_key": "867841384a70a8d7",
-      "score": 6,
-      "title_cn": "政府更改若泽·爱德华多·多斯桑托斯（José Eduardo dos Santos）大学工程合同"
-    },
-    {
-      "title": "Motoristas falam em vias “abandonadas” no percurso Cunene–Luanda",
-      "url": "https://correiokianda.info/motoristas-falam-em-vias-abandonadas-no-percurso-cunene-luanda/",
-      "source": "Correio Kianda",
-      "_key": "3a1e16fb22d31d64",
-      "score": 6,
-      "title_cn": "司机称库内内（Cunene）至罗安达（Luanda）路段“废弃”"
-    },
-    {
-      "title": "Angola’s Financial Inclusion Plan aims to reach 65% of the population by 2027",
-      "url": "https://www.angop.ao/en/noticias/economia/plano-nacional-de-inclusao-financeira-preve-atingir-65-da-populacao-ate-2027/",
-      "source": "ANGOP",
-      "_key": "41104fd0f3110938",
-      "score": 5,
-      "title_cn": "安哥拉普惠金融计划目标：2027年覆盖65%人口"
-    },
-    {
-      "title": "Vera Daves quer evitar confusão entre supervisão e justiça penal",
-      "url": "https://correiokianda.info/vera-daves-quer-evitar-confusao-entre-supervisao-e-justica-penal/",
-      "source": "Correio Kianda",
-      "_key": "5dce1a65e8f7f9d6",
-      "score": 5,
-      "title_cn": "维拉·达维斯（Vera Daves）欲避免监管与刑事司法混淆"
-    },
-    {
-      "title": "COMUNICADO: Adiamento Fórum Energia & Ambiente - 17 de Abril 2026",
-      "url": "https://expansao.co.ao/angola/detalhe/comunicado-adiamento-forum-energia-ambiente---17-de-abril-2026-71059.html",
+      "title": "BAI, BFA, BCGA, ENSA e BODIVA pagam dividendos recorde de 344 milhões USD já na próxima semana",
+      "url": "",
       "source": "Expansão",
-      "_key": "a92591a2f22514e8",
-      "score": 5,
-      "title_cn": "公告：能源与环境论坛推迟至2026年4月17日"
+      "_key": "t_7df93d3057a03f",
+      "score": 8,
+      "title_cn": "BAI、BFA等五家公司下周支付创纪录的3.44亿美元股息"
     },
     {
-      "title": "Executivo prevê aumentar taxa de inclusão financeira para 65% até 2027",
-      "url": "https://www.opais.ao/economia/executivo-preve-aumentar-taxa-de-inclusao-financeira-para-65-ate-2027/",
-      "source": "O País",
-      "_key": "8b48a9a4fb31a4d1",
+      "title": "Omatapalo e Mota-Engil concentram as grandes obras públicas em Luanda",
+      "url": "https://expansao.co.ao/angola/detalhe/omatapalo-e-mota-engil-concentram-as-grandes-obras-publicas-em-luanda-71064.html",
+      "source": "Expansão",
+      "_key": "64bacbdf5a1588b2",
+      "score": 7,
+      "title_cn": "Omatapalo和Mota-Engil公司集中承建罗安达大型公共工程"
+    },
+    {
+      "title": "Unitel e BPI mantêm tradição dos grandes dividendos enquanto Lélis é o gestor que mais ganha",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_124cc61bea44e4",
+      "score": 6,
+      "title_cn": "Unitel和BPI保持高额股息传统，Lélis（莱利斯）成收入最高经理人"
+    },
+    {
+      "title": "Regiões Ministério Público enaltece redução de casos de prisão preventiva ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673482/minist%C3%A9rio-p%C3%BAblico-enaltece-redu%C3%A7%C3%A3o-de-casos-de-pris%C3%A3o-preventiva",
+      "source": "Jornal de Angola",
+      "_key": "40408b24e79d252b",
       "score": 5,
-      "title_cn": "政府计划到2027年将普惠金融覆盖率提高至65%"
+      "title_cn": "检察院赞扬审前羁押案件数量减少"
     }
   ]
 }
