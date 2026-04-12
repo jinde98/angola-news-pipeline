@@ -1,16 +1,40 @@
 {
   "date": "2026-04-12",
-  "total_new": 2,
-  "total_filtered": 1,
+  "total_new": 5,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Porto do Lobito recebe multiterminais para troca de experiências em segurança portuária",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-recebe-multiterminais-para-troca-de-experiencias-em-seguranca-portuaria/",
-      "source": "O País",
-      "_key": "cf72696525c219a9",
+      "title": "Destaque Cortada circulação entre Benguela e Lobito devido ao transbordo do Rio CavacoA circulação entre as cidades de Benguela e Lobito está cortada devido ao transbordo do Rio Cavaco, devido às fortes chuvas que caíram naquela região do país. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673633/cortada-circula%C3%A7%C3%A3o-entre-benguela-e-lobito-devido-ao-transbordo-do-rio-cavaco",
+      "source": "Jornal de Angola",
+      "_key": "220a2249fcf31e6a",
       "score": 9,
-      "title_cn": "洛比托港举办多码头港口安全经验交流会"
+      "title_cn": "本格拉至洛比托交通中断，卡瓦科河泛滥所致"
+    },
+    {
+      "title": "Minister of State directs restructuring of National Authority for Economic Inspection",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-de-estado-orienta-reformulacao-da-aniesa/",
+      "source": "ANGOP",
+      "_key": "10d6c9e6528a5f94",
+      "score": 7,
+      "title_cn": "国务部长指示重组国家经济监察局"
+    },
+    {
+      "title": "Angola reforça diplomacia económica em fórum do FMI",
+      "url": "https://correiokianda.info/ministra-das-financas-lidera-delegacao-de-angola-nas-reunioes-de-primavera-do-bm-e-fmi/",
+      "source": "Correio Kianda",
+      "_key": "6ee055fbc96a1f67",
+      "score": 6,
+      "title_cn": "安哥拉在国际货币基金组织论坛加强经济外交"
+    },
+    {
+      "title": "Dilúvio em Benguela \"esmaga\" famílias em fuga - Cidadãos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diluvio-em-benguela-esmaga-familias-em-fuga---cidadaos-aos-gritos-sobre-os-telhados-de-casa-71069.html",
+      "source": "Novo Jornal",
+      "_key": "935bd5c8d5a3bdf2",
+      "score": 5,
+      "title_cn": "本格拉洪灾肆虐，逃难家庭受重创"
     }
   ]
 }
