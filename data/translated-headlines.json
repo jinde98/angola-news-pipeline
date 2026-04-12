@@ -1,136 +1,24 @@
 {
   "date": "2026-04-12",
-  "total_new": 61,
-  "total_filtered": 16,
+  "total_new": 19,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola prevê acrescentar 75 mil barris diários à produção com FPSO Kaminho",
-      "url": "https://angola24horas.com/economia/item/34102-angola-preve-acrescentar-75-mil-barris-diarios-a-producao-com-fpso-kaminho",
-      "source": "Angola 24 Horas",
-      "_key": "2a936039204be824",
-      "score": 9,
-      "title_cn": "安哥拉计划使用 FPSO Kaminho 每天增加 75，000 桶产量"
-    },
-    {
-      "title": "Angola prevê produzir 75 mil barris/dia com entrada em operação do FPSO Kaminho",
-      "url": "https://correiokianda.info/angola-preve-produzir-75-mil-barris-dia-com-entrada-em-operacao-do-fpso-kaminho/",
-      "source": "Correio Kianda",
-      "_key": "bbef04ba6a7e82b0",
-      "score": 9,
-      "title_cn": "安哥拉预计每天生产 75，000 桶， FPSO Kaminho 投入运营"
-    },
-    {
-      "title": "Um olhar sobre a política de isenção de impostos da China e a transformação do comércio em África – A experiência do Quénia",
-      "url": "https://correiokianda.info/um-olhar-sobre-a-politica-de-isencao-de-impostos-da-china-e-a-transformacao-do-comercio-em-africa-a-experiencia-do-quenia/",
-      "source": "Correio Kianda",
-      "_key": "80c94fb929447acd",
-      "score": 9,
-      "title_cn": "中国的免税政策与非洲贸易转型 - - 以肯尼亚为例"
-    },
-    {
-      "title": "Economia / Há 53 minutos AECIPA pede maior presença das empresas de conteúdo local ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673580/aecipa-pede-maior-presen%C3%A7a-das-empresas-de-conte%C3%BAdo-local",
+      "title": "Destaque Vera Daves de Sousa lidera participação de Angola nas Reuniões do Banco Mundial e do FMIA ministra das Finanças, Vera Daves de Sousa, lidera a delegação angolana que participa nas Reuniões de Primavera do Banco Mundial (BM) e do Fundo Monetário Internacional (FMI), a decorrer de 13 a 18 deste mês, em Washington D.C., Estados Unidos da América",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673631/vera-daves-de-sousa-lidera-participa%C3%A7%C3%A3o-de-angola-nas-reuni%C3%B5es-do-banco-mundial-e-do-fmi",
       "source": "Jornal de Angola",
-      "_key": "002d155d1c1d1341",
-      "score": 8,
-      "title_cn": "经济 / 53 分钟前 AECIPA 呼吁增加本地内容公司的存在"
-    },
-    {
-      "title": "Ex-militares apanhados a treinar civis nas províncias de Luanda e Lunda-Norte",
-      "url": "https://correiokianda.info/ex-militares-apanhados-a-treinar-civis-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "7b7e819865271707",
+      "_key": "a720f4f32b290e51",
       "score": 7,
-      "title_cn": "前军人在罗安达省和北隆达省训练平民"
+      "title_cn": "安哥拉财长维拉·戴维斯·德索萨（Vera Daves de Sousa）率团出席世行和国际货币基金组织会议"
     },
     {
-      "title": "Economia / Há 38 minutos Delegação no Fórum sobre Energia e Clima ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673585/delega%C3%A7%C3%A3o-no-f%C3%B3rum-sobre-energia-e-clima",
-      "source": "Jornal de Angola",
-      "_key": "19bf153a91780b1e",
+      "title": "Vera Daves lidera participação de Angola nas Reuniões de Primavera do Banco Mundial e FMI",
+      "url": "https://www.opais.ao/economia/vera-daves-lidera-participacao-de-angola-nas-reunioes-de-primavera-do-banco-mundial-e-fmi/",
+      "source": "O País",
+      "_key": "7fa1037e79a14a84",
       "score": 7,
-      "title_cn": "经济 / 38 分钟前能源与气候论坛代表团"
-    },
-    {
-      "title": "Detidos mais de 50 ex-militares por suspeita de associação criminosa",
-      "url": "https://www.opais.ao/destaque/detidos-mais-de-50-ex-militares-por-suspeita-de-associacao-criminosa/",
-      "source": "O País",
-      "_key": "e3b0ce0a5143ef0f",
-      "score": 7,
-      "title_cn": "50 多名前军人因涉嫌犯罪结社被捕"
-    },
-    {
-      "title": "Oil spills spread around Zaire's coastline",
-      "url": "https://www.angop.ao/en/noticias/ambiente/manchas-oleosas-assolam-costa-maritima-do-zaire/",
-      "source": "ANGOP",
-      "_key": "555bb41eb9f77358",
-      "score": 6,
-      "title_cn": "漏油事件蔓延至扎伊尔海岸线"
-    },
-    {
-      "title": "Destaque Téte António aborda em Nova Iorque exploração ilegal de minerais críticos O ministro das Relações Exteriores, Téte António, destacou, este sábado, em Nova Iorque, a importância da Educação para combater a utilização dos recursos minerais para alimentar conflitos nas regiões dos Grandes Lagos e em todo o continente.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673568/t%C3%A9te-ant%C3%B3nio-aborda-em-nova-iorque-explora%C3%A7%C3%A3o-ilegal-de-minerais-cr%C3%ADticos-",
-      "source": "Jornal de Angola",
-      "_key": "eaa81bc67cb2cd11",
-      "score": 6,
-      "title_cn": "外交部长泰特 · 安东尼奥星期六在纽约强调了教育在打击利用矿产资源助长大湖区和整个非洲大陆冲突方面的重要性。"
-    },
-    {
-      "title": "Economia Contribuição Especial para o Turismo taxa dormidas superiores a sete dias ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673581/contribui%C3%A7%C3%A3o-especial-para-o-turismo-taxa-dormidas-superiores-a-sete-dias",
-      "source": "Jornal de Angola",
-      "_key": "cdd00393706a8a66",
-      "score": 6,
-      "title_cn": "经济旅游专项贡献睡眠超过 7 天"
-    },
-    {
-      "title": "Sociedade Casas de pesagem de ferro encerradas na totalidade ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673577/casas-de-pesagem-de-ferro-encerradas-na-totalidade-",
-      "source": "Jornal de Angola",
-      "_key": "27e8f64f51c80300",
-      "score": 6,
-      "title_cn": "社会铁称重箱全部封闭"
-    },
-    {
-      "title": "Casas de pesagem de ferro em Luanda encerradas na totalidade",
-      "url": "https://www.opais.ao/destaque/casas-de-pesagem-de-ferro-em-luanda-encerradas-na-totalidade/",
-      "source": "O País",
-      "_key": "f413a79e3974006b",
-      "score": 6,
-      "title_cn": "罗安达的铁称重处全部关闭"
-    },
-    {
-      "title": "Executivo quer mais cidadãos com contas bancárias",
-      "url": "https://correiokianda.info/executivo-quer-mais-cidadaos-com-contas-bancarias/",
-      "source": "Correio Kianda",
-      "_key": "0982ef971af3420b",
-      "score": 5,
-      "title_cn": "政府希望更多公民拥有银行账户"
-    },
-    {
-      "title": "EUA iniciam processo para “desobstruir” Estreito de Ormuz",
-      "url": "https://correiokianda.info/eua-iniciam-processo-para-desobstruir-estreito-de-ormuz/",
-      "source": "Correio Kianda",
-      "_key": "505ac2a069c4a0b2",
-      "score": 5,
-      "title_cn": "美国启动 \"清除\" 霍尔木兹海峡进程"
-    },
-    {
-      "title": "Restabelecida circulação na EN 323 entre Malanje e Kiwaba Nzoji",
-      "url": "https://www.opais.ao/sociedade/restabelecida-circulacao-na-en-323-entre-malanje-e-kiwaba-nzoji/",
-      "source": "O País",
-      "_key": "06dec2101f13c5a8",
-      "score": 5,
-      "title_cn": "马兰杰和 Kiwaba-Nji 之间的 EN 323 恢复交通"
-    },
-    {
-      "title": "UNITA critica expansão das competências do Tribunal Militar e alerta para riscos constitucionais",
-      "url": "https://www.opais.ao/politica/unita-critica-expansao-das-competencias-do-tribunal-militar-e-alerta-para-riscos-constitucionais/",
-      "source": "O País",
-      "_key": "7c20a445e6eb754b",
-      "score": 5,
-      "title_cn": "安盟批评扩大军事法庭管辖权 ， 并警告宪法风险"
+      "title_cn": "安哥拉财长维拉·戴维斯（Vera Daves）率团出席世行和国际货币基金组织春季会议"
     }
   ]
 }
