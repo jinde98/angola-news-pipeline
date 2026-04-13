@@ -1,72 +1,88 @@
 {
-  "date": "2026-04-12",
-  "total_new": 15,
-  "total_filtered": 8,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-13",
+  "total_new": 90,
+  "total_filtered": 10,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Destaque Torres vandalizadas em Cacuaco e Icolo e Bengo deixam mais de 45 mil famílias sem electricidadeMais de 45 mil residências ficaram, sábado, 11, sem o abastecimento de energia eléctrica, na sequência do vandalismo de cinco torres, em Cacuaco e Icolo e Bengo.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673634/torres-vandalizadas-em-cacuaco-e-icolo-e-bengo-deixam-mais-de-45-mil-fam%C3%ADlias-sem-electricidade",
-      "source": "Jornal de Angola",
-      "_key": "cda205cb356b7937",
-      "score": 9,
-      "title_cn": "卡夸科、伊科洛和本戈被破坏的塔楼使 45000 多个家庭没有电力供应超过 45000 户家庭在卡夸科、伊科洛和本戈的五座塔楼被破坏后 ， 于 11 日星期六没有电力供应。"
-    },
-    {
-      "title": "Destaque Benguela: Suspensa circulação ferroviária nos troços afectados pelas chuvasA circulação ferroviária nos troços afectados pelas chuvas que caíram, sábado, na província Benguela, estão suspensa \"por tempo indeterminado\", anunciou, a empresa Lobito Atlantic Railway (LAR).",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673635/benguela:-suspensa-circula%C3%A7%C3%A3o-ferrovi%C3%A1ria-nos-tro%C3%A7os-afectados-pelas-chuvas",
-      "source": "Jornal de Angola",
-      "_key": "2ea2a3cab54b198b",
-      "score": 8,
-      "title_cn": "本格拉 ：洛比托大西洋铁路公司 （ LAR ） 宣布 ， 本格拉省受周六降雨影响的地区的铁路运营将暂停 \"无限期\" 。"
-    },
-    {
-      "title": "Regiões Benguela em estado de alerta máximo após transbordo do Rio Cavaco ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673636/benguela-em-estado-de-alerta-m%C3%A1ximo-ap%C3%B3s-transbordo-do-rio-cavaco",
-      "source": "Jornal de Angola",
-      "_key": "d3f7fb45e10e7df0",
+      "title": "EUA ameaça impor tarifas de 50% à China caso preste apoio militar a Teerão",
+      "url": "https://angola24horas.com/internacional/item/34108-eua-ameaca-impor-tarifas-de-50-a-china-caso-preste-apoio-militar-a-teerao",
+      "source": "Angola 24 Horas",
+      "_key": "6ed44371bbd4f2e2",
       "score": 7,
-      "title_cn": "卡瓦科河溢流后本格拉地区处于高度警戒状态"
+      "title_cn": "美国威胁，若中国向德黑兰提供军事支持将征收50%关税"
     },
     {
-      "title": "Benguela vive o caos com “famílias ao relento e pessoas a serem levadas pelas águas”",
-      "url": "https://correiokianda.info/benguela-vive-o-caos-com-familias-ao-relento-e-pessoas-a-serem-levadas-pelas-aguas/",
-      "source": "Correio Kianda",
-      "_key": "38b94ad8f0d735d0",
-      "score": 6,
-      "title_cn": "本格拉生活在混乱中 ， 家庭在休息 ， 人们被水冲走。"
+      "title": "Mundo Quatro estudantes morrem afogados num rio no sul da China ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673646/quatro-estudantes-morrem-afogados-num-rio-no-sul-da-china",
+      "source": "Jornal de Angola",
+      "_key": "ae09eb7fdfe2d2e4",
+      "score": 7,
+      "title_cn": "中国南方一河流四名学生溺亡"
     },
     {
-      "title": "Chuvas da madrugada deste domingo em Caimbambo deixam rasto de destruição em Benguela",
-      "url": "https://correiokianda.info/chuvas-da-madrugada-deste-domingo-em-caimbambo-deixam-rasto-de-destruicao-em-benguela/",
-      "source": "Correio Kianda",
-      "_key": "5b179e0aaf497acf",
-      "score": 6,
-      "title_cn": "周日清晨在凯恩班博的降雨在本格拉留下了破坏的痕迹"
+      "title": "Angola e China aprofundam parceria para construção do Complexo Petroquímico do Soyo",
+      "url": "https://www.opais.ao/economia/angola-e-china-aprofundam-parceria-para-construcao-do-complexo-petroquimico-do-soyo/",
+      "source": "O País",
+      "_key": "858513fe6c5f4563",
+      "score": 7,
+      "title_cn": "安哥拉与中国深化索约石化综合体建设合作"
     },
     {
-      "title": "Emergência em Benguela: quando prevenir continua a ser opcional",
-      "url": "https://correiokianda.info/emergencia-em-benguela-quando-prevenir-continua-a-ser-opcional/",
-      "source": "Correio Kianda",
-      "_key": "0e46c6c1b93011a7",
-      "score": 6,
-      "title_cn": "本格拉的紧急情况 ： 预防仍然是可选的"
-    },
-    {
-      "title": "Angola discusses cooperation with Congo and Uruguay",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-aborda-cooperacao-com-congo-e-uruguai/",
-      "source": "ANGOP",
-      "_key": "c4061cb7e4e3eda4",
+      "title": "BCI e Grupo Carrinho mobilizam mais de 1 mil milhões de kwanzas para vítimas das cheias em Benguela",
+      "url": "https://diariodosnegocios.com/bci-e-grupo-carrinho-mobilizam-mais-de-1-mil-milhoes-de-kwanzas-para-vitimas-das-cheias-em-benguela/",
+      "source": "Diário dos Negócios",
+      "_key": "83179b34ecb16e03",
       "score": 5,
-      "title_cn": "安哥拉讨论与刚果和乌拉圭的合作"
+      "title_cn": "BCI与卡里尼奥集团为本戈拉洪灾受害者筹集逾10亿宽扎"
     },
     {
-      "title": "Situação no Estreito de Ormuz mudará se EUA “aceitarem acordo razoável” – afirma Irão",
-      "url": "https://correiokianda.info/situacao-no-estreito-de-ormuz-mudara-se-eua-aceitarem-acordo-razoavel-afirma-irao/",
-      "source": "Correio Kianda",
-      "_key": "21c039a7efcde0cf",
+      "title": " BCI e Grupo Carrinho mobilizam mais de 1 mil milhões de kwanzas para vítimas das cheias em Benguela ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_67184a872f819e",
       "score": 5,
-      "title_cn": "伊朗 ： 如果美国接受合理的协议 ， 霍尔木兹海峡局势将改变"
+      "title_cn": "BCI与卡里尼奥集团为本戈拉洪灾受害者筹集逾10亿宽扎"
+    },
+    {
+      "title": "Inflação desacelera para 12,4% e está abaixo da meta do Governo para 2026",
+      "url": "https://expansao.co.ao/economia/detalhe/inflacao-desacelera-para-124-e-esta-abaixo-da-meta-do-governo-para-202-71079.html",
+      "source": "Expansão",
+      "_key": "4de9b12c046cacec",
+      "score": 5,
+      "title_cn": "通胀降至12.4%，低于政府2026年目标"
+    },
+    {
+      "title": "Presidente autoriza acordo de 250 milhões de dólares para o reforço da saúde no paísO Presidente da República, João Lourenço, autorizou, por Despacho, a celebração de um acordo de financiamento entre Angola e o Banco Internacional de Desenvolvimento e Reconstrução (BIRD) no valor global de 250 milhões de dólares para a cobertura financeira do Projecto de Preparação, Respostas e Resiliência à Emergência de Saúde no País.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673650/presidente-autoriza-acordo-de-250-milh%C3%B5es-de-d%C3%B3lares-para-o-refor%C3%A7o-da-sa%C3%BAde-no-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "6dbc4bd4a4030e6b",
+      "score": 5,
+      "title_cn": "总统若昂·洛伦索（João Lourenço）批准2.5亿美元协议加强国家卫生建设"
+    },
+    {
+      "title": "Economia / Há 20 minutos Conteúdo Local representa 12% no segmento do “Oil & Gas” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673676/conte%C3%BAdo-local-representa-12%25-no-segmento-do-%E2%80%9Coil-&amp;-gas%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "01f154dab8c318be",
+      "score": 5,
+      "title_cn": "本地内容占 \"石油和天然气\" 细分市场的 12%"
+    },
+    {
+      "title": "Economia / Há 28 minutos Política macroeconómica mais reforçada face ao desempenho da taxa de inflação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673675/pol%C3%ADtica-macroecon%C3%B3mica-mais-refor%C3%A7ada-face-ao-desempenho-da-taxa-de-infla%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "7c06a77e0dd760e4",
+      "score": 5,
+      "title_cn": "宏观经济政策强化以应对通胀表现"
+    },
+    {
+      "title": "Economia / Há 57 minutos Cubango recebe apoio de 211 milhões de dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673671/cubango-recebe-apoio-de-211-milh%C3%B5es-de-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "ffd10996d287bb94",
+      "score": 5,
+      "title_cn": "库邦戈获得2.11亿美元援助"
     }
   ]
 }
