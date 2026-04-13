@@ -1,29 +1,22 @@
 {
   "date": "2026-04-13",
-  "total_new": 53,
-  "total_filtered": 3,
-  "scored_by": "keyword",
+  "total_new": 11,
+  "total_filtered": 2,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola e China reforçam cooperação estratégica no domínio do Petróleo e Gás Angola e China reforçaram, esta segunda-feira, naquele país asiático a cooperação estratégica no domínio dos Recursos Minerais, Petróleo e Gás.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673706/angola-e-china-refor%C3%A7am-coopera%C3%A7%C3%A3o-estrat%C3%A9gica-no-dom%C3%ADnio-do-petr%C3%B3leo-e-g%C3%A1s",
+      "title": "Destaque Retomada circulação rodoviária entre Benguela e Lobito após transbordo do Rio CavacoA circulação rodoviária entre as cidades de Benguela e Lobito, está retomada após um período de paralisação causada pelo transbordo das águas do rio Cavaco.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673719/retomada-circula%C3%A7%C3%A3o-rodovi%C3%A1ria-entre-benguela-e-lobito-ap%C3%B3s-transbordo-do-rio-cavaco",
       "source": "Jornal de Angola",
-      "_key": "ff4f39b70826251e",
+      "_key": "6cc08973f479cbcc",
       "score": 7
     },
     {
-      "title": "Mundo13/04/2026China elimina taxas de importação de 53 países",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673704/china-elimina-taxas-de-importa%C3%A7%C3%A3o-de-53-pa%C3%ADses",
-      "source": "Jornal de Angola",
-      "_key": "7fc191fecc4c8f0b",
-      "score": 7
-    },
-    {
-      "title": "Ameaça de Trump sobre Ormuz força subida do Brent acima dos 100 dólares",
-      "url": "https://correiokianda.info/ameaca-de-trump-sobre-ormuz-forca-subida-do-brent-acima-dos-100-dolares/",
-      "source": "Correio Kianda",
-      "_key": "c289046b3dc8345a",
-      "score": 5
+      "title": "Conferência aposta na integração de sectores estratégicos para impulsionar economia",
+      "url": "https://www.opais.ao/economia/conferencia-aposta-na-integracao-de-sectores-estrategicos-para-impulsionar-economia/",
+      "source": "O País",
+      "_key": "53f200f6f392f5cc",
+      "score": 6
     }
   ]
 }
