@@ -1,16 +1,32 @@
 {
   "date": "2026-04-14",
-  "total_new": 37,
-  "total_filtered": 1,
-  "scored_by": "keyword",
+  "total_new": 20,
+  "total_filtered": 3,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola and China strengthen mineral resources strategic cooperation",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-e-china-reforcam-cooperacao-no-dominio-dos-recursos-minerais/",
+      "title": "Porto do Lobito manifesta solidariedade e reafirma compromisso de apoiar as vítimas das cheias em Benguela‎",
+      "url": "https://www.opais.ao/ultimas_hora/porto-do-lobito-manifesta-solidariedade-e-reafirma-compromisso-de-apoiar-as-vitimas-das-cheias-em-benguela/",
+      "source": "O País",
+      "_key": "9e0bcf68481740c7",
+      "score": 6,
+      "title_cn": "洛比托港声援本格拉洪灾受害者，重申支持承诺"
+    },
+    {
+      "title": "President to leave for Benguela to assess damaged caused by flooding",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-desloca-se-quarta-feira-a-provincia-de-benguela/",
       "source": "ANGOP",
-      "_key": "54af24743f67cb73",
-      "score": 7,
-      "title_cn": "安哥拉与中国加强矿产资源战略合作"
+      "_key": "be40003b3e9ae727",
+      "score": 5,
+      "title_cn": "总统将前往本格拉评估洪灾损失"
+    },
+    {
+      "title": "João Lourenço desloca-se quarta-feira a Benguela na sequência das inundações",
+      "url": "https://angola24horas.com/politica/item/34126-joao-lourenco-desloca-se-quarta-feira-a-benguela-na-sequencia-das-inundacoes",
+      "source": "Angola 24 Horas",
+      "_key": "c6abbc2386f0dae8",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）周三前往本格拉视察洪灾"
     }
   ]
 }
