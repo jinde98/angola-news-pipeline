@@ -1,120 +1,15 @@
 {
   "date": "2026-04-14",
-  "total_new": 41,
-  "total_filtered": 16,
-  "scored_by": "gemini-flash",
+  "total_new": 37,
+  "total_filtered": 1,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Política MIREMPET e SINOPEC reforçam cooperação petrolífera ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673777/mirempet-e-sinopec-refor%C3%A7am-coopera%C3%A7%C3%A3o-petrol%C3%ADfera",
-      "source": "Jornal de Angola",
-      "_key": "662dbe24eed6d2e8",
-      "score": 10
-    },
-    {
-      "title": "Mundo China considera perigoso bloqueio do Estreito de Ormuz pelos EUA ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673790/china-considera-perigoso-bloqueio-do-estreito-de-ormuz-pelos-eua-",
-      "source": "Jornal de Angola",
-      "_key": "b540cd45efbe6e74",
-      "score": 8
-    },
-    {
-      "title": "Médio Oriente: China assume postura mais agressiva...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-china-assume-postura-mais-agressiva-sobre-conflito-e-exige-um-travao-a-lei-da-selva---bloqueio-dos-eua-ao-irao-ja-esta-a-mexer-com-as-aguas-do-golfo-persico-71117.html",
-      "source": "Novo Jornal",
-      "_key": "e72d88a764939901",
-      "score": 8
-    },
-    {
-      "title": "Angolan delegation meets with World Bank Executive Director",
-      "url": "https://www.angop.ao/en/noticias/economia/delegacao-angolana-reune-se-com-directora-executiva-do-bm-em-washington/",
+      "title": "Angola and China strengthen mineral resources strategic cooperation",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-china-reforcam-cooperacao-no-dominio-dos-recursos-minerais/",
       "source": "ANGOP",
-      "_key": "7b9825c16fe0c718",
-      "score": 6
-    },
-    {
-      "title": "TAAG promises normalization of domestic and regional flights by Thursday, April 16th",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-promete-normalizacao-dos-voos-domesticos-e-regionais-ate-quinta-feira-dia-16/",
-      "source": "ANGOP",
-      "_key": "a7bf04a5656ac735",
-      "score": 6
-    },
-    {
-      "title": "Governo quer reduzir apagões com câmaras de vigilância",
-      "url": "https://correiokianda.info/governo-quer-reduzir-apagoes-com-camaras-de-vigilancia/",
-      "source": "Correio Kianda",
-      "_key": "5c62c4d5c7edffa5",
-      "score": 6
-    },
-    {
-      "title": "Angola Open Policy Initiative intensifica debate sobre boa governação e transparência em Angola",
-      "url": "https://holdonangola.com/angola-open-policy-initiative-intensifica-debate-sobre-boa-governacao-e-transparencia-em-angola/",
-      "source": "Hold On Angola",
-      "_key": "61bf3091b16a062d",
-      "score": 6
-    },
-    {
-      "title": "Mundo14/04/2026Gás natural dispara com falta de acordo ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673787/g%C3%A1s-natural-dispara-com-falta-de-acordo-",
-      "source": "Jornal de Angola",
-      "_key": "08819c1125ed3728",
-      "score": 6
-    },
-    {
-      "title": "Governo diz que vai colocar camaras de videovigilância...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/governo-diz-que-vai-colocar-camaras-de-videovigilancia-em-areas-criticas-da-linha-de-transportacao-da-energia-do-pais-71119.html",
-      "source": "Novo Jornal",
-      "_key": "3776940b74bc2eaa",
-      "score": 6
-    },
-    {
-      "title": "National Water Council has more than Akz 200 million for 2026",
-      "url": "https://www.angop.ao/en/noticias/politica/conselho-nacional-das-aguas-conta-com-mais-de-akz-200-milhoes-para-2026/",
-      "source": "ANGOP",
-      "_key": "d599b7ab784372f9",
-      "score": 5
-    },
-    {
-      "title": "Eugénio Laborinho assume governo do Cuanza Sul; houve também mudanças no Cunene",
-      "url": "https://diariodosnegocios.com/eugenio-laborinho-assume-governo-do-cuanza-sul-houve-tambem-mudancas-no-cunene/",
-      "source": "Diário dos Negócios",
-      "_key": "95869cc574525331",
-      "score": 5
-    },
-    {
-      "title": " Eugénio Laborinho assume governo do Cuanza Sul; houve também mudanças no Cunene ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_ea7ef9464f3f10",
-      "score": 5
-    },
-    {
-      "title": "João Lourenço nomeia Eugénio Laborinho como governador do Cuanza-Sul",
-      "url": "https://holdonangola.com/joao-lourenco-nomeia-eugenio-laborinho-como-governador-do-cuanza-sul/",
-      "source": "Hold On Angola",
-      "_key": "2e0acdb5e2194972",
-      "score": 5
-    },
-    {
-      "title": "Destaque Presidente João Lourenço vai trabalhar em Benguela após enchentesO Presidente da República, João Lourenço, vai trabalhar na próxima quarta-feira, 15, em Benguela, após as enchentes dos últimos dias para estar em contacto com as populações desalojadas e constatar o estado das infra-estruturas atingidas pela força das águas do rio do Cavaco.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673792/presidente-jo%C3%A3o-louren%C3%A7o-vai-trabalhar-em-benguela-ap%C3%B3s-enchentes",
-      "source": "Jornal de Angola",
-      "_key": "f26f65650b7f5847",
-      "score": 5
-    },
-    {
-      "title": "Destaque Governador de Benguela avalia obras de contenção das águasO governador de Benguela, constatou, esta terça-feira, as obras de vedação do principal ponto de rompimento do dique para contenção das águas, após transbordo do Rio Cavaco, situado no bairro da Seta.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673791/governador-de-benguela-avalia-obras-de-conten%C3%A7%C3%A3o-das-%C3%A1guas",
-      "source": "Jornal de Angola",
-      "_key": "f70745d60ab7f9b0",
-      "score": 5
-    },
-    {
-      "title": "PR viaja amanhã para Benguela para avaliar impacto...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-viaja-amanha-para-benguela-para-avaliar-impacto-das-cheias-71116.html",
-      "source": "Novo Jornal",
-      "_key": "dbe3aaed218b8fe8",
-      "score": 5
+      "_key": "54af24743f67cb73",
+      "score": 7
     }
   ]
 }
