@@ -1,74 +1,650 @@
 {
-  "date": "2026-04-13",
-  "total_extracted": 1655,
-  "total_new": 11,
-  "total_existing": 1644,
+  "date": "2026-04-14",
+  "total_extracted": 1477,
+  "total_new": 107,
+  "total_existing": 1370,
   "articles": [
     {
-      "title": "Polícia detém dirigente da FNLA e organizador do VI congresso do partido",
-      "url": "https://angola24horas.com/politica/item/34116-policia-detem-dirigente-da-fnla-e-organizador-do-vi-congresso-do-partido",
+      "title": "Angola to participate in the ICAO global symposium in Marrakech",
+      "url": "https://www.angop.ao/en/noticias/transporte/angola-participa-no-simposio-global-da-icao-em-marraquexe/",
+      "source": "ANGOP",
+      "_key": "feb733f5033015fa"
+    },
+    {
+      "title": "Death toll caused by floods in Benguela rises to eight",
+      "url": "https://www.angop.ao/en/noticias/sociedade/subiu-para-oito-o-numero-de-mortes-em-consequencia-das-cheias-em-benguela/",
+      "source": "ANGOP",
+      "_key": "759acb64bb2db4ab"
+    },
+    {
+      "title": "Parliament approves amendment to the Personal Data Protection Law",
+      "url": "https://www.angop.ao/en/noticias/politica/assembleia-nacional-aprova-na-generalidade-alteracao-a-lei-de-proteccao-de-dados-pessoais/",
+      "source": "ANGOP",
+      "_key": "993aee7420dd52f0"
+    },
+    {
+      "title": "President João Lourenço appoints Eugénio Laborinho as Governor of Cuanza-Sul",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-nomeia-eugenio-laborinho-como-governador-do-cuanza-sul/",
+      "source": "ANGOP",
+      "_key": "9123d11afdb2e640"
+    },
+    {
+      "title": "President João Lourenço makes change to the Board of Directors of the Central Bank",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-faz-alteracoes-no-conselho-de-administracao-do-bna/",
+      "source": "ANGOP",
+      "_key": "b08f2e731452bfc5"
+    },
+    {
+      "title": "Minister of the Environment recognizes the high ecological and heritage value of Malanje",
+      "url": "https://www.angop.ao/en/noticias/ambiente/ministra-do-ambiente-reafirma-elevado-valor-ecologico-e-patrimonial-de-malanje/",
+      "source": "ANGOP",
+      "_key": "b2da7d08639e083f"
+    },
+    {
+      "title": "Football: MINJUD and FAF aligned in the international projection of the sport",
+      "url": "https://www.angop.ao/en/noticias/desporto/futebol-minjud-e-faf-alinhadas-na-projeccao-internacional-da-modalidade/",
+      "source": "ANGOP",
+      "_key": "ebf4d83809422c28"
+    },
+    {
+      "title": "Cheias",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=395729",
+      "source": "ANGOP",
+      "_key": "17635a34bd807dcb"
+    },
+    {
+      "title": "Selecções",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=263764",
+      "source": "ANGOP",
+      "_key": "76c4780dd1eb079a"
+    },
+    {
+      "title": "Popemobile arrives in Angola’s capital",
+      "url": "https://www.angop.ao/en/noticias/politica/papamovel-ja-em-luanda/",
+      "source": "ANGOP",
+      "_key": "e7e3559856005116"
+    },
+    {
+      "title": "Ambassador urges Angolans in Türkiye to preserve peace and national unity",
+      "url": "https://www.angop.ao/en/noticias/politica/embaixador-exorta-angolanos-na-turquia-a-preservarem-a-paz-e-unidade-nacional/",
+      "source": "ANGOP",
+      "_key": "0bc2af8ea604cf25"
+    },
+    {
+      "title": "National Institute of Statistics pledges to decentralize official information",
+      "url": "https://www.angop.ao/en/noticias/economia/ine-empenhado-na-descentralizacao-das-informacoes-oficiais-de-angola/",
+      "source": "ANGOP",
+      "_key": "272a0e9de3deed9d"
+    },
+    {
+      "title": "Road accidents cause three deaths in Uíge Province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/acidentes-de-viacao-provocam-tres-mortos-no-uige/",
+      "source": "ANGOP",
+      "_key": "ae53a5b0f883c033"
+    },
+    {
+      "title": "Basketball Championship - Petro defeat Vila at quarterfinals",
+      "url": "https://www.angop.ao/en/noticias/desporto/basquetebol-petro-vence-vila-e-coloca-se-em-vantagem-nos-quartos-de-final/",
+      "source": "ANGOP",
+      "_key": "e10c191ee98fde14"
+    },
+    {
+      "title": "Inovação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=29034",
+      "source": "ANGOP",
+      "_key": "d6503e3b94ba1791"
+    },
+    {
+      "title": "Portugal",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3073",
+      "source": "ANGOP",
+      "_key": "4800ec67496cb8ee"
+    },
+    {
+      "title": "Ministério da Energia e Águas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=213108",
+      "source": "ANGOP",
+      "_key": "b0b59e2c8d53e2e3"
+    },
+    {
+      "title": "Sports Ministry reaffirms dissolution of Bodybuilding Federation",
+      "url": "https://www.angop.ao/en/noticias/desporto/rui-falcao-reafirma-anulacao-da-federacao-de-fisiculturismo/",
+      "source": "ANGOP",
+      "_key": "86afca91f09a5a7e"
+    },
+    {
+      "title": "TAAG garante normalização dos voos domésticos após constrangimentos operacionais",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34121-taag-garante-normalizacao-dos-voos-domesticos-apos-constrangimentos-operacionais",
       "source": "Angola 24 Horas",
-      "_key": "63736dd1677daa4f"
+      "_key": "d1fb61a9217a1363"
     },
     {
-      "title": "Analistas alertam para instrumentalização de movimentos cívicos emergentes em Angola",
-      "url": "https://correiokianda.info/analistas-alertam-para-instrumentalizacao-de-movimentos-civicos-emergentes-em-angola/",
+      "title": "Cheias em Benguela travam comboio do minério e arrastam casas, pessoas e animais",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34122-cheias-em-benguela-travam-comboio-do-minerio-e-arrastam-casas-pessoas-e-animais",
+      "source": "Angola 24 Horas",
+      "_key": "93a8c19afbf96a73"
+    },
+    {
+      "title": "Defesa de cidadãos russos e angolanos acusados de espionagem apresenta provas na terça-feira",
+      "url": "https://angola24horas.com/component/k2/item/34117-defesa-de-cidadaos-russos-e-angolanos-acusados-de-espionagem-apresenta-provas-na-terca-feira",
+      "source": "Angola 24 Horas",
+      "_key": "5793146432883642"
+    },
+    {
+      "title": "João Lourenço nomeia Eugénio Laborinho como Governador do Cuanza-Sul",
+      "url": "https://angola24horas.com/component/k2/item/34120-joao-lourenco-nomeia-eugenio-laborinho-como-governador-do-cuanza-sul",
+      "source": "Angola 24 Horas",
+      "_key": "d64ca2cce98e9677"
+    },
+    {
+      "title": "Governo projeta vender 40 mil imóveis até ao final de 2026",
+      "url": "https://angola24horas.com/sociedade/item/34124-governo-projeta-vender-40-mil-imoveis-ate-ao-final-de-2026",
+      "source": "Angola 24 Horas",
+      "_key": "963a1729bce8947a"
+    },
+    {
+      "title": "João Lourenço faz alteração no Conselho de Administração do BNA",
+      "url": "https://angola24horas.com/politica/item/34119-joao-lourenco-faz-alteracao-no-conselho-de-administracao-do-bna",
+      "source": "Angola 24 Horas",
+      "_key": "1dc46f7ae9ca6e30"
+    },
+    {
+      "title": "Conselho de Igrejas Cristãs Angolano pede ao Governo reforço do apoio a Benguela",
+      "url": "https://angola24horas.com/sociedade/item/34118-conselho-de-igrejas-cristas-angolano-pede-ao-governo-reforco-do-apoio-a-benguela",
+      "source": "Angola 24 Horas",
+      "_key": "7a96d61055677cdd"
+    },
+    {
+      "title": "MPLA manifesta solidariedade às vítimas das cheias em Benguela e apela à unidade nacional",
+      "url": "https://correiokianda.info/mpla-manifesta-solidariedade-as-vitimas-das-cheias-em-benguela-e-apela-a-unidade-nacional/",
       "source": "Correio Kianda",
-      "_key": "5c87dec37a0fd732"
+      "_key": "c74814dcd8a8e701"
     },
     {
-      "title": "Clamor das vítimas das cheias mobiliza campanha nacional de solidariedade",
-      "url": "https://correiokianda.info/clamor-das-vitimas-das-cheias-mobiliza-campanha-nacional-de-solidariedade/",
+      "title": "João Lourenço desloca-se a Benguela para avaliar impacto das cheias",
+      "url": "https://correiokianda.info/joao-lourenco-desloca-se-a-benguela-para-avaliar-impacto-das-cheias/",
       "source": "Correio Kianda",
-      "_key": "ab021adc95a84271"
+      "_key": "d7753c5d55f9752b"
     },
     {
-      "title": "Activista critica alegada falta de acompanhamento a bolseiros após formação no exterior",
-      "url": "https://correiokianda.info/activista-critica-alegada-falta-de-acompanhamento-a-bolseiros-apos-formacao-no-exterior/",
+      "title": "João Lourenço nomeia Eugénio Laborinho como governador do Cuanza Sul",
+      "url": "https://correiokianda.info/joao-lourenco-nomeia-eugenio-laborinho-como-governador-do-cuanza-sul/",
       "source": "Correio Kianda",
-      "_key": "b58c9f680b6f7593"
+      "_key": "cf34e7b3d9ec4350"
     },
     {
-      "title": "Tribunal sul-africano anula contrato milionário para muro fronteiriço com Moçambique",
-      "url": "https://forbesafricalusofona.com/tribunal-sul-africano-anula-contrato-milionario-para-muro-fronteirico-com-mocambique/",
+      "title": "Ingombota ganha liderança na cooperação entre cidades lusófonas",
+      "url": "https://correiokianda.info/ingombota-ganha-lideranca-na-cooperacao-entre-cidades-lusofonas/",
+      "source": "Correio Kianda",
+      "_key": "ac6463186339f064"
+    },
+    {
+      "title": "CSMJ abre concurso para presidências das comissões eleitorais provinciais",
+      "url": "https://correiokianda.info/csmj-abre-concurso-para-presidencias-das-comissoes-eleitorais-provinciais/",
+      "source": "Correio Kianda",
+      "_key": "f5df33d99aace49d"
+    },
+    {
+      "title": "RDC quer travar uso de dólar em numerário até 2027",
+      "url": "https://correiokianda.info/rdc-quer-travar-uso-de-dolar-em-numerario-ate-2027/",
+      "source": "Correio Kianda",
+      "_key": "e43924a18ba8808c"
+    },
+    {
+      "title": "Economistas minimizam impacto dos danos no Corredor do Lobito",
+      "url": "https://correiokianda.info/economistas-minimizam-impacto-dos-danos-no-corredor-do-lobito/",
+      "source": "Correio Kianda",
+      "_key": "81a92ef7edae6938"
+    },
+    {
+      "title": "Luanda regista chuva na madrugada e céu nublado indica possibilidade de novas precipitações",
+      "url": "https://correiokianda.info/luanda-regista-chuva-na-madrugada-e-ceu-nublado-indica-possibilidade-de-novas-precipitacoes/",
+      "source": "Correio Kianda",
+      "_key": "79c266a45c0af58b"
+    },
+    {
+      "title": "Cheias obrigam mulher a dar à luz no telhado em Benguela",
+      "url": "https://correiokianda.info/cheias-obrigam-mulher-a-dar-a-luz-no-telhado-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "da1be94d214d7111"
+    },
+    {
+      "title": "Manipulou a filha para inventar calúnias contra mim, diz funcionário da PGR acusado de abuso sexual",
+      "url": "https://correiokianda.info/manipulou-a-filha-para-inventar-calunias-contra-mim-diz-funcionario-da-pgr-acusado-de-abuso-sexual/",
+      "source": "Correio Kianda",
+      "_key": "cdd3362f530ef4cb"
+    },
+    {
+      "title": "Retomada circulação entre Benguela e Lobito após transbordo do Rio Cavaco",
+      "url": "https://correiokianda.info/retomada-circulacao-entre-benguela-e-lobito-apos-transbordo-do-rio-cavaco/",
+      "source": "Correio Kianda",
+      "_key": "b79579e97ed85bd1"
+    },
+    {
+      "title": "Crise energética na Vida Pacífica força “êxodo” de moradores para casa de familiares",
+      "url": "https://correiokianda.info/crise-energetica-na-vida-pacifica-forca-exodo-de-moradores-para-casa-de-familiares/",
+      "source": "Correio Kianda",
+      "_key": "ce1d1d589717a0bf"
+    },
+    {
+      "title": "Papa Leão XIV responde Trump e reforça posição contra a guerra",
+      "url": "https://correiokianda.info/papa-leao-xiv-responde-trump-e-reforca-posicao-contra-a-guerra/",
+      "source": "Correio Kianda",
+      "_key": "f0ad4e19bdb4f148"
+    },
+    {
+      "title": "Rússia retoma operação militar na Ucrânia após fim da trégua da Páscoa",
+      "url": "https://correiokianda.info/russia-retoma-operacao-militar-na-ucrania-apos-fim-da-tregua-da-pascoa/",
+      "source": "Correio Kianda",
+      "_key": "866b5827d829dcb3"
+    },
+    {
+      "title": "Trump ameaça eliminar navio iraniano que ignore bloqueio norte-americano no estreito de Ormuz",
+      "url": "https://correiokianda.info/trump-ameaca-eliminar-qualquer-navio-iraniano-que-ignore-bloqueio-norte-americano-no-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "162211df24f4d372"
+    },
+    {
+      "title": "Guiné-Bissau: Tribunal iliba ex-chefe da Armada no caso de tentativa de golpe de Estado",
+      "url": "https://correiokianda.info/guine-bissau-tribunal-iliba-ex-chefe-da-armada-no-caso-de-tentativa-de-golpe-de-estado/",
+      "source": "Correio Kianda",
+      "_key": "1745d23e06048ff5"
+    },
+    {
+      "title": "Cuba prepara-se para possível invasão americana",
+      "url": "https://correiokianda.info/cuba-prepara-se-para-possivel-invasao-americana/",
+      "source": "Correio Kianda",
+      "_key": "e5c1ee2e5d1cb6c3"
+    },
+    {
+      "title": "Lubango em duas velocidades: o centro evolui, a periferia sobrevive ",
+      "url": "https://correiokianda.info/lubango-em-duas-velocidades-o-centro-evolui-a-periferia-sobrevive/",
+      "source": "Correio Kianda",
+      "_key": "8ad655679e22816e"
+    },
+    {
+      "title": "        África12 horas atrás  Chapo alerta para possível crise de combustíveis em Moçambique O Presidente da FRELIMO e Chefe de Estado moçambicano, Daniel Chapo, alertou esta segunda-feira, em Maputo, para o risco de uma eventual crise de combustíveis no...   ",
+      "url": "https://correiokianda.info/chapo-alerta-para-possivel-crise-de-combustiveis-em-mocambique/",
+      "source": "Correio Kianda",
+      "_key": "17cc309a1539d1ae"
+    },
+    {
+      "title": "Verifying that you are not a robot...",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5d2bfca7d61c91"
+    },
+    {
+      "title": "Abertura de empresas é ponto forte de Angola, comércio internacional é maior entrave",
+      "url": "https://expansao.co.ao/angola/detalhe/abertura-de-empresas-e-ponto-forte-de-angola-comercio-internacional-e-maior-entrave-71104.html",
+      "source": "Expansão",
+      "_key": "810fe64c44d9793e"
+    },
+    {
+      "title": "Infraestrutura ferroviária cede e trava circulação no Corredor do Lobito",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_9dc3d2b5c41880"
+    },
+    {
+      "title": "PREI e PRODESI (quase) desapareceram do mapa em 2025",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8b5904c45513dc"
+    },
+    {
+      "title": "Quatro em cada cinco contratos comunicados ao SNCP foram ajustes directos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_a2be2df440d0b7"
+    },
+    {
+      "title": "Petróleo em alta | Oportunidade ou ilusão para a economia angolana?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_78e5358bdd55a7"
+    },
+    {
+      "title": "A ética | O grito da ministra das Finanças",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_f3501d47266770"
+    },
+    {
+      "title": "Um resgate de memórias do povo angolano",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_5403019f43cd61"
+    },
+    {
+      "title": "Petróleo recua apesar de bloqueio dos EUA a portos iranianos",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apesar-de-bloqueio-dos-eua-a-portos-iranianos-71108.html",
+      "source": "Expansão",
+      "_key": "f6a9ec3155b46f7e"
+    },
+    {
+      "title": "Novo imposto sobre rendimento não é feito a pensar nas zungueiras, assegura AGT",
+      "url": "https://expansao.co.ao/economia/detalhe/novo-imposto-sobre-rendimento-nao-e-feito-a-pensar-nas-zungueiras-assegura-agt-71105.html",
+      "source": "Expansão",
+      "_key": "c2438503e83dcb3f"
+    },
+    {
+      "title": "\"A interferência dos accionistas na gestão das seguradoras tem criado instabilidade no negócio\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/a-interferencia-dos-accionistas-na-gestao-das-seguradoras-tem-criado-instabilidade-no-negocio-71107.html",
+      "source": "Expansão",
+      "_key": "3ddb73cc7782b53f"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaPetróleo em alta | Oportunidade ou ilusão para a economia angolana?",
+      "url": "https://expansao.co.ao/opiniao/detalhe/petroleo-em-alta-oportunidade-ou-ilusao-para-a-economia-angolana-71106.html",
+      "source": "Expansão",
+      "_key": "9be58911c4b4a106"
+    },
+    {
+      "title": "Um resgate de memórias do povo angolanoO navio que carrega a história de sete nacionalistas angolanos, entre os quais José Eduardo dos Santos, exilados para o Congo em 1961..",
+      "url": "https://expansao.co.ao/weekend/agenda/detalhe/um-resgate-de-memorias-do-povo-angolano-71109.html",
+      "source": "Expansão",
+      "_key": "c29dd3031522dec2"
+    },
+    {
+      "title": "Reclusos em Cabo Verde transformam histórias de crime em projecto literário inédito",
+      "url": "https://forbesafricalusofona.com/reclusos-em-cabo-verde-transformam-historias-de-crime-em-projecto-literario-inedito/",
       "source": "Forbes África",
-      "_key": "2b452494edfa197b"
+      "_key": "ad954d5362dd68a3"
     },
     {
-      "title": "Destaque Benguela: Adiado início das aulas do III trimestre devido ao transbordo do Rio Cavaco O Governo Provincial de Benguela anunciou, hoje, o adiamento do início das aulas do III trimestre no município sede, devido ao impacto provocado pelo transbordo das águas do rio Cavaco, que afetaram várias comunidades e infra-estruturas na região.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673720/benguela:-adiado-in%C3%ADcio-das-aulas-do-iii-trimestre-devido-ao-transbordo-do-rio-cavaco-",
+      "title": "Acordo com Macau abre porta à entrada de seguradoras chinesas em Angola",
+      "url": "https://forbesafricalusofona.com/acordo-com-macau-abre-porta-a-entrada-de-seguradoras-chinesas-em-angola/",
+      "source": "Forbes África",
+      "_key": "f8fe7d985e082235"
+    },
+    {
+      "title": "Kenmare vê receitas cair 21% em Moçambique apesar de produção acima de 1 milhão de toneladas",
+      "url": "https://forbesafricalusofona.com/kenmare-ve-receitas-cair-21-em-mocambique-apesar-de-producao-acima-de-1-milhao-de-toneladas/",
+      "source": "Forbes África",
+      "_key": "8fc8b1d3055113fe"
+    },
+    {
+      "title": "Juventude Bloquista repudia detenção de activistas no Cazenga",
+      "url": "https://holdonangola.com/juventude-bloquista-repudia-detencao-de-activistas-no-cazenga/",
+      "source": "Hold On Angola",
+      "_key": "5213c3bbab13df83"
+    },
+    {
+      "title": "Destaque Comisão Multissectorial avalia condições na Muxima para visita do PapaA Comissão Multissectorial para preparação da visita do Papa Leão XIV a Angola, de 18 a 21 deste mês, constata, neste momento, as condições de acomodação na Vila da Muxima, na província de Icolo e Bengo.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673765/comis%C3%A3o-multissectorial-avalia-condi%C3%A7%C3%B5es-na-muxima-para-visita-do-papa",
       "source": "Jornal de Angola",
-      "_key": "aaf64e3b8c578b2b"
+      "_key": "7873dbb14ff411d8"
     },
     {
-      "title": "Destaque Retomada circulação rodoviária entre Benguela e Lobito após transbordo do Rio CavacoA circulação rodoviária entre as cidades de Benguela e Lobito, está retomada após um período de paralisação causada pelo transbordo das águas do rio Cavaco.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673719/retomada-circula%C3%A7%C3%A3o-rodovi%C3%A1ria-entre-benguela-e-lobito-ap%C3%B3s-transbordo-do-rio-cavaco",
+      "title": "Dia Nacional da Juventude: Executivo conta com jovens para o desenvolvimento do paísO país assinala, hoje, o Dia Nacional da Juventude, que constitui a maioria da população e com a qual o Governo conta para as tarefas de desenvolvimento.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673752/dia-nacional-da-juventude:-executivo-conta-com-jovens-para-o-desenvolvimento-do-pa%C3%ADs",
       "source": "Jornal de Angola",
-      "_key": "6cc08973f479cbcc"
+      "_key": "70b35bcca7fbee4a"
     },
     {
-      "title": "Regiões Malanje lança campanha para ajudar Benguela ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673718/malanje-lan%C3%A7a-campanha-para-ajudar-benguela",
+      "title": "Angola apresenta a parceiros visão sobre a economia globalA ministra das Finanças, Vera Daves de Sousa, participou, segunda-feira, em Washington DC, capital dos Estados Unidos da América, em diversos encontros, à margem das Reuniões de Primavera do Banco Mundial e do Fundo Monetário Internacional (FMI), que decorrem até sábado.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673748/angola-apresenta-a-parceiros-vis%C3%A3o-sobre-a-economia-global",
       "source": "Jornal de Angola",
-      "_key": "aea0952ce078a272"
+      "_key": "60856f622473fe1d"
     },
     {
-      "title": "Juiz José Lourenço Pereira começa a ser julgado nesta terça-feira",
-      "url": "https://www.opais.ao/politica/juiz-jose-lourenco-pereira-comeca-a-ser-julgado-nesta-terca-feira/",
-      "source": "O País",
-      "_key": "6cc7d6c9a4d1f61d"
+      "title": "Destaque TAAG activa plano para regularizar vôos domésticos e regionais após constrangimentosA TAAG anunciou a implementação de um plano de optimização para retoma progressiva da programação dos vôos domésticos e regionais, a partir de quinta-feira, após uma semana de constrangimentos operacionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673776/taag-activa-plano-para-regularizar-v%C3%B4os-dom%C3%A9sticos-e-regionais-ap%C3%B3s-constrangimentos",
+      "source": "Jornal de Angola",
+      "_key": "f9f3fea01433a0c7"
     },
     {
-      "title": "Conferência aposta na integração de sectores estratégicos para impulsionar economia",
-      "url": "https://www.opais.ao/economia/conferencia-aposta-na-integracao-de-sectores-estrategicos-para-impulsionar-economia/",
-      "source": "O País",
-      "_key": "53f200f6f392f5cc"
+      "title": "Destaque Região 5 realiza Fórum Consultivo de Alto Nível sobre Governação AntidopagemO Conselho Desportivo da União Africana (AUSC) - Região 5 realiza, hoje, em Gaborone, no Botswana, um Fórum Consultivo Virtual de Alto Nível sobre Governação Antidopagem. ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/673774/regi%C3%A3o-5-realiza-f%C3%B3rum-consultivo-de-alto-n%C3%ADvel-sobre-governa%C3%A7%C3%A3o-antidopagem",
+      "source": "Jornal de Angola",
+      "_key": "292f847dacef63e3"
     },
     {
-      "title": "Supremo Tribunal Militar com novo diploma a partir de 23 de Abril; proposta vai à votação final global",
-      "url": "https://www.opais.ao/politica/supremo-tribunal-militar-com-novo-diploma-a-partir-de-23-de-abril-proposta-vai-a-votacao-final-global/",
+      "title": "Desporto Cissé alerta para ausência de uma “varinha mágica” ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/673766/ciss%C3%A9-alerta-para-aus%C3%AAncia-de-uma-%E2%80%9Cvarinha-m%C3%A1gica%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "ca12a1f5ccd6ce95"
+    },
+    {
+      "title": "Política Eugénio Laborinho é novo governador do Cuanza-Sul ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673754/eug%C3%A9nio-laborinho-%C3%A9-novo-governador-do-cuanza-sul",
+      "source": "Jornal de Angola",
+      "_key": "73788953c5a0588b"
+    },
+    {
+      "title": "Economia Regresso da chuva devolve esperança aos agricultores ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673746/regresso-da-chuva-devolve-esperan%C3%A7a-aos-agricultores",
+      "source": "Jornal de Angola",
+      "_key": "3cca2f79992f8290"
+    },
+    {
+      "title": "Sociedade Batas brancas voltam a colorir as escolas de todo o território ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673741/batas-brancas-voltam-a-colorir-as-escolas-de-todo-o-territ%C3%B3rio",
+      "source": "Jornal de Angola",
+      "_key": "2ffdd2788e9a5146"
+    },
+    {
+      "title": "Sociedade Papamóveis e viatura de apoio em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673739/papam%C3%B3veis-e-viatura-de-apoio-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "ebf6d30ef84c8081"
+    },
+    {
+      "title": "Política Cooperação entre Angola e Nações Unidas analisada em Nova Iorque ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673727/coopera%C3%A7%C3%A3o-entre-angola-e-na%C3%A7%C3%B5es-unidas-analisada-em-nova-iorque-",
+      "source": "Jornal de Angola",
+      "_key": "ef26ebc77d991ebe"
+    },
+    {
+      "title": "Sociedade Jornalista lança livro sobre o julgamento e desfecho do mediático \"Caso BNA\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673724/jornalista-lan%C3%A7a-livro-sobre-o-julgamento-e-desfecho-do-medi%C3%A1tico-%22caso-bna%22",
+      "source": "Jornal de Angola",
+      "_key": "8fb0c72d4627a494"
+    },
+    {
+      "title": "Sociedade PFRHS impulsiona formação em enfermagem dermatológica ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673723/pfrhs-impulsiona-forma%C3%A7%C3%A3o-em-enfermagem-dermatol%C3%B3gica",
+      "source": "Jornal de Angola",
+      "_key": "8b914d13d5e7d7b0"
+    },
+    {
+      "title": "07:41 / 14 abr. 2026 Mais de mil famílias vítimas das chuvas recebem assistência ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673736/mais-de-mil-fam%C3%ADlias-v%C3%ADtimas-das-chuvas-recebem-assist%C3%AAncia",
+      "source": "Jornal de Angola",
+      "_key": "1d17e2a76fdd8401"
+    },
+    {
+      "title": "Economia / Há 1 hora Grandes Contribuintes crescem 63,1 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673747/grandes-contribuintes-crescem-631-por-cento",
+      "source": "Jornal de Angola",
+      "_key": "61544ed740fb7849"
+    },
+    {
+      "title": "Economia / Há 1 hora Notas estrangeiras à disposição equivalem a Kz 36,14 mil milhões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673745/notas-estrangeiras-%C3%A0-disposi%C3%A7%C3%A3o-equivalem-a-kz-3614-mil-milh%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "aef8b7af1d2e7add"
+    },
+    {
+      "title": "Economia / Há 1 hora Feira do Arroz inicia hoje em Camacupa ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673744/feira-do-arroz-inicia-hoje-em-camacupa",
+      "source": "Jornal de Angola",
+      "_key": "a5b57ef1ef349861"
+    },
+    {
+      "title": "Última hora Dois papamóveis chegam a Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673726/dois-papam%C3%B3veis-chegam-a-luanda",
+      "source": "Jornal de Angola",
+      "_key": "3322172f5ecf4ecf"
+    },
+    {
+      "title": "Eugénio Laborinho nomeado governador do Cuanza Sul",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/eugenio-laborinho-nomeado-governador-do-cuanza-sul-71100.html",
+      "source": "Novo Jornal",
+      "_key": "89ccac2eb9775f31"
+    },
+    {
+      "title": "Caso russos: julgamento é retomado esta terça-feira...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-julgamento-e-retomado-esta-terca-feira---tribunal-ira-dizer-se-arrola-acj-higino-carneiro-e-dino-matrosse-como-testemunhas-71112.html",
+      "source": "Novo Jornal",
+      "_key": "3e69f57b92ab0a21"
+    },
+    {
+      "title": "Veículo oficial do papa Leão XIV em Luanda",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/veiculo-oficial-do-papa-leao-xiv-em-luanda-71101.html",
+      "source": "Novo Jornal",
+      "_key": "5d523a4337e6473f"
+    },
+    {
+      "title": "Argélia: Ataque com explosivos visava atrapalhar visita...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/argelia-ataque-com-explosivos-visava-atrapalhar-visita-papal-leao-xiv-nao-duvida-que-o-futuro-pertence-aos-homens-e-mulheres-de-paz-71111.html",
+      "source": "Novo Jornal",
+      "_key": "c48e09be5b87fe0a"
+    },
+    {
+      "title": "Sorriso crónico: O naufrágio do paraíso",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/sorriso-cronico-o-naufragio-do-paraiso-71110.html",
+      "source": "Novo Jornal",
+      "_key": "cc200e68fc6219f6"
+    },
+    {
+      "title": "ELAS EM FOCO - Analisar e debater no feminino.  ",
+      "url": "https://marginal.co.ao/programas/elas-em-foco?ep=71103",
+      "source": "Novo Jornal",
+      "_key": "f021525e15c1ec09"
+    },
+    {
+      "title": "LUANDA DOWNTOWN: NEGÓCIO E EMPRESA O turismo e o desenvolvimento local: Desafios e oportunidades.",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=71099",
+      "source": "Novo Jornal",
+      "_key": "71a56c3288736329"
+    },
+    {
+      "title": "ROCK MARGINAL: ONDE O SILÊNCIO ACABA.  ",
+      "url": "https://marginal.co.ao/programas/rock-marginal?ep=71097",
+      "source": "Novo Jornal",
+      "_key": "d35c01512a316bbf"
+    },
+    {
+      "title": "Antigo ministro do Interior assume governação da província do Cuanza- Sul",
+      "url": "https://www.opais.ao/politica/antigo-ministro-do-interior-assume-governacao-da-provincia-do-cuanza-sul/",
       "source": "O País",
-      "_key": "364b83319046933e"
+      "_key": "f732420ff9ac619a"
+    },
+    {
+      "title": "Festa do Africano de MMA abre hoje as cortinas com Angola focada na revalidação do título",
+      "url": "https://www.opais.ao/desporto/festa-do-africano-de-mma-abre-hoje-as-cortinas-com-angola-focada-na-revalidacao-do-titulo/",
+      "source": "O País",
+      "_key": "0a557d5b9f3949b0"
+    },
+    {
+      "title": "Mulher dá à luz a gémeos sobre telhado em meio à tragédia das fortes chuvas em Benguela",
+      "url": "https://www.opais.ao/sociedade/mulher-da-a-luz-a-gemeos-sobre-telhado-em-meio-a-tragedia-das-fortes-chuvas-em-benguela/",
+      "source": "O País",
+      "_key": "550189eae72fc6a2"
+    },
+    {
+      "title": "Mãe queima filha com ferro de engomar no Kilamba",
+      "url": "https://www.opais.ao/sociedade/mae-queima-filha-com-ferro-de-engomar-no-kilamba/",
+      "source": "O País",
+      "_key": "bc82bbe21236d651"
+    },
+    {
+      "title": "Ministro dos Transportes garante conclusão das obras de construção do Novo Aeroporto Internacional de Cabinda em 2027",
+      "url": "https://www.opais.ao/sociedade/ministro-dos-transportes-garante-conclusao-das-obras-de-construcao-do-novo-aeroporto-internacional-de-cabinda-em-2027/",
+      "source": "O País",
+      "_key": "585981a028858295"
+    },
+    {
+      "title": "Vice-presidente da República orienta 1ª Sessão Ordinária do Conselho de Águas",
+      "url": "https://www.opais.ao/politica/vice-presidente-da-republica-orienta-1a-sessao-ordinaria-do-conselho-de-aguas/",
+      "source": "O País",
+      "_key": "63fedf28aa2f35f4"
+    },
+    {
+      "title": "Governador da Lunda-Sul constata nível de preparação dos locais da visita do Papa Leão XIV",
+      "url": "https://www.opais.ao/ultimas_hora/governador-da-lunda-sul-constata-nivel-de-preparacao-dos-locais-da-visita-do-papa-leao-xiv/",
+      "source": "O País",
+      "_key": "ea41356e1413a122"
+    },
+    {
+      "title": "Região 5 realiza fórum consultivo de alto nível sobre governação antidopagem",
+      "url": "https://www.opais.ao/desporto/regiao-5-realiza-forum-consultivo-de-alto-nivel-sobre-governacao-antidopagem/",
+      "source": "O País",
+      "_key": "3b791a3559c4bd63"
+    },
+    {
+      "title": "Tragédia em Benguela: INEMA assiste 40 pessoas com crise de pânico",
+      "url": "https://www.opais.ao/ultimas_hora/tragedia-em-benguela-inema-assiste-40-pessoas-com-crise-de-panico/",
+      "source": "O País",
+      "_key": "ac570adf5f70f021"
+    },
+    {
+      "title": "Avião proveniente de Roma aterra em Luanda com Papamóveis e carro de apoio à visita do Papa",
+      "url": "https://www.opais.ao/ultimas_hora/aviao-proveniente-de-roma-aterra-em-luanda-com-papamoveis-e-carro-de-apoio-a-visita-do-papa/",
+      "source": "O País",
+      "_key": "91a6824064d6a2f3"
+    },
+    {
+      "title": "Questões e preocupações perversas na filosofia africana",
+      "url": "https://www.opais.ao/opiniao/questoes-e-preocupacoes-perversas-na-filosofia-africana/",
+      "source": "O País",
+      "_key": "0013947c4c0a5bb8"
+    },
+    {
+      "title": "Carta do leitor: Luz eléctrica e lixo no Zango",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-luz-electrica-e-lixo-no-zango/",
+      "source": "O País",
+      "_key": "9e3e52bccf494eed"
+    },
+    {
+      "title": "É de hoje…Tragédia em Benguela",
+      "url": "https://www.opais.ao/opiniao/e-de-hojetragedia-em-benguela/",
+      "source": "O País",
+      "_key": "f086e8842d4b9caa"
+    },
+    {
+      "title": "Turismo de negócios",
+      "url": "https://www.opais.ao/opiniao/turismo-de-negocios/",
+      "source": "O País",
+      "_key": "ec799fbc5795b81a"
+    },
+    {
+      "title": "Eugénio Laborinho nomeado governador do Cuanza Sul",
+      "url": "https://www.opais.ao/politica/eugenio-laborinho-e-o-novo-governador-do-cuanza-sul/",
+      "source": "O País",
+      "_key": "8e57e62fd72bc74e"
+    },
+    {
+      "title": "Namibe promove seminário de Capacitação Fiscal Empresarial",
+      "url": "https://www.opais.ao/ultimas_hora/namibe-promove-seminario-de-capacitacao-fiscal-empresarial/",
+      "source": "O País",
+      "_key": "f0f9683171a9f677"
+    },
+    {
+      "title": "Think Young proporciona bootcamp de ia e robótica gratuito a estudantes angolanos",
+      "url": "https://www.opais.ao/sociedade/think-young-proporciona-bootcamp-de-ia-e-robotica-gratuito-a-estudantes-angolanos/",
+      "source": "O País",
+      "_key": "de2cefad92d26789"
+    },
+    {
+      "title": "Dominick Maia defende melhoria estrutural dos espaços culturais para alavancar o sector",
+      "url": "https://www.opais.ao/cultura/dominick-maia-defende-melhoria-estrutural-dos-espacos-culturais-para-alavancar-o-sector/",
+      "source": "O País",
+      "_key": "24de2bee6d878de4"
+    },
+    {
+      "title": "Artista plástico Abias Ilustrador estreia exposição “Fui desenhado em capítulos” na Galeria Tamar Golan",
+      "url": "https://www.opais.ao/cultura/artista-plastico-abias-ilustrador-estreia-exposicao-fui-desenhado-em-capitulos-na-galeria-tamar-golan/",
+      "source": "O País",
+      "_key": "e3c700c0b5b749b7"
+    },
+    {
+      "title": "Colectânea “Portas Entre´Abertas” junta treze autoras numa obra literária inédita",
+      "url": "https://www.opais.ao/cultura/colectanea-portas-entreabertas-junta-treze-autoras-numa-obra-literaria-inedita/",
+      "source": "O País",
+      "_key": "86ba3ae4296572eb"
     }
   ]
 }

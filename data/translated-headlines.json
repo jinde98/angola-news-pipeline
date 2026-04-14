@@ -1,24 +1,56 @@
 {
-  "date": "2026-04-13",
-  "total_new": 11,
-  "total_filtered": 2,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-14",
+  "total_new": 107,
+  "total_filtered": 6,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Destaque Retomada circulação rodoviária entre Benguela e Lobito após transbordo do Rio CavacoA circulação rodoviária entre as cidades de Benguela e Lobito, está retomada após um período de paralisação causada pelo transbordo das águas do rio Cavaco.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673719/retomada-circula%C3%A7%C3%A3o-rodovi%C3%A1ria-entre-benguela-e-lobito-ap%C3%B3s-transbordo-do-rio-cavaco",
-      "source": "Jornal de Angola",
-      "_key": "6cc08973f479cbcc",
+      "title": "Acordo com Macau abre porta à entrada de seguradoras chinesas em Angola",
+      "url": "https://forbesafricalusofona.com/acordo-com-macau-abre-porta-a-entrada-de-seguradoras-chinesas-em-angola/",
+      "source": "Forbes África",
+      "_key": "f8fe7d985e082235",
       "score": 7,
-      "title_cn": "本格拉和洛比托之间的公路交通在卡瓦科河转运后恢复。本格拉和洛比托之间的公路交通在卡瓦科河水转运造成停顿一段时间后恢复。"
+      "title_cn": "澳门协议为中国保险公司进入安哥拉打开大门"
     },
     {
-      "title": "Conferência aposta na integração de sectores estratégicos para impulsionar economia",
-      "url": "https://www.opais.ao/economia/conferencia-aposta-na-integracao-de-sectores-estrategicos-para-impulsionar-economia/",
-      "source": "O País",
-      "_key": "53f200f6f392f5cc",
-      "score": 6,
-      "title_cn": "会议致力于整合战略部门以促进经济发展"
+      "title": "RDC quer travar uso de dólar em numerário até 2027",
+      "url": "https://correiokianda.info/rdc-quer-travar-uso-de-dolar-em-numerario-ate-2027/",
+      "source": "Correio Kianda",
+      "_key": "e43924a18ba8808c",
+      "score": 5,
+      "title_cn": "刚果（金）计划在2027年前限制美元现金使用"
+    },
+    {
+      "title": "Abertura de empresas é ponto forte de Angola, comércio internacional é maior entrave",
+      "url": "https://expansao.co.ao/angola/detalhe/abertura-de-empresas-e-ponto-forte-de-angola-comercio-internacional-e-maior-entrave-71104.html",
+      "source": "Expansão",
+      "_key": "810fe64c44d9793e",
+      "score": 5,
+      "title_cn": "安哥拉公司注册便利，但国际贸易是最大障碍"
+    },
+    {
+      "title": "Petróleo em alta | Oportunidade ou ilusão para a economia angolana?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_78e5358bdd55a7",
+      "score": 5,
+      "title_cn": "油价上涨|对安哥拉经济来说 ， 机遇还是幻觉 ？"
+    },
+    {
+      "title": "Petróleo recua apesar de bloqueio dos EUA a portos iranianos",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apesar-de-bloqueio-dos-eua-a-portos-iranianos-71108.html",
+      "source": "Expansão",
+      "_key": "f6a9ec3155b46f7e",
+      "score": 5,
+      "title_cn": "尽管美国封锁伊朗港口，油价仍下跌"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaPetróleo em alta | Oportunidade ou ilusão para a economia angolana?",
+      "url": "https://expansao.co.ao/opiniao/detalhe/petroleo-em-alta-oportunidade-ou-ilusao-para-a-economia-angolana-71106.html",
+      "source": "Expansão",
+      "_key": "9be58911c4b4a106",
+      "score": 5,
+      "title_cn": "奇迹还是幻象？油价上涨对安哥拉经济是机遇还是泡影？"
     }
   ]
 }
