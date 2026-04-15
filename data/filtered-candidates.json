@@ -1,119 +1,63 @@
 {
   "date": "2026-04-15",
-  "total_new": 39,
-  "total_filtered": 16,
+  "total_new": 22,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Grandes contribuintes apontam falhas na AGT e pedem estabilidade fiscal",
-      "url": "https://forbesafricalusofona.com/grandes-contribuintes-apontam-falhas-na-agt-e-pedem-estabilidade-fiscal/",
-      "source": "Forbes África",
-      "_key": "e8134e2197896e7e",
-      "score": 9
-    },
-    {
-      "title": "Crescimento económico baixo e inflação alta colocam Angola na cauda...",
-      "url": "https://valoreconomico.co.ao/artigo/crescimento-economico-baixo-e-inflacao-alta-colocam-angola-na-cauda-da-regiao",
-      "source": "Valor Económico",
-      "_key": "81d7bce9e0fc0697",
-      "score": 9
-    },
-    {
-      "title": "SIC detém seguranças envolvidos no fornecimento de armas a marginais em Luanda",
-      "url": "https://angola24horas.com/sociedade/item/34136-sic-detem-segurancas-envolvidos-no-fornecimento-de-armas-a-marginais-em-luanda",
-      "source": "Angola 24 Horas",
-      "_key": "cbb012f4bfbff50c",
-      "score": 8
-    },
-    {
-      "title": "Huíla: PR dá aval a despesa de 107,6 milhões de euros...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/huila-pr-da-aval-a-despesa-de-1076-milhoes-de-euros-para-abastecimento-de-agua-em-caluquembe-71151.html",
-      "source": "Novo Jornal",
-      "_key": "3587751c704ad42e",
-      "score": 8
-    },
-    {
-      "title": "WB approves innovative budgetary support for Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/bm-aprova-apoio-orcamental-inovador-para-angola/",
-      "source": "ANGOP",
-      "_key": "52f5ea0bcda7aa2c",
-      "score": 7
-    },
-    {
-      "title": "Destaque Chefe de Estado constata obras de reconstrução dos diques do Ro CavacoO Presidente da República, João Lourenço, constatou, hoje, as obras de reconstrução do dique no rio Cavaco, no bairro da Seta Nova, local onde se registou o início do transbordo das águas, no passado domingo.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673848/chefe-de-estado-constata-obras-de-reconstru%C3%A7%C3%A3o-dos-diques-do-ro-cavaco",
-      "source": "Jornal de Angola",
-      "_key": "1cfb233407c6040f",
-      "score": 7
-    },
-    {
-      "title": "Angolan diamond sector to reach 16.2 Mln Carats in 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/sector-diamantifero-angolano-preve-atingir-16-2-milhoes-de-quilates-em-2026/",
-      "source": "ANGOP",
-      "_key": "462f00e901416ec6",
-      "score": 6
-    },
-    {
-      "title": "ecomomia",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=171197",
-      "source": "ANGOP",
-      "_key": "d84790a70a764096",
-      "score": 6
-    },
-    {
-      "title": "Chitotolo mine has potential to operate for more than 20 years",
-      "url": "https://www.angop.ao/en/noticias/economia/mina-de-chitotolo-com-potencial-de-exploracao-de-diamantes-para-mais-de-20-anos/",
-      "source": "ANGOP",
-      "_key": "16451213df259ab2",
-      "score": 6
-    },
-    {
-      "title": "Vera Daves advocates for greater access to credit for African companies",
-      "url": "https://www.angop.ao/en/noticias/economia/vera-daves-quer-mais-mais-instrumentos-de-acesso-a-credito-para-empresas-africanas/",
-      "source": "ANGOP",
-      "_key": "625bbe617ff5df6d",
-      "score": 6
-    },
-    {
-      "title": "Destaque João Lourenço orienta reunião da Comissão Nacional de Protecção Civil em BenguelaO Presidente João Lourenço orienta, neste momento, na sala de conferências do Museu Nacional de Arqueologia, em Benguela, a reunião da Comissão Nacional de Protecção Civil, no âmbito dos estragos causados pelo transbordo das águas do rio Cavaco, ocorrido no último domingo.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673868/jo%C3%A3o-louren%C3%A7o-orienta-reuni%C3%A3o-da-comiss%C3%A3o-nacional-de-protec%C3%A7%C3%A3o-civil-em-benguela",
-      "source": "Jornal de Angola",
-      "_key": "900f4bd4f5d22f75",
-      "score": 6
-    },
-    {
-      "title": "PR visita zonas afectadas pelas cheias e preside reunião com autoridades de Benguela",
-      "url": "https://www.opais.ao/politica/pr-visita-zonas-afectadas-pelas-cheias-e-preside-reuniao-com-autoridades-de-benguela/",
-      "source": "O País",
-      "_key": "ae794140289bb9db",
-      "score": 6
-    },
-    {
-      "title": "PGR e Provedoria alinham estratégias para o reforço da administração da justiça",
-      "url": "https://www.opais.ao/politica/pgr-e-provedoria-alinham-estrategias-para-o-reforco-da-administracao-da-justica/",
-      "source": "O País",
-      "_key": "16743a1338d75223",
-      "score": 6
-    },
-    {
-      "title": "Conselho Nacional de Águas defende implementação do Plano Estruturante no domínio dos recursos hídricos",
-      "url": "https://www.opais.ao/politica/conselho-nacional-de-aguas-defende-implementacao-do-plano-estruturante-no-dominio-dos-recursos-hidricos/",
-      "source": "O País",
-      "_key": "abd889d23b19dae0",
-      "score": 6
-    },
-    {
-      "title": "Portugal e offshores dominam investimentos angolanos lá fora",
+      "title": "Abertura de empresas é ponto forte de Angola, comércio internacional é maior entrave",
       "url": "",
       "source": "Expansão",
-      "_key": "t_d7a0644f09f743",
+      "_key": "t_7482f9f03b49ff",
+      "score": 8
+    },
+    {
+      "title": "Empresas e famílias estão a contabilizar danos em Benguela",
+      "url": "https://valoreconomico.co.ao/artigo/empresas-e-familias-estao-a-contabilizar-danos-em-benguela-14075",
+      "source": "Valor Económico",
+      "_key": "7a8aadc0a3a8069f",
+      "score": 7
+    },
+    {
+      "title": "Governo aposta em parceria global para garantir segurança hídrica e...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-aposta-em-parceria-global-para-garantir-seguranca-hidrica-e-biodiversidade",
+      "source": "Valor Económico",
+      "_key": "e80683a7c3221d37",
+      "score": 7
+    },
+    {
+      "title": "Digitalização da economia agrava riscos e acelera resposta tecnológica nacional",
+      "url": "https://valoreconomico.co.ao/artigo/digitalizacao-da-economia-agrava-riscos-e-acelera-resposta-tecnologica-nacional",
+      "source": "Valor Económico",
+      "_key": "0657c66d6709346d",
+      "score": 7
+    },
+    {
+      "title": "Angola and Congo trade cooperation requires greater control and organization",
+      "url": "https://www.angop.ao/en/noticias/politica/cooperacao-comercial-entre-angola-e-congo-exige-maior-controlo-e-organizacao/",
+      "source": "ANGOP",
+      "_key": "f5adbaf4c0cf191e",
+      "score": 6
+    },
+    {
+      "title": "Destaque Presidente da República termina visita de trabalho a BenguelaApós cerca de sete horas de visita de trabalho à província de Benguela, marcada pela avaliação, no terreno, dos estragos provocados pelo transbordo do rio Cavaco, o Presidente da República, João Lourenço, está de regresso a Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673872/presidente-da-rep%C3%BAblica-termina-visita-de-trabalho-a-benguela",
+      "source": "Jornal de Angola",
+      "_key": "3f73c368e0abda44",
+      "score": 6
+    },
+    {
+      "title": "President João Lourenço leads National Civil Protection Commission meeting",
+      "url": "https://www.angop.ao/en/noticias/politica/comissao-nacional-de-proteccao-civil-reune-se-no-museu-de-arqueologia/",
+      "source": "ANGOP",
+      "_key": "28f5ce9de8dd792e",
       "score": 5
     },
     {
-      "title": "Destaque Presidente João Lourenço interage com famílias no Centro de Acolhimento em Benguela O Chefe de Estado, João Lourenço, interagiu, esta quarta-feira, com as famílias que estão acolhidas no Novo Campismo, situado na zona F, arredores afectadas pelo transbordo das águas do rio Cavaco, no último domingo, em Benguela.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673836/presidente-jo%C3%A3o-louren%C3%A7o-interage-com-fam%C3%ADlias-no-centro-de-acolhimento-em-benguela-",
-      "source": "Jornal de Angola",
-      "_key": "7a8fd51aedfe3eb7",
+      "title": "Vandalização de bens públicos regista redução de 22% no I trimestre de 2026",
+      "url": "https://www.opais.ao/ultimas_hora/vandalizacao-de-bens-publicos-regista-reducao-de-22-no-i-trimestre-de-2026/",
+      "source": "O País",
+      "_key": "b9123d25ee7cc013",
       "score": 5
     }
   ]
