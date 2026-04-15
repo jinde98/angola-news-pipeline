@@ -1,288 +1,184 @@
 {
   "date": "2026-04-15",
-  "total_new": 88,
-  "total_filtered": 35,
+  "total_new": 76,
+  "total_filtered": 22,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola reforça parceria com a China para captar investimento em petróleo e minerais",
-      "url": "https://forbesafricalusofona.com/angola-reforca-parceria-com-a-china-para-captar-investimento-em-petroleo-e-minerais/",
-      "source": "Forbes África",
-      "_key": "cf2d2839f600dd8d",
-      "score": 10,
-      "title_cn": "安哥拉加强与中国合作，吸引石油和矿产投资"
-    },
-    {
-      "title": "Dragagem no Porto do Lobito atinge 57% e reforça capacidade para navios de grande porte",
-      "url": "https://www.opais.ao/economia/dragagem-no-porto-do-lobito-atinge-57-e-reforca-capacidade-para-navios-de-grande-porte/",
+      "title": "China amplia controlos de exportação e pressão geo-económica antes de encontro com Trump, diz mídia",
+      "url": "https://www.opais.ao/mundo/china-amplia-controlos-de-exportacao-e-pressao-geo-economica-antes-de-encontro-com-trump-diz-midia/",
       "source": "O País",
-      "_key": "b9a2388feef023b6",
+      "_key": "6d81cc53c7a91ef3",
       "score": 9,
-      "title_cn": "洛比托港疏浚工程完成57%，提升大型船舶停靠能力"
+      "title_cn": "媒体称，中美会晤前中国扩大出口管制并施加地缘经济压力"
     },
     {
-      "title": "Venda de divisas dispara 5,6% e BIC volta à posição...",
-      "url": "https://valoreconomico.co.ao/artigo/venda-de-divisas-dispara-5-6-e-bic-volta-a-posicao-dos-grandes",
-      "source": "Valor Económico",
-      "_key": "a64bbf77155a2c09",
-      "score": 9,
-      "title_cn": "外汇销售额飙升5.6%，BIC银行重回领先地位"
+      "title": "AGT reforça diálogo com grandes contribuintes e acelera reforma fiscal em Angola",
+      "url": "https://holdonangola.com/agt-reforca-dialogo-com-grandes-contribuintes-e-acelera-reforma-fiscal-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "e146650c5ab79fd4",
+      "score": 8,
+      "title_cn": "安哥拉税务总局加强与大纳税人对话，加速税制改革"
     },
     {
-      "title": "Falta de garantia jurídica afasta investidores de projectos habitacionais",
+      "title": "Fraca comunicação com fisco angolano é principal queixa de grandes contribuintes",
+      "url": "https://jornaloguardiao.com/2026/04/14/fraca-comunicacao-com-fisco-angolano-e-principal-queixa-de-grandes-contribuintes/",
+      "source": "Jornal O Guardião",
+      "_key": "eb61b2b52ba3b525",
+      "score": 8,
+      "title_cn": "安哥拉大纳税人主要抱怨与税务机关沟通不畅"
+    },
+    {
+      "title": " Fraca comunicação com fisco angolano é principal queixa de grandes contribuintes ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_25a82a13168e92",
+      "source": "Jornal O Guardião",
+      "_key": "t_d3b04383ae6e03",
       "score": 8,
-      "title_cn": "法律保障缺失阻碍投资者参与住房项目"
-    },
-    {
-      "title": "Falta de garantia jurídica afasta investidores de projectos habitacionaisA insegurança jurídica quanto à posse e legalização de terrenos, agravada por constantes conflitos fundiários, está a travar o investimento imobiliário no País. Apesar do défice habitacional de 2,2 milhões de casas, os riscos não compensam e estão a afastar potenciais investidores.",
-      "url": "https://expansao.co.ao/angola/detalhe/falta-de-garantia-juridica-afasta-investidores-de-projectos-habitacionais-71132.html",
-      "source": "Expansão",
-      "_key": "e797291b7d30cf5d",
-      "score": 8,
-      "title_cn": "法律保障缺失阻碍投资者参与住房项目"
-    },
-    {
-      "title": "Angola supera metas do PDN com produção de 15,19 milhões de quilates em 2025",
-      "url": "https://forbesafricalusofona.com/angola-supera-metas-do-pdn-com-producao-de-1519-milhoes-de-quilates-em-2025/",
-      "source": "Forbes África",
-      "_key": "f700955e5348ea86",
-      "score": 8,
-      "title_cn": "安哥拉2025年钻石产量达1519万克拉，超国家发展计划目标"
-    },
-    {
-      "title": "Produção de diamantes cresce 8% e exportações atingem 1,6 mil milhões de dólares em 2025",
-      "url": "https://www.opais.ao/economia/producao-de-diamantes-cresce-8-e-exportacoes-atingem-16-mil-milhoes-de-dolares-em-2025/",
-      "source": "O País",
-      "_key": "4ca49642226e4a01",
-      "score": 8,
-      "title_cn": "2025年钻石产量增长8%，出口额达16亿美元"
-    },
-    {
-      "title": "Produção de diamantes supera meta estabelecida no PDN 2023-2027",
-      "url": "https://www.opais.ao/economia/producao-de-diamantes-supera-meta-estabelecida-no-pdn-2023-2027/",
-      "source": "O País",
-      "_key": "f160dda70b57f155",
-      "score": 8,
-      "title_cn": "钻石产量超2023-2027年国家发展计划目标"
-    },
-    {
-      "title": "Angola and Namibia sign agreement for joint electrical interconnection project",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-e-namibia-reforcam-instrumentos-para-implementacao-do-projecto-de-interligacao-electrica/",
-      "source": "ANGOP",
-      "_key": "a572b0828df595ea",
-      "score": 7,
-      "title_cn": "安哥拉与纳米比亚签署联合电力互联项目协议"
-    },
-    {
-      "title": "Diamond sector accounts for 35pct of mining rights in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/sector-diamantifero-representa-35-dos-titulos-mineiros-em-angola/",
-      "source": "ANGOP",
-      "_key": "4f7b817a250e95ed",
-      "score": 7,
-      "title_cn": "钻石行业占安哥拉采矿权35%"
+      "title_cn": "与安哥拉税务部门沟通不畅是主要纳税人的主要抱怨"
     },
     {
       "title": "FMI vê Angola a crescer 2,3% e reduz previsão para a África subsaariana para 4,3%",
-      "url": "https://angola24horas.com/economia/item/34132-fmi-ve-angola-a-crescer-2-3-e-reduz-previsao-para-a-africa-subsaariana-para-4-3",
-      "source": "Angola 24 Horas",
-      "_key": "ae60dfe429f4af3c",
+      "url": "https://jornaloguardiao.com/2026/04/14/fmi-ve-angola-a-crescer-23-e-reduz-previsao-para-a-africa-subsaariana-para-43/",
+      "source": "Jornal O Guardião",
+      "_key": "f285f2b018d0e896",
       "score": 7,
-      "title_cn": "国际货币基金组织预测安哥拉增长2.3%，撒哈拉以南非洲降至4.3%"
+      "title_cn": "国际货币基金组织预测安哥拉增长2.3%，下调撒哈拉以南非洲预测至4.3%"
     },
     {
-      "title": "Angola e Namíbia avançam para interligação eléctrica e exportação de energia até 500 megawatts",
-      "url": "https://expansao.co.ao/angola/detalhe/angola-e-namibia-avancam-para-interligacao-eletrica-e-exportacao-de-energia-ate-500-megawatts-71136.html",
-      "source": "Expansão",
-      "_key": "ebdf9afc89ab761f",
+      "title": "Angola arrecadou 1,3 mil milhões de euros com exportação de diamantes em 2025",
+      "url": "https://jornaloguardiao.com/2026/04/14/angola-arrecadou-13-mil-milhoes-de-euros-com-exportacao-de-diamantes-em-2025/",
+      "source": "Jornal O Guardião",
+      "_key": "997a04c409f1d8c6",
       "score": 7,
-      "title_cn": "安哥拉与纳米比亚推进电力互联，拟出口500兆瓦电力"
+      "title_cn": "2025年安哥拉钻石出口创收13亿欧元"
     },
     {
-      "title": "FMI revê em alta crescimento do PIB para 2,3%, mas fica abaixo do ritmo da população",
-      "url": "https://expansao.co.ao/economia/detalhe/fmi-reve-em-alta-crescimento-do-pib-para-23-mas-fica-abaixo-do-ritmo-da-populacao-71138.html",
-      "source": "Expansão",
-      "_key": "f19ba3ff5098df97",
+      "title": "Governo americano anuncia fim da suspensão às sanções sobre petróleo iraniano",
+      "url": "https://jornaloguardiao.com/2026/04/15/governo-americano-anuncia-fim-da-suspensao-as-sancoes-sobre-petroleo-iraniano/",
+      "source": "Jornal O Guardião",
+      "_key": "7cbeaaecddda59c7",
       "score": 7,
-      "title_cn": "国际货币基金组织上调安哥拉GDP增长至2.3%，仍低于人口增速"
+      "title_cn": "美国政府宣布结束对伊朗石油制裁的暂停"
     },
     {
-      "title": "João Lourenço ‘mexe’ no Conselho do BNA e nomeia novo administrador não-executivo",
-      "url": "https://forbesafricalusofona.com/joao-lourenco-mexe-no-conselho-do-bna-e-nomeia-novo-administrador-nao-executivo/",
-      "source": "Forbes África",
-      "_key": "216f68deabff749c",
+      "title": " FMI vê Angola a crescer 2,3% e reduz previsão para a África subsaariana para 4,3% ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6b9c6a2a24ee2d",
       "score": 7,
-      "title_cn": "若昂·洛伦索（João Lourenço）调整安哥拉国家银行委员会，任命新非执行董事"
+      "title_cn": "国际货币基金组织预测安哥拉增长2.3%，下调撒哈拉以南非洲预测至4.3%"
     },
     {
-      "title": "Fluxos Líquidos de Capitais em Angola: not out of the...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/fluxos-liquidos-de-capitais-em-angola-not-out-of-the-woods-yet-71139.html",
+      "title": " Angola arrecadou 1,3 mil milhões de euros com exportação de diamantes em 2025 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e8cc4c5d5a3f08",
+      "score": 7,
+      "title_cn": "2025年安哥拉钻石出口创收13亿欧元"
+    },
+    {
+      "title": " Governo americano anuncia fim da suspensão às sanções sobre petróleo iraniano ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b1d6e3c38632b8",
+      "score": 7,
+      "title_cn": "美国政府宣布结束对伊朗石油制裁的暂停"
+    },
+    {
+      "title": "FMI vê Angola a crescer 2,3% e reduz previsão para...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/fmi-ve-angola-a-crescer-23-e-reduz-previsao-para-a-africa-subsaariana-para-43-71144.html",
       "source": "Novo Jornal",
-      "_key": "eeebbe522bac631a",
+      "_key": "96d9f27aa7e47788",
       "score": 7,
-      "title_cn": "安哥拉净资本流动：未脱困境"
+      "title_cn": "国际货币基金组织预测安哥拉增长2.3%并下调预测"
     },
     {
-      "title": "Execução das políticas público-privadas reúne membros do Governo e empresários no Lubango",
-      "url": "https://www.opais.ao/ultimas_hora/execucao-das-politicas-publico-privadas-reune-membros-do-governo-e-empresarios-no-lubango/",
-      "source": "O País",
-      "_key": "7017ac60dedd430b",
-      "score": 7,
-      "title_cn": "政府与商界代表齐聚卢班戈，共商公私合作政策实施"
-    },
-    {
-      "title": "‎Angola e Namíbia assinam acordo de interligação eléctrica",
-      "url": "https://www.opais.ao/politica/angola-e-namibia-assinam-acordo-de-interligacao-electrica/",
-      "source": "O País",
-      "_key": "63e5acee2917d855",
-      "score": 7,
-      "title_cn": "安哥拉与纳米比亚签署电力互联协议"
-    },
-    {
-      "title": "Ministro da Agricultura convida instituições que não financiam PEPs a sair de Angola",
-      "url": "https://expansao.co.ao/angola/detalhe/ministro-da-agricultura-convida-instituicoes-que-nao-financiam-peps-a-sair-de-angola-71135.html",
-      "source": "Expansão",
-      "_key": "d6dc686d8c22398c",
+      "title": "Angola’s diamond production grows 8%",
+      "url": "https://www.angop.ao/en/noticias/economia/producao-de-diamantes-em-angola-cresce-8-em-2025/",
+      "source": "ANGOP",
+      "_key": "a47553cd87ea72ed",
       "score": 6,
-      "title_cn": "农业部长呼吁不资助PEP项目的机构离开安哥拉"
+      "title_cn": "安哥拉钻石产量增长8%"
+    },
+    {
+      "title": "Angola e Namíbia avançam para construção conjunta da interligação elétrica",
+      "url": "https://jornaloguardiao.com/2026/04/14/angola-e-namibia-avancam-para-construcao-conjunta-da-interligacao-eletrica/",
+      "source": "Jornal O Guardião",
+      "_key": "a9587541528ebd0b",
+      "score": 6,
+      "title_cn": "安哥拉与纳米比亚推进电力互联项目联合建设"
+    },
+    {
+      "title": "FMI corta previsão do crescimento mundial para 3,1% em 2026",
+      "url": "https://jornaloguardiao.com/2026/04/14/fmi-corta-previsao-do-crescimento-mundial-para-31-em-2026/",
+      "source": "Jornal O Guardião",
+      "_key": "eb132c00f44a5002",
+      "score": 6,
+      "title_cn": "国际货币基金组织下调2026年全球经济增长预测至3.1%"
+    },
+    {
+      "title": " Angola e Namíbia avançam para construção conjunta da interligação elétrica ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_126f99602abf3f",
+      "score": 6,
+      "title_cn": "安哥拉与纳米比亚推进电力互联项目联合建设"
+    },
+    {
+      "title": " FMI corta previsão do crescimento mundial para 3,1% em 2026 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_1217d1e33a0872",
+      "score": 6,
+      "title_cn": "国际货币基金组织下调2026年全球经济增长预测至3.1%"
+    },
+    {
+      "title": "Angola recorre a empréstimo de 99,3 milhões de euros...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-recorre-a-emprestimo-de-993-milhoes-de-euros-para-modernizar-inamet-71148.html",
+      "source": "Novo Jornal",
+      "_key": "3ee7173aae0b7adb",
+      "score": 6,
+      "title_cn": "安哥拉申请9930万欧元贷款"
     },
     {
       "title": "IGAE com mais poder para apertar o cerco aos gestores públicos",
-      "url": "https://expansao.co.ao/angola/detalhe/igae-com-mais-poder-para-apertar-o-cerco-aos-gestores-publicos-71134.html",
-      "source": "Expansão",
-      "_key": "d5de5965f15d2c1b",
-      "score": 6,
-      "title_cn": "IGAE获更大权力，加强对公共管理者的监管"
-    },
-    {
-      "title": "Comissão do Mercado de Capitais lança sistema digital para reforçar transparência",
-      "url": "https://forbesafricalusofona.com/comissao-do-mercado-de-capitais-lanca-sistema-digital-para-reforcar-transparencia/",
-      "source": "Forbes África",
-      "_key": "debb8dd2ffb51ae1",
-      "score": 6,
-      "title_cn": "资本市场委员会推出数字系统，提升透明度"
-    },
-    {
-      "title": "PRS 2026 -Conheça os nomeados na categoria Engenharia & Construção",
-      "url": "https://forbesafricalusofona.com/prs-2026-conheca-os-nomeados-na-categoria-engenharia-construcao/",
-      "source": "Forbes África",
-      "_key": "ed07596e6e0c3e09",
-      "score": 6,
-      "title_cn": "PRS 2026 - 认识工程与建筑类别的提名者"
-    },
-    {
-      "title": "Fertilizantes sobem 45% e agravam pressão sobre agricultura",
-      "url": "https://valoreconomico.co.ao/artigo/fertilizantes-sobem-45-e-agravam-pressao-sobre-agricultura",
-      "source": "Valor Económico",
-      "_key": "59cf304b632d2e60",
-      "score": 6,
-      "title_cn": "化肥价格上涨45%，加剧农业生产压力"
-    },
-    {
-      "title": "Angola é o 11º país no mundo em que pedir...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-e-o-11-pais-no-mundo-em-que-pedir-dinheiro-aos-bancos-e-mais-caro",
-      "source": "Valor Económico",
-      "_key": "924f77ceb4067c0d",
-      "score": 6,
-      "title_cn": "安哥拉在全球“求助”难度排名第11位"
-    },
-    {
-      "title": "TAAG, AGT E BENGUELA: A ‘NOVA’ TRILOGIA DA INCOMPETÊNCIA DO...",
-      "url": "https://valoreconomico.co.ao/artigo/taag-agt-e-benguela-a-nova-trilogia-da-incompetencia-do-estado",
-      "source": "Valor Económico",
-      "_key": "0409d272f4d75285",
-      "score": 6,
-      "title_cn": "TAAG、AGT与本格拉：无能的“新三部曲”"
-    },
-    {
-      "title": "Diamonds",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4393",
-      "source": "ANGOP",
-      "_key": "68d02429c548306a",
-      "score": 5,
-      "title_cn": "钻石"
-    },
-    {
-      "title": "Angola: Relatório Anual do Mudei denuncia “padrão inequívoco” de repressão das liberdades em 2025",
-      "url": "https://holdonangola.com/angola-relatorio-anual-do-mudei-denuncia-padrao-inequivoco-de-repressao-das-liberdades-em-2025/",
+      "url": "https://holdonangola.com/igae-com-mais-poder-para-apertar-o-cerco-aos-gestores-publicos/",
       "source": "Hold On Angola",
-      "_key": "1a5ae8deb590cf24",
+      "_key": "503090a2cc5855d9",
       "score": 5,
-      "title_cn": "安哥拉：Mudei年度报告揭露2025年压制自由的“明确模式”"
+      "title_cn": "安哥拉国家行政总监察局获更大权力，加强对公共管理人员的监管"
     },
     {
-      "title": "Destaque Presidente da República já trabalha em BenguelaO Presidente da República, João Lourenço, desembarcou, há instantes, no Aeroporto Internacional Paulo Teixeira Jorge, na Catumbela, província de Benguela, onde vai avaliar os danos causados pelo transbordo das águas do rio Cavaco. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673822/presidente-da-rep%C3%BAblica-j%C3%A1-trabalha-em-benguela",
-      "source": "Jornal de Angola",
-      "_key": "deaf9d1b375bf54c",
+      "title": "ARC divulga boletim 2025 com crescimento nas concentrações…",
+      "url": "https://holdonangola.com/arc-divulga-boletim-2025-com-crescimento-nas-concentracoes-empresariais-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "b27b1d1e92dea73f",
       "score": 5,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）已抵达本格拉开展工作"
+      "title_cn": "安哥拉竞争监管局发布2025年公报，显示市场集中度增长"
     },
     {
-      "title": "Chefe de Estado avalia danos das enchentes em Benguela  Aumentou para cerca de oito mil pessoas o número de desalojados resultante do transbordo do rio Cavaco, anunciou, terça-feira, o governador de Benguela, Manuel Nunes Júnior.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673802/chefe-de-estado-avalia-danos-das-enchentes-em-benguela-",
-      "source": "Jornal de Angola",
-      "_key": "08bc281fa1de800d",
+      "title": "TAAG diz enfrentar contexto desafiante de disponibilidade de voos após protestos de passageiros",
+      "url": "https://jornaloguardiao.com/2026/04/14/taag-diz-enfrentar-contexto-desafiante-de-disponibilidade-de-voos-apos-protestos-de-passageiros/",
+      "source": "Jornal O Guardião",
+      "_key": "faa32628e47d3398",
       "score": 5,
-      "title_cn": "国家元首评估本格拉洪灾损失"
+      "title_cn": "安哥拉航空称乘客抗议后航班供应面临挑战"
     },
     {
-      "title": "Política Novo governador do Cuanza-Sul orientado a olhar potencial local ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673816/novo-governador-do-cuanza-sul-orientado-a-olhar-potencial-local",
-      "source": "Jornal de Angola",
-      "_key": "a7f278358291255d",
+      "title": " TAAG diz enfrentar contexto desafiante de disponibilidade de voos após protestos de passageiros ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_0bc216de155fac",
       "score": 5,
-      "title_cn": "政治：新宽扎南省省长受指示关注当地潜力"
+      "title_cn": "安哥拉航空称乘客抗议后航班供应面临挑战"
     },
     {
-      "title": "Política João Lourenço a caminho de Benguela para avaliar estragos das enchentes ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673811/jo%C3%A3o-louren%C3%A7o-a-caminho-de-benguela-para-avaliar-estragos-das-enchentes",
-      "source": "Jornal de Angola",
-      "_key": "70ff5bc0c1184d7e",
+      "title": "Angola cede aos transgénicos, mas trava sementes de...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-cede-aos-transgenicos-mas-trava-sementes-de-culturas-alimentares",
+      "source": "Valor Económico",
+      "_key": "9fe854d253df7727",
       "score": 5,
-      "title_cn": "政治：若昂·洛伦索（João Lourenço）前往本格拉评估洪灾"
-    },
-    {
-      "title": "Política Presidente João Lourenço vai trabalhar em Benguela na quarta-feira após enchentes ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673792/presidente-jo%C3%A3o-louren%C3%A7o-vai-trabalhar-em-benguela-na-quarta-feira-ap%C3%B3s-enchentes",
-      "source": "Jornal de Angola",
-      "_key": "3d9a310d3fdf9b54",
-      "score": 5,
-      "title_cn": "政治：洪灾后，总统若昂·洛伦索（João Lourenço）周三赴本格拉工作"
-    },
-    {
-      "title": "12:54 / 14 abr. 2026 Eugénio Laborinho empossado como governador do Cuanza-Sul ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673795/eug%C3%A9nio-laborinho-empossado-como-governador-do-cuanza-sul",
-      "source": "Jornal de Angola",
-      "_key": "0f156f9f3c022340",
-      "score": 5,
-      "title_cn": "欧热尼奥·拉博里尼奥（Eugénio Laborinho）宣誓就任宽扎南省省长"
-    },
-    {
-      "title": "Presidente da República trabalha hoje em Benguela para avaliar impactos das cheias",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-trabalha-hoje-em-benguela-para-avaliar-impactos-das-cheias/",
-      "source": "O País",
-      "_key": "e757f24af525852a",
-      "score": 5,
-      "title_cn": "总统今日在本格拉工作，评估洪灾影响"
-    },
-    {
-      "title": "Caso “Terrorismo”: Tribunal nega pedido de defesa para arrolar generais como testemunhas",
-      "url": "https://www.opais.ao/sociedade/caso-terrorismo-tribunal-nega-pedido-de-defesa-para-arrolar-generais-como-testemunhas/",
-      "source": "O País",
-      "_key": "0c223be76ff0f6f9",
-      "score": 5,
-      "title_cn": "“恐怖主义”案：法院驳回辩方传唤将军作证请求"
-    },
-    {
-      "title": "Sobe para 18 o número de mortos causados pelas chuvas em Benguela",
-      "url": "https://www.opais.ao/destaque/sobe-para-18-o-numero-de-mortos-causados-pelas-chuvas-em-benguela/",
-      "source": "O País",
-      "_key": "4f78b41b84ffc41b",
-      "score": 5,
-      "title_cn": "本格拉降雨致死人数升至18人"
+      "title_cn": "安哥拉接受转基因作物，但限制转基因种子"
     }
   ]
 }
