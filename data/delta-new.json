@@ -1,140 +1,626 @@
 {
-  "date": "2026-04-15",
-  "total_extracted": 1023,
-  "total_new": 22,
+  "date": "2026-04-16",
+  "total_extracted": 1104,
+  "total_new": 103,
   "total_existing": 1001,
   "articles": [
     {
-      "title": "Angola and Congo trade cooperation requires greater control and organization",
-      "url": "https://www.angop.ao/en/noticias/politica/cooperacao-comercial-entre-angola-e-congo-exige-maior-controlo-e-organizacao/",
+      "title": "Angolan Head of State to witness Denis Sassou Nguesso’s swearing-in ceremony",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-angolano-participa-da-investidura-de-denis-sassou-nguesso/",
       "source": "ANGOP",
-      "_key": "f5adbaf4c0cf191e"
+      "_key": "fccb5cd6d0e72d74"
     },
     {
-      "title": "President João Lourenço leads National Civil Protection Commission meeting",
-      "url": "https://www.angop.ao/en/noticias/politica/comissao-nacional-de-proteccao-civil-reune-se-no-museu-de-arqueologia/",
+      "title": "Camaiangala resumes production with 7,200-ton corn harvest",
+      "url": "https://www.angop.ao/en/noticias/agricultura/camaiangala-retoma-producao-com-colheita-de-sete-mil-toneladas-de-milho/",
       "source": "ANGOP",
-      "_key": "28f5ce9de8dd792e"
+      "_key": "14c772fad8cc72dd"
     },
     {
-      "title": "Angola strengthens water tower protection with lisima project",
-      "url": "https://www.angop.ao/en/noticias/ambiente/angola-reforca-proteccao-da-torre-de-agua-das-terras-altas-com-projecto-lisima/",
+      "title": "Angola’s extractive industry invests USD 215 million in social projects",
+      "url": "https://www.angop.ao/en/noticias/economia/industria-extractiva-investe-usd-215-milhoes-em-projectos-sociais-em-angola/",
       "source": "ANGOP",
-      "_key": "6db9e93e9e79624b"
+      "_key": "693eb56fc4308c2e"
     },
     {
-      "title": "Limitações constitucionais e passados judiciais travam ambições políticas de Ana Dias Lourenço e Fernando Miala",
-      "url": "https://diariodosnegocios.com/primeira-dama-e-general-miala-fora-da-candidatura-a-presidencia-da-republica/",
+      "title": "President João Lourenço instructs recovery of damaged infrastructure in Benguela",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-orienta-recuperacao-de-infra-estruturas-em-benguela/",
+      "source": "ANGOP",
+      "_key": "d77db9ccd2cd8e23"
+    },
+    {
+      "title": "President João Lourenço spends time with families affected by floods in Benguela",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-interage-com-familias-afectadas-pelas-inundacoes-em-benguela/",
+      "source": "ANGOP",
+      "_key": "1acc350aa295e2e3"
+    },
+    {
+      "title": "Brazilian authorities express solidarity with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/autoridades-brasileiras-manifestam-solidariedade-para-com-angola/",
+      "source": "ANGOP",
+      "_key": "069c7d005ee2d273"
+    },
+    {
+      "title": "President João Lourenço returns to Luanda from Benguela province",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-loureco-regressa-a-capital-do-pais/",
+      "source": "ANGOP",
+      "_key": "975896295c1306f2"
+    },
+    {
+      "title": "UK expresses willingness to support victims of flood in Benguela",
+      "url": "https://www.angop.ao/en/noticias/politica/reino-unido-manifesta-disponibilidade-para-apoiar-sinistrados-em-benguela/",
+      "source": "ANGOP",
+      "_key": "51b9d67afb600eb9"
+    },
+    {
+      "title": "President João Lourenço assesses emergency works on Cavaco dike to prevent further flooding",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-avalia-obras-do-dique-do-cavaco-no-epicentro-das-inundacoes/",
+      "source": "ANGOP",
+      "_key": "44714d6e52ec14bc"
+    },
+    {
+      "title": "Suspension of CFB trains cripples travel to Benguela",
+      "url": "https://www.angop.ao/en/noticias/transporte/suspensao-dos-comboios-do-cfb-sufoca-viagens-para-benguela/",
+      "source": "ANGOP",
+      "_key": "d43f91daf0c529ea"
+    },
+    {
+      "title": "Global Alliance praises Angola's progress in economic inclusion",
+      "url": "https://www.angop.ao/en/noticias/economia/alianca-global-elogia-avancos-de-angola-na-inclusao-economica/",
+      "source": "ANGOP",
+      "_key": "0b7b0a5077d012a1"
+    },
+    {
+      "title": "Angolan athlete wins 20th gold medal in African MMA Championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/evelise-mendes-garante-20o-ouro-ao-pais-no-africano-de-mma/",
+      "source": "ANGOP",
+      "_key": "a0295105923d8ee8"
+    },
+    {
+      "title": "Angola set foot on African and international stage- official",
+      "url": "https://www.angop.ao/en/noticias/desporto/angola-tem-se-reafirmado-no-cenario-africano-e-internacional-matos-cardoso/",
+      "source": "ANGOP",
+      "_key": "5f2fe669db395184"
+    },
+    {
+      "title": "Huambo govt launches third edition of regional technology fair",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/governo-lancada-3a-edicao-da-fertic-huambo/",
+      "source": "ANGOP",
+      "_key": "3e4da781940c67b2"
+    },
+    {
+      "title": "Angolan writer represents Africa in Latin American literary competition",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/escritor-atanagildo-paulo-representa-africa-no-concurso-literario-da-america-latina/",
+      "source": "ANGOP",
+      "_key": "793abca6358ffbfe"
+    },
+    {
+      "title": "Falta de manutenção do rio é \"razão base\" das cheias em Benguela – UNITA",
+      "url": "https://angola24horas.com/politica/item/34138-falta-de-manutencao-do-rio-e-razao-base-das-cheias-em-benguela-unita",
+      "source": "Angola 24 Horas",
+      "_key": "3992ce42ebdfc64a"
+    },
+    {
+      "title": "João Lourenço em Brazzaville para investidura de Denis Sassou Nguesso",
+      "url": "https://correiokianda.info/joao-lourenco-em-brazzaville-para-investidura-de-denis-sassou-nguesso/",
+      "source": "Correio Kianda",
+      "_key": "df05c5d37102948a"
+    },
+    {
+      "title": "FNLA mantém clima de tensão interna a pouco mais de um ano das eleições",
+      "url": "https://correiokianda.info/fnla-mantem-clima-de-tensao-interna-a-pouco-mais-de-um-ano-das-eleicoes/",
+      "source": "Correio Kianda",
+      "_key": "805b59e2203a9e4e"
+    },
+    {
+      "title": "Analista propõe mudanças na Constituição da República para melhor reflectir realidade angolana",
+      "url": "https://correiokianda.info/analista-propoe-mudancas-na-cra-para-melhor-reflectir-realidade-angolana/",
+      "source": "Correio Kianda",
+      "_key": "a1e380db15bef507"
+    },
+    {
+      "title": "Angola mobiliza-se para recepção do Papa Leão XIV",
+      "url": "https://correiokianda.info/angola-mobiliza-se-para-recepcao-do-papa-leao-xiv/",
+      "source": "Correio Kianda",
+      "_key": "506aa35dc4c11c07"
+    },
+    {
+      "title": "João Lourenço acompanha operações de assistência às populações em Benguela",
+      "url": "https://correiokianda.info/joao-lourenco-acompanha-operacoes-de-assistencia-as-populacoes-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "f8f92180bc0bc8ea"
+    },
+    {
+      "title": "Papa destaca pobreza e má gestão na visita aos Camarões",
+      "url": "https://correiokianda.info/papa-destaca-pobreza-e-ma-gestao-na-visita-aos-camaroes/",
+      "source": "Correio Kianda",
+      "_key": "5af79fe788e15181"
+    },
+    {
+      "title": "Queda nos preços do mercado internacional obriga Angola aumentar produção de Diamantes",
+      "url": "https://correiokianda.info/queda-nos-precos-do-mercado-internacional-obriga-angola-aumentar-producao-de-diamantes/",
+      "source": "Correio Kianda",
+      "_key": "4faeed4ec8925c38"
+    },
+    {
+      "title": "Economistas pedem intervenção urgente no Corredor do Lobito após danos das chuvas",
+      "url": "https://correiokianda.info/economistas-pedem-intervencao-urgente-no-corredor-do-lobito-apos-danos-causados-pelas-chuvas/",
+      "source": "Correio Kianda",
+      "_key": "c1de93e258872c65"
+    },
+    {
+      "title": "Caso russos: tribunal recusa arrolar Adalberto Costa Júnior e Higino Carneiro como testemunhas",
+      "url": "https://correiokianda.info/caso-russos-tribunal-recusa-arrolar-acj-e-higino-carneiro-como-testemunhas/",
+      "source": "Correio Kianda",
+      "_key": "fb2650bd29e73dbe"
+    },
+    {
+      "title": "CFB: suspensas ligações entre Lobito-Benguela e Benguela-Huambo",
+      "url": "https://correiokianda.info/cfb-suspensas-ligacoes-entre-lobito-benguela-e-benguela-huambo/",
+      "source": "Correio Kianda",
+      "_key": "252712b9fa927613"
+    },
+    {
+      "title": "Subinspector da Polícia Nacional detido por duplo homicídio em Luanda",
+      "url": "https://correiokianda.info/subinspector-da-policia-nacional-detido-por-duplo-homicidio-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "d919336a99189b03"
+    },
+    {
+      "title": "Sociedade civil denuncia situação “fora de controlo” após cheias em Benguela",
+      "url": "https://correiokianda.info/sociedade-civil-denuncia-situacao-fora-de-controlo-apos-cheias-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "99ac4e52032f721e"
+    },
+    {
+      "title": "Executivo anuncia soluções definitivas para problemas no rio Cavaco",
+      "url": "https://correiokianda.info/executivo-anuncia-solucoes-definitivas-para-problemas-no-rio-cavaco/",
+      "source": "Correio Kianda",
+      "_key": "d768d253bb91bd6f"
+    },
+    {
+      "title": "Brasil mostra-se solidário com vítimas das fortes chuvas em Angola",
+      "url": "https://correiokianda.info/brasil-mostra-se-solidario-com-vitimas-das-fortes-chuvas-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "2c2ca9d66dbaa339"
+    },
+    {
+      "title": "Rei de Espanha manifesta solidariedade a Angola após chuvas que causaram mortos",
+      "url": "https://correiokianda.info/rei-de-espanha-manifesta-solidariedade-a-angola-apos-chuvas-que-causaram-mortos/",
+      "source": "Correio Kianda",
+      "_key": "10728e949fb0c4d6"
+    },
+    {
+      "title": "Irão ameaça bloquear rotas estratégicas e aumenta tensão no comércio global",
+      "url": "https://correiokianda.info/irao-ameaca-bloquear-rotas-estrategicas-e-aumenta-tensao-no-comercio-global/",
+      "source": "Correio Kianda",
+      "_key": "afdf245c3f6770d0"
+    },
+    {
+      "title": "Especialista sublinha reconhecimento da UA como actor global pela França",
+      "url": "https://correiokianda.info/especialista-sublinha-reconhecimento-da-ua-como-actor-global-pela-franca/",
+      "source": "Correio Kianda",
+      "_key": "7d93f090d40c1155"
+    },
+    {
+      "title": "Sudão: ONU alerta para 700 mortes civis em quatro meses",
+      "url": "https://correiokianda.info/sudao-onu-alerta-para-700-mortes-civis-em-quatro-meses/",
+      "source": "Correio Kianda",
+      "_key": "ca3d19ac244807f5"
+    },
+    {
+      "title": "Vini manda calar Bellingham após derrota do Real Madrid em Munique",
+      "url": "https://correiokianda.info/vini-manda-calar-bellingham-apos-derrota-do-real-madrid-em-munique/",
+      "source": "Correio Kianda",
+      "_key": "0e3239927ac7cd2a"
+    },
+    {
+      "title": "Sporting eliminado e Real Madrid cai frente ao Bayern nos “quartos” da Champions",
+      "url": "https://correiokianda.info/sporting-eliminado-e-real-madrid-cai-frente-ao-bayern-nos-quartos-da-champions/",
+      "source": "Correio Kianda",
+      "_key": "4768a7d54f835b42"
+    },
+    {
+      "title": "Barcelona contesta arbitragem e anuncia queixa à UEFA após eliminação",
+      "url": "https://correiokianda.info/barcelona-contesta-arbitragem-e-anuncia-queixa-a-uefa-apos-eliminacao/",
+      "source": "Correio Kianda",
+      "_key": "a965a8c6a6cd03b3"
+    },
+    {
+      "title": "Angola brilha no Africano de MMA com 21 medalhas de ouro no primeiro dia",
+      "url": "https://correiokianda.info/angola-brilha-no-africano-de-mma-com-21-medalhas-de-ouro-no-primeiro-dia/",
+      "source": "Correio Kianda",
+      "_key": "989cb32ca8590df6"
+    },
+    {
+      "title": "Bayern e Real decidem vaga nas meias-finais da Champions no Allianz Arena",
+      "url": "https://correiokianda.info/bayern-e-real-decidem-vaga-nas-meias-finais-da-champions-no-allianz-arena/",
+      "source": "Correio Kianda",
+      "_key": "f6fa4be60eff0aa1"
+    },
+    {
+      "title": "Pacheco não perdeu o debate",
+      "url": "https://correiokianda.info/pacheco-nao-perdeu-o-debate/",
+      "source": "Correio Kianda",
+      "_key": "031c171caa0685b1"
+    },
+    {
+      "title": "O protocolo, a dor e o peso das imagens",
+      "url": "https://correiokianda.info/o-protocolo-a-dor-e-o-peso-das-imagens-2/",
+      "source": "Correio Kianda",
+      "_key": "d94e6d6d909d43fd"
+    },
+    {
+      "title": "Angola representada ao mais alto nível na assembleia das cidades e capitais lusófonas",
+      "url": "https://correiokianda.info/angola-representada-ao-mais-alto-nivel-na-assembleia-das-cidades-e-capitais-lusofonas/",
+      "source": "Correio Kianda",
+      "_key": "94a82b4d1c2d0149"
+    },
+    {
+      "title": "        África4 horas atrás  África do Sul: arrancou fase decisiva do julgamento de Julius Malema com discurso desafiante do líder do EFF Teve início a fase de pré-sentença no julgamento de Julius Malema, líder do Economic Freedom Fighters (EFF), no processo relacionado com uso indevido de arma de...   ",
+      "url": "https://correiokianda.info/africa-do-sul-arrancou-fase-decisiva-do-julgamento-de-julius-malema-com-discurso-desafiante-do-lider-do-eff/",
+      "source": "Correio Kianda",
+      "_key": "a77ad38ae0846dbc"
+    },
+    {
+      "title": "João Lourenço testemunha posse de Sassou Nguesso em Brazzaville",
+      "url": "https://diariodosnegocios.com/joao-lourenco-testemunha-posse-de-sassou-nguesso-em-brazzaville/",
       "source": "Diário dos Negócios",
-      "_key": "a970152232202c36"
+      "_key": "21cb86594a2f287a"
     },
     {
-      "title": " Limitações constitucionais e passados judiciais travam ambições políticas de Ana Dias Lourenço e Fernando Miala ",
+      "title": "PR coordena assistência às vítimas das cheias que fizeram 18 mortos",
+      "url": "https://diariodosnegocios.com/pr-coordena-assistencia-as-vitimas-das-cheias-que-fizeram-18-mortos/",
+      "source": "Diário dos Negócios",
+      "_key": "40d7ba4e9a0bf2ab"
+    },
+    {
+      "title": "Tribunal recusa arrolar ACJ e Higino Carneiro como testemunhas no “caso russos”",
+      "url": "https://diariodosnegocios.com/tribunal-recusa-arrolar-acj-e-higino-carneiro-como-testemunhas-no-caso-russos/",
+      "source": "Diário dos Negócios",
+      "_key": "774a0b2b92cfaf9a"
+    },
+    {
+      "title": " João Lourenço testemunha posse de Sassou Nguesso em Brazzaville ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_7e55f80cfc1075"
+      "_key": "t_b9de0242e0ac24"
     },
     {
-      "title": "Abertura de empresas é ponto forte de Angola, comércio internacional é maior entrave",
+      "title": " PR coordena assistência às vítimas das cheias que fizeram 18 mortos ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b0bb56658f2c36"
+    },
+    {
+      "title": " Tribunal recusa arrolar ACJ e Higino Carneiro como testemunhas no “caso russos” ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7188860fcf6e03"
+    },
+    {
+      "title": "SNCP \"aperta\" e quer técnicos das unidades de contratação pública qualificados",
+      "url": "https://expansao.co.ao/angola/detalhe/sncp-aperta-e-quer-tecnicos-das-unidades-de-contratacao-publica-qualificados-71157.html",
+      "source": "Expansão",
+      "_key": "c40a2d4e8fa4a5b4"
+    },
+    {
+      "title": "Angola e Namíbia avançam para interligação eléctrica e exportação de energia até 500 megawatts",
       "url": "",
       "source": "Expansão",
-      "_key": "t_7482f9f03b49ff"
+      "_key": "t_1d4046effdf42d"
     },
     {
-      "title": "Dinheiro em circulação em Moçambique cai pelo segundo mês consecutivo",
-      "url": "https://forbesafricalusofona.com/dinheiro-em-circulacao-em-mocambique-cai-pelo-segundo-mes-consecutivo/",
+      "title": "Efeito dominó | Fazer a única coisa em alta performance",
+      "url": "https://expansao.co.ao/gestao/detalhe/efeito-domino-fazer-a-unica-coisa-em-alta-performance-71158.html",
+      "source": "Expansão",
+      "_key": "eadaa01b374b0e30"
+    },
+    {
+      "title": "Angola nos mercados internacionais: Da crise de 2014 à recuperação internacional",
+      "url": "https://expansao.co.ao/analise/detalhe/angola-nos-mercados-internacionais-da-crise-de-2014-a-recuperacao-internacional-71159.html",
+      "source": "Expansão",
+      "_key": "35ff879c3cc43548"
+    },
+    {
+      "title": "Reservas Internacionais encolhem 472 milhões USD para 15,4 mil milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/reservas-internacionais-encolhem-472-milhoes-usd-para-154-mil-milhoes-usd-71133.html",
+      "source": "Expansão",
+      "_key": "376bc6025b72b094"
+    },
+    {
+      "title": "São Tomé e Príncipe bate recorde de turistas em 2025 com Portugal a liderar número de entradas",
+      "url": "https://forbesafricalusofona.com/sao-tome-e-principe-bate-recorde-de-turistas-em-2025-com-portugal-a-liderar-numero-de-entradas/",
       "source": "Forbes África",
-      "_key": "0f2de53e77d6831d"
+      "_key": "58f90e4942299711"
     },
     {
-      "title": "Destaque Presidente da República termina visita de trabalho a BenguelaApós cerca de sete horas de visita de trabalho à província de Benguela, marcada pela avaliação, no terreno, dos estragos provocados pelo transbordo do rio Cavaco, o Presidente da República, João Lourenço, está de regresso a Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673872/presidente-da-rep%C3%BAblica-termina-visita-de-trabalho-a-benguela",
+      "title": "Preços em Moçambique aumentam 0,22% em Março",
+      "url": "https://forbesafricalusofona.com/precos-em-mocambique-aumentam-022-em-marco/",
+      "source": "Forbes África",
+      "_key": "bad24e7d43e3e6fa"
+    },
+    {
+      "title": "Angola garante condições para visita do Papa Leão XIV e mobiliza todo o país",
+      "url": "https://forbesafricalusofona.com/angola-garante-condicoes-para-visita-do-papa-leao-xiv-e-mobiliza-todo-o-pais/",
+      "source": "Forbes África",
+      "_key": "9ca08dd01c4ab729"
+    },
+    {
+      "title": "Cerca de 90% da receita tributária do Estado angolano vem dos grandes contribuintes",
+      "url": "https://forbesafricalusofona.com/cerca-de-90-da-receita-tributaria-do-estado-angolano-vem-dos-grandes-contribuintes/",
+      "source": "Forbes África",
+      "_key": "399008ae99346eb9"
+    },
+    {
+      "title": "Moçambique aprova proposta de lei que autoriza Governo regular comércio e prestação de serviços mercantis",
+      "url": "https://forbesafricalusofona.com/mocambique-aprova-proposta-de-lei-que-autoriza-governo-regular-comercio-e-prestacao-de-servicos-mercantis/",
+      "source": "Forbes África",
+      "_key": "4cbd2ee451ef1d6a"
+    },
+    {
+      "title": "FMI revê em alta crescimento da economia de Angola este ano e Guiné Equatorial com quebras no PIB de 2,7%",
+      "url": "https://forbesafricalusofona.com/fmi-reve-em-alta-crescimento-da-economia-de-angola-este-ano-e-guine-equatorial-com-quebras-no-pib-de-27/",
+      "source": "Forbes África",
+      "_key": "698739e17776aedd"
+    },
+    {
+      "title": "Angolana Chitotolo prevê receita bruta acima dos 160 milhões USD este ano",
+      "url": "https://forbesafricalusofona.com/angolana-chitotolo-preve-receita-bruta-acima-dos-160-milhoes-usd-este-ano/",
+      "source": "Forbes África",
+      "_key": "00b1869990eefd93"
+    },
+    {
+      "title": "Lunda Tchokwe: Zecamutchima reforça apelo à autonomia e dignidade",
+      "url": "https://holdonangola.com/lunda-tchokwe-zecamutchima-reforca-apelo-a-autonomia-e-dignidade/",
+      "source": "Hold On Angola",
+      "_key": "e6eb543d105b780c"
+    },
+    {
+      "title": "Benguela: Especialista alerta para falhas estruturais após chuvas intensas",
+      "url": "https://holdonangola.com/benguela-especialista-alerta-para-falhas-estruturais-apos-chuvas-intensas/",
+      "source": "Hold On Angola",
+      "_key": "1d78fda3c58bae71"
+    },
+    {
+      "title": "Quinta-feira, 16 de Abril, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_bccf1d821eced5"
+    },
+    {
+      "title": "Obras estruturantes nos rios Cavaco e Catumbela vão evitar novas cheias O Executivo vai realizar, a partir de Maio deste ano, obras estruturantes ao longo dos rios Cavaco e Catumbela, com o objectivo de evitar novas inundações e minimizar os impactos das chuvas na vida da população.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673882/obras-estruturantes-nos-rios-cavaco-e-catumbela-v%C3%A3o-evitar-novas-cheias",
       "source": "Jornal de Angola",
-      "_key": "3f73c368e0abda44"
+      "_key": "5ab009ec77549212"
     },
     {
-      "title": "Destaque Mais de mil jornalistas credenciados para cobertura da visita do Papa a AngolaMais de mil jornalistas estão credenciados para a cobertura do Papa Leão XIV a Angola, de 18 a 21 deste mês. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673870/mais-de-mil-jornalistas-credenciados-para-cobertura-da-visita-do-papa-a-angola",
+      "title": "Destaque Angola realiza primeira cirurgia de escoliose Uma jovem de 22 anos de idade, que padecia há mais de uma década com uma deformidade severa da coluna foi operada com sucesso, hoje, em Luanda, marcando o início da primeira cirurgia de escoliose realizada em Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673879/angola-realiza-primeira-cirurgia-de-escoliose-",
       "source": "Jornal de Angola",
-      "_key": "728556db2bf3f134"
+      "_key": "748c11f3c63c008d"
     },
     {
-      "title": "Sociedade Angola e Brasil reforçam cooperação no domínio da inspecção administrativa ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673871/angola-e-brasil-refor%C3%A7am-coopera%C3%A7%C3%A3o-no-dom%C3%ADnio-da-inspec%C3%A7%C3%A3o-administrativa",
+      "title": "Destaque Leão XIV nos Camarões para segunda etapa da viagem apostólica em ÁfricaO Papa Leão XIV chegou aos Camarões, na tarde desta quarta-feira, para cumprir a segunda etapa da viagem apostólica em África. ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673875/le%C3%A3o-xiv-nos-camar%C3%B5es-para-segunda-etapa-da-viagem-apost%C3%B3lica-em-%C3%A1frica",
       "source": "Jornal de Angola",
-      "_key": "bdf367102b169981"
+      "_key": "41cf28357621aa00"
     },
     {
-      "title": "Médio Oriente: Trump abre Estreito de Ormuz à China...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-abre-estreito-de-ormuz-a-china-apos-dezenas-de-navios-chineses-ignorarem-bloqueio-dos-eua-irao-comeca-a-sentir-efeitos-da-pressao-de-washington-71154.html",
+      "title": "Destaque Chefe de Estado em Brazzaville para investidura do homólogo do Congo O Presidente da República, João Lourenço, chegou, na manhã desta quarta-feira, na cidade de Brazzaville, para o acto de investidura do estadista do Congo, Denis Sassou Nguesso.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673908/chefe-de-estado-em-brazzaville-para-investidura-do-hom%C3%B3logo-do-congo-",
+      "source": "Jornal de Angola",
+      "_key": "6bac21827f2d3289"
+    },
+    {
+      "title": "Destaque João Lourenço a caminho de Brazzaville para investidura de Denis Sassou NguessoO Presidente da República, João Lourenço, deixou, Luanda, na manhã desta quinta-feira, com destino ao Congo Brazzaville, onde vai testemunhar a investidura do homólogo Denis Sassou Nguesso. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673888/jo%C3%A3o-louren%C3%A7o-a-caminho-de-brazzaville-para-investidura-de-denis-sassou-nguesso",
+      "source": "Jornal de Angola",
+      "_key": "a57fee99365147a6"
+    },
+    {
+      "title": "Sociedade Credenciamento de jornalistas arranca hoje ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673896/credenciamento-de-jornalistas-arranca-hoje",
+      "source": "Jornal de Angola",
+      "_key": "f4e9d1ad93662aa6"
+    },
+    {
+      "title": "Política PADDA anuncia saída definitiva da CASA-CE ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673894/padda-anuncia-sa%C3%ADda-definitiva-da-casa-ce",
+      "source": "Jornal de Angola",
+      "_key": "24b6ff2e66a8cf80"
+    },
+    {
+      "title": "Política Luanda acolhe reunião do Conselho da OPM ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673892/luanda-acolhe-reuni%C3%A3o-do-conselho-da-opm",
+      "source": "Jornal de Angola",
+      "_key": "4a196f6a0a6e1475"
+    },
+    {
+      "title": "Política Chefe de Estado testemunha o empossamento de Nguesso ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673886/chefe-de-estado-testemunha-o-empossamento-de-nguesso",
+      "source": "Jornal de Angola",
+      "_key": "379ddfb891b2354a"
+    },
+    {
+      "title": "Sociedade Bié acolhe formação especializada em Bioquímica Clínica e outorga de diplomas ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673881/bi%C3%A9-acolhe-forma%C3%A7%C3%A3o-especializada-em-bioqu%C3%ADmica-cl%C3%ADnica-e-outorga-de-diplomas-",
+      "source": "Jornal de Angola",
+      "_key": "1eaf72e67e0e422e"
+    },
+    {
+      "title": "Política João Lourenço regressa a Luanda após missão em Benguela ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673880/jo%C3%A3o-louren%C3%A7o-regressa-a-luanda-ap%C3%B3s-miss%C3%A3o-em-benguela-",
+      "source": "Jornal de Angola",
+      "_key": "16217dfadabe97a1"
+    },
+    {
+      "title": "Mundo Papa apela a dirigentes dos Camarões que \"rompam com a corrupção\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673878/papa-apela-a-dirigentes-dos-camar%C3%B5es-que-%22rompam-com-a-corrup%C3%A7%C3%A3o%22",
+      "source": "Jornal de Angola",
+      "_key": "e02f2bd72b5b4203"
+    },
+    {
+      "title": "Política Seis novos embaixadores apresentam cartas figuradas no MIREX ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673877/seis-novos-embaixadores-apresentam-cartas-figuradas-no-mirex",
+      "source": "Jornal de Angola",
+      "_key": "32e4a9da4705455c"
+    },
+    {
+      "title": "Política Brasil solidariza-se com vítimas das fortes chuvas em Angola ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673876/brasil-solidariza-se-com-v%C3%ADtimas-das-fortes-chuvas-em-angola-",
+      "source": "Jornal de Angola",
+      "_key": "8d32ab79e1526259"
+    },
+    {
+      "title": "PR assiste hoje à investidura de Denis Sassou Nguesso...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-assiste-hoje-a-investidura-de-denis-sassou-nguesso-na-republica-do-congo-71161.html",
       "source": "Novo Jornal",
-      "_key": "fba4ee07573da389"
+      "_key": "156174245d6c73ca"
     },
     {
-      "title": "Chuvas: Rei de Espanha solidário com o povo angolano face às \"trágicas consequências\" das inundações",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/chuvas-rei-de-espanha-solidario-com-o-povo-angolano-face-as-tragicas-consequencias-das-inundacoes-71155.html",
+      "title": "Camarões: Papa insiste na promoção da paz e volta a...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/camaroes-papa-insiste-na-promocao-da-paz-e-volta-a-ignorar-donald-trump-leao-xiv-quer-ver-rebentar-as-correntes-da-corrupcao-em-todo-o-mundo-71162.html",
       "source": "Novo Jornal",
-      "_key": "199c67bd80ed3275"
+      "_key": "af5fc23506f2f08a"
     },
     {
-      "title": "Mais de mil jornalistas credenciados para cobrir visita do Papa Leão XIV em Angola",
-      "url": "https://www.opais.ao/ultimas_hora/mais-de-mil-jornalistas-credenciados-para-cobrir-visita-do-papa-leao-xiv-em-angola/",
+      "title": "Dia internacional do jazz: a celebração da liberdade...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/dia-internacional-do-jazz-a-celebracao-da-liberdade-criatividade-e-dialogo-entre-culturas-i-71163.html",
+      "source": "Novo Jornal",
+      "_key": "cc486b3b81727267"
+    },
+    {
+      "title": "Angola reforça cooperação com a China para formação de quadros e desenvolvimento sustentável",
+      "url": "https://www.opais.ao/sociedade/angola-reforca-cooperacao-com-a-china-para-formacao-de-quadros-e-desenvolvimento-sustentavel/",
       "source": "O País",
-      "_key": "9c0deaee35db3c6b"
+      "_key": "dc145b58a78ccea4"
     },
     {
-      "title": "Comissão do Vaticano avalia condições na Muxima para recepção do Papa Leão XIV",
-      "url": "https://www.opais.ao/ultimas_hora/comissao-do-vaticano-avalia-condicoes-na-muxima-para-recepcao-do-papa-leao-xiv/",
+      "title": "Interclube cruza com Bravos do Maquis nos “oitavos” da Taça de Angola",
+      "url": "https://www.opais.ao/desporto/interclube-cruza-com-bravos-do-maquis-nos-oitavos-da-taca-de-angola/",
       "source": "O País",
-      "_key": "744917520f7f205d"
+      "_key": "d8dc90ee01f025d5"
     },
     {
-      "title": "Alda Quaresma de Assunção Ramos é a nova embaixadora de São Tomé e Príncipe em Angola",
-      "url": "https://www.opais.ao/politica/alda-quaresma-de-assuncao-ramos-e-a-nova-embaixadora-de-sao-tome-e-principe-em-angola/",
+      "title": "Detido subinspector da PN autor do duplo homicídio no Zango 3",
+      "url": "https://www.opais.ao/sociedade/detido-subinspector-da-pn-autor-do-duplo-homicidio-no-zango-3/",
       "source": "O País",
-      "_key": "258ca65438e37a9e"
+      "_key": "fa6f951f6e26ff5f"
     },
     {
-      "title": "Captura de pescado no Namibe regista decréscimo de 59% no I trimestre de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/captura-de-pescado-no-namibe-regista-decrescimo-de-59-no-i-trimestre-de-2026/",
+      "title": "Autoridades asseguram prontidão logística e de segurança para visita do Papa",
+      "url": "https://www.opais.ao/politica/autoridades-asseguram-prontidao-logistica-e-de-seguranca-para-visita-do-papa/",
       "source": "O País",
-      "_key": "7e061e1694c7a72b"
+      "_key": "5c746bf0916682ae"
     },
     {
-      "title": "Vandalização de bens públicos regista redução de 22% no I trimestre de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/vandalizacao-de-bens-publicos-regista-reducao-de-22-no-i-trimestre-de-2026/",
+      "title": "Presidente da República interage com vítimas, visita zonas afectadas por cheias e orienta “medidas urgentes”",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-interage-com-vitimas-visita-zonas-afectadas-por-cheias-e-orienta-medidas-urgentes/",
       "source": "O País",
-      "_key": "b9123d25ee7cc013"
+      "_key": "c355fbe6d65df420"
     },
     {
-      "title": "Empresas e famílias estão a contabilizar danos em Benguela",
-      "url": "https://valoreconomico.co.ao/artigo/empresas-e-familias-estao-a-contabilizar-danos-em-benguela-14075",
-      "source": "Valor Económico",
-      "_key": "7a8aadc0a3a8069f"
+      "title": "Presidente do Barcelona anuncia abertura de queixa contra equipa de arbitragem dos dois jogos dos quartos-de-final da Champions",
+      "url": "https://www.opais.ao/desporto/presidente-do-barcelona-anuncia-abertura-de-queixa-contra-equipa-de-arbitragem-dos-dois-jogos-dos-quartos-de-final-da-champions/",
+      "source": "O País",
+      "_key": "79e45c8fbd702927"
     },
     {
-      "title": "BPI e Caixa Geral encaixam 163,9 milhões de euros...",
-      "url": "https://valoreconomico.co.ao/artigo/bpi-e-caixa-geral-encaixam-163-9-milhoes-de-euros-das-sucursais-em-angola",
-      "source": "Valor Económico",
-      "_key": "9ce8b8b9b1d5dc25"
+      "title": "Tiroteio em escola na Turquia provoca nove mortos e 13 feridos",
+      "url": "https://www.opais.ao/mundo/tiroteio-em-escola-na-turquia-provoca-nove-mortos-e-13-feridos/",
+      "source": "O País",
+      "_key": "a9143aecc799dc00"
     },
     {
-      "title": "Emirais e KFC trabalham em acordo para terminar com a...",
-      "url": "https://valoreconomico.co.ao/artigo/emirais-e-kfc-trabalham-em-acordo-para-terminar-com-a-importacao-de-frango-14074",
-      "source": "Valor Económico",
-      "_key": "0ab0816301ad2505"
+      "title": "Embaixador alerta ao reforço do controlo na entrada de produtos angolanos no Congo",
+      "url": "https://www.opais.ao/ultimas_hora/embaixador-alerta-ao-reforco-do-controlo-na-entrada-de-produtos-angolanos-no-congo/",
+      "source": "O País",
+      "_key": "b3393378f15e33fd"
     },
     {
-      "title": "Governo aposta em parceria global para garantir segurança hídrica e...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-aposta-em-parceria-global-para-garantir-seguranca-hidrica-e-biodiversidade",
-      "source": "Valor Económico",
-      "_key": "e80683a7c3221d37"
+      "title": "Desabamento de residências mata três membros da mesma família no Lubango",
+      "url": "https://www.opais.ao/ultimas_hora/desabamento-de-residencias-mata-tres-membros-da-mesma-familia-no-lubango/",
+      "source": "O País",
+      "_key": "f99018739a627bf0"
     },
     {
-      "title": "Digitalização da economia agrava riscos e acelera resposta tecnológica nacional",
-      "url": "https://valoreconomico.co.ao/artigo/digitalizacao-da-economia-agrava-riscos-e-acelera-resposta-tecnologica-nacional",
-      "source": "Valor Económico",
-      "_key": "0657c66d6709346d"
+      "title": "Care Connect estende as mãos a famílias com filhos autistas",
+      "url": "https://www.opais.ao/sociedade/care-connect-estende-as-maos-a-familias-com-filhos-autistas/",
+      "source": "O País",
+      "_key": "a7ed281b29e52407"
+    },
+    {
+      "title": "Complexo “Pedalé” realiza primeira cirurgia de escoliose em Angola",
+      "url": "https://www.opais.ao/sociedade/complexo-pedale-realiza-primeira-cirurgia-de-escoliose-em-angola/",
+      "source": "O País",
+      "_key": "236ad1e697873b36"
+    },
+    {
+      "title": "Comissão Ad-Hoc reforça cooperação com a Embaixada dos EUA",
+      "url": "https://www.opais.ao/politica/comissao-ad-hoc-reforca-cooperacao-com-a-embaixada-dos-eua/",
+      "source": "O País",
+      "_key": "1469942f35061aa4"
+    },
+    {
+      "title": "SIC incinera mais de uma tonelada de liamba nos Mulenvos",
+      "url": "https://www.opais.ao/sociedade/sic-incinera-mais-de-uma-tonelada-de-liamba-nos-mulenvos/",
+      "source": "O País",
+      "_key": "dc030793c59ac8ca"
+    },
+    {
+      "title": "Carta do leitor: Lixo em alta no Zango 8 Mil",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-lixo-em-alta-no-zango-8-mil/",
+      "source": "O País",
+      "_key": "d67e2e97f51a1cc4"
+    },
+    {
+      "title": "É de hoje…IGAE ganha sangue novo",
+      "url": "https://www.opais.ao/opiniao/e-de-hojeigae-ganha-sangue-novo/",
+      "source": "O País",
+      "_key": "006fbd4a439caa0e"
+    },
+    {
+      "title": "Jornalistas acreditados",
+      "url": "https://www.opais.ao/opiniao/jornalistas-acreditados/",
+      "source": "O País",
+      "_key": "3ece2da8d6c02631"
+    },
+    {
+      "title": "Angola defende reforço da cooperação com OMM para formação técnica e sistemas de alerta climático",
+      "url": "https://www.opais.ao/politica/angola-defende-reforco-da-cooperacao-com-omm-para-formacao-tecnica-e-sistemas-de-alerta-climatico/",
+      "source": "O País",
+      "_key": "bb2b222114a54809"
+    },
+    {
+      "title": "Ministério da Cultura anuncia abertura de candidaturas para o prémio internacional UNESCO/Jikji 2026",
+      "url": "https://www.opais.ao/cultura/ministerio-da-cultura-anuncia-abertura-de-candidaturas-para-o-premio-internacional-unesco-jikji-2026/",
+      "source": "O País",
+      "_key": "5cc6b6baaf5ccc28"
+    },
+    {
+      "title": "Jornalista Adriano Gomes lança a obra “Jornalismo no Jogo de Ideias” na cidade do Lubango",
+      "url": "https://www.opais.ao/cultura/jornalista-adriano-gomes-lanca-a-obra-jornalismo-no-jogo-de-ideias-na-cidade-do-lubango/",
+      "source": "O País",
+      "_key": "98f477b0a46087d0"
+    },
+    {
+      "title": "Exposição fotográfica “Olhar Angola” convida à celebração da identidade visual do país",
+      "url": "https://www.opais.ao/cultura/exposicao-fotografica-olhar-angola-convida-a-celebracao-da-identidade-visual-do-pais/",
+      "source": "O País",
+      "_key": "d8379f09ff7d1bfb"
+    },
+    {
+      "title": "Bayern de Munique elimina Real Madrid nos “quartos” da Liga dos Campeões",
+      "url": "https://www.opais.ao/desporto/bayern-de-munique-elimina-real-madrid-nos-quartos-da-liga-dos-campeoes/",
+      "source": "O País",
+      "_key": "2837ffcd8177c51b"
+    },
+    {
+      "title": "Champions: Real Madrid joga o “tudo ou nada” no AlIianz Arena diante do Bayern de Munique",
+      "url": "https://www.opais.ao/desporto/champions-real-madrid-joga-o-tudo-ou-nada-no-aliianz-arena-diante-do-bayern-de-munique/",
+      "source": "O País",
+      "_key": "40e8a762224907c2"
     }
   ]
 }

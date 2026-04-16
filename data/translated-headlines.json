@@ -1,72 +1,40 @@
 {
-  "date": "2026-04-15",
-  "total_new": 22,
-  "total_filtered": 8,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-16",
+  "total_new": 103,
+  "total_filtered": 4,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Abertura de empresas é ponto forte de Angola, comércio internacional é maior entrave",
+      "title": "Angola reforça cooperação com a China para formação de quadros e desenvolvimento sustentável",
+      "url": "https://www.opais.ao/sociedade/angola-reforca-cooperacao-com-a-china-para-formacao-de-quadros-e-desenvolvimento-sustentavel/",
+      "source": "O País",
+      "_key": "dc145b58a78ccea4",
+      "score": 7,
+      "title_cn": "安哥拉加强与中国在人才培养和可持续发展方面的合作"
+    },
+    {
+      "title": "Irão ameaça bloquear rotas estratégicas e aumenta tensão no comércio global",
+      "url": "https://correiokianda.info/irao-ameaca-bloquear-rotas-estrategicas-e-aumenta-tensao-no-comercio-global/",
+      "source": "Correio Kianda",
+      "_key": "afdf245c3f6770d0",
+      "score": 5,
+      "title_cn": "伊朗威胁封锁战略航线，加剧全球贸易紧张局势"
+    },
+    {
+      "title": "Angola e Namíbia avançam para interligação eléctrica e exportação de energia até 500 megawatts",
       "url": "",
       "source": "Expansão",
-      "_key": "t_7482f9f03b49ff",
-      "score": 8,
-      "title_cn": "安哥拉开办企业具优势，国际贸易是主要障碍"
-    },
-    {
-      "title": "Empresas e famílias estão a contabilizar danos em Benguela",
-      "url": "https://valoreconomico.co.ao/artigo/empresas-e-familias-estao-a-contabilizar-danos-em-benguela-14075",
-      "source": "Valor Económico",
-      "_key": "7a8aadc0a3a8069f",
-      "score": 7,
-      "title_cn": "本格拉省企业和家庭正在评估损失"
-    },
-    {
-      "title": "Governo aposta em parceria global para garantir segurança hídrica e...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-aposta-em-parceria-global-para-garantir-seguranca-hidrica-e-biodiversidade",
-      "source": "Valor Económico",
-      "_key": "e80683a7c3221d37",
-      "score": 7,
-      "title_cn": "政府寻求全球伙伴关系以确保水安全"
-    },
-    {
-      "title": "Digitalização da economia agrava riscos e acelera resposta tecnológica nacional",
-      "url": "https://valoreconomico.co.ao/artigo/digitalizacao-da-economia-agrava-riscos-e-acelera-resposta-tecnologica-nacional",
-      "source": "Valor Económico",
-      "_key": "0657c66d6709346d",
-      "score": 7,
-      "title_cn": "经济数字化加剧风险，加速国家技术响应"
-    },
-    {
-      "title": "Angola and Congo trade cooperation requires greater control and organization",
-      "url": "https://www.angop.ao/en/noticias/politica/cooperacao-comercial-entre-angola-e-congo-exige-maior-controlo-e-organizacao/",
-      "source": "ANGOP",
-      "_key": "f5adbaf4c0cf191e",
-      "score": 6,
-      "title_cn": "安哥拉与刚果贸易合作需加强管控与组织"
-    },
-    {
-      "title": "Destaque Presidente da República termina visita de trabalho a BenguelaApós cerca de sete horas de visita de trabalho à província de Benguela, marcada pela avaliação, no terreno, dos estragos provocados pelo transbordo do rio Cavaco, o Presidente da República, João Lourenço, está de regresso a Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673872/presidente-da-rep%C3%BAblica-termina-visita-de-trabalho-a-benguela",
-      "source": "Jornal de Angola",
-      "_key": "3f73c368e0abda44",
-      "score": 6,
-      "title_cn": "共和国总统结束对本格拉省的工作访问"
-    },
-    {
-      "title": "President João Lourenço leads National Civil Protection Commission meeting",
-      "url": "https://www.angop.ao/en/noticias/politica/comissao-nacional-de-proteccao-civil-reune-se-no-museu-de-arqueologia/",
-      "source": "ANGOP",
-      "_key": "28f5ce9de8dd792e",
+      "_key": "t_1d4046effdf42d",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统主持国家民防委员会会议"
+      "title_cn": "安哥拉与纳米比亚推进电网互联，将出口高达500兆瓦电力"
     },
     {
-      "title": "Vandalização de bens públicos regista redução de 22% no I trimestre de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/vandalizacao-de-bens-publicos-regista-reducao-de-22-no-i-trimestre-de-2026/",
-      "source": "O País",
-      "_key": "b9123d25ee7cc013",
+      "title": "Moçambique aprova proposta de lei que autoriza Governo regular comércio e prestação de serviços mercantis",
+      "url": "https://forbesafricalusofona.com/mocambique-aprova-proposta-de-lei-que-autoriza-governo-regular-comercio-e-prestacao-de-servicos-mercantis/",
+      "source": "Forbes África",
+      "_key": "4cbd2ee451ef1d6a",
       "score": 5,
-      "title_cn": "2026年第一季度公共财产破坏行为减少22%"
+      "title_cn": "莫桑比克批准法案，授权政府监管商业和商业服务"
     }
   ]
 }
