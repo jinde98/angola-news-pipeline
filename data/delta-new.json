@@ -1,140 +1,548 @@
 {
-  "date": "2026-04-16",
-  "total_extracted": 1106,
-  "total_new": 22,
-  "total_existing": 1084,
+  "date": "2026-04-17",
+  "total_extracted": 1099,
+  "total_new": 90,
+  "total_existing": 1009,
   "articles": [
     {
-      "title": "Angolan Jaquelina Ngulo honored in Nigeria",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angolana-jaquelina-ngulo-distinguida-na-nigeria/",
+      "title": "President João Lourenço returns to Luanda from Brazzaville",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-7/",
       "source": "ANGOP",
-      "_key": "968137086e098963"
+      "_key": "3f936f3644b17901"
     },
     {
-      "title": "Denis Sassou Nguesso sworn in as Congo president for fifth term",
-      "url": "https://www.angop.ao/en/noticias/politica/denis-sassou-nguesso-empossado-no-quinto-mandato/",
+      "title": "Trains to resume service between Lobito and Benguela",
+      "url": "https://www.angop.ao/en/noticias/transporte/comboios-vao-retomar-circulacao-entre-lobito-e-benguela/",
       "source": "ANGOP",
-      "_key": "a7cf00251cf4806a"
+      "_key": "73d5ea4970e4d9d2"
     },
     {
-      "title": "Ocupação irregular atinge milhares de hectares na ZEE Luanda-Bengo e ameaça investimentos",
-      "url": "https://correiokianda.info/ocupacao-irregular-atinge-milhares-de-hectares-na-zee-luanda-bengo-e-ameaca-investimentos/",
+      "title": "João Lourenço congratulates Sassou Nguesso after inauguration",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-felicita-denis-sassou-nguesso-apos-investidura/",
+      "source": "ANGOP",
+      "_key": "894f7de3a0f1b988"
+    },
+    {
+      "title": "Chitotolo plans to invest USD 2.8 million in social projects",
+      "url": "https://www.angop.ao/en/noticias/economia/smc-investe-2-8-milhoes-de-dolares-em-projectos-sociais/",
+      "source": "ANGOP",
+      "_key": "36b335714658aba0"
+    },
+    {
+      "title": "Over 1,000 media professionals to cover Pope Leo XIV’s visit in Angola",
+      "url": "https://www.angop.ao/en/noticias/sociedade/mais-de-mil-profissionais-da-comunicacao-social-mobilizados-para-visita-do-papa/",
+      "source": "ANGOP",
+      "_key": "e4110c19fb57483d"
+    },
+    {
+      "title": "Angola reaffirms commitment to conflict prevention and good governance",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-compromisso-com-prevencao-de-conflitos-e-boa-governacao/",
+      "source": "ANGOP",
+      "_key": "860691214badbfcb"
+    },
+    {
+      "title": "Calucuve dam reinforces water security in southern region of Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/barragem-do-calucuve-reforca-seguranca-hidrica-no-sul-do-pais/",
+      "source": "ANGOP",
+      "_key": "ab73c5cc596a9050"
+    },
+    {
+      "title": "Family and Action Ministry records over 3000 displaced families in Benguela",
+      "url": "https://www.angop.ao/en/noticias/sociedade/masfamu-cadastra-mais-de-tres-mil-familias-desalojadas-em-benguela/",
+      "source": "ANGOP",
+      "_key": "1ac385d58f62cf71"
+    },
+    {
+      "title": "Culture seeks greater integration of arts into public policies",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/cultura-quer-maior-integracao-das-artes-nas-politicas-publicas/",
+      "source": "ANGOP",
+      "_key": "a91c79176930050a"
+    },
+    {
+      "title": "Cases of tuberculosis treatment abandonment fall in Huila",
+      "url": "https://www.angop.ao/en/noticias/saude/huila-reduz-abandono-de-tratamento-da-tuberculose-em-tres-meses/",
+      "source": "ANGOP",
+      "_key": "29961dc13ca861ed"
+    },
+    {
+      "title": "Bento Kangamba anuncia 400 milhões em medicamentos para vítimas das cheias",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34148-bento-kangamba-anuncia-400-milhoes-em-medicamentos-para-vitimas-das-cheias",
+      "source": "Angola 24 Horas",
+      "_key": "d34192fdee551184"
+    },
+    {
+      "title": "African Bank of Oman diz que vai servir de ponte entre Angola e Médio Oriente",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34147-african-bank-of-oman-diz-que-vai-servir-de-ponte-entre-angola-e-medio-oriente",
+      "source": "Angola 24 Horas",
+      "_key": "d28bd611cb3a6d21"
+    },
+    {
+      "title": "AGT denuncia funcionários por suspeita de fraude de mil milhões de kwanzas",
+      "url": "https://angola24horas.com/component/k2/item/34142-agt-denuncia-funcionarios-por-suspeita-de-fraude-de-mil-milhoes-de-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "d9097295b2dac88b"
+    },
+    {
+      "title": "Candidaturas à presidência do MPLA abertas desde Março sem candidatos",
+      "url": "https://angola24horas.com/politica/item/34144-candidaturas-a-presidencia-do-mpla-abertas-desde-marco-sem-candidatos",
+      "source": "Angola 24 Horas",
+      "_key": "51f615bd7c0ac253"
+    },
+    {
+      "title": "UNITA pede audição parlamentar do director do SINSE sobre escutas telefónicas",
+      "url": "https://angola24horas.com/component/k2/item/34143-unita-pede-audicao-parlamentar-do-director-do-sinse-sobre-escutas-telefonicas",
+      "source": "Angola 24 Horas",
+      "_key": "768f4cffdcb7781c"
+    },
+    {
+      "title": "Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada",
+      "url": "https://angola24horas.com/sociedade/item/34146-desemprego-recua-para-28-3-em-angola-mas-informalidade-mantem-se-elevada",
+      "source": "Angola 24 Horas",
+      "_key": "f43f72c800b30d6c"
+    },
+    {
+      "title": "Angola continua a enfrentar desafios no acesso regular e adequado a alimentos – INE",
+      "url": "https://angola24horas.com/sociedade/item/34145-angola-continua-a-enfrentar-desafios-no-acesso-regular-e-adequado-a-alimentos-ine",
+      "source": "Angola 24 Horas",
+      "_key": "1818148af20a62f8"
+    },
+    {
+      "title": "“MPLA ainda não recebeu candidaturas após abertura do processo”, diz subcomissão",
+      "url": "https://correiokianda.info/mpla-ainda-nao-recebeu-candidaturas-apos-abertura-do-processo-diz-subcomissao/",
       "source": "Correio Kianda",
-      "_key": "d939a0efeea6a8d9"
+      "_key": "3a89f30613c55d80"
     },
     {
-      "title": "AGT denuncia tentativa de fraude de mais de mil milhões de kwanzas",
-      "url": "https://correiokianda.info/agt-denuncia-tentativa-de-fraude-de-mais-de-mil-milhoes-de-kwanzas/",
+      "title": "Exportação de energia gera preocupação sobre acesso interno",
+      "url": "https://correiokianda.info/exportacao-de-energia-gera-preocupacao-sobre-acesso-interno/",
       "source": "Correio Kianda",
-      "_key": "f82128775e853f22"
+      "_key": "468a6083e76bcd74"
     },
     {
-      "title": "Arguido russo confirma encontros privados com Higino Carneiro, Dino Matrosse e Lukamba Gato",
-      "url": "https://correiokianda.info/168993-2/",
+      "title": "Dois funcionários da PGR detidos por alegado abuso sexual de criança",
+      "url": "https://correiokianda.info/dois-funcionarios-da-pgr-detidos-por-alegado-abuso-sexual-de-crianca/",
       "source": "Correio Kianda",
-      "_key": "dcb62d401fe8c7a7"
+      "_key": "71f4857bfa288928"
     },
     {
-      "title": "Marginal assassinado com blocos pelo grupo rival durante rixa no Cazenga",
-      "url": "https://correiokianda.info/marginal-assassinado-com-blocos-pelo-grupo-rival-durante-rixa-no-cazenga/",
+      "title": "INE diz que emprego em Angola aumentou, mas a informalidade mantém-se",
+      "url": "https://correiokianda.info/ine-diz-que-emprego-em-angola-aumentou-mas-a-informalidade-mantem-se/",
       "source": "Correio Kianda",
-      "_key": "6e7229e7bf20f571"
+      "_key": "2baa90c92b37a493"
     },
     {
-      "title": "Governo anuncia construção de casas sociais para as vítimas das cheias em Benguela",
-      "url": "https://correiokianda.info/governo-anuncia-construcao-de-casas-sociais-para-as-vitimas-das-cheias-em-benguela/",
+      "title": "Energia reposta no Zango e Vida Pacífica após vandalização de torres",
+      "url": "https://correiokianda.info/energia-reposta-no-zango-e-vida-pacifica-apos-vandalizacao-de-torres/",
       "source": "Correio Kianda",
-      "_key": "237caea75ff567ed"
+      "_key": "30d3fef587c224e8"
     },
     {
-      "title": "FIFA confirma presença do Irão no Mundial 2026 há dois meses da prova",
-      "url": "https://correiokianda.info/fifa-confirma-presenca-do-irao-no-mundial-2026-ha-dois-meses-da-prova/",
+      "title": "Mais de mil milhões de kwanzas para reposição de torres vandalizadas",
+      "url": "https://correiokianda.info/mais-de-mil-milhoes-de-kwanzas-para-reposicao-de-torres-vandalizadas/",
       "source": "Correio Kianda",
-      "_key": "de75447b8dc65f59"
+      "_key": "ced37671e0cfcc39"
     },
     {
-      "title": "AGT denuncia tentativa de fraude superior a mil milhões de kwanzas",
-      "url": "https://holdonangola.com/agt-denuncia-tentativa-de-fraude-superior-a-mil-milhoes-de-kwanzas/",
+      "title": "Trump anuncia cessar-fogo no Líbano",
+      "url": "https://correiokianda.info/trump-anuncia-cessar-fogo-no-libano/",
+      "source": "Correio Kianda",
+      "_key": "bfb2f36c9a31625a"
+    },
+    {
+      "title": "Liga Jr. NBA ExxonMobil arranca hoje com mais de 960 estudantes em Luanda",
+      "url": "https://correiokianda.info/liga-jr-nba-exxonmobil-arranca-hoje-com-mais-de-960-estudantes-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "a8a534c131ec35da"
+    },
+    {
+      "title": "        África1 hora atrás  África do Sul: líder da oposição diz que vai recorrer de condenação a cinco anos de prisão O líder dos Economic Freedom Fighters (EFF), Julius Sello Malema, anunciou que vai recorrer da decisão judicial que o condena a cinco anos de prisão, considerando...   ",
+      "url": "https://correiokianda.info/africa-do-sul-lider-da-oposicao-diz-que-vai-recorrer-de-condenacao-a-cinco-anos-de-prisao/",
+      "source": "Correio Kianda",
+      "_key": "2c44a479bfdaad0a"
+    },
+    {
+      "title": "        África11 horas atrás  Homem detido no aeroporto de Nairóbi por tráfico de formigas raras Um cidadão identificado como Zhang Kequn declarou-se culpado após ser detido no aeroporto de Nairóbi, no Quénia, por transportar formigas vivas na bagagem. De acordo com...   ",
+      "url": "https://correiokianda.info/homem-detido-no-aeroporto-de-nairobi-por-trafico-de-formigas-raras/",
+      "source": "Correio Kianda",
+      "_key": "7c147a38cc3e5a38"
+    },
+    {
+      "title": "        África12 horas atrás  Julius Malema condenado a cinco anos de prisão por posse ilegal de arma e disparos públicos O líder do partido sul-africano Economic Freedom Fighters (EFF), Julius Malema, foi condenado a cinco anos de prisão, na sequência de um processo judicial que remonta...   ",
+      "url": "https://correiokianda.info/julius-malema-condenado-a-cinco-anos-de-prisao-por-posse-ilegal-de-arma-e-disparos-publicos/",
+      "source": "Correio Kianda",
+      "_key": "caccc0914f600406"
+    },
+    {
+      "title": "Operadora do Corredor do Lobito faz contas à vida depois das inundações",
+      "url": "https://expansao.co.ao/angola/detalhe/operadora-do-corredor-do-lobito-faz-contas-a-vida-depois-das-inundacoes-71188.html",
+      "source": "Expansão",
+      "_key": "95cab4a4b9a1eb42"
+    },
+    {
+      "title": "Valor dos ajustes directos triplica para 8,9 biliões Kz no I trimestre de 2026",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_35ecb01debced7"
+    },
+    {
+      "title": "SNCP \"aperta\" e quer técnicos das unidades de contratação pública qualificados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_a30f9635d51121"
+    },
+    {
+      "title": "Refinaria de Cabinda",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_bbc745cdfc2fde"
+    },
+    {
+      "title": "FMI mais pessimista com a economia global",
+      "url": "https://expansao.co.ao/mundo/detalhe/fmi-mais-pessimista-com-a-economia-global-71191.html",
+      "source": "Expansão",
+      "_key": "d86e590d503733b7"
+    },
+    {
+      "title": "Zâmbia constrói primeira refinaria de petróleo para garantir segurança energética",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/zambia-constroi-primeira-refinaria-de-petroleo-para-garantir-seguranca-energetica-71190.html",
+      "source": "Expansão",
+      "_key": "a9f6df5610cf5069"
+    },
+    {
+      "title": "Técnicos da AGT sob suspeita em esquema fraudulento de mais de mil milhões Kz",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1b7252354fbfc5"
+    },
+    {
+      "title": "Efeito dominó | Fazer a única coisa em alta performance",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_f3c4a5975e1884"
+    },
+    {
+      "title": "Valor dos ajustes directos triplica para 8,9 biliões Kz no I trimestre de 2026O critério material de financiamento externo foi que mais pesou para o aumento dos ajustes directos na contratação pública autorizada pelo Presidente da República. Mais de metade das verbas vai para a nova linha ferroviária que vai ligar Malanje-Cuito-Menongue, que vai custar 5,4 biliões Kz.",
+      "url": "https://expansao.co.ao/angola/detalhe/valor-dos-ajustes-directos-triplica-para-89-bilioes-kz-no-i-trimestre-de-2026-71189.html",
+      "source": "Expansão",
+      "_key": "6bec61efcc84c08a"
+    },
+    {
+      "title": "Exportação de crude mais baixa dos últimos 15 anos",
+      "url": "https://expansao.co.ao/economia/detalhe/exportacao-de-crude-mais-baixa-dos-ultimos-15-anos-71192.html",
+      "source": "Expansão",
+      "_key": "1b8684291dc56040"
+    },
+    {
+      "title": "EDITORIALJoão ArmandoRefinaria de CabindaTalvez um dia a primeira gota de gasóleo chegue ao mercado. Quando chegar, será celebrada como vitória histórica. O detalhe de ter chegado anos depois do prometido será tratado como pormenor técnico. O tempo neste caso não é dinheiro, é apenas retórica.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/refinaria-de-cabinda-71194.html",
+      "source": "Expansão",
+      "_key": "147d944318d9a4a6"
+    },
+    {
+      "title": "Técnicos da AGT sob suspeita em esquema fraudulento de mais de mil milhões KzPerante a gravidade da situação, a administração tributária avançou com a participação às autoridades competentes. O facto é que o caso surge num contexto em que situações do género têm vindo a ganhar expressão no seio da AGT e o exemplo mais recente culminou com a condenação, em Março de 2026, de vários funcionários da AGT e empresários, a penas que variam entre três e nove anos de prisão.",
+      "url": "https://expansao.co.ao/empresas/detalhe/tecnicos-da-agt-sob-suspeita-em-esquema-fraudulento-de-mais-de-mil-milhoes-kz-71195.html",
+      "source": "Expansão",
+      "_key": "b470041e1ceda67c"
+    },
+    {
+      "title": "African Bank of Oman arranca operações em Angola para apoiar fluxos amplos de comércio e investimento entre África e o Médio Oriente",
+      "url": "https://forbesafricalusofona.com/african-bank-of-oman-arranca-operacoes-em-angola-para-apoiar-fluxos-amplos-de-comercio-e-investimento-entre-africa-e-o-medio-oriente/",
+      "source": "Forbes África",
+      "_key": "825b24cb32b8c260"
+    },
+    {
+      "title": "Angola e ONU Turismo reforçam cooperação estratégica para a formação e promoção do investimento",
+      "url": "https://holdonangola.com/angola-e-onu-turismo-reforcam-cooperacao-estrategica-para-a-formacao-e-promocao-do-investimento/",
       "source": "Hold On Angola",
-      "_key": "fe9c544ea5494e55"
+      "_key": "cff7bb6ed137fc28"
     },
     {
-      "title": "Caso Russos: Lev Matvevoch confirma encontros privados com figuras do MPLA e da UNITA",
-      "url": "https://holdonangola.com/caso-russos-lev-matvevoch-confirma-encontros-privados-com-figuras-do-mpla-e-da-unita/",
+      "title": "Benguela: Bento Kangamba anuncia apoio de 400 milhões em medicamentos às vítimas das cheias",
+      "url": "https://holdonangola.com/benguela-bento-kangamba-anuncia-apoio-de-400-milhoes-em-medicamentos-as-vitimas-das-cheias/",
       "source": "Hold On Angola",
-      "_key": "01e6977b8f2f4a59"
+      "_key": "24032873c70bae1e"
     },
     {
-      "title": "Julius Malema condenado a cinco…",
-      "url": "https://holdonangola.com/julius-malema-condenado-a-cinco-anos-de-prisao-na-africa-do-sul/",
+      "title": "Ministério do Interior repudia conteúdos de ódio e…",
+      "url": "https://holdonangola.com/ministerio-do-interior-repudia-conteudos-de-odio-e-anuncia-medidas-legais-contra-plataforma-digital/",
       "source": "Hold On Angola",
-      "_key": "5615591abaac7ced"
+      "_key": "d6285b188c09e08b"
     },
     {
-      "title": "Destaque Decretada tolerância de ponto na Lunda-Sul para recepção papalO Governo da Lunda-Sul decretou tolerância de ponto para segunda-feira, 20, para recepção do Papa Leão XIV na província.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673976/decretada-toler%C3%A2ncia-de-ponto-na-lunda-sul-para-recep%C3%A7%C3%A3o-papal",
+      "title": "O anúncio desesperador para um povo desesperado –…",
+      "url": "https://holdonangola.com/o-anuncio-desesperador-para-um-povo-desesperado-mupess-reflexoes/",
+      "source": "Hold On Angola",
+      "_key": "6a08a97acb08bf67"
+    },
+    {
+      "title": "Angola continua a enfrentar desafios no acesso regular e adequado a alimentos – INE",
+      "url": "https://jornaloguardiao.com/2026/04/17/angola-continua-a-enfrentar-desafios-no-acesso-regular-e-adequado-a-alimentos-ine/",
+      "source": "Jornal O Guardião",
+      "_key": "717176e633ce2a75"
+    },
+    {
+      "title": "Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada",
+      "url": "https://jornaloguardiao.com/2026/04/17/desemprego-recua-para-283-em-angola-mas-informalidade-mantem-se-elevada/",
+      "source": "Jornal O Guardião",
+      "_key": "901e050519368a95"
+    },
+    {
+      "title": "Coreia do Norte em recuperação económica com apoio de Pequim e Moscovo — Seul",
+      "url": "https://jornaloguardiao.com/2026/04/17/coreia-do-norte-em-recuperacao-economica-com-apoio-de-pequim-e-moscovo-seul/",
+      "source": "Jornal O Guardião",
+      "_key": "daa9abfa09e5b519"
+    },
+    {
+      "title": "Sexta-feira, 17 de Abril, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_71eecd49e0a52a"
+    },
+    {
+      "title": " Angola continua a enfrentar desafios no acesso regular e adequado a alimentos – INE ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a71229ebf6b9f9"
+    },
+    {
+      "title": " Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9a819b18a2999f"
+    },
+    {
+      "title": " Coreia do Norte em recuperação económica com apoio de Pequim e Moscovo — Seul ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e0bede7aa0f718"
+    },
+    {
+      "title": "Destaque African Bank of Oman entra no mercado angolano O African Bank of Oman (ABO) foi, oficialmente, apresentado esta quinta-feira, em Luanda, com o objectivo de reforçar os fluxos de comércio e investimento entre Angola e o Médio Oriente.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673988/african-bank-of-oman--entra-no-mercado-angolano-",
       "source": "Jornal de Angola",
-      "_key": "23f8d8cd27a60955"
+      "_key": "600d56e80101aa5d"
     },
     {
-      "title": "Desporto Luanda vai acolher II edição do Torneio de Futsal Corporativo ",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/673975/luanda-vai-acolher-ii-edi%C3%A7%C3%A3o-do-torneio-de-futsal-corporativo",
+      "title": "Destaque Reservas internacionais suportam oito meses de importação As Reservas Internacionais de Angola fecham a terceira semana do mês de Abril nos 16,23 mil milhões de dólares, o valor mais alto deste ano e suportam oito meses de importação, o dobro do exigido na região SADC.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673987/reservas-internacionais-suportam-oito-meses-de-importa%C3%A7%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "4015ae1675b1c13b"
+      "_key": "d90b1301cb05e9f1"
     },
     {
-      "title": "Política Governador Eugénio Laborinho já em funções no Cuanza-Sul ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673974/--governador-eug%C3%A9nio-laborinho-j%C3%A1-em-fun%C3%A7%C3%B5es-no-cuanza-sul",
+      "title": "Destaque Chefe de Estado regressa ao país O Presidente da República, João Lourenço, regressou ao país no início da noite de hoje, depois de uma missão de algumas horas, em Brazzaville, Congo, onde testemunhou a investidura do Chefe de Estado reeleito, Denis Sassou Nguesso. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673984/chefe-de-estado-regressa-ao-pa%C3%ADs-",
       "source": "Jornal de Angola",
-      "_key": "c35376fafa8d2de5"
+      "_key": "3260f5c3708c80e4"
     },
     {
-      "title": "Angola vai ter clínica para atender gratuitamente crianças...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angola-vai-ter-clinica-para-atender-gratuitamente-criancas-com-autismo-71183.html",
+      "title": "Destaque Presidente João Lourenço orienta última reunião antes de recepção papalO Chefe de Estado, João Lourenço, orientou, esta sexta-feira, em Luanda, a última reunião de preparação antes da chegada do Papa Luís XIV a Angola, prevista para sábado, 18.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674012/presidente-jo%C3%A3o-louren%C3%A7o-orienta-%C3%BAltima-reuni%C3%A3o-antes-de-recep%C3%A7%C3%A3o-papal",
+      "source": "Jornal de Angola",
+      "_key": "23074bebb3e8acf0"
+    },
+    {
+      "title": "Presidente João Lourenço testemunha investidura de Denis Sassou NguessoO Chefe de Estado angolano, João Lourenço, presenciou quinta-feira, em Brazzaville, a investidura do homólogo Denis Sassou Nguesso para o 5.º mandato na Presidência da República do Congo, em cerimónia realizada no Complexo Desportivo “La Concorde”.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673989/presidente-jo%C3%A3o-louren%C3%A7o-testemunha-investidura-de-denis-sassou-nguesso",
+      "source": "Jornal de Angola",
+      "_key": "6c112d26f11d1f9d"
+    },
+    {
+      "title": "Sociedade Kilamba preparado para missa campal ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674002/kilamba-preparado--para-missa-campal",
+      "source": "Jornal de Angola",
+      "_key": "54b49745f1f8757d"
+    },
+    {
+      "title": "Economia Acordo com o PNUD prevê execução de projecto no domínio da agricultura ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674001/acordo-com-o-pnud-prev%C3%AA-execu%C3%A7%C3%A3o--de-projecto-no-dom%C3%ADnio-da-agricultura",
+      "source": "Jornal de Angola",
+      "_key": "4cf51e7ff1ae94d1"
+    },
+    {
+      "title": "Economia Emitidos 165 títulos mineiros em 2025 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674000/emitidos-165-t%C3%ADtulos--mineiros-em-2025-",
+      "source": "Jornal de Angola",
+      "_key": "128898ea15d12d8e"
+    },
+    {
+      "title": "Política Cargo de presidente do MPLA ainda sem candidatos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673995/cargo-de-presidente-do-mpla-ainda--sem-candidatos",
+      "source": "Jornal de Angola",
+      "_key": "4264f85aa6e7ae02"
+    },
+    {
+      "title": "Política Edifício Autárquico no Bié fica concluído em 2027 ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673994/edif%C3%ADcio-aut%C3%A1rquico--no-bi%C3%A9-fica-conclu%C3%ADdo--em-2027",
+      "source": "Jornal de Angola",
+      "_key": "1a88e4b67f0e35d9"
+    },
+    {
+      "title": "Sociedade Barragem do Calucuve arranca em Julho para levar água a mais de 80 mil habitantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673990/barragem-do-calucuve-arranca-em-julho-para-levar-%C3%A1gua-a-mais-de-80-mil-habitantes",
+      "source": "Jornal de Angola",
+      "_key": "2aaa22902482907b"
+    },
+    {
+      "title": "Sociedade Vice-líder da Assembleia de Deus Pentecostal vai a enterrar esta sexta-feira ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673986/vice-l%C3%ADder-da-assembleia-de-deus-pentecostal-vai-a-enterrar-esta-sexta-feira",
+      "source": "Jornal de Angola",
+      "_key": "24c960e6973139c1"
+    },
+    {
+      "title": "Economia Ganhos económicos de 2025 em África em risco devido à guerra no Médio Oriente ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673985/ganhos-econ%C3%B3micos-de-2025-em-%C3%A1frica-em-risco-devido-%C3%A0-guerra-no-m%C3%A9dio-oriente",
+      "source": "Jornal de Angola",
+      "_key": "a2d6c5e89d6658f8"
+    },
+    {
+      "title": "Regiões Tribunal Supremo defende no Huambo promoção de justiça rápida e acessível ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673981/tribunal-supremo-defende-no-huambo-promo%C3%A7%C3%A3o-de-justi%C3%A7a-r%C3%A1pida-e-acess%C3%ADvel",
+      "source": "Jornal de Angola",
+      "_key": "3d03a56167bb2829"
+    },
+    {
+      "title": "Sociedade Santa Lolla apresenta colecção em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673979/santa-lolla-apresenta-colec%C3%A7%C3%A3o-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "92173eabf2e383f4"
+    },
+    {
+      "title": "Mundo Papa reitera repúdio em Bamenda aos senhores da guerra que devastam a terra ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/673978/papa-reitera-rep%C3%BAdio-em-bamenda-aos-senhores-da-guerra-que-devastam-a-terra-",
+      "source": "Jornal de Angola",
+      "_key": "8e23f08575319136"
+    },
+    {
+      "title": "Visita do Papa: Lunda-Sul com tolerância de ponto na...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/visita-do-papa-lunda-sul-com-tolerancia-de-ponto-na-segunda-feira-71197.html",
       "source": "Novo Jornal",
-      "_key": "5295dcdf29478850"
+      "_key": "6e0bd4dc0d17f0dd"
     },
     {
-      "title": "PONTO AO: INCLUSÃO DIGITAL E REDUÇÃO DAS DESIGUALDADES TECNOLÓGICAS. Educação Tech: O ensino tecnológico em Angola acompanha o mercado de trabalho.",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71177",
+      "title": "Processo de candidaturas à presidência do MPLA aberto...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/processo-de-candidaturas-a-presidencia-do-mpla-aberto-em-marco-deste-ano-mas-sem-candidatos-ate-ao-momento-71185.html",
       "source": "Novo Jornal",
-      "_key": "31875ef931044853"
+      "_key": "98b3c4ba84292425"
     },
     {
-      "title": "‎AGT frustra tentativa de fraude em ‎montante superior a mil milhões de kwanzas envolvendo funcionários",
-      "url": "https://www.opais.ao/ultimas_hora/agt-frustra-tentativa-de-fraude-em-montante-superior-a-mil-milhoes-de-kwanzas-envolvendo-funcionarios/",
-      "source": "O País",
-      "_key": "466a1a096059bfbe"
+      "title": "No topo da colina: De descarrilamento em descarrilamento...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/no-topo-da-colina-de-descarrilamento-em-descarrilamento-a-culpa-continua-a-morrer-solteira-71180.html",
+      "source": "Novo Jornal",
+      "_key": "f389035f11eb053c"
     },
     {
-      "title": "Governo do Huambo reafirma compromisso com o fortalecimento do serviço de justiça",
-      "url": "https://www.opais.ao/ultimas_hora/governo-do-huambo-reafirma-compromisso-com-o-fortalecimento-do-servico-de-justica/",
-      "source": "O País",
-      "_key": "305af3366107d761"
+      "title": "Governação de improviso: «Faz alguma coisa!»",
+      "url": "https://www.novojornal.co.ao/opiniao/editorial/detalhe/governacao-de-improviso-faz-alguma-coisa-71179.html",
+      "source": "Novo Jornal",
+      "_key": "bf518562337ea7c2"
     },
     {
-      "title": "‎Engenheiro angolano assume presidência do Comité de Jovens Engenheiros de África",
-      "url": "https://www.opais.ao/ultimas_hora/engenheiro-angolano-assume-presidencia-do-comite-de-jovens-engenheiros-de-africa/",
-      "source": "O País",
-      "_key": "5faf51ba76a5347a"
+      "title": "MUTAMBA: O MELHOR DA CULTURA NACIONAL  ",
+      "url": "https://marginal.co.ao/programas/mutamba?ep=71187",
+      "source": "Novo Jornal",
+      "_key": "7c4bc4ec9fe54b6d"
     },
     {
-      "title": "‎Angolana Jaquelina Ngulo distinguida como uma das 100 personalidades icónicas de África",
-      "url": "https://www.opais.ao/economia/angolana-jaquelina-ngulo-distinguida-como-uma-das-100-personalidades-iconicas-de-africa/",
+      "title": "Candidaturas à liderança do MPLA abertas desde Março, mas sem concorrentes até agora",
+      "url": "https://www.opais.ao/politica/candidaturas-a-lideranca-do-mpla-abertas-desde-marco-mas-sem-concorrentes-ate-agora/",
       "source": "O País",
-      "_key": "8e4a6d27f21f855a"
+      "_key": "abff2d69b4c16ba0"
     },
     {
-      "title": "Eugénio Laborinho apresentado hoje como novo governador do Cuanza-Sul",
-      "url": "https://www.opais.ao/politica/eugenio-laborinho-apresentado-hoje-como-novo-governador-do-cuanza-sul/",
+      "title": "Muxima pronta para ‘abraçar’ turistas dos quatro cantos do mundo",
+      "url": "https://www.opais.ao/economia/muxima-pronta-para-abracar-turistas-dos-quatro-cantos-do-mundo/",
       "source": "O País",
-      "_key": "21db93cc0585bda0"
+      "_key": "f37996fe7854573d"
     },
     {
-      "title": "Cabiri leva potencialidades do município à XLIII Assembleia Geral da UCCLA em Macau",
-      "url": "https://www.opais.ao/sociedade/cabiri-leva-potencialidades-do-municipio-a-xliii-assembleia-geral-da-uccla-em-macau/",
+      "title": "AGT remete para investigação funcionários envolvidos em tentativa de fraude de mais de mil milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/agt-remete-para-investigacao-funcionarios-envolvidos-em-tentativa-de-fraude-de-mais-de-mil-milhoes-de-kwanzas/",
       "source": "O País",
-      "_key": "866c8f14b7fb1c79"
+      "_key": "1d6763dcac803d92"
+    },
+    {
+      "title": "Papa Leão XIV em tripla missão: religiosa, diplomática e social",
+      "url": "https://www.opais.ao/politica/papa-leao-xiv-em-tripla-missao-religiosa-diplomatica-e-social/",
+      "source": "O País",
+      "_key": "fdcc2409a194de38"
+    },
+    {
+      "title": "Bem-vindo, Papa Leão XIV",
+      "url": "https://www.opais.ao/sociedade/bem-vindo-papa-leao-xiv/",
+      "source": "O País",
+      "_key": "89c49ec2149e9055"
+    },
+    {
+      "title": "Domingo das Neves:“ Revisitar os discursos que o Papa João Paulo II fez em 1992, num momento histórico como este, ajudaria Angola e os angolanos a renovarem-se”",
+      "url": "https://www.opais.ao/entrevista/domingo-das-neves-revisitar-os-discursos-que-o-papa-joao-paulo-ii-fez-em-1992-num-momento-historico-como-este-ajudaria-angola-e-os-angolanos-a-renovarem-se/",
+      "source": "O País",
+      "_key": "b3041a9a8ff129c9"
+    },
+    {
+      "title": "Inundações em Benguela: INAC reporta desaparecimento de 61 crianças depois da tragédia do Cavaco",
+      "url": "https://www.opais.ao/sociedade/inundacoes-em-benguela-inac-reporta-desaparecimento-de-61-criancas-depois-da-tragedia-do-cavaco/",
+      "source": "O País",
+      "_key": "cc88ca0de3760323"
+    },
+    {
+      "title": "Presidente da República regressa ao país",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-regressa-ao-pais-4/",
+      "source": "O País",
+      "_key": "5405eb529ddc46fd"
+    },
+    {
+      "title": "Barragem do Calucuve vai beneficiar mais de 80 mil pessoas no Cunene",
+      "url": "https://www.opais.ao/ultimas_hora/barragem-do-calucuve-vai-beneficiar-mais-de-80-mil-pessoas-no-cunene/",
+      "source": "O País",
+      "_key": "9b7b32de08221a09"
+    },
+    {
+      "title": "Pastor na Huíla acusado de abusar sexualmente seis menores",
+      "url": "https://www.opais.ao/ultimas_hora/pastor-na-huila-acusado-de-abusar-sexualmente-seis-menores/",
+      "source": "O País",
+      "_key": "4c94cd463c57b7d3"
+    },
+    {
+      "title": "‎Cidadão malauiano detido no AIAAN em posse de mais de 2 kg de silício",
+      "url": "https://www.opais.ao/ultimas_hora/cidadao-malauiano-detido-no-aiaan-em-posse-de-mais-de-2-kg-de-silicio/",
+      "source": "O País",
+      "_key": "82086d087805d337"
+    },
+    {
+      "title": "Carta do leitor: Vamos cuidar da saúde…",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-vamos-cuidar-da-saude/",
+      "source": "O País",
+      "_key": "0bfdc5d664e9826e"
+    },
+    {
+      "title": "É de hoje…Habemus Papa em Angola",
+      "url": "https://www.opais.ao/opiniao/e-de-hojehabemus-papa-em-angola/",
+      "source": "O País",
+      "_key": "3bb27c3d5379196c"
+    },
+    {
+      "title": "Papa Leão XIV em Angola",
+      "url": "https://www.opais.ao/opiniao/papa-leao-xiv-em-angola/",
+      "source": "O País",
+      "_key": "ce44385df18058a9"
+    },
+    {
+      "title": "‎Comandante-geral da Polícia Nacional trabalha na Lunda-Sul",
+      "url": "https://www.opais.ao/ultimas_hora/comandante-geral-da-policia-nacional-trabalha-na-lunda-sul/",
+      "source": "O País",
+      "_key": "9fcdc7697cb20c36"
+    },
+    {
+      "title": "Laborinho assegura aposta na agricultura e melhoria da mobilidade entre os municípios do Cuanza-Sul",
+      "url": "https://www.opais.ao/ultimas_hora/laborinho-assegura-aposta-na-agricultura-e-melhoria-da-mobilidade-entre-os-municipios-do-cuanza-sul/",
+      "source": "O País",
+      "_key": "73ea8d302b3f6f1b"
+    },
+    {
+      "title": "Cidadão detido por tentativa de saída ilegal de mais de 15 mil dólares norte-americanos",
+      "url": "https://www.opais.ao/ultimas_hora/cidadao-detido-por-tentativa-de-saida-ilegal-de-mais-de-15-mil-dolares-norte-americanos/",
+      "source": "O País",
+      "_key": "3a6fc04f33c0831b"
     }
   ]
 }

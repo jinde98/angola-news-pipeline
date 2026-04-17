@@ -1,32 +1,280 @@
 {
-  "date": "2026-04-16",
-  "total_new": 22,
-  "total_filtered": 3,
-  "scored_by": "keyword",
+  "date": "2026-04-17",
+  "total_new": 90,
+  "total_filtered": 34,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "AGT denuncia tentativa de fraude de mais de mil milhões de kwanzas",
-      "url": "https://correiokianda.info/agt-denuncia-tentativa-de-fraude-de-mais-de-mil-milhoes-de-kwanzas/",
-      "source": "Correio Kianda",
-      "_key": "f82128775e853f22",
-      "score": 5,
-      "title_cn": "AGT 谴责企图诈骗超过 10 亿宽扎"
+      "title": "Trains to resume service between Lobito and Benguela",
+      "url": "https://www.angop.ao/en/noticias/transporte/comboios-vao-retomar-circulacao-entre-lobito-e-benguela/",
+      "source": "ANGOP",
+      "_key": "73d5ea4970e4d9d2",
+      "score": 9,
+      "title_cn": "洛比托和本格拉之间的列车恢复服务"
     },
     {
-      "title": "AGT denuncia tentativa de fraude superior a mil milhões de kwanzas",
-      "url": "https://holdonangola.com/agt-denuncia-tentativa-de-fraude-superior-a-mil-milhoes-de-kwanzas/",
-      "source": "Hold On Angola",
-      "_key": "fe9c544ea5494e55",
-      "score": 5,
-      "title_cn": "AGT 谴责企图欺诈超过 10 亿宽扎"
+      "title": "Operadora do Corredor do Lobito faz contas à vida depois das inundações",
+      "url": "https://expansao.co.ao/angola/detalhe/operadora-do-corredor-do-lobito-faz-contas-a-vida-depois-das-inundacoes-71188.html",
+      "source": "Expansão",
+      "_key": "95cab4a4b9a1eb42",
+      "score": 9,
+      "title_cn": "洛比托走廊运营商对洪水后的生活负责"
     },
     {
-      "title": "‎AGT frustra tentativa de fraude em ‎montante superior a mil milhões de kwanzas envolvendo funcionários",
-      "url": "https://www.opais.ao/ultimas_hora/agt-frustra-tentativa-de-fraude-em-montante-superior-a-mil-milhoes-de-kwanzas-envolvendo-funcionarios/",
+      "title": "Exportação de crude mais baixa dos últimos 15 anos",
+      "url": "https://expansao.co.ao/economia/detalhe/exportacao-de-crude-mais-baixa-dos-ultimos-15-anos-71192.html",
+      "source": "Expansão",
+      "_key": "1b8684291dc56040",
+      "score": 9,
+      "title_cn": "原油出口 15 年来最低"
+    },
+    {
+      "title": "Destaque Reservas internacionais suportam oito meses de importação As Reservas Internacionais de Angola fecham a terceira semana do mês de Abril nos 16,23 mil milhões de dólares, o valor mais alto deste ano e suportam oito meses de importação, o dobro do exigido na região SADC.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673987/reservas-internacionais-suportam-oito-meses-de-importa%C3%A7%C3%A3o-",
+      "source": "Jornal de Angola",
+      "_key": "d90b1301cb05e9f1",
+      "score": 9,
+      "title_cn": "安哥拉的国际储备在 4 月的第三周结束时为 162.3 亿美元 ， 为今年的最高水平 ， 并支持了 8 个月的进口 ， 是南部非洲发展共同体地区所需的两倍。"
+    },
+    {
+      "title": "Valor dos ajustes directos triplica para 8,9 biliões Kz no I trimestre de 2026O critério material de financiamento externo foi que mais pesou para o aumento dos ajustes directos na contratação pública autorizada pelo Presidente da República. Mais de metade das verbas vai para a nova linha ferroviária que vai ligar Malanje-Cuito-Menongue, que vai custar 5,4 biliões Kz.",
+      "url": "https://expansao.co.ao/angola/detalhe/valor-dos-ajustes-directos-triplica-para-89-bilioes-kz-no-i-trimestre-de-2026-71189.html",
+      "source": "Expansão",
+      "_key": "6bec61efcc84c08a",
+      "score": 8,
+      "title_cn": "2026 年第一季度 ， 直接调整的价值增加了两倍 ， 达到 8.9 万亿克兹。外部融资的重要标准是共和国总统授权增加公共采购的直接调整。超过一半的资金将用于连接马兰热 - 基托 - 梅农格的新铁路线"
+    },
+    {
+      "title": "EDITORIALJoão ArmandoRefinaria de CabindaTalvez um dia a primeira gota de gasóleo chegue ao mercado. Quando chegar, será celebrada como vitória histórica. O detalhe de ter chegado anos depois do prometido será tratado como pormenor técnico. O tempo neste caso não é dinheiro, é apenas retórica.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/refinaria-de-cabinda-71194.html",
+      "source": "Expansão",
+      "_key": "147d944318d9a4a6",
+      "score": 8,
+      "title_cn": "也许有一天 ， 第一滴柴油将进入市场。当它到来时 ， 它将被庆祝为历史性的胜利。迟到多年的细节将被视为一个技术细节。在这种情况下 ， 时间不是金钱 ， 只是修辞。"
+    },
+    {
+      "title": "Cidadão detido por tentativa de saída ilegal de mais de 15 mil dólares norte-americanos",
+      "url": "https://www.opais.ao/ultimas_hora/cidadao-detido-por-tentativa-de-saida-ilegal-de-mais-de-15-mil-dolares-norte-americanos/",
       "source": "O País",
-      "_key": "466a1a096059bfbe",
+      "_key": "3a6fc04f33c0831b",
+      "score": 8,
+      "title_cn": "美国公民因试图非法走私超过 15000 美元而被捕"
+    },
+    {
+      "title": "AGT denuncia funcionários por suspeita de fraude de mil milhões de kwanzas",
+      "url": "https://angola24horas.com/component/k2/item/34142-agt-denuncia-funcionarios-por-suspeita-de-fraude-de-mil-milhoes-de-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "d9097295b2dac88b",
+      "score": 7,
+      "title_cn": "AGT 控告员工涉嫌诈骗 10 亿宽扎"
+    },
+    {
+      "title": "Valor dos ajustes directos triplica para 8,9 biliões Kz no I trimestre de 2026",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_35ecb01debced7",
+      "score": 7,
+      "title_cn": "2026 年第一季度 ， 直接调整价值增长两倍至 8.9 万亿克兹"
+    },
+    {
+      "title": "SNCP \"aperta\" e quer técnicos das unidades de contratação pública qualificados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_a30f9635d51121",
+      "score": 7,
+      "title_cn": "SNCP \"开放\" ， 需要合格的公共采购单位的技术人员"
+    },
+    {
+      "title": "Técnicos da AGT sob suspeita em esquema fraudulento de mais de mil milhões Kz",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1b7252354fbfc5",
+      "score": 7,
+      "title_cn": "AGT 技术人员涉嫌诈骗超过 10 亿克兹"
+    },
+    {
+      "title": "Técnicos da AGT sob suspeita em esquema fraudulento de mais de mil milhões KzPerante a gravidade da situação, a administração tributária avançou com a participação às autoridades competentes. O facto é que o caso surge num contexto em que situações do género têm vindo a ganhar expressão no seio da AGT e o exemplo mais recente culminou com a condenação, em Março de 2026, de vários funcionários da AGT e empresários, a penas que variam entre três e nove anos de prisão.",
+      "url": "https://expansao.co.ao/empresas/detalhe/tecnicos-da-agt-sob-suspeita-em-esquema-fraudulento-de-mais-de-mil-milhoes-kz-71195.html",
+      "source": "Expansão",
+      "_key": "b470041e1ceda67c",
+      "score": 7,
+      "title_cn": "AGT 技术人员涉嫌欺诈超过 10 亿 Kz 面对形势的严重性 ， 税务管理部门在主管当局的参与下向前迈进。事实上 ， 此案是在 AGT 中性别问题越来越多地表达出来的背景下发生的 ， 最近的一个例子"
+    },
+    {
+      "title": "African Bank of Oman arranca operações em Angola para apoiar fluxos amplos de comércio e investimento entre África e o Médio Oriente",
+      "url": "https://forbesafricalusofona.com/african-bank-of-oman-arranca-operacoes-em-angola-para-apoiar-fluxos-amplos-de-comercio-e-investimento-entre-africa-e-o-medio-oriente/",
+      "source": "Forbes África",
+      "_key": "825b24cb32b8c260",
+      "score": 7,
+      "title_cn": "阿曼非洲银行开始在安哥拉开展业务 ， 以支持非洲和中东之间的广泛贸易和投资流动"
+    },
+    {
+      "title": "Destaque African Bank of Oman entra no mercado angolano O African Bank of Oman (ABO) foi, oficialmente, apresentado esta quinta-feira, em Luanda, com o objectivo de reforçar os fluxos de comércio e investimento entre Angola e o Médio Oriente.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673988/african-bank-of-oman--entra-no-mercado-angolano-",
+      "source": "Jornal de Angola",
+      "_key": "600d56e80101aa5d",
+      "score": 7,
+      "title_cn": "阿曼非洲银行 （ABO） 周四在罗安达正式成立， 旨在加强安哥拉与中东之间的贸易和投资流动。"
+    },
+    {
+      "title": "Economia Emitidos 165 títulos mineiros em 2025 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674000/emitidos-165-t%C3%ADtulos--mineiros-em-2025-",
+      "source": "Jornal de Angola",
+      "_key": "128898ea15d12d8e",
+      "score": 7,
+      "title_cn": "2025 年将发行 165 种矿业债券"
+    },
+    {
+      "title": "AGT remete para investigação funcionários envolvidos em tentativa de fraude de mais de mil milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/agt-remete-para-investigacao-funcionarios-envolvidos-em-tentativa-de-fraude-de-mais-de-mil-milhoes-de-kwanzas/",
+      "source": "O País",
+      "_key": "1d6763dcac803d92",
+      "score": 7,
+      "title_cn": "AGT 移交调查涉嫌欺诈超过 10 亿宽扎的官员"
+    },
+    {
+      "title": "Calucuve dam reinforces water security in southern region of Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/barragem-do-calucuve-reforca-seguranca-hidrica-no-sul-do-pais/",
+      "source": "ANGOP",
+      "_key": "ab73c5cc596a9050",
+      "score": 6,
+      "title_cn": "Calucuve大坝加强了安哥拉南部地区的水安全"
+    },
+    {
+      "title": "African Bank of Oman diz que vai servir de ponte entre Angola e Médio Oriente",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34147-african-bank-of-oman-diz-que-vai-servir-de-ponte-entre-angola-e-medio-oriente",
+      "source": "Angola 24 Horas",
+      "_key": "d28bd611cb3a6d21",
+      "score": 6,
+      "title_cn": "阿曼非洲银行表示 ， 它将成为安哥拉和中东之间的桥梁"
+    },
+    {
+      "title": "Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada",
+      "url": "https://angola24horas.com/sociedade/item/34146-desemprego-recua-para-28-3-em-angola-mas-informalidade-mantem-se-elevada",
+      "source": "Angola 24 Horas",
+      "_key": "f43f72c800b30d6c",
+      "score": 6,
+      "title_cn": "安哥拉失业率下降至 28.3% ， 但非正规化程度仍然很高"
+    },
+    {
+      "title": "Exportação de energia gera preocupação sobre acesso interno",
+      "url": "https://correiokianda.info/exportacao-de-energia-gera-preocupacao-sobre-acesso-interno/",
+      "source": "Correio Kianda",
+      "_key": "468a6083e76bcd74",
+      "score": 6,
+      "title_cn": "能源出口引发国内准入问题"
+    },
+    {
+      "title": "INE diz que emprego em Angola aumentou, mas a informalidade mantém-se",
+      "url": "https://correiokianda.info/ine-diz-que-emprego-em-angola-aumentou-mas-a-informalidade-mantem-se/",
+      "source": "Correio Kianda",
+      "_key": "2baa90c92b37a493",
+      "score": 6,
+      "title_cn": "INE 称安哥拉就业增加 ， 但非正规化仍然存在"
+    },
+    {
+      "title": "FMI mais pessimista com a economia global",
+      "url": "https://expansao.co.ao/mundo/detalhe/fmi-mais-pessimista-com-a-economia-global-71191.html",
+      "source": "Expansão",
+      "_key": "d86e590d503733b7",
+      "score": 6,
+      "title_cn": "国际货币基金组织对全球经济更加悲观"
+    },
+    {
+      "title": "Angola e ONU Turismo reforçam cooperação estratégica para a formação e promoção do investimento",
+      "url": "https://holdonangola.com/angola-e-onu-turismo-reforcam-cooperacao-estrategica-para-a-formacao-e-promocao-do-investimento/",
+      "source": "Hold On Angola",
+      "_key": "cff7bb6ed137fc28",
+      "score": 6,
+      "title_cn": "安哥拉和联合国旅游组织加强战略合作 ， 促进培训和投资"
+    },
+    {
+      "title": "Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada",
+      "url": "https://jornaloguardiao.com/2026/04/17/desemprego-recua-para-283-em-angola-mas-informalidade-mantem-se-elevada/",
+      "source": "Jornal O Guardião",
+      "_key": "901e050519368a95",
+      "score": 6,
+      "title_cn": "安哥拉失业率下降至 28.3% ， 但非正规化程度仍然很高"
+    },
+    {
+      "title": " Desemprego recua para 28,3% em Angola, mas informalidade mantém-se elevada ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9a819b18a2999f",
+      "score": 6,
+      "title_cn": "安哥拉失业率下降至 28.3% ， 但非正规化程度仍然很高"
+    },
+    {
+      "title": "Economia Acordo com o PNUD prevê execução de projecto no domínio da agricultura ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674001/acordo-com-o-pnud-prev%C3%AA-execu%C3%A7%C3%A3o--de-projecto-no-dom%C3%ADnio-da-agricultura",
+      "source": "Jornal de Angola",
+      "_key": "4cf51e7ff1ae94d1",
+      "score": 6,
+      "title_cn": "与开发计划署签署的协定规定在农业领域执行项目"
+    },
+    {
+      "title": "Sociedade Barragem do Calucuve arranca em Julho para levar água a mais de 80 mil habitantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/673990/barragem-do-calucuve-arranca-em-julho-para-levar-%C3%A1gua-a-mais-de-80-mil-habitantes",
+      "source": "Jornal de Angola",
+      "_key": "2aaa22902482907b",
+      "score": 6,
+      "title_cn": "卡卢库韦大坝协会将于 7 月启动 ， 为 8 万多名居民提供水"
+    },
+    {
+      "title": "Economia Ganhos económicos de 2025 em África em risco devido à guerra no Médio Oriente ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/673985/ganhos-econ%C3%B3micos-de-2025-em-%C3%A1frica-em-risco-devido-%C3%A0-guerra-no-m%C3%A9dio-oriente",
+      "source": "Jornal de Angola",
+      "_key": "a2d6c5e89d6658f8",
+      "score": 6,
+      "title_cn": "由于中东战争 ， 非洲 2025 年的经济增长面临风险"
+    },
+    {
+      "title": "Barragem do Calucuve vai beneficiar mais de 80 mil pessoas no Cunene",
+      "url": "https://www.opais.ao/ultimas_hora/barragem-do-calucuve-vai-beneficiar-mais-de-80-mil-pessoas-no-cunene/",
+      "source": "O País",
+      "_key": "9b7b32de08221a09",
+      "score": 6,
+      "title_cn": "Calucuve 大坝将使库内内 8 万多人受益"
+    },
+    {
+      "title": "Laborinho assegura aposta na agricultura e melhoria da mobilidade entre os municípios do Cuanza-Sul",
+      "url": "https://www.opais.ao/ultimas_hora/laborinho-assegura-aposta-na-agricultura-e-melhoria-da-mobilidade-entre-os-municipios-do-cuanza-sul/",
+      "source": "O País",
+      "_key": "73ea8d302b3f6f1b",
+      "score": 6,
+      "title_cn": "Laborinho 确保投资于农业 ， 改善 Cuanza-Sul 市之间的流动性"
+    },
+    {
+      "title": "President João Lourenço returns to Luanda from Brazzaville",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-7/",
+      "source": "ANGOP",
+      "_key": "3f936f3644b17901",
       "score": 5,
-      "title_cn": "AGT 挫败涉及员工的超过 10 亿宽扎的欺诈企图"
+      "title_cn": "若昂 · 洛伦索总统从布拉柴维尔返回罗安达"
+    },
+    {
+      "title": "Destaque Chefe de Estado regressa ao país O Presidente da República, João Lourenço, regressou ao país no início da noite de hoje, depois de uma missão de algumas horas, em Brazzaville, Congo, onde testemunhou a investidura do Chefe de Estado reeleito, Denis Sassou Nguesso. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/673984/chefe-de-estado-regressa-ao-pa%C3%ADs-",
+      "source": "Jornal de Angola",
+      "_key": "3260f5c3708c80e4",
+      "score": 5,
+      "title_cn": "刚果共和国总统若昂 · 洛伦索在刚果布拉柴维尔进行了几个小时的访问后 ， 今天傍晚返回刚果 ， 在那里他见证了再次当选的国家元首德尼 · 萨苏 · 恩格索的就职典礼。"
+    },
+    {
+      "title": "Regiões Tribunal Supremo defende no Huambo promoção de justiça rápida e acessível ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/673981/tribunal-supremo-defende-no-huambo-promo%C3%A7%C3%A3o-de-justi%C3%A7a-r%C3%A1pida-e-acess%C3%ADvel",
+      "source": "Jornal de Angola",
+      "_key": "3d03a56167bb2829",
+      "score": 5,
+      "title_cn": "地区最高法院捍卫在万博促进快速和负担得起的司法"
+    },
+    {
+      "title": "Presidente da República regressa ao país",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-regressa-ao-pais-4/",
+      "source": "O País",
+      "_key": "5405eb529ddc46fd",
+      "score": 5,
+      "title_cn": "共和国总统回国"
     }
   ]
 }
