@@ -1,15 +1,36 @@
 {
   "date": "2026-04-17",
-  "total_new": 46,
-  "total_filtered": 1,
-  "scored_by": "keyword",
+  "total_new": 9,
+  "total_filtered": 4,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China executa três condenados por abuso sexual de menores, diz imprensa estatal",
-      "url": "https://correiokianda.info/china-executa-tres-condenados-por-abuso-sexual-de-menores-diz-imprensa-estatal/",
-      "source": "Correio Kianda",
-      "_key": "4afeeec467c416ae",
-      "score": 7
+      "title": "Volume de venda de divisas no mercado cambial angolano dispara 288% no início de 2026",
+      "url": "https://angola24horas.com/economia/item/34150-volume-de-venda-de-divisas-no-mercado-cambial-angolano-dispara-288-no-inicio-de-2026",
+      "source": "Angola 24 Horas",
+      "_key": "a3db3088f62886cc",
+      "score": 9
+    },
+    {
+      "title": "President João Lourenço accredits six new ambassadors",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-acredita-seis-novos-embaixadores/",
+      "source": "ANGOP",
+      "_key": "cf11655cc80f5446",
+      "score": 6
+    },
+    {
+      "title": "Destaque Chefe de Estado recebe cartas credenciais de seis novos embaixadoresO Presidente da República, João Lourenço, recebeu, na tarde desta, no Palácio Presidencial da Cidade Alta, em Luanda, as Cartas Credenciais de seis novos embaixadores. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674055/chefe-de-estado-recebe-cartas-credenciais-de-seis-novos-embaixadores",
+      "source": "Jornal de Angola",
+      "_key": "d8ba678648d5dea9",
+      "score": 6
+    },
+    {
+      "title": "Angola reafirma compromisso com a prevenção de conflitos e o desenvolvimento sustentável",
+      "url": "https://www.opais.ao/politica/angola-reafirma-compromisso-com-a-prevencao-de-conflitos-e-o-desenvolvimento-sustentavel/",
+      "source": "O País",
+      "_key": "ebdb1d9b1f3e2c8d",
+      "score": 5
     }
   ]
 }
