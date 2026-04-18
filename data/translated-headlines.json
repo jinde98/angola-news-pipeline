@@ -1,40 +1,184 @@
 {
-  "date": "2026-04-17",
-  "total_new": 9,
-  "total_filtered": 4,
+  "date": "2026-04-18",
+  "total_new": 74,
+  "total_filtered": 22,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Volume de venda de divisas no mercado cambial angolano dispara 288% no início de 2026",
-      "url": "https://angola24horas.com/economia/item/34150-volume-de-venda-de-divisas-no-mercado-cambial-angolano-dispara-288-no-inicio-de-2026",
-      "source": "Angola 24 Horas",
-      "_key": "a3db3088f62886cc",
-      "score": 9,
-      "title_cn": "安哥拉外汇市场外汇销售量在 2026 年初飙升 288%"
-    },
-    {
-      "title": "President João Lourenço accredits six new ambassadors",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-acredita-seis-novos-embaixadores/",
+      "title": "Angolan technicians gain advanced energy tech skills in China",
+      "url": "https://www.angop.ao/en/noticias/economia/tecnicos-do-minea-terminam-formacao-sobre-inovacao-tecnologica-na-china/",
       "source": "ANGOP",
-      "_key": "cf11655cc80f5446",
-      "score": 6,
-      "title_cn": "若昂 · 洛伦索总统认可六位新大使"
+      "_key": "2d7a1e09ab9e2bb7",
+      "score": 9,
+      "title_cn": "安哥拉技术人员在中国掌握先进能源技术"
     },
     {
-      "title": "Destaque Chefe de Estado recebe cartas credenciais de seis novos embaixadoresO Presidente da República, João Lourenço, recebeu, na tarde desta, no Palácio Presidencial da Cidade Alta, em Luanda, as Cartas Credenciais de seis novos embaixadores. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674055/chefe-de-estado-recebe-cartas-credenciais-de-seis-novos-embaixadores",
-      "source": "Jornal de Angola",
-      "_key": "d8ba678648d5dea9",
-      "score": 6,
-      "title_cn": "共和国总统若昂 · 洛伦索今天下午在罗安达阿尔塔城总统府接受了六位新大使的全权证书。"
+      "title": "Reabertura do Estreito de Ormuz: economista prevê descida do preço do petróleo sem impacto negativo para Angola",
+      "url": "https://correiokianda.info/reabertura-do-estreito-de-ormuz-economista-preve-descida-do-preco-do-petroleo-sem-impacto-negativo-para-angola/",
+      "source": "Correio Kianda",
+      "_key": "e353ce335e21031d",
+      "score": 9,
+      "title_cn": "霍尔木兹海峡重开：经济学家预计油价下跌对安哥拉无负面影响"
     },
     {
-      "title": "Angola reafirma compromisso com a prevenção de conflitos e o desenvolvimento sustentável",
-      "url": "https://www.opais.ao/politica/angola-reafirma-compromisso-com-a-prevencao-de-conflitos-e-o-desenvolvimento-sustentavel/",
+      "title": "Regime iraniano anuncia “abertura total do Estreito de Ormuz”",
+      "url": "https://correiokianda.info/169133-2/",
+      "source": "Correio Kianda",
+      "_key": "7a4f4f5fc9de54ba",
+      "score": 9,
+      "title_cn": "伊朗宣布“霍尔木兹海峡全面开放”"
+    },
+    {
+      "title": "‎Angola e China avaliam reforço da cooperação no sector da justiça",
+      "url": "https://www.opais.ao/politica/angola-e-china-avaliam-reforco-da-cooperacao-no-sector-da-justica/",
       "source": "O País",
-      "_key": "ebdb1d9b1f3e2c8d",
+      "_key": "3b1ef79d56fa09f4",
+      "score": 9,
+      "title_cn": "安哥拉与中国评估加强司法领域合作"
+    },
+    {
+      "title": "Destaque Visita do Papa condiciona trânsito e interdita veículos pesados em LuandaO Governo de Luanda (GPL) informou, esta sexta-feira, que serão implementadas medidas especiais de ordenamento do trânsito, incluindo condicionamentos à circulação rodoviária e interdição temporária de veículos pesados, em várias artérias da província, no âmbito da visita do Papa Leão XIV. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674062/visita-do-papa-condiciona-tr%C3%A2nsito-e-interdita-ve%C3%ADculos-pesados-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "122ef09cbc77ff8b",
+      "score": 8,
+      "title_cn": "教皇访问罗安达，交通受限，禁止重型车辆通行"
+    },
+    {
+      "title": "Economia FMI revê em alta crescimento da economia angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674061/fmi-rev%C3%AA-em-alta-crescimento-da-economia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "643ba499c641f8f1",
+      "score": 8,
+      "title_cn": "国际货币基金组织上调安哥拉经济增长预期"
+    },
+    {
+      "title": "‎Visita do Papa condiciona trânsito em Luanda a partir de hoje",
+      "url": "https://www.opais.ao/destaque/visita-do-papa-condiciona-transito-em-luanda-a-partir-de-hoje/",
+      "source": "O País",
+      "_key": "1b9212d977d00497",
+      "score": 8,
+      "title_cn": "教皇访问罗安达，今日起交通将受影响"
+    },
+    {
+      "title": "Parque Solar Fotovoltaico do Luau entra em funcionamento",
+      "url": "https://www.opais.ao/ultimas_hora/parque-solar-fotovoltaico-do-luau-entra-em-funcionamento/",
+      "source": "O País",
+      "_key": "c4a39294be542a9a",
+      "score": 8,
+      "title_cn": "卢奥（Luau）光伏太阳能公园投入运营"
+    },
+    {
+      "title": "Angola to host international tourism investment conference",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-acolhe-em-junho-conferencia-internacional-de-investimento-no-turismo/",
+      "source": "ANGOP",
+      "_key": "df1b3ba343f2adc1",
+      "score": 7,
+      "title_cn": "安哥拉将主办国际旅游投资大会"
+    },
+    {
+      "title": "Ministro da Agricultura convida instituições que não financiam PEPs a sair de Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ced6fb24aebd36",
+      "score": 7,
+      "title_cn": "农业部长：不资助PEPs的机构应离开安哥拉"
+    },
+    {
+      "title": "Taxa de desemprego em Angola reduz 28,3% em 2025",
+      "url": "https://forbesafricalusofona.com/taxa-de-desemprego-em-angola-reduz-283-em-2025/",
+      "source": "Forbes África",
+      "_key": "a2f2d8ce050a7d23",
+      "score": 7,
+      "title_cn": "安哥拉失业率预计2025年下降28.3%"
+    },
+    {
+      "title": "Minister highlights energy integration for Southern Africa's prosperity",
+      "url": "https://www.angop.ao/en/noticias/sociedade/governante-destaca-integracao-energetica-na-prosperidade-da-africa-austral/",
+      "source": "ANGOP",
+      "_key": "d66286d26d3570e0",
+      "score": 6,
+      "title_cn": "部长强调能源一体化对南部非洲繁荣的重要性"
+    },
+    {
+      "title": "Angola becomes the first country in the world to receive investment from the African Bank of Oman",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-torna-se-no-primeiro-pais-do-mundo-a-receber-investimento-do-african-bank-of-oman/",
+      "source": "ANGOP",
+      "_key": "0634a56081e06064",
+      "score": 6,
+      "title_cn": "安哥拉成为全球首个获得阿曼非洲银行投资的国家"
+    },
+    {
+      "title": "SIC detém cidadãos malianos por tentativa de homicídio contra patrão",
+      "url": "https://correiokianda.info/sic-detem-cidadaos-malianos-por-tentativa-de-homicidio-contra-patrao/",
+      "source": "Correio Kianda",
+      "_key": "7f04208e9fef5e76",
+      "score": 6,
+      "title_cn": "安哥拉刑侦局（SIC）逮捕涉嫌谋杀雇主的马里公民"
+    },
+    {
+      "title": "Governo desmente tolerância de ponto em Luanda durante visita do Papa Leão XIV",
+      "url": "https://holdonangola.com/governo-desmente-tolerancia-de-ponto-em-luanda-durante-visita-do-papa-leao-xiv/",
+      "source": "Hold On Angola",
+      "_key": "4207d877bd26b821",
+      "score": 6,
+      "title_cn": "政府否认教皇利奥十四世（Leão XIV）访问罗安达期间有公共假期"
+    },
+    {
+      "title": "Polícia e associação cívica reforçam cooperação para segurança e liberdade de imprensa no Bengo",
+      "url": "https://holdonangola.com/policia-e-associacao-civica-reforcam-cooperacao-para-seguranca-e-liberdade-de-imprensa-no-bengo/",
+      "source": "Hold On Angola",
+      "_key": "176126e9d641f405",
+      "score": 6,
+      "title_cn": "本戈（Bengo）警方与民间协会加强合作，保障安全和新闻自由"
+    },
+    {
+      "title": "Destaque Presidente do Instituto Fórum Mundial do Turismo recebido na Cidade AltaO Chefe de Estado, João Lourenço, concedeu, hoje, uma audiência ao presidente do Instituto Fórum Mundial do Turismo, Bulut Bagci, onde foram abordadas as potencialidades turísticas do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674059/presidente-do-instituto-f%C3%B3rum-mundial-do-turismo-recebido-na-cidade-alta",
+      "source": "Jornal de Angola",
+      "_key": "ca91de5e1254f647",
+      "score": 6,
+      "title_cn": "安哥拉总统若昂·洛伦索（João Lourenço）接见世界旅游论坛学院院长"
+    },
+    {
+      "title": "Tolerancia de ponto",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=110507",
+      "source": "ANGOP",
+      "_key": "bb078cb92ab26ac6",
       "score": 5,
-      "title_cn": "安哥拉重申致力于预防冲突和可持续发展"
+      "title_cn": "公共假期"
+    },
+    {
+      "title": "        África6 horas atrás  RDC pode tornar-se a 5ª maior economia da África Subsaariana em 2026 A República Democrática do Congo poderá assumir, em 2026, a posição de quinta maior economia da África Subsaariana, ultrapassando a Etiópia, segundo projeções do Fundo Monetário...   ",
+      "url": "https://correiokianda.info/rdc-pode-tornar-se-a-5a-maior-economia-da-africa-subsaariana-em-2026/",
+      "source": "Correio Kianda",
+      "_key": "6dacf218c21c64fd",
+      "score": 5,
+      "title_cn": "刚果民主共和国有望在2026年成为撒哈拉以南非洲第五大经济体"
+    },
+    {
+      "title": "Crédito à economia moçambicana aumenta para 3.939 milhões de euros em Fevereiro",
+      "url": "https://forbesafricalusofona.com/credito-a-economia-mocambicana-aumenta-para-3-939-milhoes-de-euros-em-fevereiro/",
+      "source": "Forbes África",
+      "_key": "091b720b257d421f",
+      "score": 5,
+      "title_cn": "莫桑比克经济信贷2月份增至39.39亿欧元"
+    },
+    {
+      "title": "Destaque Papa Leão XIV: \"África precisa de ser libertada da chaga da corrupção\"O terceiro dia da visita apostólica do Papa aos Camarões ficou concluído, sexta-feira, com uma deslocação à Universidade Católica da África Central, onde Leão XIV declarou que \"África precisa de ser libertada da chaga da corrupção\"",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674067/papa-le%C3%A3o-xiv:--%22%C3%A1frica-precisa-de-ser-libertada-da-chaga-da-corrup%C3%A7%C3%A3o%22",
+      "source": "Jornal de Angola",
+      "_key": "815542bd7c1dd39a",
+      "score": 5,
+      "title_cn": "教皇利奥十四世（Leão XIV）：“非洲需摆脱腐败祸害”"
+    },
+    {
+      "title": "Luanda vai acolher o VI Simpósio Global da Aviação Civil Internacional",
+      "url": "https://www.opais.ao/ultimas_hora/luanda-vai-acolher-o-vi-simposio-global-da-aviacao-civil-internacional/",
+      "source": "O País",
+      "_key": "93cea264795b7c1e",
+      "score": 5,
+      "title_cn": "罗安达将主办第六届国际民用航空全球研讨会"
     }
   ]
 }
