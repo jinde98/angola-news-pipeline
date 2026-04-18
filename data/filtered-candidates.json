@@ -1,78 +1,57 @@
 {
   "date": "2026-04-18",
-  "total_new": 27,
-  "total_filtered": 10,
+  "total_new": 21,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Ministério da Energia e Águas e Huawei elaboram Livro Branco sobre a Transformação Digital Nacional",
-      "url": "https://www.opais.ao/politica/ministerio-da-energia-e-aguas-e-huawei-elaboram-livro-branco-sobre-a-transformacao-digital-nacional/",
-      "source": "O País",
-      "_key": "51be801924ca2956",
-      "score": 10
-    },
-    {
-      "title": "Operadora do Corredor do Lobito faz contas à vida depois das inundações",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a303c7bca7e450",
-      "score": 9
-    },
-    {
-      "title": "‎Técnicos do MINEA concluem formação estratégica em inovação tecnológica na Huawei",
-      "url": "https://www.opais.ao/destaque/tecnicos-do-minea-concluem-formacao-estrategica-em-inovacao-tecnologica-na-huawei/",
-      "source": "O País",
-      "_key": "e7a5f337910793f4",
-      "score": 9
-    },
-    {
-      "title": "Refinaria de Cabinda Se Angola tivesse um campeonato de inaugurações prematuras, a Refinaria de Cabinda já estaria a disputar a final. Foi oficialmente inaugurada, com pompa, circunstância e retórica soberanista, mas seis meses e meio depois continua a não produzir uma única gota de gasóleo para o mercado. ",
-      "url": "https://expansao.co.ao/multimedia/detalhe/refinaria-de-cabinda-71224.html",
-      "source": "Expansão",
-      "_key": "9b48409c16150f50",
+      "title": "Trump afirma que Xi está “muito satisfeito” com reabertura de estreito de Ormuz",
+      "url": "https://jornaloguardiao.com/2026/04/18/trump-afirma-que-xi-esta-muito-satisfeito-com-reabertura-de-estreito-de-ormuz/",
+      "source": "Jornal O Guardião",
+      "_key": "ca2b3e030f7a1c9b",
       "score": 8
     },
     {
-      "title": "Economia Investimento no sector Produtivo impulsiona criação de emprego jovem ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674071/investimento-no-sector-produtivo-impulsiona-cria%C3%A7%C3%A3o-de-emprego-jovem",
+      "title": " Trump afirma que Xi está “muito satisfeito” com reabertura de estreito de Ormuz ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f94a1a100789d1",
+      "score": 8
+    },
+    {
+      "title": "Mundo18/04/2026Autoridades iranianas ameaçam voltar a fechar Estreito de Ormuz",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674104/autoridades-iranianas-amea%C3%A7am-voltar-a-fechar-estreito-de-ormuz",
       "source": "Jornal de Angola",
-      "_key": "86057eb02172c288",
+      "_key": "884b8f3516fa42f7",
+      "score": 8
+    },
+    {
+      "title": "«Chego a Angola com projecto ambicioso e a chave do...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/chego-a-angola-com-projecto-ambicioso-e-a-chave-do-sucesso-sera-trabalho-aliou-cisse-71210.html",
+      "source": "Novo Jornal",
+      "_key": "490344936268f8b5",
       "score": 7
     },
     {
-      "title": "FMI mais pessimista com a economia global",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0a6007e99acae2",
+      "title": "African Bank of Oman enters Angolan market with capital of over Kz 18 billion",
+      "url": "https://www.angop.ao/en/noticias/economia/african-bank-of-oman-entra-no-mercado-angolano-com-capital-de-mais-de-kz-18-mil-milhoes/",
+      "source": "ANGOP",
+      "_key": "e678518297af035a",
       "score": 6
     },
     {
-      "title": "Zâmbia constrói primeira refinaria de petróleo para garantir segurança energética",
+      "title": "Angola atribui a “relação laboral” discrepância na execução orçamental entre setores",
+      "url": "https://jornaloguardiao.com/2026/04/18/angola-atribui-a-relacao-laboral-discrepancia-na-execucao-orcamental-entre-setores/",
+      "source": "Jornal O Guardião",
+      "_key": "ff4e0f9679a5c2a1",
+      "score": 6
+    },
+    {
+      "title": " Angola atribui a “relação laboral” discrepância na execução orçamental entre setores ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_3e455eb77ef221",
-      "score": 5
-    },
-    {
-      "title": "Francisco Teixeira denuncia actos de intimidação e sabotagem no Cuanza Sul",
-      "url": "https://holdonangola.com/francisco-teixeira-denuncia-actos-de-intimidacao-e-sabotagem-no-cuanza-sul/",
-      "source": "Hold On Angola",
-      "_key": "0f5a9e38c484896f",
-      "score": 5
-    },
-    {
-      "title": "O acordo que a Zâmbia não pode aceitar",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674072/o-acordo-que-a-z%C3%A2mbia--n%C3%A3o-pode-aceitar",
-      "source": "Jornal de Angola",
-      "_key": "ecebbd820ac89db0",
-      "score": 5
-    },
-    {
-      "title": "‎Angola e Argélia analisam reforço da cooperação estratégica",
-      "url": "https://www.opais.ao/politica/angola-e-argelia-analisam-reforco-da-cooperacao-estrategica/",
-      "source": "O País",
-      "_key": "5daf02d205b30179",
-      "score": 5
+      "source": "Jornal O Guardião",
+      "_key": "t_6229e1f2928489",
+      "score": 6
     }
   ]
 }
