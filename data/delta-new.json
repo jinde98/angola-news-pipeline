@@ -1,320 +1,128 @@
 {
   "date": "2026-04-21",
   "total_extracted": 1666,
-  "total_new": 52,
-  "total_existing": 1614,
+  "total_new": 20,
+  "total_existing": 1646,
   "articles": [
     {
-      "title": "Pope Leo XIV already in Malabo",
-      "url": "https://www.angop.ao/en/noticias/sociedade/leao-xiv-ja-em-malabo-para-seguimento-da-agenda-pastoral/",
+      "title": "~Angola faces Mozambique in AFCON 2025 preparation",
+      "url": "https://www.angop.ao/en/noticias/desporto/jogo-angola-mocambique-acontece-apenas-hoje-no-algarve/",
       "source": "ANGOP",
-      "_key": "d835fff5ae9d03f1"
+      "_key": "940869f76dfd1173"
     },
     {
-      "title": "Minister appeals for transforming Pope's messages into concrete actions",
-      "url": "https://www.angop.ao/en/noticias/sociedade/ministra-de-estado-defende-transformacao-das-mensagens-papal-em-accoes-concretas/",
+      "title": "Angola finishes last in swimming at the African Youth Games",
+      "url": "https://www.angop.ao/en/noticias/desporto/natacao-angola-termina-na-nona-posicao-nos-jaj/",
       "source": "ANGOP",
-      "_key": "06758b037a403f4a"
+      "_key": "1f63ea7fd86e6bad"
     },
     {
-      "title": "MOSAP-3 project supports 1,600 families in Huambo Province",
-      "url": "https://www.angop.ao/en/noticias/agricultura/projecto-mosap-3-apoia-mil-600-familias-no-huambo/",
+      "title": "Mucaba power substation works to kick off in first quarter",
+      "url": "https://www.angop.ao/en/noticias/economia/construcao-da-subestacao-electrica-de-mucaba-comeca-no-primeiro-trimestre-deste-ano/",
       "source": "ANGOP",
-      "_key": "8d450f81da596e3a"
+      "_key": "d26c121a965a8851"
     },
     {
-      "title": "Minister of Mineral Resources consults with mining companies in Huíla",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-dos-recursos-minerais-ausculta-mineradoras-na-huila/",
+      "title": "Ruling party’s vice president defends family farming promotion",
+      "url": "https://www.angop.ao/en/noticias/economia/fomento-da-agricultura-familiar-garante-da-diversificacao-economica-diz-mara-quiosa/",
       "source": "ANGOP",
-      "_key": "1d26f3ab7a78089e"
+      "_key": "5166454656255f35"
     },
     {
-      "title": "Produção Agrícola",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=70882",
+      "title": "Angolan writer defends transcription of oral tradition into books",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/escritor-defende-transcricao-da-tradicao-oral-em-livros/",
       "source": "ANGOP",
-      "_key": "367e58f4a755ccb7"
+      "_key": "a7fe5b23c18d4a18"
     },
     {
-      "title": "Rochas ornamentais",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=44392",
-      "source": "ANGOP",
-      "_key": "80b4f8849e839110"
+      "title": "Tribunal Supremo adia julgamento de ex-ministra das Pescas para 29 de Abril",
+      "url": "https://angola24horas.com/sociedade/item/34178-tribunal-supremo-adia-julgamento-de-ex-ministra-das-pescas-para-29-de-abril",
+      "source": "Angola 24 Horas",
+      "_key": "44e5260bf98d863d"
     },
     {
-      "title": "Minister of Culture highlights unity during Leo XIV's visit",
-      "url": "https://www.angop.ao/en/noticias/sociedade/ministro-da-cultura-ressalta-uniao-e-identidade-nacional-na-visita-de-leao-xiv/",
-      "source": "ANGOP",
-      "_key": "e2e71b5264257d8e"
+      "title": "Santo Padre saiu \"feliz\" e deixou recados claros para Angola - CEAST",
+      "url": "https://angola24horas.com/sociedade/item/34177-santo-padre-saiu-feliz-e-deixou-recados-claros-para-angola-ceast",
+      "source": "Angola 24 Horas",
+      "_key": "721859db9685ef27"
     },
     {
-      "title": "Abandono",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=44015",
-      "source": "ANGOP",
-      "_key": "e1c60ee4796ffb67"
-    },
-    {
-      "title": "1º de Agosto beats Sporting, leads women's national championship",
-      "url": "https://www.angop.ao/en/noticias/desporto/basquetebol-1o-de-agosto-supera-sporting-e-assume-lideranca-do-nacional-feminino/",
-      "source": "ANGOP",
-      "_key": "bdcc5db86bb70709"
-    },
-    {
-      "title": "United Methodist Church Choir releases first album",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/coro-da-igreja-metodista-unida-de-kitongola-apresenta-album-o-vaso-escolhido/",
-      "source": "ANGOP",
-      "_key": "a05594795866d1db"
-    },
-    {
-      "title": "Angola participates in international film festival in Morocco",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angola-convidada-no-festival-internacional-de-cinema/",
-      "source": "ANGOP",
-      "_key": "c6d55e6f82b0ff67"
-    },
-    {
-      "title": "Divergências familiares “dominam casos” de homicídios na Huíla",
-      "url": "https://correiokianda.info/divergencias-familiares-dominam-casos-de-homicidios-na-huila/",
-      "source": "Correio Kianda",
-      "_key": "4df5155c4082f71d"
-    },
-    {
-      "title": "Osvaldo Caholo e arguidos do “caso russos” voltam a ser ouvidos esta quarta-feira",
-      "url": "https://correiokianda.info/osvaldo-caholo-e-arguidos-do-caso-russos-voltam-a-ser-ouvidos-esta-quarta-feira/",
-      "source": "Correio Kianda",
-      "_key": "8b3384881a91bd81"
-    },
-    {
-      "title": "Pouca durabilidade das obras públicas deve-se a falta de fiscalização rigorosa, dizem analistas",
-      "url": "https://correiokianda.info/pouca-durabilidade-das-obras-publicas-deve-se-a-falta-de-fiscalizacao-rigorosa-dizem-analistas/",
-      "source": "Correio Kianda",
-      "_key": "30dc181a8de99990"
-    },
-    {
-      "title": "Automobilistas mostram-se agastados com mau estado da via da Vidrul em Cacuaco",
-      "url": "https://correiokianda.info/automobilistas-mostram-se-agastados-com-mau-estado-da-via-da-vidrul-em-cacuaco/",
-      "source": "Correio Kianda",
-      "_key": "4d0b46593100c69e"
-    },
-    {
-      "title": "Novo hospital no Soyo vai custar 68 milhões de dólares",
-      "url": "https://correiokianda.info/novo-hospital-no-soyo-vai-custar-68-milhoes-de-dolares/",
-      "source": "Correio Kianda",
-      "_key": "be805dceb7b4d233"
-    },
-    {
-      "title": "Visita do Papa a Angola ganha eco na imprensa mundial com leituras distintas sobre a sua mensagem",
-      "url": "https://correiokianda.info/visita-do-papa-a-angola-ganha-eco-na-imprensa-mundial-com-leituras-distintas-sobre-a-sua-mensagem/",
-      "source": "Correio Kianda",
-      "_key": "a40a9dc48ecf6f8e"
-    },
-    {
-      "title": "Wiliete e 1º de Agosto disputam vaga dos quartos da Taça de Angola",
-      "url": "https://correiokianda.info/wiliete-e-1o-de-agosto-disputam-vaga-dos-quartos-da-taca-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "fec86efafbf8e9ba"
-    },
-    {
-      "title": "Angola conquista tetracampeonato africano de MMA com domínio no quadro geral de medalhas",
-      "url": "https://correiokianda.info/angola-conquista-tetracampeonato-africano-de-mma-com-dominio-no-quadro-geral-de-medalhas/",
-      "source": "Correio Kianda",
-      "_key": "326a48775a118f43"
-    },
-    {
-      "title": "Petro e Interclube disputam duelo decisivo nas meias-finais do Unitel Basket",
-      "url": "https://correiokianda.info/petro-e-interclube-disputam-duelo-decisivo-nas-meias-finais-do-unitel-basket/",
-      "source": "Correio Kianda",
-      "_key": "609bb57d6340cd22"
-    },
-    {
-      "title": "        Sociedade3 horas atrás  Morosidade judicial leva à abertura de novos tribunais em Cacuaco e Cazenga A morosidade no sistema de justiça em Luanda está na base da decisão de criar novos tribunais de comarca nos municípios de Cacuaco e Cazenga, numa...   ",
-      "url": "https://correiokianda.info/morosidade-judicial-leva-a-abertura-de-novos-tribunais-em-cacuaco-e-cazenga/",
-      "source": "Correio Kianda",
-      "_key": "b8404e1ebc276762"
-    },
-    {
-      "title": "Malabo vive intenso momento de expectativa com a visita do Papa Leão XIV",
-      "url": "https://forbesafricalusofona.com/malabo-vive-intenso-momento-de-expectativa-com-a-visita-do-papa-leao-xiv/",
+      "title": "Países lusófonos entre os bons exemplos dos locais designados pela UNESCO",
+      "url": "https://forbesafricalusofona.com/paises-lusofonos-entre-os-bons-exemplos-dos-locais-designados-pela-unesco/",
       "source": "Forbes África",
-      "_key": "bddbeed601d2e8c4"
+      "_key": "3b83d586e46f35a1"
     },
     {
-      "title": "Manifestações pós-eleitorais derrapam receitas do Estado moçambicano em 2025",
-      "url": "https://forbesafricalusofona.com/manifestacoes-pos-eleitorais-derrapam-receitas-do-estado-mocambicano-em-2025/",
+      "title": "Cabo Verde atribui garantia soberana de 37 milhões de euros à empresa estatal de telecomunicações",
+      "url": "https://forbesafricalusofona.com/cabo-verde-atribui-garantia-soberana-de-37-milhoes-de-euros-a-empresa-estatal-de-telecomunicacoes/",
       "source": "Forbes África",
-      "_key": "201dc5626f70d96b"
+      "_key": "7991352b9fcaa3b3"
     },
     {
-      "title": "Cuanza Sul: Secretário provincial da UNITA denuncia detenção de militantes",
-      "url": "https://holdonangola.com/cuanza-sul-secretario-provincial-da-unita-denuncia-detencao-de-militantes/",
-      "source": "Hold On Angola",
-      "_key": "82119bb13b14f032"
+      "title": "Escritor angolano Dárdano Santos lança “O Dia dos Pequenos Começos” com reflexão sobre transformação pessoal",
+      "url": "https://forbesafricalusofona.com/escritor-angolano-dardano-santos-lanca-o-dia-dos-pequenos-comecos-com-reflexao-sobre-transformacao-pessoal/",
+      "source": "Forbes África",
+      "_key": "f506a6e091d79e59"
     },
     {
-      "title": "Destaque Visita do Papa: “A nação angolana está de parabéns”A ministra de Estado para a Área Social, Maria do Rosário Bragança, afirmou, esta terça-feira, em Luanda, que “a nação angolana está de parabéns” pela recepção ao Papa Leão XIV.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674379/visita-do-papa:-%E2%80%9Ca-na%C3%A7%C3%A3o-angolana-est%C3%A1-de-parab%C3%A9ns%E2%80%9D",
+      "title": "Cabo Verde lança hino oficial da participação do país no Mundial",
+      "url": "https://forbesafricalusofona.com/cabo-verde-lanca-hino-oficial-da-participacao-do-pais-no-mundial/",
+      "source": "Forbes África",
+      "_key": "0ba82e33d2866390"
+    },
+    {
+      "title": "Destaque Norberto Garcia toma posse como director-geral do CEFOJORO novo director-geral do CEFOJOR, Norberto Garcia, que vai substituir Ikuma Bamba no cargo, tomou posse, esta terça-feira, no Palácio das Comunicações em Luanda. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674380/norberto-garcia-toma-posse-como-director-geral-do-cefojor",
       "source": "Jornal de Angola",
-      "_key": "42d269c516e9cd83"
+      "_key": "20f181b08ad80538"
     },
     {
-      "title": "Economia Executivo defende indústria mineira forte e sustentável como responsabilidade colectiva ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674378/executivo-defende-ind%C3%BAstria-mineira-forte-e-sustent%C3%A1vel-como-responsabilidade-colectiva",
+      "title": "Destaque Leão XIV faz balanço positivo da visita a Angola O Papa Leão XIV fez, esta terça-feira, um balanço positivo da viagem a Angola, destacando o apoio do Executivo e o carinho demonstrado pela população ao longo dos quatro dias da jornada apostólica.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674381/le%C3%A3o-xiv-faz-balan%C3%A7o-positivo-da-visita-a-angola-",
       "source": "Jornal de Angola",
-      "_key": "a6a39e3ecb374ba3"
+      "_key": "16136598f082de69"
     },
     {
-      "title": "Sociedade Curiosidades sobre visita papal ao país ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674377/curiosidades-sobre-visita-papal-ao-pa%C3%ADs",
+      "title": "Política País consolidado como destino estratégico na IMEX Barcelona 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674384/pa%C3%ADs-consolidado-como-destino-estrat%C3%A9gico--na-imex-barcelona-2026",
       "source": "Jornal de Angola",
-      "_key": "fd73d06c2b3a6ae8"
+      "_key": "6a16e842cfaf1241"
     },
     {
-      "title": "Mundo Papa Francisco morreu há um ano ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674376/papa-francisco-morreu-h%C3%A1-um-ano-",
+      "title": "Economia / Há 5 horas Especialista advoga medidas financeiras para enfrentar desastres naturais ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674343/especialista-advoga-medidas-financeiras-para-enfrentar-desastres-naturais",
       "source": "Jornal de Angola",
-      "_key": "edc2a0e4edeeba42"
+      "_key": "724710df5a9efff2"
     },
     {
-      "title": "Supremo adia início do julgamento da antiga ministra...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/supremo-adia-inicio-do-julgamento-da-antiga-ministra-das-pescas-vitoria-de-barros-neto-para-29-deste-mes-71289.html",
+      "title": "Polícia detém 200 pesssoas nas províncias da Lunda-Norte...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-detem-200-pesssoas-nas-provincias-da-lunda-norte-e-cabinda-por-entrada-ilegal-no-pais-71294.html",
       "source": "Novo Jornal",
-      "_key": "94f37c0670b245c8"
+      "_key": "2225031304f3a756"
     },
     {
-      "title": "CEAST destaca apelo do Papa à reconciliação - Ministra...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ceast-destaca-apelo-do-papa-a-reconciliacao---ministra-para-a-area-social-defende-conversao-do-discurso-em-accoes-mpla-diz-que-ja-ha-reconciliacao-unita-discorda-71288.html",
+      "title": "DIIP detém dono de agência de viagens por burlar dezenas de pessoas que pagaram 1 milhão kz para aquisição de vistos – Na operação foram apreendidos 250 passaportes",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-detem-dono-de-agencia-de-viagens-por-burlar-dezenas-de-pessoas-que-pagaram-1-milhao-kz-para-aquisicao-de-vistos-na-operacao-foram-apreendidos-250-passaportes-71295.html",
       "source": "Novo Jornal",
-      "_key": "385662de3ddac025"
+      "_key": "ae8a3a7a23189c48"
     },
     {
-      "title": "Médio Oriente: Há 40 mil órfãos e grave crise em Gaza...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-ha-40-mil-orfaos-e-grave-crise-em-gaza-diz-unicef-71292.html",
-      "source": "Novo Jornal",
-      "_key": "9198bcbc7b468373"
-    },
-    {
-      "title": "Trump, Putin e Netanyhau na \"lista negra\" da Amnistia Internacional de predadores dos Direitos Humanos",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/trump-putin-e-netanyhau-na-lista-negra-da-amnistia-internacional-de-predadores-dos-direitos-humanos-71293.html",
-      "source": "Novo Jornal",
-      "_key": "a36b7809f14a2821"
-    },
-    {
-      "title": "Tribunal Supremo e Ministério das Finanças alinham estratégias para gestão orçamental",
-      "url": "https://www.opais.ao/politica/tribunal-supremo-e-ministerio-das-financas-alinham-estrategias-para-gestao-orcamental/",
+      "title": "Assembleia Nacional e PGR abordam reforço da cooperação institucional",
+      "url": "https://www.opais.ao/politica/assembleia-nacional-e-pgr-abordam-reforco-da-cooperacao-institucional/",
       "source": "O País",
-      "_key": "93da568d4a4dce75"
+      "_key": "16027436429a9d1d"
     },
     {
-      "title": "Empresário na Ganda aponta constrangimentos com cheias de Benguela e descarta despedimento",
-      "url": "https://www.opais.ao/ultimas_hora/empresario-na-ganda-aponta-constrangimentos-com-cheias-de-benguela-e-descarta-despedimento/",
+      "title": "Governo da Lunda Sul felicita sociedade pelo sucesso da visita do Papa Leão XIV",
+      "url": "https://www.opais.ao/ultimas_hora/governo-da-lunda-sul-felicita-sociedade-pelo-sucesso-da-visita-do-papa-leao-xiv/",
       "source": "O País",
-      "_key": "ce7b92e1de1270e4"
+      "_key": "6d354176445b5672"
     },
     {
-      "title": "Ministra de Estado destaca serenidade e comportamento cívico dos angolanos durante a visita do Papa Leão XIV",
-      "url": "https://www.opais.ao/politica/ministra-de-estado-destaca-serenidade-e-comportamento-civico-dos-angolanos-durante-a-visita-do-papa-leao-xiv/",
+      "title": "Detidos mais de 40 cidadãos implicados no crime de narcotráfico",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-mais-de-40-cidadaos-implicados-no-crime-de-narcotrafico/",
       "source": "O País",
-      "_key": "df2ac5c10da83f77"
-    },
-    {
-      "title": "Operadores do sector das rochas ornamentais apresentam preocupações ao ministro de tutela",
-      "url": "https://www.opais.ao/ultimas_hora/operadores-do-sector-das-rochas-ornamentais-apresentam-preocupacoes-ao-ministro-de-tutela/",
-      "source": "O País",
-      "_key": "647d68a283940293"
-    },
-    {
-      "title": "Igreja Católica apresenta amanhã balanço da visita do Papa Leão XIV a Angola",
-      "url": "https://www.opais.ao/ultimas_hora/igreja-catolica-apresenta-amanha-balanco-da-visita-do-papa-leao-xiv-a-angola/",
-      "source": "O País",
-      "_key": "8ec5e27ac90979a7"
-    },
-    {
-      "title": "Delegação moçambicana quer aprofundar cooperação com Angola em ética parlamentar",
-      "url": "https://www.opais.ao/politica/delegacao-mocambicana-quer-aprofundar-cooperacao-com-angola-em-etica-parlamentar/",
-      "source": "O País",
-      "_key": "4c3738f82abd6613"
-    },
-    {
-      "title": "Lunda-Sul conta com 18 novos médicos especialistas a partir de hoje",
-      "url": "https://www.opais.ao/sociedade/lunda-sul-conta-com-18-novos-medicos-especialistas-a-partir-de-hoje/",
-      "source": "O País",
-      "_key": "855a1b1a1ce2ddb7"
-    },
-    {
-      "title": "Membros da SADC analisam em Luanda desafios para implementação do Plano de Desenvolvimento Regional",
-      "url": "https://www.opais.ao/politica/membros-da-sadc-analisam-em-luanda-desafios-para-implementacao-do-plano-de-desenvolvimento-regional/",
-      "source": "O País",
-      "_key": "a7c0dbc4f257482a"
-    },
-    {
-      "title": "China prevê implementar mandarim no sistema de ensino angolano",
-      "url": "https://www.opais.ao/sociedade/china-preve-implementar-mandarim-no-sistema-de-ensino-angolano/",
-      "source": "O País",
-      "_key": "9bfa1510496ecd93"
-    },
-    {
-      "title": "Sem comunicação, o compliance é uma ilusão corporativa",
-      "url": "https://www.opais.ao/opiniao/sem-comunicacao-o-compliance-e-uma-ilusao-corporativa/",
-      "source": "O País",
-      "_key": "4868b6bdbe69defe"
-    },
-    {
-      "title": "Vandalização ou vulnerabilidade? Infra-estruturas críticas, segurança nacional e a urgência de uma abordagem integrada em Angola",
-      "url": "https://www.opais.ao/opiniao/vandalizacao-ou-vulnerabilidade-infra-estruturas-criticas-seguranca-nacional-e-a-urgencia-de-uma-abordagem-integrada-em-angola/",
-      "source": "O País",
-      "_key": "0c8312a6b768411b"
-    },
-    {
-      "title": "QUANDO O PAPA VEM… E DEPOIS VAI",
-      "url": "https://www.opais.ao/opiniao/quando-o-papa-vem-e-depois-vai/",
-      "source": "O País",
-      "_key": "a8ca1fce2bd82744"
-    },
-    {
-      "title": "Governador da Huíla preocupado com o crescente fenómeno de garimpo de ouro na província",
-      "url": "https://www.opais.ao/ultimas_hora/governador-da-huila-preocupado-com-o-crescente-fenomeno-de-garimpo-de-ouro-na-provincia/",
-      "source": "O País",
-      "_key": "1a40ec632bba0857"
-    },
-    {
-      "title": "Detido no Rangel cidadão suspeito de burla com mais de 250 passaportes apreendidos",
-      "url": "https://www.opais.ao/sociedade/detido-no-rangel-cidadao-suspeito-de-burla-com-mais-de-250-passaportes-apreendidos/",
-      "source": "O País",
-      "_key": "2acad2a570fce83b"
-    },
-    {
-      "title": "PARE inicia recolha de assinaturas para sua constituição em partido político",
-      "url": "https://www.opais.ao/politica/pare-inicia-recolha-de-assinaturas-para-sua-constituicao-em-partido-politico/",
-      "source": "O País",
-      "_key": "9b77dbcff52f9295"
-    },
-    {
-      "title": "Angola participa hoje na 10ª edição do Fórum Internacional de Dakar sobre Paz e Segurança",
-      "url": "https://www.opais.ao/politica/angola-participa-hoje-na-10a-edicao-do-forum-internacional-de-dakar-sobre-paz-e-seguranca/",
-      "source": "O País",
-      "_key": "6f3a7849cec7530f"
-    },
-    {
-      "title": "Governo de Benguela estuda retorno das famílias às zonas de origem em meio à incerteza de vítimas",
-      "url": "https://www.opais.ao/sociedade/governo-de-benguela-estuda-retorno-das-familias-as-zonas-de-origem-em-meio-a-incerteza-de-vitimas/",
-      "source": "O País",
-      "_key": "bb16d6853a8a9655"
-    },
-    {
-      "title": "Xi Jinping defende cessar-fogo e garantia de livre navegação em Ormuz",
-      "url": "https://www.opais.ao/mundo/xi-jinping-defende-cessar-fogo-e-garantia-de-livre-navegacao-em-ormuz/",
-      "source": "O País",
-      "_key": "e0962bf9ea3e4def"
-    },
-    {
-      "title": "Países árabes reúnem se sobre bloqueio do estreito de Ormuz",
-      "url": "https://www.opais.ao/mundo/paises-arabes-reunem-se-sobre-bloqueio-do-estreito-de-ormuz/",
-      "source": "O País",
-      "_key": "29ecd7a45a1c48df"
-    },
-    {
-      "title": "Ministro Rui Falcão enaltece organização do Africano de MMA",
-      "url": "https://www.opais.ao/desporto/ministro-rui-falcao-enaltece-organizacao-do-africano-de-mma/",
-      "source": "O País",
-      "_key": "a5cd00a38eff2730"
+      "_key": "ec951405b82ed46f"
     }
   ]
 }
