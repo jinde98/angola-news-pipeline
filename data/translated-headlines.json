@@ -1,64 +1,24 @@
 {
   "date": "2026-04-21",
-  "total_new": 35,
-  "total_filtered": 7,
-  "scored_by": "gemini-flash",
+  "total_new": 52,
+  "total_filtered": 2,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Mais de 62% dos trabalhadores em Angola não têm contrato...",
-      "url": "https://valoreconomico.co.ao/artigo/mais-de-62-dos-trabalhadores-em-angola-nao-tem-contrato-escrito-revela-ine",
-      "source": "Valor Económico",
-      "_key": "fd047c4a8b36bb3c",
+      "title": "China prevê implementar mandarim no sistema de ensino angolano",
+      "url": "https://www.opais.ao/sociedade/china-preve-implementar-mandarim-no-sistema-de-ensino-angolano/",
+      "source": "O País",
+      "_key": "9bfa1510496ecd93",
       "score": 7,
-      "title_cn": "安哥拉超六成工人无合同"
+      "title_cn": "中国计划在安哥拉的教育体系中引入普通话"
     },
     {
-      "title": "Angola atrai investimento espanhol na feira IMEX Barcelona 2026",
-      "url": "https://holdonangola.com/angola-atrai-investimento-espanhol-na-feira-imex-barcelona-2026/",
-      "source": "Hold On Angola",
-      "_key": "2bf45841e37125fe",
-      "score": 6,
-      "title_cn": "安哥拉在2026年巴塞罗那IMEX展吸引西班牙投资"
-    },
-    {
-      "title": "Mundo21/04/2026Países árabes vão debater sobre o bloqueio de Ormuz",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674372/pa%C3%ADses-%C3%A1rabes-v%C3%A3o-debater-sobre-o-bloqueio-de-ormuz",
-      "source": "Jornal de Angola",
-      "_key": "51fc1dfc20647473",
-      "score": 6,
-      "title_cn": "阿拉伯国家将讨论霍尔木兹海峡封锁问题"
-    },
-    {
-      "title": "Angola establishes partnerships with India for agricultural mechanization training",
-      "url": "https://www.angop.ao/en/noticias/agricultura/angola-estabelece-parcerias-com-india-para-implementacao-do-curso-tecnico-de-mecanizacao-agricola/",
-      "source": "ANGOP",
-      "_key": "377934ef9a034133",
+      "title": "Novo hospital no Soyo vai custar 68 milhões de dólares",
+      "url": "https://correiokianda.info/novo-hospital-no-soyo-vai-custar-68-milhoes-de-dolares/",
+      "source": "Correio Kianda",
+      "_key": "be805dceb7b4d233",
       "score": 5,
-      "title_cn": "安哥拉与印度建立农业机械化培训伙伴关系"
-    },
-    {
-      "title": "Mundo21/04/2026Xi Jinping apresenta proposta de paz para o Médio Oriente",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674374/xi-jinping-apresenta-proposta-de-paz-para-o-m%C3%A9dio-oriente",
-      "source": "Jornal de Angola",
-      "_key": "2a91fba67d9b2917",
-      "score": 5,
-      "title_cn": "习近平就中东问题提出和平方案"
-    },
-    {
-      "title": "Mundo21/04/2026África é oportunidade para integração comercial profunda",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674367/%C3%A1frica-%C3%A9-oportunidade-para--integra%C3%A7%C3%A3o-comercial-profunda",
-      "source": "Jornal de Angola",
-      "_key": "7302f26ce260788c",
-      "score": 5,
-      "title_cn": "非洲是实现深度商业融合的机遇"
-    },
-    {
-      "title": "Angola volta a ser referida no relatório da Amnistia...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angola-volta-a-ser-referida-no-relatorio-da-amnistia-internacional-e-nao-e-por-bons-motivos-71278.html",
-      "source": "Novo Jornal",
-      "_key": "5c550bd812d12f8d",
-      "score": 5,
-      "title_cn": "安哥拉再次被大赦国际报告提及"
+      "title_cn": "索约新医院将耗资 6800 万美元"
     }
   ]
 }
