@@ -1,24 +1,176 @@
 {
   "date": "2026-04-23",
-  "total_new": 28,
-  "total_filtered": 2,
-  "scored_by": "keyword",
+  "total_new": 68,
+  "total_filtered": 21,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "AngoJazz festival returns to Luanda with cultural exchange",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angojazz-regressa-a-luanda-com-sonoridades-em-linguas-nacionais/",
-      "source": "ANGOP",
-      "_key": "93ba1b39eba55f22",
-      "score": 5,
-      "title_cn": "AngoJazz音乐节重返罗安达，促进文化交流"
+      "title": "“Empresas chinesas e indianas são as que mais oferecerem ambiente laboral precário em Angola”, aponta especialista",
+      "url": "https://forbesafricalusofona.com/empresas-chinesas-e-indianas-sao-as-que-mais-oferecerem-ambiente-laboral-precario-em-angola-aponta-especialista/",
+      "source": "Forbes África",
+      "_key": "a88ed224989cbc0c",
+      "score": 10,
+      "title_cn": "“中国企业和印度企业是安哥拉的环境”，aponta especialista"
     },
     {
-      "title": "Petróleo: Barril salta em alta para o futuro onde o...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-salta-em-alta-para-o-futuro-onde-o-espera-um-novo-e-muito-mais-alto-preco-de-equilibrio-71343.html",
+      "title": "Entrepreneurs exchange experiences for investments in Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/empreendedores-trocam-experiencia-para-investimentos-no-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "c0f06947b3749773",
+      "score": 9,
+      "title_cn": "企业家交流洛比托走廊投资经验"
+    },
+    {
+      "title": "Diplomat discusses African strategy within the framework of cooperation with China",
+      "url": "https://www.angop.ao/en/noticias/economia/embaixadora-de-angola-na-china-reune-se-com-directora-executiva-da-auda-nepad/",
+      "source": "ANGOP",
+      "_key": "e21100bc64654dee",
+      "score": 9,
+      "title_cn": "外交官讨论与中国合作框架内的非洲战略"
+    },
+    {
+      "title": "Preços do petróleo disparam 4% face à incerteza entre Irão e Estados Unidos",
+      "url": "https://jornaloguardiao.com/2026/04/23/precos-do-petroleo-disparam-4-face-a-incerteza-entre-irao-e-estados-unidos/",
+      "source": "Jornal O Guardião",
+      "_key": "29b411df17b8388d",
+      "score": 9,
+      "title_cn": "Preços do petróleo am 4%面临incerteza entre Irão e Estados Unidos"
+    },
+    {
+      "title": " Preços do petróleo disparam 4% face à incerteza entre Irão e Estados Unidos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6c2763ff7e33d0",
+      "score": 9,
+      "title_cn": "Preços do petróleo am 4%面临incerteza entre Irão e Estados Unidos"
+    },
+    {
+      "title": "Cheias provocam prejuízos superiores a 23 mil milhões...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/cheias-provocam-prejuizos-superiores-a-23-mil-milhoes-de-kwanzas-em-benguela-quase-a-totalidade-da-linha-de-credito-disponibilizada-para-todo-o-pais-71346.html",
       "source": "Novo Jornal",
-      "_key": "215d5c41388f0628",
+      "_key": "d59ebf9f11b93d4f",
+      "score": 8,
+      "title_cn": "洪水造成超过 230 亿美元的损失。"
+    },
+    {
+      "title": "Destaque Comissão Económica visita Centro Logístico Clod em Benguela A Comissão Económica do Executivo iniciou, esta quinta-feira, a sua agenda de trabalho na província de Benguela, com a visita ao Centro Logístico Clod da rede Nosso Super, localizado no município da Catumbela.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674540/comiss%C3%A3o-econ%C3%B3mica-visita-centro-log%C3%ADstico-clod-em-benguela-",
+      "source": "Jornal de Angola",
+      "_key": "ee24d591ed89a6a1",
+      "score": 7,
+      "title_cn": "经济委员会访问本格拉的 Clod 物流中心本周四 ， 经济委员会开始了在本格拉省的工作议程 ， 访问了位于卡通贝拉市的 Nosso Super 网络的 Clod 物流中心。"
+    },
+    {
+      "title": "12:29 / 23 abr. 2026 Equipa Económica já trabalha em Benguela ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674536/equipa-econ%C3%B3mica-j%C3%A1-trabalha-em-benguela",
+      "source": "Jornal de Angola",
+      "_key": "637f46e1b0b1f7fa",
+      "score": 7,
+      "title_cn": "12： 29 / 23 abr. 2026 经济团队已经在本格拉工作"
+    },
+    {
+      "title": "CasoAGT/100 mil milhões: MP recorre da decisão e pede...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/casoagt100-mil-milhoes-mp-recorre-da-decisao-e-pede-ao-tribunal-da-relacao-o-agravamento-das-penas-de-prisao-71349.html",
+      "source": "Novo Jornal",
+      "_key": "dc41657ba2c61857",
+      "score": 7,
+      "title_cn": "CasoAGT/100亿：议员上诉的决定，并要求..."
+    },
+    {
+      "title": "Equipa económica sob coordenação de ministro de Estado já em Benguela",
+      "url": "https://www.opais.ao/politica/equipa-economica-sob-coordenacao-de-ministro-de-estado-ja-em-benguela/",
+      "source": "O País",
+      "_key": "e1ff46e8ec14eed6",
+      "score": 7,
+      "title_cn": "国务部长协调的经济小组已经在本格拉"
+    },
+    {
+      "title": "Segurança Social gasta 45 mil milhões de kwanzas por mês em subsídios de pensões",
+      "url": "https://correiokianda.info/seguranca-social-gasta-45-mil-milhoes-de-kwanzas-por-mes-em-subsidios-de-pensoes/",
+      "source": "Correio Kianda",
+      "_key": "ea5ec92c0a9e8476",
+      "score": 6,
+      "title_cn": "社会保障每月花费 450 亿宽扎用于养老金补贴"
+    },
+    {
+      "title": "Malanje: SIC detém empresária por alegado envolvimento...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/malanje-sic-detem-empresaria-por-alegado-envolvimento-no-desvio-de-mais-de-mil-milhoes-kz-do-programa-kwenda-71345.html",
+      "source": "Novo Jornal",
+      "_key": "67692fda0c0248b8",
+      "score": 6,
+      "title_cn": "Malanje： SIC 拘留涉嫌参与..."
+    },
+    {
+      "title": "FÓRUM MARGINAL: LITERACIA FINANCEIRA. Em debate estiveram também os Fundos de Pensões e a semana africana da imunização.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=71347",
+      "source": "Novo Jornal",
+      "_key": "13286367cc460052",
+      "score": 6,
+      "title_cn": "边缘论坛 ： 金融知识。会议还讨论了养恤基金和非洲免疫周。"
+    },
+    {
+      "title": "Mário Oliveira destaca papel estratégico do ANGOTIC",
+      "url": "https://www.opais.ao/ultimas_hora/mario-oliveira-destaca-papel-estrategico-do-angotic/",
+      "source": "O País",
+      "_key": "c64dc31d665b4993",
+      "score": 6,
+      "title_cn": "Mário Oliveira 强调了 ANGOTIC 的战略作用"
+    },
+    {
+      "title": "MPLA destaca diplomas sobre financiamento colaborativo e auditoria externa",
+      "url": "https://www.opais.ao/politica/mpla-destaca-diplomas-sobre-financiamento-colaborativo-e-auditoria-externa/",
+      "source": "O País",
+      "_key": "f5ee5177f2349cd2",
+      "score": 6,
+      "title_cn": "MPLA 强调合作融资和外部审计文凭"
+    },
+    {
+      "title": "Reforms in the justice system improve the performance of public administration in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-da-huila-destaca-reforco-da-justica-administrativa/",
+      "source": "ANGOP",
+      "_key": "2fb1566257440708",
       "score": 5,
-      "title_cn": "石油：原油价格飙升，未来前景看好"
+      "title_cn": "司法系统改革改善安哥拉公共行政绩效"
+    },
+    {
+      "title": "Deputados cobram medidas urgentes após tragédia das cheias em Benguela",
+      "url": "https://angola24horas.com/politica/item/34198-deputados-cobram-medidas-urgentes-apos-tragedia-das-cheias-em-benguela",
+      "source": "Angola 24 Horas",
+      "_key": "3b9582eb2fcfd15e",
+      "score": 5,
+      "title_cn": "本格拉洪水悲剧后 ， 议员们采取紧急措施"
+    },
+    {
+      "title": "Sarampo causa 15 mortos em mais de 500 casos na província...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sarampo-causa-15-mortos-em-mais-de-500-casos-na-provincia-do-cubango-71344.html",
+      "source": "Novo Jornal",
+      "_key": "df52c37d2160c0f2",
+      "score": 5,
+      "title_cn": "萨拉姆波在该省 500 多例病例中造成 15 人死亡"
+    },
+    {
+      "title": "Recuperadas 30 das 100 viaturas furtadas por suposta agência de táxi",
+      "url": "https://www.opais.ao/sociedade/recuperadas-30-das-100-viaturas-furtadas-por-suposta-agencia-de-taxi/",
+      "source": "O País",
+      "_key": "9e61610a6398d80a",
+      "score": 5,
+      "title_cn": "涉嫌出租车公司盗窃的 100 辆汽车中有 30 辆被追回"
+    },
+    {
+      "title": "Angola e Etiópia analisam conclusão de instrumentos jurídicos sectoriais para o reforço da cooperação",
+      "url": "https://www.opais.ao/politica/angola-e-etiopia-analisam-conclusao-de-instrumentos-juridicos-sectoriais-para-o-reforco-da-cooperacao/",
+      "source": "O País",
+      "_key": "ada075be94674bf0",
+      "score": 5,
+      "title_cn": "安哥拉和埃塞俄比亚审查为加强合作缔结部门性法律文书"
+    },
+    {
+      "title": "Detidos três cidadãos suspeitos de assalto na Igreja do Sétimo Dia",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-tres-cidadaos-suspeitos-de-assalto-na-igreja-do-setimo-dia/",
+      "source": "O País",
+      "_key": "a9b573f8854f844e",
+      "score": 5,
+      "title_cn": "三名市民涉嫌抢劫第七日教堂被捕"
     }
   ]
 }
