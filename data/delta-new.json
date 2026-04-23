@@ -1,140 +1,668 @@
 {
-  "date": "2026-04-22",
-  "total_extracted": 1127,
-  "total_new": 22,
-  "total_existing": 1105,
+  "date": "2026-04-23",
+  "total_extracted": 1121,
+  "total_new": 110,
+  "total_existing": 1011,
   "articles": [
     {
-      "title": "Empresário de táxis por aplicativo detido por vender mais de 100 viaturas de clientes",
-      "url": "https://angola24horas.com/sociedade/item/34185-empresario-de-taxis-por-aplicativo-detido-por-vender-mais-de-100-viaturas-de-clientes",
+      "title": "Angolan government approves package to mitigate flood impacts in benguela",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-avanca-pacote-para-mitigar-impactos-das-cheias-em-benguela/",
+      "source": "ANGOP",
+      "_key": "594cab63e61e30ab"
+    },
+    {
+      "title": "Central Bank decrees six-month moratorium for those affected by the floods in Benguela",
+      "url": "https://www.angop.ao/en/noticias/politica/bna-decreta-moratoria-de-seis-meses-para-afectados-pelas-cheias-em-benguela/",
+      "source": "ANGOP",
+      "_key": "0e4dfe252e3f7bd0"
+    },
+    {
+      "title": "Organizing committee for the Pope's visit acknowledges support from the Angolan state",
+      "url": "https://www.angop.ao/en/noticias/sociedade/comissao-organizadora-da-visita-do-papa-reconhece-apoio-do-estado-angolano/",
+      "source": "ANGOP",
+      "_key": "dae7434b3ea60e34"
+    },
+    {
+      "title": "Angola joins the most inclusive international intellectual property system",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-associa-se-ao-sistema-internacional-de-propriedade-intelectual-mais-inclusivo/",
+      "source": "ANGOP",
+      "_key": "6be0c449bc538c32"
+    },
+    {
+      "title": "Finance Ministry wants more rigor in the execution of the 2026 State Budget",
+      "url": "https://www.angop.ao/en/noticias/economia/ministerio-das-financas-exige-mais-rigor-na-execucao-do-oge-2026/",
+      "source": "ANGOP",
+      "_key": "4f737b85a2017cca"
+    },
+    {
+      "title": "Support",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6602",
+      "source": "ANGOP",
+      "_key": "9a1c60a00b9af6fa"
+    },
+    {
+      "title": "Over a thousand Media professionals involved in Pope Leo XIV's visit",
+      "url": "https://www.angop.ao/en/noticias/sociedade/mais-de-mil-profissionais-da-comunicacao-social-envolvidos-na-visita-do-papa-leao-xiv/",
+      "source": "ANGOP",
+      "_key": "c326ce5953abed1a"
+    },
+    {
+      "title": "IGAE recommends strict compliance with school feeding program suppliers",
+      "url": "https://www.angop.ao/en/noticias/politica/igae-recomenda-maior-rigor-dos-gestores-com-fornecedores-no-pnae/",
+      "source": "ANGOP",
+      "_key": "67baf9a2e95f91f2"
+    },
+    {
+      "title": "Management",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=2728",
+      "source": "ANGOP",
+      "_key": "5a2f2b9ac5cef43a"
+    },
+    {
+      "title": "ENSA-ARTE Prize recognizes theatre and music",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/premio-ensa-arte-contempla-teatro-e-musica/",
+      "source": "ANGOP",
+      "_key": "140fb0337c9e2dfe"
+    },
+    {
+      "title": "Angolan Boxing Cup 2026 - Matumona reaches quarter-finals",
+      "url": "https://www.angop.ao/en/noticias/desporto/matumona-avanca-para-os-quartos-da-taca-de-angola-em-boxe/",
+      "source": "ANGOP",
+      "_key": "b8b690becf293506"
+    },
+    {
+      "title": "Ex-PR senegalês quer restaurar confiança na ONU e apostar na diplomacia preventiva",
+      "url": "https://angola24horas.com/internacional/item/34190-ex-pr-senegales-quer-restaurar-confianca-na-onu-e-apostar-na-diplomacia-preventiva",
       "source": "Angola 24 Horas",
-      "_key": "e6714ee99cae8b71"
+      "_key": "5479e83fd92198a3"
     },
     {
-      "title": "Subcomissão de Candidaturas do MPLA reafirma funcionamento e alerta contra documentos não oficiais",
-      "url": "https://correiokianda.info/subcomissao-de-candidaturas-do-mpla-reafirma-funcionamento-e-alerta-contra-documentos-nao-oficiais/",
+      "title": "Centro de Apoio ao Utente da Baía de Luanda encerra a 7 de Abril",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34191-centro-de-apoio-ao-utente-da-baia-de-luanda-encerra-a-7-de-abril",
+      "source": "Angola 24 Horas",
+      "_key": "49ae2035aa6ba221"
+    },
+    {
+      "title": "MPLA alerta para circulação de documentos não oficiais no processo de candidaturas ao IX Congresso",
+      "url": "https://angola24horas.com/component/k2/item/34192-mpla-alerta-para-circulacao-de-documentos-nao-oficiais-no-processo-de-candidaturas-ao-ix-congresso",
+      "source": "Angola 24 Horas",
+      "_key": "0ac02a61ba5d1894"
+    },
+    {
+      "title": "BNA decreta moratória de seis meses no Créditos bancários para afectados pelas cheias em Benguela",
+      "url": "https://angola24horas.com/sociedade/item/34193-bna-decreta-moratoria-de-seis-meses-no-creditos-bancarios-para-afectados-pelas-cheias-em-benguela",
+      "source": "Angola 24 Horas",
+      "_key": "80f19df67b68b34b"
+    },
+    {
+      "title": "Estado privatiza 15% do capital social da Zona Económica Especial (ZEE)",
+      "url": "https://angola24horas.com/sociedade/item/34189-estado-privatiza-15-do-capital-social-da-zona-economica-especial-zee",
+      "source": "Angola 24 Horas",
+      "_key": "392b176836934039"
+    },
+    {
+      "title": "João Lourenço aprova 132,8 milhões de euros para aquisição de 14 helicópteros",
+      "url": "https://angola24horas.com/politica/item/34187-joao-lourenco-aprova-132-8-milhoes-de-euros-para-aquisicao-de-14-helicopteros",
+      "source": "Angola 24 Horas",
+      "_key": "7b8ed5292c9b24ea"
+    },
+    {
+      "title": "SIC detém cinco cidadãos por agressões em caso de alegada feitiçaria",
+      "url": "https://angola24horas.com/sociedade/item/34188-sic-detem-cinco-cidadaos-por-agressoes-em-caso-de-alegada-feiticaria",
+      "source": "Angola 24 Horas",
+      "_key": "f826561bf4494abc"
+    },
+    {
+      "title": "Receitas angolanas podem subir U$3.4 mil milhões com aumento do preço do barril de petróleo",
+      "url": "https://angola24horas.com/economia/item/34186-receitas-angolanas-podem-subir-u-3-4-mil-milhoes-com-aumento-do-preco-do-barril-de-petroleo",
+      "source": "Angola 24 Horas",
+      "_key": "d6c1b1c78fd3f05d"
+    },
+    {
+      "title": "Presidente do Partido Liberal aborda desafios da Igreja Católica no país",
+      "url": "https://correiokianda.info/presidente-do-partido-liberal-aborda-desafios-da-igreja-catolica-no-pais/",
       "source": "Correio Kianda",
-      "_key": "023147e6fdd4cd70"
+      "_key": "7b5983fd192fadf9"
     },
     {
-      "title": "Governo prevê medidas de contenção e apoio face aos impactos da crise no Médio Oriente e calamidades internas",
-      "url": "https://correiokianda.info/governo-preve-medidas-de-contencao-e-apoio-face-aos-impactos-da-crise-no-medio-oriente-e-calamidades-internas/",
+      "title": "Higino Carneiro reafirma intenção de concorrer à liderança do MPLA",
+      "url": "https://correiokianda.info/higino-carneiro-formaliza-intencao-de-disputar-lideranca-do-mpla/",
       "source": "Correio Kianda",
-      "_key": "86cf3a079b359e18"
+      "_key": "20bac9ca85d8d073"
     },
     {
-      "title": "Analista diz que “ameaças de Trump têm atrapalhado as negociações com o Irão”",
-      "url": "https://correiokianda.info/analista-diz-que-ameacas-de-trump-tem-atrapalhado-as-negociacoes-com-o-irao/",
+      "title": "Deputados debatem financiamento pela internet e mercado de capitais",
+      "url": "https://correiokianda.info/deputados-debatem-financiamento-pela-internet-e-mercado-de-capitais/",
       "source": "Correio Kianda",
-      "_key": "60c842811343ca12"
+      "_key": "b121305cee405ba2"
     },
     {
-      "title": "Estados Unidos voltam a prorrogar prazo de cessar-fogo com o Irão",
-      "url": "https://correiokianda.info/estados-unidos-voltam-a-prorrogar-prazo-de-cessar-fogo-com-o-irao/",
+      "title": "Pedro Mendes de Carvalho diz que “defesa da legalidade não deve ser tarefa exclusiva da PGR”",
+      "url": "https://correiokianda.info/pedro-mendes-de-carvalho-diz-que-defesa-da-legalidade-nao-deve-ser-tarefa-exclusiva-da-pgr/",
       "source": "Correio Kianda",
-      "_key": "6bd7d09f9c010ea7"
+      "_key": "afda89ed3f7ef86c"
     },
     {
-      "title": "Bispos defendem paz com desenvolvimento e alertam para analfabetismo",
-      "url": "https://jornaloguardiao.com/2026/04/22/bispos-defendem-paz-com-desenvolvimento-e-alertam-para-analfabetismo/",
-      "source": "Jornal O Guardião",
-      "_key": "9f1733b0082c3818"
+      "title": "Executivo aprova construção da nova sede do Governo do Cuanza Norte",
+      "url": "https://correiokianda.info/executivo-aprova-construcao-da-nova-sede-do-governo-do-cuanza-norte/",
+      "source": "Correio Kianda",
+      "_key": "970e3e47246387f7"
     },
     {
-      "title": "Angola pagou 2,2 milhões de prestações obrigatórias orçadas em 411,9 mil milhões de kwanzas em 2024",
-      "url": "https://jornaloguardiao.com/2026/04/22/angola-pagou-22-milhoes-de-prestacoes-obrigatorias-orcadas-em-4119-mil-milhoes-de-kwanzas-em-2024/",
-      "source": "Jornal O Guardião",
-      "_key": "f30e124119e2f323"
+      "title": "BNA alivia pressão financeira aos afectados das cheias em Benguela",
+      "url": "https://correiokianda.info/bna-alivia-pressao-financeira-aos-afectados-das-cheias-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "5930c5620f3fe06c"
     },
     {
-      "title": " Bispos defendem paz com desenvolvimento e alertam para analfabetismo ",
+      "title": "Subida do petróleo gera aumento de 3,2 mil milhões de kwanzas nas receitas de Angola",
+      "url": "https://correiokianda.info/subida-do-petroleo-gera-aumento-de-32-mil-milhoes-de-kwanzas-nas-receitas-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "856c33a1910956a0"
+    },
+    {
+      "title": "INAAREES inicia avaliação de 137 cursos de pós-graduação em Angola",
+      "url": "https://correiokianda.info/inaarees-inicia-avaliacao-de-137-cursos-de-pos-graduacao-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "15eb4eefefe83784"
+    },
+    {
+      "title": "Ministério apela ao envolvimento de todos no combate ao garimpo ilegal de ouro na Huíla",
+      "url": "https://correiokianda.info/ministerio-apela-ao-envolvimento-de-todos-no-combate-ao-garimpo-ilegal-de-ouro-na-huila/",
+      "source": "Correio Kianda",
+      "_key": "4b946a37dd7ca8e6"
+    },
+    {
+      "title": "Moradores de Calumbo exigem respostas urgentes sobre falta de saneamento",
+      "url": "https://correiokianda.info/moradores-de-calumbo-exigem-respostas-urgentes-sobre-falta-de-saneamento/",
+      "source": "Correio Kianda",
+      "_key": "454b2d2ebe65b870"
+    },
+    {
+      "title": "Cidadãos passam a usar plataformas online após encerramento de centro na Baía de Luanda",
+      "url": "https://correiokianda.info/cidadaos-passam-a-usar-plataformas-online-apos-encerramento-de-centro-na-baia-de-luanda/",
+      "source": "Correio Kianda",
+      "_key": "d4e924042b55b5da"
+    },
+    {
+      "title": "Obras da conduta de água danificada em Benguela podem durar dois meses",
+      "url": "https://correiokianda.info/obras-da-conduta-de-agua-danificada-em-benguela-podem-durar-dois-meses/",
+      "source": "Correio Kianda",
+      "_key": "01e57a2afb9924e2"
+    },
+    {
+      "title": "Venezuela pede acesso a cinco mil milhões de dólares bloqueados no FMI",
+      "url": "https://correiokianda.info/venezuela-pede-acesso-a-cinco-mil-milhoes-de-dolares-bloqueados-no-fmi/",
+      "source": "Correio Kianda",
+      "_key": "1c112af11f3e6189"
+    },
+    {
+      "title": "Moçambique: Apreendidos mais 90 telemóveis em cadeia de segurança máxima",
+      "url": "https://correiokianda.info/mocambique-apreendidos-mais-90-telemoveis-em-cadeia-de-seguranca-maxima/",
+      "source": "Correio Kianda",
+      "_key": "39740c09f1205615"
+    },
+    {
+      "title": "Petro vence Inter e está a um passo da final do Unitel Basket",
+      "url": "https://correiokianda.info/petro-vence-inter-e-esta-a-um-passo-da-final-do-unitel-basket/",
+      "source": "Correio Kianda",
+      "_key": "36708f994e7d8887"
+    },
+    {
+      "title": "Kabuscorp vence e reacende desejo de revalidar título da Taça de Angola",
+      "url": "https://correiokianda.info/kabuscorp-vence-e-reacende-desejo-de-revalidar-titulo-da-taca-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "933ead1837ef3ba9"
+    },
+    {
+      "title": "Manchester City vence e assume liderança da Premier League",
+      "url": "https://correiokianda.info/manchester-city-vence-e-assume-lideranca-da-premier-league/",
+      "source": "Correio Kianda",
+      "_key": "4915417e3414c346"
+    },
+    {
+      "title": "D’Agosto cai nas grandes penalidades e Petro avança com goleada na Taça de Angola",
+      "url": "https://correiokianda.info/dagosto-cai-nas-grandes-penalidades-e-petro-avanca-com-goleada-na-taca-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "c471f6f82ce49db9"
+    },
+    {
+      "title": "        África5 horas atrás  China e Moçambique reforçam parceria estratégica com foco no desenvolvimento A China e Moçambique decidiram reforçar a sua parceria estratégica, com enfoque no desenvolvimento económico e na cooperação em sectores-chave, durante um encontro entre os Presidentes...   ",
+      "url": "https://correiokianda.info/china-e-mocambique-reforcam-parceria-estrategica-com-foco-no-desenvolvimento/",
+      "source": "Correio Kianda",
+      "_key": "55ce68a06131bf61"
+    },
+    {
+      "title": "MPLA Alerta para Circulação de Documentos Não Oficiais no Processo de Candidaturas ao 9.º Congresso",
+      "url": "https://diariodosnegocios.com/mpla-alerta-para-circulacao-de-documentos-nao-oficiais-no-processo-de-candidaturas-ao-9-o-congresso/",
+      "source": "Diário dos Negócios",
+      "_key": "4f69f882f71e72ca"
+    },
+    {
+      "title": "Governo mobiliza 30 mil milhões de kwanzas para socorrer famílias e empresas atingidas por calamidades naturais",
+      "url": "https://diariodosnegocios.com/governo-aprova-30-mil-milhoes-kwanzas-calamidades-naturais-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "849e98b3024070d3"
+    },
+    {
+      "title": "Sociedade Mineira do Chiri oficialmente constituída na Lunda-Sul com parceria ENDIAMA-Rio Tinto",
+      "url": "https://diariodosnegocios.com/sociedade-mineira-do-chiri-oficialmente-constituida-na-lunda-sul-com-parceria-endiama-rio-tinto/",
+      "source": "Diário dos Negócios",
+      "_key": "eb3bda10302dbcbf"
+    },
+    {
+      "title": "Diretor do FBI move ação de 250 milhões contra revista norte-americana por acusações de embriaguez e ausências",
+      "url": "https://diariodosnegocios.com/diretor-do-fbi-move-acao-de-250-milhoes-contra-revista-norte-americana-por-acusacoes-de-embriaguez-e-ausencias/",
+      "source": "Diário dos Negócios",
+      "_key": "b64c44c3c11501b0"
+    },
+    {
+      "title": "ENSA Arte 2026: Cerimónia de entrega de prémios realiza-se a 29 de Abril no Intercontinental",
+      "url": "https://diariodosnegocios.com/ensa-arte-2026-cerimonia-de-entrega-de-premios-realiza-se-a-29-de-abril-no-intercontinental/",
+      "source": "Diário dos Negócios",
+      "_key": "72a79f6bed45b5a8"
+    },
+    {
+      "title": " MPLA Alerta para Circulação de Documentos Não Oficiais no Processo de Candidaturas ao 9.º Congresso ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ff43a531079652"
+    },
+    {
+      "title": " Governo mobiliza 30 mil milhões de kwanzas para socorrer famílias e empresas atingidas por calamidades naturais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_96ae000f6a0d9c"
+    },
+    {
+      "title": " Sociedade Mineira do Chiri oficialmente constituída na Lunda-Sul com parceria ENDIAMA-Rio Tinto ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_498d03d0b7b2db"
+    },
+    {
+      "title": " Diretor do FBI move ação de 250 milhões contra revista norte-americana por acusações de embriaguez e ausências ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_62f2b892c98e39"
+    },
+    {
+      "title": " ENSA Arte 2026: Cerimónia de entrega de prémios realiza-se a 29 de Abril no Intercontinental ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_925ca2a1f3bf6b"
+    },
+    {
+      "title": "Bloco Democrático pressiona João Lourenço por resposta à crise energética global",
+      "url": "https://expansao.co.ao/angola/detalhe/bloco-democratico-pressiona-joao-lourenco-por-resposta-a-crise-energetica-global-71336.html",
+      "source": "Expansão",
+      "_key": "1c2d4b455ebf2831"
+    },
+    {
+      "title": "Exportações do PRODESI são 17 vezes inferiores às importações",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b369fd9478c10c"
+    },
+    {
+      "title": "Energia solar ganha escala e redesenha o sistema eléctrico nacional",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8c03800415fa5a"
+    },
+    {
+      "title": "O EXPLICADOR FISCAL: publicação da nova lista dos grandes contribuintes",
+      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-publicacao-da-nova-lista-dos-grandes-contribuintes-71330.html",
+      "source": "Expansão",
+      "_key": "887a8065cd170330"
+    },
+    {
+      "title": "Num mundo interligado, ninguém lidera sozinho",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ea601b7c8816ec"
+    },
+    {
+      "title": "Petróleo prolonga ganhos com impasse entre Irão e EUA e restrições em Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-prolonga-ganhos-com-impasse-entre-irao-e-eua-e-restricoes-em-ormuz-71338.html",
+      "source": "Expansão",
+      "_key": "c3074e4caa885735"
+    },
+    {
+      "title": "Mutualismo em Angola | Regular já não basta, é preciso pilar de protecção social",
+      "url": "https://expansao.co.ao/analise/detalhe/mutualismo-em-angola-regular-ja-nao-basta-e-preciso-pilar-de-proteccao-social-71328.html",
+      "source": "Expansão",
+      "_key": "6b5888c1d553aa02"
+    },
+    {
+      "title": "Num mundo interligado, ninguém lidera sozinhoUma empresa pode ter excelentes profissionais e, ainda assim, fracassar colectivamente se cada um defender apenas o seu território. Quando os interesses pessoais se sobrepõem ao do sistema, a energia dispersa-se. Quando o colectivo encontra um eixo comum, a organização ganha coerência, direcção e capacidade de influência.",
+      "url": "https://expansao.co.ao/gestao/detalhe/num-mundo-interligado-ninguem-lidera-sozinho-71329.html",
+      "source": "Expansão",
+      "_key": "b12f7621ef912ed9"
+    },
+    {
+      "title": "Exclusivo: Pedro Pires em Luanda para homenagem nos Prémios Forbes Responsabilidade 2026",
+      "url": "https://forbesafricalusofona.com/exclusivo-pedro-pires-em-luanda-para-homenagem-nos-premios-forbes-responsabilidade-2026/",
+      "source": "Forbes África",
+      "_key": "e7fb04ca7e08ad97"
+    },
+    {
+      "title": "China abre mercado a África com tarifa zero em todos os produtos importados",
+      "url": "https://forbesafricalusofona.com/china-abre-mercado-a-africa-com-tarifa-zero-em-todos-os-produtos-importados/",
+      "source": "Forbes África",
+      "_key": "48ddbb9f7b29a0a3"
+    },
+    {
+      "title": "MPPLT apela ao diálogo e justiça social após visita do Papa Leão XIV à Lunda",
+      "url": "https://holdonangola.com/mpplt-apela-ao-dialogo-e-justica-social-apos-visita-do-papa-leao-xiv-a-lunda/",
+      "source": "Hold On Angola",
+      "_key": "7906e8dd18a74fc1"
+    },
+    {
+      "title": "Minuto Verde promove arborização com crianças em Viana no Dia da Terra",
+      "url": "https://holdonangola.com/minuto-verde-promove-arborizacao-com-criancas-em-viana-no-dia-da-terra/",
+      "source": "Hold On Angola",
+      "_key": "2231878ef5ab7aa5"
+    },
+    {
+      "title": "Revista Líder Magazine coloca Clésio e Clenio Gomes entre os 10 jovens líderes de destaque na economia angolana",
+      "url": "https://holdonangola.com/revista-lider-magazine-coloca-clesio-e-clenio-gomes-entre-os-10-jovens-lideres-de-destaque-na-economia-angolana/",
+      "source": "Hold On Angola",
+      "_key": "38fd7fdaa5760248"
+    },
+    {
+      "title": "Quinta-feira, 23 de Abril, 2026",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_9d7cfad59df02e"
+      "_key": "t_ef8761dfe560de"
     },
     {
-      "title": " Angola pagou 2,2 milhões de prestações obrigatórias orçadas em 411,9 mil milhões de kwanzas em 2024 ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_76097a5a1a728a"
-    },
-    {
-      "title": "Destaque Agência CARLOTA assume gestão de marketing de influência da NBA e BAL em Angola A Agência Carlota foi seleccionada para liderar a gestão de marketing de influência da NBA e da Basketball Africa League (BAL) em Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/674472/ag%C3%AAncia-carlota-assume-gest%C3%A3o-de-marketing-de-influ%C3%AAncia-da-nba-e-bal-em-angola",
+      "title": "Destaque Empresas chinesas doam 200 toneladas de bens diversos para vítimas das cheias em Benguela Empresários da associação de Zheijiang da Câmara de Comércio Angola-China entregaram, hoje, 200 toneladas de bens diversos para as vítimas das chuvas na província de Benguela. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674479/empresas-chinesas-doam-200-toneladas-de-bens-diversos-para-v%C3%ADtimas-das-cheias-em-benguela-",
       "source": "Jornal de Angola",
-      "_key": "30485d561009b64d"
+      "_key": "fc80bfe6a576d795"
     },
     {
-      "title": "Destaque Angola cria reservas de bens estratégicos devido ao conflito no Médio OrienteO Executivo orientou, esta quarta-feira, a criação urgente de reservas de bens estratégicos como combustíveis, alimentos, medicamentos, produtos químicos para tratamento da água, entre outros, como medidas de cautela face à instabilidade no Médio Oriente.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674470/angola-cria-reservas-de-bens-estrat%C3%A9gicos-devido-ao-conflito-no-m%C3%A9dio-oriente",
+      "title": "Visita do Papa Leão XIV projecta uma nova imagem de Angola A visita do Papa Leão XIV permitiu apresentar aos visitantes, incluindo jornalistas, uma Angola diferente daquela que muitas vezes é retratada nas imagens e narrativas internacionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674477/visita-do-papa-le%C3%A3o-xiv-projecta-uma-nova-imagem-de-angola-",
       "source": "Jornal de Angola",
-      "_key": "f9839fb4641617e8"
+      "_key": "60f4ddd2002b533c"
     },
     {
-      "title": "Mundo Leão XIV inaugura Escola Tecnológica “Papa Francisco\" na Guiné-Equatorial ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674473/le%C3%A3o-xiv-inaugura-escola-tecnol%C3%B3gica-%E2%80%9Cpapa-francisco%22-na-guin%C3%A9-equatorial",
+      "title": "Equipa Económica trabalha em Benguela na quinta-feiraA Equipa Económica do Executivo vai trabalhar quinta-feira, 23, na província de Benguela, na sequência da 1.ª sessão extraordinária da Comissão Económica do Conselho de Ministros, realizada, hoje, sob orientação do Titular do Poder Executivo, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674474/equipa-econ%C3%B3mica-trabalha-em-benguela-na-quinta-feira",
       "source": "Jornal de Angola",
-      "_key": "c7f16cbbb4fcd398"
+      "_key": "80731f17756e42ba"
     },
     {
-      "title": "Política Analisado estado de relações bilaterais entre Angola e Marrocos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674471/analisado-estado-de-rela%C3%A7%C3%B5es-bilaterais-entre-angola-e-marrocos",
+      "title": "Executivo aprova medidas de apoio a empresas e famílias afectadasO Executivo aprovou um conjunto de medidas imediatas de apoio e alívio económico destinadas às famílias, aos agentes e unidades económicas afectadas por calamidades naturais ao longo deste ano.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674483/executivo-aprova-medidas-de-apoio--a-empresas-e-fam%C3%ADlias-afectadas",
       "source": "Jornal de Angola",
-      "_key": "b21f1e35e5ce50a7"
+      "_key": "8c748333cdaa4335"
     },
     {
-      "title": "Política João Lourenço orienta sessão extraordinária da Comissão Económica do Conselho de Ministros ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674412/jo%C3%A3o-louren%C3%A7o-orienta-sess%C3%A3o-extraordin%C3%A1ria-da-comiss%C3%A3o-econ%C3%B3mica-do-conselho-de--ministros-",
+      "title": "Destaque Papel estratégico do Corredor do Lobito discutido no QuéniaO papel estratégico do Corredor do Lobito no desenvolvimento económico de África é, hoje, em Nairobi, tema de discussão em um dos vários painéis da Cimeira “A África que Construímos”, iniciativa da Corporação Financeira Africana (AFC) e patrocinada pelo Governo do Quênia.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674482/papel-estrat%C3%A9gico-do-corredor-do-lobito-discutido-no-qu%C3%A9nia",
       "source": "Jornal de Angola",
-      "_key": "e9c3aff75748ef3d"
+      "_key": "cbc5cd572ef591ae"
     },
     {
-      "title": "Country has already spent more than USD 4 billion on imports in the first quarter22/04/2026",
-      "url": "https://www.negociosdeangola.com/en/country-has-already-spent-more-than-usd-4-billion-on-imports-in-the-first-quarter/",
-      "source": "Negócios de Angola",
-      "_key": "0b0c21eaad4ec321"
+      "title": "Economia Mais de mil toneladas exportadas para Itália ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674521/mais-de-mil-toneladas--exportadas-para-it%C3%A1lia",
+      "source": "Jornal de Angola",
+      "_key": "17f45f9be3049be8"
     },
     {
-      "title": "BCI and BFA Record the Biggest Drops in BNA Ranking; BAI Remains Leader",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9778",
-      "source": "Negócios de Angola",
-      "_key": "ee99d2414cc72d27"
+      "title": "Sociedade Bispos agradecem empenho do Presidente da República no êxito da visita de Leão XIV ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674503/bispos-agradecem-empenho-do-presidente-da-rep%C3%BAblica-no-%C3%AAxito-da-visita-de-le%C3%A3o-xiv",
+      "source": "Jornal de Angola",
+      "_key": "d91d91fbc9c36b18"
     },
     {
-      "title": "MININT: Centro de apoio ao utente da Baía será desativado...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/minint-centro-de-apoio-ao-utente-da-baia-sera-desativado-dentre-de-15-dias-71321.html",
+      "title": "Sociedade Teresa Cabari e Arimateia Baptista vencem Prémio Catoca de Jornalismo ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674500/teresa-cabari-e-arimateia-baptista-vencem-pr%C3%A9mio-catoca-de-jornalismo",
+      "source": "Jornal de Angola",
+      "_key": "bc82dc7d7ca73d66"
+    },
+    {
+      "title": "Política Tribunal tem milhares de processos pendentes por insuficiência de juízes ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674494/tribunal-tem-milhares-de-processos-pendentes-por-insufici%C3%AAncia-de-ju%C3%ADzes",
+      "source": "Jornal de Angola",
+      "_key": "3c4e2a5e99fe48fd"
+    },
+    {
+      "title": "Política Credibilidade do Estado depende do respeito pelas decisões dos tribunais ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674490/credibilidade-do-estado-depende-do-respeito-pelas-decis%C3%B5es-dos-tribunais",
+      "source": "Jornal de Angola",
+      "_key": "b6b0dc4b1c1ea38a"
+    },
+    {
+      "title": "Política Criação da Provedoria reforça Estado Democrático de Direito ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674489/cria%C3%A7%C3%A3o-da-provedoria-refor%C3%A7a-estado-democr%C3%A1tico-de-direito",
+      "source": "Jornal de Angola",
+      "_key": "6ca606c94f887647"
+    },
+    {
+      "title": "Mundo Papa encerra compromissos na Guiné-Equatorial num encontro com jovens ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674481/papa-encerra-compromissos-na-guin%C3%A9-equatorial-num-encontro-com-jovens-",
+      "source": "Jornal de Angola",
+      "_key": "3c1f7073ccc63c2b"
+    },
+    {
+      "title": "Sociedade Job Monteiro constata obras do sector da Saúde no Moxico ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674480/job-monteiro-constata-obras-do-sector-da-sa%C3%BAde-no-moxico-",
+      "source": "Jornal de Angola",
+      "_key": "581adf1a5216ecc4"
+    },
+    {
+      "title": "Mundo Papa afirma que a verdadeira justiça investe na dignidade das pessoas ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674478/papa-afirma-que-a-verdadeira-justi%C3%A7a-investe-na-dignidade-das-pessoas",
+      "source": "Jornal de Angola",
+      "_key": "6c7a2ff14a8045ec"
+    },
+    {
+      "title": "Sociedade Sistema de saúde reforçado com mais médicos especializados ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674476/sistema-de-sa%C3%BAde-refor%C3%A7ado-com-mais-m%C3%A9dicos-especializados-",
+      "source": "Jornal de Angola",
+      "_key": "72d8b7843e3ae5b7"
+    },
+    {
+      "title": "Mundo Trump admite reinício de negociações com Irão até sexta-feira ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674475/trump-admite-rein%C3%ADcio-de-negocia%C3%A7%C3%B5es-com-ir%C3%A3o-at%C3%A9-sexta-feira",
+      "source": "Jornal de Angola",
+      "_key": "6bbde26b0e906158"
+    },
+    {
+      "title": "09:55 / 23 abr. 2026 Morte do general Samukonga deixa consternado ministro ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674502/morte-do-general-samukonga-deixa-consternado-ministro",
+      "source": "Jornal de Angola",
+      "_key": "5f1a4155ac8eef9a"
+    },
+    {
+      "title": "A visita do Papa Leão XIV: Um activo estratégico para Angola muito além do simbolismo religioso",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674530/a-visita-do-papa-le%C3%A3o-xiv:-um-activo-estrat%C3%A9gico-para-angola-muito-al%C3%A9m-do-simbolismo-religioso",
+      "source": "Jornal de Angola",
+      "_key": "f17ec23ebb62fe89"
+    },
+    {
+      "title": "O princípio de ‘Uma só China’ é consenso geral da comunidade internacional",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674529/o-princ%C3%ADpio-de-%E2%80%98uma-s%C3%B3-china%E2%80%99--%C3%A9-consenso-geral--da-comunidade-internacional",
+      "source": "Jornal de Angola",
+      "_key": "7ac0ad6032a1adc5"
+    },
+    {
+      "title": "Contratação pública entre a contenção e a eficiência",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674524/contrata%C3%A7%C3%A3o-p%C3%BAblica-entre--a-conten%C3%A7%C3%A3o-e-a-efici%C3%AAncia",
+      "source": "Jornal de Angola",
+      "_key": "4cac28a42454d71b"
+    },
+    {
+      "title": "Reportagem / Há 3 meses Zaire: Desafios do recém-criado município do Lufico envolvem acesso e serviços ",
+      "url": "https://www.jornaldeangola.ao/noticias/8/reportagem/655955/zaire:-desafios-do-rec%C3%A9m-criado-munic%C3%ADpio-do-lufico-envolvem-acesso-e-servi%C3%A7os",
+      "source": "Jornal de Angola",
+      "_key": "c633bc1d561e0ee6"
+    },
+    {
+      "title": "Higino Carneiro reafirma intenção de se candidatar...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/higino-carneiro-reafirma-intencao-de-se-candidatar-a-presidencia-do-mpla---quero-somar-nao-quero-dividir-afirma-para-pedir-congresso-que-reforce-a-coesao-interna-71334.html",
       "source": "Novo Jornal",
-      "_key": "beafdc5f08441232"
+      "_key": "1d13b948d0a10b6e"
     },
     {
-      "title": "Detido dono de empresa de táxi por aplicativo por vender...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-dono-de-empresa-de-taxi-por-aplicativo-detido-por-vender-mais-de-100-carros-que-nao-eram-seus-para-imigrar-para-a-europa-71319.html",
+      "title": "Estado vai vender acções que detém no Banco Comercial...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/estado-vai-vender-accoes-que-detem-no-banco-comercial-angolano-71337.html",
       "source": "Novo Jornal",
-      "_key": "21a2c9e90cca2a05"
+      "_key": "688c6ee8fd02c602"
     },
     {
-      "title": "Governo aprova 30 mil milhões de Kwanzas para ajudar...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-aprova-30-mil-milhoes-de-kwanzas-para-ajudar-as-empresas-afectadas-pela-chuva-executivo-preocupado-com-alta-nos-precos-dos-bens-importados-devido-a-guerra-71320.html",
+      "title": "Tunda Mu Njila: Ormuz: bomba nuclear do Irão",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/tunda-mu-njila-ormuz-bomba-nuclear-do-irao-71325.html",
       "source": "Novo Jornal",
-      "_key": "0409f3b999487897"
+      "_key": "a09dbee8b2383238"
     },
     {
-      "title": "Cidadão no Rangel envenena família após repreensão da mãe",
-      "url": "https://www.opais.ao/ultimas_hora/cidadao-no-rangel-envenena-familia-apos-repreensao-da-mae/",
-      "source": "O País",
-      "_key": "9cac741cb3392483"
+      "title": "FÓRMULA DE SUCESSO: FUTURO E FORMAÇÃO.  ",
+      "url": "https://marginal.co.ao/programas/formula-de-sucesso?ep=71323",
+      "source": "Novo Jornal",
+      "_key": "5cea379065b13816"
     },
     {
-      "title": "Detido falso técnico da ENDE que entrava em residências para roubar",
-      "url": "https://www.opais.ao/ultimas_hora/detido-falso-tecnico-da-ende-que-entrava-em-residencias-para-roubar/",
+      "title": "MPLA alerta para uso de documentos falsos no processo de candidaturas ao IX Congresso",
+      "url": "https://www.opais.ao/politica/mpla-alerta-para-uso-de-documentos-falsos-no-processo-de-candidaturas-ao-ix-congresso/",
       "source": "O País",
-      "_key": "ad9362a8bf338018"
+      "_key": "6ec00c1540b1b177"
     },
     {
-      "title": "Desmantelada associação criminosa envolvida em assaltos a taxistas em Luanda",
-      "url": "https://www.opais.ao/ultimas_hora/desmantelada-associacao-criminosa-envolvida-em-assaltos-a-taxistas-em-luanda/",
+      "title": "Wiliete elimina 1.º de Agosto e Sagrada Esperança ‘cai com estrondo’ diante do Nedji Academia nos “oitavos” da Taça de Angola",
+      "url": "https://www.opais.ao/desporto/wiliete-elimina-1-o-de-agosto-e-sagrada-esperanca-cai-com-estrondo-diante-do-nedji-academia-nos-oitavos-da-taca-de-angola/",
       "source": "O País",
-      "_key": "204af49d2549bbf9"
+      "_key": "2adbbe0e54e72948"
+    },
+    {
+      "title": "Mil e 500 profissionais da comunicação garantiram a cobertura do Papa em Angola",
+      "url": "https://www.opais.ao/sociedade/mil-e-500-profissionais-da-comunicacao-garantiram-a-cobertura-do-papa-em-angola/",
+      "source": "O País",
+      "_key": "5f7f156bd9a1772b"
+    },
+    {
+      "title": "Polícia frustra jovem que tenta envenenar a família após repreensão da mãe",
+      "url": "https://www.opais.ao/sociedade/policia-frustra-jovem-que-tenta-envenenar-a-familia-apos-repreensao-da-mae/",
+      "source": "O País",
+      "_key": "4653442532a5a980"
+    },
+    {
+      "title": "Executivo cria linha de financiamento de 30 mil milhões de kwanzas para os sinistrados das cheias em Benguela",
+      "url": "https://www.opais.ao/politica/executivo-cria-linha-de-financiamento-de-30-mil-milhoes-de-kwanzas-para-os-sinistrados-das-cheias-em-benguela/",
+      "source": "O País",
+      "_key": "85d7398fb20fd185"
+    },
+    {
+      "title": "Maior mina de granito do mundo vai aumentar produção",
+      "url": "https://www.opais.ao/economia/maior-mina-de-granito-do-mundo-vai-aumentar-producao/",
+      "source": "O País",
+      "_key": "16f11580518605bc"
+    },
+    {
+      "title": "Detidos três cidadãos suspeitos de abate ilegal de hipopótamos no Waku-Kungo",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-tres-cidadaos-suspeitos-de-abate-ilegal-de-hipopotamos-no-waku-kungo/",
+      "source": "O País",
+      "_key": "2dcdbe434e1c9f8e"
+    },
+    {
+      "title": "Criada Sociedade Mineira do Chiri para explorar diamantes na Lunda-Sul",
+      "url": "https://www.opais.ao/economia/criada-sociedade-mineira-do-chiri-para-explorar-diamantes-na-lunda-sul/",
+      "source": "O País",
+      "_key": "a616603e281609a4"
+    },
+    {
+      "title": "Padrasto de 49 anos acusado de abusar sexualmente da enteada durante seis anos",
+      "url": "https://www.opais.ao/ultimas_hora/padrasto-de-49-anos-acusado-de-abusar-sexualmente-da-enteada-durante-seis-anos/",
+      "source": "O País",
+      "_key": "6069205201d9f795"
+    },
+    {
+      "title": "IESA junta-se à causa “SOS Benguela” com 20 toneladas de bens",
+      "url": "https://www.opais.ao/ultimas_hora/iesa-junta-se-a-causa-sos-benguela-com-20-toneladas-de-bens/",
+      "source": "O País",
+      "_key": "50d330e3b6afb67a"
+    },
+    {
+      "title": "A geração do adoço: promiscuidade, inovação do kuduro ou arte?",
+      "url": "https://www.opais.ao/opiniao/a-geracao-do-adoco-promiscuidade-inovacao-do-kuduro-ou-arte/",
+      "source": "O País",
+      "_key": "fb09b6b52a816be1"
+    },
+    {
+      "title": "Carta do leitor: Lixo continua a invadir os Zangos",
+      "url": "https://www.opais.ao/opiniao/carta-do-leitor-lixo-continua-a-invadir-os-zangos/",
+      "source": "O País",
+      "_key": "4a88c2d246157703"
+    },
+    {
+      "title": "É de hoje…Executivo abre os cofres para os sinistrados",
+      "url": "https://www.opais.ao/opiniao/e-de-hojeexecutivo-abre-os-cofres-para-os-sinistrados/",
+      "source": "O País",
+      "_key": "fe6d5c33edfb5ac8"
+    },
+    {
+      "title": "Bens estratégicos",
+      "url": "https://www.opais.ao/opiniao/bens-estrategicos/",
+      "source": "O País",
+      "_key": "1673035c0ff6c12f"
+    },
+    {
+      "title": "Teresa Fukiady vence Grande Prémio Catoca de Jornalismo",
+      "url": "https://www.opais.ao/ultimas_hora/teresa-fukiady-vence-grande-premio-catoca-de-jornalismo/",
+      "source": "O País",
+      "_key": "1e4926a050b686ea"
+    },
+    {
+      "title": "Catoca apresenta 30 anos de actividade em livro",
+      "url": "https://www.opais.ao/ultimas_hora/catoca-apresenta-30-anos-de-actividade-em-livro/",
+      "source": "O País",
+      "_key": "85036c7e8ea040b7"
+    },
+    {
+      "title": "CEO cessante de Catoca considera que realização do prémio de Jornalismo no Leste demonstra consistência",
+      "url": "https://www.opais.ao/ultimas_hora/ceo-cessante-de-catoca-considera-que-realizacao-do-premio-de-jornalismo-no-leste-demonstra-consistencia/",
+      "source": "O País",
+      "_key": "e987bd31e67e6a8b"
+    },
+    {
+      "title": "Cine Chikapa acolhe gala de premiação “Catoca de Jornalismo”",
+      "url": "https://www.opais.ao/ultimas_hora/cine-chikapa-acolhe-gala-de-premiacao-catoca-de-jornalismo/",
+      "source": "O País",
+      "_key": "dbe0d4198756a6d0"
+    },
+    {
+      "title": "150 estudantes beneficiam de programa de educação cientifica",
+      "url": "https://www.opais.ao/sociedade/150-estudantes-beneficiam-de-programa-de-educacao-cientifica/",
+      "source": "O País",
+      "_key": "5a84d6c63be29a0f"
+    },
+    {
+      "title": "Trump prorroga indefinidamente o cessar-fogo com o Irão para permitir esforços diplomáticos",
+      "url": "https://www.opais.ao/mundo/trump-prorroga-indefinidamente-o-cessar-fogo-com-o-irao-para-permitir-esforcos-diplomaticos/",
+      "source": "O País",
+      "_key": "2285678583ce60a2"
+    },
+    {
+      "title": "Antologia literária infantil celebra efeméride",
+      "url": "https://www.opais.ao/cultura/antologia-literaria-infantil-celebra-efemeride/",
+      "source": "O País",
+      "_key": "93bc9f1a39416821"
+    },
+    {
+      "title": "Dia Mundial do Livro: Escritores “desconhecem” aspectos legais vinculados aos direitos de autor",
+      "url": "https://www.opais.ao/cultura/dia-mundial-do-livro-escritores-desconhecem-aspectos-legais-vinculados-aos-direitos-de-autor/",
+      "source": "O País",
+      "_key": "de75afd6d141e61d"
+    },
+    {
+      "title": "Sporting de Luanda bate 1.º de Agosto e fica mais perto da final",
+      "url": "https://www.opais.ao/desporto/sporting-de-luanda-bate-1-o-de-agosto-e-fica-mais-perto-da-final/",
+      "source": "O País",
+      "_key": "5c705f439c13d9ff"
     }
   ]
 }
