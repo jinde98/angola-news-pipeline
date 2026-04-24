@@ -1,64 +1,71 @@
 {
-  "date": "2026-04-23",
-  "total_new": 22,
-  "total_filtered": 7,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-24",
+  "total_new": 105,
+  "total_filtered": 8,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Exportação petrolífera angolana diminui 9,14% no 1.º trimestre",
-      "url": "https://forbesafricalusofona.com/exportacao-petrolifera-angolana-diminui-914-no-1-o-trimestre/",
-      "source": "Forbes África",
-      "_key": "c7b9cf2ed6647f00",
-      "score": 9,
-      "title_cn": "安哥拉第一季度石油出口下降 9.14%"
-    },
-    {
-      "title": "Destaque Angola entre os maiores investidores africanos em infra-estruturas energéticasAngola é parte das dez principais economias africanas e que actualmente têm um elevado investimento em infra-estruturas energéticas numa aposta que combina fontes hídricas e renováveis no processo de geração de electricidade.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674551/angola-entre-os-maiores-investidores-africanos-em-infra-estruturas-energ%C3%A9ticas",
-      "source": "Jornal de Angola",
-      "_key": "32fc9e0be4fc8c8c",
-      "score": 8,
-      "title_cn": "安哥拉是非洲十大经济体之一 ， 目前在能源基础设施方面进行了大量投资 ， 投资将水和可再生能源结合到发电过程中。"
-    },
-    {
-      "title": "O EXPLICADOR FISCAL: publicação da nova lista dos grandes contribuintes",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0b1b61feb61479",
-      "score": 7,
-      "title_cn": "税务解释员 ： 公布新的主要纳税人名单"
-    },
-    {
-      "title": "Chitotolo investe 9 milhões de dólares para aumentar produção e valorizar diamantes",
-      "url": "https://forbesafricalusofona.com/chitotolo-investe-9-milhoes-de-dolares-para-aumentar-producao-e-valorizar-diamantes/",
-      "source": "Forbes África",
-      "_key": "f5d9afc580ec71eb",
-      "score": 7,
-      "title_cn": "奇塔瓦拉投资 900 万美元提高钻石产量和价值"
-    },
-    {
-      "title": "Governo vai privatizar 1,44% da participação do Estado no BCA",
-      "url": "https://expansao.co.ao/empresas/detalhe/governo-vai-privatizar-144-da-participacao-do-estado-no-bca-71352.html",
-      "source": "Expansão",
-      "_key": "cd87219e4bd97eac",
-      "score": 6,
-      "title_cn": "政府将私有化 BCA 1.44% 的国家股份"
-    },
-    {
-      "title": "Economia Destacada formação de quadros como pilar do desenvolvimento mineiro ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674552/destacada-forma%C3%A7%C3%A3o-de-quadros-como-pilar-do-desenvolvimento-mineiro",
-      "source": "Jornal de Angola",
-      "_key": "d5186948a3fe07a9",
-      "score": 6,
-      "title_cn": "经济突出干部培训是矿业发展的支柱"
-    },
-    {
-      "title": "Agricultura ganha novo regulamento para café, cacau, dendém e caju",
-      "url": "https://correiokianda.info/agricultura-ganha-novo-regulamento-para-cafe-cacau-dendem-e-caju/",
-      "source": "Correio Kianda",
-      "_key": "4f7635b3e5d38c3e",
+      "title": "Angola yields over USD 8bln from oil and gas exports",
+      "url": "https://www.angop.ao/en/noticias/economia/exportacoes-de-petroleo-e-gas-rendem-mais-de-oito-mil-milhoes-de-dolares/",
+      "source": "ANGOP",
+      "_key": "734f357b7332b55e",
       "score": 5,
-      "title_cn": "农业获得咖啡、可可、棕榈树和腰果的新法规"
+      "title_cn": "安哥拉石油和天然气出口收益超过80亿美元"
+    },
+    {
+      "title": "Exportação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=85953",
+      "source": "ANGOP",
+      "_key": "dd4a978dcb2ed07c",
+      "score": 5
+    },
+    {
+      "title": "Reino Unido vai financiar construção de infra-estruturas sociais em Angola com mais de dois bilhões de Kwanzas",
+      "url": "https://correiokianda.info/reino-unido-vai-financiar-construcao-de-infra-estruturas-sociais-em-angola-com-mais-de-dois-bilhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "d71880b5bb8db752",
+      "score": 5,
+      "title_cn": "英国将用 20 多亿宽扎资助安哥拉的社会基础设施建设"
+    },
+    {
+      "title": "Declínio da produção afunda exportação de petróleo para menos de 1 milhão de barris/dia",
+      "url": "https://expansao.co.ao/economia/detalhe/declinio-da-producao-afunda-exportacao-de-petroleo-para-menos-de-1-milhao-de-barrisdia-71355.html",
+      "source": "Expansão",
+      "_key": "225488834d759bbf",
+      "score": 5,
+      "title_cn": "产量下降使石油出口量降至每天不到100万桶"
+    },
+    {
+      "title": "Preço médio do barril angolano exportado em Março foi de 103,9 dólares",
+      "url": "https://expansao.co.ao/economia/detalhe/preco-medio-do-barril-angolano-exportado-em-marco-foi-de-1039-dolares-71357.html",
+      "source": "Expansão",
+      "_key": "758527c2217c3c39",
+      "score": 5,
+      "title_cn": "3 月份安哥拉出口每桶平均价格为 103.9 美元"
+    },
+    {
+      "title": "Cheias em Benguela causam prejuízos acima de 23 mil milhões de kwanzas",
+      "url": "https://www.opais.ao/sociedade/cheias-em-benguela-causam-prejuizos-acima-de-23-mil-milhoes-de-kwanzas/",
+      "source": "O País",
+      "_key": "f2ef09c17e8e4602",
+      "score": 5,
+      "title_cn": "班格拉洪水造成超过 230 亿宽扎的损失"
+    },
+    {
+      "title": "Jovem de 18 anos simula o próprio rapto para extorquir 2 milhões de kwanzas à mãe",
+      "url": "https://www.opais.ao/ultimas_hora/jovem-de-18-anos-simula-o-proprio-rapto-para-extorquir-2-milhoes-de-kwanzas-a-mae/",
+      "source": "O País",
+      "_key": "f322e349c23ee3a0",
+      "score": 5,
+      "title_cn": "18 岁少年模拟绑架向母亲勒索 200 万宽扎"
+    },
+    {
+      "title": "AJECO realiza seminário de capacitação para jornalistas economicos em produção de petróleo e Gás",
+      "url": "https://www.opais.ao/ultimas_hora/ajeco-realiza-seminario-de-capacitacao-para-jornalistas-economicos-em-producao-de-petroleo-e-gas/",
+      "source": "O País",
+      "_key": "833cadc07001f3f4",
+      "score": 5,
+      "title_cn": "AJECO 为石油和天然气生产方面的经济记者举办培训研讨会"
     }
   ]
 }
