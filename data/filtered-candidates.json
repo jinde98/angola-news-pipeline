@@ -1,98 +1,35 @@
 {
   "date": "2026-04-24",
-  "total_new": 25,
-  "total_filtered": 13,
-  "scored_by": "gemini-flash",
+  "total_new": 48,
+  "total_filtered": 4,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "TAAG prepara-se para voar em Guangzhou-China",
-      "url": "https://www.opais.ao/ultimas_hora/taag-prepara-se-para-voar-em-guangzhou-china/",
+      "title": "O princípio de uma só China é consenso geral da comunidade internacional",
+      "url": "https://www.opais.ao/opiniao/o-principio-de-uma-so-china-e-consenso-geral-da-comunidade-internacional/",
       "source": "O País",
-      "_key": "51d0028a9e91aefa",
-      "score": 9
-    },
-    {
-      "title": "Diversificação económica: onde está o dinheiro para o angolano?",
-      "url": "https://www.opais.ao/opiniao/diversificacao-economica-onde-esta-o-dinheiro-para-o-angolano-2/",
-      "source": "O País",
-      "_key": "8a541da6333098c4",
-      "score": 8
-    },
-    {
-      "title": "Macfrut 2026 - Angola showcases potentialities",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-exibe-potencialidades-na-feira-internacional-de-hortifrutiprodutores-da-italia/",
-      "source": "ANGOP",
-      "_key": "a855f9ca0e6849be",
+      "_key": "3b3785435f8f82e3",
       "score": 7
     },
     {
-      "title": "Taxistas dormem nas filas para conseguir gasolina em Ondjiva",
-      "url": "https://correiokianda.info/taxistas-dormem-nas-filas-para-conseguir-gasolina-em-ondjiva/",
-      "source": "Correio Kianda",
-      "_key": "b8da87283044a4d2",
-      "score": 7
+      "title": "Comércio intra-africano cresce 10% em 2026 para 230 mil milhões USD",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/comercio-intra-africano-cresce-10-em-2026-para-230-mil-milhoes-usd-71378.html",
+      "source": "Expansão",
+      "_key": "f036867ea4e127cf",
+      "score": 5
     },
     {
-      "title": "Política ONU e Reino Unido reforçam vontade de apoiar o desenvolvimento de Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674571/onu-e-reino-unido-refor%C3%A7am-vontade-de-apoiar-o-desenvolvimento-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "b0f3d319eac5661f",
-      "score": 7
+      "title": "Angola arrecada 7,16 mil milhões de dólares com venda de petróleo no primeiro trimestre do ano, mais 10%",
+      "url": "https://jornaloguardiao.com/2026/04/23/angola-arrecada-716-mil-milhoes-de-dolares-com-venda-de-petroleo-no-primeiro-trimestre-do-ano-mais-10/",
+      "source": "Jornal O Guardião",
+      "_key": "b83c38541f0eb816",
+      "score": 5
     },
     {
-      "title": "Parlamento aprova Proposta de Lei sobre Supervisão da Auditoria às Entidades de Interesse Público",
-      "url": "https://www.opais.ao/politica/parlamento-aprova-proposta-de-lei-sobre-supervisao-da-auditoria-as-entidades-de-interesse-publico/",
-      "source": "O País",
-      "_key": "6868da10f8432df3",
-      "score": 7
-    },
-    {
-      "title": "Court of Auditors approves Opinion on the General State Account for 2024",
-      "url": "https://www.angop.ao/en/noticias/economia/tribunal-de-contas-aprova-parecer-sobre-conta-geral-do-estado-de-2024/",
-      "source": "ANGOP",
-      "_key": "918aae8818935cd1",
-      "score": 6
-    },
-    {
-      "title": "Govt opens Kz 300M financing line for businesses affected by natural disasters",
-      "url": "https://www.angop.ao/en/noticias/economia/empresas-afectadas-por-calamidades-podem-candidatar-se-a-apoio-de-kz-300-milhoes/",
-      "source": "ANGOP",
-      "_key": "ea4d387848ed1d18",
-      "score": 6
-    },
-    {
-      "title": "Conta Geral do Estado",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=42056",
-      "source": "ANGOP",
-      "_key": "67a45acb5318db2a",
-      "score": 6
-    },
-    {
-      "title": "Destaque Avaliadas obras do Sistema de Abastecimento de Água do BitaO ministro da Energia e Águas, João Baptista Borges, e o governador de Luanda, Manuel Nunes, visitaram, esta sexta-feira, as obras do Sistema de Abastecimento de Água do Bita, em Luanda, para avaliar o nível de execução. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674619/avaliadas-obras-do-sistema-de-abastecimento-de-%C3%A1gua-do-bita",
-      "source": "Jornal de Angola",
-      "_key": "931a2259a7cfb12c",
-      "score": 6
-    },
-    {
-      "title": "Política João Lourenço conversa com Príncipe Alberto II ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674617/jo%C3%A3o-louren%C3%A7o-conversa--com-pr%C3%ADncipe-alberto-ii-",
-      "source": "Jornal de Angola",
-      "_key": "5ccd2d0212dec0ca",
-      "score": 6
-    },
-    {
-      "title": "Recredit recupera 139,13 mil milhões Kwanzas em 2025",
-      "url": "https://www.opais.ao/economia/recredit-recupera-13913-mil-milhoes-kwanzas-em-2025/",
-      "source": "O País",
-      "_key": "c2561b568952a916",
-      "score": 6
-    },
-    {
-      "title": "Luanda: jovem mulher simula o próprio sequestro para...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-jovem-mulher-simula-o-proprio-sequestro-para-extorquir-dois-milhoes-kz-a-mae-mas-plano-correu-mal-e-ela-e-os-comparsas-acabaram-detidos-pelo-sic-71375.html",
-      "source": "Novo Jornal",
-      "_key": "6e2befc62d976162",
+      "title": " Angola arrecada 7,16 mil milhões de dólares com venda de petróleo no primeiro trimestre do ano, mais 10% ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5a6d75a5a40170",
       "score": 5
     }
   ]
