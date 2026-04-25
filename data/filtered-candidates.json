@@ -1,182 +1,119 @@
 {
   "date": "2026-04-25",
-  "total_new": 72,
-  "total_filtered": 25,
+  "total_new": 32,
+  "total_filtered": 16,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Embaixadores africanos reúnem-se em Pequim para debater oferta tarifária da China",
-      "url": "https://www.opais.ao/politica/embaixadores-africanos-reunem-se-em-pequim-para-debater-oferta-tarifaria-da-china/",
-      "source": "O País",
-      "_key": "dcf7c15095a08e4a",
-      "score": 9
-    },
-    {
-      "title": "Turbulência global leva Executivo angolano a reforçar medidas de protecção da economia nacional",
-      "url": "https://www.opais.ao/politica/turbulencia-global-leva-executivo-angolano-a-reforcar-medidas-de-proteccao-da-economia-nacional/",
-      "source": "O País",
-      "_key": "1a2a2ac9b423a0a6",
-      "score": 9
-    },
-    {
-      "title": "CFL retoma circulação de comboios para o Aeroporto Internacional António Agostinho Neto",
-      "url": "https://correiokianda.info/cfl-retoma-circulacao-de-comboios-para-o-aeroporto-internacional-antonio-agostinho-neto/",
-      "source": "Correio Kianda",
-      "_key": "cc0767a8463e18c6",
+      "title": "Criada linha de crédito de 30 mil milhões Kz para apoiar empresas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c1f4e0570834a2",
       "score": 8
     },
     {
-      "title": "AGT e PFA frustram tentativa de saída de mercadorias proibidas no AIAAN",
-      "url": "https://holdonangola.com/agt-e-pfa-frustram-tentativa-de-saida-de-mercadorias-proibidas-no-aiaan/",
+      "title": "PRS 2026: Pedro Pires alerta para fim da improvisação e defende planeamento estratégico num mundo imprevisível",
+      "url": "https://forbesafricalusofona.com/prs-2026-pedro-pires-alerta-para-fim-da-improvisacao-e-defende-planeamento-estrategico-num-mundo-imprevisivel/",
+      "source": "Forbes África",
+      "_key": "4c65a1e396f02c77",
+      "score": 8
+    },
+    {
+      "title": "RECREDIT de Angola regista resultado líquido de 53,31 mil milhões de Kwanzas",
+      "url": "https://forbesafricalusofona.com/recredit-de-angola-regista-resultado-liquido-de-5331-mil-milhoes-de-kwanzas/",
+      "source": "Forbes África",
+      "_key": "c6cfdf95832eef29",
+      "score": 7
+    },
+    {
+      "title": "“Crescimento económico sem inclusão não é progresso”, afirma Ngunu Tiny",
+      "url": "https://forbesafricalusofona.com/crescimento-economico-sem-inclusao-nao-e-progresso-afirma-ngunu-tiny/",
+      "source": "Forbes África",
+      "_key": "5eb6c3305fded47d",
+      "score": 7
+    },
+    {
+      "title": "Comboios voltam a circular no troço Bungo-Aeroporto a partir de segunda-feira",
+      "url": "https://www.opais.ao/ultimas_hora/comboios-voltam-a-circular-no-troco-bungo-aeroporto-a-partir-de-segunda-feira/",
+      "source": "O País",
+      "_key": "da59953306f87382",
+      "score": 7
+    },
+    {
+      "title": "Malária provoca 190 mortes em Cabinda e preocupa autoridades sanitárias",
+      "url": "https://correiokianda.info/malaria-provoca-190-mortes-em-cabinda-e-preocupa-autoridades-sanitarias/",
+      "source": "Correio Kianda",
+      "_key": "25394009b44b848c",
+      "score": 6
+    },
+    {
+      "title": "Números do INSS crescem mas não acompanham a realidade do INE",
+      "url": "https://expansao.co.ao/angola/detalhe/numeros-do-inss-crescem-mas-nao-acompanham-a-realidade-do-ine-71393.html",
+      "source": "Expansão",
+      "_key": "952cf721ed139e23",
+      "score": 6
+    },
+    {
+      "title": "Comércio intra-africano cresce 10% em 2026 para 230 mil milhões USD",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_500d99e9ea8b09",
+      "score": 6
+    },
+    {
+      "title": "ENDIAMA vence prémio Forbes Responsabilidade Social 2026",
+      "url": "https://forbesafricalusofona.com/endiama-vence-premio-forbes-responsabilidade-social-2026/",
+      "source": "Forbes África",
+      "_key": "69a1704312c61e51",
+      "score": 6
+    },
+    {
+      "title": "OAA propõe comissão multidisciplinar para reforma da justiça em Angola",
+      "url": "https://holdonangola.com/oaa-propoe-comissao-multidisciplinar-para-reforma-da-justica-em-angola/",
       "source": "Hold On Angola",
-      "_key": "d8a66b2a5d467985",
-      "score": 8
+      "_key": "d2d8f03b5fe1d438",
+      "score": 6
     },
     {
-      "title": "Destaque Comboios voltam a circular no Bungo-Aeroporto a 27 de AbrilOs comboios regulares para o Aeroporto Internacional António Agostinho Neto (AIAAN) regressam a partir de segunda-feira, 27 de Abril, soube, hoje, o JA Online. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674635/comboios-voltam-a-circular-no-bungo-aeroporto-a-27-de-abril",
-      "source": "Jornal de Angola",
-      "_key": "61212652e98144a2",
-      "score": 8
+      "title": "Cabinda regista 190 mortes por malária em 2025",
+      "url": "https://holdonangola.com/cabinda-regista-190-mortes-por-malaria-em-2025/",
+      "source": "Hold On Angola",
+      "_key": "eb25d8f254c592d7",
+      "score": 6
     },
     {
-      "title": "Política Pedro Pires elogia Aeroporto Dr. António Agostinho Neto ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674640/pedro-pires-elogia-aeroporto-dr.-ant%C3%B3nio-agostinho-neto---",
-      "source": "Jornal de Angola",
-      "_key": "d1fbd90b7828aff7",
-      "score": 8
+      "title": "Programa JOBE Angola gera mais 900 postos de trabalho no Tômbwa",
+      "url": "https://www.opais.ao/destaque/programa-jobe-angola-gera-mais-900-postos-de-trabalho-no-tombwa/",
+      "source": "O País",
+      "_key": "3fd51a8ac017d8c1",
+      "score": 6
     },
     {
-      "title": "TAAG undergoes transformation to meet demand of new airport",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-em-transformacao-profunda-com-foco-no-novo-aeroporto/",
-      "source": "ANGOP",
-      "_key": "66982f438f88ac37",
-      "score": 7
-    },
-    {
-      "title": "Recursos minerais",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31199",
-      "source": "ANGOP",
-      "_key": "b9fd2d98c422b81e",
-      "score": 7
-    },
-    {
-      "title": "Executivo aplica mais de seis biliões de kwanzas para impulsionar desenvolvimento socioeconómico",
-      "url": "https://correiokianda.info/executivo-aplica-mais-de-seis-bilioes-de-kwanzas-para-impulsionar-desenvolvimento-socioeconomico/",
+      "title": "PR autoriza compra de seis viaturas de combate a incêndios para aeroportos do sul de Angola",
+      "url": "https://correiokianda.info/pr-autoriza-compra-de-seis-viaturas-de-combate-a-incendios-para-aeroportos-do-sul-de-angola/",
       "source": "Correio Kianda",
-      "_key": "9830ce7a85720212",
-      "score": 7
-    },
-    {
-      "title": "“Estado de Direito enfraquece quando tribunais não são respeitados”, diz PGR",
-      "url": "https://correiokianda.info/estado-de-direito-enfraquece-quando-tribunais-nao-sao-respeitados-diz-pgr/",
-      "source": "Correio Kianda",
-      "_key": "74fec7e55ec0eca2",
-      "score": 7
-    },
-    {
-      "title": "“Sistema judicial exige mudanças profundas para garantir eficiência e celeridade”, defende Luís Domingos",
-      "url": "https://correiokianda.info/sistema-judicial-exige-mudancas-profundas-para-garantir-eficiencia-e-celeridade-defende-luis-domingos/",
-      "source": "Correio Kianda",
-      "_key": "24889e32f341d6bd",
-      "score": 7
-    },
-    {
-      "title": "Plano de Desenvolvimento Nacional privilegia aposta no Capital HumanoO Plano Anual de Desenvolvimento Nacional para este ano, abreviadamente designado por PADN-2026, vai privilegiar, entre outras prioridades, o crescimento do capital humano, com vista à elevação do nível de qualificação dos angolanos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674639/plano-de-desenvolvimento-nacional-privilegia-aposta-no-capital-humano",
-      "source": "Jornal de Angola",
-      "_key": "691e613943a7b639",
-      "score": 7
-    },
-    {
-      "title": "Projecto de Abastecimento de Água do Bita atinge 50% de execução e conclusão está prevista para Dezembro",
-      "url": "https://www.opais.ao/ultimas_hora/projecto-de-abastecimento-de-agua-do-bita-atinge-50-de-execucao-e-conclusao-esta-prevista-para-dezembro/",
-      "source": "O País",
-      "_key": "3fedf60c9c809408",
-      "score": 7
-    },
-    {
-      "title": "Provedora de Justiça destaca avanços e desafios na consolidação do Estado de Direito em Angola",
-      "url": "https://www.opais.ao/politica/provedora-de-justica-destaca-avancos-e-desafios-na-consolidacao-do-estado-de-direito-em-angola/",
-      "source": "O País",
-      "_key": "1f3154bb2cef5168",
-      "score": 7
-    },
-    {
-      "title": "PGR defende instituições independentes para garantia de uma justiça administrativa eficaz",
-      "url": "https://www.opais.ao/politica/pgr-defende-instituicoes-independentes-para-garantia-de-uma-justica-administrativa-eficaz/",
-      "source": "O País",
-      "_key": "7b237bf716730560",
-      "score": 7
-    },
-    {
-      "title": "AJECO capacita jornalistas sobre exploração e produção de petróleo, gás e energias renováveis",
-      "url": "https://www.opais.ao/ultimas_hora/ajeco-capacita-jornalistas-sobre-exploracao-e-producao-de-petroleo-gas-e-energias-renovaveis/",
-      "source": "O País",
-      "_key": "b58f70c73b8fc3d0",
-      "score": 7
-    },
-    {
-      "title": "Introduction of malaria vaccine in Angola without defined date",
-      "url": "https://www.angop.ao/en/noticias/saude/introducao-em-angola-da-vacina-contra-malaria-sem-data-definida/",
-      "source": "ANGOP",
-      "_key": "4c231ad81635dce5",
-      "score": 6
-    },
-    {
-      "title": "Garimpo",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=69619",
-      "source": "ANGOP",
-      "_key": "6a15ac539d581e89",
-      "score": 6
-    },
-    {
-      "title": "Carrinho business group put an end to frozen pork import",
-      "url": "https://www.angop.ao/en/noticias/economia/grupo-carrinho-suspende-importacao-de-carne-de-porco-congelada/",
-      "source": "ANGOP",
-      "_key": "99a38f1e8522607e",
-      "score": 6
-    },
-    {
-      "title": "Malária em Angola: Agora podemos. Agora devemos!",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674645/mal%C3%A1ria-em-angola:-agora-podemos.-agora-devemos!",
-      "source": "Jornal de Angola",
-      "_key": "8f96f32716543b4c",
-      "score": 6
-    },
-    {
-      "title": "Ministros articulam promoção internacional do investimento no turismo em Angola",
-      "url": "https://www.opais.ao/politica/ministros-articulam-promocao-internacional-do-investimento-no-turismo-em-angola/",
-      "source": "O País",
-      "_key": "fefe6583d61fb2f4",
-      "score": 6
-    },
-    {
-      "title": "Malaria",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=21691",
-      "source": "ANGOP",
-      "_key": "1bb927527379c84d",
+      "_key": "0b01cd02f7481dd9",
       "score": 5
     },
     {
-      "title": "Japan wants to strengthen economic cooperation with Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/japao-quer-fortalecer-cooperacao-economica-com-angola/",
-      "source": "ANGOP",
-      "_key": "bd11bacc4c562c94",
+      "title": "OMATAPALO vence grande prémio Forbes Responsabilidade Social Angola 2026",
+      "url": "https://forbesafricalusofona.com/omatapalo-vence-grande-premio-forbes-responsabilidade-social-angola-2026/",
+      "source": "Forbes África",
+      "_key": "a8992a442c1b0faf",
       "score": 5
     },
     {
-      "title": "Governadora aponta bloqueio financeiro como travão à electrificação no Bengo",
-      "url": "https://correiokianda.info/governadora-aponta-bloqueio-financeiro-como-travao-a-electrificacao-no-bengo/",
-      "source": "Correio Kianda",
-      "_key": "c874eaef78fbf4d2",
+      "title": "Sociedade Mineira Chitotolo vence Prémios Forbes Responsabilidade Social Angola 2026 com programa “Educar”",
+      "url": "https://forbesafricalusofona.com/sociedade-mineira-chitotolo-vence-premios-forbes-responsabilidade-social-angola-2026-com-programa-educar/",
+      "source": "Forbes África",
+      "_key": "2c838a8edc932d3d",
       "score": 5
     },
     {
-      "title": "09:01 / 25 abr. 2026 Ministro apresenta plano para divulgação turística ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674650/ministro-apresenta-plano-para-divulga%C3%A7%C3%A3o-tur%C3%ADstica",
-      "source": "Jornal de Angola",
-      "_key": "9bc7abf4c438978d",
+      "title": "Presidente autoriza compra de viaturas de combate a incêndios aeroportuários",
+      "url": "https://holdonangola.com/presidente-autoriza-compra-de-viaturas-de-combate-a-incendios-aeroportuarios/",
+      "source": "Hold On Angola",
+      "_key": "ca3041afcf7965d1",
       "score": 5
     }
   ]
