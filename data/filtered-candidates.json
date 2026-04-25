@@ -1,14 +1,28 @@
 {
   "date": "2026-04-25",
-  "total_new": 8,
-  "total_filtered": 1,
+  "total_new": 6,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Falta de água potável pressiona famílias em Luanda, enquanto Governo aponta soluções",
-      "url": "https://correiokianda.info/falta-de-agua-pressiona-familias-em-luanda-enquanto-governo-aponta-solucoes/",
-      "source": "Correio Kianda",
-      "_key": "a40f1b159d56a742",
+      "title": "Lobito Corridor deemed continental development engine",
+      "url": "https://www.angop.ao/en/noticias/economia/diplomata-aponta-corredor-do-lobito-como-motor-de-desenvolvimento-continental/",
+      "source": "ANGOP",
+      "_key": "a78dd751d48432bd",
+      "score": 9
+    },
+    {
+      "title": "New airport train line resumes service",
+      "url": "https://www.angop.ao/en/noticias/economia/comboios-para-aiaan-retomam-circulacao-segunda-feira/",
+      "source": "ANGOP",
+      "_key": "e97dfcfcbf36c051",
+      "score": 7
+    },
+    {
+      "title": "Destaque Angola reforça compromisso no combate à malária e expansão da vacinaçãoO Ministério da Saúde assinalou, este sábado, no município do Cazenga, o Dia Mundial da Malária e procedeu ao lançamento oficial da Semana Africana de Vacinação.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674698/angola-refor%C3%A7a-compromisso-no-combate-%C3%A0-mal%C3%A1ria-e-expans%C3%A3o-da-vacina%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "06c39b1d4f63dc55",
       "score": 5
     }
   ]
