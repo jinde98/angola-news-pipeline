@@ -1,40 +1,207 @@
 {
-  "date": "2026-04-24",
-  "total_new": 48,
-  "total_filtered": 4,
-  "scored_by": "keyword",
+  "date": "2026-04-25",
+  "total_new": 72,
+  "total_filtered": 25,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "O princípio de uma só China é consenso geral da comunidade internacional",
-      "url": "https://www.opais.ao/opiniao/o-principio-de-uma-so-china-e-consenso-geral-da-comunidade-internacional/",
+      "title": "Embaixadores africanos reúnem-se em Pequim para debater oferta tarifária da China",
+      "url": "https://www.opais.ao/politica/embaixadores-africanos-reunem-se-em-pequim-para-debater-oferta-tarifaria-da-china/",
       "source": "O País",
-      "_key": "3b3785435f8f82e3",
+      "_key": "dcf7c15095a08e4a",
+      "score": 9,
+      "title_cn": "非洲国家驻华大使齐聚北京，探讨中国关税优惠"
+    },
+    {
+      "title": "Turbulência global leva Executivo angolano a reforçar medidas de protecção da economia nacional",
+      "url": "https://www.opais.ao/politica/turbulencia-global-leva-executivo-angolano-a-reforcar-medidas-de-proteccao-da-economia-nacional/",
+      "source": "O País",
+      "_key": "1a2a2ac9b423a0a6",
+      "score": 9,
+      "title_cn": "全球动荡促安哥拉政府加强经济保护措施"
+    },
+    {
+      "title": "CFL retoma circulação de comboios para o Aeroporto Internacional António Agostinho Neto",
+      "url": "https://correiokianda.info/cfl-retoma-circulacao-de-comboios-para-o-aeroporto-internacional-antonio-agostinho-neto/",
+      "source": "Correio Kianda",
+      "_key": "cc0767a8463e18c6",
+      "score": 8,
+      "title_cn": "CFL恢复安东尼奥·阿戈什蒂纽·内图国际机场（António Agostinho Neto）列车服务"
+    },
+    {
+      "title": "AGT e PFA frustram tentativa de saída de mercadorias proibidas no AIAAN",
+      "url": "https://holdonangola.com/agt-e-pfa-frustram-tentativa-de-saida-de-mercadorias-proibidas-no-aiaan/",
+      "source": "Hold On Angola",
+      "_key": "d8a66b2a5d467985",
+      "score": 8,
+      "title_cn": "AGT和PFA挫败安东尼奥·阿戈什蒂纽·内图国际机场（AIAAN）违禁品出境企图"
+    },
+    {
+      "title": "Destaque Comboios voltam a circular no Bungo-Aeroporto a 27 de AbrilOs comboios regulares para o Aeroporto Internacional António Agostinho Neto (AIAAN) regressam a partir de segunda-feira, 27 de Abril, soube, hoje, o JA Online. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674635/comboios-voltam-a-circular-no-bungo-aeroporto-a-27-de-abril",
+      "source": "Jornal de Angola",
+      "_key": "61212652e98144a2",
+      "score": 8,
+      "title_cn": "4月27日起，本戈-机场线列车恢复运行，直达安东尼奥·阿戈什蒂纽·内图国际机场（AIAAN）"
+    },
+    {
+      "title": "Política Pedro Pires elogia Aeroporto Dr. António Agostinho Neto ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674640/pedro-pires-elogia-aeroporto-dr.-ant%C3%B3nio-agostinho-neto---",
+      "source": "Jornal de Angola",
+      "_key": "d1fbd90b7828aff7",
+      "score": 8,
+      "title_cn": "佩德罗·皮雷斯（Pedro Pires）赞扬安东尼奥·阿戈什蒂纽·内图博士机场"
+    },
+    {
+      "title": "TAAG undergoes transformation to meet demand of new airport",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-em-transformacao-profunda-com-foco-no-novo-aeroporto/",
+      "source": "ANGOP",
+      "_key": "66982f438f88ac37",
       "score": 7,
-      "title_cn": "一个中国原则是国际社会的普遍共识"
+      "title_cn": "安哥拉航空（TAAG）转型以适应新机场需求"
     },
     {
-      "title": "Comércio intra-africano cresce 10% em 2026 para 230 mil milhões USD",
-      "url": "https://expansao.co.ao/mundo/africa/detalhe/comercio-intra-africano-cresce-10-em-2026-para-230-mil-milhoes-usd-71378.html",
-      "source": "Expansão",
-      "_key": "f036867ea4e127cf",
-      "score": 5,
-      "title_cn": "非洲内部贸易预计2026年增长10%至2300亿美元"
+      "title": "Recursos minerais",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31199",
+      "source": "ANGOP",
+      "_key": "b9fd2d98c422b81e",
+      "score": 7,
+      "title_cn": "矿产资源"
     },
     {
-      "title": "Angola arrecada 7,16 mil milhões de dólares com venda de petróleo no primeiro trimestre do ano, mais 10%",
-      "url": "https://jornaloguardiao.com/2026/04/23/angola-arrecada-716-mil-milhoes-de-dolares-com-venda-de-petroleo-no-primeiro-trimestre-do-ano-mais-10/",
-      "source": "Jornal O Guardião",
-      "_key": "b83c38541f0eb816",
-      "score": 5,
-      "title_cn": "安哥拉一季度石油销售收入71.6亿美元，同比增长10%"
+      "title": "Executivo aplica mais de seis biliões de kwanzas para impulsionar desenvolvimento socioeconómico",
+      "url": "https://correiokianda.info/executivo-aplica-mais-de-seis-bilioes-de-kwanzas-para-impulsionar-desenvolvimento-socioeconomico/",
+      "source": "Correio Kianda",
+      "_key": "9830ce7a85720212",
+      "score": 7,
+      "title_cn": "行政长官申请超过 60 亿宽扎促进社会经济发展"
     },
     {
-      "title": " Angola arrecada 7,16 mil milhões de dólares com venda de petróleo no primeiro trimestre do ano, mais 10% ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_5a6d75a5a40170",
+      "title": "“Estado de Direito enfraquece quando tribunais não são respeitados”, diz PGR",
+      "url": "https://correiokianda.info/estado-de-direito-enfraquece-quando-tribunais-nao-sao-respeitados-diz-pgr/",
+      "source": "Correio Kianda",
+      "_key": "74fec7e55ec0eca2",
+      "score": 7,
+      "title_cn": "总检察长称：“法院不受尊重，法治就会削弱。”"
+    },
+    {
+      "title": "“Sistema judicial exige mudanças profundas para garantir eficiência e celeridade”, defende Luís Domingos",
+      "url": "https://correiokianda.info/sistema-judicial-exige-mudancas-profundas-para-garantir-eficiencia-e-celeridade-defende-luis-domingos/",
+      "source": "Correio Kianda",
+      "_key": "24889e32f341d6bd",
+      "score": 7,
+      "title_cn": "路易斯·多明戈斯（Luís Domingos）主张司法系统需深层改革以提高效率"
+    },
+    {
+      "title": "Plano de Desenvolvimento Nacional privilegia aposta no Capital HumanoO Plano Anual de Desenvolvimento Nacional para este ano, abreviadamente designado por PADN-2026, vai privilegiar, entre outras prioridades, o crescimento do capital humano, com vista à elevação do nível de qualificação dos angolanos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674639/plano-de-desenvolvimento-nacional-privilegia-aposta-no-capital-humano",
+      "source": "Jornal de Angola",
+      "_key": "691e613943a7b639",
+      "score": 7,
+      "title_cn": "国家发展计划优先投资人力资本"
+    },
+    {
+      "title": "Projecto de Abastecimento de Água do Bita atinge 50% de execução e conclusão está prevista para Dezembro",
+      "url": "https://www.opais.ao/ultimas_hora/projecto-de-abastecimento-de-agua-do-bita-atinge-50-de-execucao-e-conclusao-esta-prevista-para-dezembro/",
+      "source": "O País",
+      "_key": "3fedf60c9c809408",
+      "score": 7,
+      "title_cn": "比塔供水项目完成 50% ， 预计 12 月完工"
+    },
+    {
+      "title": "Provedora de Justiça destaca avanços e desafios na consolidação do Estado de Direito em Angola",
+      "url": "https://www.opais.ao/politica/provedora-de-justica-destaca-avancos-e-desafios-na-consolidacao-do-estado-de-direito-em-angola/",
+      "source": "O País",
+      "_key": "1f3154bb2cef5168",
+      "score": 7,
+      "title_cn": "监察员强调安哥拉法治建设的进展与挑战"
+    },
+    {
+      "title": "PGR defende instituições independentes para garantia de uma justiça administrativa eficaz",
+      "url": "https://www.opais.ao/politica/pgr-defende-instituicoes-independentes-para-garantia-de-uma-justica-administrativa-eficaz/",
+      "source": "O País",
+      "_key": "7b237bf716730560",
+      "score": 7,
+      "title_cn": "总检察长倡导独立机构以确保行政司法高效"
+    },
+    {
+      "title": "AJECO capacita jornalistas sobre exploração e produção de petróleo, gás e energias renováveis",
+      "url": "https://www.opais.ao/ultimas_hora/ajeco-capacita-jornalistas-sobre-exploracao-e-producao-de-petroleo-gas-e-energias-renovaveis/",
+      "source": "O País",
+      "_key": "b58f70c73b8fc3d0",
+      "score": 7,
+      "title_cn": "AJECO培训记者石油、天然气及可再生能源勘探生产知识"
+    },
+    {
+      "title": "Introduction of malaria vaccine in Angola without defined date",
+      "url": "https://www.angop.ao/en/noticias/saude/introducao-em-angola-da-vacina-contra-malaria-sem-data-definida/",
+      "source": "ANGOP",
+      "_key": "4c231ad81635dce5",
+      "score": 6,
+      "title_cn": "安哥拉疟疾疫苗引入日期未定"
+    },
+    {
+      "title": "Garimpo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=69619",
+      "source": "ANGOP",
+      "_key": "6a15ac539d581e89",
+      "score": 6
+    },
+    {
+      "title": "Carrinho business group put an end to frozen pork import",
+      "url": "https://www.angop.ao/en/noticias/economia/grupo-carrinho-suspende-importacao-de-carne-de-porco-congelada/",
+      "source": "ANGOP",
+      "_key": "99a38f1e8522607e",
+      "score": 6,
+      "title_cn": "卡里尼奥（Carrinho）商业集团停止进口冷冻猪肉"
+    },
+    {
+      "title": "Malária em Angola: Agora podemos. Agora devemos!",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/674645/mal%C3%A1ria-em-angola:-agora-podemos.-agora-devemos!",
+      "source": "Jornal de Angola",
+      "_key": "8f96f32716543b4c",
+      "score": 6,
+      "title_cn": "安哥拉疟疾防治：现在能做，现在必做！"
+    },
+    {
+      "title": "Ministros articulam promoção internacional do investimento no turismo em Angola",
+      "url": "https://www.opais.ao/politica/ministros-articulam-promocao-internacional-do-investimento-no-turismo-em-angola/",
+      "source": "O País",
+      "_key": "fefe6583d61fb2f4",
+      "score": 6,
+      "title_cn": "部长们协调安哥拉旅游业国际投资推广"
+    },
+    {
+      "title": "Malaria",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=21691",
+      "source": "ANGOP",
+      "_key": "1bb927527379c84d",
       "score": 5,
-      "title_cn": "安哥拉一季度石油销售收入71.6亿美元，同比增长10%"
+      "title_cn": "疟疾"
+    },
+    {
+      "title": "Japan wants to strengthen economic cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/japao-quer-fortalecer-cooperacao-economica-com-angola/",
+      "source": "ANGOP",
+      "_key": "bd11bacc4c562c94",
+      "score": 5,
+      "title_cn": "日本希望加强与安哥拉的经济合作"
+    },
+    {
+      "title": "Governadora aponta bloqueio financeiro como travão à electrificação no Bengo",
+      "url": "https://correiokianda.info/governadora-aponta-bloqueio-financeiro-como-travao-a-electrificacao-no-bengo/",
+      "source": "Correio Kianda",
+      "_key": "c874eaef78fbf4d2",
+      "score": 5,
+      "title_cn": "本戈（Bengo）省长指出金融封锁阻碍电气化进程"
+    },
+    {
+      "title": "09:01 / 25 abr. 2026 Ministro apresenta plano para divulgação turística ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674650/ministro-apresenta-plano-para-divulga%C3%A7%C3%A3o-tur%C3%ADstica",
+      "source": "Jornal de Angola",
+      "_key": "9bc7abf4c438978d",
+      "score": 5,
+      "title_cn": "09： 01 / 25 abr. 2026 年部长提出旅游推广计划"
     }
   ]
 }
