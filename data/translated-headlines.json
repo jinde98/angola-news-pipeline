@@ -1,40 +1,32 @@
 {
   "date": "2026-04-26",
-  "total_new": 22,
-  "total_filtered": 4,
+  "total_new": 17,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Comboios voltam a circular no troço Bungo-Aeroporto a partir de amanhã",
-      "url": "https://www.opais.ao/destaque/comboios-voltam-a-circular-no-troco-bungo-aeroporto-a-partir-de-segunda-feira/",
-      "source": "O País",
-      "_key": "a51140b22530a2c5",
-      "score": 8,
-      "title_cn": "列车明日起恢复本戈-机场段运行"
-    },
-    {
-      "title": "MINTTICS destaca papel estratégico do ANGOTIC na aceleração da transformação digital",
-      "url": "https://www.opais.ao/sociedade/minttics-destaca-papel-estrategico-do-angotic-na-aceleracao-da-transformacao-digital/",
-      "source": "O País",
-      "_key": "c34bad203b529fd9",
-      "score": 7,
-      "title_cn": "MINTTICS强调ANGOTIC在加速数字化转型中的战略作用"
-    },
-    {
-      "title": "Benguela: Empresas têm financiamento de até 300 milhões de kwanzasAs empresas afectadas pelas recentes inundações, provocadas por chuvas fortes, ocorridas em Benguela, poderão beneficiar de financiamentos de até 300 milhões de kwanzas cada.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674739/benguela:-empresas-t%C3%AAm-financiamento-de-at%C3%A9-300-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "50bab29a5ba3eb27",
+      "title": "Chuva faz uma morte e deixa mais de 3 mil casas inundadas em Luanda",
+      "url": "https://correiokianda.info/chuva-faz-uma-morte-e-deixa-mais-de-3-mil-casas-inundadas-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "f6777fd3b7dc9673",
       "score": 6,
-      "title_cn": "本戈拉：企业可获高达3亿宽扎的融资"
+      "title_cn": "罗安达降雨致1人死亡，超3000房屋被淹"
     },
     {
-      "title": "Economia / Há 42 minutos Feira de produtos nacionais expõe potencial na Namíbia ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674741/feira-de-produtos-nacionais-exp%C3%B5e-potencial-na-nam%C3%ADbia",
-      "source": "Jornal de Angola",
-      "_key": "fde4f730b69e3c04",
+      "title": "        África23 minutos atrás  Ministro da Defesa do Mali morto em ataques coordenados no país O ministro da Defesa do Mali, Sadio Camara, morreu na sequência de uma vaga de ataques coordenados contra instalações militares e alvos estratégicos em várias regiões...   ",
+      "url": "https://correiokianda.info/ministro-da-defesa-do-mali-morto-em-ataques-coordenados-no-pais/",
+      "source": "Correio Kianda",
+      "_key": "e1ffb5ec9c3f883e",
+      "score": 6,
+      "title_cn": "马里国防部长萨迪奥·卡马拉（Sadio Camara）在该国协调袭击中身亡"
+    },
+    {
+      "title": "Junta militar maliana decreta recolher obrigatório após ataques islamistas",
+      "url": "https://correiokianda.info/junta-militar-maliana-decreta-recolher-obrigatorio-apos-ataques-islamistas/",
+      "source": "Correio Kianda",
+      "_key": "234425557f07d4ae",
       "score": 5,
-      "title_cn": "纳米比亚举办本国产品展，展示发展潜力"
+      "title_cn": "马里军政府在伊斯兰袭击后颁布宵禁"
     }
   ]
 }
