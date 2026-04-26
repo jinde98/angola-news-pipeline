@@ -1,24 +1,32 @@
 {
   "date": "2026-04-26",
-  "total_new": 15,
-  "total_filtered": 2,
+  "total_new": 13,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Chuvas interrompem atendimento no centro de tratamento de passaporte na Baía Os serviços no Centro de Apoio ao Utente do Ministério do Interior, na Baía de Luanda estão suspensos, temporiamente, devido às chuvas que se registaram, na capital, neste fim-de-semana.",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/674762/chuvas-interrompem-atendimento-no-centro-de-tratamento-de-passaporte-na-ba%C3%ADa",
-      "source": "Jornal de Angola",
-      "_key": "1bdbd18c3ecb504f",
-      "score": 7,
-      "title_cn": "罗安达湾护照办理中心因降雨暂停服务"
+      "title": "Projecto de água do Bita prevê 170 mil ligações domiciliárias em Luanda",
+      "url": "https://correiokianda.info/projecto-de-agua-do-bita-preve-170-mil-ligacoes-domiciliarias-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "e9705e30d0ebe675",
+      "score": 6,
+      "title_cn": "Bita水项目预计在罗安达实现17万户家庭供水连接"
     },
     {
-      "title": "Angola to introduce malaria vaccine this year",
-      "url": "https://www.angop.ao/en/noticias/saude/angola-introduz-vacina-contra-malaria-este-ano/",
-      "source": "ANGOP",
-      "_key": "1f041370220e27c8",
-      "score": 6,
-      "title_cn": "安哥拉今年将推出疟疾疫苗"
+      "title": "Vandalismo na Matala ameaça suspender comboio expresso do CFM",
+      "url": "https://correiokianda.info/vandalismo-na-matala-ameaca-suspender-comboio-expresso-do-cfm/",
+      "source": "Correio Kianda",
+      "_key": "404f1da27753e714",
+      "score": 5,
+      "title_cn": "马塔拉破坏行为威胁暂停CFM特快列车服务"
+    },
+    {
+      "title": "Política Angola e Portugal reforçam laços de amizade ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674763/angola-e-portugal-refor%C3%A7am-la%C3%A7os-de-amizade",
+      "source": "Jornal de Angola",
+      "_key": "64726f97d6ce07cf",
+      "score": 5,
+      "title_cn": "安哥拉与葡萄牙加强友谊纽带"
     }
   ]
 }
