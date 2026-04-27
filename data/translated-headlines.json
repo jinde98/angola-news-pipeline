@@ -1,80 +1,96 @@
 {
   "date": "2026-04-27",
-  "total_new": 44,
-  "total_filtered": 9,
-  "scored_by": "gemini-flash",
+  "total_new": 41,
+  "total_filtered": 11,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Adenda a contrato de 250 milhões USD para o novo aeroporto...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/adenda-a-contrato-de-250-milhoes-usd-para-o-novo-aeroporto-internacional-de-cabinda-vale-367-milhoes-usd-71422.html",
-      "source": "Novo Jornal",
-      "_key": "92a7e9faa7919513",
-      "score": 9,
-      "title_cn": "新机场2.5亿美元合同增补"
-    },
-    {
-      "title": "Train heads to new aiport area with 17 passengers",
-      "url": "https://www.angop.ao/en/noticias/economia/comboio-de-passageiros-segue-para-aiaan/",
+      "title": "IGT in Bié reiterates importance of implementing the Occupational Qualifier",
+      "url": "https://www.angop.ao/en/noticias/sociedade/igt-no-bie-reitera-importancia-da-implementacao-do-qualificador-ocupacional/",
       "source": "ANGOP",
-      "_key": "5f14a018b147615a",
-      "score": 8,
-      "title_cn": "载17名乘客列车驶向新机场区域"
-    },
-    {
-      "title": "BNA concede moratórias a empresas e famílias afetadas por calamidades naturais",
-      "url": "https://jornaloguardiao.com/2026/04/27/bna-concede-moratorias-a-empresas-e-familias-afetadas-por-calamidades-naturais/",
-      "source": "Jornal O Guardião",
-      "_key": "9f16113292503372",
+      "_key": "85a42c19dd699bbc",
       "score": 7,
-      "title_cn": "安哥拉国家银行向受灾企业和家庭提供延期偿付"
+      "title_cn": "比耶省IGT重申实施职业资格认证的重要性"
     },
     {
-      "title": " BNA concede moratórias a empresas e famílias afetadas por calamidades naturais ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_65a73afdcf7c46",
-      "score": 7,
-      "title_cn": "安哥拉国家银行向受灾企业和家庭提供延期偿付"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: ATUALIZAÇÃO DOS NÚMEROS. Resseguradora Nacional está constituída com capital de 15 mil milhões kz.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=71418",
-      "source": "Novo Jornal",
-      "_key": "4ba70c8b5bec0d86",
-      "score": 7,
-      "title_cn": "国家再保险公司成立，注册资本150亿宽扎"
-    },
-    {
-      "title": "Assinado contrato para reabilitação da EN120 no troço Mbanza-Kongo–Luvo",
-      "url": "https://www.opais.ao/ultimas_hora/assinado-contrato-para-reabilitacao-da-en120-no-troco-mbanza-kongo-luvo/",
-      "source": "O País",
-      "_key": "a686db44641c98ff",
-      "score": 7,
-      "title_cn": "签署EN120公路Mbanza-Kongo–Luvo段修复合同"
-    },
-    {
-      "title": "Detido efectivo das FAA, membro de quadrilha acusada...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-efectivo-das-faa-membro-de-quadrilha-acusada-de-homicidio-e-de-assaltos-a-mao-armada-na-huila-71421.html",
-      "source": "Novo Jornal",
-      "_key": "7989df0a4568be4b",
-      "score": 6,
-      "title_cn": "安哥拉武装部队一成员因涉嫌帮派活动被捕"
-    },
-    {
-      "title": "Angola recorre a banco italiano para reforçar Defesa com 14...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-recorre-a-banco-italiano-para-reforcar-defesa-com-14-aeronaves",
-      "source": "Valor Económico",
-      "_key": "e648fe20c31b27ad",
-      "score": 6,
-      "title_cn": "安哥拉寻求意大利银行贷款以加强国防"
-    },
-    {
-      "title": "Regiões Ministro das Obras Públicas trabalha no Zaire ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/674832/ministro-das-obras-p%C3%BAblicas-trabalha-no-zaire-",
+      "title": "Destaque Presidente da República autoriza construção do novo Aeroporto de CabindaO Chefe de Estado, João Lourenço, autorizou a despesa e a celebração da adenda ao contrato de empreitada de obras públicas para a construção, fornecimento, instalação de equipamentos e apetrechamento do Novo Aeroporto Internacional de Cabinda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674841/presidente-da-rep%C3%BAblica-autoriza-constru%C3%A7%C3%A3o-do-novo-aeroporto-de-cabinda",
       "source": "Jornal de Angola",
-      "_key": "cdb2057f3611102c",
+      "_key": "f17d5643579cc328",
+      "score": 7,
+      "title_cn": "共和国总统若昂·洛伦索授权卡宾达新机场建设"
+    },
+    {
+      "title": "Destaque BNA detecta 3.192 notas falsas de 5 mil kwanzasO Banco Nacional de Angola (BNA) detectou, em 2025, um total de 3.192 notas falsas de 5 mil kwanzas, número que corresponde a cerca de 0,003% das cédulas em circulação nessa denominação.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674839/bna-detecta-3.192-notas-falsas-de-5-mil-kwanzas",
+      "source": "Jornal de Angola",
+      "_key": "3e706077ee78671d",
+      "score": 7,
+      "title_cn": "安哥拉国家银行2025年查获3192张5000宽扎假钞"
+    },
+    {
+      "title": "Angola gastou 817 milhões de dólares em importação de combustíveis no primeiro trimestre de 2026",
+      "url": "https://holdonangola.com/angola-gastou-817-milhoes-de-dolares-em-importacao-de-combustiveis-no-primeiro-trimestre-de-2026/",
+      "source": "Hold On Angola",
+      "_key": "30873b55716c83ef",
+      "score": 6,
+      "title_cn": "安哥拉2026年Q1燃料进口花费8.17亿美元"
+    },
+    {
+      "title": "EPAL anuncia interrupção no fornecimento de água em algumas zonas de Luanda",
+      "url": "https://correiokianda.info/epal-anuncia-interrupcao-no-fornecimento-de-agua-em-algumas-zonas-de-luanda/",
+      "source": "Correio Kianda",
+      "_key": "9f82c48754a3cdca",
       "score": 5,
-      "title_cn": "公共工程部长在扎伊尔省开展工作"
+      "title_cn": "罗安达水务公司宣布部分区域停水"
+    },
+    {
+      "title": "Ministério da Justiça demite seis funcionários por fraude e corrupção",
+      "url": "https://holdonangola.com/ministerio-da-justica-demite-seis-funcionarios-por-fraude-e-corrupcao/",
+      "source": "Hold On Angola",
+      "_key": "5696b971cbda053e",
+      "score": 5,
+      "title_cn": "司法部因欺诈和腐败解雇六名员工"
+    },
+    {
+      "title": "Novo Código vai permitir que órgãos do Estado se acusem...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/novo-codigo-vai-permitir-que-orgaos-do-estado-se-acusem-entre-si-em-tribunal-71426.html",
+      "source": "Novo Jornal",
+      "_key": "3be65631bc961c29",
+      "score": 5,
+      "title_cn": "新法典将允许国家机构自我指控..."
+    },
+    {
+      "title": "Detidos três cidadãos por promoção do garimpo ilegal de ouro no Huambo",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-tres-cidadaos-por-promocao-do-garimpo-ilegal-de-ouro-no-huambo/",
+      "source": "O País",
+      "_key": "1637c13c58eca8a7",
+      "score": 5,
+      "title_cn": "三名公民因在万博省推广非法淘金被捕"
+    },
+    {
+      "title": "CFL retoma circulação de comboios entre a Estação do Bungo e o AIAAN",
+      "url": "https://www.opais.ao/ultimas_hora/cfl-retoma-circulacao-de-comboios-entre-a-estacao-do-bungo-e-o-aiaan/",
+      "source": "O País",
+      "_key": "e23e5cc2e2fd62d3",
+      "score": 5,
+      "title_cn": "CFL恢复邦戈站至安哥拉国际机场列车运行"
+    },
+    {
+      "title": "Zaire inicia construção da estrada Mbanza Kongo–Cuimba–Buela–Bamba",
+      "url": "https://www.opais.ao/ultimas_hora/zaire-inicia-construcao-da-estrada-mbanza-kongo-cuimba-buela-bamba/",
+      "source": "O País",
+      "_key": "869ea03b017e17ff",
+      "score": 5,
+      "title_cn": "扎伊尔省启动恩东戈至Bamba公路建设"
+    },
+    {
+      "title": "Directora da UIF garante que Angola progride no crime financeiro,...",
+      "url": "https://valoreconomico.co.ao/artigo/directora-da-uif-garante-que-angola-progride-no-crime-financeiro-mas-que-supervisao-ainda-falha",
+      "source": "Valor Económico",
+      "_key": "a07cc524640837c6",
+      "score": 5,
+      "title_cn": "金融情报局局长保证安哥拉在金融犯罪方面取得进展..."
     }
   ]
 }
