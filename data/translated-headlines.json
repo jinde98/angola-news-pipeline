@@ -1,32 +1,312 @@
 {
-  "date": "2026-04-26",
-  "total_new": 13,
-  "total_filtered": 3,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-27",
+  "total_new": 88,
+  "total_filtered": 38,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Projecto de água do Bita prevê 170 mil ligações domiciliárias em Luanda",
-      "url": "https://correiokianda.info/projecto-de-agua-do-bita-preve-170-mil-ligacoes-domiciliarias-em-luanda/",
-      "source": "Correio Kianda",
-      "_key": "e9705e30d0ebe675",
-      "score": 6,
-      "title_cn": "Bita水项目预计在罗安达实现17万户家庭供水连接"
+      "title": "Banco Nacional de Angola emprestou 830 milhões USD ao Governo no I trimestre",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_99f4ea688e0e7e",
+      "score": 9,
+      "title_cn": "安哥拉国家银行第一季度向政府贷款8.3亿美元"
     },
     {
-      "title": "Vandalismo na Matala ameaça suspender comboio expresso do CFM",
-      "url": "https://correiokianda.info/vandalismo-na-matala-ameaca-suspender-comboio-expresso-do-cfm/",
-      "source": "Correio Kianda",
-      "_key": "404f1da27753e714",
-      "score": 5,
-      "title_cn": "马塔拉破坏行为威胁暂停CFM特快列车服务"
+      "title": "Banco Nacional de Angola emprestou 830 milhões USD ao Governo no I trimestreEm apenas três meses, o banco central já emprestou o equivalente a metade do valor total que concedeu em finacniamentos ao Governo em todo o ano de 2025. Reservas Internacionais caíram 480 milhões no I trimestre.",
+      "url": "https://expansao.co.ao/angola/detalhe/banco-nacional-de-angola-emprestou-830-milhoes-usd-ao-governo-no-i-trimestre-71403.html",
+      "source": "Expansão",
+      "_key": "2cf850802a40f6aa",
+      "score": 9,
+      "title_cn": "安哥拉国家银行第一季度向政府贷款8.3亿美元"
     },
     {
-      "title": "Política Angola e Portugal reforçam laços de amizade ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674763/angola-e-portugal-refor%C3%A7am-la%C3%A7os-de-amizade",
+      "title": "Preço do Jet A1 dispara 102% entre Março e Abril",
+      "url": "https://expansao.co.ao/economia/detalhe/preco-do-jet-a1-dispara-102-entre-marco-e-abril-71405.html",
+      "source": "Expansão",
+      "_key": "a0ff317746d365f5",
+      "score": 9,
+      "title_cn": "航空燃油A1价格3月至4月间飙升102%"
+    },
+    {
+      "title": "Teramed distinguida com prêmio Forbes de Responsabilidade Social",
+      "url": "https://www.opais.ao/ultimas_hora/teramed-distinguida-com-premio-forbes-de-responsabilidade-social/",
+      "source": "O País",
+      "_key": "3a0877ff20124461",
+      "score": 9,
+      "title_cn": "特拉梅德（Teramed）荣获福布斯社会责任奖"
+    },
+    {
+      "title": "Presidente da República reforça poderes da ANPG para melhor atender aos desafios actuais do sector",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-reforca-poderes-da-anpg-para-melhor-atender-aos-desafios-actuais-do-sector/",
+      "source": "O País",
+      "_key": "c77b6fa893c6b156",
+      "score": 9,
+      "title_cn": "总统加强国家石油天然气局（ANPG）权力以应对行业挑战"
+    },
+    {
+      "title": "Falhas no acesso ao SEPE agravam atrasos nas importações de matéria-prima",
+      "url": "https://expansao.co.ao/angola/detalhe/falhas-no-acesso-ao-sepe-agravam-atrasos-nas-importacoes-de-materia-prima-71401.html",
+      "source": "Expansão",
+      "_key": "b30905e49939f840",
+      "score": 8,
+      "title_cn": "SEPE系统访问故障加剧原材料进口延误"
+    },
+    {
+      "title": "Economia Corredor do Lobito é estratégico para impulsionar região da SADC ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674774/corredor-do-lobito-%C3%A9-estrat%C3%A9gico-para-impulsionar-regi%C3%A3o-da-sadc",
       "source": "Jornal de Angola",
-      "_key": "64726f97d6ce07cf",
+      "_key": "471af66417e2183e",
+      "score": 8,
+      "title_cn": "洛比托走廊对推动南部非洲发展共同体（SADC）地区经济具战略意义"
+    },
+    {
+      "title": "Icolo e Bengo: Centralidade do Zango 8.000 vai ter...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/icolo-e-bengo-centralidade-do-zango-8000-vai-ter-ligacao-directa-a-via-express-estado-vai-gastar-mais-de-500-milhoes-kz-na-primeira-fase-da-obra-71419.html",
+      "source": "Novo Jornal",
+      "_key": "b665dd0268dcf2d3",
+      "score": 8,
+      "title_cn": "伊科洛与本戈：赞戈8000中心区将有新发展"
+    },
+    {
+      "title": "Presidente da República autoriza despesas para a construção da Circular Rodoviária Exterior da província de Cabinda",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-autoriza-despesas-para-a-construcao-da-circular-rodoviaria-exterior-da-provincia-de-cabinda/",
+      "source": "O País",
+      "_key": "518c7e64eff9f51d",
+      "score": 8,
+      "title_cn": "总统批准卡宾达省外环公路建设开支"
+    },
+    {
+      "title": "Empresas nacionais definem 20% de participação como meta para o conteúdo local até 2027",
+      "url": "https://www.opais.ao/economia/empresas-nacionais-definem-20-de-participacao-como-meta-para-o-conteudo-local-ate-2027/",
+      "source": "O País",
+      "_key": "5769a782e5ff1ae8",
+      "score": 8,
+      "title_cn": "本国企业设定2027年本地化内容参与度达20%的目标"
+    },
+    {
+      "title": "Governo vai gastar 13,4 milhões USD para \"desenhar\"...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-vai-gastar-134-milhoes-usd-para-desenhar-identidade-da-cidade-aeroportuaria-do-icolo-e-bengo-71412.html",
+      "source": "Novo Jornal",
+      "_key": "e2ed1fddf2d9c208",
+      "score": 7,
+      "title_cn": "政府将斥资1340万美元用于“设计”项目"
+    },
+    {
+      "title": "Comboios do CFL retomaram ligação com AIAAN esta segunda-feira...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/comboios-do-cfl-retomaram-ligacao-com-aiaan-esta-segunda-feira-mas-limitada-ate-as-1800-71407.html",
+      "source": "Novo Jornal",
+      "_key": "655ff0c818376963",
+      "score": 7,
+      "title_cn": "CFL列车本周一恢复与AIAAN的连接"
+    },
+    {
+      "title": "Executivo avisa que dívidas com INSS e AGT condicionam acesso às medidas de alívio económico em Benguela",
+      "url": "https://www.opais.ao/politica/executivo-avisa-que-dividas-com-inss-e-agt-condicionam-acesso-as-medidas-de-alivio-economico-em-benguela/",
+      "source": "O País",
+      "_key": "a4493bf05e3dc7bb",
+      "score": 7,
+      "title_cn": "政府警告：拖欠社保和税务债务将限制本戈拉经济纾困"
+    },
+    {
+      "title": "SPCB bulletin reports 26 deaths over last 72-hours",
+      "url": "https://www.angop.ao/en/noticias/sociedade/bombeiros-registam-26-mortes-no-fim-de-semana-em-angola/",
+      "source": "ANGOP",
+      "_key": "816d80c4a3f367f4",
+      "score": 6,
+      "title_cn": "SPCB公报：过去72小时内26人死亡"
+    },
+    {
+      "title": "Heavy rainfall kills 14 and injuries 10 people in Benguela province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/chuva-provova-estragos-e-enluta-familias-em-benguela/",
+      "source": "ANGOP",
+      "_key": "5588ebee4ac10674",
+      "score": 6,
+      "title_cn": "本戈拉省强降雨致14死10伤"
+    },
+    {
+      "title": "Empresas afectadas pelas cheias devem provar prejuízos e ter contas em dia para receber crédito",
+      "url": "https://correiokianda.info/empresas-afectadas-pelas-cheias-devem-provar-prejuizos-e-ter-contas-em-dia-para-receber-credito/",
+      "source": "Correio Kianda",
+      "_key": "08e5fa7b503c862f",
+      "score": 6,
+      "title_cn": "受洪灾企业须证明损失且账目清晰方可获信贷"
+    },
+    {
+      "title": "Falhas constantes de energia revoltam moradores em Menongue ",
+      "url": "https://correiokianda.info/falhas-constantes-de-energia-revoltam-moradores-em-menongue/",
+      "source": "Correio Kianda",
+      "_key": "5e0e45ea0a6e32eb",
+      "score": 6,
+      "title_cn": "梅农盖持续停电激怒当地居民"
+    },
+    {
+      "title": "Após sucessivas queixas, Governo avança com asfaltagem na via Muxima Moxi–Zango 8 mil",
+      "url": "https://correiokianda.info/apos-sucessivas-queixas-governo-avanca-com-asfaltagem-na-via-muxima-moxi-zango-8-mil/",
+      "source": "Correio Kianda",
+      "_key": "e212347bab1910da",
+      "score": 6,
+      "title_cn": "多次投诉后，政府推进穆希马-莫希–赞戈8000公路沥青铺设"
+    },
+    {
+      "title": "Apenas 1,8% dos trabalhadores domésticos estão inscritos no INSS",
+      "url": "https://expansao.co.ao/angola/detalhe/apenas-18-dos-trabalhadores-domesticos-estao-inscritos-no-inss-71408.html",
+      "source": "Expansão",
+      "_key": "cb1b01aa3466f1d4",
+      "score": 6,
+      "title_cn": "仅1.8%家政工人注册国家社会保障局（INSS）"
+    },
+    {
+      "title": "Números do INSS crescem mas não acompanham a realidade do INE",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e27151a2a27719",
+      "score": 6,
+      "title_cn": "国家社会保障局数据增长但与国家统计局（INE）现实不符"
+    },
+    {
+      "title": "Mbanza Congo inaugura primeira centralidade com 200 apartamentos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_794b94c5c4e832",
+      "score": 6,
+      "title_cn": "姆班扎刚果启用首个含200套公寓的中心区"
+    },
+    {
+      "title": "CFL retomou circulação de comboios para o Novo Aeroporto esta segunda-feira",
+      "url": "https://expansao.co.ao/empresas/detalhe/cfl-retomou-circulacao-de-comboios-para-o-novo-aeroporto-esta-segunda-feira-71415.html",
+      "source": "Expansão",
+      "_key": "bb6adfe6af827cca",
+      "score": 6,
+      "title_cn": "CFL列车本周一恢复新机场线路运行"
+    },
+    {
+      "title": "PGR inicia processo-crime contra presidente do BPC Luzolo de Carvalho",
+      "url": "https://holdonangola.com/pgr-inicia-processo-crime-contra-presidente-do-bpc-luzolo-de-carvalho/",
+      "source": "Hold On Angola",
+      "_key": "d73615cd20fbd6f6",
+      "score": 6,
+      "title_cn": "总检察院（PGR）对BPC银行行长卢佐洛·德·卡瓦略（Luzolo de Carvalho）启动刑事诉讼"
+    },
+    {
+      "title": "Registados progressos no combate ao branqueamento de capitaisA directora-geral da Unidade de Informação Financeira (UIF), Fausta Raul Muzumbi, afirmou, domingo, em Swakopmund, que Angola tem registado progressos no cumprimento das recomendações internacionais no domínio da prevenção e combate ao branqueamento de capitais e financiamento do terrorismo, no âmbito dos compromissos assumidos em Outubro de 2024.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674789/registados-progressos-no-combate--ao-branqueamento-de-capitais",
+      "source": "Jornal de Angola",
+      "_key": "a2b6d1184aedf716",
+      "score": 6,
+      "title_cn": "安哥拉在打击洗钱方面取得进展"
+    },
+    {
+      "title": "Angola cumpre com metas nas operações ferroviáriasO Governo de Angola está a cumprir com todas as etapas e responsabilidades assumidas na modernização e operacionalização das linhas ferroviárias do Corredor do Lobito.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674776/angola-cumpre-com-metas-nas-opera%C3%A7%C3%B5es-ferrovi%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "addc4ac91fbc0e45",
+      "score": 6,
+      "title_cn": "安哥拉铁路运营达到目标"
+    },
+    {
+      "title": "Destaque Viagens de comboio até ao Novo Aeroporto estão de volta a partir de hoje As viagens de comboio do centro da Cidade de Luanda, a partir da Estação do Bungo, até ao Aeroporto Internacional Dr. António Agostinho Neto (AIAAN), em Icolo e Bengo, estão de regresso desde hoje, segunda-feira, 27.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674790/viagens-de-comboio-at%C3%A9-ao-novo-aeroporto-est%C3%A3o-de-volta-a-partir-de-hoje-",
+      "source": "Jornal de Angola",
+      "_key": "1acb81f074478c1a",
+      "score": 6,
+      "title_cn": "罗安达市中心至新机场列车今日起恢复运行"
+    },
+    {
+      "title": "Última hora Téte António nos Emirados Árabes Unidos para reforço da cooperação bilateral ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674769/t%C3%A9te-ant%C3%B3nio-nos-emirados-%C3%A1rabes-unidos-para-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-bilateral-",
+      "source": "Jornal de Angola",
+      "_key": "a56aee625a8c9f0c",
+      "score": 6,
+      "title_cn": "特特·安东尼奥（Téte António）访问阿联酋加强双边合作"
+    },
+    {
+      "title": "Ministério dos Transportes defende formação de quadros para responder às exigências do sector marítimo",
+      "url": "https://www.opais.ao/economia/ministerio-dos-transportes-defende-formacao-de-quadros-para-responder-as-exigencias-do-sector-maritimo/",
+      "source": "O País",
+      "_key": "1ca3d502cdbfc144",
+      "score": 6,
+      "title_cn": "交通部主张培养人才以应对海事部门需求"
+    },
+    {
+      "title": "Teté António trabalha nos Emirados Árabes Unidos para o reforço da cooperação bilateral",
+      "url": "https://www.opais.ao/politica/tete-antonio-trabalha-nos-emirados-arabes-unidos-para-o-reforco-da-cooperacao-bilateral/",
+      "source": "O País",
+      "_key": "3e3e840451853cd8",
+      "score": 6,
+      "title_cn": "特特·安东尼奥（Teté António）在阿联酋加强双边合作"
+    },
+    {
+      "title": "Empresas distinguidas por boas práticas de responsabilidade social",
+      "url": "https://www.opais.ao/sociedade/empresas-distinguidas-por-boas-praticas-de-responsabilidade-social/",
+      "source": "O País",
+      "_key": "57fab0a37b946a0c",
+      "score": 6,
+      "title_cn": "企业因良好社会责任实践获表彰"
+    },
+    {
+      "title": "Economia / Há 2 horas Contabilistas abordam sobre fecho de contas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674775/contabilistas-abordam-sobre-fecho-de-contas",
+      "source": "Jornal de Angola",
+      "_key": "f9d58a73e717852c",
       "score": 5,
-      "title_cn": "安哥拉与葡萄牙加强友谊纽带"
+      "title_cn": "会计师讨论结账事宜"
+    },
+    {
+      "title": "Economia / Há 2 horas Huambo: Aprovadas prioridades do Orçamento Cidadão ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674773/huambo:-aprovadas-prioridades-do-or%C3%A7amento-cidad%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "7c51643574aaa588",
+      "score": 5,
+      "title_cn": "万博：公民预算优先事项获批"
+    },
+    {
+      "title": "Economia / Há 2 horas Quipungo emite alvarás ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674772/quipungo-emite-alvar%C3%A1s",
+      "source": "Jornal de Angola",
+      "_key": "d1a9c064432d0dde",
+      "score": 5,
+      "title_cn": "基蓬戈颁发许可证"
+    },
+    {
+      "title": "Economia / Há 2 horas Novas técnicas no cultivo de café aumentam previsões de colheitas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674771/novas-t%C3%A9cnicas-no-cultivo-de-caf%C3%A9-aumentam-previs%C3%B5es-de-colheitas",
+      "source": "Jornal de Angola",
+      "_key": "3f749ab565f30a76",
+      "score": 5,
+      "title_cn": "咖啡种植新技术提高收成预测"
+    },
+    {
+      "title": "Economia / Há 2 horas Empresários apreciam propostas de soluções de crédito bancário ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674770/empres%C3%A1rios-apreciam-propostas-de-solu%C3%A7%C3%B5es-de-cr%C3%A9dito-banc%C3%A1rio",
+      "source": "Jornal de Angola",
+      "_key": "a9741ace6d1987f6",
+      "score": 5,
+      "title_cn": "企业家评估银行信贷解决方案提案"
+    },
+    {
+      "title": "Luanda regista redução de quase 50% dos óbitos por malária",
+      "url": "https://www.opais.ao/sociedade/luanda-regista-reducao-de-quase-50-dos-obitos-por-malaria/",
+      "source": "O País",
+      "_key": "65b6c22d464d5177",
+      "score": 5,
+      "title_cn": "罗安达疟疾死亡人数减少近50%"
+    },
+    {
+      "title": "Conferência internacional sobre desafios da justiça administrativa assinala os 47 anos da PGR",
+      "url": "https://www.opais.ao/politica/conferencia-internacional-sobre-desafios-da-justica-administrativa-assinala-os-47-anos-da-pgr/",
+      "source": "O País",
+      "_key": "b312d3b832b25a66",
+      "score": 5,
+      "title_cn": "国际会议探讨行政司法挑战，纪念总检察院成立47周年"
+    },
+    {
+      "title": "Detidos mais de 100 cidadãos implicados em diversos crimes no último fim-de-semana",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-mais-de-100-cidadaos-implicados-em-diversos-crimes-no-ultimo-fim-de-semana/",
+      "source": "O País",
+      "_key": "5a5b2800e5ea5361",
+      "score": 5,
+      "title_cn": "上周末100多名涉嫌多项罪行的公民被捕"
     }
   ]
 }
