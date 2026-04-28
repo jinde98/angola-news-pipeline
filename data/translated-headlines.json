@@ -1,128 +1,240 @@
 {
   "date": "2026-04-28",
-  "total_new": 43,
-  "total_filtered": 15,
+  "total_new": 54,
+  "total_filtered": 29,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Preço dos combustíveis força Turkish Airlines a suspender rota de...",
-      "url": "https://valoreconomico.co.ao/artigo/preco-dos-combustiveis-forca-turkish-airlines-a-suspender-rota-de-angola",
-      "source": "Valor Económico",
-      "_key": "7174ed7de96073fb",
+      "title": "Brent supera 111 dólares com negociações estagnadas e Ormuz bloqueado",
+      "url": "https://jornaloguardiao.com/2026/04/28/brent-supera-111-dolares-com-negociacoes-estagnadas-e-ormuz-bloqueado/",
+      "source": "Jornal O Guardião",
+      "_key": "26db0846f7a4d03e",
+      "score": 10,
+      "title_cn": "布伦特原油突破111美元，谈判停滞，霍尔木兹海峡受阻"
+    },
+    {
+      "title": " Brent supera 111 dólares com negociações estagnadas e Ormuz bloqueado ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_69d83248453d03",
+      "score": 10,
+      "title_cn": "布伦特原油突破111美元，谈判停滞，霍尔木兹海峡受阻"
+    },
+    {
+      "title": "Emirados Árabes anunciam saída da Opep e Opep+",
+      "url": "https://angola24horas.com/internacional/item/34223-emirados-arabes-anunciam-saida-da-opep-e-opep",
+      "source": "Angola 24 Horas",
+      "_key": "bd2ba22f4593267b",
       "score": 9,
-      "title_cn": "燃油价格上涨迫使土耳其航空暂停部分航线"
+      "title_cn": "阿联酋宣布退出欧佩克及欧佩克+"
     },
     {
-      "title": "Angola gasta USD 817 milhões na importação de combustíveis no primeiro trimestre em 2026",
-      "url": "https://correiokianda.info/angola-gasta-usd-817-milhoes-na-importacao-de-combustiveis-no-primeiro-trimestre-em-2026/",
-      "source": "Correio Kianda",
-      "_key": "7f7a89968cd0978e",
+      "title": "Destaque Emirados Árabes Unidos deixa OPEPOs Emirados Árabes Unidos (EAU) anunciaram, esta terça-feira, a saída como membro da Organização de Países Exportadores de Petróleo (OPEP), numa reacção à crise dos mercados provocadas pelo fecho do estreito de Ormuz pelo Irão.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674918/emirados-%C3%A1rabes-unidos-deixa-opep",
+      "source": "Jornal de Angola",
+      "_key": "b56769ada55f7aa3",
+      "score": 9,
+      "title_cn": "阿联酋宣布退出欧佩克"
+    },
+    {
+      "title": "Ministro reitera abertura a países da SADC para refinaria do Lobito",
+      "url": "https://www.opais.ao/economia/ministro-reitera-abertura-a-paises-da-sadc-para-refinaria-do-lobito/",
+      "source": "O País",
+      "_key": "c488a4a71aca23aa",
+      "score": 9,
+      "title_cn": "部长重申洛比托炼油厂对南部非洲发展共同体国家开放"
+    },
+    {
+      "title": "Lançada primeira-pedra da estrada Via Expressa-Muxima Umoxi",
+      "url": "https://www.opais.ao/sociedade/lancada-primeira-pedra-da-estrada-via-expressa-muxima-umoxi/",
+      "source": "O País",
+      "_key": "13dcee74310ae98a",
       "score": 8,
-      "title_cn": "安哥拉2026年第一季度进口燃料支出达8.17亿美元"
+      "title_cn": "Via Expressa-Muxima Umoxi公路项目奠基"
     },
     {
-      "title": "Destaque Presidente João Lourenço inaugura Data Center e Cloud do Governo de Angola O Data Center e Cloud do Governo de Angola, localizado no município do Camama, em Luanda, foi inaugurado na manhã desta terça-feira, pelo Presidente da República, João Lourenço, um empreendimento estratégico para soberania no domínio digital.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674881/presidente-jo%C3%A3o-louren%C3%A7o-inaugura-data-center-e-cloud-do-governo-de-angola-",
-      "source": "Jornal de Angola",
-      "_key": "bb7dd0ac33708830",
+      "title": "João Lourenço exonera Francisco Furtado e nomeia ministro da Defesa...",
+      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-exonera-francisco-furtado-e-nomeia-ministro-da-defesa-para-o-cargo",
+      "source": "Valor Económico",
+      "_key": "d7ec10aed3202920",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命新国防部长"
+    },
+    {
+      "title": "Governo prevê economia “estável” este ano apesar de contexto internacional...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-preve-economia-estavel-este-ano-apesar-de-contexto-internacional-incerto",
+      "source": "Valor Económico",
+      "_key": "05145119b7dc6fc0",
+      "score": 8,
+      "title_cn": "尽管国际形势复杂，政府预计今年经济“稳定”"
+    },
+    {
+      "title": "PR exonera Francisco Furtado e nomeia João Ernesto dos Santos “Liberdade” ministro e chefe da Casa Militar",
+      "url": "https://angola24horas.com/component/k2/item/34220-pr-exonera-francisco-furtado-e-nomeia-joao-ernesto-dos-santos-liberdade-ministro-e-chefe-da-casa-militar",
+      "source": "Angola 24 Horas",
+      "_key": "b3c2f4d0469288a0",
       "score": 7,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）在罗安达启用安哥拉政府数据中心"
+      "title_cn": "总统解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）为军事办公室主任"
     },
     {
-      "title": "Destaque João Ernesto dos Santos nomeado ministro de Estado e Chefe da Casa Militar do Presidente da República O Chefe de Estado, João Lourenço, exonerou, hoje, Francisco Furtado, do cargo de ministro de Estado e Chefe da Casa Militar do Presidente da República, e nomeou João Ernesto dos Santos. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674915/jo%C3%A3o-ernesto-dos-santos-nomeado-ministro-de-estado-e-chefe-da-casa-militar-do-presidente-da-rep%C3%BAblica-",
-      "source": "Jornal de Angola",
-      "_key": "3a955174ec5bd139",
+      "title": "Turkish Airlines suspende voos para Angola até novembro face à subida do combustível",
+      "url": "https://angola24horas.com/sociedade/item/34221-turkish-airlines-suspende-voos-para-angola-ate-novembro-face-a-subida-do-combustivel",
+      "source": "Angola 24 Horas",
+      "_key": "578a53d3ec6916fa",
       "score": 7,
-      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）获任国务部长"
+      "title_cn": "土耳其航空因燃油价格上涨暂停飞往安哥拉航班至11月"
     },
     {
-      "title": "Turkish Airlines suspende voos para Angola até Novembro",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/turkish-airlines-suspende-voos-para-angola-ate-novembro-71448.html",
+      "title": "Francisco Furtado exonerado da Chefia da Casa Militar do Presidente da República",
+      "url": "https://correiokianda.info/francisco-furtado-exonerado-da-chefia-da-casa-militar-do-presidente-da-republica/",
+      "source": "Correio Kianda",
+      "_key": "17ef2cfa1ebe4fd5",
+      "score": 7,
+      "title_cn": "弗朗西斯科·富尔塔多（Francisco Furtado）被解除总统军事办公室主任职务"
+    },
+    {
+      "title": "João Ernesto dos Santos “Liberdade” deixa Defesa Nacional e assume Casa Militar",
+      "url": "https://diariodosnegocios.com/joao-ernesto-dos-santos-liberdade-deixa-defesa-nacional-e-assume-casa-militar/",
+      "source": "Diário dos Negócios",
+      "_key": "7692a72f0a9933f2",
+      "score": 7,
+      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）离任国防部长，接任军事办公室主任"
+    },
+    {
+      "title": " João Ernesto dos Santos “Liberdade” deixa Defesa Nacional e assume Casa Militar ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_eb8c2343693bbd",
+      "score": 7,
+      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）离任国防部长，接任军事办公室主任"
+    },
+    {
+      "title": "Turkish Airlines suspende voos para Angola até Novembro face à subida do combustível",
+      "url": "https://expansao.co.ao/empresas/detalhe/turkish-airlines-suspende-voos-para-angola-ate-novembro-face-a-subida-do-combustivel-71454.html",
+      "source": "Expansão",
+      "_key": "1b09ad006e1c4aa4",
+      "score": 7,
+      "title_cn": "土耳其航空因燃油价格上涨暂停飞往安哥拉航班至11月"
+    },
+    {
+      "title": "Furtado ‘caí’ e “Liberdade” assume Casa Militar do PR em nova mexida presidencial",
+      "url": "https://forbesafricalusofona.com/furtado-cai-e-liberdade-assume-casa-militar-do-pr-em-nova-mexida-presidencial/",
+      "source": "Forbes África",
+      "_key": "03feb777e2723831",
+      "score": 7,
+      "title_cn": "总统人事变动：富尔塔多（Furtado）离职，“自由”（Liberdade）接任总统军事办公室主任"
+    },
+    {
+      "title": "Angola investe 89 milhões USD em Data Center e reforça soberania digital",
+      "url": "https://forbesafricalusofona.com/angola-investe-89-milhoes-usd-em-data-center-e-reforca-soberania-digital/",
+      "source": "Forbes África",
+      "_key": "439f3679351124d5",
+      "score": 7,
+      "title_cn": "安哥拉投资8900万美元建设数据中心，强化数字主权"
+    },
+    {
+      "title": "Francisco Furtado exonerado do cargo de Ministro de Estado e Chefe da Casa Militar do Presidente da República",
+      "url": "https://holdonangola.com/francisco-furtado-exonerado-do-cargo-de-ministro-de-estado-e-chefe-da-casa-militar-do-presidente-da-republica/",
+      "source": "Hold On Angola",
+      "_key": "148b3b40adeec7dd",
+      "score": 7,
+      "title_cn": "弗朗西斯科·富尔塔多（Francisco Furtado）被解除国务部长兼总统军事办公室主任职务"
+    },
+    {
+      "title": "Turkish Airlines suspende voos para Angola até novembro",
+      "url": "https://jornaloguardiao.com/2026/04/28/turkish-airlines-suspende-voos-para-angola-ate-novembro/",
+      "source": "Jornal O Guardião",
+      "_key": "a4cea47948b6e00e",
+      "score": 7,
+      "title_cn": "土耳其航空暂停飞往安哥拉航班至11月"
+    },
+    {
+      "title": "Governo angolano inaugura primeiro Data Center e Cloud Nacional",
+      "url": "https://jornaloguardiao.com/2026/04/28/governo-angolano-inaugura-primeiro-data-center-e-cloud-nacional/",
+      "source": "Jornal O Guardião",
+      "_key": "f5b24d2ae85ce105",
+      "score": 7,
+      "title_cn": "安哥拉政府启用首个国家数据中心和云平台"
+    },
+    {
+      "title": " Turkish Airlines suspende voos para Angola até novembro ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_1fadc034c71f05",
+      "score": 7,
+      "title_cn": "土耳其航空暂停飞往安哥拉航班至11月"
+    },
+    {
+      "title": " Governo angolano inaugura primeiro Data Center e Cloud Nacional ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_72610d653a738d",
+      "score": 7,
+      "title_cn": "安哥拉政府启用首个国家数据中心和云平台"
+    },
+    {
+      "title": "PR exonera Francisco Furtado e nomeia João Ernesto...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-exonera-francisco-furtado-e-nomeia-joao-ernesto-dos-santos-liberdade-para-o-cargo-de-ministro-de-estado-e-chefe-da-casa-militar--71451.html",
       "source": "Novo Jornal",
-      "_key": "82b773d0e2fc1287",
+      "_key": "8dd72b359c002ce4",
       "score": 7,
-      "title_cn": "土耳其航空暂停飞往安哥拉的航班至11月"
+      "title_cn": "总统解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命若昂·埃内斯托（João Ernesto）"
     },
     {
-      "title": "Mário Oliveira destaca benefícios do novo Centro de Dados para a economia e segurança digital",
-      "url": "https://www.opais.ao/politica/mario-oliveira-destaca-beneficios-do-novo-centro-de-dados-para-a-economia-e-seguranca-digital/",
+      "title": "João Ernesto dos Santos “Liberdade” nomeado novo ministro de Estado e Chefe da Casa Militar do Presidente da República",
+      "url": "https://www.opais.ao/politica/joao-ernesto-dos-santos-liberdade-nomeado-novo-ministro-de-estado-e-chefe-da-casa-militar-do-presidente-da-republica/",
       "source": "O País",
-      "_key": "ce6802eb5a2367d2",
+      "_key": "ec74fe0bb9eb594d",
       "score": 7,
-      "title_cn": "马里奥·奥利维拉（Mário Oliveira）强调新数据中心对数字经济和安全的重要性"
+      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）被任命为新任国务部长兼总统军事办公室主任"
     },
     {
-      "title": "Angola Govt Data Center represents digital sovereignty – minister",
-      "url": "https://www.angop.ao/en/noticias/tecnologia/centro-de-dados-do-governo-representa-afirmacao-da-soberania-digital-de-angola-ministro/",
+      "title": "New Data Center to improve response to cybercrime in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/data-center-do-governo-melhora-resposta-ao-cibercrime/",
       "source": "ANGOP",
-      "_key": "aaec6308557e797d",
+      "_key": "7b0afa453fb9c7b6",
       "score": 6,
-      "title_cn": "部长称安哥拉政府数据中心代表国家数字主权"
+      "title_cn": "新数据中心将提升安哥拉应对网络犯罪能力"
     },
     {
-      "title": "Head of State inaugurates new governmental Data Center",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/",
+      "title": "CFL retomou circulação de comboios para o Novo Aeroporto esta segunda-feira",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_69d59be7ff0de4",
+      "score": 6,
+      "title_cn": "CFL铁路公司周一恢复新机场列车运行"
+    },
+    {
+      "title": "TCUL reforçada com 80 autocarros e entregue oficialmente...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/tcul-reforcada-com-80-autocarros-e-entregue-oficialmente-ao-gpl-av-deolinda-rodrigues-sera-a-via-com-maior-numero-de-autocarros-em-circulacao-na-capital-71453.html",
+      "source": "Novo Jornal",
+      "_key": "794cecc0462e82a8",
+      "score": 6,
+      "title_cn": "TCUL公司获80辆新公交车，并正式交付"
+    },
+    {
+      "title": "Arranca segunda fase da construção da Centralidade de Mbanza Kongo",
+      "url": "https://www.opais.ao/ultimas_hora/arranca-segunda-fase-da-construcao-da-centralidade-de-mbanza-kongo/",
+      "source": "O País",
+      "_key": "b2f8e420a3024968",
+      "score": 6,
+      "title_cn": "姆班扎刚果（Mbanza Kongo）中心城项目二期建设启动"
+    },
+    {
+      "title": "Head of State appoints new Military Staff Chief",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-nomeia-novo-chefe-da-casa-militar/",
       "source": "ANGOP",
-      "_key": "c086c70e3c8335ca",
-      "score": 6,
-      "title_cn": "国家元首启用新的政府数据中心"
+      "_key": "a1047329719a7f6c",
+      "score": 5,
+      "title_cn": "国家元首任命新任军事办公室主任"
     },
     {
-      "title": "Ex-ministra das Pescas vai a julgamento com mais três arguidos esta quarta-feira",
-      "url": "https://correiokianda.info/ex-ministra-das-pescas-vai-a-julgamento-com-mais-tres-arguidos-esta-quarta-feira/",
-      "source": "Correio Kianda",
-      "_key": "589b155d071b161e",
-      "score": 6,
-      "title_cn": "前渔业部长与三名被告将于本周三受审"
-    },
-    {
-      "title": "“Angola já conta com 17,5 milhões de utilizadores de internet”, diz Mário Oliveira",
-      "url": "https://correiokianda.info/angola-ja-conta-com-175-milhoes-de-utilizadores-de-internet-diz-mario-oliveira/",
-      "source": "Correio Kianda",
-      "_key": "5b7413edc35cda3e",
-      "score": 6,
-      "title_cn": "马里奥·奥利维拉（Mário Oliveira）称安哥拉互联网用户达1750万"
-    },
-    {
-      "title": "Destaque Angola reduz 70% de dependência da ajuda externa no financiamento da saúdeA ministra da Saúde, Sílvia Lutucuta, revelou, esta terça-feira, no Fórum Global, em Nairobi, no Quénia, que Angola reduziu em cerca de 70% da ajuda externa entre 2021 e 2025, soube o JA Online através de um comunicado de imprensa.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674905/angola-reduz-70%25-de-depend%C3%AAncia-da-ajuda-externa-no-financiamento-da-sa%C3%BAde",
+      "title": "Sociedade Governo de Luanda assume gestão da TCUL ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674920/governo-de-luanda-assume-gest%C3%A3o-da-tcul",
       "source": "Jornal de Angola",
-      "_key": "720f643846dbafac",
-      "score": 6,
-      "title_cn": "安哥拉卫生部长称医疗资金对外援依赖减少70%"
-    },
-    {
-      "title": "Antiga ministra das Pescas começa a ser julgada amanhã",
-      "url": "https://www.opais.ao/politica/antiga-ministra-das-pescas-comeca-a-ser-julgada-amanha/",
-      "source": "O País",
-      "_key": "45a946d9bb19330c",
-      "score": 6,
-      "title_cn": "前渔业部长将于明日开始受审"
-    },
-    {
-      "title": "Inauguração",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=50166",
-      "source": "ANGOP",
-      "_key": "ea654ca52c0354b5",
+      "_key": "132c24999e1e93bf",
       "score": 5,
-      "title_cn": "落成典礼"
-    },
-    {
-      "title": "PGR diz que “concretização da justiça administrativa constitui desafio para todos”",
-      "url": "https://correiokianda.info/pgr-diz-que-concretizacao-da-justica-administrativa-constitui-desafio-para-todos/",
-      "source": "Correio Kianda",
-      "_key": "89df6350df664fa1",
-      "score": 5,
-      "title_cn": "总检察长办公室称实现行政司法是共同挑战"
-    },
-    {
-      "title": "GPL assume gestão da TCUL",
-      "url": "https://www.opais.ao/ultimas_hora/gpl-assume-gestao-da-tcul/",
-      "source": "O País",
-      "_key": "c524aef4af385c4e",
-      "score": 5,
-      "title_cn": "罗安达省政府接管TCUL公司管理权"
+      "title_cn": "罗安达政府接管TCUL公司管理权"
     }
   ]
 }
