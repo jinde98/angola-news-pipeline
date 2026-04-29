@@ -1,14 +1,119 @@
 {
   "date": "2026-04-29",
-  "total_new": 48,
-  "total_filtered": 1,
-  "scored_by": "keyword",
+  "total_new": 62,
+  "total_filtered": 16,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Petróleo: Barril de Brent dispara para valores de 2022...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-dispara-para-valores-de-2022-puxado-pela-incerteza-sobre-o-que-vai-acontecer-no-golfo-persico-71471.html",
-      "source": "Novo Jornal",
-      "_key": "97aef0d6655ab2b7",
+      "title": "US channels investments to AI to enhance Lobito Corridor’s impact",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/eua-direccionam-investimentos-em-ia-para-amplificar-impacto-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "9149814f7ef7b20c",
+      "score": 9
+    },
+    {
+      "title": "Política Josefa Sacko destaca Corredor do Lobito como factor de desenvolvimento estratégico de África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675010/josefa-sacko-destaca-corredor-do-lobito-como-factor-de-desenvolvimento-estrat%C3%A9gico-de-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "96300a6fb289af9b",
+      "score": 9
+    },
+    {
+      "title": "Produção petrolífera caí 2,2 milhões de barris e...",
+      "url": "https://valoreconomico.co.ao/artigo/producao-petrolifera-cai-2-2-milhoes-de-barris-e-vendas-crescem-10",
+      "source": "Valor Económico",
+      "_key": "10273d57006ac034",
+      "score": 9
+    },
+    {
+      "title": "Preço do petróleo Brent ultrapassa os 112,50 dólares por barril",
+      "url": "https://jornaloguardiao.com/2026/04/29/preco-do-petroleo-brent-ultrapassa-os-11250-dolares-por-barril/",
+      "source": "Jornal O Guardião",
+      "_key": "61762e3c5771eae1",
+      "score": 8
+    },
+    {
+      "title": " Preço do petróleo Brent ultrapassa os 112,50 dólares por barril ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_eec08bef0b3c39",
+      "score": 8
+    },
+    {
+      "title": "O princípio de uma só China é consenso da comunidade...",
+      "url": "https://valoreconomico.co.ao/artigo/o-principio-de-uma-so-china-e-consenso-da-comunidade-internacional",
+      "source": "Valor Económico",
+      "_key": "c4c629642894cfec",
+      "score": 8
+    },
+    {
+      "title": "ZHANG BIN",
+      "url": "https://valoreconomico.co.ao/autor/zhangbin",
+      "source": "Valor Económico",
+      "_key": "3fcdfd0d38c770fa",
+      "score": 8
+    },
+    {
+      "title": "Pedro Castro",
+      "url": "https://valoreconomico.co.ao/autor/pedro-castro",
+      "source": "Valor Económico",
+      "_key": "58595a2c3723ee18",
+      "score": 7
+    },
+    {
+      "title": "RNT-EP e REN assinam protocolo de intercâmbio com foco no despacho centralizado",
+      "url": "https://www.opais.ao/politica/rnt-ep-e-ren-assinam-protocolo-de-intercambio-com-foco-no-despacho-centralizado/",
+      "source": "O País",
+      "_key": "8a3be3ae703bd153",
+      "score": 6
+    },
+    {
+      "title": "Índice de Preços Grossista reduz, mas produtos nacionais ainda...",
+      "url": "https://valoreconomico.co.ao/artigo/indice-de-precos-grossista-reduz-mas-produtos-nacionais-ainda-sao-mais-caro",
+      "source": "Valor Económico",
+      "_key": "efd22ceacee8c43b",
+      "score": 6
+    },
+    {
+      "title": "Angola continua a construir aeroportos…e a destruir a mobilidade",
+      "url": "https://valoreconomico.co.ao/artigo/angola-continua-a-construir-aeroportos-e-a-destruir-a-mobilidade",
+      "source": "Valor Económico",
+      "_key": "97bc88b71288b4a3",
+      "score": 6
+    },
+    {
+      "title": "Proposta defende congelamento de propinas e reforma profunda no ensino...",
+      "url": "https://valoreconomico.co.ao/artigo/proposta-defende-congelamento-de-propinas-e-reforma-profunda-no-ensino-superior-em-angola",
+      "source": "Valor Económico",
+      "_key": "3bef0d2a5c53a351",
+      "score": 6
+    },
+    {
+      "title": "Identity card to become single valid identification document for Angolans",
+      "url": "https://www.angop.ao/en/noticias/politica/bi-passa-ser-documento-unico-valido-para-identificacao/",
+      "source": "ANGOP",
+      "_key": "1e0cbf18178e225b",
+      "score": 5
+    },
+    {
+      "title": "Conselho de Ministros aprova proposta de lei que torna Bilhete de Identidade obrigatório",
+      "url": "https://angola24horas.com/sociedade/item/34237-conselho-de-ministros-aprova-proposta-de-lei-que-torna-bilhete-de-identidade-obrigatorio",
+      "source": "Angola 24 Horas",
+      "_key": "8efcf05c9b269c42",
+      "score": 5
+    },
+    {
+      "title": "Fase piloto do Kwenda beneficia mil famílias vulneráveis no Uíge",
+      "url": "https://correiokianda.info/fase-piloto-do-kwenda-beneficia-mil-familias-vulneraveis-no-uige/",
+      "source": "Correio Kianda",
+      "_key": "5d71100d646ea43f",
+      "score": 5
+    },
+    {
+      "title": "INAAREES inicia avaliação externa de 137 cursos de pós-graduação em...",
+      "url": "https://valoreconomico.co.ao/artigo/inaarees-inicia-avaliacao-externa-de-137-cursos-de-pos-graduacao-em-29-instituicoes-do-ensino-superior",
+      "source": "Valor Económico",
+      "_key": "aade5962f01e6c2b",
       "score": 5
     }
   ]
