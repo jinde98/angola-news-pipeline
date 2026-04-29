@@ -1,240 +1,400 @@
 {
-  "date": "2026-04-28",
-  "total_new": 54,
-  "total_filtered": 29,
-  "scored_by": "gemini-flash",
+  "date": "2026-04-29",
+  "total_new": 110,
+  "total_filtered": 49,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Brent supera 111 dólares com negociações estagnadas e Ormuz bloqueado",
-      "url": "https://jornaloguardiao.com/2026/04/28/brent-supera-111-dolares-com-negociacoes-estagnadas-e-ormuz-bloqueado/",
-      "source": "Jornal O Guardião",
-      "_key": "26db0846f7a4d03e",
-      "score": 10,
-      "title_cn": "布伦特原油突破111美元，谈判停滞，霍尔木兹海峡受阻"
+      "title": "Sonangol already invested USD 1.5 billion in Lobito Refinery",
+      "url": "https://www.angop.ao/en/noticias/economia/sonangol-ja-investiu-1.5-mil-milhoes-de-dolares-na-refinaria-do-lobito/",
+      "source": "ANGOP",
+      "_key": "879a76bdaaf3ca19",
+      "score": 9,
+      "title_cn": "Sonangol向洛比托炼油厂投资15亿美元"
     },
     {
-      "title": " Brent supera 111 dólares com negociações estagnadas e Ormuz bloqueado ",
+      "title": "Refinaria do Lobito atinge 25% de execução física",
+      "url": "https://correiokianda.info/refinaria-do-lobito-atinge-25-de-execucao-fisica/",
+      "source": "Correio Kianda",
+      "_key": "87d230f3caeaf569",
+      "score": 9,
+      "title_cn": "洛比托炼油厂完成25%工程进度"
+    },
+    {
+      "title": "Inauguração de Data Center reforça soberania digital de Angola — Governo",
+      "url": "https://jornaloguardiao.com/2026/04/29/inauguracao-de-data-center-reforca-soberania-digital-de-angola-governo/",
+      "source": "Jornal O Guardião",
+      "_key": "b0ace0a4e621253d",
+      "score": 9,
+      "title_cn": "政府启用数据中心强化安哥拉数字主权"
+    },
+    {
+      "title": " Inauguração de Data Center reforça soberania digital de Angola — Governo ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_69d83248453d03",
-      "score": 10,
-      "title_cn": "布伦特原油突破111美元，谈判停滞，霍尔木兹海峡受阻"
-    },
-    {
-      "title": "Emirados Árabes anunciam saída da Opep e Opep+",
-      "url": "https://angola24horas.com/internacional/item/34223-emirados-arabes-anunciam-saida-da-opep-e-opep",
-      "source": "Angola 24 Horas",
-      "_key": "bd2ba22f4593267b",
+      "_key": "t_2769885cd483b1",
       "score": 9,
-      "title_cn": "阿联酋宣布退出欧佩克及欧佩克+"
+      "title_cn": "政府启用数据中心强化安哥拉数字主权"
     },
     {
-      "title": "Destaque Emirados Árabes Unidos deixa OPEPOs Emirados Árabes Unidos (EAU) anunciaram, esta terça-feira, a saída como membro da Organização de Países Exportadores de Petróleo (OPEP), numa reacção à crise dos mercados provocadas pelo fecho do estreito de Ormuz pelo Irão.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674918/emirados-%C3%A1rabes-unidos-deixa-opep",
+      "title": "Data Center do Governo garante soberania digital O Data Center e Cloud do Governo de Angola, inaugurado, terça-feira, em Luanda, pelo Presidente da República, João Lourenço, vai garantir a soberania digital e assegurar que os dados sensíveis do Estado e dos cidadãos permaneçam protegidos sob jurisdição nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674935/data-center-do-governo--garante-soberania-digital",
       "source": "Jornal de Angola",
-      "_key": "b56769ada55f7aa3",
+      "_key": "ce82bd7ee76a5c29",
       "score": 9,
+      "title_cn": "若昂·洛伦索在罗安达启用政府数据中心保障数字主权"
+    },
+    {
+      "title": "Ministro Diamantino Azevedo garante não haver “risco de paralisação” da Refinaria do Lobito",
+      "url": "https://www.opais.ao/economia/ministro-diamantino-azevedo-garante-nao-haver-risco-de-paralisacao-da-refinaria-do-lobito/",
+      "source": "O País",
+      "_key": "68786b9838f71d58",
+      "score": 9,
+      "title_cn": "阿泽维多部长保证洛比托炼油厂无停工风险"
+    },
+    {
+      "title": "Presidente da República “dá o tiro de largada” rumo ao reforço da soberania digital e protecção de dados em Angola",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-da-o-tiro-de-largada-rumo-ao-reforco-da-soberania-digital-e-proteccao-de-dados-em-angola/",
+      "source": "O País",
+      "_key": "fbd9580c77305301",
+      "score": 9,
+      "title_cn": "总统若昂·洛伦索启动数字主权与数据保护强化"
+    },
+    {
+      "title": "Soberania digital",
+      "url": "https://www.opais.ao/opiniao/soberania-digital/",
+      "source": "O País",
+      "_key": "a13038885cd3b7b2",
+      "score": 9,
+      "title_cn": "数字主权"
+    },
+    {
+      "title": "ASSEA exige 20% dos contratos de bens e serviços nos...",
+      "url": "https://valoreconomico.co.ao/artigo/assea-exige-20-dos-contratos-de-bens-e-servicos-nos-petroleos-para-empresas-angolanas",
+      "source": "Valor Económico",
+      "_key": "0224a1862692a14d",
+      "score": 9,
+      "title_cn": "ASSEA要求...合同中20%为本地产品"
+    },
+    {
+      "title": "Angolan Government challenges UN to take up \"essential role\" in the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-angolano-desafia-onu-a-assumir-papel-essencial-no-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "332e644ad986a129",
+      "score": 8,
+      "title_cn": "安哥拉政府要求联合国在洛比托走廊发挥关键作用"
+    },
+    {
+      "title": "Défice energético e custo do crédito entre os maiores entraves à indústria, aponta economista",
+      "url": "https://holdonangola.com/defice-energetico-e-custo-do-credito-entre-os-maiores-entraves-a-industria-aponta-economista/",
+      "source": "Hold On Angola",
+      "_key": "4275e960d964c04a",
+      "score": 8,
+      "title_cn": "经济学家称能源赤字和信贷成本是工业最大障碍"
+    },
+    {
+      "title": "Ministro da Energia e Águas avalia avanço das obras da Barragem de Hita Hita no Cunene",
+      "url": "https://www.opais.ao/sociedade/ministro-da-energia-e-aguas-avalia-avanco-das-obras-da-barragem-de-hita-hita-no-cunene/",
+      "source": "O País",
+      "_key": "e05f2d209945807a",
+      "score": 8,
+      "title_cn": "能源与水务部长视察库内内省希塔希塔大坝进展"
+    },
+    {
+      "title": "Botswana minister checks works at Lobito Refinery",
+      "url": "https://www.angop.ao/en/noticias/economia/ministra-tswanesa-dos-recursos-minerais-constata-obras-da-refinaria-do-lobito/",
+      "source": "ANGOP",
+      "_key": "91f536e65172e87a",
+      "score": 7,
+      "title_cn": "博茨瓦纳部长视察洛比托炼油厂工程"
+    },
+    {
+      "title": "Angola inaugura Data Center governamental com investimento de 89 milhões USD",
+      "url": "https://diariodosnegocios.com/angola-inaugura-data-center-governamental-com-investimento-de-89-milhoes-usd/",
+      "source": "Diário dos Negócios",
+      "_key": "69a68a397f0b47c1",
+      "score": 7,
+      "title_cn": "安哥拉启用投资8900万美元的政府数据中心"
+    },
+    {
+      "title": " Angola inaugura Data Center governamental com investimento de 89 milhões USD ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7e80bd6ac908ae",
+      "score": 7,
+      "title_cn": "安哥拉启用投资8900万美元的政府数据中心"
+    },
+    {
+      "title": "Mais de 316 milhões USD a comprar frango,...",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-316-milhoes-usd-a-comprar-frango-medicamentos-trigo-e-arroz-como-materia-prima",
+      "source": "Valor Económico",
+      "_key": "6977f8db80640439",
+      "score": 7,
+      "title_cn": "超过3.16亿美元用于购买鸡肉"
+    },
+    {
+      "title": "“O Governo abre as portas aos investidores, mas depois há dificuldades com...",
+      "url": "https://valoreconomico.co.ao/artigo/o-governo-abre-as-portas-aos-investidores-mas-depois-ha-dificuldades-com-licencas-vistos-e-outros-documentos-e-muito-dificil",
+      "source": "Valor Económico",
+      "_key": "723e1911b53e19a0",
+      "score": 7,
+      "title_cn": "政府向投资者敞开大门但随后遇到困难"
+    },
+    {
+      "title": "Data Center expected to boost modernization of Angolan economy",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/infra-estrutura-tecnologica-impulsiona-modernizacao-da-economia-angolana/",
+      "source": "ANGOP",
+      "_key": "d28c5a4180309445",
+      "score": 6,
+      "title_cn": "数据中心有望推动安哥拉经济现代化"
+    },
+    {
+      "title": "National Police arrest two foreigners for alleged illegal diamond possession",
+      "url": "https://www.angop.ao/en/noticias/sociedade/cidadaos-estrangeiros-detidos-em-posse-de-258-supostas-pedras-de-diamante/",
+      "source": "ANGOP",
+      "_key": "68672269620675c1",
+      "score": 6,
+      "title_cn": "国家警察逮捕两名涉嫌非法持有钻石的外国人"
+    },
+    {
+      "title": "Emirados Árabes Unidos anunciam saída da OPEP",
+      "url": "https://correiokianda.info/emirados-arabes-unidos-anunciam-saida-da-opep/",
+      "source": "Correio Kianda",
+      "_key": "b06cc325f6ff4ae0",
+      "score": 6,
       "title_cn": "阿联酋宣布退出欧佩克"
     },
     {
-      "title": "Ministro reitera abertura a países da SADC para refinaria do Lobito",
-      "url": "https://www.opais.ao/economia/ministro-reitera-abertura-a-paises-da-sadc-para-refinaria-do-lobito/",
-      "source": "O País",
-      "_key": "c488a4a71aca23aa",
-      "score": 9,
-      "title_cn": "部长重申洛比托炼油厂对南部非洲发展共同体国家开放"
-    },
-    {
-      "title": "Lançada primeira-pedra da estrada Via Expressa-Muxima Umoxi",
-      "url": "https://www.opais.ao/sociedade/lancada-primeira-pedra-da-estrada-via-expressa-muxima-umoxi/",
-      "source": "O País",
-      "_key": "13dcee74310ae98a",
-      "score": 8,
-      "title_cn": "Via Expressa-Muxima Umoxi公路项目奠基"
-    },
-    {
-      "title": "João Lourenço exonera Francisco Furtado e nomeia ministro da Defesa...",
-      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-exonera-francisco-furtado-e-nomeia-ministro-da-defesa-para-o-cargo",
-      "source": "Valor Económico",
-      "_key": "d7ec10aed3202920",
-      "score": 8,
-      "title_cn": "若昂·洛伦索（João Lourenço）解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命新国防部长"
-    },
-    {
-      "title": "Governo prevê economia “estável” este ano apesar de contexto internacional...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-preve-economia-estavel-este-ano-apesar-de-contexto-internacional-incerto",
-      "source": "Valor Económico",
-      "_key": "05145119b7dc6fc0",
-      "score": 8,
-      "title_cn": "尽管国际形势复杂，政府预计今年经济“稳定”"
-    },
-    {
-      "title": "PR exonera Francisco Furtado e nomeia João Ernesto dos Santos “Liberdade” ministro e chefe da Casa Militar",
-      "url": "https://angola24horas.com/component/k2/item/34220-pr-exonera-francisco-furtado-e-nomeia-joao-ernesto-dos-santos-liberdade-ministro-e-chefe-da-casa-militar",
-      "source": "Angola 24 Horas",
-      "_key": "b3c2f4d0469288a0",
-      "score": 7,
-      "title_cn": "总统解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）为军事办公室主任"
-    },
-    {
-      "title": "Turkish Airlines suspende voos para Angola até novembro face à subida do combustível",
-      "url": "https://angola24horas.com/sociedade/item/34221-turkish-airlines-suspende-voos-para-angola-ate-novembro-face-a-subida-do-combustivel",
-      "source": "Angola 24 Horas",
-      "_key": "578a53d3ec6916fa",
-      "score": 7,
-      "title_cn": "土耳其航空因燃油价格上涨暂停飞往安哥拉航班至11月"
-    },
-    {
-      "title": "Francisco Furtado exonerado da Chefia da Casa Militar do Presidente da República",
-      "url": "https://correiokianda.info/francisco-furtado-exonerado-da-chefia-da-casa-militar-do-presidente-da-republica/",
-      "source": "Correio Kianda",
-      "_key": "17ef2cfa1ebe4fd5",
-      "score": 7,
-      "title_cn": "弗朗西斯科·富尔塔多（Francisco Furtado）被解除总统军事办公室主任职务"
-    },
-    {
-      "title": "João Ernesto dos Santos “Liberdade” deixa Defesa Nacional e assume Casa Militar",
-      "url": "https://diariodosnegocios.com/joao-ernesto-dos-santos-liberdade-deixa-defesa-nacional-e-assume-casa-militar/",
-      "source": "Diário dos Negócios",
-      "_key": "7692a72f0a9933f2",
-      "score": 7,
-      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）离任国防部长，接任军事办公室主任"
-    },
-    {
-      "title": " João Ernesto dos Santos “Liberdade” deixa Defesa Nacional e assume Casa Militar ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_eb8c2343693bbd",
-      "score": 7,
-      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）离任国防部长，接任军事办公室主任"
+      "title": "Moto-táxis crescem sem controlo e expõem falhas na fiscalização em Luanda",
+      "url": "https://expansao.co.ao/angola/detalhe/moto-taxis-crescem-sem-controlo-e-expoem-falhas-na-fiscalizacao-em-luanda-71456.html",
+      "source": "Expansão",
+      "_key": "5955546646020083",
+      "score": 6,
+      "title_cn": "罗安达摩托车出租车失控增长暴露监管漏洞"
     },
     {
       "title": "Turkish Airlines suspende voos para Angola até Novembro face à subida do combustível",
-      "url": "https://expansao.co.ao/empresas/detalhe/turkish-airlines-suspende-voos-para-angola-ate-novembro-face-a-subida-do-combustivel-71454.html",
-      "source": "Expansão",
-      "_key": "1b09ad006e1c4aa4",
-      "score": 7,
-      "title_cn": "土耳其航空因燃油价格上涨暂停飞往安哥拉航班至11月"
-    },
-    {
-      "title": "Furtado ‘caí’ e “Liberdade” assume Casa Militar do PR em nova mexida presidencial",
-      "url": "https://forbesafricalusofona.com/furtado-cai-e-liberdade-assume-casa-militar-do-pr-em-nova-mexida-presidencial/",
-      "source": "Forbes África",
-      "_key": "03feb777e2723831",
-      "score": 7,
-      "title_cn": "总统人事变动：富尔塔多（Furtado）离职，“自由”（Liberdade）接任总统军事办公室主任"
-    },
-    {
-      "title": "Angola investe 89 milhões USD em Data Center e reforça soberania digital",
-      "url": "https://forbesafricalusofona.com/angola-investe-89-milhoes-usd-em-data-center-e-reforca-soberania-digital/",
-      "source": "Forbes África",
-      "_key": "439f3679351124d5",
-      "score": 7,
-      "title_cn": "安哥拉投资8900万美元建设数据中心，强化数字主权"
-    },
-    {
-      "title": "Francisco Furtado exonerado do cargo de Ministro de Estado e Chefe da Casa Militar do Presidente da República",
-      "url": "https://holdonangola.com/francisco-furtado-exonerado-do-cargo-de-ministro-de-estado-e-chefe-da-casa-militar-do-presidente-da-republica/",
-      "source": "Hold On Angola",
-      "_key": "148b3b40adeec7dd",
-      "score": 7,
-      "title_cn": "弗朗西斯科·富尔塔多（Francisco Furtado）被解除国务部长兼总统军事办公室主任职务"
-    },
-    {
-      "title": "Turkish Airlines suspende voos para Angola até novembro",
-      "url": "https://jornaloguardiao.com/2026/04/28/turkish-airlines-suspende-voos-para-angola-ate-novembro/",
-      "source": "Jornal O Guardião",
-      "_key": "a4cea47948b6e00e",
-      "score": 7,
-      "title_cn": "土耳其航空暂停飞往安哥拉航班至11月"
-    },
-    {
-      "title": "Governo angolano inaugura primeiro Data Center e Cloud Nacional",
-      "url": "https://jornaloguardiao.com/2026/04/28/governo-angolano-inaugura-primeiro-data-center-e-cloud-nacional/",
-      "source": "Jornal O Guardião",
-      "_key": "f5b24d2ae85ce105",
-      "score": 7,
-      "title_cn": "安哥拉政府启用首个国家数据中心和云平台"
-    },
-    {
-      "title": " Turkish Airlines suspende voos para Angola até novembro ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_1fadc034c71f05",
-      "score": 7,
-      "title_cn": "土耳其航空暂停飞往安哥拉航班至11月"
-    },
-    {
-      "title": " Governo angolano inaugura primeiro Data Center e Cloud Nacional ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_72610d653a738d",
-      "score": 7,
-      "title_cn": "安哥拉政府启用首个国家数据中心和云平台"
-    },
-    {
-      "title": "PR exonera Francisco Furtado e nomeia João Ernesto...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-exonera-francisco-furtado-e-nomeia-joao-ernesto-dos-santos-liberdade-para-o-cargo-de-ministro-de-estado-e-chefe-da-casa-militar--71451.html",
-      "source": "Novo Jornal",
-      "_key": "8dd72b359c002ce4",
-      "score": 7,
-      "title_cn": "总统解除弗朗西斯科·富尔塔多（Francisco Furtado）职务，任命若昂·埃内斯托（João Ernesto）"
-    },
-    {
-      "title": "João Ernesto dos Santos “Liberdade” nomeado novo ministro de Estado e Chefe da Casa Militar do Presidente da República",
-      "url": "https://www.opais.ao/politica/joao-ernesto-dos-santos-liberdade-nomeado-novo-ministro-de-estado-e-chefe-da-casa-militar-do-presidente-da-republica/",
-      "source": "O País",
-      "_key": "ec74fe0bb9eb594d",
-      "score": 7,
-      "title_cn": "若昂·埃内斯托·多斯桑托斯（João Ernesto dos Santos）被任命为新任国务部长兼总统军事办公室主任"
-    },
-    {
-      "title": "New Data Center to improve response to cybercrime in Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/data-center-do-governo-melhora-resposta-ao-cibercrime/",
-      "source": "ANGOP",
-      "_key": "7b0afa453fb9c7b6",
-      "score": 6,
-      "title_cn": "新数据中心将提升安哥拉应对网络犯罪能力"
-    },
-    {
-      "title": "CFL retomou circulação de comboios para o Novo Aeroporto esta segunda-feira",
       "url": "",
       "source": "Expansão",
-      "_key": "t_69d59be7ff0de4",
+      "_key": "t_0d93cf90af6ee3",
       "score": 6,
-      "title_cn": "CFL铁路公司周一恢复新机场列车运行"
+      "title_cn": "土耳其航空因燃料涨价暂停飞安哥拉至11月"
     },
     {
-      "title": "TCUL reforçada com 80 autocarros e entregue oficialmente...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/tcul-reforcada-com-80-autocarros-e-entregue-oficialmente-ao-gpl-av-deolinda-rodrigues-sera-a-via-com-maior-numero-de-autocarros-em-circulacao-na-capital-71453.html",
-      "source": "Novo Jornal",
-      "_key": "794cecc0462e82a8",
+      "title": "PR exonera Francisco Pereira Furtado",
+      "url": "https://jornaloguardiao.com/2026/04/28/pr-exonera-francisco-pereira-furtado/",
+      "source": "Jornal O Guardião",
+      "_key": "46463071d4b5d3d5",
       "score": 6,
-      "title_cn": "TCUL公司获80辆新公交车，并正式交付"
+      "title_cn": "总统免去弗朗西斯科·佩雷拉·福尔塔多职务"
     },
     {
-      "title": "Arranca segunda fase da construção da Centralidade de Mbanza Kongo",
-      "url": "https://www.opais.ao/ultimas_hora/arranca-segunda-fase-da-construcao-da-centralidade-de-mbanza-kongo/",
-      "source": "O País",
-      "_key": "b2f8e420a3024968",
+      "title": "Crédito bancário em Angola cresce 16,4% em março para 9 biliões de kwanzas",
+      "url": "https://jornaloguardiao.com/2026/04/29/credito-bancario-em-angola-cresce-164-em-marco-para-9-bilioes-de-kwanzas/",
+      "source": "Jornal O Guardião",
+      "_key": "f4495f4d8fd4a6d9",
       "score": 6,
-      "title_cn": "姆班扎刚果（Mbanza Kongo）中心城项目二期建设启动"
+      "title_cn": "安哥拉3月银行信贷增长16.4%至900亿宽扎"
     },
     {
-      "title": "Head of State appoints new Military Staff Chief",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-nomeia-novo-chefe-da-casa-militar/",
-      "source": "ANGOP",
-      "_key": "a1047329719a7f6c",
-      "score": 5,
-      "title_cn": "国家元首任命新任军事办公室主任"
+      "title": "Emirados anunciam saída da OPEP e da OPEP+ a partir de 01 de maio",
+      "url": "https://jornaloguardiao.com/2026/04/28/emirados-anunciam-saida-da-opep-e-da-opep-a-partir-de-01-de-maio/",
+      "source": "Jornal O Guardião",
+      "_key": "1424f56528e11d64",
+      "score": 6,
+      "title_cn": "阿联酋宣布5月1日起退出欧佩克和欧佩克+"
     },
     {
-      "title": "Sociedade Governo de Luanda assume gestão da TCUL ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/674920/governo-de-luanda-assume-gest%C3%A3o-da-tcul",
+      "title": " PR exonera Francisco Pereira Furtado ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_658ecaa60a465f",
+      "score": 6,
+      "title_cn": "总统免去弗朗西斯科·佩雷拉·福尔塔多职务"
+    },
+    {
+      "title": " Crédito bancário em Angola cresce 16,4% em março para 9 biliões de kwanzas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b90887da24bc7e",
+      "score": 6,
+      "title_cn": "安哥拉3月银行信贷增长16.4%至900亿宽扎"
+    },
+    {
+      "title": " Emirados anunciam saída da OPEP e da OPEP+ a partir de 01 de maio ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_2762e97604328d",
+      "score": 6,
+      "title_cn": "阿联酋宣布5月1日起退出欧佩克和欧佩克+"
+    },
+    {
+      "title": "Destaque RNT e REN de Portugal formalizam reforçam cooperaçãoA Rede Nacional de Transporte de Electricidade de Angola (RNT-EP) e a sua congénere portuguesa, REN - Redes Energéticas Nacionais, formalizaram esta terça-feira, a assinatura de um Protocolo de Intercâmbio destinado a fortalecer a cooperação técnica e institucional entre as duas operadoras.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674933/rnt-e-ren-de-portugal-formalizam-refor%C3%A7am-coopera%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "132c24999e1e93bf",
+      "_key": "b7771cc9065c5f0e",
+      "score": 6,
+      "title_cn": "安哥拉RNT与葡萄牙REN正式加强合作"
+    },
+    {
+      "title": "Mundo China defende reforço da ONU para evitar que prevaleça \"lei da selva\" ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/674991/china-defende-refor%C3%A7o-da-onu-para-evitar-que-prevale%C3%A7a-%22lei-da-selva%22",
+      "source": "Jornal de Angola",
+      "_key": "d6bbaf779a905aa7",
+      "score": 6,
+      "title_cn": "中国主张加强联合国以避免丛林法则盛行"
+    },
+    {
+      "title": "Economia Instituto regulador assegura estabilidade no mercado ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674968/instituto-regulador-assegura-estabilidade-no-mercado",
+      "source": "Jornal de Angola",
+      "_key": "455f6570080bc007",
+      "score": 6,
+      "title_cn": "监管机构确保市场稳定"
+    },
+    {
+      "title": "Política Angola reitera compromisso com as recomendações do GAFI ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674938/angola-reitera-compromisso-com-as-recomenda%C3%A7%C3%B5es-do-gafi",
+      "source": "Jornal de Angola",
+      "_key": "3f8260c6fcff0711",
+      "score": 6,
+      "title_cn": "安哥拉重申遵守GAFI建议"
+    },
+    {
+      "title": "Política João Ernesto dos Santos é o novo ministro de Estado e Chefe da Casa Militar ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674936/jo%C3%A3o-ernesto-dos-santos-%C3%A9-o-novo-ministro-de-estado-e-chefe-da-casa-militar",
+      "source": "Jornal de Angola",
+      "_key": "13c93a49903ca43e",
+      "score": 6,
+      "title_cn": "若昂·恩里克·多斯·桑托斯任新国务部长兼军事办公厅主任"
+    },
+    {
+      "title": "Economia Concorrência desleal em Malanje prejudica venda de inertes ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/674927/concorr%C3%AAncia-desleal-em-malanje-prejudica-venda-de-inertes",
+      "source": "Jornal de Angola",
+      "_key": "b6ede56d16f374b2",
+      "score": 6,
+      "title_cn": "马兰热省不正当竞争损害建材销售"
+    },
+    {
+      "title": "Política Aprovado parecer sobre execução do Orçamento Geral do Estado ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674926/aprovado-parecer-sobre-execu%C3%A7%C3%A3o-do-or%C3%A7amento-geral-do-estado-",
+      "source": "Jornal de Angola",
+      "_key": "382fac55ca88d7e0",
+      "score": 6,
+      "title_cn": "批准关于国家总预算执行的意见"
+    },
+    {
+      "title": "10:06 / 29 abr. 2026 Executivo aposta na expansão de infra-estruturas para águas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674963/executivo-aposta-na-expans%C3%A3o-de-infra-estruturas-para-%C3%A1guas",
+      "source": "Jornal de Angola",
+      "_key": "de092b1b02fb2642",
+      "score": 6,
+      "title_cn": "2026年4月29日 政府押注水务基础设施扩张"
+    },
+    {
+      "title": "10:02 / 29 abr. 2026 Estados Unidos apoiam Angola no domínio da IA ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/674960/estados-unidos-apoiam-angola-no-dom%C3%ADnio-da-ia",
+      "source": "Jornal de Angola",
+      "_key": "12ee345cdf3a7942",
+      "score": 6,
+      "title_cn": "美国支持安哥拉发展人工智能"
+    },
+    {
+      "title": "Luanda: Detido agente da PN por alvejar mortalmente...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-detido-agente-da-pn-por-alvejar-mortalmente-dois-homens-no-kilamba-kiaxi-71467.html",
+      "source": "Novo Jornal",
+      "_key": "86b3f0539453e095",
+      "score": 6,
+      "title_cn": "罗安达: 国家警察枪杀平民被捕"
+    },
+    {
+      "title": "Antiga ministra das Pescas começa a ser julgada hoje...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/antiga-ministra-das-pescas-comeca-a-ser-julgada-hoje-por-apropriacao-indevida-de-fundos-71466.html",
+      "source": "Novo Jornal",
+      "_key": "b58de83be69b92d5",
+      "score": 6,
+      "title_cn": "前渔业部长今日受审"
+    },
+    {
+      "title": "Ex-ministro da Defesa assume chefia da Casa Militar do Presidente da República",
+      "url": "https://www.opais.ao/politica/ex-ministro-da-defesa-assume-chefia-da-casa-militar-do-presidente-da-republica/",
+      "source": "O País",
+      "_key": "e6f94818c8a2b550",
+      "score": 6,
+      "title_cn": "前国防部长接任总统军事办公厅主任"
+    },
+    {
+      "title": "Automobilistas queixam-se de falta de combustíveis nos postos de abastecimento",
+      "url": "https://www.opais.ao/economia/automobilistas-queixam-se-de-falta-de-combustiveis-nos-postos-de-abastecimento/",
+      "source": "O País",
+      "_key": "a1dbd1b71360bfd2",
+      "score": 6,
+      "title_cn": "司机抱怨加油站缺油"
+    },
+    {
+      "title": "ANAC esclarece suspensão temporária de vôos da Turkish",
+      "url": "https://www.opais.ao/economia/anac-esclarece-suspensao-temporaria-de-voos-da-turkish/",
+      "source": "O País",
+      "_key": "fe278f7c5c338278",
+      "score": 6,
+      "title_cn": "ANAC澄清土耳其航空暂时停飞原因"
+    },
+    {
+      "title": "Acusada de peculato, ex-ministra das Pescas vai hoje a julgamento no Supremo",
+      "url": "https://www.opais.ao/politica/acusada-de-peculato-ex-ministra-das-pescas-vai-hoje-a-julgamento-no-supremo/",
+      "source": "O País",
+      "_key": "6ff637a75ce06ed2",
+      "score": 6,
+      "title_cn": "前渔业部长因贪污案今日在最高法院受审"
+    },
+    {
+      "title": "Inflação na construção abranda 0,27%, mas preços ainda sobem 8,73%",
+      "url": "https://valoreconomico.co.ao/artigo/inflacao-na-construcao-abranda-0-27-mas-precos-ainda-sobem-8-73",
+      "source": "Valor Económico",
+      "_key": "698814c89fc762bf",
+      "score": 6,
+      "title_cn": "建筑业通胀放缓0.27%但价格仍涨8.73%"
+    },
+    {
+      "title": "Reposição da conduta de água em Benguela orçada em mais de 3 mil milhões de kwanzas",
+      "url": "https://correiokianda.info/reposicao-da-conduta-de-agua-em-benguela-orcada-em-mais-de-3-mil-milhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "8d690a95ebab45b5",
       "score": 5,
-      "title_cn": "罗安达政府接管TCUL公司管理权"
+      "title_cn": "本格拉输水管道修复预算超30亿宽扎"
+    },
+    {
+      "title": "O papel dos dados na tomada de decisão estratégica em Angola",
+      "url": "https://expansao.co.ao/gestao/detalhe/o-papel-dos-dados-na-tomada-de-decisao-estrategica-em-angola-71458.html",
+      "source": "Expansão",
+      "_key": "2fc029c231f7a990",
+      "score": 5,
+      "title_cn": "数据在安哥拉战略决策中的作用"
+    },
+    {
+      "title": "Africell bate Unitel e lidera desempenho de internet móvel em Angola",
+      "url": "https://expansao.co.ao/empresas/detalhe/africell-bate-unitel-e-lidera-desempenho-de-internet-movel-em-angola-71457.html",
+      "source": "Expansão",
+      "_key": "5f2320689341ecfb",
+      "score": 5,
+      "title_cn": "Africell击败Unitel领跑安哥拉移动网络"
+    },
+    {
+      "title": "Comboios retomam circulação entre Luanda e novo Aeroporto Internacional",
+      "url": "https://forbesafricalusofona.com/comboios-retomam-circulacao-entre-luanda-e-novo-aeroporto-internacional/",
+      "source": "Forbes África",
+      "_key": "9469e9ebdce803f3",
+      "score": 5,
+      "title_cn": "火车恢复罗安达至新国际机场运行"
+    },
+    {
+      "title": "Governo angolano aperta associações mutualistas com quotas anuais superiores a 20 milhões kz",
+      "url": "https://forbesafricalusofona.com/governo-angolano-aperta-associacoes-mutualistas-com-quotas-anuais-superiores-a-20-milhoes-kz/",
+      "source": "Forbes África",
+      "_key": "f0a4c0efb1631fb9",
+      "score": 5,
+      "title_cn": "安哥拉政府收紧年度配额超2000万宽扎的互助协会"
     }
   ]
 }
