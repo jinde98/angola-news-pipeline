@@ -1,56 +1,96 @@
 {
   "date": "2026-05-01",
-  "total_new": 15,
-  "total_filtered": 6,
+  "total_new": 30,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "President João Lourenço discusses bilateral cooperation with Japanese minister",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-analisa-com-ministro-japones-cooperacao-bilateral/",
-      "source": "ANGOP",
-      "_key": "5c028117a72511fe",
-      "score": 6,
-      "title_cn": "若昂·洛伦索总统 (João Lourenço) 与日本大臣讨论双边合作"
-    },
-    {
-      "title": "Última hora Ministro dos Negócios Estrangeiros japonês recebido no Palácio Presidencial ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675130/ministro-dos-neg%C3%B3cios-estrangeiros-japon%C3%AAs-recebido-no-pal%C3%A1cio-presidencial-",
+      "title": "Sociedade Ministro do Interior reafirma aposta na renovação do SME ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675131/ministro-do-interior-reafirma--aposta-na-renova%C3%A7%C3%A3o-do-sme",
       "source": "Jornal de Angola",
-      "_key": "a9e743b1fa4f1573",
-      "score": 6,
-      "title_cn": "日本外交大臣在总统府受到接见"
+      "_key": "87b47c350a6910a9",
+      "score": 9,
+      "title_cn": "内政部长重申致力于更新移民和外国人服务局（SME）。"
     },
     {
-      "title": "Governo vai criar sociedade entre a RECREDIT e o Fundo...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-vai-criar-sociedade-entre-a-recredit-e-o-fundo-soberano-para-concluir-projecto-imobiliario-na-chicala-71528.html",
-      "source": "Novo Jornal",
-      "_key": "2a7ff0ff4375a624",
-      "score": 6,
-      "title_cn": "政府将成立RECREDIT与基金的合资公司"
+      "title": "Destaque Terminal de Águas Profundas do Caio atrai empresários australianosO sector empresarial australiano mostrou-se interessado no Terminal de Águas Profundas do Caio, soube, hoje, o JA Online, através de uma nota.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675156/terminal-de-%C3%A1guas-profundas-do-caio-atrai-empres%C3%A1rios-australianos",
+      "source": "Jornal de Angola",
+      "_key": "0fecd22d81d709d9",
+      "score": 8,
+      "title_cn": "凯奥深水港码头吸引澳大利亚企业投资。"
     },
     {
-      "title": "Presidente da República destaca papel dos trabalhadores e reafirma compromisso com melhores condições",
-      "url": "https://correiokianda.info/presidente-da-republica-destaca-papel-dos-trabalhadores-e-reafirma-compromisso-com-melhores-condicoes/",
+      "title": "A negociação colectiva como pilar da estabilidade laboral nas empresas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1fff37fdaa2a14",
+      "score": 7,
+      "title_cn": "集体谈判：企业劳动稳定的支柱。"
+    },
+    {
+      "title": "A negociação colectiva como pilar da estabilidade laboral nas empresasApesar do enquadramento legal existente, nomeadamente a Lei da Negociação Colectiva (Lei n.º 20--A/92, de 14 de Agosto), a prática da negociação colectiva em Angola permanece incipiente, o que compromete tanto a protecção dos trabalhadores como a competitividade das empresas.",
+      "url": "https://expansao.co.ao/gestao/detalhe/a-negociacao-colectiva-como-pilar-da-estabilidade-laboral-nas-empresas-71538.html",
+      "source": "Expansão",
+      "_key": "f231ba7705f359b3",
+      "score": 7,
+      "title_cn": "集体谈判：企业劳动稳定的支柱。"
+    },
+    {
+      "title": "Sociedade Governo cria mais de 220 mil novos postos de trabalho ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675136/governo-cria-mais-de-220-mil-novos-postos-de-trabalho",
+      "source": "Jornal de Angola",
+      "_key": "0ca0008bd4df4752",
+      "score": 7,
+      "title_cn": "政府创造逾22万个新工作岗位。"
+    },
+    {
+      "title": "Entrevista “Não hesitei em assumir a posição de pacificar Cabinda” ",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/675122/%E2%80%9Cn%C3%A3o-hesitei-em-assumir-a-posi%C3%A7%C3%A3o-de-pacificar-cabinda%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "19013b1a6d43f071",
+      "score": 7,
+      "title_cn": "专访：“我毫不犹豫地承担了平定卡宾达的职责”。"
+    },
+    {
+      "title": "Dia do Trabalhador marcado por apelos ao ajuste salarial e à melhoria das condições laborais",
+      "url": "https://correiokianda.info/170764-2/",
       "source": "Correio Kianda",
-      "_key": "53d6aefcc1ff3947",
-      "score": 5,
-      "title_cn": "共和国总统强调工人作用，重申改善条件的承诺"
+      "_key": "fc09bb549ac08993",
+      "score": 6,
+      "title_cn": "劳动节：呼吁调整工资，改善劳动条件。"
     },
     {
-      "title": "Em ano pré-eleitoral, movimentos cívicos multiplicam-se...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/em-ano-pre-eleitoral-movimentos-civicos-multiplicam-se-rumo-ao-controlo-cerrado-do-voto-nas-eleicoes-de-2027-71519.html",
-      "source": "Novo Jornal",
-      "_key": "f45548db7d412ac2",
-      "score": 5,
-      "title_cn": "选举前一年，公民运动激增"
+      "title": "Burla à Italiana: Angola pode pagar 8,6 mil milhões de kwanzas em processo na Suíça",
+      "url": "https://diariodosnegocios.com/burla-a-italiana-angola-pode-pagar-86-mil-milhoes-de-kwanzas-em-processo-na-suica/",
+      "source": "Diário dos Negócios",
+      "_key": "a5d00efdd283d01d",
+      "score": 6,
+      "title_cn": "意式骗局：安哥拉或在瑞士诉讼中支付86亿宽扎。"
     },
     {
-      "title": "PR destaca papel dos trabalhadores e garante esforço do seu...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-destaca-papel-dos-trabalhadores-e-garante-esforco-do-seu-governo-para-melhorar-rendimentos",
-      "source": "Valor Económico",
-      "_key": "122363b9a9f5051a",
-      "score": 5,
-      "title_cn": "总统强调工人作用，并保证其努力"
+      "title": " Burla à Italiana: Angola pode pagar 8,6 mil milhões de kwanzas em processo na Suíça ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_9a0d51ea528c9d",
+      "score": 6,
+      "title_cn": "意式骗局：安哥拉或在瑞士诉讼中支付86亿宽扎。"
+    },
+    {
+      "title": "Presidente da República recebe em audiência ministro dos Negócios Estrangeiros do Japão",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-recebe-em-audiencia-ministro-dos-negocios-estrangeiros-do-japao/",
+      "source": "O País",
+      "_key": "34619630e6631e6d",
+      "score": 6,
+      "title_cn": "共和国总统接见日本外务大臣。"
+    },
+    {
+      "title": "MAPTSS destaca avanços e desafios no Dia Internacional do Trabalhador",
+      "url": "https://www.opais.ao/sociedade/maptss-destaca-avancos-e-desafios-no-dia-internacional-do-trabalhador/",
+      "source": "O País",
+      "_key": "107e47236990f316",
+      "score": 6,
+      "title_cn": "MAPTSS在国际劳动节强调进展与挑战。"
     }
   ]
 }
