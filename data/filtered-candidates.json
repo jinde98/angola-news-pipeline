@@ -1,133 +1,378 @@
 {
-  "date": "2026-04-30",
-  "total_new": 33,
-  "total_filtered": 18,
-  "scored_by": "glm-flash",
+  "date": "2026-05-01",
+  "total_new": 115,
+  "total_filtered": 53,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Police dismantle network of “illegal immigrant traffickers” in Zaire Province",
-      "url": "https://www.angop.ao/en/noticias/politica/policia-no-zaire-desactiva-suposta-rede-de-traficantes-de-imigrantes-ilegais/",
+      "title": "Refinaria do Lobito cresce, mas custo pode chegar a 6,2 mil milhões de dólares",
+      "url": "https://correiokianda.info/refinaria-do-lobito-cresce-mas-custo-pode-chegar-a-62-mil-milhoes-de-dolares/",
+      "source": "Correio Kianda",
+      "_key": "5c97d856aae50538",
+      "score": 9
+    },
+    {
+      "title": "Petróleo acumula alta de 45% desde o início da guerra no Médio Oriente",
+      "url": "https://correiokianda.info/petroleo-acumula-alta-de-45-desde-o-inicio-da-guerra-no-medio-oriente/",
+      "source": "Correio Kianda",
+      "_key": "e3fbecd8f8499b6f",
+      "score": 9
+    },
+    {
+      "title": "Minister of State highlights improvement of business environment in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-de-estado-realca-melhoria-do-ambiente-de-negocios-em-angola/",
       "source": "ANGOP",
-      "_key": "aadf7f02c167d1fe",
+      "_key": "bc18964fa01c7c47",
       "score": 8
     },
     {
-      "title": "Destaque SME celebra 50.º aniversário com foco no fluxo migratório O ministro do Interior, Manuel Homem, presidiu, esta quinta-feira, o acto central das festividades do 50.º aniversário do Serviço de Migração e Estrangeiros (SME), no Centro de Instalação Temporária, na província de Icolo e Bengo, soube o Jornal de Angola Online junto da instuição.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675092/sme-celebra-50.%C2%BA-anivers%C3%A1rio-com-foco-no-fluxo-migrat%C3%B3rio-",
+      "title": "Conflito no Médio Oriente e duplicação do Jet A1 ditam fim da rota da Turkish Airlines para Luanda",
+      "url": "https://diariodosnegocios.com/conflito-no-medio-oriente-e-duplicacao-do-jet-a1-ditam-fim-da-rota-da-turkish-airlines-para-luanda/",
+      "source": "Diário dos Negócios",
+      "_key": "d5fa7af4d70dbccc",
+      "score": 8
+    },
+    {
+      "title": " Conflito no Médio Oriente e duplicação do Jet A1 ditam fim da rota da Turkish Airlines para Luanda ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_933b8d50a15435",
+      "score": 8
+    },
+    {
+      "title": "Menos quantidade de combustível no mercado pressiona distribuição",
+      "url": "https://expansao.co.ao/economia/detalhe/menos-quantidade-de-combustivel-no-mercado-pressiona-distribuicao-71522.html",
+      "source": "Expansão",
+      "_key": "2f9b865af2abedc7",
+      "score": 8
+    },
+    {
+      "title": "Mais de metade dos projectos do PIIM concluídos no país Um total de 1.306 projectos dos 2.400 previstos desde o início da sua implementação, em Junho de 2019, foram concluídos pelo Plano Integrado de Intervenção nos Municípios (PIIM), anunciou, ontem, em Luanda, a secretária de Estado para a Administração do Território, Teresa Quivienguele.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675106/mais-de-metade-dos-projectos-do-piim-conclu%C3%ADdos-no-pa%C3%ADs",
       "source": "Jornal de Angola",
-      "_key": "2cfabf077868f989",
+      "_key": "5dde7ffb18d8dc29",
       "score": 8
     },
     {
-      "title": "Huíla está há vários dias sem combustível e gás de...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/huila-esta-ha-varios-dias-sem-combustivel-e-gas-de-cozinha-sonangol-garante-resolver-o-problema-com-reforco-nos-proximos-dias-71507.html",
+      "title": "Imposto paga-se, confiança conquista-se: A AGT e o...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/imposto-paga-se-confianca-conquista-se-a-agt-e-o-mecanismos-de-queixas-sugestoes-e-reclamacoes-71512.html",
       "source": "Novo Jornal",
-      "_key": "4710afec7d051d83",
+      "_key": "98eef079e26b3389",
       "score": 8
     },
     {
-      "title": "PONTO AO: DIGITALIZAÇÃO E PRODUTIVIDADE NAS EMPRESAS. Wi-Fi público: Conveniência ou porta aberta para o cibercrime?",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71508",
-      "source": "Novo Jornal",
-      "_key": "f80a15cc3be0052e",
-      "score": 8
-    },
-    {
-      "title": "Executivo avança com obras estruturantes de água na Huíla no âmbito do PCESSA",
-      "url": "https://www.opais.ao/ultimas_hora/executivo-avanca-com-obras-estruturantes-de-agua-na-huila-no-ambito-do-pcessa/",
+      "title": "Conflito no Médio Oriente pode comprometer produção de detergentes em Angola",
+      "url": "https://www.opais.ao/economia/conflito-no-medio-oriente-pode-comprometer-producao-de-detergentes-em-angola/",
       "source": "O País",
-      "_key": "97e352104c46ccb4",
+      "_key": "ab25f8e9d0b78cef",
       "score": 8
     },
     {
-      "title": "Conselho de Ministros aprova propostas de leis sobre identificação civil e protecção social",
-      "url": "https://jornaloguardiao.com/2026/04/30/conselho-de-ministros-aprova-propostas-de-leis-sobre-identificacao-civil-e-proteccao-social/",
-      "source": "Jornal O Guardião",
-      "_key": "6f58a96b04d3fc1a",
+      "title": "Minister praises the bravery of SME personnel in controlling migration in the country",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-enaltece-bravura-dos-efectivos-no-controlo-migratorio-das-fronteiras-do-pais/",
+      "source": "ANGOP",
+      "_key": "9a4d3419052493bc",
       "score": 7
     },
     {
-      "title": "Presidente angolano nomeia Lúcio Amaral para ministro da Defesa",
-      "url": "https://jornaloguardiao.com/2026/04/30/presidente-angolano-nomeia-lucio-amaral-para-ministro-da-defesa/",
-      "source": "Jornal O Guardião",
-      "_key": "bc11a927384002aa",
+      "title": "Ndue and Calucuve Dams to become operational in July",
+      "url": "https://www.angop.ao/en/noticias/economia/operacionalizacao-das-barragens-de-ndue-e-calucuve-marcada-para-julho/",
+      "source": "ANGOP",
+      "_key": "c53e1e72af33dbe7",
       "score": 7
     },
     {
-      "title": " Conselho de Ministros aprova propostas de leis sobre identificação civil e protecção social ",
+      "title": "Government releases over one billion USD for water in Huíla province",
+      "url": "https://www.angop.ao/en/noticias/economia/pcessa-na-huila-com-investimento-de-usd-1.612-mil-milhoes/",
+      "source": "ANGOP",
+      "_key": "fecfb24e265e4f80",
+      "score": 7
+    },
+    {
+      "title": "Migration",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6716",
+      "source": "ANGOP",
+      "_key": "1b0bc695119855aa",
+      "score": 7
+    },
+    {
+      "title": "Inauguração de Data Center reforça soberania digital de Angola – Governo",
+      "url": "https://angola24horas.com/sociedade/item/34224-inauguracao-de-data-center-reforca-soberania-digital-de-angola-governo",
+      "source": "Angola 24 Horas",
+      "_key": "71ccd701f7006f21",
+      "score": 7
+    },
+    {
+      "title": "Governo encaixa receitas de 9,36 biliões de kwanzas para OGE-2026",
+      "url": "https://correiokianda.info/governo-encaixa-receitas-de-936-bilioes-de-kwanzas-para-oge-2026/",
+      "source": "Correio Kianda",
+      "_key": "77c6772946c8daf6",
+      "score": 7
+    },
+    {
+      "title": "Incumprimento no PIIM afasta mais de 50 empresas da contratação pública",
+      "url": "https://correiokianda.info/incumprimento-no-piim-afasta-mais-de-50-empresas-da-contratacao-publica/",
+      "source": "Correio Kianda",
+      "_key": "bac2cc38060a1a7c",
+      "score": 7
+    },
+    {
+      "title": "Oito em cada 10 trabalhadores sobrevivem na informalidade",
+      "url": "https://expansao.co.ao/angola/detalhe/oito-em-cada-10-trabalhadores-sobrevivem-na-informalidade-71520.html",
+      "source": "Expansão",
+      "_key": "b3e123514efe7003",
+      "score": 7
+    },
+    {
+      "title": "Quase 1,1 milhões de famílias angolanas sofrem de fome severa",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_e639ed840ec88d",
+      "source": "Expansão",
+      "_key": "t_c578e69ed482e8",
       "score": 7
     },
     {
-      "title": " Presidente angolano nomeia Lúcio Amaral para ministro da Defesa ",
+      "title": "Dividendos e privatização do BFA empurram lucros da Unitel para 158,4 mil milhões Kz em 2025",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d0028f4345d5c6",
+      "source": "Expansão",
+      "_key": "t_d15c1320ce7bde",
       "score": 7
     },
     {
-      "title": "PIB de Macau cresce 11 mil milhões de euros no 1.º trimestre de 2026",
-      "url": "https://forbesafricalusofona.com/pib-de-macau-cresce-11-mil-milhoes-de-euros-no-1-o-trimestre-de-2026/",
+      "title": "Reservas estratégicas como pilar de soberania económica: Fundamentos globais e aplicação estruturante ao caso de Angola (I)",
+      "url": "https://forbesafricalusofona.com/reservas-estrategicas-como-pilar-de-soberania-economica-fundamentos-globais-e-aplicacao-estruturante-ao-caso-de-angola-i/",
       "source": "Forbes África",
-      "_key": "4acf78027598a14f",
+      "_key": "3d3ff9a4d184ccf4",
+      "score": 7
+    },
+    {
+      "title": "10:25 / 1 mai. 2026 Executivo anuncia receita de 9,36 biliões de kwanzas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675113/executivo-anuncia-receita-de-936-bili%C3%B5es-de-kwanzas",
+      "source": "Jornal de Angola",
+      "_key": "4b136f657041af20",
+      "score": 7
+    },
+    {
+      "title": "Mais de 50 empresas vetadas por incumprimento nas obras do PIIM",
+      "url": "https://www.opais.ao/economia/mais-de-50-empresas-vetadas-por-incumprimento-nas-obras-do-piim/",
+      "source": "O País",
+      "_key": "dbbfdb4c6c36adb1",
+      "score": 7
+    },
+    {
+      "title": "África Austral não pode ficar de fora: A nova corrida estratégica do continente",
+      "url": "https://www.opais.ao/opiniao/africa-austral-nao-pode-ficar-de-fora-a-nova-corrida-estrategica-do-continente/",
+      "source": "O País",
+      "_key": "e11696ccc9f64c8f",
+      "score": 7
+    },
+    {
+      "title": "Orçamento 2026: prioridades que tocam no seu bolso",
+      "url": "https://www.opais.ao/opiniao/orcamento-2026-prioridades-que-tocam-no-seu-bolso/",
+      "source": "O País",
+      "_key": "54dc1337de30beb9",
+      "score": 7
+    },
+    {
+      "title": "Falta de combustível no Lubango leva taxistas a encurtar rotas",
+      "url": "https://www.opais.ao/ultimas_hora/falta-de-combustivel-no-lubango-leva-taxistas-a-encurtar-rotas/",
+      "source": "O País",
+      "_key": "0f8f5eb66bdcf539",
+      "score": 7
+    },
+    {
+      "title": "AU ministers adopt emerging priorities in transport and energy",
+      "url": "https://www.angop.ao/en/noticias/economia/ministros-da-ua-aprovam-prioridades-emergentes-nos-transportes-e-energia/",
+      "source": "ANGOP",
+      "_key": "a98274e26b209d41",
       "score": 6
     },
     {
-      "title": "Destaque Consignadas obras de captação e distribuição de água potável na HuílaO ministro da Energia e Águas, João Baptista Borges, consignou, hoje, as obras de captação e distribuição de água potável, na província da Huíla. ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675088/consignadas-obras-de-capta%C3%A7%C3%A3o-e-distribui%C3%A7%C3%A3o-de-%C3%A1gua-pot%C3%A1vel-na-hu%C3%ADla",
-      "source": "Jornal de Angola",
-      "_key": "1666e660f871f029",
+      "title": "Tensão entre Irão e EUA sobe após declarações sobre cerco naval e negociações",
+      "url": "https://correiokianda.info/tensao-entre-irao-e-eua-sobe-apos-declaracoes-sobre-cerco-naval-e-negociacoes/",
+      "source": "Correio Kianda",
+      "_key": "500af4f161544a49",
       "score": 6
     },
     {
-      "title": "Angolan team performs first Robotic Cholecystectomy Op",
-      "url": "https://www.angop.ao/en/noticias/saude/equipa-angolana-realiza-primeira-colecistectomia-robotica/",
-      "source": "ANGOP",
-      "_key": "af8c668279d112c7",
-      "score": 5
+      "title": "Lei do crowdfunding na Assembleia Nacional, mas só com \"tudo ou nada\"",
+      "url": "https://expansao.co.ao/angola/detalhe/lei-do-crowdfunding-na-assembleia-nacional-mas-so-com-tudo-ou-nada-71521.html",
+      "source": "Expansão",
+      "_key": "5d366c36d63f5bdd",
+      "score": 6
     },
     {
-      "title": "Governo da Guiné Equatorial reforçar estratégia de modernização e expansão da rede nacional de telecomunicações",
-      "url": "https://forbesafricalusofona.com/governo-da-guine-equatorial-reforcar-estrategia-de-modernizacao-e-expansao-da-rede-nacional-de-telecomunicacoes/",
-      "source": "Forbes África",
-      "_key": "0c1479b0b1119ef4",
-      "score": 5
-    },
-    {
-      "title": "Cabo Verde atinge taxa de desemprego histórica no segundo semestre de 2025",
-      "url": "https://forbesafricalusofona.com/cabo-verde-atinge-taxa-de-desemprego-historica-no-segundo-semestre-de-2025/",
-      "source": "Forbes África",
-      "_key": "a3fcf520e5773266",
-      "score": 5
-    },
-    {
-      "title": "Carla Maria Domingas Cativa nomeada Governadora Provincial do Cuando",
-      "url": "https://jornaloguardiao.com/2026/04/30/carla-maria-domingas-cativa-nomeada-governadora-provincial-do-cuando/",
-      "source": "Jornal O Guardião",
-      "_key": "ea04339d87cf6d98",
-      "score": 5
-    },
-    {
-      "title": " Carla Maria Domingas Cativa nomeada Governadora Provincial do Cuando ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b5ecadeec80083",
-      "score": 5
-    },
-    {
-      "title": "Política Combate à malária deve ser prioridade nacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675089/combate-%C3%A0-mal%C3%A1ria-deve-ser-prioridade-nacional",
+      "title": "Política Intercâmbio entre os países exalta segurança marítima ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675116/interc%C3%A2mbio-entre-os-pa%C3%ADses-exalta-seguran%C3%A7a-mar%C3%ADtima",
       "source": "Jornal de Angola",
-      "_key": "1d42fd4d95ce50a8",
+      "_key": "7cfab7ecb0c74da5",
+      "score": 6
+    },
+    {
+      "title": "Os beneficiários dos 300 milhões de kwanzas supostamente desviados pela ex-ministra das Pescas",
+      "url": "https://www.opais.ao/politica/os-beneficiarios-dos-300-milhoes-de-kwanzas-supostamente-desviados-pela-ex-ministra-das-pescas/",
+      "source": "O País",
+      "_key": "2b86344012425fe7",
+      "score": 6
+    },
+    {
+      "title": "Regulação dos táxis por aplicativo está preparada com foco na segurança",
+      "url": "https://www.opais.ao/sociedade/regulacao-dos-taxis-por-aplicativo-esta-preparada-com-foco-na-seguranca/",
+      "source": "O País",
+      "_key": "e0da4445c33b175e",
+      "score": 6
+    },
+    {
+      "title": "Armadilha da dívida pública (Parte I)",
+      "url": "https://www.opais.ao/opiniao/armadilha-da-divida-publica-parte-i-2/",
+      "source": "O País",
+      "_key": "ed2a77fcb21f2b1b",
+      "score": 6
+    },
+    {
+      "title": "Comissão Multissectorial avalia carteira de projectos do PIIM",
+      "url": "https://www.opais.ao/ultimas_hora/comissao-multissectorial-avalia-carteira-de-projectos-do-piim/",
+      "source": "O País",
+      "_key": "86691c2e630415cf",
+      "score": 6
+    },
+    {
+      "title": "President João Lourenço praises experience of new defense minister and Cuando governor",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-reconhece-experiencia-do-novo-ministro-da-defesa-e-governadora-do-cuando/",
+      "source": "ANGOP",
+      "_key": "e1995b8f75db6c78",
       "score": 5
     },
     {
-      "title": "Adão de Almeida encerra visita a Moçambique após encontro com Daniel Chapo",
-      "url": "https://www.opais.ao/politica/adao-de-almeida-encerra-visita-a-mocambique-apos-encontro-com-daniel-chapo/",
+      "title": "Angola and Japan assess bilateral cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-japao-avaliam-cooperacao-bilateral/",
+      "source": "ANGOP",
+      "_key": "27d0b9e50e7ccb94",
+      "score": 5
+    },
+    {
+      "title": "Angola and Egypt strengthen cooperation in pharmaceutical sector",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-e-egipto-reforcam-cooperacao-no-setor-farmaceutico/",
+      "source": "ANGOP",
+      "_key": "06ed971f729638c0",
+      "score": 5
+    },
+    {
+      "title": "\"Não é do interesse do MPLA nem da UNITA voltar a um conflito armado\" – deputado João Mpilamossi",
+      "url": "https://angola24horas.com/politica/item/34247-nao-e-do-interesse-do-mpla-nem-da-unita-voltar-a-um-conflito-armado-deputado-joao-mpilamossi",
+      "source": "Angola 24 Horas",
+      "_key": "2f4e61c2a2e2c48b",
+      "score": 5
+    },
+    {
+      "title": "PGR desafia cidadãos a denunciarem casos de corrupção envolvendo magistrados",
+      "url": "https://angola24horas.com/sociedade/item/34229-pgr-desafia-cidadaos-a-denunciarem-casos-de-corrupcao-envolvendo-magistrados",
+      "source": "Angola 24 Horas",
+      "_key": "649fdfcd0bae9a09",
+      "score": 5
+    },
+    {
+      "title": "Administração da Quibala condena vandalismo de bens públicos e promete responsabilização criminal",
+      "url": "https://correiokianda.info/administracao-da-quibala-condena-vandalismo-de-bens-publicos-e-promete-responsabilizacao-criminal/",
+      "source": "Correio Kianda",
+      "_key": "cfdf46b801e31246",
+      "score": 5
+    },
+    {
+      "title": "Manutenção preventiva corta energia em três municípios de Benguela",
+      "url": "https://correiokianda.info/manutencao-preventiva-corta-energia-em-tres-municipios-de-benguela/",
+      "source": "Correio Kianda",
+      "_key": "c7761822cd0f06cd",
+      "score": 5
+    },
+    {
+      "title": "        África37 minutos atrás  UA destaca transparência e inclusão nas eleições parlamentares africanas A União Africana (UA) destacou o carácter transparente e inclusivo das eleições que definiram a nova liderança do Parlamento Pan-Africano, realizadas em Midrand, na África do...   ",
+      "url": "https://correiokianda.info/ua-destaca-transparencia-e-inclusao-nas-eleicoes-parlamentares-africanas/",
+      "source": "Correio Kianda",
+      "_key": "334f47e4b43cfc0c",
+      "score": 5
+    },
+    {
+      "title": "PR exonera alto oficial da Casa Militar e coloca Brigadeiro Gouveia no cargo de confiança",
+      "url": "https://diariodosnegocios.com/pr-exonera-alto-oficial-da-casa-militar-e-coloca-brigadeiro-gouveia-no-cargo-de-confianca/",
+      "source": "Diário dos Negócios",
+      "_key": "313633737ffcab69",
+      "score": 5
+    },
+    {
+      "title": " PR exonera alto oficial da Casa Militar e coloca Brigadeiro Gouveia no cargo de confiança ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_0ce4055f6880d4",
+      "score": 5
+    },
+    {
+      "title": "A Mundial Seguros atinge lucro recorde e reforça posição entre as mais sólidas do sector",
+      "url": "https://forbesafricalusofona.com/a-mundial-seguros-atinge-lucro-recorde-e-reforca-posicao-entre-as-mais-solidas-do-sector/",
+      "source": "Forbes África",
+      "_key": "a588cfe7841898f2",
+      "score": 5
+    },
+    {
+      "title": "Destaque Ministro dos Negócios Estrangeiros japonês chega a Luanda O ministro dos Negócios Estrangeiros do Japão, Motegi Toshimitsu, chegou, na noite desta quinta-feira, a Luanda, para uma visita de trabalho de 48 horas, no âmbito do reforço das relações bilaterais entre Angola e o Japão.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675104/ministro-dos-neg%C3%B3cios-estrangeiros-japon%C3%AAs-chega-a-luanda-",
+      "source": "Jornal de Angola",
+      "_key": "c0bbdf4093d87cf1",
+      "score": 5
+    },
+    {
+      "title": "Presidente da República confere posse a Lúcio Amaral e a Carla Cativa O Presidente da República, João Lourenço, conferiu, ontem, posse ao novo ministro da Defesa Nacional, Antigos Combatentes e Veteranos da Pátria, Lúcio Amaral, e à nova governadora da província do Cuando, Carla Maria Domingas Cativa, em cerimónia realizada no Salão Nobre do Palácio da Cidade Alta.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675112/presidente-da-rep%C3%BAblica-confere-posse-a-l%C3%BAcio-amaral-e-a-carla-cativa--",
+      "source": "Jornal de Angola",
+      "_key": "fb29cea682716c4f",
+      "score": 5
+    },
+    {
+      "title": "Política Angola e Centro Internacional de Trigo do México abordam cooperação agrícola ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675097/angola-e-centro-internacional-de-trigo-do-m%C3%A9xico-abordam-coopera%C3%A7%C3%A3o-agr%C3%ADcola",
+      "source": "Jornal de Angola",
+      "_key": "fcf59ec5683e5ae2",
+      "score": 5
+    },
+    {
+      "title": "10:18 / 1 mai. 2026 Cidadãos devem denunciar transgressões administrativas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675110/cidad%C3%A3os-devem-denunciar-transgress%C3%B5es-administrativas",
+      "source": "Jornal de Angola",
+      "_key": "fcb09f1ebc70d8ea",
+      "score": 5
+    },
+    {
+      "title": "Última hora Exonerado Director do Gabinete do Ministro de Estado e Chefe da Casa Militar ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675103/exonerado-director-do-gabinete-do-ministro-de-estado-e-chefe-da-casa-militar-",
+      "source": "Jornal de Angola",
+      "_key": "0d94251fe9588f8d",
+      "score": 5
+    },
+    {
+      "title": "Amontoados de lixo “engolem” Zango e aceleram propagação de casos de malária em Icolo e Bengo",
+      "url": "https://www.opais.ao/reportagem/amontoados-de-lixo-engolem-zango-e-aceleram-propagacao-de-casos-de-malaria-em-icolo-e-bengo/",
       "source": "O País",
-      "_key": "b3b5b296ebfb04a0",
+      "_key": "8e951d9605a2263a",
+      "score": 5
+    },
+    {
+      "title": "Presidente da República empossa novo ministro da Defesa e governadora do Cuando",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-empossa-novo-ministro-da-defesa-e-governadora-do-cuando/",
+      "source": "O País",
+      "_key": "b59f28ef31c3abd7",
+      "score": 5
+    },
+    {
+      "title": "Angola e Turquia analisam reforço da cooperação bilateral",
+      "url": "https://www.opais.ao/politica/angola-e-turquia-analisam-reforco-da-cooperacao-bilateral/",
+      "source": "O País",
+      "_key": "b25e29b722eb4f62",
+      "score": 5
+    },
+    {
+      "title": "Angola e Japão passam em revista cooperação e reforço da parceria estratégica",
+      "url": "https://www.opais.ao/politica/angola-e-japao-passam-em-revista-cooperacao-e-reforco-da-parceria-estrategica/",
+      "source": "O País",
+      "_key": "7cc32ffcbca7d792",
       "score": 5
     }
   ]
