@@ -1,48 +1,296 @@
 {
-  "date": "2026-05-01",
-  "total_new": 18,
-  "total_filtered": 5,
+  "date": "2026-05-02",
+  "total_new": 87,
+  "total_filtered": 36,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China recebe primeiro carregamento de produtos africanos com tarifa zero",
-      "url": "https://correiokianda.info/china-recebe-primeiro-carregamento-de-produtos-africanos-com-tarifa-zero/",
-      "source": "Correio Kianda",
-      "_key": "1927ede47b585342",
+      "title": "Corredor do Lobito mantém transporte com ajuda de camiõesDepois da paralisação do transporte ferroviário em vários troços do CFB, dois serviços já foram realizados nos dias 20 e 24 de Abril.",
+      "url": "https://expansao.co.ao/angola/detalhe/corredor-do-lobito-mantem-transporte-com-ajuda-de-camioes-71550.html",
+      "source": "Expansão",
+      "_key": "28f361630ca31720",
+      "score": 10,
+      "title_cn": "洛比托走廊铁路停运后，卡车运输维持运营"
+    },
+    {
+      "title": "Brent barrel opens for sale at $111.47",
+      "url": "https://www.angop.ao/en/noticias/economia/barril-de-brent-abre-venda-a-111-47-dolares/",
+      "source": "ANGOP",
+      "_key": "e2e57dc6edab4880",
       "score": 9,
-      "title_cn": "中国接收首批非洲零关税产品"
+      "title_cn": "布伦特原油开盘价每桶111.47美元"
     },
     {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=71541",
+      "title": "Corredor do Lobito mantém transporte com ajuda de camiões",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_fa6212dd28f880",
+      "score": 9,
+      "title_cn": "洛比托走廊：卡车运输维持运营"
+    },
+    {
+      "title": "Botswana esteve no Lobito a tirar notas - SADC na equação...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/botswana-esteve-no-lobito-a-tirar-notas---sadc-na-equacao-para-refinaria-com-dinheiro-da-china-ainda-no-horizonte-71515.html",
       "source": "Novo Jornal",
-      "_key": "1eb47da37915dfd5",
+      "_key": "03a794d3c50e02b0",
+      "score": 9,
+      "title_cn": "博茨瓦纳考察洛比托，南部非洲发展共同体（SADC）参与其中"
+    },
+    {
+      "title": "Economista pede maior competitividade africana para aproveitar tarifa zero da China",
+      "url": "https://correiokianda.info/economista-pede-maior-competitividade-africana-para-aproveitar-tarifa-zero-da-china/",
+      "source": "Correio Kianda",
+      "_key": "e01f2af9028ac104",
+      "score": 8,
+      "title_cn": "经济学家呼吁非洲提高竞争力，以利用中国零关税政策"
+    },
+    {
+      "title": "Economia Sonangol já investiu 1,5 mil milhões de dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675192/sonangol-j%C3%A1-investiu-15-mil-milh%C3%B5es--de-d%C3%B3lares-",
+      "source": "Jornal de Angola",
+      "_key": "00f266829ac2b59b",
+      "score": 8,
+      "title_cn": "经济：安哥拉国家石油公司（Sonangol）已投资15亿美元"
+    },
+    {
+      "title": "Interior Ministry urges Migration Services staff to reinforce professional ethics and deontology",
+      "url": "https://www.angop.ao/en/noticias/politica/minint-bie-insta-efectivos-do-sme-ao-reforco-da-etica-e-deontologia-profissional/",
+      "source": "ANGOP",
+      "_key": "5e2175b29bc2e9a1",
       "score": 7,
-      "title_cn": "Kumbu的价值：银行与保险业的世界"
+      "title_cn": "内政部敦促移民局工作人员加强职业道德"
     },
     {
-      "title": "Destaque Circulação rodoviária na Maianga parcialmente interdita no domingoA circulação rodoviária no município da Maianga vai estar parcialmente interdita no domingo, 3, no período entre as 7 e as 9 horas, anunciou, hoje, o Governo de Luanda. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675173/circula%C3%A7%C3%A3o-rodovi%C3%A1ria-na-maianga-parcialmente-interdita-no-domingo",
+      "title": "Angola presents public tender in Australia for management of the Caio Terminal",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-na-australia-concurso-publico-para-gestao-do-terminal-do-caio/",
+      "source": "ANGOP",
+      "_key": "76c5ddc6b5d9b633",
+      "score": 7,
+      "title_cn": "安哥拉在澳大利亚为卡约（Caio）码头管理项目公开招标"
+    },
+    {
+      "title": "Bloqueio no Estreito de Ormuz pode fazer disparar a inflação global, alerta ONU",
+      "url": "https://correiokianda.info/bloqueio-no-estreito-de-ormuz-pode-fazer-disparar-a-inflacao-global-alerta-onu/",
+      "source": "Correio Kianda",
+      "_key": "d8def0f5ea4c8ee8",
+      "score": 7,
+      "title_cn": "联合国警告：霍尔木兹海峡封锁或推高全球通胀"
+    },
+    {
+      "title": "Stock de crédito cresce 7% para 9,5 biliões kz liderado por particulares e comércio",
+      "url": "https://expansao.co.ao/economia/detalhe/stock-de-credito-cresce-7-para-95-bilioes-kz-liderado-por-particulares-e-comercio-71551.html",
+      "source": "Expansão",
+      "_key": "ed0fde83fd5ff0ba",
+      "score": 7,
+      "title_cn": "信贷存量增长7%至9.5万亿宽扎，主要由个人和商业驱动"
+    },
+    {
+      "title": "Angola quer Japão como “parceiro central” na implementação de reformas e diversificação económica",
+      "url": "https://jornaloguardiao.com/2026/05/01/angola-quer-japao-como-parceiro-central-na-implementacao-de-reformas-e-diversificacao-economica/",
+      "source": "Jornal O Guardião",
+      "_key": "eb26cc3d55683cbd",
+      "score": 7,
+      "title_cn": "安哥拉希望日本成为其经济改革和多元化的“核心伙伴”"
+    },
+    {
+      "title": " Angola quer Japão como “parceiro central” na implementação de reformas e diversificação económica ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_bf2890eddc6387",
+      "score": 7,
+      "title_cn": "安哥拉希望日本成为其经济改革和多元化的“核心伙伴”"
+    },
+    {
+      "title": "Marchas pelo país marcam celebração do Dia Internacional do Trabalhador Cerca de 10 mil trabalhadores marcharam, sexta-feira, em Luanda, em alusão ao Dia Internacional do Trabalhador, exigindo melhores condições laborais, salariais e maior justiça social. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675181/marchas-pelo-pa%C3%ADs-marcam-celebra%C3%A7%C3%A3o-do-dia-internacional-do-trabalhador-",
       "source": "Jornal de Angola",
-      "_key": "dedc1cf2f0274349",
+      "_key": "10de1fbdbec7fa24",
+      "score": 7,
+      "title_cn": "全国各地举行游行庆祝国际劳动节，罗安达万人上街要求改善"
+    },
+    {
+      "title": "Política Potencial económico do país em destaque na Alemanha ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675187/potencial-econ%C3%B3mico-do-pa%C3%ADs-em-destaque-na-alemanha",
+      "source": "Jornal de Angola",
+      "_key": "75162659b08235e0",
+      "score": 7,
+      "title_cn": "政治：安哥拉经济潜力在德国受到关注"
+    },
+    {
+      "title": "Angolan Foreign Affairs Minister invites Japan to diversify investments in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-convida-japao-a-diversificar-investimentos-em-angola/",
+      "source": "ANGOP",
+      "_key": "3676f22926966544",
       "score": 6,
-      "title_cn": "迈安加区周日部分路段将临时封闭"
+      "title_cn": "安哥拉外长邀请日本在安哥拉实现投资多元化"
     },
     {
-      "title": "João Lourenço enaltece esforço dos trabalhadores mesmo diante das dificuldades",
-      "url": "https://angola24horas.com/politica/item/34251-joao-lourenco-enaltece-esforco-dos-trabalhadores-mesmo-diante-das-dificuldades",
+      "title": "Luanda hosts official talks between Angola and Japan to strengthen cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/luanda-acolhe-conversacoes-oficiais-entre-angola-e-japao-para-reforco-da-cooperacao/",
+      "source": "ANGOP",
+      "_key": "56b0af0334784314",
+      "score": 6,
+      "title_cn": "罗安达举行安哥拉与日本官方会谈，旨在加强合作"
+    },
+    {
+      "title": "Japan interested in strengthening presence in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/japao-interessado-em-fortalecer-presenca-em-angola/",
+      "source": "ANGOP",
+      "_key": "535a70bb36c55172",
+      "score": 6,
+      "title_cn": "日本有意加强在安哥拉的存在"
+    },
+    {
+      "title": "MP identifica beneficiários no escândalo dos 300 milhões de kwanzas na Edipesca",
+      "url": "https://angola24horas.com/sociedade/item/34249-mp-identifica-beneficiarios-no-escandalo-dos-300-milhoes-de-kwanzas-na-edipesca",
       "source": "Angola 24 Horas",
-      "_key": "bb2df1d00353490b",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）赞扬工人克服困难的努力"
+      "_key": "1eb971085a95ac58",
+      "score": 6,
+      "title_cn": "检察院查明Edipesca公司3亿宽扎丑闻受益人"
     },
     {
-      "title": "Destaque  Luanda expressa gratidão pelo contributo indispensável dos trabalhadores  O Governo de Luanda (GPL) expressou profunda gratidão, esta sexta-feira, pelo contributo indispensável dos trabalhadores para a construção de uma cidade mais organizada, inclusiva e próspera. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675171/-luanda-expressa-gratid%C3%A3o-pelo-contributo-indispens%C3%A1vel-dos-trabalhadores-",
+      "title": "Trabalhadores em Luanda denunciam precariedade e exigem melhores condições laborais",
+      "url": "https://correiokianda.info/trabalhadores-em-luanda-denunciam-precariedade-e-exigem-melhores-condicoes-laborais/",
+      "source": "Correio Kianda",
+      "_key": "c1c90d908af6ac46",
+      "score": 6,
+      "title_cn": "罗安达工人谴责工作不稳定，要求改善劳动条件"
+    },
+    {
+      "title": "Oito em cada 10 trabalhadores sobrevivem na informalidade",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_4b85ba2bdd5015",
+      "score": 6,
+      "title_cn": "十名工人中有八名在非正规经济中生存"
+    },
+    {
+      "title": "João Lourenço reconhece dificuldades, mas reafirma compromisso com melhoria das condições dos trabalhadores",
+      "url": "https://forbesafricalusofona.com/joao-lourenco-reconhece-dificuldades-mas-reafirma-compromisso-com-melhoria-das-condicoes-dos-trabalhadores/",
+      "source": "Forbes África",
+      "_key": "ae79f47787a6d5b5",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）承认困难，重申改善工人条件的承诺"
+    },
+    {
+      "title": "PR destaca empenho dos trabalhadores no desenvolvimento do país “apesar das dificuldades",
+      "url": "https://jornaloguardiao.com/2026/05/01/pr-destaca-empenho-dos-trabalhadores-no-desenvolvimento-do-pais-apesar-das-dificuldades/",
+      "source": "Jornal O Guardião",
+      "_key": "11e236a6cf07005e",
+      "score": 6,
+      "title_cn": "总统强调工人克服困难，致力于国家发展"
+    },
+    {
+      "title": " PR destaca empenho dos trabalhadores no desenvolvimento do país “apesar das dificuldades ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_65ad4aeb18df62",
+      "score": 6,
+      "title_cn": "总统强调工人克服困难，致力于国家发展"
+    },
+    {
+      "title": "Política Chefe da diplomacia japonesa recebido em audiência pelo Presidente da República ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675197/chefe-da-diplomacia-japonesa-recebido--em-audi%C3%AAncia-pelo-presidente-da-rep%C3%BAblica---",
       "source": "Jornal de Angola",
-      "_key": "d45191790c86f7cd",
+      "_key": "422a0218461de2c9",
+      "score": 6,
+      "title_cn": "政治：日本外长获安哥拉总统接见"
+    },
+    {
+      "title": "Presidente da República saúda trabalhadores que contribuem para o desenvolvimento do paísO Presidente João Lourenço saúda todos os trabalhadores que contribuem para o desenvolvimento do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/41/not%C3%ADcias/675135/presidente-da-rep%C3%BAblica-sa%C3%BAda-trabalhadores-que-contribuem-para-o-desenvolvimento-do-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "1ebb2cac9c170ddd",
+      "score": 6,
+      "title_cn": "总统若昂·洛伦索（João Lourenço）向为国家发展贡献的工人致敬"
+    },
+    {
+      "title": "Parar quando a Polícia mandar parar",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/parar-quando-a-policia-mandar-parar-71562.html",
+      "source": "Novo Jornal",
+      "_key": "c40d747f2e561494",
+      "score": 6,
+      "title_cn": "警察要求停车时必须停车"
+    },
+    {
+      "title": "Confronto entre a UNITA e o MPLA evidencia divergências sobre reconciliação nacional e corrupção",
+      "url": "https://angola24horas.com/politica/item/34257-cao",
+      "source": "Angola 24 Horas",
+      "_key": "d9b7cd3249bddfd9",
       "score": 5,
-      "title_cn": "罗安达感谢工人不可或缺的贡献"
+      "title_cn": "安盟（UNITA）与人运（MPLA）冲突，凸显国家和解与腐败分歧"
+    },
+    {
+      "title": "Higino Carneiro defende melhores condições de trabalho para os angolanos",
+      "url": "https://angola24horas.com/politica/item/34253-higino-carneiro-defende-melhores-condicoes-de-trabalho-para-os-angolanos",
+      "source": "Angola 24 Horas",
+      "_key": "e32048b7b7fdc0a9",
+      "score": 5,
+      "title_cn": "伊吉诺·卡内罗（Higino Carneiro）呼吁为安哥拉人提供更好的工作条件"
+    },
+    {
+      "title": "Dia do Trabalhador: UNITA acusa precarização laboral e incumprimento salarial",
+      "url": "https://angola24horas.com/politica/item/34254-dia-do-trabalhador-unita-acusa-precarizacao-laboral-e-incumprimento-salarial",
+      "source": "Angola 24 Horas",
+      "_key": "5d78caba66756b95",
+      "score": 5,
+      "title_cn": "劳动节：安盟（UNITA）指责工作不稳定和拖欠工资"
+    },
+    {
+      "title": "EUA apelam navios a recusarem pagar taxas no Estreito de Ormuz sob risco de sanções",
+      "url": "https://correiokianda.info/eua-apelam-navios-a-recusarem-pagar-taxas-no-estreito-de-ormuz-sob-risco-de-sancoes/",
+      "source": "Correio Kianda",
+      "_key": "ed795127f8cec9f6",
+      "score": 5,
+      "title_cn": "美国呼吁船只拒绝在霍尔木兹海峡支付费用，否则面临制裁"
+    },
+    {
+      "title": "Projecto Bita ajuda mas não resolve grande défice de água em Luanda",
+      "url": "https://expansao.co.ao/angola/detalhe/projecto-bita-ajuda-mas-nao-resolve-grande-defice-de-agua-em-luanda-71557.html",
+      "source": "Expansão",
+      "_key": "53f47831082efe99",
+      "score": 5,
+      "title_cn": "比塔（Bita）项目有助缓解罗安达水资源短缺，但未能彻底解决"
+    },
+    {
+      "title": "Lei do crowdfunding na Assembleia Nacional, mas só com \"tudo ou nada\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_10c3495b5b6847",
+      "score": 5,
+      "title_cn": "众筹法案提交国民议会，但仅限“全有或全无”模式"
+    },
+    {
+      "title": "Detido cidadão com mais de cem pedras de diamantes no Lucapa",
+      "url": "https://holdonangola.com/detido-cidadao-com-mais-de-cem-pedras-de-diamantes-no-lucapa/",
+      "source": "Hold On Angola",
+      "_key": "004e699d1bab44b3",
+      "score": 5,
+      "title_cn": "一名携带百余颗钻石的公民在卢卡帕（Lucapa）被捕"
+    },
+    {
+      "title": "Economia KWiK faz mais de 200 transacções diariamente ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675193/kwik-faz-mais-de-200-transac%C3%A7%C3%B5es-diariamente",
+      "source": "Jornal de Angola",
+      "_key": "20c255cc06c8621c",
+      "score": 5,
+      "title_cn": "KWiK 每天进行 200 多笔交易"
+    },
+    {
+      "title": " Ministro Lúcio Amaral garante maior aposta do capital humano ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/675186/ministro-l%C3%BAcio-amaral-garante-maior-aposta-do-capital-humano",
+      "source": "Jornal de Angola",
+      "_key": "e69989cd8e50fe2a",
+      "score": 5,
+      "title_cn": "卢西奥·阿马拉尔（Lúcio Amaral）部长承诺加大对人力资本的投入"
+    },
+    {
+      "title": "Regiões Premium 01/05/2026União Sindical em Malanje reitera necessidade de pôr fim aos actos de intimidação",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675174/uni%C3%A3o-sindical-em-malanje-reitera-necessidade-de-p%C3%B4r-fim-aos-actos-de-intimida%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "9109e0a0ded163f8",
+      "score": 5,
+      "title_cn": "马兰热（Malanje）工会重申需制止恐吓行为"
     }
   ]
 }
