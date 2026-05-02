@@ -1,14 +1,21 @@
 {
   "date": "2026-05-02",
-  "total_new": 6,
-  "total_filtered": 1,
+  "total_new": 8,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Banca perdeu mais de mil trabalhadores desde 2023",
-      "url": "https://valoreconomico.co.ao/artigo/banca-perdeu-mais-de-mil-trabalhadores-desde-2023",
+      "title": "TAAG anuncia regresso de aviões após manutenção e garante voos...",
+      "url": "https://valoreconomico.co.ao/artigo/taag-anuncia-regresso-de-avioes-apos-manutencao-e-garante-voos-domesticos",
       "source": "Valor Económico",
-      "_key": "2ca1fae7fc2e4e07",
+      "_key": "01165175fe8aa864",
+      "score": 7
+    },
+    {
+      "title": "Última hora Destacada cooperação com Japão na modernização de infra-estruturas de saúde",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675247/destacada-coopera%C3%A7%C3%A3o-com-jap%C3%A3o-na-moderniza%C3%A7%C3%A3o-de-infra-estruturas-de-sa%C3%BAde",
+      "source": "Jornal de Angola",
+      "_key": "ac1d4d9782b769e0",
       "score": 6
     }
   ]
