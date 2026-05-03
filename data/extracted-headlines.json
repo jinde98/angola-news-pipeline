@@ -1,7 +1,867 @@
 {
   "date": "2026-05-03",
-  "total": 1477,
+  "total": 1649,
   "articles": [
+    {
+      "title": "Statistics institute to present results of farming survey on Tuesday",
+      "url": "https://www.angop.ao/en/noticias/economia/ine-apresenta-resultados-do-inquerito-agro-pecuario-na-terca-feira/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "National Police disable last clandestine gold mining sites in Dongo",
+      "url": "https://www.angop.ao/en/noticias/sociedade/policia-desactiva-ultimos-focos-de-garimpo-de-ouro-no-dongo/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Luau's solar power plant enables to save 12 million liters of fuel",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-poupa-12-milhoes-de-litros-de-combustivel-com-a-central-solar-do-luau/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Labour minister highlights importance of workers on May 1st",
+      "url": "https://www.angop.ao/en/noticias/sociedade/ministra-destaca-valorizacao-dos-trabalhadores-no-dia-1-de-maio/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "MINTTICS Director of Information disputes report on press freedom",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-contesta-relatorio-sobre-liberdade-de-imprensa-em-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "President João Lourenço discusses bilateral cooperation with Japanese minister",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-analisa-com-ministro-japones-cooperacao-bilateral/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "President João Lourenço greets Angolan workers",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-sauda-trabalhadores-angolanos-por-ocasiao-do-1-de-maio/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angolan team performs first Robotic Cholecystectomy Op",
+      "url": "https://www.angop.ao/en/noticias/saude/equipa-angolana-realiza-primeira-colecistectomia-robotica/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Most viewed ",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=4&vtab=4",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Last 30 days ",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=3&vtab=3",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Most viewed 2026 ",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=6&vtab=6",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Most viewed 2025 ",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=5&vtab=5",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Top news",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=top_news&vtabid=73880/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Latest",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=ultimas-noticias&vtabid=1895/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Politics",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=politica&vtabid=1075/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Economy",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=economia&vtabid=1396/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Society",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=sociedade&vtabid=1076/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Leisure and culture",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=lazer-cultura&vtabid=1078/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Africa",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=africa&vtabid=1493/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Institutional",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=institucional&vtabid=2255/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Health",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=saude&vtabid=2299/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Education",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=educacao&vtabid=2240/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Tourism",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=turismo&vtabid=2318/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Transport",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=transporte&vtabid=2314/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Specials",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=agricultura&vtabid=2740/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Tecnologia",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=tecnologia&vtabid=1397/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Environment",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=ambiente&vtabid=2204/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Agenda",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=agenda&vtabid=262021/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Synthesis",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=resumos&vtabid=1482/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "The weather",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=weather_angola&vtabid=2613/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Press release",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=comunicado_imprensa&vtabid=262014/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Revista de imprensa",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=revista_imprensa&vtabid=262013/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Stories tales and novels",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=outros-generos&vtabid=74618/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Benguela",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=benguela&vtabid=1131/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cabinda",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cabinda&vtabid=1216/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cuando",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cuando&vtabid=301515/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cubango",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cubango&vtabid=1221/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cuanza Norte",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cuanza-norte&vtabid=1311/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cuanza Sul",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cuanza-sul&vtabid=1312/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cunene",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=cunene&vtabid=1222/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Huambo",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=huambo&vtabid=1313/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Ícolo e Bengo",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=icoloebengo&vtabid=301516/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Luanda",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=luanda&vtabid=1220/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Lunda Norte",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=lunda-norte&vtabid=1314/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Lunda Sul",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=lunda-sul&vtabid=1318/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Malanje",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=malanje&vtabid=1132/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Moxico",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=moxico&vtabid=1315/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Moxico-Leste",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=moxicoleste&vtabid=301517/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Namibe",
+      "url": "https://www.angop.ao/en/edt/provincias/?vtab=namibe&vtabid=1316/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Garimpo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=69619",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Energia limpa",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=95803",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Trabalhadores",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=51309",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Liberdade de imprensa",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=88970",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Cooperação bilateral",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=90831",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Presidency",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=2938",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Photovoltaic power plant boosts development in Moxico-Leste",
+      "url": "https://www.angop.ao/en/noticias/politica/central-fotovoltaica-do-luau-impulsiona-desenvolvimento-no-moxico-leste/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Energia eléctrica",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=71060",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Minister of National Defense calls for firmness in carrying out missions",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-da-defesa-nacional-apela-a-firmeza-no-cumprimento-das-tarefas-estatutarias/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Defesa Nacional",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=48310",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angolan Foreign Affairs Minister invites Japan to diversify investments in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-convida-japao-a-diversificar-investimentos-em-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Investment",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5905",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Interior Ministry urges Migration Services staff to reinforce professional ethics and deontology",
+      "url": "https://www.angop.ao/en/noticias/politica/minint-bie-insta-efectivos-do-sme-ao-reforco-da-etica-e-deontologia-profissional/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Luanda hosts official talks between Angola and Japan to strengthen cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/luanda-acolhe-conversacoes-oficiais-entre-angola-e-japao-para-reforco-da-cooperacao/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Diplomacy",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4651",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Japan interested in strengthening presence in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/japao-interessado-em-fortalecer-presenca-em-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Expo-Sumbe brings together 150 exhibitors",
+      "url": "https://www.angop.ao/en/noticias/economia/iii-edicao-da-expo-sumbe-com-mais-de-100-expositores/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Display",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=19507",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Economy and market conference assesses challenges of electronic invoicing in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/conferencia-economia-e-mercado-analisa-desafios-da-facturacao-electronica-em-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Conferência",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=24693",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola presents public tender in Australia for management of the Caio Terminal",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-na-australia-concurso-publico-para-gestao-do-terminal-do-caio/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Consurso",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=66646",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Brent barrel opens for sale at $111.47",
+      "url": "https://www.angop.ao/en/noticias/economia/barril-de-brent-abre-venda-a-111-47-dolares/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Handball - Petro de Luanda conquer men's provincial championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-petro-surpreende-1o-de-agosto-e-leva-provincial-masculino/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Handball",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3016",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Girabola - Interclube beat Bravos dos Maquis",
+      "url": "https://www.angop.ao/en/noticias/desporto/interclube-vence-bravos-dos-maquis-e-sobe-ao-4.o-lugar/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Girabola",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=1394",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Petro de Luanda win provincial women's handball championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-petro-conquista-provincial-feminino/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Andebol sénior feminino",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=209767",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola win bronze in African Gymnastics championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/angola-conquista-bronze-no-africano-de-ginastica/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Ginástica rítmica",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=98175",
+      "source": "ANGOP"
+    },
+    {
+      "title": "FAAN executives visit José Sayovo complex",
+      "url": "https://www.angop.ao/en/noticias/desporto/executivos-da-faan-visitam-complexo-jose-sayovo/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Adapted sports",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=10732",
+      "source": "ANGOP"
+    },
+    {
+      "title": "... See more >",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=comunicado_imprensa&vtabid=267680/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola and Japan strengthen partnership to transform health sector",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-e-japao-reforcam-parceria-para-transformar-sector-da-saude/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola and Egypt strengthen cooperation in pharmaceutical sector",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-e-egipto-reforcam-cooperacao-no-setor-farmaceutico/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Attorney General Office focuses on wildlife crimes",
+      "url": "https://www.angop.ao/en/noticias/ambiente/pgr-quer-reduzir-crimes-contra-a-vida-selvagem/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Netherlands expresses solidarity with victims of the Cavaco River floods",
+      "url": "https://www.angop.ao/en/noticias/sociedade/paises-baixos-solidarios-com-vitimas-das-cheias-do-cavaco/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Solidarity",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=8812",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Africa CDC launches immunization strategy to strengthen continental response",
+      "url": "https://www.angop.ao/en/noticias/saude/lancada-estrategia-de-imunizacao-em-africa/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Poetic works of Agostinho Neto presented at Buenos Aires book fair",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/obra-poetica-de-agostinho-neto-apresentada-na-feira-do-livro-de-buenos-aires/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Literature",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=9309",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Bié Province culture sector reaffirms commitment to valuing dance",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/cultura-no-bie-reafirma-compromisso-na-valorizacao-da-danca/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "International Dance Day marked with reflection on progress, challenges",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/dia-mundial-da-danca-assinalado-com-reflexao-sobre-avancos-e-desafios/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=16358",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Luanda hosts African Leaders Award",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/luanda-acolhe-premio-africa-lideres-de-excelencia/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Culture",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3268",
+      "source": "ANGOP"
+    },
+    {
+      "title": "National Museum Day events set for May",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/jornada-nacional-dos-museus-acontece-em-maio/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Animal resources remain unexploited on the continent - Josefa Sacko",
+      "url": "https://www.angop.ao/en/noticias/africa/josefa-sacko-diz-que-continente-continua-sem-explorar-potencial-dos-recursos-animais/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "African Union",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=9032",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Senegalese president urges Africans \"to find solutions\" to food insecurity",
+      "url": "https://www.angop.ao/en/noticias/africa/presidente-da-ua-defende-fim-da-dependencia-alimentar/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "ECOWAS condemns alleged coup in Gambia",
+      "url": "https://www.angop.ao/en/noticias/africa/uniao-africana-e-cedeao-condenam-alegada-tentativa-de-golpe-na-gambia/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Ethiopia PM Abiy vows ‘honest’ implementation of Tigray truce",
+      "url": "https://www.angop.ao/en/noticias/africa/etiopia-constituicao-vai-estabelecer-futuro-estatuto-do-tigray-ocidental-diz-pm/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Conflitos políticos",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=41688",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Egyptian-British activist Alaa Abdel Fattah breaks hunger strike",
+      "url": "https://www.angop.ao/en/noticias/africa/egipto-activista-termina-greve-de-fome-iniciada-em-abril/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Justice",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=2964",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Trump announces capture of Maduro and wife",
+      "url": "https://www.angop.ao/en/noticias/mundo/ppl/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Attack",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=17606",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Security council tells Taliban to reverse restrictions on women in Afghanistan",
+      "url": "https://www.angop.ao/en/noticias/mundo/onu-pede-aos-talibas-que-levantem-restricoes-contra-mulheres/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Human rights",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6212",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Arctic 'bomb cyclone' threatens holiday travel for millions of Americans",
+      "url": "https://www.angop.ao/en/noticias/mundo/tempestade-perigosa-condiciona-natal-de-milhoes-de-pessoas-nos-eua/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Tempestades",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=43151",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Brexit rule that makes EU citizens reapply to stay in UK is unlawful, court says",
+      "url": "https://www.angop.ao/en/noticias/mundo/tribunal-britanico-diz-que-emigrantes-podem-ficar-sem-actualizar-estatuto/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "United Kingdom",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3254",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Kyiv- Dutch foreign minister, in Kyiv bomb shelter, says to look at \"what Russia does, not what it says\"",
+      "url": "https://www.angop.ao/en/noticias/mundo/ucrania-chefe-da-diplomacia-neerlandes-em-refugio-anti-aereo-de-kiev-apos-ataques-1/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "News summary",
+      "url": "https://www.angop.ao/en/noticias/resumos/sintese-noticiosa-198/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "FURI Mining Society expects to generate 230 new jobs",
+      "url": "https://www.angop.ao/en/noticias/resumos/furi-preve-gerar-230-novos-empregos/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola continues to register community circulation of Covid-19",
+      "url": "https://www.angop.ao/en/noticias/resumos/angola-continua-com-circulacao-comunitaria-da-covid-19/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Íntegra do comunicado do Governo de Benguela",
+      "url": "https://www.angop.ao/en/noticias/press-release/integra-do-comunicado-do-governo-de-benguela/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Comunicado de imprensa",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=262494",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Baixa de Cassanje’s Revolt political impact",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/o-impacto-politico-da-revolta-da-baixa-de-cassanje/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola: 50 Years of Freedom, Sovereignty, and Integration",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-50-anos-de-liberdade-soberania-e-integracao/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "50 anos de independência",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=288292",
+      "source": "ANGOP"
+    },
+    {
+      "title": "2025 – A year of enormous challenges for Angola – António Tavares",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/2025-um-ano-de-enormes-desafios-internos-e-externos/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Anniversary",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=16276",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola pays tribute to General Simione Mucune",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-homenageia-general-simione-com-atribuicao-do-nome-ao-hospital-geral/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Reconhecimento",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=40803",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Supreme Court upholds conviction in \"USD 500 million\" case",
+      "url": "https://www.angop.ao/en/noticias/politica/ts-mantem-condenacao-no-caso-500-milhoes/",
+      "source": "ANGOP"
+    },
+    {
+      "title": " +News",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=ultimas_noticias/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "President João Lourenço appoints new head of the Presidency Military Office",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-nomeia-novo-chefe-da-casa-militar/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "AU ministers adopt emerging priorities in transport and energy",
+      "url": "https://www.angop.ao/en/noticias/economia/ministros-da-ua-aprovam-prioridades-emergentes-nos-transportes-e-energia/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Solidarity campaign for victims of rain in Benguela gathers 400 tons of goods",
+      "url": "https://www.angop.ao/en/noticias/sociedade/campanha-abraco-solidario-arrecada-400-toneladas-de-bens-diversos/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "National artists liven up solidarity show",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/artistas-nacionais-animam-show-solidario/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Sporting de Luanda beat 1º de Agosto in Unitel Basket game",
+      "url": "https://www.angop.ao/en/noticias/desporto/basquetebol-sporting-vence-1o-de-agosto-e-forca-quinto-jogo-no-play-off/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Pope Leo XIV to land in Angola on Saturday at 3pm",
+      "url": "https://www.angop.ao/en/noticias/sociedade/em-tratamento-papa-leao-xiv-chega-hoje-a-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Central event of the National Reconciliation Day takes place in Cubango province",
+      "url": "https://www.angop.ao/en/noticias/politica/menongue-acolhe-acto-central-do-4-de-abril/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Criminal Investigation denies rumors about genital organs trafficking in Moxico",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-desmente-alegada-rede-de-trafico-de-orgaos-genitais-no-moxico/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Who is the Pope visiting Angola?",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/quem-e-o-papa-que-visita-angola/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Grandes Reportagens",
+      "url": "https://www.angop.ao/en/edt/especiais/?vtab=grandes-reportagens",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Heavy rainfall kills 14 and injuries 10 people in Benguela province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/chuva-provova-estragos-e-enluta-familias-em-benguela/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "National Assembly",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=9550",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Nomination",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=16329",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Estradas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=32240",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Donation",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=10042",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Lecture",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=8162",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Conselho de Ministros",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31363",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Competição",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=110936",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Grande Entrevista",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=40779",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Basketball",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=3005",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Terrorism",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4419",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Memories",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=17780",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Campeonato Africano",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=165952",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Trains",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=8682",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Bilhete",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=58103",
+      "source": "ANGOP"
+    },
+    {
+      "title": " ... See more tags  ",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/seemore",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Latest ",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=ultimas_noticias&vtabid=1895/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angolan presidency reinforces Africa's protagonism",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/presidencia-angolana-reforca-protagonismo-de-africa/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "António Agostinho Neto Memorial committed to preserving the Nation Founder’s legacy",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/memorial-aposta-na-preservacao-e-divulgacao-do-legado-de-antonio-agostinho-neto/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola preparing to perform bone marrow and kidney transplants",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/angola-preve-iniciar-transplantes-de-medula-e-rim-em-2026/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola consolidates energy sovereignty in 50 years of Independence",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/angola-consolida-soberania-energetica-em-50-anos-de-independencia/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola and the Holy See deepen historical roots",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-e-santa-se-cimentam-raizes-historicas/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola at WB and IMF 2026 Spring Meetings",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-solidifica-presenca-nas-reunioes-de-primavera-do-fmi-e-banco-mundial/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola celebrates Liberation Struggle Expansion Day",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-celebra-expansao-da-luta-de-libertacao-nacional/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola and Vatican consolidate cooperation",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-e-vaticano-firmes-na-cooperacao/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angola debuts in African Jiu-Jitsu Championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/angola-estreia-no-campeonato-africano-de-jiu-jitsu/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "AYG 4th Edition - Angola wins 2nd bronze in swimming",
+      "url": "https://www.angop.ao/en/noticias/desporto/desportos-nauticos-angola-garante-segundo-bronze-nos-jaj/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Mucaba power substation works to kick off in first quarter",
+      "url": "https://www.angop.ao/en/noticias/economia/construcao-da-subestacao-electrica-de-mucaba-comeca-no-primeiro-trimestre-deste-ano/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Ruling party’s vice president defends family farming promotion",
+      "url": "https://www.angop.ao/en/noticias/economia/fomento-da-agricultura-familiar-garante-da-diversificacao-economica-diz-mara-quiosa/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Health department attends over 900 patients during the New Year festive season",
+      "url": "https://www.angop.ao/en/noticias/saude/unidades-sanitarias-no-bengo-atendem-mais-de-900-pacientes-na-passagem-de-ano/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Angolan govt supports legalization of veterans' cooperatives in Huíla",
+      "url": "https://www.angop.ao/en/noticias/sociedade/huila-aposta-na-legalizacao-de-cooperativas-para-apoiar-antigos-combatentes/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "Chinese researcher translated 15 Angolan books into Mandarin",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/investigador-chines-traduz-15-obras-angolanas-em-mandarim/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "First Lady witnesses launch of book about Queen Njinga Mbandi",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/primeira-dama-testemunha-lancamento-da-obra-njinga-mbandi/",
+      "source": "ANGOP"
+    },
+    {
+      "title": "General Terms and Conditions",
+      "url": "https://www.angop.ao/en/terms-and-conditions/",
+      "source": "ANGOP"
+    },
     {
       "title": "EUA sancionam Joseph Kabila por alegado apoio a rebeldes no leste da RDC",
       "url": "https://angola24horas.com/internacional/item/34248-eua-sancionam-joseph-kabila-por-alegado-apoio-a-rebeldes-no-leste-da-rdc",
@@ -483,6 +1343,11 @@
       "source": "Correio Kianda"
     },
     {
+      "title": "Huíla começa a registar normalização da crise de gás de cozinha e gasolina",
+      "url": "https://correiokianda.info/huila-comeca-a-registar-normalizacao-da-crise-de-gas-e-gasolina/",
+      "source": "Correio Kianda"
+    },
+    {
       "title": "Benguela: moradores do Tchipiandalo clamam pela reparação urgente do dique",
       "url": "https://correiokianda.info/benguela-moradores-do-tchipiandalo-clamam-pela-reparacao-urgente-do-dique/",
       "source": "Correio Kianda"
@@ -500,11 +1365,6 @@
     {
       "title": "Progressão de ravina força encerramento do Miradouro da Lua",
       "url": "https://correiokianda.info/progressao-de-ravina-forca-encerramento-do-miradouro-da-lua/",
-      "source": "Correio Kianda"
-    },
-    {
-      "title": "Huíla: especialistas pedem alternativas de renda após retirada de garimpeiros no Dongo",
-      "url": "https://correiokianda.info/operacao-quebra-molas-no-dongo-levanta-duvidas-sobre-sustentabilidade-dos-resultados/",
       "source": "Correio Kianda"
     },
     {
@@ -558,6 +1418,11 @@
       "source": "Correio Kianda"
     },
     {
+      "title": "Petro busca segunda vitória nos play-offs da final do Unitel Basket",
+      "url": "https://correiokianda.info/petro-busca-segunda-vitoria-nos-play-offs-da-final-do-unitel-basket/",
+      "source": "Correio Kianda"
+    },
+    {
       "title": "Angola domina abertura dos 4ºs jogos africanos com duas conquistas",
       "url": "https://correiokianda.info/angola-domina-abertura-dos-4os-jogos-africanos-com-duas-conquistas/",
       "source": "Correio Kianda"
@@ -575,11 +1440,6 @@
     {
       "title": "Barcelona vence Osasuna e fica a um ponto do título da La Liga",
       "url": "https://correiokianda.info/barcelona-vence-osasuna-e-fica-a-um-ponto-do-titulo-da-la-liga/",
-      "source": "Correio Kianda"
-    },
-    {
-      "title": "Bundesliga: Bayern cede empate caseiro diante do último classificado e soma novo deslize",
-      "url": "https://correiokianda.info/bundesliga-bayern-cede-empate-caseiro-diante-do-ultimo-classificado-e-soma-novo-deslize/",
       "source": "Correio Kianda"
     },
     {
@@ -658,18 +1518,8 @@
       "source": "Correio Kianda"
     },
     {
-      "title": "        África14 horas atrás  Presidente do Ruanda assume cooperação com M23 para garantir segurança O Presidente do Ruanda, Paul Kagame, assumiu publicamente a cooperação com o movimento rebelde M23 como parte da estratégia de segurança de Kigali, defendendo a presença...   ",
-      "url": "https://correiokianda.info/presidente-do-ruanda-assume-cooperacao-com-m23-para-garantir-seguranca/",
-      "source": "Correio Kianda"
-    },
-    {
       "title": "        Politica3 semanas atrás  João Lourenço aprova reabilitação de 212 km da estrada Mavinga-Rivungo    ",
       "url": "https://correiokianda.info/joao-lourenco-aprova-reabilitacao-de-212-km-da-estrada-mavinga-rivungo/",
-      "source": "Correio Kianda"
-    },
-    {
-      "title": "        Politica2 semanas atrás  PR autoriza construção de sete novas administrações municipais    ",
-      "url": "https://correiokianda.info/pr-autoriza-construcao-de-sete-novas-administracoes-municipais/",
       "source": "Correio Kianda"
     },
     {
@@ -678,13 +1528,18 @@
       "source": "Correio Kianda"
     },
     {
-      "title": "        Sociedade4 semanas atrás  Minsa reduz para menos de 50% número de vagas para novos profissionais do sector     ",
-      "url": "https://correiokianda.info/minsa-reduz-para-menos-de-50-numero-de-vagas-para-novos-profissionais-do-sector/",
+      "title": "        Politica2 semanas atrás  PR autoriza construção de sete novas administrações municipais    ",
+      "url": "https://correiokianda.info/pr-autoriza-construcao-de-sete-novas-administracoes-municipais/",
       "source": "Correio Kianda"
     },
     {
       "title": "        Sociedade4 dias atrás  Professor angolano recebe título de “Imortal” em cerimónia no Brasil    ",
       "url": "https://correiokianda.info/professor-angolano-recebe-titulo-de-imortal-em-cerimonia-no-brasil/",
+      "source": "Correio Kianda"
+    },
+    {
+      "title": "        Sociedade4 semanas atrás  Minsa reduz para menos de 50% número de vagas para novos profissionais do sector     ",
+      "url": "https://correiokianda.info/minsa-reduz-para-menos-de-50-numero-de-vagas-para-novos-profissionais-do-sector/",
       "source": "Correio Kianda"
     },
     {
@@ -1478,18 +2333,18 @@
       "source": "Forbes África"
     },
     {
+      "title": "Bloco Democrático denuncia retrocesso na liberdade de imprensa em Angola",
+      "url": "https://holdonangola.com/bloco-democratico-denuncia-retrocesso-na-liberdade-de-imprensa-em-angola/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "O “Sim” da Esposa: Ana Maria Carneiro apoia candidatura de Higino Carneiro à liderança do MPLA",
+      "url": "https://holdonangola.com/o-sim-da-esposa-ana-maria-carneiro-apoia-candidatura-de-higino-carneiro-a-lideranca-do-mpla/",
+      "source": "Hold On Angola"
+    },
+    {
       "title": "Jurista defende valores éticos como base do desenvolvimento em Angola",
       "url": "https://holdonangola.com/jurista-defende-valores-eticos-como-base-do-desenvolvimento-em-angola/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "Utentes denunciam abandono e condições desumanas no Hospital Maria Pia",
-      "url": "https://holdonangola.com/utentes-denunciam-abandono-e-condicoes-desumanas-no-hospital-maria-pia/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "UA: Adalberto Costa Júnior eleito para a vice-presidência do Parlamento Africano",
-      "url": "https://holdonangola.com/ua-adalberto-costa-junior-eleito-para-a-vice-presidencia-do-parlamento-africano/",
       "source": "Hold On Angola"
     },
     {
@@ -1498,33 +2353,23 @@
       "source": "Hold On Angola"
     },
     {
-      "title": "UNITA reforça diplomacia partidária com encontro comunitário em Paris",
+      "title": "UNITA reforça diplomacia partidária com encontro comunitário em…",
       "url": "https://holdonangola.com/unita-reforca-diplomacia-partidaria-com-encontro-comunitario-em-paris/",
       "source": "Hold On Angola"
     },
     {
-      "title": "Activista Hitler Samussuku destaca maturidade política da UNITA…",
-      "url": "https://holdonangola.com/activista-hitler-samussuku-destaca-maturidade-politica-da-unita-no-pos-guerra/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "Corredor do Lobito: LAR garante transporte de mercadorias…",
-      "url": "https://holdonangola.com/corredor-do-lobito-lar-garante-transporte-de-mercadorias-com-operacao-multimodal-apos-cheias/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "OMA reforça capacitação política e disciplina interna em reunião nacional",
+      "title": "OMA reforça capacitação política e disciplina interna em…",
       "url": "https://holdonangola.com/oma-reforca-capacitacao-politica-e-disciplina-interna-em-reuniao-nacional/",
       "source": "Hold On Angola"
     },
     {
-      "title": "UNITA acusa Executivo de bloquear…",
-      "url": "https://holdonangola.com/unita-acusa-executivo-de-bloquear-reformas-e-perpetuar-partido-estado/",
+      "title": "Activista Hitler Samussuku destaca maturidade…",
+      "url": "https://holdonangola.com/activista-hitler-samussuku-destaca-maturidade-politica-da-unita-no-pos-guerra/",
       "source": "Hold On Angola"
     },
     {
-      "title": "Miguel Silva de Almeida “Lito”…",
-      "url": "https://holdonangola.com/miguel-silva-de-almeida-lito-prepara-candidatura-para-provincia-de-icolo-e-bengo/",
+      "title": "Corredor do Lobito: LAR garante…",
+      "url": "https://holdonangola.com/corredor-do-lobito-lar-garante-transporte-de-mercadorias-com-operacao-multimodal-apos-cheias/",
       "source": "Hold On Angola"
     },
     {
@@ -1533,7 +2378,12 @@
       "source": "Hold On Angola"
     },
     {
-      "title": "Minuto Verde forma crianças em educação ambiental em Luanda",
+      "title": "ISJ expande serviços às províncias para reforçar supervisão do jogo em Angola",
+      "url": "https://holdonangola.com/isj-expande-servicos-as-provincias-para-reforcar-supervisao-do-jogo-em-angola/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "Minuto Verde forma crianças em educação ambiental em…",
       "url": "https://holdonangola.com/minuto-verde-forma-criancas-em-educacao-ambiental-em-luanda/",
       "source": "Hold On Angola"
     },
@@ -1543,28 +2393,23 @@
       "source": "Hold On Angola"
     },
     {
-      "title": "Detido cidadão com mais de cem pedras de…",
-      "url": "https://holdonangola.com/detido-cidadao-com-mais-de-cem-pedras-de-diamantes-no-lucapa/",
-      "source": "Hold On Angola"
-    },
-    {
       "title": "Economia",
       "url": "",
       "source": "Hold On Angola"
     },
     {
-      "title": "João Lourenço inaugura Data Center do Governo para reforçar soberania digital",
+      "title": "Sector de seguros em Angola com taxa de penetração abaixo de 1% do PIB",
+      "url": "https://holdonangola.com/sector-de-seguros-em-angola-com-taxa-de-penetracao-abaixo-de-1-do-pib/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "João Lourenço inaugura Data Center do Governo para…",
       "url": "https://holdonangola.com/joao-lourenco-inaugura-data-center-do-governo-para-reforcar-soberania-digital/",
       "source": "Hold On Angola"
     },
     {
       "title": "Défice energético e custo do crédito entre os…",
       "url": "https://holdonangola.com/defice-energetico-e-custo-do-credito-entre-os-maiores-entraves-a-industria-aponta-economista/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "RECREDIT regista lucro de 53,31 mil milhões Kz…",
-      "url": "https://holdonangola.com/recredit-regista-lucro-de-5331-mil-milhoes-kz-e-reforca-recuperacao-de-credito/",
       "source": "Hold On Angola"
     },
     {
@@ -1618,28 +2463,28 @@
       "source": "Hold On Angola"
     },
     {
-      "title": "PGR inicia processo-crime contra presidente do BPC Luzolo de Carvalho",
+      "title": "Angola gastou 817 milhões de dólares em importação de combustíveis no primeiro trimestre de 2026",
+      "url": "https://holdonangola.com/angola-gastou-817-milhoes-de-dolares-em-importacao-de-combustiveis-no-primeiro-trimestre-de-2026/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "Osvaldo Kaholo ilibado de crimes…",
+      "url": "https://holdonangola.com/osvaldo-kaholo-ilibado-de-crimes-graves-e-condenado-a-2-anos-e-6-meses/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "Filomeno Vieira Lopes recebe MC…",
+      "url": "https://holdonangola.com/filomeno-vieira-lopes-recebe-mc-k-num-dialogo-sobre-democracia-e-cidadania-em-angola/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "Ministro da Defesa do Malí…",
+      "url": "https://holdonangola.com/ministro-da-defesa-do-mali-morto-em-combate/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "PGR inicia processo-crime contra presidente…",
       "url": "https://holdonangola.com/pgr-inicia-processo-crime-contra-presidente-do-bpc-luzolo-de-carvalho/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "BRIMONT reforça apoio às vítimas…",
-      "url": "https://holdonangola.com/brimont-reforca-apoio-as-vitimas-das-chuvas-em-benguela/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "Trump quer retomar execuções federais…",
-      "url": "https://holdonangola.com/trump-quer-retomar-execucoes-federais-e-reforcar-pena-de-morte-nos-eua/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "Tanzânia avança com revisão constitucional…",
-      "url": "https://holdonangola.com/tanzania-avanca-com-revisao-constitucional-apos-violencia-eleitoral-de-2025/",
-      "source": "Hold On Angola"
-    },
-    {
-      "title": "Cabinda regista 190 mortes por…",
-      "url": "https://holdonangola.com/cabinda-regista-190-mortes-por-malaria-em-2025/",
       "source": "Hold On Angola"
     },
     {
@@ -1705,6 +2550,11 @@
     {
       "title": "UA: Adalberto Costa Júnior eleito…",
       "url": "https://holdonangola.com/ua-adalberto-costa-junior-eleito-para-a-vice-presidencia-do-parlamento-africano/",
+      "source": "Hold On Angola"
+    },
+    {
+      "title": "Tanzânia avança com revisão constitucional…",
+      "url": "https://holdonangola.com/tanzania-avanca-com-revisao-constitucional-apos-violencia-eleitoral-de-2025/",
       "source": "Hold On Angola"
     },
     {
@@ -2538,18 +3388,8 @@
       "source": "Jornal de Angola"
     },
     {
-      "title": "Destaque Angolanos no Reino Unido mobilizam-se para apoiar vítimas das enchentes em BenguelaOs cidadãos angolanos residentes no Reino Unido estão mobilizados numa campanha solidária para apoiar as vítimas das enchentes na província de Benguela, após transbordo do Rio Cavaco. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675256/angolanos-no-reino-unido-mobilizam-se-para-apoiar-v%C3%ADtimas-das-enchentes-em-benguela",
-      "source": "Jornal de Angola"
-    },
-    {
-      "title": "Bié: Jornalistas defendem mais abertura às fontes de informaçãoO secretário Provincial do Sindicato dos Jornalistas no Bié, Edson Vieira, defendeu, este sábado, mais abertura às fontes de informação para o exercício pleno da profissão.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675254/bi%C3%A9:-jornalistas-defendem-mais-abertura-%C3%A0s-fontes-de-informa%C3%A7%C3%A3o",
-      "source": "Jornal de Angola"
-    },
-    {
-      "title": "Destaque Mais donativos chegam a Benguela para apoiar famílias afectadas pelas enchentes Os funcionários do Serviço de Inteligência e Segurança Militar (SISM) entregaram, este sábado, diversos bens para apoiar as famílias afectadas pelo transbordo das águas do rio Cavaco, na província de Benguela.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675249/mais-donativos-chegam-a-benguela-para-apoiar-fam%C3%ADlias-afectadas-pelas-enchentes-",
+      "title": "Destaque Empresários australianos convidados a investir na economia angolana Os empresários australianos foram convidados a investir na economia angolana e a conhecer o país como destino turístico, soube, este domingo, o JA Online através de uma nota de imprensa. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675310/empres%C3%A1rios-australianos-convidados-a-investir-na-economia-angolana",
       "source": "Jornal de Angola"
     },
     {
@@ -2560,6 +3400,16 @@
     {
       "title": " Governo exorta jornalistas a contribuírem para a pazO Executivo angolano exorta os profissionais da Comunicação Social ao exercício de um jornalismo que contribua para a consolidação da paz e do Estado Democrático de Direito, unidade nacional, desenvolvimento económico e social e à interiorização do sentimento patriótico",
       "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675260/-governo-exorta-jornalistas-a-contribu%C3%ADrem-para-a-paz",
+      "source": "Jornal de Angola"
+    },
+    {
+      "title": "Destaque Parlamento discute segunda-feira Proposta de Lei Contra Informações Falsas na InternetA Assembleia Nacional realiza, na segunda-feira, 4, a reunião conjunta para a discussão e votação, na especialidade, da Proposta de Lei Contra Informações Falsas na Internet.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675312/parlamento-discute-segunda-feira-proposta-de-lei-contra-informa%C3%A7%C3%B5es-falsas-na-internet",
+      "source": "Jornal de Angola"
+    },
+    {
+      "title": "Angola conquista dois primeiros lugares em patinagem africana  Angola conquistou, no sábado, na cidade do Cairo, no Egipto, dois primeiros lugares da competição \"Slalom battle\", em feminino, na abertura dos 4.° jogos africanos da modalidade, a decorrerem até à próxima quarta-feira.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/675311/angola-conquista-dois-primeiros-lugares-em-patinagem-africana-",
       "source": "Jornal de Angola"
     },
     {
@@ -2663,12 +3513,12 @@
       "source": "Jornal de Angola"
     },
     {
-      "title": "Economia / Há 6 horas Brent chega aos 126 dólares ",
+      "title": "Economia / Há 7 horas Brent chega aos 126 dólares ",
       "url": "https://www.jornaldeangola.ao/noticias/4/economia/675264/brent-chega-aos-126-d%C3%B3lares",
       "source": "Jornal de Angola"
     },
     {
-      "title": "Economia / Há 6 horas Seguradora segue à risca plano de indemnizações ",
+      "title": "Economia / Há 7 horas Seguradora segue à risca plano de indemnizações ",
       "url": "https://www.jornaldeangola.ao/noticias/4/economia/675263/seguradora-segue-%C3%A0-risca-plano-de-indemniza%C3%A7%C3%B5es",
       "source": "Jornal de Angola"
     },
@@ -2900,6 +3750,16 @@
     {
       "title": "Cultura",
       "url": "https://www.jornaldeangola.ao/noticias/0/5/cultura",
+      "source": "Jornal de Angola"
+    },
+    {
+      "title": "Última hora Angolanos no Reino Unido mobilizam-se para apoiar vítimas das enchentes em Benguela",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675256/angolanos-no-reino-unido-mobilizam-se-para-apoiar-v%C3%ADtimas-das-enchentes-em-benguela",
+      "source": "Jornal de Angola"
+    },
+    {
+      "title": "Última hora Bié: Jornalistas defendem mais abertura às fontes de informação",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675254/bi%C3%A9:-jornalistas-defendem-mais-abertura-%C3%A0s-fontes-de-informa%C3%A7%C3%A3o",
       "source": "Jornal de Angola"
     },
     {
@@ -3960,11 +4820,6 @@
     {
       "title": "“O Governo abre as portas aos investidores, mas depois há dificuldades com...",
       "url": "https://valoreconomico.co.ao/artigo/o-governo-abre-as-portas-aos-investidores-mas-depois-ha-dificuldades-com-licencas-vistos-e-outros-documentos-e-muito-dificil",
-      "source": "Valor Económico"
-    },
-    {
-      "title": "Produtores querem mecanização agrícola para aumentar produção",
-      "url": "https://valoreconomico.co.ao/artigo/produtores-querem-mecanizacao-agricola-para-aumentar-producao",
       "source": "Valor Económico"
     },
     {
@@ -6810,6 +7665,11 @@
     {
       "title": "Economia / Política ",
       "url": "https://valoreconomico.co.ao/artigos/economia-politica",
+      "source": "Valor Económico"
+    },
+    {
+      "title": "Produtores querem mecanização agrícola para aumentar produção",
+      "url": "https://valoreconomico.co.ao/artigo/produtores-querem-mecanizacao-agricola-para-aumentar-producao",
       "source": "Valor Económico"
     },
     {

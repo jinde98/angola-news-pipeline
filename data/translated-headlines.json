@@ -1,16 +1,40 @@
 {
   "date": "2026-05-03",
-  "total_new": 1,
-  "total_filtered": 1,
+  "total_new": 17,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "João Lourenço inaugura amanhã parque fotovoltaico do Luau",
-      "url": "https://www.opais.ao/politica/joao-lourenco-inaugura-amanha-parque-fotovoltaico-do-luau/",
-      "source": "O País",
-      "_key": "3cc165b044fd9d9a",
-      "score": 8,
-      "title_cn": "João Lourenço (若昂·洛伦索) 明天将启用卢奥光伏电站"
+      "title": "Destaque Empresários australianos convidados a investir na economia angolana Os empresários australianos foram convidados a investir na economia angolana e a conhecer o país como destino turístico, soube, este domingo, o JA Online através de uma nota de imprensa. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675310/empres%C3%A1rios-australianos-convidados-a-investir-na-economia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "bea2a15687ecc28f",
+      "score": 7,
+      "title_cn": "澳大利亚商人受邀投资安哥拉经济及旅游业"
+    },
+    {
+      "title": "Huíla começa a registar normalização da crise de gás de cozinha e gasolina",
+      "url": "https://correiokianda.info/huila-comeca-a-registar-normalizacao-da-crise-de-gas-e-gasolina/",
+      "source": "Correio Kianda",
+      "_key": "8eb8509c806164d2",
+      "score": 6,
+      "title_cn": "安哥拉威拉省厨用燃气和汽油短缺危机趋于正常化"
+    },
+    {
+      "title": "Sector de seguros em Angola com taxa de penetração abaixo de 1% do PIB",
+      "url": "https://holdonangola.com/sector-de-seguros-em-angola-com-taxa-de-penetracao-abaixo-de-1-do-pib/",
+      "source": "Hold On Angola",
+      "_key": "a7d223f19ae1f699",
+      "score": 6,
+      "title_cn": "安哥拉保险业渗透率不足GDP的1%"
+    },
+    {
+      "title": "Chinese researcher translated 15 Angolan books into Mandarin",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/investigador-chines-traduz-15-obras-angolanas-em-mandarim/",
+      "source": "ANGOP",
+      "_key": "1a8482a6a1ad4e8c",
+      "score": 5,
+      "title_cn": "中国学者将15本安哥拉书籍译成中文"
     }
   ]
 }

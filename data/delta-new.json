@@ -1,14 +1,110 @@
 {
   "date": "2026-05-03",
-  "total_extracted": 1477,
-  "total_new": 1,
-  "total_existing": 1476,
+  "total_extracted": 1649,
+  "total_new": 17,
+  "total_existing": 1632,
   "articles": [
     {
-      "title": "João Lourenço inaugura amanhã parque fotovoltaico do Luau",
-      "url": "https://www.opais.ao/politica/joao-lourenco-inaugura-amanha-parque-fotovoltaico-do-luau/",
-      "source": "O País",
-      "_key": "3cc165b044fd9d9a"
+      "title": "Handball - Petro de Luanda conquer men's provincial championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-petro-surpreende-1o-de-agosto-e-leva-provincial-masculino/",
+      "source": "ANGOP",
+      "_key": "43c5670ef33c4bce"
+    },
+    {
+      "title": "Girabola - Interclube beat Bravos dos Maquis",
+      "url": "https://www.angop.ao/en/noticias/desporto/interclube-vence-bravos-dos-maquis-e-sobe-ao-4.o-lugar/",
+      "source": "ANGOP",
+      "_key": "35c42e4ea51910f5"
+    },
+    {
+      "title": "Petro de Luanda win provincial women's handball championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-petro-conquista-provincial-feminino/",
+      "source": "ANGOP",
+      "_key": "e1c10e10c598ce55"
+    },
+    {
+      "title": "Angola debuts in African Jiu-Jitsu Championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/angola-estreia-no-campeonato-africano-de-jiu-jitsu/",
+      "source": "ANGOP",
+      "_key": "f1ebccbf965c821a"
+    },
+    {
+      "title": "AYG 4th Edition - Angola wins 2nd bronze in swimming",
+      "url": "https://www.angop.ao/en/noticias/desporto/desportos-nauticos-angola-garante-segundo-bronze-nos-jaj/",
+      "source": "ANGOP",
+      "_key": "884c0c75e13e5c41"
+    },
+    {
+      "title": "Health department attends over 900 patients during the New Year festive season",
+      "url": "https://www.angop.ao/en/noticias/saude/unidades-sanitarias-no-bengo-atendem-mais-de-900-pacientes-na-passagem-de-ano/",
+      "source": "ANGOP",
+      "_key": "1e26cdc9591a216d"
+    },
+    {
+      "title": "Chinese researcher translated 15 Angolan books into Mandarin",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/investigador-chines-traduz-15-obras-angolanas-em-mandarim/",
+      "source": "ANGOP",
+      "_key": "1a8482a6a1ad4e8c"
+    },
+    {
+      "title": "First Lady witnesses launch of book about Queen Njinga Mbandi",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/primeira-dama-testemunha-lancamento-da-obra-njinga-mbandi/",
+      "source": "ANGOP",
+      "_key": "131bac128c6b4a6f"
+    },
+    {
+      "title": "Huíla começa a registar normalização da crise de gás de cozinha e gasolina",
+      "url": "https://correiokianda.info/huila-comeca-a-registar-normalizacao-da-crise-de-gas-e-gasolina/",
+      "source": "Correio Kianda",
+      "_key": "8eb8509c806164d2"
+    },
+    {
+      "title": "Petro busca segunda vitória nos play-offs da final do Unitel Basket",
+      "url": "https://correiokianda.info/petro-busca-segunda-vitoria-nos-play-offs-da-final-do-unitel-basket/",
+      "source": "Correio Kianda",
+      "_key": "273d68044a173152"
+    },
+    {
+      "title": "Bloco Democrático denuncia retrocesso na liberdade de imprensa em Angola",
+      "url": "https://holdonangola.com/bloco-democratico-denuncia-retrocesso-na-liberdade-de-imprensa-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "e6f4bfbb6800cbf3"
+    },
+    {
+      "title": "O “Sim” da Esposa: Ana Maria Carneiro apoia candidatura de Higino Carneiro à liderança do MPLA",
+      "url": "https://holdonangola.com/o-sim-da-esposa-ana-maria-carneiro-apoia-candidatura-de-higino-carneiro-a-lideranca-do-mpla/",
+      "source": "Hold On Angola",
+      "_key": "1353e9188dbe59ef"
+    },
+    {
+      "title": "ISJ expande serviços às províncias para reforçar supervisão do jogo em Angola",
+      "url": "https://holdonangola.com/isj-expande-servicos-as-provincias-para-reforcar-supervisao-do-jogo-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "cd3f25165e0d79eb"
+    },
+    {
+      "title": "Sector de seguros em Angola com taxa de penetração abaixo de 1% do PIB",
+      "url": "https://holdonangola.com/sector-de-seguros-em-angola-com-taxa-de-penetracao-abaixo-de-1-do-pib/",
+      "source": "Hold On Angola",
+      "_key": "a7d223f19ae1f699"
+    },
+    {
+      "title": "Destaque Empresários australianos convidados a investir na economia angolana Os empresários australianos foram convidados a investir na economia angolana e a conhecer o país como destino turístico, soube, este domingo, o JA Online através de uma nota de imprensa. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675310/empres%C3%A1rios-australianos-convidados-a-investir-na-economia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "bea2a15687ecc28f"
+    },
+    {
+      "title": "Destaque Parlamento discute segunda-feira Proposta de Lei Contra Informações Falsas na InternetA Assembleia Nacional realiza, na segunda-feira, 4, a reunião conjunta para a discussão e votação, na especialidade, da Proposta de Lei Contra Informações Falsas na Internet.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675312/parlamento-discute-segunda-feira-proposta-de-lei-contra-informa%C3%A7%C3%B5es-falsas-na-internet",
+      "source": "Jornal de Angola",
+      "_key": "b3ef106f48328563"
+    },
+    {
+      "title": "Angola conquista dois primeiros lugares em patinagem africana  Angola conquistou, no sábado, na cidade do Cairo, no Egipto, dois primeiros lugares da competição \"Slalom battle\", em feminino, na abertura dos 4.° jogos africanos da modalidade, a decorrerem até à próxima quarta-feira.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/675311/angola-conquista-dois-primeiros-lugares-em-patinagem-africana-",
+      "source": "Jornal de Angola",
+      "_key": "9637b5142d22bc5f"
     }
   ]
 }
