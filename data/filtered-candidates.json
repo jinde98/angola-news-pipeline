@@ -1,22 +1,99 @@
 {
-  "date": "2026-05-02",
-  "total_new": 8,
-  "total_filtered": 2,
+  "date": "2026-05-03",
+  "total_new": 59,
+  "total_filtered": 13,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "TAAG anuncia regresso de aviões após manutenção e garante voos...",
-      "url": "https://valoreconomico.co.ao/artigo/taag-anuncia-regresso-de-avioes-apos-manutencao-e-garante-voos-domesticos",
-      "source": "Valor Económico",
-      "_key": "01165175fe8aa864",
+      "title": "Economia / Há 2 horas Brent chega aos 126 dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675264/brent-chega-aos-126-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "00a46fb52d4b42b4",
+      "score": 10
+    },
+    {
+      "title": "07:20 / 3 mai. 2026 Luanda acolhe terça e quarta-feira Fórum sobre o Corredor do Lobito ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675272/luanda-acolhe-ter%C3%A7a-e-quarta-feira-f%C3%B3rum-sobre-o-corredor-do-lobito--",
+      "source": "Jornal de Angola",
+      "_key": "a6c330e580e26864",
+      "score": 9
+    },
+    {
+      "title": "Luanda acolhe fórum sobre Oportunidades de investimento no Corredor do Lobito",
+      "url": "https://www.opais.ao/economia/luanda-acolhe-forum-sobre-oportunidades-de-investimento-no-corredor-do-lobito/",
+      "source": "O País",
+      "_key": "86c83d3b77b370f0",
+      "score": 9
+    },
+    {
+      "title": "Terrorism",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4419",
+      "source": "ANGOP",
+      "_key": "44ecb4187e19c840",
       "score": 7
     },
     {
-      "title": "Última hora Destacada cooperação com Japão na modernização de infra-estruturas de saúde",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675247/destacada-coopera%C3%A7%C3%A3o-com-jap%C3%A3o-na-moderniza%C3%A7%C3%A3o-de-infra-estruturas-de-sa%C3%BAde",
+      "title": "Jovem de 27 anos morto durante confronto entre grupos rivais no Golf 2",
+      "url": "https://correiokianda.info/jovem-de-27-anos-morto-durante-confronto-entre-grupos-rivais-no-golf-2/",
+      "source": "Correio Kianda",
+      "_key": "b096641789b35571",
+      "score": 7
+    },
+    {
+      "title": "Mundo03/05/2026África do Sul: Manifestações xenófobas geram protestos violentos",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675282/%C3%A1frica-do-sul:-manifesta%C3%A7%C3%B5es-xen%C3%B3fobas-geram-protestos-violentos",
       "source": "Jornal de Angola",
-      "_key": "ac1d4d9782b769e0",
+      "_key": "ffa821756a88de39",
+      "score": 7
+    },
+    {
+      "title": "Mais de 40 mil cidadãos retirados de focos de garimpo de ouro no Dongo",
+      "url": "https://correiokianda.info/mais-de-40-mil-cidadaos-retirados-de-focos-de-garimpo-de-ouro-no-dongo/",
+      "source": "Correio Kianda",
+      "_key": "f537bc21b4592c3a",
       "score": 6
+    },
+    {
+      "title": "Missão empresarial da Bélgica sonda oportunidades de negóciosUma delegação empresarial da Bélgica chega hoje a Angola para, até ao dia 9, trabalhar na identificação de oportunidades de investimento e reforço de parcerias com o sector privado nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675261/miss%C3%A3o-empresarial-da-b%C3%A9lgica-sonda-oportunidades-de-neg%C3%B3cios",
+      "source": "Jornal de Angola",
+      "_key": "fd848c91d0725d56",
+      "score": 6
+    },
+    {
+      "title": "07:21 / 3 mai. 2026 País defende reforço da cooperação com a Zâmbia na área de segurança ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675273/pa%C3%ADs-defende-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-com-a-z%C3%A2mbia-na-%C3%A1rea-de-seguran%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "9514bd0a56e07b96",
+      "score": 6
+    },
+    {
+      "title": "Última hora Comissão de Defesa e Segurança Angola - Zâmbia reúne-se em Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675251/comiss%C3%A3o-de-defesa-e-seguran%C3%A7a-angola---z%C3%A2mbia-re%C3%BAne-se-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "4a6432d1cbe393d6",
+      "score": 6
+    },
+    {
+      "title": "Angola e Zâmbia reúnem Comissão Mista Permanente de Defesa e Segurança",
+      "url": "https://www.opais.ao/ultimas_hora/angola-e-zambia-reunem-comissao-mista-permanente-de-defesa-e-seguranca/",
+      "source": "O País",
+      "_key": "ddefc4130515f58c",
+      "score": 6
+    },
+    {
+      "title": "Aquaculture project provides 500 Jobs",
+      "url": "https://www.angop.ao/en/noticias/economia/projecto-de-aquicultura-proporciona-500-postos-de-trabalho/",
+      "source": "ANGOP",
+      "_key": "e29ec480f779e562",
+      "score": 5
+    },
+    {
+      "title": "Huíla: especialistas pedem alternativas de renda após retirada de garimpeiros no Dongo",
+      "url": "https://correiokianda.info/operacao-quebra-molas-no-dongo-levanta-duvidas-sobre-sustentabilidade-dos-resultados/",
+      "source": "Correio Kianda",
+      "_key": "836d5c4daa529f26",
+      "score": 5
     }
   ]
 }
