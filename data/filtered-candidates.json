@@ -1,112 +1,14 @@
 {
   "date": "2026-05-04",
-  "total_new": 47,
-  "total_filtered": 15,
-  "scored_by": "gemini-flash",
+  "total_new": 41,
+  "total_filtered": 1,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Maquinaria, combustíveis e bens alimentares lideraram importações angolanas em 2025",
-      "url": "https://valoreconomico.co.ao/artigo/maquinaria-combustiveis-e-bens-alimentares-lideraram-importacoes-angolanas-em-2025",
+      "title": "Custos com a importação de bebidas e tabaco em Angola...",
+      "url": "https://valoreconomico.co.ao/artigo/custos-com-a-importacao-de-bebidas-e-tabaco-em-angola-ultrapassam-os-500-milhoes-de-dolares",
       "source": "Valor Económico",
-      "_key": "222cc0f96b47048a",
-      "score": 9
-    },
-    {
-      "title": "Receitas petrolíferas em Angola deverão cair para 6,7% em 2027 – FMI",
-      "url": "https://forbesafricalusofona.com/receitas-petroliferas-em-angola-deverao-cair-para-67-em-2027-fmi/",
-      "source": "Forbes África",
-      "_key": "c33443669c14783e",
-      "score": 8
-    },
-    {
-      "title": "Destaque Presidente da República inaugura Parque Fotovoltaico do Luau O Presidente da República, João Lourenço, inaugurou, há instantes, a central fotovoltaica do Luau, na província do Moxico, com capacidade instalada de 31,85 megawatts e 79 MW de armazenamento de energia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675395/presidente-da-rep%C3%BAblica-inaugura-parque-fotovoltaico-do-luau-",
-      "source": "Jornal de Angola",
-      "_key": "38681c68822b4d5a",
-      "score": 8
-    },
-    {
-      "title": "“Sem energia não há logística moderna”, nem condições para impulsionar o desenvolvimento regional”, destaca João Baptista Borges",
-      "url": "https://www.opais.ao/ultimas_hora/sem-energia-nao-ha-logistica-moderna-nem-condicoes-para-impulsionar-o-desenvolvimento-regional-destaca-joao-baptista-borges/",
-      "source": "O País",
-      "_key": "5ae5205911e9787a",
-      "score": 8
-    },
-    {
-      "title": "Destaque Crispiniano dos Santos considera parque fotovoltaico do Luau alicerce para desenvolvimento O parque fotovoltaico do Luau, na província do Moxico Leste, afirma-se como um dos alicerces do processo de desenvolvimento da região, considerou, hoje, o governador local, Crispiniano dos Santos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675394/crispiniano-dos-santos-considera-parque-fotovoltaico-do-luau-alicerce-para-desenvolvimento-",
-      "source": "Jornal de Angola",
-      "_key": "b592a97e5967ac57",
-      "score": 7
-    },
-    {
-      "title": "SME diz que deu resposta a todos os pedidos de passaporte...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sme-diz-que-deu-resposta-a-todos-os-pedidos-de-passaporte-no-centro-de-apoio-da-baia-de-luanda---quem-fez-pedido-foi-surpreendido-com-novo-modelo-electronico-71583.html",
-      "source": "Novo Jornal",
-      "_key": "72a7c734bf63f701",
-      "score": 7
-    },
-    {
-      "title": "LUANDA DOWNTOWN: NEGÓCIO E EMPRESA. O peso do Estado na economia angolana. ",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=71586",
-      "source": "Novo Jornal",
-      "_key": "146c2eedb2d7925a",
-      "score": 7
-    },
-    {
-      "title": "Governador do Moxico Leste destaca impacto da central solar do Luau no desenvolvimento regional",
-      "url": "https://www.opais.ao/ultimas_hora/governador-do-moxico-leste-destaca-impacto-da-central-solar-do-luau-no-desenvolvimento-regional/",
-      "source": "O País",
-      "_key": "517a9129139c51e4",
-      "score": 7
-    },
-    {
-      "title": "Litígios de terra lideram queixas na provedoria da Justiça",
-      "url": "https://valoreconomico.co.ao/artigo/litigios-de-terra-lideram-queixas-na-provedoria-da-justica",
-      "source": "Valor Económico",
-      "_key": "d6d9eeeaa337e88a",
-      "score": 7
-    },
-    {
-      "title": "Moxico Leste aposta na energia solar para dinamizar economia local",
-      "url": "https://correiokianda.info/moxico-leste-aposta-na-energia-solar-para-dinamizar-economia-local/",
-      "source": "Correio Kianda",
-      "_key": "7e29233bfc56e0a8",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Detidos falsos agentes da Polícia Nacional em Belas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675378/detidos-falsos-agentes-da-pol%C3%ADcia-nacional-em-belas",
-      "source": "Jornal de Angola",
-      "_key": "0a7e2210c1413ff0",
-      "score": 6
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: DESTAQUES DA SEMANA Comércio com África vale apenas 6% das trocas comerciais angolanas.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=71582",
-      "source": "Novo Jornal",
-      "_key": "615914c38342ae51",
-      "score": 6
-    },
-    {
-      "title": "Detidos dois cidadãos por roubo de material hospitalar no Calumbo",
-      "url": "https://www.opais.ao/ultimas_hora/detidos-dois-cidadaos-por-roubo-de-material-hospitalar-no-calumbo/",
-      "source": "O País",
-      "_key": "4d788ae24ed50dc8",
-      "score": 5
-    },
-    {
-      "title": "Polícia Nacional apreende 400 gramas de cocaína nas últimas 72 horas em Luanda",
-      "url": "https://www.opais.ao/ultimas_hora/policia-nacional-apreende-400-gramas-de-cocaina-nas-ultimas-72-horas-em-luanda/",
-      "source": "O País",
-      "_key": "c11be37375ca7680",
-      "score": 5
-    },
-    {
-      "title": "Apreendidas mais de cem pedras de diamantes na Lunda-Norte",
-      "url": "https://www.opais.ao/ultimas_hora/apreendidas-mais-de-cem-pedras-de-diamantes-na-lunda-norte/",
-      "source": "O País",
-      "_key": "66b185493389db57",
+      "_key": "bf84cb20293347fe",
       "score": 5
     }
   ]
