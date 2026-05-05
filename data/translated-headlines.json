@@ -1,48 +1,104 @@
 {
   "date": "2026-05-05",
-  "total_new": 167,
-  "total_filtered": 5,
-  "scored_by": "keyword",
+  "total_new": 39,
+  "total_filtered": 12,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "One in every five dollars Angola spent abroad went to China",
-      "url": "https://www.negociosdeangola.com/en/one-in-every-five-dollars-angola-spent-abroad-went-to-china/",
-      "source": "Negócios de Angola",
-      "_key": "235c8b39dafcf6a2",
+      "title": "Angola-EU Lobito Corridor Business Forum Begins",
+      "url": "https://www.angop.ao/en/noticias/economia/inicia-se-3o-forum-de-negocios-angola-uniao-europeia/",
+      "source": "ANGOP",
+      "_key": "7db75e1105775072",
+      "score": 9,
+      "title_cn": "安哥拉-欧盟洛比托走廊商业论坛开幕"
+    },
+    {
+      "title": "Destaque Empresários europeus convidados a investir no Corredor do LobitoO Executivo reiterou, esta terça-feira, o convite aos empresários europeus para aprofundarem a presença em Angola, aproveitando as oportunidades emergentes, particularmente no Corredor do Lobito. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675457/empres%C3%A1rios-europeus-convidados-a-investir-no-corredor-do-lobito",
+      "source": "Jornal de Angola",
+      "_key": "ef54de70b353d051",
       "score": 7,
-      "title_cn": "安哥拉在国外花费的每五美元中就有一美元流向了中国"
+      "title_cn": "突出：政府重申邀请欧洲企业家投资洛比托走廊"
     },
     {
-      "title": "Expo Sumbe generates 127 million Kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/feira-agropecuaria-reforca-economia-do-sumbe-com-127-milhoes-de-kwanzas/",
+      "title": "Economia Mais de 200 empresas europeias buscam oportunidades de negócio no Corredor do Lobito ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675428/mais-de-200-empresas-europeias-buscam-oportunidades-de-neg%C3%B3cio-no-corredor-do-lobito-",
+      "source": "Jornal de Angola",
+      "_key": "2a35bf13c0c22a4a",
+      "score": 7,
+      "title_cn": "经济：超过200家欧洲企业寻求洛比托走廊商机"
+    },
+    {
+      "title": "Governor highlights improved business environment in Luau",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-destaca-impacto-da-central-solar-na-melhoria-do-ambiente-de-negocio/",
       "source": "ANGOP",
-      "_key": "7a003af2ab696e35",
-      "score": 5,
-      "title_cn": "松贝博览会产生1.27亿宽扎的收入"
+      "_key": "ee2b052d688b66fe",
+      "score": 6,
+      "title_cn": "省长强调卢阿营商环境改善"
     },
     {
-      "title": "Agricultural Fair generates 1.4 billion kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/feira-agropecuaria-movimenta-1-4-mil-milhoes-de-kwanzas/",
+      "title": "ABO points mining sector as Angola's attracting investment key",
+      "url": "https://www.angop.ao/en/noticias/economia/african-bank-of-oman-aponta-sector-mineiro-como-determinante-na-captacao-de-investimento-em-angola/",
       "source": "ANGOP",
-      "_key": "bce1b7f8f288a27b",
-      "score": 5,
-      "title_cn": "农业博览会产生14亿宽扎收入"
+      "_key": "bfebbbb2d7133f52",
+      "score": 6,
+      "title_cn": "ABO指出矿业是安哥拉吸引投资的关键"
     },
     {
-      "title": "Petróleo cede com expectativa de reabertura no Estreito de Ormuz",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-cede-com-expectativa-de-reabertura-no-estreito-de-ormuz-71592.html",
-      "source": "Expansão",
-      "_key": "bd3df64abd530340",
-      "score": 5,
-      "title_cn": "霍尔木兹海峡石油预计将重新开放"
-    },
-    {
-      "title": "Hidroeléctrica de Cahora Bassa de Moçambique alcança lucro de 112 milhões de dólares em 2025",
-      "url": "https://forbesafricalusofona.com/hidroelectrica-de-cahora-bassa-de-mocambique-alcanca-lucro-de-112-milhoes-de-dolares-em-2025/",
+      "title": "Dubai Investments já aplicou 10 milhões USD em mega projecto em Angola",
+      "url": "https://forbesafricalusofona.com/dubai-investments-ja-aplicou-10-milhoes-usd-em-mega-projecto-em-angola/",
       "source": "Forbes África",
-      "_key": "965a4cd002e84c11",
+      "_key": "05f3107e6ecb5607",
+      "score": 6,
+      "title_cn": "迪拜投资公司在安哥拉大项目已投1000万美元"
+    },
+    {
+      "title": "Destaque Centrais solares poupam ao Estado cerca de 200 mil milhões de kwanzas por anoA substituição das centrais térmicas a gasóleo por unidades fotovoltaicas em várias províncias do país representa uma poupança anual estimada em 200 mil milhões de kwanzas aos cofres do Estado e uma redução no consumo de mais de 500 milhões de litros de combustível.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675460/centrais-solares-poupam-ao-estado-cerca-de-200-mil-milh%C3%B5es-de-kwanzas-por-ano",
+      "source": "Jornal de Angola",
+      "_key": "a939ba29deb316be",
+      "score": 6,
+      "title_cn": "突出：太阳能电站每年为国家节省约2000亿宽扎"
+    },
+    {
+      "title": "Ministro das Obras Públicas avalia hoje infra-estruturas rodoviárias no Zaire",
+      "url": "https://www.opais.ao/ultimas_hora/ministro-das-obras-publicas-avalia-hoje-infra-estruturas-rodoviarias-no-zaire/",
+      "source": "O País",
+      "_key": "8c8afb5ef99278a2",
+      "score": 6,
+      "title_cn": "公共工程部长今日视察扎伊尔省公路基础设施"
+    },
+    {
+      "title": "BPC rejeitou quase metade dos pedidos de empresas vandalizadas por...",
+      "url": "https://valoreconomico.co.ao/artigo/bpc-rejeitou-quase-metade-dos-pedidos-de-empresas-vandalizadas-por-incumprimento-dos-requisitos",
+      "source": "Valor Económico",
+      "_key": "bbfaf3a50f0420c0",
+      "score": 6,
+      "title_cn": "普拉亚银行拒绝近半数遭...破坏企业的申请"
+    },
+    {
+      "title": "Falta de sistema nas lojas de registo deve-se a quebra nas telecomunicações, esclarece ministério",
+      "url": "https://correiokianda.info/falta-de-sistema-nas-lojas-de-registo-deve-se-a-quebra-das-telecomunicacoes-esclarece-ministerio/",
+      "source": "Correio Kianda",
+      "_key": "815d7ef9ab9d13db",
       "score": 5,
-      "title_cn": "莫桑比克卡霍拉巴萨水电站 2025 年利润 1.12 亿美元"
+      "title_cn": "部门澄清：登记处系统故障系电信中断所致"
+    },
+    {
+      "title": "Destaque Comissão para Política Social analisa diplomas sobre Educação e Ensino SuperorA ministra de Estado para a Área Social, Maria do Rosário Bragança, orientou, na manhã desta terça-feira, em Luanda, a terceira Reunião Ordinária da Comissão para Política Social do Conselho de Ministros.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675456/comiss%C3%A3o-para-pol%C3%ADtica-social-analisa-diplomas-sobre-educa%C3%A7%C3%A3o-e-ensino-superor",
+      "source": "Jornal de Angola",
+      "_key": "c8bd6e8a47d97fe6",
+      "score": 5,
+      "title_cn": "突出：社会政策委员会审议教育及高等教育法案"
+    },
+    {
+      "title": "Sociedade Zungueiras detidas por agressão a fiscal na Ingombota ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675458/zungueiras-detidas-por-agress%C3%A3o-a-fiscal-na-ingombota",
+      "source": "Jornal de Angola",
+      "_key": "7572a850e8d8961a",
+      "score": 5,
+      "title_cn": "旺古埃拉妇女协会成员因袭击税务员被捕"
     }
   ]
 }
