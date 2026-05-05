@@ -1,16 +1,48 @@
 {
-  "date": "2026-05-04",
-  "total_new": 41,
-  "total_filtered": 1,
+  "date": "2026-05-05",
+  "total_new": 167,
+  "total_filtered": 5,
   "scored_by": "keyword",
   "articles": [
     {
-      "title": "Custos com a importação de bebidas e tabaco em Angola...",
-      "url": "https://valoreconomico.co.ao/artigo/custos-com-a-importacao-de-bebidas-e-tabaco-em-angola-ultrapassam-os-500-milhoes-de-dolares",
-      "source": "Valor Económico",
-      "_key": "bf84cb20293347fe",
+      "title": "One in every five dollars Angola spent abroad went to China",
+      "url": "https://www.negociosdeangola.com/en/one-in-every-five-dollars-angola-spent-abroad-went-to-china/",
+      "source": "Negócios de Angola",
+      "_key": "235c8b39dafcf6a2",
+      "score": 7,
+      "title_cn": "安哥拉在国外花费的每五美元中就有一美元流向了中国"
+    },
+    {
+      "title": "Expo Sumbe generates 127 million Kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/feira-agropecuaria-reforca-economia-do-sumbe-com-127-milhoes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "7a003af2ab696e35",
       "score": 5,
-      "title_cn": "安哥拉饮料和烟草进口成本"
+      "title_cn": "松贝博览会产生1.27亿宽扎的收入"
+    },
+    {
+      "title": "Agricultural Fair generates 1.4 billion kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/feira-agropecuaria-movimenta-1-4-mil-milhoes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "bce1b7f8f288a27b",
+      "score": 5,
+      "title_cn": "农业博览会产生14亿宽扎收入"
+    },
+    {
+      "title": "Petróleo cede com expectativa de reabertura no Estreito de Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-cede-com-expectativa-de-reabertura-no-estreito-de-ormuz-71592.html",
+      "source": "Expansão",
+      "_key": "bd3df64abd530340",
+      "score": 5,
+      "title_cn": "霍尔木兹海峡石油预计将重新开放"
+    },
+    {
+      "title": "Hidroeléctrica de Cahora Bassa de Moçambique alcança lucro de 112 milhões de dólares em 2025",
+      "url": "https://forbesafricalusofona.com/hidroelectrica-de-cahora-bassa-de-mocambique-alcanca-lucro-de-112-milhoes-de-dolares-em-2025/",
+      "source": "Forbes África",
+      "_key": "965a4cd002e84c11",
+      "score": 5,
+      "title_cn": "莫桑比克卡霍拉巴萨水电站 2025 年利润 1.12 亿美元"
     }
   ]
 }
