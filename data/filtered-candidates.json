@@ -1,49 +1,259 @@
 {
   "date": "2026-05-06",
-  "total_new": 124,
-  "total_filtered": 6,
-  "scored_by": "keyword",
+  "total_new": 69,
+  "total_filtered": 36,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Empresas afectadas pelas chuvas em Benguela têm 30 dias para aceder a crédito até 300 milhões de kwanzas",
-      "url": "https://correiokianda.info/empresas-afectadas-pelas-chuvas-em-benguela-tem-30-dias-para-aceder-a-credito-ate-300-milhoes-de-kwanzas/",
+      "title": "Corredor do Lobito: Fórum Angola-UE arranca com foco em investimento e parcerias estratégicas",
+      "url": "https://correiokianda.info/corredor-do-lobito-forum-angola-ue-arranca-com-foco-em-investimento-e-parcerias-estrategicas/",
       "source": "Correio Kianda",
-      "_key": "3a037b0395c3a19d",
-      "score": 5
+      "_key": "d7cb9f447ad4c360",
+      "score": 10
     },
     {
-      "title": "        África4 horas atrás  Zâmbia rejeita financiamento dos EUA e aponta preocupações com soberania A Zambia revelou que a rejeição de um pacote de financiamento à saúde avaliado em 2 mil milhões de dólares, proposto pelos United States, esteve ancorada...   ",
-      "url": "https://correiokianda.info/zambia-rejeita-financiamento-dos-eua-e-aponta-preocupacoes-com-soberania/",
-      "source": "Correio Kianda",
-      "_key": "dc9cc5cfa7fd4bd2",
-      "score": 5
+      "title": "Mitrelli and Angola’s Sovereign Wealth Fund Advance USD 1 Billion Lobito Corridor Platform05/06/2026",
+      "url": "https://www.negociosdeangola.com/en/mitrelli-and-angolas-sovereign-wealth-fund-advance-usd-1-billion-lobito-corridor-platform/",
+      "source": "Negócios de Angola",
+      "_key": "3da806a3caecf5f6",
+      "score": 10
     },
     {
-      "title": "Petróleo amplia queda após Trump indicar possível acordo de paz com o Irão",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-amplia-queda-apos-trump-indicar-possivel-acordo-de-paz-com-o-irao-71620.html",
-      "source": "Expansão",
-      "_key": "b030fa6db5fd9cc4",
-      "score": 5
-    },
-    {
-      "title": "Banca angolana lucra 951 mil milhões de kwanzas 2025 – Relatório do BNA",
-      "url": "https://forbesafricalusofona.com/banca-angolana-lucra-951-mil-milhoes-de-kwanzas-2025-relatorio-do-bna/",
-      "source": "Forbes África",
-      "_key": "5d2b82d27e3f8fb4",
-      "score": 5
-    },
-    {
-      "title": "Petróleo: Barril aguenta pressão da Casa Branca e não...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-aguenta-pressao-da-casa-branca-e-nao-desce-dos-110-usd-71614.html",
+      "title": "Petróleo: Barril de Brent em queda livre após anúncio...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-em-queda-livre-apos-anuncio-de-trump-sobre-recuo-na-operacao-liberdade-mo-golfo-persico-71628.html",
       "source": "Novo Jornal",
-      "_key": "cad5e52fa56bb25f",
+      "_key": "51f08ad163f6da94",
+      "score": 10
+    },
+    {
+      "title": "BNA vende 105 milhões de dólares a companhias aéreas para regularizar pendentes",
+      "url": "https://angola24horas.com/economia/item/34271-bna-vende-105-milhoes-de-dolares-a-companhias-aereas-para-regularizar-pendentes",
+      "source": "Angola 24 Horas",
+      "_key": "d3b3731d82c48555",
+      "score": 9
+    },
+    {
+      "title": "Brent abre sessão de venda acima dos 107 dólares por barril",
+      "url": "https://correiokianda.info/brent-abre-sessao-de-venda-acima-dos-107-dolares-por-barril/",
+      "source": "Correio Kianda",
+      "_key": "024db16a905f1808",
+      "score": 9
+    },
+    {
+      "title": "Alargamento da rede rodoviária nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/675520/alargamento-da-rede-rodovi%C3%A1ria-nacional-",
+      "source": "Jornal de Angola",
+      "_key": "aa6622c656529f7c",
+      "score": 9
+    },
+    {
+      "title": "Country has already spent more than USD 4 billion on imports in the first quarter",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9821",
+      "source": "Negócios de Angola",
+      "_key": "0ab063fd31cf005c",
+      "score": 9
+    },
+    {
+      "title": "Luau recebe maior parque solar off-grid de África com investimento de 87 milhões de euros",
+      "url": "https://diariodosnegocios.com/luau-recebe-maior-parque-solar-off-grid-de-africa-com-investimento-de-87-milhoes-de-euros/",
+      "source": "Diário dos Negócios",
+      "_key": "508e7865204486d6",
+      "score": 8
+    },
+    {
+      "title": " Luau recebe maior parque solar off-grid de África com investimento de 87 milhões de euros ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_035a564e6ac1a9",
+      "score": 8
+    },
+    {
+      "title": "“Angola vive actualmente um momento de maior estabilidade macroeconómica”, afirma José de Lima Massano",
+      "url": "https://forbesafricalusofona.com/angola-vive-actualmente-um-momento-de-maior-estabilidade-macroeconomica-afirma-jose-de-lima-massano/",
+      "source": "Forbes África",
+      "_key": "9b670bd13eec8295",
+      "score": 8
+    },
+    {
+      "title": "Sociedade Angola atrai tecnologias belgas para sector da Saúde ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675485/angola-atrai-tecnologias-belgas-para-sector-da-sa%C3%BAde--",
+      "source": "Jornal de Angola",
+      "_key": "772d6d4e3a692f3e",
+      "score": 7
+    },
+    {
+      "title": "Sociedade05/05/2026Abordadas soluções tecnológicas para desenvolvimento urbano de Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675483/abordadas-solu%C3%A7%C3%B5es-tecnol%C3%B3gicas-para-desenvolvimento-urbano-de-luanda",
+      "source": "Jornal de Angola",
+      "_key": "eb8ec2fc5eef8d22",
+      "score": 7
+    },
+    {
+      "title": "Fábrica de massa de tomate inaugurada em Fevereiro à espera...",
+      "url": "https://valoreconomico.co.ao/artigo/fabrica-de-massa-de-tomate-inaugurada-em-fevereiro-a-espera-de-materia-prima-para-arrancar",
+      "source": "Valor Económico",
+      "_key": "7a3a27e71217311c",
+      "score": 7
+    },
+    {
+      "title": "Situação de calamidade obriga adiamento da Feira Internacional de Benguela",
+      "url": "https://correiokianda.info/situacao-de-calamidade-obriga-adiamento-da-feira-internacional-de-benguela/",
+      "source": "Correio Kianda",
+      "_key": "a27b7948d2051155",
+      "score": 6
+    },
+    {
+      "title": "Estado recebe menos 85% de dividendos do BPC apesar de aumento salarial de gestores",
+      "url": "https://diariodosnegocios.com/estado-recebe-menos-85-de-dividendos-do-bpc-apesar-de-aumento-salarial-de-gestores/",
+      "source": "Diário dos Negócios",
+      "_key": "ad30aa7bdce1fe57",
+      "score": 6
+    },
+    {
+      "title": " Estado recebe menos 85% de dividendos do BPC apesar de aumento salarial de gestores ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5d19eca00e76f3",
+      "score": 6
+    },
+    {
+      "title": "Supremo julga juiz acusado de desbloquear contas ilegalmente",
+      "url": "https://holdonangola.com/supremo-julga-juiz-acusado-de-desbloquear-contas-ilegalmente/",
+      "source": "Hold On Angola",
+      "_key": "14190c941c6d2f08",
+      "score": 6
+    },
+    {
+      "title": "BPC regista um resultado líquido de 4 mil milhões de Kwanzas em 2025",
+      "url": "https://holdonangola.com/bpc-regista-um-resultado-liquido-de-4-mil-milhoes-de-kwanzas-em-2025/",
+      "source": "Hold On Angola",
+      "_key": "5dd1fc187c29569c",
+      "score": 6
+    },
+    {
+      "title": "Destaque João Lourenço: Cooperação com Gabão \"deve conhecer um outro dinamismo\"A cooperação e intercâmbio com o Gabão \"deve passar a conhecer um outro dinamismo\" no quadro do acordo geral de cooperação cultural, científica e técnica assinado em 1982 e de outros acordos importantes rubricados posteriormente.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675562/jo%C3%A3o-louren%C3%A7o:-coopera%C3%A7%C3%A3o-com-gab%C3%A3o-%22deve-conhecer-um-outro-dinamismo%22",
+      "source": "Jornal de Angola",
+      "_key": "80a2e19f7180b978",
+      "score": 6
+    },
+    {
+      "title": "Política Juiz é acusado de liderar esquema para desbloquear contas bancárias ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675497/juiz-%C3%A9-acusado-de-liderar-esquema-para-desbloquear-contas-banc%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "fc56cc0865efbb28",
+      "score": 6
+    },
+    {
+      "title": "Mundo Chefe da diplomacia iraniana em Pequim para falar com homólogo chinês ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675481/chefe-da-diplomacia-iraniana-em-pequim-para-falar-com-hom%C3%B3logo-chin%C3%AAs",
+      "source": "Jornal de Angola",
+      "_key": "fec7b4236c1e2da8",
+      "score": 6
+    },
+    {
+      "title": "Mundo Daniel Chapo visita homólogo sul-africano para tratar assuntos relacionados com segurança dos cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675480/daniel-chapo-visita-hom%C3%B3logo-sul-africano-para-tratar-assuntos-relacionados-com-seguran%C3%A7a-dos-cidad%C3%A3os",
+      "source": "Jornal de Angola",
+      "_key": "285f471dd83c7d8d",
+      "score": 6
+    },
+    {
+      "title": "Angola no topo do turismo de África",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/675521/angola-no-topo--do-turismo-de-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "c9f1551998e8e406",
+      "score": 6
+    },
+    {
+      "title": "Feira Internacional de Benguela adiada para setembro...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/feira-internacional-de-benguela-adiada-para-setembro-devido-as-cheias-71623.html",
+      "source": "Novo Jornal",
+      "_key": "385c6b6d29810303",
+      "score": 6
+    },
+    {
+      "title": "Presidente da República destaca importância da visita do homólogo gabonês",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-destaca-importancia-da-visita-do-homologo-gabones/",
+      "source": "O País",
+      "_key": "658c38b5d823b4c9",
+      "score": 6
+    },
+    {
+      "title": "Presidente João Lourenço e Brice Oligui Nguema analisam cooperação bilateral",
+      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-e-brice-oligui-nguema-analisam-cooperacao-bilateral/",
+      "source": "O País",
+      "_key": "99bd19fe705d98c8",
+      "score": 6
+    },
+    {
+      "title": "Presidente do Gabão discursa no Parlamento no primeiro dia da visita a Angola",
+      "url": "https://correiokianda.info/presidente-do-gabao-discursa-no-parlamento-no-primeiro-dia-da-visita-a-angola/",
+      "source": "Correio Kianda",
+      "_key": "d1edb51164cf8b10",
       "score": 5
     },
     {
-      "title": "Tribunal julga juiz acusado de defraudar mais de 480 milhões de kwanzas e um milhão de dólares",
-      "url": "https://www.opais.ao/sociedade/tribunal-julga-juiz-acusado-de-defraudar-mais-de-480-milhoes-de-kwanzas-e-um-milhao-de-dolares/",
+      "title": "Tensão no Golfo: Paquistão elogia decisão de Trump de suspender operação no Estreito de Ormuz",
+      "url": "https://correiokianda.info/tensao-no-golfo-paquistao-elogia-decisao-de-trump-de-suspender-operacao-no-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "330e30407187c812",
+      "score": 5
+    },
+    {
+      "title": "        África20 minutos atrás  Chapo e Ramaphosa reúnem-se para travar tensão xenófoba na África do Sul O Presidente de Moçambique, Daniel Chapo, encontra-se esta quarta-feira, 6 de Maio de 2026, na África do Sul, onde mantém um encontro com o seu homólogo,...   ",
+      "url": "https://correiokianda.info/chapo-e-ramaphosa-reunem-se-para-travar-tensao-xenofoba-na-africa-do-sul/",
+      "source": "Correio Kianda",
+      "_key": "b8705c9824d8881b",
+      "score": 5
+    },
+    {
+      "title": "TAAG anuncia para este ano retoma da ligação com Cabo Verde",
+      "url": "https://forbesafricalusofona.com/taag-anuncia-para-este-ano-retoma-da-ligacao-com-cabo-verde/",
+      "source": "Forbes África",
+      "_key": "14e58cadec3a72ba",
+      "score": 5
+    },
+    {
+      "title": "Destaque Brice Nguema rende homenagem a António Agostinho Neto O Presidente gabonês, Brice Clotaire Oligui Nguema, rendeu, hoje, homenagem ao primeiro estadista angolano, António Agostinho Neto, com a deposição de uma coroa de flores no sarcófago.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675535/brice-nguema-rende-homenagem-a-ant%C3%B3nio-agostinho-neto-",
+      "source": "Jornal de Angola",
+      "_key": "95bc1311f4ec3657",
+      "score": 5
+    },
+    {
+      "title": "Destaque Presidente do Gabão já está em Luanda para visita oficial de EstadoO Chefe de Estado do Gabão, Brice Clotaire Oligui Nguema, chegou na manhã desta quarta-feira a Luanda para uma visita de Estado de três dias, com o propósito de reforçar a cooperação bilateral com o seu homólogo angolano, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675532/presidente-do-gab%C3%A3o-j%C3%A1-est%C3%A1-em-luanda-para-visita-oficial-de-estado",
+      "source": "Jornal de Angola",
+      "_key": "0abb9d0fe60cf47b",
+      "score": 5
+    },
+    {
+      "title": "Destaque Presidente João Lourenço recebe Brice Nguema no Palácio Presidencial O Chefe de Estado, João Lourenço, recebeu, na manhã de hoje, no Palácio Presidencial da Cidade Alta, em Luanda, o seu homólogo do Gabão, Brice Nguema, que cumpre uma visita oficial a Angola, de três dias. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675542/presidente-jo%C3%A3o-louren%C3%A7o-recebe-brice-nguema-no-pal%C3%A1cio-presidencial-",
+      "source": "Jornal de Angola",
+      "_key": "1d3aa594a7ce4af2",
+      "score": 5
+    },
+    {
+      "title": "Mundo Irão cria novo organismo para gerir tráfego marítimo pelo Estreito de Ormuz ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675561/ir%C3%A3o-cria-novo-organismo-para-gerir-tr%C3%A1fego-mar%C3%ADtimo-pelo-estreito-de-ormuz",
+      "source": "Jornal de Angola",
+      "_key": "8f21e6ef03fb0cac",
+      "score": 5
+    },
+    {
+      "title": "‎Detidos cidadãos implicados na morte de dois sobas e um regedor no Bié",
+      "url": "https://www.opais.ao/ultimas_hora/detidos-cidadaos-implicados-na-morte-de-dois-sobas-e-um-regedor-no-bie/",
       "source": "O País",
-      "_key": "fa3be4fffcfdec9f",
+      "_key": "96c2a494d289db72",
+      "score": 5
+    },
+    {
+      "title": "SPCB regista 17 mortes no último fim-de-semana",
+      "url": "https://www.opais.ao/sociedade/spcb-regista-17-mortes-no-ultimo-fim-de-semana/",
+      "source": "O País",
+      "_key": "3c6cddbd7feb927a",
       "score": 5
     }
   ]
