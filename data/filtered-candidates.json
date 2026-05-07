@@ -1,63 +1,84 @@
 {
   "date": "2026-05-07",
-  "total_new": 63,
-  "total_filtered": 8,
-  "scored_by": "keyword",
+  "total_new": 26,
+  "total_filtered": 11,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Posição da China sobre situação de Ormuz é muito clara, diz porta-voz",
-      "url": "https://www.opais.ao/mundo/posicao-da-china-sobre-situacao-de-ormuz-e-muito-clara-diz-porta-voz/",
-      "source": "O País",
-      "_key": "77141a34e838502c",
+      "title": "Banco Nacional de Angola admite recorrer às reservas para estabilizar mercado cambial",
+      "url": "https://angola24horas.com/economia/item/34278-banco-nacional-de-angola-admite-recorrer-as-reservas-para-estabilizar-mercado-cambial",
+      "source": "Angola 24 Horas",
+      "_key": "c275536fb938a8c5",
+      "score": 10
+    },
+    {
+      "title": "Refinaria de Cabinda inicia produção limitada e Governo rejeita cenário de fracasso",
+      "url": "https://angola24horas.com/sociedade/item/34279-refinaria-de-cabinda-inicia-producao-limitada-e-governo-rejeita-cenario-de-fracasso",
+      "source": "Angola 24 Horas",
+      "_key": "3c5aa312d4fd0674",
+      "score": 8
+    },
+    {
+      "title": "“Atrasos do Estado no pagamento das dívidas às empresas estão a distorcer preços e a encarecer a economia”, diz economista",
+      "url": "https://correiokianda.info/atrasos-do-estado-no-pagamento-das-dividas-as-empresas-estao-a-distorcer-precos-e-a-encarecer-a-economia-diz-economista/",
+      "source": "Correio Kianda",
+      "_key": "b8911c29ef894f14",
+      "score": 8
+    },
+    {
+      "title": "Governo diz que refinaria de Cabinda \"não é um nado...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-diz-que-refinaria-de-cabinda-nao-e-um-nado-morto---unidade-iniciou-producao-no-mes-de-fevereiro-garante-71656.html",
+      "source": "Novo Jornal",
+      "_key": "93e638209b2f25c2",
+      "score": 8
+    },
+    {
+      "title": "Angola Telecom vai ser transformada em sociedade anónima...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-telecom-vai-ser-transformada-em-sociedade-anonima-de-capitais-publicos-para-preparar-privatizacao-de-15-do-capital-social-71659.html",
+      "source": "Novo Jornal",
+      "_key": "0eb9fc231b37c96f",
       "score": 7
     },
     {
-      "title": "ARC aprova 14 operações de fusões e aquisições avaliadas em 3,4 biliões de Kwanzas em 2025",
-      "url": "https://diariodosnegocios.com/arc-aprova-14-operacoes-de-fusoes-e-aquisicoes-avaliadas-em-34-bilioes-de-kwanzas-em-2025/",
-      "source": "Diário dos Negócios",
-      "_key": "00f24397e8e2b3fd",
-      "score": 5
-    },
-    {
-      "title": " ARC aprova 14 operações de fusões e aquisições avaliadas em 3,4 biliões de Kwanzas em 2025 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7b494b47e3d2d5",
-      "score": 5
-    },
-    {
-      "title": "BAD aprova 300 milhões de dólares para impulsionar desenvolvimento do Corredor do Lobito",
-      "url": "https://jornaloguardiao.com/2026/05/07/bad-aprova-300-milhoes-de-dolares-para-impulsionar-desenvolvimento-do-corredor-do-lobito/",
-      "source": "Jornal O Guardião",
-      "_key": "d894593e64efb052",
-      "score": 5
-    },
-    {
-      "title": "Juiz acusado de autorizar transferências ilegais de mais de 1,3 milhões de dólares começa a ser julgado no Supremo Tribunal",
-      "url": "https://jornaloguardiao.com/2026/05/07/juiz-acusado-de-autorizar-transferencias-ilegais-de-mais-de-13-milhoes-de-dolares-comeca-a-ser-julgado-no-supremo-tribunal/",
-      "source": "Jornal O Guardião",
-      "_key": "0a1b1edd0781c946",
-      "score": 5
-    },
-    {
-      "title": " BAD aprova 300 milhões de dólares para impulsionar desenvolvimento do Corredor do Lobito ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d0a05c991827b3",
-      "score": 5
-    },
-    {
-      "title": " Juiz acusado de autorizar transferências ilegais de mais de 1,3 milhões de dólares começa a ser julgado no Supremo Tribunal ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_6440a997ed4314",
-      "score": 5
-    },
-    {
-      "title": "Destaque Angola disponível para partilhar conhecimentos com Gabão na indústria petrolífera O ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo, manifestou, hoje, total disponibilidade de Angola para partilhar conhecimentos técnicos e científicos com Gabão, no domínio da indústria petrolífera.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675658/angola-dispon%C3%ADvel-para-partilhar-conhecimentos-com-gab%C3%A3o-na-ind%C3%BAstria-petrol%C3%ADfera-",
+      "title": "Destaque Posto de Apoio ao Utente do Ministério do Interior da Baía encerra hoje  O Posto de Apoio ao Utente do Ministério do Interior (MININT), na Baía de Luanda, encerra, esta quinta-feira. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675660/posto-de-apoio-ao-utente-do-minist%C3%A9rio-do-interior-da-ba%C3%ADa-encerra-hoje-",
       "source": "Jornal de Angola",
-      "_key": "b97fa265d35f0068",
+      "_key": "c3b3c7fb85e7f9f5",
+      "score": 6
+    },
+    {
+      "title": "PONTO AO: DIGITALIZAÇÃO E PRODUTIVIDADE. Soberania digital: Angola deixa de depender de servidores estrangeiros com a existência do data centrar e cloud do governo?.",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71655",
+      "source": "Novo Jornal",
+      "_key": "3d03040cc24ca9e3",
+      "score": 6
+    },
+    {
+      "title": "FMI revela que carga fiscal tem pressionado países em desenvolvimento",
+      "url": "https://correiokianda.info/fmi-revela-que-carga-fiscal-tem-pressionado-paises-em-desenvolvimento/",
+      "source": "Correio Kianda",
+      "_key": "29ba58474f9b33e0",
+      "score": 5
+    },
+    {
+      "title": "Proposta de Lei contra Informações falsas na Internet...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-contra-informacoes-falsas-na-internet-continua-a-dividir-unita-e-mpla-71658.html",
+      "source": "Novo Jornal",
+      "_key": "dddfa59a2c13cb1e",
+      "score": 5
+    },
+    {
+      "title": "Mais de três milhões de segurados e 288 mil e 381 contribuintes registados no INSS",
+      "url": "https://www.opais.ao/ultimas_hora/mais-de-tres-milhoes-de-segurados-e-288-mil-e-381-contribuintes-registados-no-inss/",
+      "source": "O País",
+      "_key": "2b7761342e5f5bae",
+      "score": 5
+    },
+    {
+      "title": "PCA do INSS reforça compromisso com a sustentabilidade financeira da instituição",
+      "url": "https://www.opais.ao/sociedade/pca-do-inss-reforca-compromisso-com-a-sustentabilidade-financeira-da-instituicao/",
+      "source": "O País",
+      "_key": "b69252cd23ee3e4d",
       "score": 5
     }
   ]
