@@ -1,96 +1,456 @@
 {
-  "date": "2026-05-07",
-  "total_new": 26,
-  "total_filtered": 11,
-  "scored_by": "gemini-flash",
+  "date": "2026-05-08",
+  "total_new": 156,
+  "total_filtered": 56,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Banco Nacional de Angola admite recorrer às reservas para estabilizar mercado cambial",
-      "url": "https://angola24horas.com/economia/item/34278-banco-nacional-de-angola-admite-recorrer-as-reservas-para-estabilizar-mercado-cambial",
-      "source": "Angola 24 Horas",
-      "_key": "c275536fb938a8c5",
-      "score": 10,
-      "title_cn": "安哥拉国家银行承认将动用储备稳定外汇市场"
+      "title": "Serbia with eye in the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/servia-manifesta-interesse-no-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "5116796904e78c9a",
+      "score": 9,
+      "title_cn": "塞尔维亚关注洛比托走廊"
     },
     {
-      "title": "Refinaria de Cabinda inicia produção limitada e Governo rejeita cenário de fracasso",
-      "url": "https://angola24horas.com/sociedade/item/34279-refinaria-de-cabinda-inicia-producao-limitada-e-governo-rejeita-cenario-de-fracasso",
-      "source": "Angola 24 Horas",
-      "_key": "3c5aa312d4fd0674",
+      "title": "Foreign Exchange",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=23997",
+      "source": "ANGOP",
+      "_key": "fdbd8bc33b09b378",
+      "score": 9,
+      "title_cn": "外汇市场"
+    },
+    {
+      "title": "AfDB approves USD300 million for Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/bad-disponibiliza-usd-300-milhoes-para-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "4ce5dd89480994a5",
+      "score": 9,
+      "title_cn": "非洲开发银行批准3亿美元用于洛比托走廊项目"
+    },
+    {
+      "title": "Angolan central bank sells over USD 105 million to airlines",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-vende-mais-de-105-milhoes-de-dolares-as-companhias-aereas/",
+      "source": "ANGOP",
+      "_key": "3ac0a0bca47a1c45",
       "score": 8,
-      "title_cn": "卡宾达炼油厂有限投产，安哥拉政府否认失败"
+      "title_cn": "安哥拉央行向航空公司出售逾1.05亿美元"
     },
     {
-      "title": "“Atrasos do Estado no pagamento das dívidas às empresas estão a distorcer preços e a encarecer a economia”, diz economista",
-      "url": "https://correiokianda.info/atrasos-do-estado-no-pagamento-das-dividas-as-empresas-estao-a-distorcer-precos-e-a-encarecer-a-economia-diz-economista/",
-      "source": "Correio Kianda",
-      "_key": "b8911c29ef894f14",
+      "title": "Pequim desafia sanções dos EUA a dias da visita de Trump à China",
+      "url": "https://expansao.co.ao/mundo/detalhe/pequim-desafia-sancoes-dos-eua-a-dias-da-visita-de-trump-a-china-71668.html",
+      "source": "Expansão",
+      "_key": "91185728be63b2a4",
       "score": 8,
-      "title_cn": "经济学家：国家拖欠企业债务扭曲物价，增加经济成本"
+      "title_cn": "特朗普访华前夕，北京挑战美国制裁"
     },
     {
-      "title": "Governo diz que refinaria de Cabinda \"não é um nado...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-diz-que-refinaria-de-cabinda-nao-e-um-nado-morto---unidade-iniciou-producao-no-mes-de-fevereiro-garante-71656.html",
-      "source": "Novo Jornal",
-      "_key": "93e638209b2f25c2",
+      "title": "FMI insiste que Angola deve voltar ao regime de câmbio flexível",
+      "url": "https://expansao.co.ao/economia/detalhe/fmi-insiste-que-angola-deve-voltar-ao-regime-de-cambio-flexivel-71666.html",
+      "source": "Expansão",
+      "_key": "fab7b3caab73de7a",
       "score": 8,
-      "title_cn": "政府说 ， 卡宾达炼油厂不是一个游泳池。"
+      "title_cn": "国际货币基金组织敦促安哥拉恢复弹性汇率制度"
     },
     {
-      "title": "Angola Telecom vai ser transformada em sociedade anónima...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-telecom-vai-ser-transformada-em-sociedade-anonima-de-capitais-publicos-para-preparar-privatizacao-de-15-do-capital-social-71659.html",
-      "source": "Novo Jornal",
-      "_key": "0eb9fc231b37c96f",
+      "title": "Representantes de empresas da Bélgica avaliam oportunidades de investimento no Porto do Lobito",
+      "url": "https://www.opais.ao/economia/representantes-de-empresas-da-belgica-avaliam-oportunidades-de-investimento-no-porto-do-lobito/",
+      "source": "O País",
+      "_key": "c262a6af7e8ec83e",
+      "score": 8,
+      "title_cn": "比利时企业代表评估洛比托港投资机会"
+    },
+    {
+      "title": "IMF recommends caution in managing extraordinary revenues",
+      "url": "https://www.angop.ao/en/noticias/economia/fmi-recomenda-prudencia-na-gestao-das-receitas-extraordinarias/",
+      "source": "ANGOP",
+      "_key": "87afe7b10c173e95",
       "score": 7,
-      "title_cn": "安哥拉电信将改制为股份公司"
+      "title_cn": "国际货币基金组织建议谨慎管理超额收入"
     },
     {
-      "title": "Destaque Posto de Apoio ao Utente do Ministério do Interior da Baía encerra hoje  O Posto de Apoio ao Utente do Ministério do Interior (MININT), na Baía de Luanda, encerra, esta quinta-feira. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675660/posto-de-apoio-ao-utente-do-minist%C3%A9rio-do-interior-da-ba%C3%ADa-encerra-hoje-",
-      "source": "Jornal de Angola",
-      "_key": "c3b3c7fb85e7f9f5",
-      "score": 6,
-      "title_cn": "罗安达湾内政部用户支持站今日关闭"
+      "title": "Cabinda refinery begins limited fuel production",
+      "url": "https://www.angop.ao/en/noticias/politica/refinaria-de-cabinda-inicia-producao-em-fase-limitada/",
+      "source": "ANGOP",
+      "_key": "24c3090d02f9c69d",
+      "score": 7,
+      "title_cn": "卡宾达炼油厂开始有限燃料生产"
     },
     {
-      "title": "PONTO AO: DIGITALIZAÇÃO E PRODUTIVIDADE. Soberania digital: Angola deixa de depender de servidores estrangeiros com a existência do data centrar e cloud do governo?.",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71655",
-      "source": "Novo Jornal",
-      "_key": "3d03040cc24ca9e3",
-      "score": 6,
-      "title_cn": "数字主权：安哥拉政府数据中心和云服务能否摆脱对外国服务器的依赖？"
+      "title": "Angola vai analisar recomendações do FMI e agir face à subida dos preços - Governo",
+      "url": "https://angola24horas.com/component/k2/item/34281-angola-vai-analisar-recomendacoes-do-fmi-e-agir-face-a-subida-dos-precos-governo",
+      "source": "Angola 24 Horas",
+      "_key": "6eacc817e3730d13",
+      "score": 7,
+      "title_cn": "安哥拉政府将研究国际货币基金组织建议并应对物价上涨"
     },
     {
-      "title": "FMI revela que carga fiscal tem pressionado países em desenvolvimento",
-      "url": "https://correiokianda.info/fmi-revela-que-carga-fiscal-tem-pressionado-paises-em-desenvolvimento/",
+      "title": "Governo desmente notícias sobre Refinaria de Cabinda e garante operacionalização efectiva para breve",
+      "url": "https://correiokianda.info/governo-desmente-noticias-sobre-refinaria-de-cabinda-e-garante-operacionalizacao-efectiva-para-breve/",
       "source": "Correio Kianda",
-      "_key": "29ba58474f9b33e0",
-      "score": 5,
-      "title_cn": "国际货币基金组织：税负加重发展中国家压力"
+      "_key": "08aaf1e29dcb5722",
+      "score": 7,
+      "title_cn": "安哥拉政府否认卡宾达炼油厂传闻，保证即将有效运营"
     },
     {
-      "title": "Proposta de Lei contra Informações falsas na Internet...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-contra-informacoes-falsas-na-internet-continua-a-dividir-unita-e-mpla-71658.html",
-      "source": "Novo Jornal",
-      "_key": "dddfa59a2c13cb1e",
-      "score": 5,
-      "title_cn": "安哥拉拟立法打击互联网虚假信息"
+      "title": "RECREDIT: Tribunais bloqueiam 422,2 mil milhões Kz em processos de crédito malparado",
+      "url": "https://diariodosnegocios.com/recredit-tribunais-bloqueiam-4222-mil-milhoes-kz-em-processos-de-credito-malparado/",
+      "source": "Diário dos Negócios",
+      "_key": "0d6c7ffef3d1953a",
+      "score": 7,
+      "title_cn": "RECREDIT：法院冻结4222亿宽扎不良贷款"
     },
     {
-      "title": "Mais de três milhões de segurados e 288 mil e 381 contribuintes registados no INSS",
-      "url": "https://www.opais.ao/ultimas_hora/mais-de-tres-milhoes-de-segurados-e-288-mil-e-381-contribuintes-registados-no-inss/",
+      "title": "BNA Lança Três Linhas de Alívio Financeiro para Empresas Afectadas por Calamidades Naturais",
+      "url": "https://diariodosnegocios.com/bna-lanca-tres-linhas-de-alivio-financeiro-para-empresas-afectadas-por-calamidades-naturais/",
+      "source": "Diário dos Negócios",
+      "_key": "0140e71919a5cf52",
+      "score": 7,
+      "title_cn": "安哥拉国家银行推出三项金融纾困措施助受灾企业"
+    },
+    {
+      "title": "Sonangol encaixa 277 milhões de euros em dividendos do BCP e da Galp",
+      "url": "https://diariodosnegocios.com/sonangol-encaixa-277-milhoes-de-euros-em-dividendos-do-bcp-e-da-galp/",
+      "source": "Diário dos Negócios",
+      "_key": "d078558a060a0cbb",
+      "score": 7,
+      "title_cn": "安哥拉国家石油公司从BCP和Galp获得2.77亿欧元股息"
+    },
+    {
+      "title": " RECREDIT: Tribunais bloqueiam 422,2 mil milhões Kz em processos de crédito malparado ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_e3c3db3d7081d9",
+      "score": 7,
+      "title_cn": "RECREDIT：法院冻结4222亿宽扎不良贷款"
+    },
+    {
+      "title": " BNA Lança Três Linhas de Alívio Financeiro para Empresas Afectadas por Calamidades Naturais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_9ac08608dbd8f8",
+      "score": 7,
+      "title_cn": "安哥拉国家银行推出三项金融纾困措施助受灾企业"
+    },
+    {
+      "title": " Sonangol encaixa 277 milhões de euros em dividendos do BCP e da Galp ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_4a044f91f7c42d",
+      "score": 7,
+      "title_cn": "安哥拉国家石油公司从BCP和Galp获得2.77亿欧元股息"
+    },
+    {
+      "title": "Tribunais \"travam\" recuperação de 422,2 mil milhões Kz da RECREDIT",
+      "url": "https://expansao.co.ao/angola/detalhe/tribunais-travam-recuperacao-de-4222-mil-milhoes-kz-da-recredit-71667.html",
+      "source": "Expansão",
+      "_key": "10015c2b61221e83",
+      "score": 7,
+      "title_cn": "法院阻止RECREDIT追回4222亿宽扎"
+    },
+    {
+      "title": "Destaque Brice Nguema termina visita de Estado a Angola O Chefe de Estado do Gabão, Brice Nguema, deslocou-se, na manhã desta sexta-feira, ao Palácio Presidencial da Cidade Alta, em Luanda, para despedir-se do homólogo João Lourenço, após missão de três dias a Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675728/brice-nguema-termina-visita-de-estado-a-angola-",
+      "source": "Jornal de Angola",
+      "_key": "20adda8577ac7493",
+      "score": 7,
+      "title_cn": "加蓬总统布里斯·恩圭马（Brice Nguema）结束对安哥拉国事访问"
+    },
+    {
+      "title": "Governo lança amanhã Programa de Concepção e Montagem de mais de cem pontes metálicas",
+      "url": "https://www.opais.ao/ultimas_hora/governo-lanca-amanha-programa-de-concepcao-e-montagem-de-mais-de-cem-pontes-metalicas/",
       "source": "O País",
-      "_key": "2b7761342e5f5bae",
-      "score": 5,
-      "title_cn": "安哥拉国家社保局注册参保人超300万，缴费人达28.8万"
+      "_key": "2dc47fe827415cc3",
+      "score": 7,
+      "title_cn": "安哥拉政府明日启动百余座金属桥梁设计组装计划"
     },
     {
-      "title": "PCA do INSS reforça compromisso com a sustentabilidade financeira da instituição",
-      "url": "https://www.opais.ao/sociedade/pca-do-inss-reforca-compromisso-com-a-sustentabilidade-financeira-da-instituicao/",
+      "title": "Angola convida gaboneses a participarem na 7.ª Conferência e Exposição de Petróleo e Gás em Luanda",
+      "url": "https://www.opais.ao/economia/angola-convida-gaboneses-a-participarem-na-7-a-conferencia-e-exposicao-de-petroleo-e-gas-em-luanda/",
       "source": "O País",
-      "_key": "b69252cd23ee3e4d",
+      "_key": "08654ab22346bfc2",
+      "score": 7,
+      "title_cn": "安哥拉邀请加蓬参加罗安达第七届石油和天然气大会"
+    },
+    {
+      "title": "Education Ministry announces public tender for 9,000 vacancies",
+      "url": "https://www.angop.ao/en/noticias/educacao/ministra-da-educacao-confirma-concurso-publico-para-preencher-nove-mil-vagas/",
+      "source": "ANGOP",
+      "_key": "ddd6625abe094ac2",
+      "score": 6,
+      "title_cn": "教育部宣布公开招聘9000个职位"
+    },
+    {
+      "title": "Hungary open to strengthen bilateral cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/hungria-disponivel-para-reforcar-cooperacao-bilateral-com-angola/",
+      "source": "ANGOP",
+      "_key": "2717347378147720",
+      "score": 6,
+      "title_cn": "匈牙利愿加强与安哥拉双边合作"
+    },
+    {
+      "title": "Angola defends joint work for Southern Africa connectivity",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-advoga-trabalho-conjunto-na-conectividade-na-africa-austral/",
+      "source": "ANGOP",
+      "_key": "7fe72be93f7600ee",
+      "score": 6,
+      "title_cn": "安哥拉倡导共同努力实现南部非洲互联互通"
+    },
+    {
+      "title": "European Union welcomes Angola's role in regional stability",
+      "url": "https://www.angop.ao/en/noticias/politica/ue-sauda-papel-de-angola-para-estabilidade-regional/",
+      "source": "ANGOP",
+      "_key": "1bf51e52d8516720",
+      "score": 6,
+      "title_cn": "欧盟欢迎安哥拉在地区稳定中的作用"
+    },
+    {
+      "title": "Angola and Gabon plan Business Council creation",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-gabao-projectam-criacao-de-conselho-de-negocio/",
+      "source": "ANGOP",
+      "_key": "110a59b16a752a2e",
+      "score": 6,
+      "title_cn": "安哥拉与加蓬计划成立商业理事会"
+    },
+    {
+      "title": "Educação abre este ano concurso público com nove mil vagas para docentes e não docentes",
+      "url": "https://angola24horas.com/sociedade/item/34282-educacao-abre-este-ano-concurso-publico-com-nove-mil-vagas-para-docentes-e-nao-docentes",
+      "source": "Angola 24 Horas",
+      "_key": "206ff74b7d203d55",
+      "score": 6,
+      "title_cn": "教育部今年公开招聘9000名教职员工"
+    },
+    {
+      "title": "Sector da Educação abre novo concurso público externo este ano",
+      "url": "https://correiokianda.info/sector-da-educacao-abre-novo-concurso-publico-externo-este-ano/",
+      "source": "Correio Kianda",
+      "_key": "c861c7279a8eb5c6",
+      "score": 6,
+      "title_cn": "教育部门今年启动新一轮外部公开招聘"
+    },
+    {
+      "title": "Mais de 20 mil empresas falham contribuição à Segurança social",
+      "url": "https://correiokianda.info/mais-de-20-mil-empresas-falham-contribuicao-a-seguranca-social/",
+      "source": "Correio Kianda",
+      "_key": "e4bc2e36df429ff6",
+      "score": 6,
+      "title_cn": "逾2万家企业未能缴纳社保"
+    },
+    {
+      "title": "Privatização da Angola Telecom: Estado autoriza venda de 15% em novo modelo de gestão",
+      "url": "https://diariodosnegocios.com/privatizacao-da-angola-telecom-estado-autoriza-venda-de-15-em-novo-modelo-de-gestao/",
+      "source": "Diário dos Negócios",
+      "_key": "cd7e9e861efdf629",
+      "score": 6,
+      "title_cn": "安哥拉电信私有化：国家批准在新管理模式下出售15%股份"
+    },
+    {
+      "title": " Privatização da Angola Telecom: Estado autoriza venda de 15% em novo modelo de gestão ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_f2eda4ab7a3a7c",
+      "score": 6,
+      "title_cn": "安哥拉电信私有化：国家批准在新管理模式下出售15%股份"
+    },
+    {
+      "title": "Epopeia Mandinga e a Bioeconomia do Séc XXI | Soberania energética de África",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_056378fe9e2697",
+      "score": 6,
+      "title_cn": "曼丁加史诗与21世纪生物经济：非洲能源主权"
+    },
+    {
+      "title": "O EXPLICADOR FÍSCAL: Modelo 1 do Imposto Industrial– custos suportados com a CEOC",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_6e9c23b7f328d9",
+      "score": 6,
+      "title_cn": "税务解释：工业税模型1——CEOC相关成本"
+    },
+    {
+      "title": "CONVIDADOHenda Elvira Moisés CazomboEpopeia Mandinga e a Bioeconomia do Séc XXI | Soberania energética de África",
+      "url": "https://expansao.co.ao/opiniao/detalhe/epopeia-mandinga-e-a-bioeconomia-do-sec-xxi-soberania-energetica-de-africa-71547.html",
+      "source": "Expansão",
+      "_key": "3379980db543e15d",
+      "score": 6,
+      "title_cn": "亨达·埃尔维拉·莫伊塞斯·卡宗博（Henda Elvira Moisés Cazombo）：曼丁加史诗与21世纪生物经济——非洲能源主权"
+    },
+    {
+      "title": "Destaque Mais de 20 mil empresas não cumprem pagamento regular da Segurança SocialMais de 20 mil empresas que actuam em Angola estão com dívidas nas contribuições para a Segurança Social dos seus trabalhadores.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675669/mais-de-20-mil-empresas-n%C3%A3o-cumprem--pagamento-regular-da-seguran%C3%A7a-social",
+      "source": "Jornal de Angola",
+      "_key": "7b15adcda720b6b6",
+      "score": 6,
+      "title_cn": "逾2万家安哥拉企业未定期缴纳社保"
+    },
+    {
+      "title": "Presidente Brice Oligui Nguema convida empresas angolanas a investirem no Gabão O Presidente da República do Gabão, Brice Oligui Nguema, mostrou-se impressionado com o modelo de refinação de petróleo na Refinaria de Luanda, onde efectuou uma visita, no quadro do reforço da cooperação com Angola no sector dos Hidrocarbonetos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675672/presidente-brice-oligui-nguema-convida--empresas-angolanas-a-investirem-no-gab%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "6ea9ac97c3f240fb",
+      "score": 6,
+      "title_cn": "布里斯·奥利吉·恩圭马（Brice Oligui Nguema）总统邀请安哥拉企业投资加蓬"
+    },
+    {
+      "title": "Política Angola defende reforço da protecção dos migrantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675704/angola-defende-refor%C3%A7o-da-protec%C3%A7%C3%A3o-dos-migrantes",
+      "source": "Jornal de Angola",
+      "_key": "806dde3becb1713d",
+      "score": 6,
+      "title_cn": "安哥拉主张加强对移民的保护"
+    },
+    {
+      "title": "Sociedade Presidente da República autoriza reabilitação da estrada entre Sacomar e Moçâmedes ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675691/presidente-da-rep%C3%BAblica-autoriza-reabilita%C3%A7%C3%A3o-da-estrada-entre-sacomar-e-mo%C3%A7%C3%A2medes",
+      "source": "Jornal de Angola",
+      "_key": "38a871284052c7d2",
+      "score": 6,
+      "title_cn": "总统批准修复Sacomar至纳米贝（Moçâmedes）公路"
+    },
+    {
+      "title": "Base monetária em moeda nacional cresceu mais de 90 mil milhões de kwanzas em 2025",
+      "url": "https://www.opais.ao/economia/base-monetaria-em-moeda-nacional-cresceu-mais-de-90-mil-milhoes-de-kwanzas-em-2025/",
+      "source": "O País",
+      "_key": "5a25f499e649a34c",
+      "score": 6,
+      "title_cn": "2025年本币货币基础增长逾900亿宽扎"
+    },
+    {
+      "title": "Responsáveis do CISP alinham estratégias para melhorar segurança pública no país",
+      "url": "https://www.opais.ao/sociedade/responsaveis-do-cisp-alinham-estrategias-para-melhorar-seguranca-publica-no-pais/",
+      "source": "O País",
+      "_key": "a710d8982ec808ea",
+      "score": 6,
+      "title_cn": "公共安全信息中心负责人制定战略改善国家公共安全"
+    },
+    {
+      "title": "Denúncias em Angola focam estrangeiros, mas empresas nacionais também ignoram...",
+      "url": "https://valoreconomico.co.ao/artigo/denuncias-em-angola-focam-estrangeiros-mas-empresas-nacionais-tambem-ignoram-a-lei-alerta-director-do-trabalho",
+      "source": "Valor Económico",
+      "_key": "4e5c17f7418eb48c",
+      "score": 6,
+      "title_cn": "安哥拉举报多针对外国人，但本国企业也存在问题"
+    },
+    {
+      "title": "Social security institute records 3 million new beneficiaries",
+      "url": "https://www.angop.ao/en/noticias/sociedade/inss-regista-mais-de-tres-milhoes-de-segurados/",
+      "source": "ANGOP",
+      "_key": "b8c80d33db596772",
       "score": 5,
-      "title_cn": "安哥拉国家社保局主席重申机构财务可持续性承诺"
+      "title_cn": "社保机构新增300万受益人"
+    },
+    {
+      "title": "MPLA highlights Angola-EU reinforced cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/mpla-realca-reforco-da-cooperacao-entre-angola-e-uniao-europeia/",
+      "source": "ANGOP",
+      "_key": "68afafd9db9d801b",
+      "score": 5,
+      "title_cn": "安哥拉人民解放运动强调安哥拉-欧盟加强合作"
+    },
+    {
+      "title": "Angola and Philippines identify new partnership areas",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-filipinas-identificam-novas-areas-de-parceria/",
+      "source": "ANGOP",
+      "_key": "e489f5d5331ff692",
+      "score": 5,
+      "title_cn": "安哥拉与菲律宾确定新合作领域"
+    },
+    {
+      "title": "Belgian business mission seeks business opportunities in Benguela",
+      "url": "https://www.angop.ao/en/noticias/economia/missao-empresarial-belga-procura-oportunidades-de-negocios-em-benguela/",
+      "source": "ANGOP",
+      "_key": "89fb6f33e05af186",
+      "score": 5,
+      "title_cn": "比利时商业代表团在本格拉寻求商机"
+    },
+    {
+      "title": "Caso da “caixa térmica”: PRA-JA avança hoje para a Justiça contra Sapinãla",
+      "url": "https://angola24horas.com/politica/item/34283-caso-da-caixa-termica-pra-ja-avanca-hoje-para-a-justica-contra-sapinala",
+      "source": "Angola 24 Horas",
+      "_key": "2892dff5ceca47cd",
+      "score": 5,
+      "title_cn": "“保温箱”案：PRA-JA今日起诉萨皮尼亚拉（Sapinãla）"
+    },
+    {
+      "title": "Mais de metade das terras cultivadas em Angola sofreram perdas em 2023/2024",
+      "url": "https://angola24horas.com/sociedade/item/34280-mais-de-metade-das-terras-cultivadas-em-angola-sofreram-perdas-em-2023-2024",
+      "source": "Angola 24 Horas",
+      "_key": "b8a5590828e3795a",
+      "score": 5,
+      "title_cn": "2023/2024年度安哥拉一半以上耕地遭受损失"
+    },
+    {
+      "title": "Abel Chivukuvuku formaliza esta sexta-feira processo judicial contra Adriano Sapiñala",
+      "url": "https://correiokianda.info/abel-chivukuvuku-formaliza-esta-sexta-feira-processo-judicial-contra-adriano-sapinala/",
+      "source": "Correio Kianda",
+      "_key": "b40e58f2863d5826",
+      "score": 5,
+      "title_cn": "阿贝尔·奇武库武库（Abel Chivukuvuku）今日正式起诉阿德里亚诺·萨皮尼亚拉（Adriano Sapiñala）"
+    },
+    {
+      "title": "Falha técnica na Central do Malembo força restrições de energia em Cabinda",
+      "url": "https://correiokianda.info/falha-tecnica-na-central-do-malembo-forca-restricoes-de-energia-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "0d6acae0ef63e59c",
+      "score": 5,
+      "title_cn": "马伦博电厂技术故障导致卡宾达限电"
+    },
+    {
+      "title": "Produção nacional e reformas face aos choques externos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_a26a0159e82b96",
+      "score": 5,
+      "title_cn": "国内生产与改革应对外部冲击"
+    },
+    {
+      "title": "Aritmética orçamental | Capacidade institucional e execução orçamental",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_2923239cc873d6",
+      "score": 5,
+      "title_cn": "预算算术：机构能力与预算执行"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaProdução nacional e reformas face aos choques externos",
+      "url": "https://expansao.co.ao/opiniao/detalhe/producao-nacional-e-reformas-face-aos-choques-externos-71662.html",
+      "source": "Expansão",
+      "_key": "1f70d5db4c2c2f26",
+      "score": 5,
+      "title_cn": "费尔南德斯·万达（Fernandes Wanda）：国内生产与改革应对外部冲击"
+    },
+    {
+      "title": "CONVIDADOJoão MachadoAritmética orçamental | Capacidade institucional e execução orçamental",
+      "url": "https://expansao.co.ao/opiniao/detalhe/aritmetica-orcamental-capacidade-institucional-e-execucao-orcamental-71544.html",
+      "source": "Expansão",
+      "_key": "3eea2925fd2e6a3e",
+      "score": 5,
+      "title_cn": "若昂·马查多（João Machado）：预算算术——机构能力与预算执行"
+    },
+    {
+      "title": "SIC detém cidadãos da RDC suspeitos de alegado desaparecimento de órgãos genitais na Lunda-Norte",
+      "url": "https://jornaloguardiao.com/2026/05/07/sic-detem-cidadaos-da-rdc-suspeitos-de-alegado-desaparecimento-de-orgaos-genitais-na-lunda-norte/",
+      "source": "Jornal O Guardião",
+      "_key": "d543491184108bf4",
+      "score": 5,
+      "title_cn": "刑事调查局在北隆达逮捕涉嫌生殖器失踪案的刚果民主共和国公民"
+    },
+    {
+      "title": " SIC detém cidadãos da RDC suspeitos de alegado desaparecimento de órgãos genitais na Lunda-Norte ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_35226af664965b",
+      "score": 5,
+      "title_cn": "刑事调查局在北隆达逮捕涉嫌生殖器失踪案的刚果民主共和国公民"
+    },
+    {
+      "title": "Economia FMI recomenda cautela no uso das receitas extraordinárias ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675695/fmi-recomenda-cautela-no-uso-das-receitas-extraordin%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "3827514d3a9515b2",
+      "score": 5,
+      "title_cn": "国际货币基金组织建议谨慎使用特别收入"
     }
   ]
 }
