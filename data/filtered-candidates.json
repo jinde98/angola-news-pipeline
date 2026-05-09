@@ -1,84 +1,203 @@
 {
-  "date": "2026-05-08",
-  "total_new": 44,
-  "total_filtered": 11,
+  "date": "2026-05-09",
+  "total_new": 80,
+  "total_filtered": 28,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Preço do petróleo vendido por Angola num 'sobe e desce':...",
-      "url": "https://valoreconomico.co.ao/artigo/preco-do-petroleo-vendido-por-angola-num-sobe-e-desce-barril-fixa-se-nos-101-dolares",
-      "source": "Valor Económico",
-      "_key": "d0c90d387e5ab00e",
-      "score": 9
-    },
-    {
-      "title": "Destaque TAAG abre investigação sobre colaborador por saída não declarada de moeda estrangeiraA TAAG anunciou, hoje, que abriu uma investigação interna a um colaborador, na sequência de uma ocorrência no Aeroporto Dr. António Agostinho Neto sobre a matéria dos limites de saída de moeda estrangeira de forma não-declarada.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675734/taag-abre-investiga%C3%A7%C3%A3o-sobre-colaborador-por-sa%C3%ADda-n%C3%A3o-declarada-de-moeda-estrangeira",
-      "source": "Jornal de Angola",
-      "_key": "a3698b8d65a75e15",
+      "title": "Angola vai construir 186 pontes metálicas para reforçar mobilidade rodoviária até 2030",
+      "url": "https://correiokianda.info/angola-vai-construir-186-pontes-metalicas-para-reforcar-mobilidade-rodoviaria-ate-2030/",
+      "source": "Correio Kianda",
+      "_key": "02895fbc61925bb1",
       "score": 8
     },
     {
-      "title": "Governo gasta 22 milhões USD em medicamentos para Clínica Multiperfil — valor é o dobro do previsto no OGE",
-      "url": "https://diariodosnegocios.com/governo-gasta-22-milhoes-usd-em-medicamentos-para-clinica-multiperfil-valor-e-o-dobro-do-previsto-no-oge/",
-      "source": "Diário dos Negócios",
-      "_key": "4eb3d2e16462a30b",
-      "score": 6
-    },
-    {
-      "title": "Presidente do Gabão conclui visita de Estado a Angola com acordos de cooperação assinados",
-      "url": "https://diariodosnegocios.com/presidente-do-gabao-conclui-visita-de-estado-a-angola-com-acordos-de-cooperacao-assinados/",
-      "source": "Diário dos Negócios",
-      "_key": "e88514a741f2c8a5",
-      "score": 6
-    },
-    {
-      "title": " Governo gasta 22 milhões USD em medicamentos para Clínica Multiperfil — valor é o dobro do previsto no OGE ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_4df9ce993be2be",
-      "score": 6
-    },
-    {
-      "title": " Presidente do Gabão conclui visita de Estado a Angola com acordos de cooperação assinados ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_c56a7116da8c26",
-      "score": 6
-    },
-    {
-      "title": "Destaque João Lourenço e Emmanuel Macron abordam reforço da cooperaçãoO Presidente da República, João Lourenço, manteve ao fim da manhã de hoje uma conversa telefónica com o Presidente francês, Emmanuel Macron.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675737/jo%C3%A3o-louren%C3%A7o-e-emmanuel-macron-abordam-refor%C3%A7o-da-coopera%C3%A7%C3%A3o",
+      "title": "Sociedade Governo lança projecto de montagem de 186 pontes metálicas do tipo Acrow em todo o país ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675768/governo-lan%C3%A7a-projecto-de-montagem-de-186--pontes-met%C3%A1licas-do-tipo-acrow-em-todo-o-pa%C3%ADs",
       "source": "Jornal de Angola",
-      "_key": "d4d99ed8ab32ff5c",
+      "_key": "fd8cd2a32fba6a9c",
+      "score": 8
+    },
+    {
+      "title": "Executivo vai construir mais de cem pontes metálicas até 2030",
+      "url": "https://www.opais.ao/destaque/executivo-vai-construir-mais-de-cem-pontes-metalicas-ate-2030/",
+      "source": "O País",
+      "_key": "a23c9664633b701e",
+      "score": 8
+    },
+    {
+      "title": "Etu Energias company and partners complete testing of the Espadarte well in Block 2/05",
+      "url": "https://www.angop.ao/en/noticias/economia/etu-energias-e-parceiros-finalizam-teste-do-poco-espadarte-no-bloco-2-05/",
+      "source": "ANGOP",
+      "_key": "07578155240bf048",
+      "score": 7
+    },
+    {
+      "title": "Economista pede foco na conclusão da Refinaria de Cabinda",
+      "url": "https://correiokianda.info/economista-pede-foco-na-conclusao-da-refinaria-de-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "833a66c9b9e8e0e1",
+      "score": 7
+    },
+    {
+      "title": "Mário Durão apela à coesão interna e defende baixa das taxas de juro para fomentar emprego",
+      "url": "https://holdonangola.com/mario-durao-apela-a-coesao-interna-e-defende-baixa-das-taxas-de-juro-para-fomentar-emprego/",
+      "source": "Hold On Angola",
+      "_key": "19ba195840ebcaeb",
+      "score": 7
+    },
+    {
+      "title": "Fiscalização nas fronteiras do Zaire resulta em mais de 100 detenções",
+      "url": "https://www.opais.ao/destaque/fiscalizacao-nas-fronteiras-do-zaire-resulta-em-mais-de-100-detencoes/",
+      "source": "O País",
+      "_key": "3a37bdf7a8f38f8e",
+      "score": 7
+    },
+    {
+      "title": "President João Lourenço discusses cooperation with French counterpart",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-aborda-cooperacao-com-homologo-de-franca/",
+      "source": "ANGOP",
+      "_key": "a5d2521590c50d81",
       "score": 6
     },
     {
-      "title": "‎PR mantém contacto telefónico com Emmanuel Macron",
-      "url": "https://www.opais.ao/politica/pr-mantem-contacto-telefonico-com-emmanuel-macron/",
-      "source": "O País",
-      "_key": "626547f8a9c6a66c",
+      "title": "\"A banca olha só para determinadas pessoas, tem os seus preferidos e grupos\"",
+      "url": "https://expansao.co.ao/weekend/lifestyle/detalhe/a-banca-olha-so-para-determinadas-pessoas-tem-os-seus-preferidos-e-grupos-71701.html",
+      "source": "Expansão",
+      "_key": "2c9d4283c8f4d332",
       "score": 6
     },
     {
-      "title": "Presidente Gabonês encerra visita de Estado a Angola",
-      "url": "https://www.opais.ao/politica/presidente-gabones-encerra-visita-de-estado-a-angola/",
-      "source": "O País",
-      "_key": "09cf00d9ed6c2446",
+      "title": "Processos bancários ganham plataforma especializada",
+      "url": "https://forbesafricalusofona.com/processos-bancarios-ganham-plataforma-especializada/",
+      "source": "Forbes África",
+      "_key": "ddab402755e29541",
       "score": 6
     },
     {
-      "title": "CIVICOP localiza vala comum com mais de 500 perfis humanos em Luanda",
-      "url": "https://www.opais.ao/ultimas_hora/civicop-localiza-vala-comum-com-mais-de-500-perfis-humanos-em-luanda/",
+      "title": "Destaque João Lourenço e Emmanuel Macron conversam ao telefoneO Presidente da República, João Lourenço, conversou ao telefone, no final da manhã desta sexta-feira, com o Presidente francês, Emmanuel Macron.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675737/jo%C3%A3o-louren%C3%A7o-e-emmanuel-macron-conversam-ao-telefone",
+      "source": "Jornal de Angola",
+      "_key": "d308c656e76e4a6f",
+      "score": 6
+    },
+    {
+      "title": "Angola e Gabão pedem paz na RDCO Presidente do Gabão, Oligui Nguema, concluiu, sexta-feira, a primeira visita de Estado a Angola, que produziu mais três acordos no quadro do fortalecimento da cooperação entre os dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675750/angola-e-gab%C3%A3o-pedem-paz-na-rdc",
+      "source": "Jornal de Angola",
+      "_key": "6c940fae2a9858d9",
+      "score": 6
+    },
+    {
+      "title": "A xenofobia na África do Sul: Quando africanos se tornam inimigos de africanosA primeira grande onda de xenofobia na África do Sul remonta ao ano de 2008, quando grupos de sul-africanos começaram a atacar imigrantes africanos em cidades como Joanesburgo.",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/675754/a-xenofobia-na-%C3%A1frica-do-sul:-quando-africanos-se-tornam-inimigos--de-africanos",
+      "source": "Jornal de Angola",
+      "_key": "033b3d069ad48181",
+      "score": 6
+    },
+    {
+      "title": "O desafio de incluir milhões no sistema contributivo",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/675755/o-desafio-de-incluir-milh%C3%B5es--no-sistema-contributivo",
+      "source": "Jornal de Angola",
+      "_key": "adb88bdf94c21f9a",
+      "score": 6
+    },
+    {
+      "title": "A imigração, a xenofobia e o país de Mandela",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-imigracao-a-xenofobia-e-o-pais-de-mandela-71700.html",
+      "source": "Novo Jornal",
+      "_key": "481833a2890b607d",
+      "score": 6
+    },
+    {
+      "title": "Mais de 70% dos consumidores angolanos consideram difícil o acesso a serviços, revela Hype CX 2026",
+      "url": "https://www.opais.ao/ultimas_hora/mais-de-70-dos-consumidores-angolanos-consideram-dificil-o-acesso-a-servicos-revela-hype-cx-2026/",
       "source": "O País",
-      "_key": "df16c2ad20a10c86",
+      "_key": "46b4c50c754ffe0e",
+      "score": 6
+    },
+    {
+      "title": "Funcionária da TAAG apanhada com milhares de euros escondidos para...",
+      "url": "https://valoreconomico.co.ao/artigo/funcionaria-da-taag-apanhada-com-milhares-de-euros-escondidos-para-lisboa",
+      "source": "Valor Económico",
+      "_key": "85e75435f3b56f72",
+      "score": 6
+    },
+    {
+      "title": "India considers Angola a strategic partner",
+      "url": "https://www.angop.ao/en/noticias/politica/india-considera-angola-parceiro-estrategico/",
+      "source": "ANGOP",
+      "_key": "8f979ab052cbe012",
       "score": 5
     },
     {
-      "title": "Access Bank Angola lança operação de Bancassurance",
-      "url": "https://www.opais.ao/ultimas_hora/access-bank-angola-lanca-operacao-de-bancassurance/",
+      "title": "Angola and the European Union analyze the security situation in the Great Lakes region",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-uniao-europeia-analisam-situacao-de-seguranca-nos-grandes-lagos/",
+      "source": "ANGOP",
+      "_key": "c509a540b9571685",
+      "score": 5
+    },
+    {
+      "title": "Lei sobre desinformação aprovada na especialidade prevê penas até 10 anos de prisão dentro e fora do país",
+      "url": "https://correiokianda.info/lei-sobre-desinformacao-aprovada-na-especialidade-preve-penas-ate-10-anos-de-prisao-dentro-e-fora-do-pais/",
+      "source": "Correio Kianda",
+      "_key": "6253794b8ae38e3e",
+      "score": 5
+    },
+    {
+      "title": "        África2 horas atrás  RDC e Congo reforçam projecto de ponte rodoviária e ferroviária entre Kinshasa e Brazzaville O Presidente da República Democrática do Congo, Félix-Antoine Tshisekedi Tshilombo, recebeu uma delegação da República do Congo para discutir o avanço do projecto de construção da...   ",
+      "url": "https://correiokianda.info/rdc-e-congo-reforcam-projecto-de-ponte-rodoviaria-e-ferroviaria-entre-kinshasa-e-brazzaville/",
+      "source": "Correio Kianda",
+      "_key": "7788033cf1d5da61",
+      "score": 5
+    },
+    {
+      "title": "Mandioca e milho valem 89% da produção agrícola nacional",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ff971ad3d82859",
+      "score": 5
+    },
+    {
+      "title": "Pequim desafia sanções dos EUA a dias da visita de Trump à China",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_cdc45df549acda",
+      "score": 5
+    },
+    {
+      "title": "Moçambique quer reter 25% do GNL para acelerar industrialização",
+      "url": "https://forbesafricalusofona.com/mocambique-quer-reter-25-do-gnl-para-acelerar-industrializacao/",
+      "source": "Forbes África",
+      "_key": "0123c872fba8fc39",
+      "score": 5
+    },
+    {
+      "title": "Economia Fórum traça estratégia para reposicionar o Huambo como celeiro do país ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675759/f%C3%B3rum-tra%C3%A7a-estrat%C3%A9gia-para-reposicionar-o-huambo-como-celeiro-do-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "6425d943ecf1cd24",
+      "score": 5
+    },
+    {
+      "title": "Regiões Clientes devem mais de cinco mil milhões de kwanzas à ENDE no Zaire ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675746/clientes-devem-mais-de-cinco-mil-milh%C3%B5es-de-kwanzas-%C3%A0-ende-no-zaire-",
+      "source": "Jornal de Angola",
+      "_key": "3ce206f72d4fa851",
+      "score": 5
+    },
+    {
+      "title": "Angola marca presença no fórum parlamentar África–União Europeia",
+      "url": "https://www.opais.ao/politica/angola-marca-presenca-no-forum-parlamentar-africa-uniao-europeia/",
       "source": "O País",
-      "_key": "c204e1d807e21f77",
+      "_key": "0e3c3e90925c60e1",
+      "score": 5
+    },
+    {
+      "title": "‎Luanda acolhe lançamento da Rede do Pacto Global das Nações Unidas em Angola",
+      "url": "https://www.opais.ao/ultimas_hora/luanda-acolhe-lancamento-da-rede-do-pacto-global-das-nacoes-unidas-em-angola/",
+      "source": "O País",
+      "_key": "706651fbff811079",
       "score": 5
     }
   ]
