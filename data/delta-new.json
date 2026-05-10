@@ -1,110 +1,44 @@
 {
   "date": "2026-05-10",
-  "total_extracted": 1086,
-  "total_new": 17,
-  "total_existing": 1069,
+  "total_extracted": 1084,
+  "total_new": 6,
+  "total_existing": 1078,
   "articles": [
     {
-      "title": "Angola reaffirms commitment to gender equality",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-reitera-compromisso-com-a-igualdade-de-genero/",
+      "title": "Huambo records over 20 stroke cases per week",
+      "url": "https://www.angop.ao/en/noticias/saude/hospital-geral-do-huambo-regista-mais-de-20-casos-de-avc-por-semana/",
       "source": "ANGOP",
-      "_key": "0364c404c882c608"
+      "_key": "6623ca5db0f1493a"
     },
     {
-      "title": "Angola-India chamber of commerce expresses business interest in Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/camara-de-comercio-angola-india-manifesta-interesse-no-corredor-do-lobito/",
+      "title": "Victims of the road accident in Cabo Ledo require care – Health Minister",
+      "url": "https://www.angop.ao/en/noticias/saude/sinistrados-no-icolo-e-bengo-inspiram-cuidados-minsa/",
       "source": "ANGOP",
-      "_key": "c99a6219cd55a0ff"
+      "_key": "848764fc747c112a"
     },
     {
-      "title": "Biodiversity institute reinforces commitment to migratory bird protection",
-      "url": "https://www.angop.ao/en/noticias/ambiente/inbac-reforca-compromisso-na-proteccao-das-aves-migratorias/",
+      "title": "UNESCO experts in Mbanza Kongo for monument restoration work",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/especialistas-da-unesco-em-mbanza-kongo-para-trabalhos-de-restauracao-do-kulumbimbi/",
       "source": "ANGOP",
-      "_key": "2c0914a713389370"
+      "_key": "004949c32a205604"
     },
     {
-      "title": "Igualdade de género",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=80382",
-      "source": "ANGOP",
-      "_key": "ef15b19f8459ec6e"
-    },
-    {
-      "title": "Football: Interclube vs. 1º de Agosto ends goalless",
-      "url": "https://www.angop.ao/en/noticias/desporto/futebol-interclube-e-1-de-agosto-empatam-sem-golos/",
-      "source": "ANGOP",
-      "_key": "4f24c2d542e77475"
-    },
-    {
-      "title": "Football: Petro de Luanda defeats Guelson FC",
-      "url": "https://www.angop.ao/en/noticias/desporto/girabola-petro-confirma-favoritismo-e-vence-guelson-na-27xa-jornada/",
-      "source": "ANGOP",
-      "_key": "170ca21a75826d80"
-    },
-    {
-      "title": "PAWO reinforces commitment to empowering African women",
-      "url": "https://www.angop.ao/en/noticias/sociedade/opm-reforca-compromisso-com-empoderamento-das-mulheres-africanas/",
-      "source": "ANGOP",
-      "_key": "32978ba3bbd57404"
-    },
-    {
-      "title": "Empoderamento",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31824",
-      "source": "ANGOP",
-      "_key": "24bddff55a361e3d"
-    },
-    {
-      "title": "Carnival attracts over 2,000 tourists to Bengo province",
-      "url": "https://www.angop.ao/en/noticias/turismo/carnaval-movimenta-mais-de-dois-mil-turistas-no-bengo/",
-      "source": "ANGOP",
-      "_key": "b98809435684ee60"
-    },
-    {
-      "title": "FNLA assinala nova crise política com duas comissões preparatórias para o congresso",
-      "url": "https://correiokianda.info/fnla-assinala-nova-crise-politica-com-duas-comissoes-preparatorias-para-o-congresso/",
+      "title": "“Processo contra Adriano Sapiñala não tem pernas para andar”, diz especialista",
+      "url": "https://correiokianda.info/jurista-mostra-ceptico-quanto-ao-processo-contra-adriano-sapinala/",
       "source": "Correio Kianda",
-      "_key": "cc5023f6e70b3ff4"
+      "_key": "e78eb2d0afdae410"
     },
     {
-      "title": "“Divisões na oposição angolana reforçam vantagem política do MPLA”, alerta analista",
-      "url": "https://correiokianda.info/divisoes-na-oposicao-angolana-reforcam-vantagem-politica-do-mpla-alerta-analista/",
-      "source": "Correio Kianda",
-      "_key": "86bbd7ec8f0e48fe"
-    },
-    {
-      "title": "Irão ameaça bloquear Bahrein no Estreito de Ormuz após aliança com os EUA",
-      "url": "https://correiokianda.info/irao-ameaca-bloquear-bahrein-no-estreito-de-ormuz-apos-alianca-com-os-eua/",
-      "source": "Correio Kianda",
-      "_key": "3245d7deed3a5c20"
-    },
-    {
-      "title": "Supremo brasileiro suspende lei que permite reduzir pena do ex-Presidente Bolsonaro",
-      "url": "https://correiokianda.info/172055-2/",
-      "source": "Correio Kianda",
-      "_key": "9b6da6b867c29cd7"
-    },
-    {
-      "title": "O silêncio do álcool na Polícia: uma ameaça à Segurança Pública",
-      "url": "https://correiokianda.info/o-silencio-do-alcool-na-policia-uma-ameaca-a-seguranca-publica/",
-      "source": "Correio Kianda",
-      "_key": "86a3d1d928150500"
-    },
-    {
-      "title": "Destaque Angola na 4.ª Cimeira de Chefes de Estado e de Governo no Quénia Angola participa de 9 a 12 deste mês, na 4.ª Cimeira de Chefes de Estado e de Governo de países membros da Comissão Clima da Bacia do Congo (CCBC) e do Fundo Azul para a Bacia do Congo, na cidade de Nairóbi, no Quénia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675871/angola-na-4.%C2%AA-cimeira-de-chefes-de-estado-e-de-governo-no-qu%C3%A9nia",
+      "title": "Sociedade Talatona mobiliza moradores em mega campanha de limpeza no Benfica ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675874/talatona-mobiliza-moradores-em-mega-campanha-de-limpeza-no-benfica",
       "source": "Jornal de Angola",
-      "_key": "299fd776c4335c5f"
+      "_key": "6bbec2073d55e803"
     },
     {
-      "title": "Mundo Ocupantes desembarcam de cruzeiro nas Canárias após surto de hantavírus ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675873/ocupantes-desembarcam-de-cruzeiro-nas-can%C3%A1rias-ap%C3%B3s-surto-de-hantav%C3%ADrus",
+      "title": "Sociedade Inaugurada ponte metálica entre Cacuaco e Mulenvos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675872/inaugurada-ponte-met%C3%A1lica-entre-cacuaco-e-mulenvos",
       "source": "Jornal de Angola",
-      "_key": "e957f93e06b6d40d"
-    },
-    {
-      "title": "Sociedade Inaugurada ponte sobre o Rio Mulenvos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675872/inaugurada-ponte-sobre-o-rio-mulenvos",
-      "source": "Jornal de Angola",
-      "_key": "ef3e3f3758f8b027"
+      "_key": "30afb7bd3d60ac0e"
     }
   ]
 }
