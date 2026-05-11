@@ -1,16 +1,544 @@
 {
-  "date": "2026-05-10",
-  "total_new": 6,
-  "total_filtered": 1,
+  "date": "2026-05-11",
+  "total_new": 146,
+  "total_filtered": 67,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Sociedade Inaugurada ponte metálica entre Cacuaco e Mulenvos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675872/inaugurada-ponte-met%C3%A1lica-entre-cacuaco-e-mulenvos",
+      "title": "Petróleo dispara mais de 4% com escalada das tensões no Médio Oriente",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-dispara-mais-de-4-com-escalada-das-tensoes-no-medio-oriente-71727.html",
+      "source": "Expansão",
+      "_key": "e1734732cf517321",
+      "score": 10,
+      "title_cn": "中东局势升级，油价飙升逾4%。"
+    },
+    {
+      "title": "Preço do petróleo Brent sobe 4,5% para 105,81 dólares o barril",
+      "url": "https://jornaloguardiao.com/2026/05/11/preco-do-petroleo-brent-sobe-45-para-10581-dolares-o-barril/",
+      "source": "Jornal O Guardião",
+      "_key": "687980ace1ceeea9",
+      "score": 10,
+      "title_cn": "布伦特原油价格上涨4.5%，至每桶105.81美元。"
+    },
+    {
+      "title": " Preço do petróleo Brent sobe 4,5% para 105,81 dólares o barril ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c0f0e6bc879669",
+      "score": 10,
+      "title_cn": "布伦特原油价格上涨4.5%，至每桶105.81美元。"
+    },
+    {
+      "title": "Destaque Preço do petróleo sobe 105,81 dólares após resposta de Donald Trump ao irão O preço do petróleo Brent para entrega em Julho subiu hoje 4,5% para 105,81 dólares por barril, depois de o Presidente dos Estados Unidos, Donald Trump, ter considerado a resposta do Irão à proposta de paz como inaceitável.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675896/pre%C3%A7o-do-petr%C3%B3leo-sobe-10581-d%C3%B3lares-ap%C3%B3s-resposta-de-donald-trump-ao-ir%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "30afb7bd3d60ac0e",
+      "_key": "f330d146c570ccb6",
+      "score": 10,
+      "title_cn": "唐纳德·特朗普（Donald Trump）回应伊朗后，布伦特油价涨至105.81美元。"
+    },
+    {
+      "title": "Irão ameaça dificultar passagem no Estreito de Ormuz a países que aplicarem sanções dos EUA",
+      "url": "https://correiokianda.info/irao-ameaca-dificultar-passagem-no-estreito-de-ormuz-a-paises-que-aplicarem-sancoes-dos-eua/",
+      "source": "Correio Kianda",
+      "_key": "a264ca9ec32a71f0",
+      "score": 9,
+      "title_cn": "伊朗威胁对实施美国制裁的国家阻碍霍尔木兹海峡通行。"
+    },
+    {
+      "title": "Câmara de Comércio de Angola em Macau diz que fecho de consulado “é retrocesso”",
+      "url": "https://jornaloguardiao.com/2026/05/11/camara-de-comercio-de-angola-em-macau-diz-que-fecho-de-consulado-e-retrocesso/",
+      "source": "Jornal O Guardião",
+      "_key": "35640f646d1fe9d4",
+      "score": 9,
+      "title_cn": "安哥拉驻澳门商会称关闭领事馆是“倒退”。"
+    },
+    {
+      "title": " Câmara de Comércio de Angola em Macau diz que fecho de consulado “é retrocesso” ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_69b04a8dbb6f1d",
+      "score": 9,
+      "title_cn": "安哥拉驻澳门商会称关闭领事馆是“倒退”。"
+    },
+    {
+      "title": "Economia / Há 1 hora Potencial mineiro angolano atrai investimento internacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675908/potencial-mineiro-angolano-atrai-investimento-internacional",
+      "source": "Jornal de Angola",
+      "_key": "a2d7b99bbdc1aab7",
+      "score": 9,
+      "title_cn": "安哥拉矿业潜力吸引国际投资。"
+    },
+    {
+      "title": "Petróleo: Barril volta à parte de cima da montanha-russa...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-volta-a-parte-de-cima-da-montanha-russa-instalada-no-golfo-persico-trump-disse-i-dont-like-it-ao-irao-e-os-mercados-voltaram-a-vestir-o-camuflado-71728.html",
+      "source": "Novo Jornal",
+      "_key": "4203d8461de6529c",
+      "score": 9,
+      "title_cn": "油价：原油价格重回“过山车”高位。"
+    },
+    {
+      "title": "ANPG admite riscos elevados de corrupção no upstream e traça estratégia de combate até 2029",
+      "url": "https://diariodosnegocios.com/anpg-admite-riscos-elevados-de-corrupcao-no-upstream-e-traca-estrategia-de-combate-ate-2029/",
+      "source": "Diário dos Negócios",
+      "_key": "8f52041e8cd032fa",
+      "score": 8,
+      "title_cn": "ANPG承认上游腐败风险高，制定2029年前反腐战略。"
+    },
+    {
+      "title": "Contabilistas exigem novo portal da AGT e denunciam prejuízos de falhas sistemáticas no cumprimento de obrigações fiscais",
+      "url": "https://diariodosnegocios.com/contabilistas-exigem-novo-portal-da-agt-e-denunciam-prejuizos-de-falhas-sistematicas-no-cumprimento-de-obrigacoes-fiscais/",
+      "source": "Diário dos Negócios",
+      "_key": "7d8ea9125a711f50",
+      "score": 8,
+      "title_cn": "会计师要求AGT新门户，谴责税务履行系统性故障造成损失。"
+    },
+    {
+      "title": " ANPG admite riscos elevados de corrupção no upstream e traça estratégia de combate até 2029 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_d3a30166b21c81",
+      "score": 8,
+      "title_cn": "ANPG承认上游腐败风险高，制定2029年前反腐战略。"
+    },
+    {
+      "title": " Contabilistas exigem novo portal da AGT e denunciam prejuízos de falhas sistemáticas no cumprimento de obrigações fiscais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_95865c822bc53e",
+      "score": 8,
+      "title_cn": "会计师要求AGT新门户，谴责税务履行系统性故障造成损失。"
+    },
+    {
+      "title": "Contabilistas pedem novo portal da AGT para acabar com falhas sistemáticas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_acb6383a741e54",
+      "score": 8,
+      "title_cn": "会计师呼吁AGT启用新门户，以解决系统性故障。"
+    },
+    {
+      "title": "Corrupção e conflitos de interesse entre os maiores riscos no segmento upstream",
+      "url": "https://expansao.co.ao/economia/detalhe/corrupcao-e-conflitos-de-interesse-entre-os-maiores-riscos-no-segmento-upstream-71719.html",
+      "source": "Expansão",
+      "_key": "e5073fa39e98aeca",
+      "score": 8,
+      "title_cn": "腐败和利益冲突是上游领域的主要风险。"
+    },
+    {
+      "title": "Economia Regimes jurídicos dos Pólos de Desenvolvimento Industrial apresentados em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675940/regimes-jur%C3%ADdicos-dos-p%C3%B3los-de-desenvolvimento-industrial-apresentados-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "e681d5fcabb2fd2d",
+      "score": 8,
+      "title_cn": "罗安达公布工业发展区法律制度。"
+    },
+    {
+      "title": "Polícia Nacional detém mais de 200 cidadãos implicados em diversos crimes em Luanda",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-detem-mais-de-200-cidadaos-implicados-em-diversos-crimes-em-luanda/",
+      "source": "O País",
+      "_key": "cac363faf2b2b753",
+      "score": 8,
+      "title_cn": "罗安达国家警察逮捕200多名涉嫌犯罪公民。"
+    },
+    {
+      "title": "Governo projecta entregar auto-estrada Nzeto-Soyo em Dezembro deste ano",
+      "url": "https://correiokianda.info/governo-projecta-entregar-auto-estrada-nzeto-soyo-em-dezembro-deste-ano/",
+      "source": "Correio Kianda",
+      "_key": "6c0a96c868469381",
+      "score": 7,
+      "title_cn": "政府计划今年12月交付恩泽托-索约高速公路。"
+    },
+    {
+      "title": "Lucro consolidado da banca comercial cresce 12% para um bilião Kz em 2025",
+      "url": "https://expansao.co.ao/empresas/detalhe/lucro-consolidado-da-banca-comercial-cresce-12-para-um-biliao-kz-em-2025-71717.html",
+      "source": "Expansão",
+      "_key": "12b1ba7e9a54cdf9",
+      "score": 7,
+      "title_cn": "商业银行综合利润预计2025年增长12%至10亿宽扎。"
+    },
+    {
+      "title": "Sistema financeiro tem luz verde para implementação do Open Banking",
+      "url": "https://expansao.co.ao/empresas/detalhe/sistema-financeiro-tem-luz-verde-para-implementacao-do-open-banking-71720.html",
+      "source": "Expansão",
+      "_key": "9549a965e4106a4d",
+      "score": 7,
+      "title_cn": "金融系统获准实施开放银行。"
+    },
+    {
+      "title": "Moçambique procura novos fornecedores de combustíveis após crise no estreito de Ormuz",
+      "url": "https://forbesafricalusofona.com/mocambique-procura-novos-fornecedores-de-combustiveis-apos-crise-no-estreito-de-ormuz/",
+      "source": "Forbes África",
+      "_key": "d8d2f904e4a70ba6",
+      "score": 7,
+      "title_cn": "霍尔木兹海峡危机后，莫桑比克寻求新燃料供应商。"
+    },
+    {
+      "title": "China confirma visita de Presidente dos EUA de 13 a 15 de maio",
+      "url": "https://jornaloguardiao.com/2026/05/11/china-confirma-visita-de-presidente-dos-eua-de-13-a-15-de-maio/",
+      "source": "Jornal O Guardião",
+      "_key": "e6e58e49320e3a0e",
+      "score": 7,
+      "title_cn": "中国确认美国总统将于5月13日至15日访华。"
+    },
+    {
+      "title": "Trump diz que Irão vai parar de “gozar” com os Estados Unidos",
+      "url": "https://jornaloguardiao.com/2026/05/11/trump-diz-que-irao-vai-parar-de-gozar-com-os-estados-unidos/",
+      "source": "Jornal O Guardião",
+      "_key": "866b02b29dc0c917",
+      "score": 7,
+      "title_cn": "特朗普（Trump）称伊朗将停止“嘲弄”美国。"
+    },
+    {
+      "title": " China confirma visita de Presidente dos EUA de 13 a 15 de maio ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d684174b9fb5b5",
+      "score": 7,
+      "title_cn": "中国确认美国总统将于5月13日至15日访华。"
+    },
+    {
+      "title": " Trump diz que Irão vai parar de “gozar” com os Estados Unidos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_2c5c6166b40c49",
+      "score": 7,
+      "title_cn": "特朗普（Trump）称伊朗将停止“嘲弄”美国。"
+    },
+    {
+      "title": "President João Lourenço authorizes public tender for the requalification of the city of Dundo",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-autoriza-concurso-publico-para-requalificacao-do-centro-urbano-do-dundo/",
+      "source": "ANGOP",
+      "_key": "4622e38a1d99f581",
       "score": 6,
-      "title_cn": "卡夸科与穆伦沃斯间金属桥落成"
+      "title_cn": "若昂·洛伦索（João Lourenço）总统授权敦多市重建公开招标。"
+    },
+    {
+      "title": "Rebeldes matam mais de 60 pessoas no nordeste da RDC",
+      "url": "https://correiokianda.info/rebeldes-matam-mais-de-60-pessoas-no-nordeste-da-rdc/",
+      "source": "Correio Kianda",
+      "_key": "2ab6394ba0223710",
+      "score": 6,
+      "title_cn": "刚果民主共和国东北部叛乱分子杀害60多人。"
+    },
+    {
+      "title": "        África1 hora atrás  Nairobi acolhe cimeira económica africana com presença de Emmanuel Macron A cidade de Nairobi, capital do Quénia, acolhe esta semana uma importante cimeira económica internacional que reúne líderes políticos, empresários, investidores e representantes de organizações multilaterais...   ",
+      "url": "https://correiokianda.info/nairobi-acolhe-cimeira-economica-africana-com-presenca-de-emmanuel-macron/",
+      "source": "Correio Kianda",
+      "_key": "5846eed499e53753",
+      "score": 6,
+      "title_cn": "内罗毕举行非洲经济峰会，埃马纽埃尔·马克龙（Emmanuel Macron）出席。"
+    },
+    {
+      "title": "Tensão institucional no BPC opõe presidente do Conselho de Administração e líder da Comissão Executiva",
+      "url": "https://diariodosnegocios.com/tensao-institucional-no-bpc-opoe-presidente-do-conselho-de-administracao-e-lider-da-comissao-executiva/",
+      "source": "Diário dos Negócios",
+      "_key": "dfc0a658ed2c8f90",
+      "score": 6,
+      "title_cn": "BPC 的机构紧张局势使董事会主席和执行委员会领导人陷入困境"
+    },
+    {
+      "title": " Tensão institucional no BPC opõe presidente do Conselho de Administração e líder da Comissão Executiva ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_76f2bccf79336e",
+      "score": 6,
+      "title_cn": "BPC内部紧张：董事会主席与执行委员会负责人对立。"
+    },
+    {
+      "title": "\"A banca olha só para determinadas pessoas, tem os seus preferidos e grupos\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1038efaa30b858",
+      "score": 6,
+      "title_cn": "“银行只关注特定人群，有其偏爱和群体。”"
+    },
+    {
+      "title": "Inflação em Moçambique quase triplica em Abril impulsionada pelos preços dos alimentos",
+      "url": "https://forbesafricalusofona.com/inflacao-em-mocambique-quase-triplica-em-abril-impulsionada-pelos-precos-dos-alimentos/",
+      "source": "Forbes África",
+      "_key": "abba4b8920fa0a42",
+      "score": 6,
+      "title_cn": "莫桑比克4月通胀受食品价格推动几乎翻三倍。"
+    },
+    {
+      "title": "Access Bank Angola entra no negócio dos seguros para reforçar oferta financeira integrada",
+      "url": "https://forbesafricalusofona.com/access-bank-angola-entra-no-negocio-dos-seguros-para-reforcar-oferta-financeira-integrada/",
+      "source": "Forbes África",
+      "_key": "91c2bf6c2789df40",
+      "score": 6,
+      "title_cn": "安哥拉Access银行进军保险业，强化综合金融服务。"
+    },
+    {
+      "title": "Líder da UNITA defende transparência na gestão do erário e fim do esbanjamento público",
+      "url": "https://holdonangola.com/lider-da-unita-defende-transparencia-na-gestao-do-erario-e-fim-do-esbanjamento-publico/",
+      "source": "Hold On Angola",
+      "_key": "3351bad079173ed3",
+      "score": 6,
+      "title_cn": "安盟领导人倡导公共资金管理透明化，杜绝公共浪费。"
+    },
+    {
+      "title": "Destaque Negócio de ofícios judiciais: Um esquema de desbloqueio de contas bancáriasA dureza da adjectivação, na acusação do Ministério Público (MP), usando palavras como “falcatrua”\" e “comparsas”, revelava o espanto dos representantes daquele órgão judiciário, cujos procuradores esperavam de um funcionário de outro órgão equiparado do Estado uma actuação nos limites da legalidade.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675895/neg%C3%B3cio-de-of%C3%ADcios-judiciais:--um-esquema-de-desbloqueio-de-contas-banc%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "7c105423fa1c4a40",
+      "score": 6,
+      "title_cn": "司法文书业务：一项解冻银行账户的骗局。"
+    },
+    {
+      "title": "Regiões Bié acolhe na terça-feira workshop sobre Parcerias Público-Privadas ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/675943/bi%C3%A9-acolhe-na-ter%C3%A7a-feira-workshop-sobre-parcerias-p%C3%BAblico-privadas-",
+      "source": "Jornal de Angola",
+      "_key": "1f51f288c7fb7a8d",
+      "score": 6,
+      "title_cn": "比耶省周二举办公私伙伴关系研讨会。"
+    },
+    {
+      "title": "Política Juíza Laurinda Prazeres disserta sobre independência do Judiciário ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675939/ju%C3%ADza-laurinda-prazeres-disserta-sobre-independ%C3%AAncia-do-judici%C3%A1rio-",
+      "source": "Jornal de Angola",
+      "_key": "d6a477d137cccdf8",
+      "score": 6,
+      "title_cn": "法官劳林达·普拉泽雷斯（Laurinda Prazeres）论述司法独立。"
+    },
+    {
+      "title": "Mundo Moçambicanos receiam supostos terroristas em campos agrícolas ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675932/mo%C3%A7ambicanos-receiam-supostos-terroristas-em-campos-agr%C3%ADcolas-",
+      "source": "Jornal de Angola",
+      "_key": "f5ce1573a73f9b82",
+      "score": 6,
+      "title_cn": "莫桑比克人担忧农田出现疑似恐怖分子。"
+    },
+    {
+      "title": "Economia / Há 49 minutos Sector agro-pecuário apresenta maior taxa de emprego do país ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675914/sector-agro-pecu%C3%A1rio-apresenta-maior-taxa-de-emprego-do-pa%C3%ADs-",
+      "source": "Jornal de Angola",
+      "_key": "5f9409eec1cfa1e9",
+      "score": 6,
+      "title_cn": "农牧业是全国就业率最高的行业。"
+    },
+    {
+      "title": "Economia / Há 57 minutos ENDE: Clientes devem mais de 5 mil milhões de kzs ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675911/ende:-clientes-devem-mais--de-5-mil-milh%C3%B5es-de-kzs",
+      "source": "Jornal de Angola",
+      "_key": "d4127fab06525b40",
+      "score": 6,
+      "title_cn": "ENDE：客户拖欠逾50亿宽扎电费。"
+    },
+    {
+      "title": "Economia / Há 1 hora ATM facilita transacções monetárias dos cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675910/atm-facilita-transac%C3%A7%C3%B5es--monet%C3%A1rias-dos-cidad%C3%A3os",
+      "source": "Jornal de Angola",
+      "_key": "bde7d36875cd0fd9",
+      "score": 6,
+      "title_cn": "自动取款机（ATM）便利公民货币交易。"
+    },
+    {
+      "title": "Economia / Há 1 hora Agricultores defendem maior acesso aos financiamentos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675909/agricultores-defendem-maior-acesso-aos-financiamentos",
+      "source": "Jornal de Angola",
+      "_key": "7f3edeb78c8149e9",
+      "score": 6,
+      "title_cn": "农民呼吁获得更多融资。"
+    },
+    {
+      "title": "Mundo10/05/2026Aumento da violência no Sahel preocupa Leão XIV",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675875/aumento-da-viol%C3%AAncia-no-sahel-preocupa-le%C3%A3o-xiv",
+      "source": "Jornal de Angola",
+      "_key": "30d746015fca3615",
+      "score": 6,
+      "title_cn": "萨赫勒地区暴力升级令利奥十四世（Leão XIV）担忧。"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: PROCESSOS ARRASTAM-SE HÁ ANOS. Tribunais \"travam\" recuperação de 422,2 mil milhões kz da RECREDIT.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=71732",
+      "source": "Novo Jornal",
+      "_key": "be6ef25c2d29195f",
+      "score": 6,
+      "title_cn": "案件拖延多年：法院“阻止”RECREDIT追回4222亿宽扎。"
+    },
+    {
+      "title": "SIC apresenta hoje associação criminosa ligada a vários assaltos em Viana",
+      "url": "https://www.opais.ao/ultimas_hora/sic-apresenta-hoje-associacao-criminosa-ligada-a-varios-assaltos-em-viana/",
+      "source": "O País",
+      "_key": "b685ab21c950646b",
+      "score": 6,
+      "title_cn": "SIC今日公布维亚纳多起抢劫案犯罪团伙。"
+    },
+    {
+      "title": "Angola participa na Reunião Intercalar do Processo Kimberley em Mumbai",
+      "url": "https://www.opais.ao/economia/https-www-opais-ao-economia-angola-participa-na-reuniao-intercalar-do-processo-kimberley-em-mumbai/",
+      "source": "O País",
+      "_key": "99b50e2f06067600",
+      "score": 6,
+      "title_cn": "安哥拉参加孟买金伯利进程中期会议。"
+    },
+    {
+      "title": "Governo quer ver perímetro irrigado de Caxito mais explorado e produtivo",
+      "url": "https://www.opais.ao/economia/governo-quer-ver-perimetro-irrigado-de-caxito-mais-explorado-e-produtivo/",
+      "source": "O País",
+      "_key": "20d69887676476bd",
+      "score": 6,
+      "title_cn": "政府希望卡希托灌溉区得到更充分开发和生产。"
+    },
+    {
+      "title": "Angola e Argélia reforçam cooperação económica com foco na energia e formação técnica",
+      "url": "https://www.opais.ao/politica/angola-e-argelia-reforcam-cooperacao-economica-com-foco-na-energia-e-formacao-tecnica/",
+      "source": "O País",
+      "_key": "9a5df8f0607904d8",
+      "score": 6,
+      "title_cn": "安哥拉与阿尔及利亚加强能源和技术培训经济合作。"
+    },
+    {
+      "title": "Teerão ameaça dificultar passagem por Ormuz a países que apliquem sanções dos EUA",
+      "url": "https://www.opais.ao/mundo/teerao-ameaca-dificultar-passagem-por-ormuz-a-paises-que-apliquem-sancoes-dos-eua/",
+      "source": "O País",
+      "_key": "5267ae0dcbf5402a",
+      "score": 6,
+      "title_cn": "德黑兰威胁对实施美国制裁的国家阻碍霍尔木兹海峡通行。"
+    },
+    {
+      "title": "Angolan President on his way to Algeria",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-a-caminho-da-argelia/",
+      "source": "ANGOP",
+      "_key": "c86b9689e10463fb",
+      "score": 5,
+      "title_cn": "安哥拉总统启程前往阿尔及利亚。"
+    },
+    {
+      "title": "Angola and Algeria revitalize economic relations",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-argelia-recuperam-dinamismo-das-relacoes-economicas/",
+      "source": "ANGOP",
+      "_key": "b6acf05670eeba32",
+      "score": 5,
+      "title_cn": "安哥拉与阿尔及利亚重振经济关系。"
+    },
+    {
+      "title": "Decreto Presidencial",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=44307",
+      "source": "ANGOP",
+      "_key": "6da9fc1b6702c754",
+      "score": 5,
+      "title_cn": "总统令。"
+    },
+    {
+      "title": "President João Lourenço travels to Algeria on Monday for 3-day state visit",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-inicia-segunda-feira-visita-de-estado-a-argelia/",
+      "source": "ANGOP",
+      "_key": "588e4c2a3dbcca40",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统周一赴阿尔及利亚进行三天国事访问。"
+    },
+    {
+      "title": "Especialista destaca necessidade de vigilância perante surto de hantavírus",
+      "url": "https://correiokianda.info/especialista-destaca-necessidade-de-vigilancia-perante-surto-de-hantavirus/",
+      "source": "Correio Kianda",
+      "_key": "c90b2f949b388873",
+      "score": 5,
+      "title_cn": "专家强调汉坦病毒爆发需保持警惕。"
+    },
+    {
+      "title": "Geopolítica africana 1963 – 2026: do pan-africanismo à integração continental “OUA – UA”",
+      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-do-pan-africanismo-a-integracao-continental-oua-ua/",
+      "source": "Correio Kianda",
+      "_key": "51b2693ec4066dc2",
+      "score": 5,
+      "title_cn": "1963-2026年非洲地缘政治：从泛非主义到非盟大陆一体化。"
+    },
+    {
+      "title": "João Lourenço viaja esta segunda-feira para a Argélia",
+      "url": "https://correiokianda.info/joao-lourenco-viaja-esta-segunda-feira-para-a-argelia/",
+      "source": "Correio Kianda",
+      "_key": "1824e038fc6e883c",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）周一前往阿尔及利亚。"
+    },
+    {
+      "title": "João Lourenço viaja para Argélia e discursa no Parlamento argelino durante visita de três dias",
+      "url": "https://diariodosnegocios.com/joao-lourenco-viaja-para-argelia-e-discursa-no-parlamento-argelino-durante-visita-de-tres-dias/",
+      "source": "Diário dos Negócios",
+      "_key": "53cdc1254874f408",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）访问阿尔及利亚三天，并在阿议会发表演讲。"
+    },
+    {
+      "title": " João Lourenço viaja para Argélia e discursa no Parlamento argelino durante visita de três dias ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_2940c432f5975c",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）访问阿尔及利亚三天，并在阿议会发表演讲。"
+    },
+    {
+      "title": "Destaque Chefe de Estado a caminho da Argélia O Chefe de Estado, João Lourenço, deixou Luanda, na manhã desta segunda-feira, com destino à capital argelina, acompanhado da Primeira-Dama da República, Ana Dias Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675892/chefe-de-estado-a-caminho-da-arg%C3%A9lia-",
+      "source": "Jornal de Angola",
+      "_key": "29c93753b4f59bdc",
+      "score": 5,
+      "title_cn": "国家元首若昂·洛伦索（João Lourenço）周一从罗安达启程前往阿尔及利亚。"
+    },
+    {
+      "title": "Destaque Angola e Argélia alargam cooperação nos sectores Aéreo e do Ensino SuperiorAngola e a República Argelina Democrática e Popular assinam, dentro de instantes, na cidade de Argel, 11 instrumentos jurídicos, com destaque para os sectores Aéreos e do Ensino Superior, com propósito de impulsionar a cooperação bilateral.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675934/angola-e-arg%C3%A9lia-alargam-coopera%C3%A7%C3%A3o-nos-sectores-a%C3%A9reo-e-do-ensino-superior",
+      "source": "Jornal de Angola",
+      "_key": "ec5697c378bee2b3",
+      "score": 5,
+      "title_cn": "安哥拉与阿尔及利亚扩大航空和高等教育领域合作。"
+    },
+    {
+      "title": "Política João Lourenço e Abdelmadjid Tebboune mantêm encontro em Argel ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675884/jo%C3%A3o-louren%C3%A7o-e-abdelmadjid--tebboune-mant%C3%AAm-encontro-em-argel",
+      "source": "Jornal de Angola",
+      "_key": "cc37d5c9f85a2b79",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）与阿卜杜勒马吉德·特本（Abdelmadjid Tebboune）在阿尔及尔会晤。"
+    },
+    {
+      "title": "Mundo11/05/2026Cessar-fogo obtido após um dia de fortes combates",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/675944/cessar-fogo-obtido-ap%C3%B3s-um-dia-de-fortes-combates",
+      "source": "Jornal de Angola",
+      "_key": "b6341c32dfcafd4c",
+      "score": 5,
+      "title_cn": "激烈战斗一天后达成停火协议。"
+    },
+    {
+      "title": "Presidente a caminho da Argélia para visita oficial...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/presidente-a-caminho-da-argelia-para-visita-oficial-de-tres-dias-71718.html",
+      "source": "Novo Jornal",
+      "_key": "d86a181b67420dce",
+      "score": 5,
+      "title_cn": "总统启程前往阿尔及利亚进行正式访问。"
+    },
+    {
+      "title": "João Lourenço inicia hoje visita de Estado de três dias à Argélia",
+      "url": "https://www.opais.ao/politica/joao-lourenco-inicia-hoje-visita-de-estado-de-tres-dias-a-argelia/",
+      "source": "O País",
+      "_key": "2738a885d7be4513",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）今日起对阿尔及利亚进行三天国事访问。"
+    },
+    {
+      "title": "Luanda regista 14 acidentes de viação nas últimas 72 horas",
+      "url": "https://www.opais.ao/ultimas_hora/luanda-regista-14-acidentes-de-viacao-nas-ultimas-72-horas/",
+      "source": "O País",
+      "_key": "d05bb4a0d973124c",
+      "score": 5,
+      "title_cn": "罗安达在过去72小时内发生14起交通事故。"
+    },
+    {
+      "title": "Mais de 90 pessoas morreram nas estradas do Cuanza-Sul",
+      "url": "https://www.opais.ao/sociedade/mais-de-90-pessoas-morreram-nas-estradas-do-cuanza-sul/",
+      "source": "O País",
+      "_key": "4f7df1dedaf8c39f",
+      "score": 5,
+      "title_cn": "宽扎南省道路交通事故致90多人死亡。"
+    },
+    {
+      "title": "Familiares das jovens supostamente abusadas por líder religioso no Lubango acusam SIC de abafar o caso",
+      "url": "https://www.opais.ao/ultimas_hora/familiares-das-jovens-supostamente-abusadas-por-lider-religioso-no-lubango-acusam-sic-de-abafar-o-caso/",
+      "source": "O País",
+      "_key": "295cf11c1b77c66d",
+      "score": 5,
+      "title_cn": "卢班戈宗教领袖性侵案受害者家属指控SIC掩盖事实。"
     }
   ]
 }
