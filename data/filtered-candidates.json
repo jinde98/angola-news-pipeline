@@ -1,539 +1,91 @@
 {
   "date": "2026-05-12",
-  "total_new": 149,
-  "total_filtered": 76,
-  "scored_by": "glm-flash",
+  "total_new": 24,
+  "total_filtered": 12,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BNA continua a \"safar\" ex-BESA apesar dos kilapis por pagar",
-      "url": "https://expansao.co.ao/empresas/detalhe/bna-continua-a-safar-ex-besa-apesar-dos-kilapis-por-pagar-71749.html",
-      "source": "Expansão",
-      "_key": "8e637aed76bc4a46",
+      "title": "Petróleo: Barril de Brent volta a \"acampar\" no território...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-volta-a-acampar-no-territorio-dos-110-usd-71758.html",
+      "source": "Novo Jornal",
+      "_key": "def3883039cd9a5f",
       "score": 9
     },
     {
-      "title": "Luanda: Organização criminosa liderada por duas mulheres \"treinava\" militarmente milhares de pessoas a quem prometeram emprego na Protecção Civil e Bombeiros",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-organizacao-criminosa-liderada-por-duas-mulheres-treinava-militarmente-milhares-de-pessoas-a-quem-prometeram-emprego-na-proteccao-civil-e-bombeiros-71748.html",
+      "title": "Destaque Testes do poço Espadarte confirmam produção superior a dois mil barris por diaOs testes iniciais e de avaliação do poço Espadarte 7ST2, localizado no Bloco 2/05 da Bacia do Baixo Congo, na província do Zaire, apresentaram resultados encorajadores, com uma produção estabilizada entre 2.000 e 2.500 barris de petróleo por dia, sem qualquer presença de água. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676027/testes-do-po%C3%A7o-espadarte-confirmam-produ%C3%A7%C3%A3o-superior-a-dois-mil-barris-por-dia",
+      "source": "Jornal de Angola",
+      "_key": "64fc98f3cdb1c4f6",
+      "score": 8
+    },
+    {
+      "title": "Política MIREMPET prepara conferência em Londres ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676025/mirempet-prepara-confer%C3%AAncia-em-londres",
+      "source": "Jornal de Angola",
+      "_key": "5e5df42c25acf8de",
+      "score": 7
+    },
+    {
+      "title": "SIC desmantela grupo que fazia assaltos à mão armada...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-desmantela-grupo-que-fazia-assaltos-a-mao-armada-em-varios-municipios-de-luanda-mas-um-dos-elementos-ainda-esta-a-monte-71759.html",
       "source": "Novo Jornal",
-      "_key": "5fc078ca92a0229c",
-      "score": 9
-    },
-    {
-      "title": "AUDAC destaca plano operacional para os próximos 90 dias",
-      "url": "https://www.opais.ao/cultura/audac-destaca-plano-operacional-para-os-proximos-90-dias/",
-      "source": "O País",
-      "_key": "93bcc895266102d9",
-      "score": 9
-    },
-    {
-      "title": "AGT esclarece: Imposto sobre Veículos Motorizados não está vinculado à manutenção de estradas em Angola",
-      "url": "https://diariodosnegocios.com/agt-esclarece-imposto-sobre-veiculos-motorizados-nao-esta-vinculado-a-manutencao-de-estradas-em-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "6b7be9fd8f88eefa",
-      "score": 8
-    },
-    {
-      "title": " Odebrecht Angola inicia construção da Barragem de N’Ompombo e sistema de abastecimento nos Gambos ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_11d9fda41d8ebf",
-      "score": 8
-    },
-    {
-      "title": "Polícia desmente casos de desaparecimento de órgãos genitais e alerta contra actos de violência",
-      "url": "https://jornaloguardiao.com/2026/05/12/policia-desmente-casos-de-desaparecimento-de-orgaos-genitais-e-alerta-contra-actos-de-violencia/",
-      "source": "Jornal O Guardião",
-      "_key": "288ed1e53392dd93",
-      "score": 8
-    },
-    {
-      "title": " Polícia desmente casos de desaparecimento de órgãos genitais e alerta contra actos de violência ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_5c028a81479179",
-      "score": 8
-    },
-    {
-      "title": "Luanda: Organização criminosa liderada por duas mulheres...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-organizacao-criminosa-liderada-por-duas-mulheres-treinava-militarmente-milhares-de-pessoas-a-quem-prometeu-emprego-na-proteccao-civil-e-bombeiros-71748.html",
-      "source": "Novo Jornal",
-      "_key": "9b1e6f07b733c6a0",
-      "score": 8
-    },
-    {
-      "title": "Deputados iniciam debate sobre Regime Jurídico do Beneficiário Efectivo",
-      "url": "https://www.opais.ao/politica/deputados-iniciam-debate-sobre-regime-juridico-do-beneficiario-efectivo/",
-      "source": "O País",
-      "_key": "63bd854649178fd1",
-      "score": 8
-    },
-    {
-      "title": "Angolan firefighters record 15 deaths over the weekend",
-      "url": "https://www.angop.ao/en/noticias/sociedade/bombeiros-registam-15-mortes-no-fim-de-semana-em-angola/",
-      "source": "ANGOP",
-      "_key": "203e52e3fd0b915c",
+      "_key": "4bd36ac8efbeab2c",
       "score": 7
     },
     {
-      "title": "Presidente da República autoriza novos contratos para ligação eléctrica entre Soyo e Cabinda",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-novos-contratos-para-ligacao-electrica-entre-soyo-e-cabinda/",
+      "title": "SIC desmantela associação criminosa que burlou mais de 5 mil pessoas com promessas de emprego",
+      "url": "https://www.opais.ao/ultimas_hora/sic-desmantela-associacao-criminosa-que-burlou-mais-de-5-mil-pessoas-com-promessas-de-emprego/",
+      "source": "O País",
+      "_key": "3510be919a6abb44",
+      "score": 7
+    },
+    {
+      "title": "        África18 minutos atrás  Presidente angolano critica desrespeito pelo direito internacional em conflitos globais O Presidente da República de Angola, João Lourenço, criticou esta terça-feira, em Argel, o que considerou ser o crescente desrespeito pelo direito internacional e pelos princípios...   ",
+      "url": "https://correiokianda.info/presidente-angolano-critica-desrespeito-pelo-direito-internacional-em-conflitos-globais/",
       "source": "Correio Kianda",
-      "_key": "fe1b6c03733bc1ce",
-      "score": 7
+      "_key": "15209f89a848a8a0",
+      "score": 6
     },
     {
-      "title": "BNA autoriza implementação do Open Banking para impulsionar inovação e inclusão financeira",
-      "url": "https://diariodosnegocios.com/bna-autoriza-implementacao-do-open-banking-para-impulsionar-inovacao-e-inclusao-financeira/",
-      "source": "Diário dos Negócios",
-      "_key": "8822820f7d892b37",
-      "score": 7
-    },
-    {
-      "title": " AGT esclarece: Imposto sobre Veículos Motorizados não está vinculado à manutenção de estradas em Angola ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_a52791e61b9764",
-      "score": 7
-    },
-    {
-      "title": " PR chega à Argélia e assina 11 acordos com Tebboune no primeiro dia de visita de Estado ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_022bd4b9be81e8",
-      "score": 7
-    },
-    {
-      "title": "Fitch mantém ‘rating’ de Angola e alerta para risco eleitoral nas contas públicas",
-      "url": "https://forbesafricalusofona.com/fitch-mantem-rating-de-angola-e-alerta-para-risco-eleitoral-nas-contas-publicas/",
-      "source": "Forbes África",
-      "_key": "c47b613653ee29a7",
-      "score": 7
-    },
-    {
-      "title": "João Lourenço e Tebboune reforçam parceria estratégica entre Angola e Argélia com assinatura de 11 acordos",
-      "url": "https://jornaloguardiao.com/2026/05/12/joao-lourenco-e-tebboune-reforcam-parceria-estrategica-entre-angola-e-argelia-com-assinatura-de-11-acordos/",
-      "source": "Jornal O Guardião",
-      "_key": "586af71dcaee0e27",
-      "score": 7
-    },
-    {
-      "title": " João Lourenço e Tebboune reforçam parceria estratégica entre Angola e Argélia com assinatura de 11 acordos ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_7730f2caadaaaa",
-      "score": 7
-    },
-    {
-      "title": "Angola e Argélia dão mais impulso à cooperação com 11 novos acordosOs Governos de Angola e da Argélia deram um impulso nas relações bilaterais em vários sectores, com a assinatura segunda-feira, em Argel, de nove acordos e dois Memorandos de Entendimento, perfazendo um total de 11 instrumentos jurídicos. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675966/angola-e-arg%C3%A9lia-d%C3%A3o-mais-impulso-%C3%A0-coopera%C3%A7%C3%A3o-com-11-novos-acordos",
+      "title": "Destaque Presidente João Lourenço discursa no Parlamento argelinoO Presidente da República, João Lourenço, discursou, hoje, no Parlamento argelino, na cidade de Argel, Argélia, no quadro da sua visita de Estado de três dias. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676019/presidente-jo%C3%A3o-louren%C3%A7o-discursa-no-parlamento-argelino",
       "source": "Jornal de Angola",
-      "_key": "e1ff66d9b9b9dc46",
-      "score": 7
+      "_key": "f112f90e3b213838",
+      "score": 6
     },
     {
-      "title": "Angola promete alargar isenção de vistos para estimular o turismoO secretário de Estado para o Turismo, Augusto Kalikemala, disse segunda-feira, em Durban, África do Sul, que o país está a preparar o alargamento da isenção de vistos a um leque maior de países africanos a partir do próximo ano, com vista a melhorar a conectividade no continente e estimular o turismo regional.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675972/angola-promete-alargar-isen%C3%A7%C3%A3o-de-vistos-para-estimular-o-turismo",
+      "title": "Destaque Chefe de Estado recebe Primeiro-Ministro da Argélia em audiênciaO Presidente da República, João Lourenço, recebeu, na cidade de Argel, esta terça-feira, em audiência, o Primeiro-Ministro da Argélia, Sifi Ghrieb, no âmbito do reforço das relações bilaterais entre os dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676028/chefe-de-estado-recebe-primeiro-ministro-da-arg%C3%A9lia-em-audi%C3%AAncia",
       "source": "Jornal de Angola",
-      "_key": "530e2b91517ce9a9",
-      "score": 7
+      "_key": "5650d9a4c8a07d19",
+      "score": 6
     },
     {
-      "title": "Economia / Há 1 hora Empresários congoleses querem investir na Fronteira do Luvo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675984/empres%C3%A1rios-congoleses-querem-investir-na-fronteira-do-luvo",
+      "title": "Presidente da República cumpre hoje segundo dia da visita de Estado à Argélia",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-cumpre-hoje-segundo-dia-da-visita-de-estado-a-argelia/",
+      "source": "O País",
+      "_key": "e89c9d3ff08a7f58",
+      "score": 6
+    },
+    {
+      "title": "Mundo António Guterres alerta para impacto da guerra do Irão em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676023/ant%C3%B3nio-guterres-alerta-para-impacto-da-guerra-do-ir%C3%A3o-em-%C3%A1frica-",
       "source": "Jornal de Angola",
-      "_key": "f5219f65e54a5759",
-      "score": 7
+      "_key": "7a77003f971c999d",
+      "score": 5
     },
     {
-      "title": "Economia / Há 1 hora Angola assume 11.ª posição na Rede Africana do Pacto Global ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675983/angola-assume-11.%C2%AA-posi%C3%A7%C3%A3o-na-rede-africana-do-pacto-global-",
+      "title": "12:22 / 12 mai. 2026 João Lourenço reconhece contributo da Argélia para construção da Sonangol ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676024/jo%C3%A3o-louren%C3%A7o-reconhece-contributo-da-arg%C3%A9lia-para-constru%C3%A7%C3%A3o-da-sonangol",
       "source": "Jornal de Angola",
-      "_key": "d022694dcbd2045d",
-      "score": 7
+      "_key": "9ce829babaff9e43",
+      "score": 5
     },
     {
-      "title": "Última hora Angola e Argélia fortalecem cooperação com assinatura de 11 acordos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675964/angola-e-arg%C3%A9lia-fortalecem-coopera%C3%A7%C3%A3o-com-assinatura-de-11-acordos-",
-      "source": "Jornal de Angola",
-      "_key": "2b308a56f20920ba",
-      "score": 7
-    },
-    {
-      "title": "Última hora Presidente João Lourenço visita Museu Nacional do Moudjahid na Argélia",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675960/presidente-jo%C3%A3o-louren%C3%A7o-visita-museu-nacional-do-moudjahid-na-arg%C3%A9lia",
-      "source": "Jornal de Angola",
-      "_key": "6e8b6e5df72d4992",
-      "score": 7
-    },
-    {
-      "title": "PR aprova quase 400 milhões USD em ajustes directos...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/pr-aprova-quase-400-milhoes-usd-em-ajustes-directos-para-obras-nas-areas-afectadas-pelas-cheias-em-benguela-e-que-preveem-construcao-de-725-habitacoes-sociais-71755.html",
-      "source": "Novo Jornal",
-      "_key": "ff5623b0162132f4",
-      "score": 7
-    },
-    {
-      "title": "João Lourenço e homólogo argelino analisam reforço da cooperação bilateral",
-      "url": "https://www.opais.ao/politica/joao-lourenco-e-homologo-argelino-analisam-reforco-da-cooperacao-bilateral/",
+      "title": "Coreia do Sul investe mais de 10 milhões de dólares nos últimos 13 anos no Cuanza-Norte",
+      "url": "https://www.opais.ao/economia/coreia-do-sul-investe-mais-de-10-milhoes-de-dolares-nos-ultimos-13-anos-no-cuanza-norte/",
       "source": "O País",
-      "_key": "60e6f26a54679142",
-      "score": 7
-    },
-    {
-      "title": "Angola e Argélia iniciam novo ciclo de relações com assinatura de 11 instrumentos jurídicos",
-      "url": "https://www.opais.ao/politica/angola-e-argelia-iniciam-novo-ciclo-de-relacoes-com-assinatura-de-11-instrumentos-juridicos/",
-      "source": "O País",
-      "_key": "f880c288ebe4ea9a",
-      "score": 7
-    },
-    {
-      "title": "PR aborda reforço da cooperação com homólogo argelino",
-      "url": "https://www.opais.ao/politica/pr-aborda-reforco-da-cooperacao-com-homologo-argelino/",
-      "source": "O País",
-      "_key": "d0a4e8a95c4ec93b",
-      "score": 7
-    },
-    {
-      "title": "Teerão apoia plano da China para segurança no golfo Pérsico",
-      "url": "https://www.opais.ao/mundo/teerao-apoia-plano-da-china-para-seguranca-no-golfo-persico/",
-      "source": "O País",
-      "_key": "2da3759c425960fe",
-      "score": 7
-    },
-    {
-      "title": "UN Global Compact local network boosts Angolan private sector",
-      "url": "https://www.angop.ao/en/noticias/economia/rede-local-do-pacto-global-da-onu-impulsiona-sector-privado-angolano/",
-      "source": "ANGOP",
-      "_key": "2eaea9d3dcf767dc",
-      "score": 6
-    },
-    {
-      "title": "UN Global Compact in Angola already has 65 participating companies",
-      "url": "https://www.angop.ao/en/noticias/economia/pacto-global-da-onu-em-angola-ja-conta-com-65-empresas-aderentes/",
-      "source": "ANGOP",
-      "_key": "f04f95289950c018",
-      "score": 6
-    },
-    {
-      "title": "Small and medium-sized enterprises represent 95% of the business in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/pequenas-e-medias-empresas-representam-95-por-cento-do-tecido-empresarial-em-angola/",
-      "source": "ANGOP",
-      "_key": "3e86136976f26c63",
-      "score": 6
-    },
-    {
-      "title": "Angola participates in the kimberly process intersessional meeting in India",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-participa-na-reuniao-intercalar-do-pk-na-india/",
-      "source": "ANGOP",
-      "_key": "db3bf5ea5cfcd406",
-      "score": 6
-    },
-    {
-      "title": "Agronegócio",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=254939",
-      "source": "ANGOP",
-      "_key": "c34e7606c2ff6a80",
-      "score": 6
-    },
-    {
-      "title": "Polícia desmente alegados casos de desaparecimento de órgãos genitais e apela à calma da população",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34309-policia-desmente-alegados-casos-de-desaparecimento-de-orgaos-genitais-e-apela-a-calma-da-populacao",
-      "source": "Angola 24 Horas",
-      "_key": "cc72c3659845638e",
-      "score": 6
-    },
-    {
-      "title": "12 detidos após morte de congolês acusado de “desaparecer” órgão genital",
-      "url": "https://angola24horas.com/sociedade/item/34311-12-detidos-apos-morte-de-congoles-acusado-de-desaparecer-orgao-genital",
-      "source": "Angola 24 Horas",
-      "_key": "ea3dc137cc6cc155",
-      "score": 6
-    },
-    {
-      "title": "SIC trava esquema nacional de falsas admissões no Ministério do Interior",
-      "url": "https://correiokianda.info/sic-trava-esquema-nacional-de-falsas-admissoes-no-ministerio-do-interior/",
-      "source": "Correio Kianda",
-      "_key": "e23c8d8a1d9acba7",
-      "score": 6
-    },
-    {
-      "title": "Japão pretende reforçar investimento no sector agrícola angolano",
-      "url": "https://correiokianda.info/japao-pretende-reforcar-investimento-no-sector-agricola-angolano/",
-      "source": "Correio Kianda",
-      "_key": "1b2d6e6677e5cc41",
-      "score": 6
-    },
-    {
-      "title": "Odebrecht Angola inicia construção da Barragem de N’Ompombo e sistema de abastecimento nos Gambos",
-      "url": "https://diariodosnegocios.com/odebrecht-angola-inicia-construcao-da-barragem-de-nompombo-e-sistema-de-abastecimento-nos-gambos/",
-      "source": "Diário dos Negócios",
-      "_key": "968dfd7c39774ff4",
-      "score": 6
-    },
-    {
-      "title": "Angola lança Rede Nacional do Pacto Global da ONU com adesão de 65 empresas comprometidas com sustentabilidade",
-      "url": "https://diariodosnegocios.com/angola-lanca-rede-nacional-do-pacto-global-da-onu-com-adesao-de-65-empresas-comprometidas-com-sustentabilidade/",
-      "source": "Diário dos Negócios",
-      "_key": "58272f4a36e655c0",
-      "score": 6
-    },
-    {
-      "title": " BNA autoriza implementação do Open Banking para impulsionar inovação e inclusão financeira ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_03608aa15743df",
-      "score": 6
-    },
-    {
-      "title": "Lucro consolidado da banca comercial cresce 12% para um bilião Kz em 2025",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a933a2a1115a09",
-      "score": 6
-    },
-    {
-      "title": "Programa de combate aos efeitos da seca no Sul de Angola vai custar mil milhões de dólares",
-      "url": "https://forbesafricalusofona.com/programa-de-combate-aos-efeitos-da-seca-no-sul-de-angola-vai-custar-mil-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "f02d8258fdf44c2d",
-      "score": 6
-    },
-    {
-      "title": "João Lourenço e Tebboune distinguidos com as mais altas condecorações de Angola e Argélia",
-      "url": "https://jornaloguardiao.com/2026/05/12/joao-lourenco-e-tebboune-distinguidos-com-as-mais-altas-condecoracoes-de-angola-e-argelia/",
-      "source": "Jornal O Guardião",
-      "_key": "62b58cf9fbc05ea9",
-      "score": 6
-    },
-    {
-      "title": " João Lourenço e Tebboune distinguidos com as mais altas condecorações de Angola e Argélia ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d4a7a8ebb616b7",
-      "score": 6
-    },
-    {
-      "title": "Política Deputados reforçam a proposta contra práticas financeiras ilícitas ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/675975/deputados-refor%C3%A7am-a-proposta-contra-pr%C3%A1ticas-financeiras-il%C3%ADcitas",
-      "source": "Jornal de Angola",
-      "_key": "0ea10e701d0aa5a5",
-      "score": 6
-    },
-    {
-      "title": "Economia Fundo Soberano e Taib empossam novo gestor ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675973/fundo-soberano-e-taib-empossam-novo-gestor",
-      "source": "Jornal de Angola",
-      "_key": "a16f01ba91d55e0c",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 1 hora Pequenas e médias empresas: Cerca de 202 mil unidades detêm 95 por cento da quota ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675985/pequenas-e-m%C3%A9dias-empresas:-cerca-de-202-mil-unidades-det%C3%AAm-95-por-cento-da-quota",
-      "source": "Jornal de Angola",
-      "_key": "62010e7831f8fda1",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 2 horas Criadas 9.754 escolas agrárias no país ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/675974/criadas-9.754-escolas-agr%C3%A1rias-no-pa%C3%ADs-",
-      "source": "Jornal de Angola",
-      "_key": "1ad91db699ecb385",
-      "score": 6
-    },
-    {
-      "title": "Polícia Nacional na Huíla admite envolvimento de efectivos de órgãos de defesa e segurança em garimpo de ouro",
-      "url": "https://www.opais.ao/sociedade/policia-nacional-na-huila-admite-envolvimento-de-efectivos-de-orgaos-de-defesa-e-seguranca-em-garimpo-de-ouro/",
-      "source": "O País",
-      "_key": "aac1a582e04a1f5f",
-      "score": 6
-    },
-    {
-      "title": "Cabinda entrega contentor de 40 pés com bens de primeira necessidade ao governo de Benguela",
-      "url": "https://www.opais.ao/ultimas_hora/cabinda-entrega-contentor-de-40-pes-com-bens-de-primeira-necessidade-ao-governo-de-benguela/",
-      "source": "O País",
-      "_key": "994b4ffd31ec1dc3",
-      "score": 6
-    },
-    {
-      "title": "Odebrecht vai construir barragem e sistema de água no plano de combate à seca",
-      "url": "https://www.opais.ao/sociedade/odebrecht-vai-construir-barragem-e-sistema-de-agua-no-plano-de-combate-a-seca/",
-      "source": "O País",
-      "_key": "367f3217ba8e16cf",
-      "score": 6
-    },
-    {
-      "title": "Polícia Nacional investiga comandante municipal na Matala por suspeita de mineração ilegal de ouro",
-      "url": "https://www.opais.ao/ultimas_hora/policia-nacional-investiga-comandante-municipal-na-matala-por-suspeita-de-mineracao-ilegal-de-ouro/",
-      "source": "O País",
-      "_key": "2c8580653f744e9a",
-      "score": 6
-    },
-    {
-      "title": "Subsecretária-geral do Pacto Global da ONU destaca vantagens para Angola com o lançamento da rede",
-      "url": "https://www.opais.ao/politica/subsecretaria-geral-do-pacto-global-da-onu-destaca-vantagens-para-angola-com-o-lancamento-da-rede/",
-      "source": "O País",
-      "_key": "0a1d79c2faf55f50",
-      "score": 6
-    },
-    {
-      "title": "PGR recebe delegação técnica portuguesa para reforço da cooperação judiciária",
-      "url": "https://www.opais.ao/politica/pgr-recebe-delegacao-tecnica-portuguesa-para-reforco-da-cooperacao-judiciaria/",
-      "source": "O País",
-      "_key": "1227c0db4ce92a31",
-      "score": 6
-    },
-    {
-      "title": "Algeria announces direct air connection with Angola from July",
-      "url": "https://www.angop.ao/en/noticias/politica/argelia-anuncia-ligacao-aerea-directa-com-angola-a-partir-de-julho/",
-      "source": "ANGOP",
-      "_key": "ca359352af1d73a3",
-      "score": 5
-    },
-    {
-      "title": "Angola and Algeria strengthen partnership with signing of 11 agreements",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-argelia-reforcam-parceria-com-assinatura-de-11-acordos/",
-      "source": "ANGOP",
-      "_key": "27fbe0aa1dd4e465",
-      "score": 5
-    },
-    {
-      "title": "Angolan Head of State and Algerian counterpart discuss bilateral cooperation strengthening",
-      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-e-homologo-argelino-abordam-reforco-da-cooperacao-bilateral/",
-      "source": "ANGOP",
-      "_key": "9c4c04b7bb543c69",
-      "score": 5
-    },
-    {
-      "title": "Angola and Algeria sign 11 cooperation agreements",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-argelia-assinam-11-acordos-de-cooperacao/",
-      "source": "ANGOP",
-      "_key": "29e19079da2964d7",
-      "score": 5
-    },
-    {
-      "title": "Cooperação Angola–Argélia está “aquém do desejável”, admite João Lourenço",
-      "url": "https://correiokianda.info/cooperacao-angola-argelia-esta-aquem-do-desejavel-admite-joao-lourenco/",
-      "source": "Correio Kianda",
-      "_key": "34b75ef81989ac2a",
-      "score": 5
-    },
-    {
-      "title": "Benguela regista 41 novos casos e duas mortes por cólera nas últimas 24 horas",
-      "url": "https://correiokianda.info/benguela-regista-41-novos-casos-e-duas-mortes-por-colera-nas-ultimas-24-horas/",
-      "source": "Correio Kianda",
-      "_key": "b583dea7128dfa39",
-      "score": 5
-    },
-    {
-      "title": "Circulação do CFB condicionada devido destruição das pontes causada pelas chuvas",
-      "url": "https://correiokianda.info/circulacao-do-cfb-condicionada-devido-destruicao-das-pontes-causada-pelas-chuvas/",
-      "source": "Correio Kianda",
-      "_key": "ab45bf3933f4d63b",
-      "score": 5
-    },
-    {
-      "title": "Autorizados mais de USD 35 milhões para reabilitação e modernização de 14 escolas no Cuanza-Norte",
-      "url": "https://correiokianda.info/autorizados-mais-de-usd-378-milhoes-para-reabilitacao-e-modernizacao-de-14-escolas-no-cuanza-norte/",
-      "source": "Correio Kianda",
-      "_key": "6864e279d1285179",
-      "score": 5
-    },
-    {
-      "title": "João Lourenço inicia visita de Estado à Argélia com homenagem aos mártires da independência e reforça laços bilaterais",
-      "url": "https://diariodosnegocios.com/joao-lourenco-inicia-visita-de-estado-a-argelia-com-homenagem-aos-martires-da-independencia-e-reforca-lacos-bilaterais/",
-      "source": "Diário dos Negócios",
-      "_key": "1d7fd406d97b457e",
-      "score": 5
-    },
-    {
-      "title": "PR chega à Argélia e assina 11 acordos com Tebboune no primeiro dia de visita de Estado",
-      "url": "https://diariodosnegocios.com/pr-chega-a-argelia-e-assina-11-acordos-com-tebboune-no-primeiro-dia-de-visita-de-estado/",
-      "source": "Diário dos Negócios",
-      "_key": "c3bdc0b178a9adbb",
-      "score": 5
-    },
-    {
-      "title": " João Lourenço inicia visita de Estado à Argélia com homenagem aos mártires da independência e reforça laços bilaterais ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_6cb712f03ffe2e",
-      "score": 5
-    },
-    {
-      "title": " Angola lança Rede Nacional do Pacto Global da ONU com adesão de 65 empresas comprometidas com sustentabilidade ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7334d9e7795263",
-      "score": 5
-    },
-    {
-      "title": "Trabalhadores ficam só com 19,4% da riqueza criada em Angola",
-      "url": "https://expansao.co.ao/angola/detalhe/trabalhadores-ficam-so-com-194-da-riqueza-criada-em-angola-71751.html",
-      "source": "Expansão",
-      "_key": "b621a2e1e404dadd",
-      "score": 5
-    },
-    {
-      "title": "Transporte aéreo movimenta cerca de 1,9 milhões de passageiros em 2025",
-      "url": "https://forbesafricalusofona.com/transporte-aereo-movimenta-cerca-de-19-milhoes-de-passageiros-em-2025/",
-      "source": "Forbes África",
-      "_key": "77a26ec40bbd799e",
-      "score": 5
-    },
-    {
-      "title": "MINSA reforça combate à “tala tradicional” e defende tratamento hospitalar especializado",
-      "url": "https://jornaloguardiao.com/2026/05/12/minsa-reforca-combate-a-tala-tradicional-e-defende-tratamento-hospitalar-especializado/",
-      "source": "Jornal O Guardião",
-      "_key": "1462c6778a7dc912",
-      "score": 5
-    },
-    {
-      "title": " MINSA reforça combate à “tala tradicional” e defende tratamento hospitalar especializado ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_1f30cce09a25e0",
-      "score": 5
-    },
-    {
-      "title": "Destaque Angola inicia formação especializada em enfermagem com docentes internacionais Luanda acolheu, esta segunda-feira, 11, o início do encontro de avaliação e enquadramento do programa de imersão técnica e pedagógica dos docentes internacionais integrados no reforço dos Cursos de Especialização em Enfermagem em Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/675963/angola-inicia-forma%C3%A7%C3%A3o-especializada-em-enfermagem-com-docentes-internacionais-",
-      "source": "Jornal de Angola",
-      "_key": "48db30ea3390f622",
-      "score": 5
-    },
-    {
-      "title": "Angola projecta \"nova era agrícola\" na Cimeira Africa...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-projecta-nova-era-agricola-na-cimeira-africa-forward-71757.html",
-      "source": "Novo Jornal",
-      "_key": "6e8082178a731e6a",
-      "score": 5
-    },
-    {
-      "title": "Angola marca presença na tomada de posse do Presidente reeleito do Uganda",
-      "url": "https://www.opais.ao/politica/angola-marca-presenca-na-tomada-de-posse-do-presidente-reeleito-do-uganda/",
-      "source": "O País",
-      "_key": "cbc930a29a2d30d0",
-      "score": 5
-    },
-    {
-      "title": "Cognia realiza visita à Embaixada dos EUA e à American School of Angola",
-      "url": "https://www.opais.ao/sociedade/cognia-realiza-visita-a-embaixada-dos-eua-e-a-american-school-of-angola/",
-      "source": "O País",
-      "_key": "9be90cfdbb9bb4e6",
-      "score": 5
-    },
-    {
-      "title": "Ministra da Educação efectua visita de trabalho à Lunda-Sul",
-      "url": "https://www.opais.ao/ultimas_hora/ministra-da-educacao-efectua-visita-de-trabalho-a-lunda-sul/",
-      "source": "O País",
-      "_key": "824a46c9b83bf8c8",
-      "score": 5
-    },
-    {
-      "title": "Cuanza-Sul dá “abraço solidário” a Benguela e Governo descarta ineficácia na distribuição de alimentos",
-      "url": "https://www.opais.ao/sociedade/cuanza-sul-da-abraco-solidario-a-benguela-e-governo-descarta-ineficacia-na-distribuicao-de-alimentos/",
-      "source": "O País",
-      "_key": "4e8a3c10b21e19f7",
+      "_key": "c73df889687c6c51",
       "score": 5
     }
   ]
