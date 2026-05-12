@@ -1,152 +1,344 @@
 {
   "date": "2026-05-12",
-  "total_extracted": 1103,
-  "total_new": 24,
-  "total_existing": 1079,
+  "total_extracted": 1108,
+  "total_new": 56,
+  "total_existing": 1052,
   "articles": [
     {
-      "title": "Militantes do MPLA realizam acto político de massas em apoio à recandidatura de João Lourenço",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34312-militantes-do-mpla-realizam-acto-politico-de-massas-em-apoio-a-recandidatura-de-joao-lourenco",
+      "title": "Head of State highlights Angola-Algeria strategic Cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-realca-cooperacao-estrategica-entre-angola-e-argelia/",
+      "source": "ANGOP",
+      "_key": "42532b7915853884"
+    },
+    {
+      "title": "School Feeding Program with constraints in Lunda-Sul province",
+      "url": "https://www.angop.ao/en/noticias/educacao/pnae-regista-constrangimentos-na-lunda-sul/",
+      "source": "ANGOP",
+      "_key": "42bb2ed14dd93975"
+    },
+    {
+      "title": "Angolan Head of State praises Algeria's historic support for Angola's independence",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-exalta-apoio-historico-da-argelia-a-independencia-de-angola/",
+      "source": "ANGOP",
+      "_key": "a57ce331fba07daf"
+    },
+    {
+      "title": "President João Lourenço distinguished with Algeria's high decoration",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-distinguido-com-alta-condecoracao-da-argelia/",
+      "source": "ANGOP",
+      "_key": "b5ca74e4a92cd29d"
+    },
+    {
+      "title": "Benguela governor calls for speed in supporting businesses affected by the floods",
+      "url": "https://www.angop.ao/en/noticias/economia/benguela-quer-agilidade-no-apoio-aos-empresarios-afectados-pelas-cheias/",
+      "source": "ANGOP",
+      "_key": "c0daaf403825616c"
+    },
+    {
+      "title": "Higher education digital transformation project presented in Luanda",
+      "url": "https://www.angop.ao/en/noticias/educacao/apresentado-projecto-para-transformacao-digital-no-ensino-superior/",
+      "source": "ANGOP",
+      "_key": "041b4ab05a117fbe"
+    },
+    {
+      "title": "Norway with eye on Malanje's fruit and cereal production",
+      "url": "https://www.angop.ao/en/noticias/economia/noruega-pretende-investir-na-producao-de-frutas-e-cereais-em-malanje/",
+      "source": "ANGOP",
+      "_key": "8f602cfe1de00b83"
+    },
+    {
+      "title": "MPs assess situation of Angolan communities in Zambia",
+      "url": "https://www.angop.ao/en/noticias/politica/deputados-avaliam-situacao-das-comunidades-angolanas-na-zambia/",
+      "source": "ANGOP",
+      "_key": "e92c01483201f8a0"
+    },
+    {
+      "title": "Auscultação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=46533",
+      "source": "ANGOP",
+      "_key": "f3da570efde684ff"
+    },
+    {
+      "title": "Japan supports climate resilience and food security in Huíla province",
+      "url": "https://www.angop.ao/en/noticias/politica/japao-apoia-resiliencia-climatica-e-seguranca-alimentar-na-huila/",
+      "source": "ANGOP",
+      "_key": "f9d0ab4267645650"
+    },
+    {
+      "title": "Huambo province with 100,000 Eggs/Day average",
+      "url": "https://www.angop.ao/en/noticias/economia/huambo-produz-100-mil-ovos-dia/",
+      "source": "ANGOP",
+      "_key": "f9d9d4ddf4b957f2"
+    },
+    {
+      "title": "Avicultura",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=30350",
+      "source": "ANGOP",
+      "_key": "e785c5d196d876a0"
+    },
+    {
+      "title": "Over 7,000 professionals trained in ethics and humanization",
+      "url": "https://www.angop.ao/en/noticias/saude/mais-de-sete-mil-profissionais-capacitados-em-etica-e-humanizacao/",
+      "source": "ANGOP",
+      "_key": "5446a25b84abd38d"
+    },
+    {
+      "title": "Kwenda Social Program to benefit over 7,000 families in Moxico-Leste",
+      "url": "https://www.angop.ao/en/noticias/sociedade/kwenda-vai-beneficiar-mais-de-sete-mil-familias-no-luacano-e-lago-dilolo/",
+      "source": "ANGOP",
+      "_key": "626309edda23af6b"
+    },
+    {
+      "title": "Angola has more than 50,000 nurses",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-conta-com-mais-de-50-mil-enfermeiros/",
+      "source": "ANGOP",
+      "_key": "1b51697b00d50c5e"
+    },
+    {
+      "title": "Bengo province records 18 cases of cholera",
+      "url": "https://www.angop.ao/en/noticias/saude/bengo-regista-18-casos-de-colera/",
+      "source": "ANGOP",
+      "_key": "ef39af8266eccf36"
+    },
+    {
+      "title": "2026 Children's Festival to gather around 500 children from across the country",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/festival-infantil-2026-vai-reunir-cerca-de-500-criancas-de-todo-pais/",
+      "source": "ANGOP",
+      "_key": "6060951052d8c8e6"
+    },
+    {
+      "title": "Festival",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=33827",
+      "source": "ANGOP",
+      "_key": "cfadeef46292583b"
+    },
+    {
+      "title": "Diplomat Highlights Portuguese Language as a Factor of Cohesion and Integration",
+      "url": "https://www.angop.ao/en/noticias/sociedade/lingua-portuguesa-destacada-como-factor-de-coesao-e-integracao/",
+      "source": "ANGOP",
+      "_key": "0c84788b2af45adb"
+    },
+    {
+      "title": "Criminal Investigation officers detained for criminal association",
+      "url": "https://www.angop.ao/en/noticias/sociedade/efectivos-do-sic-detidos-por-suspeita-de-associacao-criminosa/",
+      "source": "ANGOP",
+      "_key": "442484a35f0e0cb9"
+    },
+    {
+      "title": "PGR convoca Higino Carneiro em clima de crescente tensão política no MPLA",
+      "url": "https://angola24horas.com/component/k2/item/34314-pgr-convoca-higino-carneiro-em-clima-de-crescente-tensao-politica-no-mpla",
       "source": "Angola 24 Horas",
-      "_key": "fe57ffcc3c61d007"
+      "_key": "728ba38d4a08473c"
     },
     {
-      "title": "Patrice Beumelle demitido do comando técnico do Espérance de Tunis",
-      "url": "https://correiokianda.info/patrice-beumelle-demitido-do-comando-tecnico-do-esperance-de-tunis/",
+      "title": "PN detém envolvidos na morte de um congolês sob pretexto deste fazer “desaparecer” órgão genital",
+      "url": "https://correiokianda.info/pn-detem-envolvidos-na-morte-de-um-congoles-sob-pretexto-deste-fazer-desaparecer-orgao-genital/",
       "source": "Correio Kianda",
-      "_key": "1820ad889f05445c"
+      "_key": "a314051165786f4c"
     },
     {
-      "title": "        África18 minutos atrás  Presidente angolano critica desrespeito pelo direito internacional em conflitos globais O Presidente da República de Angola, João Lourenço, criticou esta terça-feira, em Argel, o que considerou ser o crescente desrespeito pelo direito internacional e pelos princípios...   ",
-      "url": "https://correiokianda.info/presidente-angolano-critica-desrespeito-pelo-direito-internacional-em-conflitos-globais/",
+      "title": "Caso Higino Carneiro volta ao centro após convocatória da Procuradoria-Geral",
+      "url": "https://correiokianda.info/caso-higino-carneiro-volta-ao-centro-apos-convocatoria-da-procuradoria-geral/",
       "source": "Correio Kianda",
-      "_key": "15209f89a848a8a0"
+      "_key": "7cea7cbdc805e944"
     },
     {
-      "title": "Secretário-geral da ONU denuncia que países estão a ser obrigados para importar energia",
-      "url": "https://forbesafricalusofona.com/secretario-geral-da-onu-denuncia-que-paises-estao-a-ser-obrigados-para-importar-energia/",
+      "title": "Analistas defendem coragem política para responsabilização de figuras envolvidas no contrabando",
+      "url": "https://correiokianda.info/analistas-defendem-responsabilizacao-de-politicos-envolvidos-no-contrabando-devido-crise-de-combustivel/",
+      "source": "Correio Kianda",
+      "_key": "c38046901f0054a5"
+    },
+    {
+      "title": "Mondlane convoca minuto de silêncio após denúncias de assassinatos de membros do seu partido",
+      "url": "https://correiokianda.info/mondlane-convoca-um-minuto-de-silencio-apos-denuncias-de-assassinatos-de-membros-do-seu-partido/",
+      "source": "Correio Kianda",
+      "_key": "41bff402abbf3718"
+    },
+    {
+      "title": "        África3 horas atrás  Duma Gideon Boko defende juventude africana como solução para os problemas do continente O Presidente do Botswana, Duma Gideon Boko, apelou à juventude africana para assumir um papel mais activo na resolução dos problemas que afectam o continente, defendendo...   ",
+      "url": "https://correiokianda.info/duma-gideon-boko-defende-juventude-africana-como-solucao-para-os-problemas-do-continente/",
+      "source": "Correio Kianda",
+      "_key": "f9df2e549e44390d"
+    },
+    {
+      "title": "João Lourenço defende no Parlamento argelino reforma do Conselho de Segurança da ONU e gestão soberana de recursos africanos",
+      "url": "https://diariodosnegocios.com/joao-lourenco-defende-no-parlamento-argelino-reforma-do-conselho-de-seguranca-da-onu-e-gestao-soberana-de-recursos-africanos/",
+      "source": "Diário dos Negócios",
+      "_key": "2075710412f22485"
+    },
+    {
+      "title": "João Lourenço honra tradição argelina com burnous em visita ao Parlamento de Argel",
+      "url": "https://diariodosnegocios.com/joao-lourenco-honra-tradicao-argelina-com-burnous-em-visita-ao-parlamento-de-argel/",
+      "source": "Diário dos Negócios",
+      "_key": "95517b8f3e3bcaa0"
+    },
+    {
+      "title": " João Lourenço defende no Parlamento argelino reforma do Conselho de Segurança da ONU e gestão soberana de recursos africanos ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7f0d61755914a1"
+    },
+    {
+      "title": " João Lourenço honra tradição argelina com burnous em visita ao Parlamento de Argel ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_e314c2a4d84be3"
+    },
+    {
+      "title": "Moçambicano Hamir da Silva vence concurso de fotografia em Macau",
+      "url": "https://forbesafricalusofona.com/mocambicano-hamir-da-silva-vence-concurso-de-fotografia-em-macau/",
       "source": "Forbes África",
-      "_key": "1176599c8429eade"
+      "_key": "f24df3defbeac7b6"
     },
     {
-      "title": "Dionísio da Fonseca participa na tomada de posse de Yoweri Museveni em KampalaO ministro de Estado e chefe da Casa Civil do Presidente da República, Dionísio da Fonseca, representa o Chefe de Estado, João Lourenço, esta terça-feira, em Kampala, na cerimónia de tomada de posse do Presidente eleito do Uganda, Yoweri Museveni.",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676021/dion%C3%ADsio-da-fonseca-participa-na-tomada-de-posse-de-yoweri-museveni-em-kampala",
+      "title": "Cineastas angolanos anunciam participação no Festival de Cannes 2026",
+      "url": "https://forbesafricalusofona.com/cineastas-angolanos-anunciam-participacao-no-festival-de-cannes-2026/",
+      "source": "Forbes África",
+      "_key": "e0b74485d9f988ee"
+    },
+    {
+      "title": "Secretário-geral da ONU denuncia que países estão a ser obrigados a importar energia",
+      "url": "https://forbesafricalusofona.com/secretario-geral-da-onu-denuncia-que-paises-estao-a-ser-obrigados-a-importar-energia/",
+      "source": "Forbes África",
+      "_key": "08eca112261bab71"
+    },
+    {
+      "title": "Angola estreia-se no maior torneio mundial de futebol para advogados na Espanha",
+      "url": "https://holdonangola.com/angola-estreia-se-no-maior-torneio-mundial-de-futebol-para-advogados-na-espanha/",
+      "source": "Hold On Angola",
+      "_key": "459aca1cd5f504df"
+    },
+    {
+      "title": "Trump rejeita proposta iraniana e aumenta incertezas sobre acordo no Médio Oriente",
+      "url": "https://jornaloguardiao.com/2026/05/12/trump-rejeita-proposta-iraniana-e-aumenta-incertezas-sobre-acordo-no-medio-oriente/",
+      "source": "Jornal O Guardião",
+      "_key": "82177e54f7b523d3"
+    },
+    {
+      "title": "Hansi Flick confirma renovação com o Barcelona até 2028",
+      "url": "https://jornaloguardiao.com/2026/05/12/hansi-flick-confirma-renovacao-com-o-barcelona-ate-2028/",
+      "source": "Jornal O Guardião",
+      "_key": "c5a20f24d16a1ef4"
+    },
+    {
+      "title": "LeBron James mantém indefinição sobre futuro na NBA após eliminação dos Lakers",
+      "url": "https://jornaloguardiao.com/2026/05/12/lebron-james-mantem-indefinicao-sobre-futuro-na-nba-apos-eliminacao-dos-lakers/",
+      "source": "Jornal O Guardião",
+      "_key": "549d7ac12fcca1b4"
+    },
+    {
+      "title": "Desaprovação de Donald Trump sobe para 59,8% nos EUA, aponta pesquisa Atlas/Intel",
+      "url": "https://jornaloguardiao.com/2026/05/12/desaprovacao-de-donald-trump-sobe-para-598-nos-eua-aponta-pesquisa-atlas-intel/",
+      "source": "Jornal O Guardião",
+      "_key": "b6b43fa16db1b94b"
+    },
+    {
+      "title": " Trump rejeita proposta iraniana e aumenta incertezas sobre acordo no Médio Oriente ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c2e187d2a02e07"
+    },
+    {
+      "title": " Hansi Flick confirma renovação com o Barcelona até 2028 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_0eac0ef657e53f"
+    },
+    {
+      "title": " LeBron James mantém indefinição sobre futuro na NBA após eliminação dos Lakers ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e791e601dae653"
+    },
+    {
+      "title": " Desaprovação de Donald Trump sobe para 59,8% nos EUA, aponta pesquisa Atlas/Intel ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_3d73687c4f1e4b"
+    },
+    {
+      "title": "Destaque Angola integra organização africana de concertação económica e socialAngola formalizou, na segunda-feira, no Palácio de Conferências Sipopo, em Malabo, Guiné Equatorial, a sua admissão como Membro de Pleno Direito da União dos Conselhos Económicos e Sociais de África, (UCESA).",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676030/angola-integra-organiza%C3%A7%C3%A3o-africana-de-concerta%C3%A7%C3%A3o-econ%C3%B3mica-e-social",
       "source": "Jornal de Angola",
-      "_key": "f3fb32949b85b0ef"
+      "_key": "ed5cc6c9b604a16b"
     },
     {
-      "title": "Destaque Presidente João Lourenço discursa no Parlamento argelinoO Presidente da República, João Lourenço, discursou, hoje, no Parlamento argelino, na cidade de Argel, Argélia, no quadro da sua visita de Estado de três dias. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676019/presidente-jo%C3%A3o-louren%C3%A7o-discursa-no-parlamento-argelino",
+      "title": "Mundo Inflação nos Estados Unidos acelera em Abril para 3,8% ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676033/infla%C3%A7%C3%A3o-nos-estados-unidos-acelera-em-abril-para-38%25",
       "source": "Jornal de Angola",
-      "_key": "f112f90e3b213838"
+      "_key": "cafe9ccb5ccdbc97"
     },
     {
-      "title": "Destaque Chefe de Estado recebe Primeiro-Ministro da Argélia em audiênciaO Presidente da República, João Lourenço, recebeu, na cidade de Argel, esta terça-feira, em audiência, o Primeiro-Ministro da Argélia, Sifi Ghrieb, no âmbito do reforço das relações bilaterais entre os dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676028/chefe-de-estado-recebe-primeiro-ministro-da-arg%C3%A9lia-em-audi%C3%AAncia",
+      "title": "Mundo Donald Trump anuncia conversações com Cuba ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676032/donald-trump-anuncia-conversa%C3%A7%C3%B5es-com-cuba",
       "source": "Jornal de Angola",
-      "_key": "5650d9a4c8a07d19"
+      "_key": "c4a5cc6aeaebb16c"
     },
     {
-      "title": "Destaque Testes do poço Espadarte confirmam produção superior a dois mil barris por diaOs testes iniciais e de avaliação do poço Espadarte 7ST2, localizado no Bloco 2/05 da Bacia do Baixo Congo, na província do Zaire, apresentaram resultados encorajadores, com uma produção estabilizada entre 2.000 e 2.500 barris de petróleo por dia, sem qualquer presença de água. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676027/testes-do-po%C3%A7o-espadarte-confirmam-produ%C3%A7%C3%A3o-superior-a-dois-mil-barris-por-dia",
+      "title": "Política Burnous: O Manto tradicional que João Lourenço usou no Parlamento argelino ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676031/burnous:-o-manto-tradicional-que-jo%C3%A3o-louren%C3%A7o-usou-no-parlamento-argelino",
       "source": "Jornal de Angola",
-      "_key": "64fc98f3cdb1c4f6"
+      "_key": "0a8763145dd113b4"
     },
     {
-      "title": "Mundo Presidente do Tribunal Constitucional de Portugal renuncia cargo ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676029/presidente-do-tribunal-constitucional-de-portugal-renuncia-cargo",
-      "source": "Jornal de Angola",
-      "_key": "0ed9ef5038ff8eac"
-    },
-    {
-      "title": "Regiões Benguela lança campanha de fiscalização, sensibilização e cortes de energia ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676026/benguela-lan%C3%A7a-campanha-de-fiscaliza%C3%A7%C3%A3o-sensibiliza%C3%A7%C3%A3o-e-cortes-de-energia-",
-      "source": "Jornal de Angola",
-      "_key": "194425fa4c216335"
-    },
-    {
-      "title": "Mundo António Guterres alerta para impacto da guerra do Irão em África ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676023/ant%C3%B3nio-guterres-alerta-para-impacto-da-guerra-do-ir%C3%A3o-em-%C3%A1frica-",
-      "source": "Jornal de Angola",
-      "_key": "7a77003f971c999d"
-    },
-    {
-      "title": "Regiões Conselho Provincial da Educação na Lunda-Sul debate insuficiência de professores ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676022/conselho-provincial-da-educa%C3%A7%C3%A3o-na-lunda-sul-debate-insufici%C3%AAncia-de-professores",
-      "source": "Jornal de Angola",
-      "_key": "270bcf6acbd103d1"
-    },
-    {
-      "title": " Desmantelada suposta associação de bombeiros nos Mulenvos ",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/676018/desmantelada-suposta-associa%C3%A7%C3%A3o-de-bombeiros-nos-mulenvos",
-      "source": "Jornal de Angola",
-      "_key": "cd885f1426d480d0"
-    },
-    {
-      "title": "Política MIREMPET prepara conferência em Londres ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676025/mirempet-prepara-confer%C3%AAncia-em-londres",
-      "source": "Jornal de Angola",
-      "_key": "5e5df42c25acf8de"
-    },
-    {
-      "title": "12:22 / 12 mai. 2026 João Lourenço reconhece contributo da Argélia para construção da Sonangol ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676024/jo%C3%A3o-louren%C3%A7o-reconhece-contributo-da-arg%C3%A9lia-para-constru%C3%A7%C3%A3o-da-sonangol",
-      "source": "Jornal de Angola",
-      "_key": "9ce829babaff9e43"
-    },
-    {
-      "title": "Mundo12/05/2026Ataque das ADF mata 21 pessoas em Ituri",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676020/ataque-das-adf-mata-21-pessoas-em-ituri",
-      "source": "Jornal de Angola",
-      "_key": "5be068b83bf096dd"
-    },
-    {
-      "title": "Líder da UNITA quer Angola a seguir exemplo de Cabo...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/lider-da-unita-quer-angola-a-seguir-exemplo-de-cabo-verde-verdadeira-democracia-que-nao-tem-medo-da-comparacao-nao-foge-das-perguntas-e-nao-silencia-o-contraditorio-71746.html",
+      "title": "Higino Carneiro solicitado a comparecer no Ministério...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/higino-carneiro-solicitado-a-comparecer-no-ministerio-publico-nesta-quarta-feira-71764.html",
       "source": "Novo Jornal",
-      "_key": "37dd654d07f97d7c"
+      "_key": "3208b37ceb00f8cb"
     },
     {
-      "title": "Condutores cadastrados para novos exames estão a fugir...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/condutores-cadastrados-para-novos-exames-estao-a-fugir-aos-testes---policia-multou-no-fim-de-semana-1256-automobilistas-na-sua-maioria-por-falta-do-cinto-de-seguranca-71762.html",
+      "title": "\"Quando os africanos viajam dentro de África, fortalecemos...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/quando-os-africanos-viajam-dentro-de-africa-fortalecemos-as-nossas-economias-o-apelo-do-presidente-da-africa-do-sul-ao-turismo-no-continente-71763.html",
       "source": "Novo Jornal",
-      "_key": "ef880c665637293f"
+      "_key": "2482f6b5db0ec607"
     },
     {
-      "title": "SIC desmantela grupo que fazia assaltos à mão armada...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-desmantela-grupo-que-fazia-assaltos-a-mao-armada-em-varios-municipios-de-luanda-mas-um-dos-elementos-ainda-esta-a-monte-71759.html",
-      "source": "Novo Jornal",
-      "_key": "4bd36ac8efbeab2c"
-    },
-    {
-      "title": "Petróleo: Barril de Brent volta a \"acampar\" no território...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-volta-a-acampar-no-territorio-dos-110-usd-71758.html",
-      "source": "Novo Jornal",
-      "_key": "def3883039cd9a5f"
-    },
-    {
-      "title": "NJ ÀS TERÇAS: CORRIDA À LIDERANÇA DO MPLA. \"Estou a ponderar a candidatura\", diz em exclusivo ao NJ Irene Neto.",
-      "url": "https://marginal.co.ao/programas/nj-as-tercas?ep=71760",
-      "source": "Novo Jornal",
-      "_key": "40907ac3efb7cf36"
-    },
-    {
-      "title": "Presidente da República cumpre hoje segundo dia da visita de Estado à Argélia",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-cumpre-hoje-segundo-dia-da-visita-de-estado-a-argelia/",
+      "title": "‎Ministério do Interior avalia capacidade de prontidão dos órgãos no Cubango",
+      "url": "https://www.opais.ao/ultimas_hora/ministerio-do-interior-avalia-capacidade-de-prontidao-dos-orgaos-no-cubango/",
       "source": "O País",
-      "_key": "e89c9d3ff08a7f58"
+      "_key": "8614f2764a34033b"
     },
     {
-      "title": "SIC desmantela associação criminosa que burlou mais de 5 mil pessoas com promessas de emprego",
-      "url": "https://www.opais.ao/ultimas_hora/sic-desmantela-associacao-criminosa-que-burlou-mais-de-5-mil-pessoas-com-promessas-de-emprego/",
+      "title": "INSS distingue amanhã entidades empregadoras exemplares com atribuição de Certificado Verde",
+      "url": "https://www.opais.ao/ultimas_hora/inss-distingue-amanha-entidades-empregadoras-exemplares-com-atribuicao-de-certificado-verde/",
       "source": "O País",
-      "_key": "3510be919a6abb44"
+      "_key": "c4f1055b26d01f0e"
     },
     {
-      "title": "Coreia do Sul investe mais de 10 milhões de dólares nos últimos 13 anos no Cuanza-Norte",
-      "url": "https://www.opais.ao/economia/coreia-do-sul-investe-mais-de-10-milhoes-de-dolares-nos-ultimos-13-anos-no-cuanza-norte/",
+      "title": "Presidente da República surge no Parlamento argelino trajado com o “burnous”",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-surge-no-parlamento-argelino-trajado-com-o-burnous/",
       "source": "O País",
-      "_key": "c73df889687c6c51"
+      "_key": "de7cc3fc776bc0a1"
+    },
+    {
+      "title": "Obra sobre indústria mineira de Angola será lançada em Luanda a 29 de Maio",
+      "url": "https://www.opais.ao/economia/obra-sobre-industria-mineira-de-angola-sera-lancada-em-luanda-a-29-de-maio/",
+      "source": "O País",
+      "_key": "0d0263c8682e6702"
+    },
+    {
+      "title": "Grupo Carrinho e BCI entregam mais de cem latrinas às famílias afectadas pelas cheias em Benguela",
+      "url": "https://www.opais.ao/ultimas_hora/grupo-carrinho-e-bci-entregam-mais-de-cem-latrinas-as-familias-afectadas-pelas-cheias-em-benguela/",
+      "source": "O País",
+      "_key": "4186b044e2c08b4c"
+    },
+    {
+      "title": "Polícia Nacional reitera a inexistência de grupos que extraem órgãos genitais em Luanda",
+      "url": "https://www.opais.ao/ultimas_hora/policia-nacional-reitera-a-inexistencia-de-grupos-que-extraem-orgaos-genitais-em-luanda/",
+      "source": "O País",
+      "_key": "a494eeccd79a017a"
+    },
+    {
+      "title": "Presidente da República destaca apoio histórico da Argélia na luta pela Independência Nacional",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-destaca-apoio-historico-da-argelia-na-luta-pela-independencia-nacional/",
+      "source": "O País",
+      "_key": "8396315f56aa4c57"
+    },
+    {
+      "title": "Presidente João Lourenço reúne-se com Primeiro-Ministro argelino",
+      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-reune-se-com-primeiro-ministro-argelino/",
+      "source": "O País",
+      "_key": "f2975e2842ac6f17"
     }
   ]
 }
