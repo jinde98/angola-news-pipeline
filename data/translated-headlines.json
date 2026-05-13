@@ -1,536 +1,120 @@
 {
   "date": "2026-05-13",
-  "total_new": 154,
-  "total_filtered": 66,
+  "total_new": 46,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo recua após ter avançado cerca de 8% nas últimas três sessões",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apos-ter-avancado-cerca-de-8-nas-ultimas-tres-sessoes-71777.html",
-      "source": "Expansão",
-      "_key": "ce3350ac73632e0f",
+      "title": "Sonangol admits risk of losing more than 390 billion kwanzas13/05/2026",
+      "url": "https://www.negociosdeangola.com/en/sonangol-admits-risk-of-losing-more-than-390-billion-kwanzas/",
+      "source": "Negócios de Angola",
+      "_key": "9e2e1dfa298c46a2",
       "score": 9,
-      "title_cn": "油价在三连涨近8%后回落。"
+      "title_cn": "索南戈尔承认面临损失超3900亿宽扎的风险"
     },
     {
-      "title": "Em Nairobi, empresário angolano destaca Corredor do Lobito em encontro com Emmanuel Macron",
-      "url": "https://forbesafricalusofona.com/em-nairobi-empresario-angolano-destaca-corredor-do-lobito-em-encontro-com-emmanuel-macron/",
-      "source": "Forbes África",
-      "_key": "20ee909ee98ef8ba",
-      "score": 9,
-      "title_cn": "安哥拉商人在内罗毕会晤Emmanuel Macron (埃马纽埃尔·马克龙)，强调洛比托走廊。"
-    },
-    {
-      "title": "Cotação do crude para entrega em julho sobe 3,42% para 107,77 dólares",
-      "url": "https://jornaloguardiao.com/2026/05/13/cotacao-do-crude-para-entrega-em-julho-sobe-342-para-10777-dolares/",
-      "source": "Jornal O Guardião",
-      "_key": "f4cedb5adaf28680",
-      "score": 9,
-      "title_cn": "7月原油期货价格上涨3.42%至107.77美元。"
-    },
-    {
-      "title": " Cotação do crude para entrega em julho sobe 3,42% para 107,77 dólares ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d50a93204b33ad",
-      "score": 9,
-      "title_cn": "7月原油期货价格上涨3.42%至107.77美元。"
-    },
-    {
-      "title": "Economia Ministro Diamantino Azevedo reforça aposta no gás natural ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676049/ministro-diamantino-azevedo-refor%C3%A7a-aposta-no-g%C3%A1s-natural",
+      "title": "Mundo13/05/2026Parlamento aprova criação de Banco de Desenvolvimento",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676110/parlamento-aprova-cria%C3%A7%C3%A3o--de-banco-de-desenvolvimento",
       "source": "Jornal de Angola",
-      "_key": "71b3da49a9ae357c",
-      "score": 9,
-      "title_cn": "经济部长Diamantino Azevedo (迪亚曼蒂诺·阿泽维多) 强调投资天然气。"
-    },
-    {
-      "title": "Sonangol admite risco de perder mais de 390...",
-      "url": "https://valoreconomico.co.ao/artigo/sonangol-admite-risco-de-perder-mais-de-390-mil-milhoes-kz",
-      "source": "Valor Económico",
-      "_key": "6df7ef1e839482b8",
-      "score": 9,
-      "title_cn": "Sonangol 承认失去超过 390 人的风险"
-    },
-    {
-      "title": "Angolan government wants sustainable industrial parks and integrated into value chains",
-      "url": "https://www.angop.ao/en/noticias/economia/executivo-quer-parques-industriais-mais-sustentaveis-e-integrados-nas-cadeias-de-valor/",
-      "source": "ANGOP",
-      "_key": "ce458e37dc32b1df",
+      "_key": "5c27c4222b8b96f9",
       "score": 8,
-      "title_cn": "安哥拉政府寻求可持续并融入价值链的工业园区。"
+      "title_cn": "议会批准设立开发银行"
     },
     {
-      "title": "Governo investe 200 milhões de dólares no projecto de electrificação do Uíge",
-      "url": "https://correiokianda.info/governo-investe-200-milhoes-de-dolares-no-projecto-de-electrificacao-do-uige/",
-      "source": "Correio Kianda",
-      "_key": "fdb0f5ec7122136f",
-      "score": 8,
-      "title_cn": "政府投资2亿美元用于威热省电气化项目。"
-    },
-    {
-      "title": "EUA e China retomam contactos diplomáticos em contexto de crise global e tensões comerciais",
-      "url": "https://correiokianda.info/eua-e-china-retomam-contactos-diplomaticos-em-contexto-de-crise-global-e-tensoes-comerciais/",
-      "source": "Correio Kianda",
-      "_key": "f9cd53efd9eaf68f",
-      "score": 8,
-      "title_cn": "全球危机和贸易紧张下，中美恢复外交接触。"
-    },
-    {
-      "title": "Produção industrial acelera 14%, liderada pela indústria transformadora",
-      "url": "https://expansao.co.ao/economia/detalhe/producao-industrial-acelera-14-liderada-pela-industria-transformadora-71774.html",
-      "source": "Expansão",
-      "_key": "372d6f915afd7a43",
-      "score": 8,
-      "title_cn": "工业生产加速增长14%，制造业是主要驱动力。"
-    },
-    {
-      "title": "Destaque Diamantino Azevedo: Estratégia energética de Angola está alinhada com visão africana O ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo, afirmou, hoje, em Londres, Reino Unido, que a estratégia energética de Angola está alinhada com uma visão africana mais ampla.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676034/diamantino-azevedo:-estrat%C3%A9gia-energ%C3%A9tica-de-angola-est%C3%A1-alinhada-com-vis%C3%A3o-africana-",
-      "source": "Jornal de Angola",
-      "_key": "e63b3919f33f4d5d",
-      "score": 8,
-      "title_cn": "迪亚曼蒂诺 · 阿泽维多 ：安哥拉矿产资源、石油和天然气部长迪亚曼蒂诺 · 阿泽维多今天在英国伦敦表示 ， 安哥拉的能源战略符合更广泛的非洲愿景。"
-    },
-    {
-      "title": "Economia Especialistas defendem criação de Fundo Nacional de Petróleos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676040/especialistas-defendem-cria%C3%A7%C3%A3o-de-fundo-nacional-de-petr%C3%B3leos-",
-      "source": "Jornal de Angola",
-      "_key": "65f156e22685541e",
-      "score": 8,
-      "title_cn": "经济专家呼吁设立国家石油基金。"
-    },
-    {
-      "title": "Projecto de electrificação do Uíge orçado em 200 milhões de dólares",
-      "url": "https://www.opais.ao/ultimas_hora/projecto-de-electrificacao-do-uige-orcado-em-200-milhoes-de-dolares/",
+      "title": "Cabinda terá energia eléctrica através de cabos submarinos provenientes do Soyo",
+      "url": "https://www.opais.ao/sociedade/cabinda-tera-energia-electrica-atraves-de-cabos-submarinos-provenientes-do-soyo/",
       "source": "O País",
-      "_key": "200c893f8e90b2fa",
+      "_key": "49a76a06951e1282",
       "score": 8,
-      "title_cn": "威热省电气化项目预算2亿美元。"
+      "title_cn": "卡宾达将通过来自索约的海底电缆获得电力"
     },
     {
-      "title": "Inflação em Cabinda atinge 17,92% e supera a...",
-      "url": "https://valoreconomico.co.ao/artigo/inflacao-em-cabinda-atinge-17-92-e-supera-a-media-nacional",
-      "source": "Valor Económico",
-      "_key": "afbcf5accf9c568d",
-      "score": 8,
-      "title_cn": "卡宾达通胀率达17.92%，超过..."
-    },
-    {
-      "title": "Members of parliament passes draft law on legal regime of beneficial owner",
-      "url": "https://www.angop.ao/en/noticias/politica/deputados-aprovam-proposta-de-lei-sobre-regime-juridico-do-beneficiario-efectivo/",
+      "title": "Public security in Namibe province reinforced with new resources",
+      "url": "https://www.angop.ao/en/noticias/politica/entregues-novos-meios-para-reforcar-seguranca-publica-no-namibe/",
       "source": "ANGOP",
-      "_key": "7fa302222b57e860",
+      "_key": "6c40a0dcf9d27e25",
       "score": 7,
-      "title_cn": "议员通过受益所有人法律制度草案。"
+      "title_cn": "纳米贝省公共安全获得新资源加强"
     },
     {
-      "title": "Fiscal Police officers urged to refrain from harmful practices",
-      "url": "https://www.angop.ao/en/noticias/economia/comandante-exorta-efectivo-da-policia-fiscal-a-abster-se-de-praticas-lesivas/",
-      "source": "ANGOP",
-      "_key": "7b10b6f61c6e2a57",
-      "score": 7,
-      "title_cn": "敦促税务警察避免有害行为。"
-    },
-    {
-      "title": "Two road construction contracts awarded in Calumbo to ease access to Zango",
-      "url": "https://www.angop.ao/en/noticias/economia/consignadas-empreitadas-para-construcao-de-duas-estradas-no-calumbo/",
-      "source": "ANGOP",
-      "_key": "ac95c039bbd08b3c",
-      "score": 7,
-      "title_cn": "Calumbo (卡伦博) 获两份道路合同，改善Zango (赞戈) 交通。"
-    },
-    {
-      "title": "Danish company celebrates 1,000 gas shipments in 15 years",
-      "url": "https://www.angop.ao/en/noticias/economia/empresa-dinamarquesa-celebra-mil-carregamentos-de-gas-em-15-anos/",
-      "source": "ANGOP",
-      "_key": "d8eb2593ff8feee4",
-      "score": 7,
-      "title_cn": "丹麦公司庆祝15年内完成1000次天然气运输。"
-    },
-    {
-      "title": "Oil Industry",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=23633",
-      "source": "ANGOP",
-      "_key": "03335da53a04aece",
-      "score": 7,
-      "title_cn": "石油工业。"
-    },
-    {
-      "title": "Industry wants to reduce the occupation of unused plots of land in development hubs",
-      "url": "https://www.angop.ao/en/noticias/economia/industria-quer-reduzir-ocupacao-de-lotes-sem-aproveitamento-nos-polos-de-desenvolvimento/",
-      "source": "ANGOP",
-      "_key": "14949f65a6a3039d",
-      "score": 7,
-      "title_cn": "工业界希望减少开发区闲置土地占用。"
-    },
-    {
-      "title": "Parlamento discute reforço legal em áreas financeira, digital e eleitoral",
-      "url": "https://correiokianda.info/parlamento-discute-reforco-legal-em-areas-financeira-digital-e-eleitoral/",
-      "source": "Correio Kianda",
-      "_key": "47912d0c9398e0fd",
-      "score": 7,
-      "title_cn": "议会讨论加强金融、数字和选举领域法律。"
-    },
-    {
-      "title": "BAI entre os bancos que mais impulsionaram o crescimento da banca angolana em 2025",
-      "url": "https://correiokianda.info/bai-entre-os-bancos-que-mais-impulsionaram-o-crescimento-da-banca-angolana-em-2025/",
-      "source": "Correio Kianda",
-      "_key": "6fb80a700bed20db",
-      "score": 7,
-      "title_cn": "BAI银行预计在2025年成为推动安哥拉银行业增长的主要银行之一。"
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: tecnologia e infra-estrutura digital",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-tecnologia-e-infra-estrutura-digital/",
-      "source": "Correio Kianda",
-      "_key": "a53f5fd3b4aa3f8c",
-      "score": 7,
-      "title_cn": "1963-2026年非洲地缘政治：技术与数字基础设施。"
-    },
-    {
-      "title": "Cheias em Benguela: Governo Mobiliza Quase 400 Milhões USD para Obras de Emergência e 725 Casas Sociais",
-      "url": "https://diariodosnegocios.com/cheias-em-benguela-governo-mobiliza-quase-400-milhoes-usd-para-obras-de-emergencia-e-725-casas-sociais/",
-      "source": "Diário dos Negócios",
-      "_key": "4f3d426151760ffe",
-      "score": 7,
-      "title_cn": "本格拉洪灾：政府筹集近4亿美元用于紧急工程和725套社会住房。"
-    },
-    {
-      "title": " Cheias em Benguela: Governo Mobiliza Quase 400 Milhões USD para Obras de Emergência e 725 Casas Sociais ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_3156838db1e786",
-      "score": 7,
-      "title_cn": "本格拉洪灾：政府筹集近4亿美元用于紧急工程和725套社会住房。"
-    },
-    {
-      "title": "Jú Martins oficializa recandidatura de João Lourenço e avisa: \"ser candidato do MPLA à Presidência da República não é para quem quer\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_f70c6cd5c62232",
-      "score": 7,
-      "title_cn": "Jú Martins (茹·马丁斯) 正式宣布若昂·洛伦索竞选连任，并警告称“安人运总统候选人并非人人可当”。"
-    },
-    {
-      "title": "Multas no novo Código dos Valores Mobiliários podem atingir os 500 milhões Kz",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_e6c5cce4f4e53d",
-      "score": 7,
-      "title_cn": "新证券法罚款最高可达5亿宽扎。"
-    },
-    {
-      "title": "Sociedade Governo apresenta projecto para a transformação digital ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676052/governo-apresenta-projecto-para--a-transforma%C3%A7%C3%A3o-digital",
-      "source": "Jornal de Angola",
-      "_key": "674fadc503f1eb08",
-      "score": 7,
-      "title_cn": "政府提出数字化转型项目。"
-    },
-    {
-      "title": "Mundo Os temas que deverão dominar a cimeira entre China e EUA ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676042/os-temas-que-dever%C3%A3o-dominar-a-cimeira-entre-china-e-eua",
-      "source": "Jornal de Angola",
-      "_key": "2d5a2626ce951139",
-      "score": 7,
-      "title_cn": "中美峰会预计将主导的议题。"
-    },
-    {
-      "title": "EUA/China: Donald Trump vai a Pequim mostrar que os...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/euachina-donald-trump-vai-a-pequim-mostrar-que-os-eua-ainda-sao-mais-fortes-que-a-china-xi-jinping-espera-trump-para-lhe-apontar-o-caminho-do-novo-mundo-em-construcao-71778.html",
+      "title": "Polícia Fiscal Aduaneira impede saída do País de um...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-fiscal-aduaneira-impede-saida-do-pais-de-um-cidadao-egipcio-com-mais-de-50-mil-dolares-71783.html",
       "source": "Novo Jornal",
-      "_key": "98cfdea55f03db9e",
+      "_key": "7c3526a5d2eade4d",
       "score": 7,
-      "title_cn": "美中：Donald Trump (唐纳德·特朗普) 将访北京以展示..."
+      "title_cn": "海关税务警察阻止某人离境"
     },
     {
-      "title": "Governo quer parques industriais mais modernos e operados por privados",
-      "url": "https://www.opais.ao/economia/governo-quer-parques-industriais-mais-modernos-e-operados-por-privados/",
+      "title": "Delegação Provincial do Interior no Namibe reforçada com 13 novas viaturas",
+      "url": "https://www.opais.ao/ultimas_hora/delegacao-provincial-do-interior-no-namibe-reforcada-com-13-novas-viaturas/",
       "source": "O País",
-      "_key": "597a37a4baeb0252",
+      "_key": "57ae7e9d3da51306",
       "score": 7,
-      "title_cn": "政府希望工业园区更现代化并由私营部门运营。"
+      "title_cn": "纳米贝省内政代表团增配13辆新车"
     },
     {
-      "title": "BAD desembolsa mais de 90 milhões de dólares para profissionalização da contratação pública em Angola",
-      "url": "https://www.opais.ao/economia/bad-desembolsa-mais-de-90-milhoes-de-dolares-para-profissionalizacao-da-contratacao-publica-em-angola/",
+      "title": "Cidadão egípcio detido com mais de 50 mil dólares no AIAAN",
+      "url": "https://www.opais.ao/ultimas_hora/cidadao-egipcio-detido-com-mais-de-50-mil-dolares-no-aiaan/",
       "source": "O País",
-      "_key": "c15d200dcf32d8bc",
+      "_key": "6d720d4b3fdc7afc",
       "score": 7,
-      "title_cn": "非洲开发银行向安哥拉公共采购专业化项目拨款逾9000万美元。"
+      "title_cn": "埃及公民在AIAAN机场被捕，携带超5万美元"
     },
     {
-      "title": "Continuidade de João Lourenço na presidência do MPLA pode garantir vitória nas eleições de 2027",
-      "url": "https://www.opais.ao/politica/continuidade-de-joao-lourenco-na-presidencia-do-mpla-pode-garantir-vitoria-nas-eleicoes-de-2027/",
-      "source": "O País",
-      "_key": "ba7c5636feaa3238",
-      "score": 7,
-      "title_cn": "若昂·洛伦索继续担任安人运主席或确保2027年大选胜利。"
-    },
-    {
-      "title": "Governo corta 76% na compra de fertilizantes e ameaça...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-corta-76-na-compra-de-fertilizantes-e-ameaca-produtividade-agricola",
-      "source": "Valor Económico",
-      "_key": "5cdb2886c9789d18",
-      "score": 7,
-      "title_cn": "政府削减76%化肥采购，并威胁..."
-    },
-    {
-      "title": "BDA sai do negativo, mas ‘esconde’ impacto da dívida...",
-      "url": "https://valoreconomico.co.ao/artigo/bda-sai-do-negativo-mas-esconde-impacto-da-divida-da-angola-cables",
-      "source": "Valor Económico",
-      "_key": "c693fa1b3f5ab5b8",
-      "score": 7,
-      "title_cn": "BDA银行扭亏为盈，但“隐藏”债务影响。"
-    },
-    {
-      "title": "Accionistas de bancos sistémicos recebem mais de 306 mil milhões...",
-      "url": "https://valoreconomico.co.ao/artigo/accionistas-de-bancos-sistemicos-recebem-mais-de-306-mil-milhoes-kz-em-dividendos",
-      "source": "Valor Económico",
-      "_key": "30a1bd6050cc44bc",
-      "score": 7,
-      "title_cn": "系统重要性银行股东获得逾3060亿..."
-    },
-    {
-      "title": "Minister of State highlights agriculture contribution in Angola's productive structure",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-de-estado-realca-peso-da-agricultura-na-estrutura-produtiva-de-angola/",
+      "title": "Environmental study of the Baynes/Cahama route starts this month",
+      "url": "https://www.angop.ao/en/noticias/sociedade/estudo-ambiental-do-tracado-bayne-cahama-arranca-este-mes/",
       "source": "ANGOP",
-      "_key": "a654e8796623c141",
+      "_key": "f2eaee483e18b94b",
       "score": 6,
-      "title_cn": "国务部长强调农业对安哥拉生产结构贡献。"
+      "title_cn": "贝恩斯/卡哈马路线环境研究本月启动"
     },
     {
-      "title": "Obras Públicas",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57907",
-      "source": "ANGOP",
-      "_key": "48ba4488b32be2ac",
-      "score": 6,
-      "title_cn": "公共工程。"
-    },
-    {
-      "title": "PRS secretary highlights impact of Huambo/Alto-Hama road expansion",
-      "url": "https://www.angop.ao/en/noticias/politica/prs-realca-impacto-da-ampliacao-do-troco-huambo-alto-hama/",
-      "source": "ANGOP",
-      "_key": "3dd7433dad9ce82f",
-      "score": 6,
-      "title_cn": "PRS秘书强调万博/Alto-Hama (阿尔托-哈马) 公路扩建影响。"
-    },
-    {
-      "title": "BAD investe 90 milhões de dólares na formação de quadros angolanos para melhorar a transparência",
-      "url": "https://correiokianda.info/sncp-investe-90-milhoes-de-dolares-na-formacao-de-quadros-para-melhorar-a-transparencia/",
-      "source": "Correio Kianda",
-      "_key": "1d5d3e95c0e27594",
-      "score": 6,
-      "title_cn": "非洲开发银行投资9000万美元培训安哥拉干部以提高透明度。"
-    },
-    {
-      "title": "Tômbwa prepara-se para receber importante projecto das pescas",
-      "url": "https://correiokianda.info/tombwa-prepara-se-para-receber-importante-projecto-das-pescas/",
-      "source": "Correio Kianda",
-      "_key": "ad7a258eb766ba68",
-      "score": 6,
-      "title_cn": "Tômbwa (通布瓦) 准备迎接重要渔业项目。"
-    },
-    {
-      "title": "Trump afirma que guerra no Irão está “sob controlo” e descarta pedir ajuda a Xi Jinping",
-      "url": "https://correiokianda.info/trump-afirma-que-guerra-no-irao-esta-sob-controlo-e-descarta-pedir-ajuda-a-xi-jinping/",
-      "source": "Correio Kianda",
-      "_key": "c3636c3cf8c56701",
-      "score": 6,
-      "title_cn": "Donald Trump (唐纳德·特朗普) 称伊朗战争“在控制中”，排除向Xi Jinping (习近平) 求助。"
-    },
-    {
-      "title": "Quase metade das MPMEs certificadas são do comércio",
-      "url": "https://expansao.co.ao/empresas/detalhe/quase-metade-das-mpmes-certificadas-sao-do-comercio-71773.html",
-      "source": "Expansão",
-      "_key": "06da80b50f3fef11",
-      "score": 6,
-      "title_cn": "近半数获认证的中小微企业来自贸易领域。"
-    },
-    {
-      "title": "PR critica quem tem mais força e impõe interesses contra normas internacionais",
-      "url": "https://jornaloguardiao.com/2026/05/12/pr-critica-quem-tem-mais-forca-e-impoe-interesses-contra-normas-internacionais/",
-      "source": "Jornal O Guardião",
-      "_key": "191bbd92002cc067",
-      "score": 6,
-      "title_cn": "总统批评强权国家违背国际准则强加利益。"
-    },
-    {
-      "title": " PR critica quem tem mais força e impõe interesses contra normas internacionais ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_afbabdae4a74a9",
-      "score": 6,
-      "title_cn": "总统批评强权国家违背国际准则强加利益。"
-    },
-    {
-      "title": "Transparência financeira como imperativo nacional",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/676089/transpar%C3%AAncia-financeira-como-imperativo-nacional",
-      "source": "Jornal de Angola",
-      "_key": "b545bc376d527173",
-      "score": 6,
-      "title_cn": "财务透明是国家当务之急。"
-    },
-    {
-      "title": "Última hora Angola apresenta potencialidades agrícolas e minerais às empresas turcas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676036/angola-apresenta-potencialidades-agr%C3%ADcolas-e-minerais-%C3%A0s-empresas-turcas-",
-      "source": "Jornal de Angola",
-      "_key": "7c047edf71518bd1",
-      "score": 6,
-      "title_cn": "安哥拉向土耳其企业展示农业和矿产潜力。"
-    },
-    {
-      "title": "OMA e JMPLA juntam-se ao Bureau Político no \"apoio incondicional\" à recandidatura de João Lourenço",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/oma-e-jmpla-juntam-se-ao-bureau-politico-no-apoio-incondicional-a-recandidatura-de-joao-lourenco-71781.html",
-      "source": "Novo Jornal",
-      "_key": "42550b84ecfd4c58",
-      "score": 6,
-      "title_cn": "OMA和JMPLA与政治局“无条件支持”若昂·洛伦索竞选连任。"
-    },
-    {
-      "title": "Noruega pretende investir na produção de frutas e cereais em Malanje",
-      "url": "https://www.opais.ao/economia/noruega-pretende-investir-na-producao-de-frutas-e-cereais-em-malanje/",
-      "source": "O País",
-      "_key": "337a717ed9aac804",
-      "score": 6,
-      "title_cn": "挪威计划投资马兰热省水果和谷物生产。"
-    },
-    {
-      "title": "TAAG é a companhia mais ineficiente do mundo na utilização...",
-      "url": "https://valoreconomico.co.ao/artigo/taag-e-a-companhia-mais-ineficiente-do-mundo-na-utilizacao-dos-avioes",
-      "source": "Valor Económico",
-      "_key": "faeb944982da0024",
-      "score": 6,
-      "title_cn": "TAAG航空公司是全球效率最低的航空公司之一..."
-    },
-    {
-      "title": "Angolan President learns about the workings of Algeria's AI School",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-inteira-se-do-funcionamento-da-escola-de-ia-da-argelia/",
-      "source": "ANGOP",
-      "_key": "fecfcc5e498bfb04",
-      "score": 5,
-      "title_cn": "安哥拉总统了解阿尔及利亚人工智能学校运作。"
-    },
-    {
-      "title": "President João Lourenço meets with Algerian Prime Minister",
-      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-reune-se-com-primeiro-ministro-argelino/",
-      "source": "ANGOP",
-      "_key": "ec08fd6d695453f2",
-      "score": 5,
-      "title_cn": "João Lourenço (若昂·洛伦索) 总统会见阿尔及利亚总理。"
-    },
-    {
-      "title": "President João Lourenço concludes official visit to Algeria today",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-lourenco-termina-hoje-visita-oficial-a-argelia/",
-      "source": "ANGOP",
-      "_key": "2d765dfa0029baea",
-      "score": 5,
-      "title_cn": "João Lourenço (若昂·洛伦索) 总统今日结束对阿尔及利亚正式访问。"
-    },
-    {
-      "title": "President João Lourenço visits Algeria's desalination plant",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-visita-central-de-dessalinizacao-da-argelia/",
-      "source": "ANGOP",
-      "_key": "25858373acf54ab4",
-      "score": 5,
-      "title_cn": "João Lourenço (若昂·洛伦索) 总统参观阿尔及利亚海水淡化厂。"
-    },
-    {
-      "title": "Border officials remove explosive devices of various calibers in Ombadja",
-      "url": "https://www.angop.ao/en/noticias/politica/pgf-remove-engenhos-explosivos-de-diversos-calibres-em-ombadja/",
-      "source": "ANGOP",
-      "_key": "22d502a8147b3552",
-      "score": 5,
-      "title_cn": "边境官员在Ombadja (翁巴贾) 拆除各类爆炸装置。"
-    },
-    {
-      "title": "Manuel Homem prevê abrir concurso para recrutamento na Polícia Nacional",
-      "url": "https://angola24horas.com/sociedade/item/34313-manuel-homem-preve-abrir-concurso-para-recrutamento-na-policia-nacional",
+      "title": "OMA e JMPLA acompanham Bureau Político no “apoio incondicional” à recandidatura de João Lourenço",
+      "url": "https://angola24horas.com/politica/item/34319-oma-e-jmpla-acompanham-bureau-politico-no-apoio-incondicional-a-recandidatura-de-joao-lourenco",
       "source": "Angola 24 Horas",
-      "_key": "69a110b3496d1020",
-      "score": 5,
-      "title_cn": "Manuel Homem (曼努埃尔·奥门) 预计将启动国家警察招聘。"
+      "_key": "5843689776a11f7a",
+      "score": 6,
+      "title_cn": "OMA和JMPLA“无条件支持”若昂·洛伦索（João Lourenço）竞选连任"
     },
     {
-      "title": "Benguela: sinistrados das cheias causam tumulto e manifestam-se contra condições nas tendas",
-      "url": "https://correiokianda.info/benguela-sinistrados-das-cheias-causam-tumultos-e-manifestam-se-contra-condicoes-nas-tendas/",
-      "source": "Correio Kianda",
-      "_key": "46793c370d7bc34c",
-      "score": 5,
-      "title_cn": "本格拉洪灾灾民骚乱，抗议帐篷条件。"
-    },
-    {
-      "title": "Cerca de 70 mil estudantes universitários terão acesso à internet até 2027",
-      "url": "https://correiokianda.info/cerca-de-70-mil-estudantes-universitarios-terao-acesso-a-internet-ate-2027/",
-      "source": "Correio Kianda",
-      "_key": "4e3e499ae3a6fcb4",
-      "score": 5,
-      "title_cn": "预计到2027年，约7万大学生将可上网。"
-    },
-    {
-      "title": "A evolução tecnológica aplicada ao controlo de gestão",
-      "url": "https://expansao.co.ao/gestao/detalhe/a-evolucao-tecnologica-aplicada-ao-controlo-de-gestao-71775.html",
-      "source": "Expansão",
-      "_key": "d6dec7d59143b862",
-      "score": 5,
-      "title_cn": "应用于管理控制的技术发展"
-    },
-    {
-      "title": "Rússia anuncia teste bem-sucedido de novo míssil nuclear intercontinental",
-      "url": "https://jornaloguardiao.com/2026/05/12/russia-anuncia-teste-bem-sucedido-de-novo-missil-nuclear-intercontinental/",
-      "source": "Jornal O Guardião",
-      "_key": "1fe7e38e78b1d69d",
-      "score": 5,
-      "title_cn": "俄罗斯宣布成功试射新型洲际核导弹。"
-    },
-    {
-      "title": " Rússia anuncia teste bem-sucedido de novo míssil nuclear intercontinental ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_4fa4c0be256f07",
-      "score": 5,
-      "title_cn": "俄罗斯宣布成功试射新型洲际核导弹。"
-    },
-    {
-      "title": "Destaque João Lourenço visita Escola Nacional de Inteligência Artificial da Argélia A Escola Nacional de Inteligência Artificial da Argélia, na cidade de Argel, recebeu, esta terça-feira, a visita do Presidente da República, João Lourenço. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676037/jo%C3%A3o-louren%C3%A7o-visita-escola-nacional-de-intelig%C3%AAncia-artificial-da-arg%C3%A9lia-",
-      "source": "Jornal de Angola",
-      "_key": "444fe64eade02b07",
-      "score": 5,
-      "title_cn": "João Lourenço (若昂·洛伦索) 总统参观阿尔及利亚国家人工智能学校。"
-    },
-    {
-      "title": "Destaque Angola colhe experiência em matéria de dessalinização de água em ArgelA visita à principal estação de dessanilização de água do mar, nos arredores da capital argelina, marcou, hoje, mais uma etapa da agenda do Chefe de Estado, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676035/angola-colhe-experi%C3%AAncia-em-mat%C3%A9ria-de-dessaliniza%C3%A7%C3%A3o-de-%C3%A1gua-em-argel",
-      "source": "Jornal de Angola",
-      "_key": "580ba1bc5d42c93d",
-      "score": 5,
-      "title_cn": "安哥拉在阿尔及尔学习海水淡化经验。"
-    },
-    {
-      "title": "“Olhamos a Argélia como um país irmão, um aliado seguro”O Chefe de Estado, João Lourenço, considerou a Argélia um aliado seguro e leal, com o qual Angola compartilha um amplo conjunto de valores, que ao longo dos tempos se tornaram nos pilares sobre os quais assenta a amizade sólida entre as partes. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676044/%E2%80%9Colhamos-a-arg%C3%A9lia-como-um-pa%C3%ADs-irm%C3%A3o-um-aliado-seguro%E2%80%9D",
-      "source": "Jornal de Angola",
-      "_key": "36f347eae1db218b",
-      "score": 5,
-      "title_cn": "João Lourenço (若昂·洛伦索) 总统称阿尔及利亚是“兄弟国家、可靠盟友”。"
-    },
-    {
-      "title": "Benguela: Sinistrados das cheias fecham estrada em...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/benguela-sinistrados-das-cheias-fecham-estrada-em-protesto-contra-situacao-no-campismo---mulher-baleada-pela-policia-que-tentou-travar-protestos-71767.html",
+      "title": "MPLA: Higino Carneiro não desiste da corrida à liderança...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/mpla-higino-carneiro-nao-desiste-da-corrida-a-lideranca-do-partido-candidato-critica-apoio-do-bureau-politico-a-joao-lourenco-71782.html",
       "source": "Novo Jornal",
-      "_key": "50cb61791ce6e95a",
-      "score": 5,
-      "title_cn": "本格拉洪灾灾民封锁道路..."
+      "_key": "7f92e421f66aa55a",
+      "score": 6,
+      "title_cn": "安人运：希吉诺·卡内罗（Higino Carneiro）不放弃竞选领导人"
     },
     {
-      "title": "Carta do leitor: João Lourenço deve continuar…",
-      "url": "https://www.opais.ao/opiniao/carta-do-leitor-joao-lourenco-deve-continuar/",
+      "title": "Produção agrícola em Angola regista aumento de mais de 8% na campanha 2024/2025",
+      "url": "https://www.opais.ao/economia/producao-agricola-em-angola-regista-aumento-de-mais-de-8-na-campanha-2024-2025/",
       "source": "O País",
-      "_key": "b76d513c5f462f1f",
+      "_key": "45011885a04e4bd4",
+      "score": 6,
+      "title_cn": "安哥拉2024/2025年度农业生产增长超8%"
+    },
+    {
+      "title": "Higino Carneiro preocupado com imagem do MPLA em Angola pede que se evitem confrontos",
+      "url": "https://angola24horas.com/politica/item/34318-higino-carneiro-preocupado-com-imagem-do-mpla-em-angola-pede-que-se-evitem-confrontos",
+      "source": "Angola 24 Horas",
+      "_key": "f8ecfe2f4022fd22",
       "score": 5,
-      "title_cn": "读者来信：若昂·洛伦索应继续任职..."
+      "title_cn": "希吉诺·卡内罗（Higino Carneiro）担忧安人运形象，呼吁避免冲突"
+    },
+    {
+      "title": "Destaque IGAE assinala 40 anos com foco na responsabilização e cidadania A Inspecção Geral da Administração do Estado (IGAE) destacou, na terça-feira, em Luanda, a responsabilização e a cidadania como “factores fundamentais para garantir que os serviços públicos cheguem com qualidade às comunidades”.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676117/igae-assinala-40-anos-com-foco-na-responsabiliza%C3%A7%C3%A3o-e-cidadania-",
+      "source": "Jornal de Angola",
+      "_key": "8f70f83f23323a51",
+      "score": 5,
+      "title_cn": "周二 ， 在罗安达 ， 国家行政总检查局 （ IGAE ） 强调 ， 问责制和公民身份是确保向社区提供高质量公共服务的基本因素。"
+    },
+    {
+      "title": "Decisão final do Tribunal Constitucional condiciona indicação de comissários da UNITA na Comissão Nacional Eleitoral",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/decisao-final-do-tribunal-constitucional-condiciona-indicacao-de-comissarios-da-unita-na-comissao-nacional-eleitoral-71786.html",
+      "source": "Novo Jornal",
+      "_key": "a844f0e85589810d",
+      "score": 5,
+      "title_cn": "宪法法院最终裁决制约安盟（UNITA）委员进入全国选举委员会的提名"
     }
   ]
 }
