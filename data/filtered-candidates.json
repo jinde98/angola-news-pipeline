@@ -1,154 +1,301 @@
 {
-  "date": "2026-05-13",
-  "total_new": 48,
-  "total_filtered": 21,
+  "date": "2026-05-14",
+  "total_new": 118,
+  "total_filtered": 42,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Balança comercial sobe para 2,5 biliões kwanzas impulsionada pelo...",
-      "url": "https://valoreconomico.co.ao/artigo/balanca-comercial-sobe-para-2-5-bilioes-kwanzas-impulsionada-pelo-petroleo",
-      "source": "Valor Económico",
-      "_key": "02e042fe58337e00",
-      "score": 9
-    },
-    {
-      "title": "PR volta autorizar concurso que foi anulado por “falta de...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-volta-autorizar-concurso-que-foi-anulado-por-falta-de-transparencia",
-      "source": "Valor Económico",
-      "_key": "389c76705a0652f6",
-      "score": 9
-    },
-    {
-      "title": "Destaque INSS premeia 300 empresas pelo contributo da sustentabilidade da Segurança SocialO Ministério da Administração Pública, Trabalho e Segurança Social, através do Instituto Nacional de Segurança Social (INSS), premiou, hoje, em Luanda, 300 empresas que têm cumprido com responsabilidade e rigor as prestações a Segurança Social.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676124/inss-premeia-300-empresas-pelo-contributo-da-sustentabilidade-da-seguran%C3%A7a-social",
+      "title": "Mundo Donald Trump cumpre visita de Estado à China ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676155/donald-trump-cumpre-visita-de-estado-%C3%A0-china",
       "source": "Jornal de Angola",
-      "_key": "c182ddb0ffa12c0f",
-      "score": 8
+      "_key": "8c0ddabcc65aade1",
+      "score": 10
     },
     {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=71787",
+      "title": "China/EUA: Trump chega a Pequim para marcar o fim do...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/chinaeua-trump-chega-a-pequim-para-marcar-o-fim-do-poder-hegemonico-global-dos-eua-xi-jinping-e-donald-trump-juram-respeitar-se-mutuamente-para-sempre-mas-71793.html",
       "source": "Novo Jornal",
-      "_key": "3c9f7633e72bd385",
-      "score": 8
+      "_key": "b4a0ae84e10ea2be",
+      "score": 10
     },
     {
-      "title": "Empresários procuram soluções para problemas do sector imobiliário",
-      "url": "https://valoreconomico.co.ao/artigo/empresarios-procuram-solucoes-para-problemas-do-sector-imobiliario",
-      "source": "Valor Económico",
-      "_key": "e60c1d79357415ff",
-      "score": 8
-    },
-    {
-      "title": "Vantagens para o Sector Segurador e para a Economia...",
-      "url": "https://valoreconomico.co.ao/artigo/vantagens-para-o-sector-segurador-e-para-a-economia-local",
-      "source": "Valor Económico",
-      "_key": "024aa7e9206239ad",
-      "score": 8
-    },
-    {
-      "title": "FGC fecha 2025 com resultado líquido de 7,9 mil milhões kz e desataca saneamento do Programa Angola Investe",
-      "url": "https://forbesafricalusofona.com/fgc-fecha-2025-com-resultado-liquido-de-79-mil-milhoes-kz-e-desataca-saneamento-do-programa-angola-investe/",
-      "source": "Forbes África",
-      "_key": "d6bdbec4da90d61d",
-      "score": 7
-    },
-    {
-      "title": "Mundo Donald Trump na China para cimeira com Xi Jinping ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676122/donald-trump-na-china-para-cimeira-com-xi-jinping",
-      "source": "Jornal de Angola",
-      "_key": "0b2f95bb8e79e69f",
-      "score": 7
-    },
-    {
-      "title": "Cedesa alerta que crescimento económico continua incapaz...",
-      "url": "https://valoreconomico.co.ao/artigo/cedesa-alerta-que-crescimento-economico-continua-incapaz-de-travar-pobreza-em-angola",
-      "source": "Valor Económico",
-      "_key": "b8c1b6e25c1cd32d",
-      "score": 7
-    },
-    {
-      "title": "Emis processa mais de 4,8 mil milhões de kwanzas em...",
-      "url": "https://valoreconomico.co.ao/artigo/emis-processa-mais-de-4-8-mil-milhoes-de-kwanzas-em-abril",
-      "source": "Valor Económico",
-      "_key": "15584bb7af97d008",
-      "score": 7
-    },
-    {
-      "title": "Angola e Zâmbia unem-se para transformar Moxico Leste em destino...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-e-zambia-unem-se-para-transformar-moxico-leste-em-destino-de-ecoturismo",
-      "source": "Valor Económico",
-      "_key": "617e70bbb5709553",
-      "score": 7
-    },
-    {
-      "title": "Caso Higino Carneiro: o regresso dos processos adormecidos",
-      "url": "https://angola24horas.com/opiniao/item/34321-caso-higino-carneiro-o-regresso-dos-processos-adormecidos",
-      "source": "Angola 24 Horas",
-      "_key": "eab86d5f81dda217",
-      "score": 6
-    },
-    {
-      "title": "General Eusébio de Brito Teixeira desmente ligação ao activismo de Higino Carneiro",
-      "url": "https://correiokianda.info/general-eusebio-de-brito-teixeira-desmente-ligacao-ao-activismo-de-higino-carneiro/",
+      "title": "China avisa Washington: questão de Taiwan pode levar a conflito directo",
+      "url": "https://correiokianda.info/china-avisa-washington-questao-de-taiwan-pode-levar-a-conflito-directo/",
       "source": "Correio Kianda",
-      "_key": "60eee47e95c053ac",
+      "_key": "2fefb64568ad9b21",
+      "score": 9
+    },
+    {
+      "title": "Petróleo perde terreno mas continua acima dos 100 dólares por barril",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-perde-terreno-mas-continua-acima-dos-100-dolares-por-barril-71797.html",
+      "source": "Expansão",
+      "_key": "ac3c087710fce8d7",
+      "score": 9
+    },
+    {
+      "title": "Destaque Xi Jimping: As relações comerciais entre China e EUA são mutuamente benéficasAs relações económicas entre a China e os EUA são mutuamente benéficas e de natureza vantajosa para ambos, afirmou, hoje, o Presidente chinês, Xi Jinping, durante as conversações com o homólogo norte-americano, Donald Trump, em Pequim.",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676128/xi-jimping:-as-rela%C3%A7%C3%B5es-comerciais-entre-china-e-eua-s%C3%A3o-mutuamente-ben%C3%A9ficas",
+      "source": "Jornal de Angola",
+      "_key": "0c6e2db4522eaf48",
+      "score": 9
+    },
+    {
+      "title": "AGT prorroga prazo de pagamento do IVA de Março até 22 de Maio devido a falhas no sistema informático",
+      "url": "https://diariodosnegocios.com/agt-prorroga-prazo-de-pagamento-do-iva-de-marco-ate-22-de-maio-devido-a-falhas-no-sistema-informatico/",
+      "source": "Diário dos Negócios",
+      "_key": "e0ca6c5b1e38f26e",
+      "score": 8
+    },
+    {
+      "title": " AGT prorroga prazo de pagamento do IVA de Março até 22 de Maio devido a falhas no sistema informático ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_cb40c883df0d29",
+      "score": 8
+    },
+    {
+      "title": "Mercado imobiliário de Luanda acelera com subida das rendas e pressão demográfica",
+      "url": "https://forbesafricalusofona.com/mercado-imobiliario-de-luanda-acelera-com-subida-das-rendas-e-pressao-demografica/",
+      "source": "Forbes África",
+      "_key": "eb264ef07928b1dd",
+      "score": 8
+    },
+    {
+      "title": "Business opportunities in Angolan mining sector to be presented at investment conference in London",
+      "url": "https://www.angop.ao/en/noticias/economia/oportunidades-de-investimento-em-angola-apresentadas-em-londres/",
+      "source": "ANGOP",
+      "_key": "302e76c33f90fe62",
+      "score": 7
+    },
+    {
+      "title": "Cabinda vai receber energia reforçada com novo sistema de cabos submarinos",
+      "url": "https://correiokianda.info/cabinda-vai-receber-energia-reforcada-com-novo-sistema-de-cabos-submarinos/",
+      "source": "Correio Kianda",
+      "_key": "d2999fcf9ab60412",
+      "score": 7
+    },
+    {
+      "title": "Stock da dívida pública fecha 4º trimestre de 2025 nos mais de 62 mil milhões de kwanzas",
+      "url": "https://correiokianda.info/stock-da-divida-publica-fecha-4o-trimestre-de-2025-nos-mais-de-62-mil-milhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "b6b4ad960866156d",
+      "score": 7
+    },
+    {
+      "title": "Agricultura supera petróleo na contribuição ao PIB: Economista diz que produção ainda é insuficiente",
+      "url": "https://correiokianda.info/agricultura-supera-petroleo-na-contribuicao-ao-pib-economista-diz-que-producao-ainda-e-insuficiente/",
+      "source": "Correio Kianda",
+      "_key": "884a649fae51ace8",
+      "score": 7
+    },
+    {
+      "title": "Sonangol admite risco de perder mais de 390 mil milhões Kz em empréstimos a privados",
+      "url": "https://diariodosnegocios.com/sonangol-admite-risco-de-perder-mais-de-390-mil-milhoes-kz-em-emprestimos-a-privados/",
+      "source": "Diário dos Negócios",
+      "_key": "10c17884674ac05f",
+      "score": 7
+    },
+    {
+      "title": " Sonangol admite risco de perder mais de 390 mil milhões Kz em empréstimos a privados ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_c55833b4868b09",
+      "score": 7
+    },
+    {
+      "title": "Executivo prevê a criação de 164 parques industriais rurais no paísO Governo angolano, no quadro do Plano de Desenvolvimento Nacional (PDN) 2023-2027, definiu a estratégia de criar 164 parques industriais rurais (PIR) em todo o país, com o objectivo de impulsionar o desenvolvimento económico local, descentralizar a industrialização, processar produtos agrícolas para facilitar a transformação e venda de bens em zonas rurais.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676129/executivo-prev%C3%AA-a-cria%C3%A7%C3%A3o-de-164-parques-industriais-rurais-no-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "8cf6735f414f7409",
+      "score": 7
+    },
+    {
+      "title": "Xi Jinping busca soluções para relações China-EUA",
+      "url": "https://www.opais.ao/mundo/xi-jinping-busca-solucoes-para-relacoes-china-eua/",
+      "source": "O País",
+      "_key": "866a64905a2f9a7d",
+      "score": 7
+    },
+    {
+      "title": "Angola to present investment opportunities at the \"Africa CEO Forum 2026\" in Kigali",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-oportunidades-de-investimento-no-africa-ceo-forum-2026-em-kigali/",
+      "source": "ANGOP",
+      "_key": "61472728e87906ab",
       "score": 6
     },
     {
-      "title": "O regresso dos processos “adormecidos” – Rebelo dos Santos",
-      "url": "https://holdonangola.com/o-regresso-dos-processos-adormecidos-rebelo-dos-santos/",
+      "title": "Angolan General State Budget 2025 achieves a surplus of over 218 billion Kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/oge-2025-alcanca-resultado-superavitario-de-mais-de-kz-218-mil-milhoes/",
+      "source": "ANGOP",
+      "_key": "38f5b32f3130e11c",
+      "score": 6
+    },
+    {
+      "title": "Luau photovoltaic solar park begins operational phase",
+      "url": "https://www.angop.ao/en/noticias/economia/parque-solar-fotovoltaico-do-luau-entra-na-fase-de-operacionalizacao/",
+      "source": "ANGOP",
+      "_key": "0c121b7223696093",
+      "score": 6
+    },
+    {
+      "title": "Obras emergenciais em Benguela vão custar mais de 356 mil milhões Kz",
+      "url": "https://correiokianda.info/obras-emergenciais-em-benguela-vao-custar-mais-de-356-mil-milhoes-kz/",
+      "source": "Correio Kianda",
+      "_key": "b1bb5a6350e6c86b",
+      "score": 6
+    },
+    {
+      "title": "Angola regista aumento de mais de 8% na produção agrícola e ultrapassa 30 milhões de toneladas",
+      "url": "https://correiokianda.info/angola-regista-aumento-de-mais-de-8-na-producao-agricola-ultrapassando-mais-de-30-milhoes-de-toneladas/",
+      "source": "Correio Kianda",
+      "_key": "9e8fe27208b0ad22",
+      "score": 6
+    },
+    {
+      "title": "BIC, BFA e BAI privilegiam accionistas e distribuem mais de 56% dos lucros em dividendos, enquanto BPC e Millennium retêm resultados",
+      "url": "https://diariodosnegocios.com/bic-bfa-e-bai-privilegiam-accionistas-e-distribuem-mais-de-56-dos-lucros-em-dividendos-enquanto-bpc-e-millennium-retem-resultados/",
+      "source": "Diário dos Negócios",
+      "_key": "36b93e58bf41947a",
+      "score": 6
+    },
+    {
+      "title": " BIC, BFA e BAI privilegiam accionistas e distribuem mais de 56% dos lucros em dividendos, enquanto BPC e Millennium retêm resultados ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_22f61c10f0af23",
+      "score": 6
+    },
+    {
+      "title": "Desafios e perspectivas no sector imobiliário",
+      "url": "https://expansao.co.ao/gestao/detalhe/desafios-e-perspectivas-no-sector-imobiliario-71798.html",
+      "source": "Expansão",
+      "_key": "1a87ea460bfdc321",
+      "score": 6
+    },
+    {
+      "title": "Cimeira Africa Forward apoia nova arquitectura financeira para impulsionar investimento e criação de emprego",
+      "url": "https://forbesafricalusofona.com/cimeira-africa-forward-apoia-nova-arquitectura-financeira-para-impulsionar-investimento-e-criacao-de-emprego/",
+      "source": "Forbes África",
+      "_key": "fd56b69c5b8aba05",
+      "score": 6
+    },
+    {
+      "title": "Angola: Estudo aponta baixa percentagem de apoio à recandidatura de João Lourenço no MPLA",
+      "url": "https://holdonangola.com/angola-estudo-aponta-baixa-percentagem-de-apoio-a-recandidatura-de-joao-lourenco-no-mpla/",
       "source": "Hold On Angola",
-      "_key": "9951d80f68f7f881",
+      "_key": "aae5bf7cbc79762e",
       "score": 6
     },
     {
-      "title": "Destaque Higino Carneiro ouvido na Procuradoria-Geral da RepúblicaO general na reforma Higino Carneiro voltou, hoje, a ser ouvido na Procuradoria-Geral da República (PGR), no âmbito da reabertura do processo-crime n.º 48/20, no qual é constituído arguido, enquanto antigo governador da província de Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676119/higino-carneiro-ouvido-na-procuradoria-geral-da-rep%C3%BAblica",
+      "title": "A impossibilidade Constitucional de um terceiro mandato indirecto…",
+      "url": "https://holdonangola.com/a-impossibilidade-constitucional-de-um-terceiro-mandato-indirecto-para-o-presidente-joao-lourenco/",
+      "source": "Hold On Angola",
+      "_key": "4cffe61ff05c2599",
+      "score": 6
+    },
+    {
+      "title": "Sociedade Obras executadas a 80% Barragem da Quiminha fica concluída em 2027 ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676156/obras-executadas-a-80%25-barragem-da-quiminha-fica-conclu%C3%ADda-em-2027",
       "source": "Jornal de Angola",
-      "_key": "df349b23cb6c918f",
+      "_key": "9174649e21b911f8",
       "score": 6
     },
     {
-      "title": "Sociedade MINTTICS promove campanha promocional de registo de domínios \"AO\" ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676121/minttics-promove-campanha-promocional-de-registo-de-dom%C3%ADnios-%22ao%22",
-      "source": "Jornal de Angola",
-      "_key": "3ff582b3d701be44",
-      "score": 6
-    },
-    {
-      "title": "Decisão final do Tribunal Constitucional condiciona...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/decisao-final-do-tribunal-constitucional-condiciona-indicacao-de-comissarios-da-unita-para-a-comissao-nacional-eleitoral-71786.html",
-      "source": "Novo Jornal",
-      "_key": "a9973b505b0ed0ab",
-      "score": 6
-    },
-    {
-      "title": "O Dilema da Eficiência em Angola",
-      "url": "https://valoreconomico.co.ao/artigo/o-dilema-da-eficiencia-em-angola",
+      "title": "João Lourenço avança para a liderança do MPLA com o...",
+      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-avanca-para-a-lideranca-do-mpla-com-o-dobro-das-assinaturas-dos-militantes-14170",
       "source": "Valor Económico",
-      "_key": "085aa61c2970efb0",
+      "_key": "8626b60492d63814",
       "score": 6
     },
     {
-      "title": "Minister reaffirms government´s actions to secure marine resources management",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-reafirma-accoes-do-governo-para-assegurar-gestao-sustentavel-dos-recursos-marinhos/",
+      "title": "Governor considers agriculture a crucial factor for development",
+      "url": "https://www.angop.ao/en/noticias/agricultura/governador-considera-agricultura-factor-crucial-para-o-desenvolvimento/",
       "source": "ANGOP",
-      "_key": "89b733e402741337",
+      "_key": "1c066b229d9001f2",
       "score": 5
     },
     {
-      "title": "Angolan govt reaffirms commitment to sustainability of social protection system",
-      "url": "https://www.angop.ao/en/noticias/sociedade/executivo-reafirma-compromisso-com-a-sustentabilidade-do-sistema-de-proteccao-social/",
-      "source": "ANGOP",
-      "_key": "cb97ba46673b58c8",
+      "title": "Organização ambiental apela a maior investimento na economia azul em Angola",
+      "url": "https://correiokianda.info/organizacao-ambiental-apela-a-maior-investimento-na-economia-azul-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "c89551c58c819300",
       "score": 5
     },
     {
-      "title": "Questões de ética envolvendo Job Capapinha – José Gama",
-      "url": "https://holdonangola.com/questoes-de-etica-envolvendo-job-capapinha-jose-gama/",
-      "source": "Hold On Angola",
-      "_key": "8354e4424e9e08f7",
+      "title": "Geopolítica africana 1963 – 2026: agricultura, desenvolvimento rural, economia azul e ambiente sustentável",
+      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-agricultura-desenvolvimento-rural-economia-azul-e-ambiente-sustentavel/",
+      "source": "Correio Kianda",
+      "_key": "4373ae4f8b3bf3da",
+      "score": 5
+    },
+    {
+      "title": "O regresso de um processo “morto”: a reabertura do caso das viaturas ameaça a candidatura de Higino Carneiro à liderança do MPLA?",
+      "url": "https://diariodosnegocios.com/o-regresso-de-um-processo-morto-a-reabertura-do-caso-das-viaturas-ameaca-a-candidatura-de-higino-carneiro-a-lideranca-do-mpla/",
+      "source": "Diário dos Negócios",
+      "_key": "4ae7b7ae0eab2695",
+      "score": 5
+    },
+    {
+      "title": "INSS premia 300 empresas exemplares com Certificado Verde por cumprimento de obrigações à Segurança Social",
+      "url": "https://diariodosnegocios.com/inss-premia-300-empresas-exemplares-com-certificado-verde-por-cumprimento-de-obrigacoes-a-seguranca-social/",
+      "source": "Diário dos Negócios",
+      "_key": "d20bb8491ccd3708",
+      "score": 5
+    },
+    {
+      "title": " O regresso de um processo “morto”: a reabertura do caso das viaturas ameaça a candidatura de Higino Carneiro à liderança do MPLA? ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_25effa418fbb50",
+      "score": 5
+    },
+    {
+      "title": " INSS premia 300 empresas exemplares com Certificado Verde por cumprimento de obrigações à Segurança Social ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_42622dc7870d64",
+      "score": 5
+    },
+    {
+      "title": "Quase metade das MPMEs certificadas são do comércio",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0688dbd28d95ee",
+      "score": 5
+    },
+    {
+      "title": "Sociedade Instituto de Segurança Social premeia empresas cumpridoras das prestações ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676142/instituto-de-seguran%C3%A7a-social-premeia-empresas-cumpridoras-das-presta%C3%A7%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "dc9bf514d80fab2b",
+      "score": 5
+    },
+    {
+      "title": "Política Composição da CNE pode ser reduzida de 17 para 11 membros ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676133/composi%C3%A7%C3%A3o-da-cne-pode-ser-reduzida-de-17-para-11-membros",
+      "source": "Jornal de Angola",
+      "_key": "8389e5d9027291e2",
+      "score": 5
+    },
+    {
+      "title": "INSS distingue 300 empresas com Certificado Verde por cumprimento regular das obrigações contributivas",
+      "url": "https://www.opais.ao/economia/inss-distingue-300-empresas-com-certificado-verde-por-cumprimento-regular-das-obrigacoes-contributivas/",
+      "source": "O País",
+      "_key": "2e2ee07df52e8ff6",
+      "score": 5
+    },
+    {
+      "title": "Presidente João Lourenço visita Escola Nacional de Inteligência Artificial em Argel",
+      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-visita-escola-nacional-de-inteligencia-artificial-em-argel/",
+      "source": "O País",
+      "_key": "0cee7c4cb6174a66",
+      "score": 5
+    },
+    {
+      "title": "Presidente da República visita maior estação de dessalinização de água em Argel",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-visita-maior-estacao-de-dessalinizacao-de-agua-em-argel/",
+      "source": "O País",
+      "_key": "c2bac02de8736d18",
       "score": 5
     }
   ]
