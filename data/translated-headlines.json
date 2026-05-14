@@ -1,136 +1,192 @@
 {
   "date": "2026-05-14",
-  "total_new": 41,
-  "total_filtered": 16,
-  "scored_by": "gemini-flash",
+  "total_new": 52,
+  "total_filtered": 23,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Destaque British Petroleum investe cinco mil milhões de dólares no sector petrolífero angolanoA British Petroleum (BP), uma das maiores empresas de petróleo e gás do mundo, tem em carteira um investimento avaliado em cerca de cinco mil milhões de dólares para aumentar a produção petrolífera em Angola, através do “Projecto Paz”.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676202/british-petroleum-investe-cinco-mil-milh%C3%B5es-de-d%C3%B3lares-no-sector-petrol%C3%ADfero-angolano",
-      "source": "Jornal de Angola",
-      "_key": "06fb882e6be233af",
-      "score": 9,
-      "title_cn": "英国石油（BP）在安哥拉石油领域投资50亿美元"
-    },
-    {
-      "title": "Primeira refinaria de ouro em Angola deverá estar pronta...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/primeira-refinaria-de-ouro-em-angola-devera-estar-pronta-ate-final-do-ano-ministro-71806.html",
-      "source": "Novo Jornal",
-      "_key": "3e909e4f594e392d",
-      "score": 8,
-      "title_cn": "安哥拉首座黄金精炼厂将建成"
-    },
-    {
-      "title": "President João Lourenço authorizes over 356 billion kwanzas for flood response in Benguela",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-autoriza-mais-de-356-mil-milhoes-para-resposta-as-cheias-em-benguela/",
-      "source": "ANGOP",
-      "_key": "d4c8c30a77221ca4",
-      "score": 7,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统批准3560亿宽扎用于本格拉抗洪"
-    },
-    {
-      "title": "Mundo Xi Jinping e Trump defendem abertura de Ormuz ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676196/xi-jinping-e-trump-defendem-abertura-de-ormuz-",
-      "source": "Jornal de Angola",
-      "_key": "a2c8844e95b80dd6",
-      "score": 7,
-      "title_cn": "习近平与特朗普主张霍尔木兹海峡开放"
-    },
-    {
-      "title": "Structured financing is key to mining investment, says ABO CEO",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9833",
-      "source": "Negócios de Angola",
-      "_key": "235fd7684ddc93f4",
-      "score": 7,
-      "title_cn": "ABO首席执行官：结构性融资是矿业投资关键"
-    },
-    {
-      "title": "More expensive fertilizers threaten agricultural programs in Angola and push up production costs",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9794",
-      "source": "Negócios de Angola",
-      "_key": "086b651a145b1d2c",
-      "score": 7,
-      "title_cn": "肥料涨价威胁安哥拉农业项目，推高生产成本"
-    },
-    {
-      "title": "Executivo mobiliza mais de 356 mil milhões de kwanzas para responder às cheias em Benguela",
-      "url": "https://www.opais.ao/politica/executivo-mobiliza-mais-de-356-mil-milhoes-de-kwanzas-para-responder-as-cheias-em-benguela/",
-      "source": "O País",
-      "_key": "2f3654c6cca7db64",
-      "score": 7,
-      "title_cn": "安哥拉政府筹集逾3560亿宽扎应对本格拉洪灾"
-    },
-    {
-      "title": "Encontro Histórico: Trump apela à proximidade com a China e...",
-      "url": "https://valoreconomico.co.ao/artigo/encontro-historico-trump-apela-a-proximidade-com-a-china-e-trata-xi-jinping-por-amigo",
+      "title": "PR extingue Observatório contra Imigração dois anos após criação e...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-extingue-observatorio-contra-imigracao-dois-anos-apos-criacao-e-coordenador-exonerado-tem-15-dias-para-entregar-documentos",
       "source": "Valor Económico",
-      "_key": "b0110ee5d0d3f81c",
-      "score": 7,
-      "title_cn": "历史性会晤：特朗普呼吁与中国保持亲近"
+      "_key": "84ad1ba1ce63654a",
+      "score": 9,
+      "title_cn": "总统解散移民观察站，距其成立仅两年。"
     },
     {
-      "title": "Four Angolan provinces with new internet access points",
-      "url": "https://www.angop.ao/en/noticias/economia/quatro-provincias-com-novos-pontos-de-acesso-a-internet/",
+      "title": "ANPG and Standard Bank sign memo to empower oil companies",
+      "url": "https://www.angop.ao/en/noticias/economia/anpg-e-standard-bank-rubricam-memorando-para-capacitar-empresas-petroliferas/",
       "source": "ANGOP",
-      "_key": "f7d2508d0bc5a97a",
-      "score": 6,
-      "title_cn": "安哥拉四省新增互联网接入点"
+      "_key": "89c06e1c8efb862b",
+      "score": 8,
+      "title_cn": "安哥拉国家石油天然气局与渣打银行签署备忘录，助力石油公司发展。"
     },
     {
-      "title": "Destaque Turismo angolano promovido no Africa CEO Forum 2026 no Rwanda O potencial do turismo nacional como motor de desenvolvimento, investimento e projecção internacional, vai ser promovido no Africa CEO Forum 2026, que decorre, hoje e sexta-feira, em Kigali, no Rwanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676197/turismo-angolano-promovido-no-africa-ceo-forum-2026-no-rwanda",
-      "source": "Jornal de Angola",
-      "_key": "442867635187a834",
-      "score": 6,
-      "title_cn": "安哥拉旅游业在2026年非洲CEO论坛（卢旺达）获推广"
+      "title": "Ministro garante nova data para conclusão: primeira refinaria de ouro deverá estar pronta até ao final deste ano",
+      "url": "https://expansao.co.ao/economia/detalhe/ministro-garante-nova-data-para-conclusao-primeira-refinaria-de-ouro-devera-estar-pronta-ate-ao-final-deste-ano-71812.html",
+      "source": "Expansão",
+      "_key": "8f90d3d514bc0484",
+      "score": 8,
+      "title_cn": "部长承诺：首座黄金精炼厂将于今年底前竣工。"
     },
     {
-      "title": "Destaque País destaca-se como referência no Programa de Compras AfricanasAngola está entre os países de referência cujo envolvimento valorizam o Programa de Compras Africanas (ABP, do inglês African Buyers Programme), iniciativa do Banco Africano de Exportação e Importação (AFREXIMBANK), afirmou, esta quinta-feira, no seminário virtual, a gerente de projectos e líder de marketing e parcerias globais, Janice Costa.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676206/pa%C3%ADs-destaca-se-como-refer%C3%AAncia-no-programa-de-compras-africanas",
-      "source": "Jornal de Angola",
-      "_key": "fb3effce6e9bc337",
-      "score": 6,
-      "title_cn": "安哥拉在非洲采购计划中脱颖而出，成为典范"
+      "title": "Trump convida Xi a visitar Casa Branca em 24 de setembro",
+      "url": "https://jornaloguardiao.com/2026/05/14/trump-convida-xi-a-visitar-casa-branca-em-24-de-setembro/",
+      "source": "Jornal O Guardião",
+      "_key": "f7a47881a876ec50",
+      "score": 8,
+      "title_cn": "特朗普邀请习近平于9月24日访问白宫。"
     },
     {
-      "title": "Angolan banker Alvaro Sobrinho is back under scrutiny in Portugal over billions that vanished from BES Angola14/05/2026",
-      "url": "https://www.negociosdeangola.com/en/angolan-banker-alvaro-sobrinho-is-back-under-scrutiny-in-portugal-over-billions-that-vanished-from-bes-angola/",
-      "source": "Negócios de Angola",
-      "_key": "a3a571bb6a496b5e",
-      "score": 6,
-      "title_cn": "安哥拉银行家阿尔瓦罗·索布里尼奥（Alvaro Sobrinho）因BES安哥拉数十亿资金失踪案在葡萄牙再受审查"
+      "title": " Trump convida Xi a visitar Casa Branca em 24 de setembro ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_89cc52336b6be7",
+      "score": 8,
+      "title_cn": "特朗普邀请习近平于9月24日访问白宫。"
     },
     {
-      "title": "Luanda vai acolher 5.ª ediçãoda Mesa-Redonda com CEO´s",
-      "url": "https://www.opais.ao/sociedade/luanda-vai-acolher-5-a-edicaoda-mesa-redonda-com-ceos/",
+      "title": "Presidente João Lourenço recebe ministro da RDC para reforço da cooperação energética",
+      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-recebe-ministro-da-rdc-para-reforco-da-cooperacao-energetica/",
       "source": "O País",
-      "_key": "6af19e60d7add798",
-      "score": 6,
-      "title_cn": "罗安达将举办第五届首席执行官圆桌会议"
+      "_key": "e04bf224b5b8f7f8",
+      "score": 8,
+      "title_cn": "总统若昂·洛伦索会见刚果（金）部长，加强能源合作。"
     },
     {
-      "title": "‎FADA desembolsa mais de mil milhões de kwanzas para apoiar projectos no Namibe",
-      "url": "https://www.opais.ao/sociedade/fada-desembolsa-mais-de-mil-milhoes-de-kwanzas-para-apoiar-projectos-no-namibe/",
+      "title": "Angola and DRC move forward with Africa's largest electricity interconnection project",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-rdc-avancam-com-maior-projecto-de-interligacao-electrica-de-africa/",
+      "source": "ANGOP",
+      "_key": "2d11f69b7ce6c0c6",
+      "score": 7,
+      "title_cn": "安哥拉与刚果（金）推进非洲最大电力互联项目。"
+    },
+    {
+      "title": "Authorities seize over 4,000 liters of fuel in Huambo province",
+      "url": "https://www.angop.ao/en/noticias/economia/sic-apreende-mais-de-quatro-mil-litros-de-gasolina-no-huambo/",
+      "source": "ANGOP",
+      "_key": "98035850834b9b6e",
+      "score": 7,
+      "title_cn": "万博省当局查获逾4000升燃油。"
+    },
+    {
+      "title": "Angola entre os destaques do Africa CEO Forum 2026, maior encontro empresarial de África",
+      "url": "https://correiokianda.info/angola-entre-os-destaques-do-africa-ceo-forum-2026-maior-encontro-empresarial-de-africa/",
+      "source": "Correio Kianda",
+      "_key": "3b233d29016911a4",
+      "score": 7,
+      "title_cn": "安哥拉成为2026年非洲CEO论坛焦点，该论坛是非洲最大商业盛会。"
+    },
+    {
+      "title": "Álvaro Sobrinho no centro de nova investigação em Portugal: Operação ‘Monte Branco’ revela suspeitas de fraude fiscal e branqueamento de capitais",
+      "url": "https://diariodosnegocios.com/alvaro-sobrinho-no-centro-de-nova-investigacao-em-portugal-operacao-monte-branco-revela-suspeitas-de-fraude-fiscal-e-branqueamento-de-capitais/",
+      "source": "Diário dos Negócios",
+      "_key": "8dd36789d3c79cf3",
+      "score": 7,
+      "title_cn": "阿尔瓦罗·索布里尼奥在葡萄牙受新调查：“白山行动”揭露税务欺诈和洗钱嫌疑。"
+    },
+    {
+      "title": " Álvaro Sobrinho no centro de nova investigação em Portugal: Operação ‘Monte Branco’ revela suspeitas de fraude fiscal e branqueamento de capitais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b92a9540a04fba",
+      "score": 7,
+      "title_cn": "阿尔瓦罗·索布里尼奥在葡萄牙受新调查：“白山行动”揭露税务欺诈和洗钱嫌疑。"
+    },
+    {
+      "title": "Angola focada na construção de uma economia diversificada e industrializada",
+      "url": "https://forbesafricalusofona.com/angola-focada-na-construcao-de-uma-economia-diversificada-e-industrializada/",
+      "source": "Forbes África",
+      "_key": "3e9addada6ffca80",
+      "score": 7,
+      "title_cn": "安哥拉致力于建设多元化和工业化经济。"
+    },
+    {
+      "title": "Consignada empreitada para construção de 122 quilómetros de estrada no Zaire",
+      "url": "https://www.opais.ao/ultimas_hora/consignada-empreitada-para-construcao-de-122-quilometros-de-estrada-no-zaire/",
       "source": "O País",
-      "_key": "e39dca2fbd404e05",
-      "score": 6,
-      "title_cn": "FADA拨付逾10亿宽扎支持纳米贝省项目"
+      "_key": "e5fc2d5f9e884e94",
+      "score": 7,
+      "title_cn": "扎伊尔省122公里道路建设工程合同已签署。"
     },
     {
-      "title": "Destaque Angola na reunião da NEPAD para analisar temas geopolíticos O ministro das Relações Exteriores, Téte António, representa o país, a partir de hoje, em Joanesburgo, na 74.ª sessão ordinária da Comissão da Agência de Desenvolvimento da União Africana - Nova Parceria para o Desenvolvimento de África (AUDA-NEPAD), braço técnico e a agência de execução da União Africana.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676204/angola-na-reuni%C3%A3o-da-nepad-para-analisar-temas-geopol%C3%ADticos-",
+      "title": "Social program Kwenda Benefits 97,000 Families in Lunda-Norte province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/kwenda-beneficia-97-mil-familias-na-lunda-norte/",
+      "source": "ANGOP",
+      "_key": "11a528534feaeaf5",
+      "score": 6,
+      "title_cn": "Kwenda社会计划惠及北隆达省9.7万家庭。"
+    },
+    {
+      "title": "Governo de Benguela reage ao protesto dos sinistrados com promessa de mais de 700 casas",
+      "url": "https://correiokianda.info/governo-de-benguela-reage-ao-protesto-dos-sinistrados-com-promessa-de-mais-de-700-casas/",
+      "source": "Correio Kianda",
+      "_key": "33e375290728e65c",
+      "score": 6,
+      "title_cn": "本戈拉省政府回应受灾者抗议，承诺提供逾700套住房。"
+    },
+    {
+      "title": "Jinping e Trump defendem abertura de Ormuz e desarmamento nuclear do Irão",
+      "url": "https://correiokianda.info/jinping-e-trump-defendem-abertura-de-ormuz-e-desarmamento-nuclear-do-irao/",
+      "source": "Correio Kianda",
+      "_key": "b645d9e4ba837fe5",
+      "score": 6,
+      "title_cn": "习近平与特朗普主张霍尔木兹海峡开放及伊朗核裁军。"
+    },
+    {
+      "title": "Economia Mais de 100 empresários brasileiros convidados a participar na FILDA 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676211/mais-de-100-empres%C3%A1rios-brasileiros-convidados-a-participar-na-filda-2026",
       "source": "Jornal de Angola",
-      "_key": "185303ad2fb30493",
+      "_key": "c9ea2f86e025b243",
+      "score": 6,
+      "title_cn": "逾百名巴西企业家受邀参加2026年FILDA展会。"
+    },
+    {
+      "title": "PONTO AO: CONECTIVIDADE E INOVAÇÃO. Angola na sociedade da informação: conectividade, inclusão e o desafio de transformar acesso em desenvolvimento.",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71813",
+      "source": "Novo Jornal",
+      "_key": "cff055fc9c7044f7",
+      "score": 6,
+      "title_cn": "安哥拉：信息社会中的互联互通、包容与发展挑战。"
+    },
+    {
+      "title": "Presidente da República ‘abraça’ Benguela com 725 casas e vítimas exigem melhoria de condições em centros de acolhimento",
+      "url": "https://www.opais.ao/sociedade/presidente-da-republica-abraca-benguela-com-725-casas-e-vitimas-exigem-melhoria-de-condicoes-em-centros-de-acolhimento/",
+      "source": "O País",
+      "_key": "cf512b2cba87d7c5",
+      "score": 6,
+      "title_cn": "总统为本戈拉省提供725套住房，受害者要求改善收容中心条件。"
+    },
+    {
+      "title": "Firefighters recover three bodies from aggregate extraction mine",
+      "url": "https://www.angop.ao/en/noticias/sociedade/bombeiros-resgatam-tres-cadaveres-em-mina-de-extracao-de-inertes/",
+      "source": "ANGOP",
+      "_key": "6de3ab9a7083e2a8",
       "score": 5,
-      "title_cn": "安哥拉出席非洲发展新伙伴计划（NEPAD）会议，分析地缘政治议题"
+      "title_cn": "消防员从骨料开采矿井寻回三具遗体。"
     },
     {
-      "title": "Angola marca presença na 74.ª Sessão Ordinária da AUDA-NEPAD em Joanesburgo",
-      "url": "https://www.opais.ao/politica/angola-marca-presenca-na-74-a-sessao-ordinaria-da-auda-nepad-em-joanesburgo/",
-      "source": "O País",
-      "_key": "2dc02f6dbc6c6791",
+      "title": "TCUL regista desvio de quase 40% das receitas envolvendo motoristas e cobradores",
+      "url": "https://correiokianda.info/tcul-regista-desvio-de-quase-40-das-receitas-envolvendo-motoristas-e-cobradores/",
+      "source": "Correio Kianda",
+      "_key": "d65cf7333973e9cf",
       "score": 5,
-      "title_cn": "安哥拉出席在约翰内斯堡举行的非洲发展援助新伙伴关系第 74 届常会"
+      "title_cn": "罗安达城市公交公司TCUL：司机与售票员涉嫌侵吞近四成收入。"
+    },
+    {
+      "title": "Destaque Chefe de Estado conversa com dois enviados da República Democrática do Congo O Chefe de Estado, João Lourenço, conversou, esta quinta-feira, no Palácio Presidencial da Cidade Alta, com dois enviados da República Democrática do Congo (RDC), em audiências separadas, soube o Jornal de Angola de fonte oficial.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676210/chefe-de-estado-conversa-com-dois-enviados-da-rep%C3%BAblica-democr%C3%A1tica-do-congo-",
+      "source": "Jornal de Angola",
+      "_key": "4070d9234c5dc264",
+      "score": 5,
+      "title_cn": "总统若昂·洛伦索会见刚果（金）两位特使。"
+    },
+    {
+      "title": "Luanda acolhe 7.ª Conferência Ministerial da Convenção da Corrente de Benguela",
+      "url": "https://www.opais.ao/ultimas_hora/https-www-opais-ao-ultimas_hora-luanda-acolhe-7-a-conferencia-ministerial-da-convencao-da-corrente-de-benguela/",
+      "source": "O País",
+      "_key": "7cf083189e166a04",
+      "score": 5,
+      "title_cn": "罗安达将主办本格拉洋流公约第七届部长级会议。"
     }
   ]
 }
