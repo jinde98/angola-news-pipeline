@@ -1,68 +1,140 @@
 {
   "date": "2026-05-16",
-  "total_extracted": 1648,
-  "total_new": 10,
-  "total_existing": 1638,
+  "total_extracted": 1560,
+  "total_new": 22,
+  "total_existing": 1538,
   "articles": [
     {
-      "title": "Angola stands out at health systems transformation forum in Nairobi",
-      "url": "https://www.angop.ao/en/noticias/saude/angola-destaca-se-no-forum-sobre-transformacao-dos-sistemas-de-saude-em-nairobi/",
+      "title": "Angola seeks solutions at the 13th World Urban Forum to mitigate housing deficit",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-busca-solucoes-para-combate-ao-defice-habitacional-no-13-forum-urbano-mundial/",
       "source": "ANGOP",
-      "_key": "bdd93840a647fe02"
+      "_key": "f0b9366eb74e4eb4"
     },
     {
-      "title": "Destaque AJECO enaltece valorização do Jornalismo Económico para desenvolvimento do paísO secretário para as Tecnologias de Informação e Comunicação da AJECO, Xavier António, enalteceu, sexta-feira, em Luanda, a inclusão da Categoria de Jornalismo Económico nos Prémios Angola Comunica, destacando o seu papel fundamental na análise, interpretação e divulgação das dinâmicas económicas que influenciam o desenvolvimento sustentável do país.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676348/ajeco-enaltece-valoriza%C3%A7%C3%A3o-do-jornalismo-econ%C3%B3mico-para-desenvolvimento-do-pa%C3%ADs",
+      "title": "Housing",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4589",
+      "source": "ANGOP",
+      "_key": "4e3fecb7dcfc8d3a"
+    },
+    {
+      "title": "Angolan Armed Forces Chief of Staff praises high morale and readiness in the Southern Military Region",
+      "url": "https://www.angop.ao/en/noticias/politica/cemg-das-faa-exalta-moral-alto-e-prontidao-na-regiao-militar-sul/",
+      "source": "ANGOP",
+      "_key": "c8d574c16ce65ebd"
+    },
+    {
+      "title": "Angola and Brazil to sign agreement on electricity",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-brasil-assinam-memorando-de-entendimento-no-dominio-da-energia-electrica/",
+      "source": "ANGOP",
+      "_key": "a9454d0858a44d7d"
+    },
+    {
+      "title": "Mobile Clinics provide assistance to Luacano's population",
+      "url": "https://www.angop.ao/en/noticias/saude/carruagens-clinicas-prestam-assistencia-as-populacoes-do-luacano/",
+      "source": "ANGOP",
+      "_key": "521b3c9957f81d7c"
+    },
+    {
+      "title": "Journalist António Campos launches book in Portugal",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/jornalista-antonio-campos-lanca-livro-ola-titila-em-portugal/",
+      "source": "ANGOP",
+      "_key": "8b8fa06b89c3babd"
+    },
+    {
+      "title": "Cape Verdean musician Grace Évora to attend FestiSumbe 2025",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/grace-evora-sera-o-musico-de-maior-destaque-da-3o-edicao-do-festisumbe/",
+      "source": "ANGOP",
+      "_key": "1866d6ab736ae5ee"
+    },
+    {
+      "title": "Democracia interna no MPLA divide opiniões entre analistas políticos",
+      "url": "https://correiokianda.info/democracia-interna-no-mpla-divide-opinioes-entre-analistas-politicos/",
+      "source": "Correio Kianda",
+      "_key": "59bfc1bfc01bcf6c"
+    },
+    {
+      "title": "Condutor é detido após incidente violento com agente no Mercado dos Congoleses",
+      "url": "https://correiokianda.info/condutor-e-detido-apos-incidente-violento-com-agente-no-mercado-dos-congoleses/",
+      "source": "Correio Kianda",
+      "_key": "dd00d0d9a08c3a2f"
+    },
+    {
+      "title": "Gana encerra programa do FMI e aposta agora em autonomia econômica",
+      "url": "https://correiokianda.info/gana-encerra-programa-do-fmi-e-aposta-agora-em-autonomia-economica/",
+      "source": "Correio Kianda",
+      "_key": "cbfd5f0e1b65e0bf"
+    },
+    {
+      "title": "RDC pretende importar mais de 2 mil megawatts de energia a partir de Angola",
+      "url": "https://jornaloguardiao.com/2026/05/16/rdc-pretende-importar-mais-de-2-mil-megawatts-de-energia-a-partir-de-angola/",
+      "source": "Jornal O Guardião",
+      "_key": "12a0687ac1467d86"
+    },
+    {
+      "title": "Surto de ébola no leste da República Democrática do Congo já causou 80 mortos",
+      "url": "https://jornaloguardiao.com/2026/05/16/surto-de-ebola-no-leste-da-republica-democratica-do-congo-ja-causou-80-mortos/",
+      "source": "Jornal O Guardião",
+      "_key": "12ab9c9038d27f34"
+    },
+    {
+      "title": "Executivo começa a processar salários dos jornalistas com progressão de carreira",
+      "url": "https://jornaloguardiao.com/2026/05/16/executivo-comeca-a-processar-salarios-dos-jornalistas-com-progressao-de-carreira/",
+      "source": "Jornal O Guardião",
+      "_key": "ed41bfcabcb8706a"
+    },
+    {
+      "title": "Assembleia Nacional agenda votação final da Lei contra Fake News para 21 de Maio",
+      "url": "https://jornaloguardiao.com/2026/05/16/assembleia-nacional-agenda-votacao-final-da-lei-contra-fake-news-para-21-de-maio/",
+      "source": "Jornal O Guardião",
+      "_key": "029a6a01381e2b0f"
+    },
+    {
+      "title": "Camponeses acusam direcção da ZEE de incumprir acordo de realojamento no Calumbo",
+      "url": "https://jornaloguardiao.com/2026/05/16/camponeses-acusam-direccao-da-zee-de-incumprir-acordo-de-realojamento-no-calumbo/",
+      "source": "Jornal O Guardião",
+      "_key": "4893301c6d015e17"
+    },
+    {
+      "title": " RDC pretende importar mais de 2 mil megawatts de energia a partir de Angola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_874e592b69141a"
+    },
+    {
+      "title": " Surto de ébola no leste da República Democrática do Congo já causou 80 mortos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_60d5822f2d7cb8"
+    },
+    {
+      "title": " Executivo começa a processar salários dos jornalistas com progressão de carreira ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5ef13f71a7f98d"
+    },
+    {
+      "title": " Assembleia Nacional agenda votação final da Lei contra Fake News para 21 de Maio ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6c6b6b6c30fe7a"
+    },
+    {
+      "title": " Camponeses acusam direcção da ZEE de incumprir acordo de realojamento no Calumbo ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8586e5efb15287"
+    },
+    {
+      "title": "Destaque João Lourenço incentiva prática de exercício físico durante época do CacimboO Presidente da República, João Lourenço, afirmou, hoje, ter aproveitado as primeiras horas deste primeiro sábado da época de Cacimbo para pedalar, destacando a importância da prática regular de exercício físico.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676358/jo%C3%A3o-louren%C3%A7o-incentiva-pr%C3%A1tica-de-exerc%C3%ADcio-f%C3%ADsico-durante-%C3%A9poca-do-cacimbo",
       "source": "Jornal de Angola",
-      "_key": "7efc5c4d5d6f2762"
+      "_key": "f4fcf7c1331d95d1"
     },
     {
-      "title": "Economia Angola acolhe Cimeira Financeira de África em Novembro de 2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676331/angola-acolhe-cimeira-financeira--de-%C3%A1frica-em-novembro-de-2026",
-      "source": "Jornal de Angola",
-      "_key": "1add7ac162076a52"
-    },
-    {
-      "title": "DPA continua a frustrar sonhos e participação na solução...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/dpa-continua-a-frustrar-sonhos-e-participacao-na-solucao-dos-problemas-mais-de-um-ano-depois-dizem-especialistas-71848.html",
-      "source": "Novo Jornal",
-      "_key": "8972af4c1118a3e1"
-    },
-    {
-      "title": "Uíge: Apenas três dos 23 municípios da província têm...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/uige-apenas-tres-dos-23-municipios-da-provincia-tem-energia-electrica-71849.html",
-      "source": "Novo Jornal",
-      "_key": "2c4ab9b61b760dc3"
-    },
-    {
-      "title": "Avanço das empreitadas e o mistério dos orçamentos...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/avanco-das-empreitadas-e-o-misterio-dos-orcamentos---mais-espinhos-do-que-rosas-no-porto-do-lobito-71852.html",
-      "source": "Novo Jornal",
-      "_key": "0161a818b77f9e7d"
-    },
-    {
-      "title": "Garimpo de ouro no Bengo leva à detenção mais de 600...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/garimpo-de-ouro-no-bengo-leva-a-detencao-mais-de-600-pessoas-71851.html",
-      "source": "Novo Jornal",
-      "_key": "5d73249072fd5cba"
-    },
-    {
-      "title": "Pavilhão José Sayovo entra em obras 7 meses após inauguração",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/pavilhao-jose-sayovo-entra-em-obras-7-meses-apos-inauguracao-71853.html",
-      "source": "Novo Jornal",
-      "_key": "e6155e65bf5a381b"
-    },
-    {
-      "title": "IMA e BNA assinam memorando para reforçar integração digital",
-      "url": "https://www.opais.ao/economia/ima-e-bna-assinam-memorando-para-reforcar-integracao-digital/",
+      "title": "Huíla regista sismo de magnitude 3.4",
+      "url": "https://www.opais.ao/destaque/huila-regista-sismo-de-magnitude-3-4/",
       "source": "O País",
-      "_key": "1efef6ce186d35a4"
-    },
-    {
-      "title": "Porto do Lobito transfere trabalhadores para a Timoneiro no âmbito da renovação da concessão marítima",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-transfere-trabalhadores-para-a-timoneiro-no-ambito-da-renovacao-da-concessao-maritima/",
-      "source": "O País",
-      "_key": "bd4ead80bb468233"
+      "_key": "7df73e4cf96d6ebd"
     }
   ]
 }

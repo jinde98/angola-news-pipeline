@@ -1,42 +1,35 @@
 {
   "date": "2026-05-16",
-  "total_new": 10,
-  "total_filtered": 5,
+  "total_new": 22,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Porto do Lobito transfere trabalhadores para a Timoneiro no âmbito da renovação da concessão marítima",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-transfere-trabalhadores-para-a-timoneiro-no-ambito-da-renovacao-da-concessao-maritima/",
-      "source": "O País",
-      "_key": "bd4ead80bb468233",
-      "score": 10
-    },
-    {
-      "title": "IMA e BNA assinam memorando para reforçar integração digital",
-      "url": "https://www.opais.ao/economia/ima-e-bna-assinam-memorando-para-reforcar-integracao-digital/",
-      "source": "O País",
-      "_key": "1efef6ce186d35a4",
-      "score": 7
-    },
-    {
-      "title": "Economia Angola acolhe Cimeira Financeira de África em Novembro de 2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676331/angola-acolhe-cimeira-financeira--de-%C3%A1frica-em-novembro-de-2026",
-      "source": "Jornal de Angola",
-      "_key": "1add7ac162076a52",
+      "title": "RDC pretende importar mais de 2 mil megawatts de energia a partir de Angola",
+      "url": "https://jornaloguardiao.com/2026/05/16/rdc-pretende-importar-mais-de-2-mil-megawatts-de-energia-a-partir-de-angola/",
+      "source": "Jornal O Guardião",
+      "_key": "12a0687ac1467d86",
       "score": 6
     },
     {
-      "title": "Garimpo de ouro no Bengo leva à detenção mais de 600...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/garimpo-de-ouro-no-bengo-leva-a-detencao-mais-de-600-pessoas-71851.html",
-      "source": "Novo Jornal",
-      "_key": "5d73249072fd5cba",
+      "title": " RDC pretende importar mais de 2 mil megawatts de energia a partir de Angola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_874e592b69141a",
       "score": 6
     },
     {
-      "title": "Avanço das empreitadas e o mistério dos orçamentos...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/avanco-das-empreitadas-e-o-misterio-dos-orcamentos---mais-espinhos-do-que-rosas-no-porto-do-lobito-71852.html",
-      "source": "Novo Jornal",
-      "_key": "0161a818b77f9e7d",
+      "title": "Angola seeks solutions at the 13th World Urban Forum to mitigate housing deficit",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-busca-solucoes-para-combate-ao-defice-habitacional-no-13-forum-urbano-mundial/",
+      "source": "ANGOP",
+      "_key": "f0b9366eb74e4eb4",
+      "score": 5
+    },
+    {
+      "title": "Angola and Brazil to sign agreement on electricity",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-brasil-assinam-memorando-de-entendimento-no-dominio-da-energia-electrica/",
+      "source": "ANGOP",
+      "_key": "a9454d0858a44d7d",
       "score": 5
     }
   ]
