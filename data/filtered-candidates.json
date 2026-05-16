@@ -1,175 +1,42 @@
 {
   "date": "2026-05-16",
-  "total_new": 74,
-  "total_filtered": 24,
+  "total_new": 10,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Inflação homóloga a cair mas mensal sobe pelo segundo mês consecutivo",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0b4ffc981fab22",
-      "score": 8
-    },
-    {
-      "title": "Global Importance of the Strait of Hormuz – Rui Patrício",
-      "url": "https://www.negociosdeangola.com/en/global-importance-of-the-strait-of-hormuz-rui-patricio/",
-      "source": "Negócios de Angola",
-      "_key": "22fa4b23ace8a715",
-      "score": 8
-    },
-    {
-      "title": "Governo avança com lei que obriga à publicação dos donos...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-avanca-com-lei-que-obriga-a-publicacao-dos-donos-de-sociedades-anonimas-para-travar-testas-de-ferro",
-      "source": "Valor Económico",
-      "_key": "0c8ec30e26651faa",
-      "score": 8
-    },
-    {
-      "title": "Xi Jinping visitará EUA em Setembro deste ano a convite de Trump",
-      "url": "https://correiokianda.info/xi-jinping-visitara-eua-em-setembro-deste-ano-a-convite-de-trump/",
-      "source": "Correio Kianda",
-      "_key": "3ae43039b44f0d9d",
-      "score": 7
-    },
-    {
-      "title": "Energia do Gove chega ao Sul e acelera integração da rede nacional",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_f36becb22064ca",
-      "score": 7
-    },
-    {
-      "title": "China disposta a expandir cooperação e gerir diferenças com EUA com \"cartas na mão\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d48e48fbff1f1c",
-      "score": 7
-    },
-    {
-      "title": "Energia do Gove chega ao Sul e acelera integração da rede nacionalA entrada em operação da linha de transporte de energia a 220 kV entre o Gove e a Matala vai criar condições para uma nova dinâmica económica na Huíla e no Namibe.",
-      "url": "https://expansao.co.ao/angola/detalhe/energia-do-gove-chega-ao-sul-e-acelera-integracao-da-rede-nacional-71856.html",
-      "source": "Expansão",
-      "_key": "b6dc5bca4a6ec104",
-      "score": 7
-    },
-    {
-      "title": "China disposta a expandir cooperação e gerir diferenças com EUA com \"cartas na mão\"O Presidente Trump aterra em Pequim nove anos depois da última visita à China, numa posição de maior fragilidade para negociar com o Presidente Xi Jinping. Inteligência Artificial, energia e terras raras dominam agenda.",
-      "url": "https://expansao.co.ao/mundo/detalhe/china-disposta-a-expandir-cooperacao-e-gerir-diferencas-com-eua-com-cartas-na-mao-71860.html",
-      "source": "Expansão",
-      "_key": "7aab60b888339362",
-      "score": 7
-    },
-    {
-      "title": "IMA e BNA reforçam transformação digital e inclusão financeira em Angola",
-      "url": "https://forbesafricalusofona.com/ima-e-bna-reforcam-transformacao-digital-e-inclusao-financeira-em-angola/",
-      "source": "Forbes África",
-      "_key": "5910f0466d7915d3",
-      "score": 7
-    },
-    {
-      "title": "Economia Memorando prevê interoperabilidade e digitalização de serviços bancários ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676324/memorando-prev%C3%AA-interoperabilidade-e-digitaliza%C3%A7%C3%A3o-de-servi%C3%A7os-banc%C3%A1rios-",
-      "source": "Jornal de Angola",
-      "_key": "ac187b6de0a68f1e",
-      "score": 7
-    },
-    {
-      "title": "International Confidence Dictates Choice of Angola as Host of the African Financial Industry Summit",
-      "url": "https://www.angop.ao/en/noticias/economia/confianca-internacional-dita-escolha-de-angola-como-anfitria-da-cimeira-financeira-de-africa/",
-      "source": "ANGOP",
-      "_key": "d57db9ac5782fddf",
-      "score": 6
-    },
-    {
-      "title": "MINTTICS bets on increasing the sector's contribution to GDP",
-      "url": "https://www.angop.ao/en/noticias/economia/minttics-aposta-no-aumento-da-contribuicao-do-sector-no-pib/",
-      "source": "ANGOP",
-      "_key": "b676c83f326d5584",
-      "score": 6
-    },
-    {
-      "title": "        África4 horas atrás  RDC confirma novo surto de Ebola com 65 mortos em Ituri As autoridades sanitárias da República Democrática do Congo confirmaram um novo surto da Doença do Vírus Ebola na província de Ituri, no leste do país, que...   ",
-      "url": "https://correiokianda.info/rdc-confirma-novo-surto-de-ebola-com-65-mortos-em-ituri/",
-      "source": "Correio Kianda",
-      "_key": "d9a3bd3f77dfdfa7",
-      "score": 6
-    },
-    {
-      "title": "Aprovados 356,8 mil milhões Kz para reparar danos das cheias em Benguela",
-      "url": "https://expansao.co.ao/angola/detalhe/aprovados-3568-mil-milhoes-kz-para-reparar-danos-das-cheias-em-benguela-71855.html",
-      "source": "Expansão",
-      "_key": "f5264e6a47f70c5e",
-      "score": 6
-    },
-    {
-      "title": "09:30 / 16 mai. 2026 Avaliada capacidade operativa das forças de segurança pública ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676292/avaliada-capacidade-operativa-das-for%C3%A7as-de-seguran%C3%A7a-p%C3%BAblica",
-      "source": "Jornal de Angola",
-      "_key": "ede12d63a2601de3",
-      "score": 6
-    },
-    {
-      "title": "Angola Launches Civil Aviation Academy Aligned with International Standards",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9801",
-      "source": "Negócios de Angola",
-      "_key": "82a439b643d96a87",
-      "score": 6
-    },
-    {
-      "title": "Zona de garimpo ilegal de ouro desactivada no Huambo",
-      "url": "https://www.opais.ao/destaque/zona-de-garimpo-ilegal-de-ouro-desactivada-no-huambo/",
+      "title": "Porto do Lobito transfere trabalhadores para a Timoneiro no âmbito da renovação da concessão marítima",
+      "url": "https://www.opais.ao/economia/porto-do-lobito-transfere-trabalhadores-para-a-timoneiro-no-ambito-da-renovacao-da-concessao-maritima/",
       "source": "O País",
-      "_key": "c9ae537355d0eb22",
+      "_key": "bd4ead80bb468233",
+      "score": 10
+    },
+    {
+      "title": "IMA e BNA assinam memorando para reforçar integração digital",
+      "url": "https://www.opais.ao/economia/ima-e-bna-assinam-memorando-para-reforcar-integracao-digital/",
+      "source": "O País",
+      "_key": "1efef6ce186d35a4",
+      "score": 7
+    },
+    {
+      "title": "Economia Angola acolhe Cimeira Financeira de África em Novembro de 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676331/angola-acolhe-cimeira-financeira--de-%C3%A1frica-em-novembro-de-2026",
+      "source": "Jornal de Angola",
+      "_key": "1add7ac162076a52",
       "score": 6
     },
     {
-      "title": "Vandalismo de bens públicos pode ser punido com até 15 anos de prisão em Angola",
-      "url": "https://correiokianda.info/vandalismo-de-bens-publicos-pode-ser-punido-com-ate-15-anos-de-prisao-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "69f33b037406fc23",
-      "score": 5
+      "title": "Garimpo de ouro no Bengo leva à detenção mais de 600...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/garimpo-de-ouro-no-bengo-leva-a-detencao-mais-de-600-pessoas-71851.html",
+      "source": "Novo Jornal",
+      "_key": "5d73249072fd5cba",
+      "score": 6
     },
     {
-      "title": "IGAE denuncia actos de má conduta por parte de dirigentes públicos",
-      "url": "https://correiokianda.info/igae-denuncia-actos-de-ma-conduta-por-parte-de-dirigentes-publicos/",
-      "source": "Correio Kianda",
-      "_key": "da817c3b7be0b191",
-      "score": 5
-    },
-    {
-      "title": "        África3 horas atrás  Surto de Ébola: África reforça vigilância e resposta conjunta na região dos Grandes Lagos O Africa CDC anunciou que está a colaborar activamente com as autoridades de saúde da República Democrática do Congo e do Uganda, bem como com parceiros...   ",
-      "url": "https://correiokianda.info/surto-de-ebola-africa-reforca-vigilancia-e-resposta-conjunta-na-regiao-dos-grandes-lagos/",
-      "source": "Correio Kianda",
-      "_key": "689cfd5e7bf4b415",
-      "score": 5
-    },
-    {
-      "title": "Movicel reactiva oito lojas em Luanda e liquida 15% de salários em atraso desde 2024",
-      "url": "https://diariodosnegocios.com/movicel-reactiva-oito-lojas-em-luanda-e-liquida-15-de-salarios-em-atraso-desde-2024/",
-      "source": "Diário dos Negócios",
-      "_key": "bacb62df40a54efa",
-      "score": 5
-    },
-    {
-      "title": " Movicel reactiva oito lojas em Luanda e liquida 15% de salários em atraso desde 2024 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_2461410791c937",
-      "score": 5
-    },
-    {
-      "title": "Fidelidade Angola regista resultado líquido de exploração de 1.405,4 milhões de kwanzas",
-      "url": "https://forbesafricalusofona.com/fidelidade-angola-regista-resultado-liquido-de-exploracao-de-1-4054-milhoes-de-kwanzas/",
-      "source": "Forbes África",
-      "_key": "2dd7065a93c1c63f",
-      "score": 5
-    },
-    {
-      "title": "Motorista detido após arrastar agente regulador de trânsito no Mercado dos Congoleses",
-      "url": "https://www.opais.ao/destaque/motorista-detido-apos-arrastar-agente-regulador-de-transito-no-mercado-dos-congoleses/",
-      "source": "O País",
-      "_key": "e8e829865ddabf58",
+      "title": "Avanço das empreitadas e o mistério dos orçamentos...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/avanco-das-empreitadas-e-o-misterio-dos-orcamentos---mais-espinhos-do-que-rosas-no-porto-do-lobito-71852.html",
+      "source": "Novo Jornal",
+      "_key": "0161a818b77f9e7d",
       "score": 5
     }
   ]
