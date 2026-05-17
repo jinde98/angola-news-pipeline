@@ -1,48 +1,64 @@
 {
   "date": "2026-05-17",
-  "total_new": 11,
-  "total_filtered": 5,
+  "total_new": 18,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Surto de Ebola declarado uma emergência de preocupação internacional",
-      "url": "https://correiokianda.info/surto-de-ebola-declarado-uma-emergencia-de-preocupacao-internacional/",
+      "title": "Presidente João Lourenço extingue Observatório contra Imigração dois anos após a sua criação",
+      "url": "https://correiokianda.info/presidente-joao-lourenco-extingue-observatorio-contra-imigracao-dois-anos-apos-a-sua-criacao/",
       "source": "Correio Kianda",
-      "_key": "3ab990564f1558d6",
+      "_key": "efaf05b6a4227e7d",
       "score": 8,
-      "title_cn": "埃博拉疫情被宣布为国际关注的突发公共卫生事件"
+      "title_cn": "总统若昂·洛伦索(João Lourenço)废除成立两年的移民观察站"
     },
     {
-      "title": "Mundo OMS declara emergência de saúde pública mundial devido a surto de ébola ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676416/oms-declara-emerg%C3%AAncia-de-sa%C3%BAde-p%C3%BAblica-mundial-devido-a-surto-de-%C3%A9bola",
+      "title": "AGT apreende mais de 1,6 milhões de dólares que saíam do país de forma ilegal",
+      "url": "https://correiokianda.info/agt-apreende-mais-de-16-milhoes-de-dolares-saiam-do-pais-de-forma-ilegal/",
+      "source": "Correio Kianda",
+      "_key": "931d9dae9df5d582",
+      "score": 7,
+      "title_cn": "安哥拉税务总局查获逾160万美元非法出境资金"
+    },
+    {
+      "title": "Organismo africano alerta que crescimento económico continua incapaz de travar pobreza em Angola",
+      "url": "https://correiokianda.info/organismo-africano-alerta-que-crescimento-economico-continua-incapaz-de-travar-pobreza-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "d96c9e334960e9fa",
+      "score": 6,
+      "title_cn": "非洲机构警告：安哥拉经济增长仍无法遏制贫困"
+    },
+    {
+      "title": "Destaque Supremo examina responsabilidades criminais de \"ordens da saque\" da ex-ministra das PescasTinha chegado ao cargo de ministra das Pescas há um ano e alguns meses, quando Vitória de Barros Neto soube que o Executivo de José Eduardo dos Santos gizou um projecto de relançamento da indústria pesqueira.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676418/supremo-examina-responsabilidades-criminais-de-%22ordens-da-saque%22-da-ex-ministra-das-pescas",
       "source": "Jornal de Angola",
-      "_key": "aca2a7dafc3891f3",
-      "score": 8,
-      "title_cn": "世卫组织因埃博拉疫情宣布全球突发公共卫生事件"
-    },
-    {
-      "title": "Police women's operation seizes firearms in Huíla province",
-      "url": "https://www.angop.ao/en/noticias/sociedade/operacao-dirigida-por-efectivo-feminino-apreende-armas-de-fogo-na-huila/",
-      "source": "ANGOP",
-      "_key": "700ba9f8a9267e8b",
+      "_key": "10e75d9aba4a36f8",
       "score": 6,
-      "title_cn": "安哥拉威拉省女警行动查获多支枪械"
+      "title_cn": "最高法院审查前渔业部长维多利亚·德·巴罗斯·内托(Vitória de Barros Neto)“掠夺令”的刑事责任"
     },
     {
-      "title": "Over 1850 road accident reported in Angola in 2026 first quarter",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-regista-1-854-acidentes-de-viacao-no-primeiro-trimestre/",
+      "title": "Advances in housing sector mark Angola's presence at the 13th World Urban Forum in Baku",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-avancos-no-sector-da-habitacao-no-13-forum-urbano-mundial-de-baku/",
       "source": "ANGOP",
-      "_key": "6514b687da14b75a",
-      "score": 6,
-      "title_cn": "安哥拉2026年第一季度报告逾1850起交通事故"
-    },
-    {
-      "title": "Taiwan reafirma soberania após declarações de Trump sobre encontro com Xi Jinping",
-      "url": "https://correiokianda.info/taiwan-reafirma-soberania-apos-declaracoes-de-trump-sobre-encontro-com-xi-jinping/",
-      "source": "Correio Kianda",
-      "_key": "93cacb3df1057b8c",
+      "_key": "55e8803a39335640",
       "score": 5,
-      "title_cn": "特朗普（Trump）谈及与习近平会晤后，台湾重申主权"
+      "title_cn": "住房部门的进步标志着安哥拉参加在巴库举行的第十三届世界城市论坛"
+    },
+    {
+      "title": "Destaque Baku: Angola defende implementação da Nova Agenda Urbana O ministro das Obras Públicas, Urbanismo e Habitação, Carlos Alberto dos Santos, defendeu, este domingo, a implementação da Nova Agenda Urbana durante a Reunião Ministerial de Avaliação Intercalar da sua execução, realizada no quadro da 13.ª sessão do Fórum Urbano Mundial.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676421/baku:-angola-defende-implementa%C3%A7%C3%A3o-da-nova-agenda-urbana-",
+      "source": "Jornal de Angola",
+      "_key": "e328b828d46b2e68",
+      "score": 5,
+      "title_cn": "巴库：安哥拉倡导实施新城市议程"
+    },
+    {
+      "title": "‎Angola defende implementação da Nova Agenda Urbana no Fórum Mundial do sector",
+      "url": "https://www.opais.ao/politica/angola-defende-implementacao-da-nova-agenda-urbana-no-forum-mundial-do-sector/",
+      "source": "O País",
+      "_key": "a89905ecb8f911a8",
+      "score": 5,
+      "title_cn": "安哥拉在世界城市论坛上倡导实施新城市议程"
     }
   ]
 }
