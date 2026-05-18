@@ -1,7 +1,288 @@
 {
-  "date": "2026-05-17",
-  "total_new": 2,
-  "total_filtered": 0,
+  "date": "2026-05-18",
+  "total_new": 123,
+  "total_filtered": 40,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "EXPANSÃO EM DIRECTO: DESTAQUES DA SEMANA. Degradação das contas da Sonangol leva Conselho Fiscal a emitir sinais de alerta.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=71887",
+      "source": "Novo Jornal",
+      "_key": "b00a6da68840d083",
+      "score": 9
+    },
+    {
+      "title": "LUANDA DOWNTOWN: A INDÚSTRIA PETROLÍFERA. A performance do IDE não petrolífero.",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=71888",
+      "source": "Novo Jornal",
+      "_key": "ba15f0634b759d6e",
+      "score": 9
+    },
+    {
+      "title": "Embaixada de Angola na China aprova plano diplomático e consular para 2026/2027",
+      "url": "https://www.opais.ao/politica/embaixada-de-angola-na-china-aprova-plano-diplomatico-e-consular-para-2026-2027/",
+      "source": "O País",
+      "_key": "26ec6f144be5045a",
+      "score": 9
+    },
+    {
+      "title": "Agricultura ultrapassa petróleo e torna-se o maior motor económico do...",
+      "url": "https://valoreconomico.co.ao/artigo/agricultura-ultrapassa-petroleo-e-torna-se-o-maior-motor-economico-do-pais-afirma-ministro",
+      "source": "Valor Económico",
+      "_key": "fbf9f8e790da9356",
+      "score": 9
+    },
+    {
+      "title": "Angola invests more than USD 350 million in the Sona and Njila projects",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-investe-mais-de-usd-350-milhoes-nos-projectos-sona-e-njila/",
+      "source": "ANGOP",
+      "_key": "27511cc2baa81e70",
+      "score": 8
+    },
+    {
+      "title": "Pecuária cresce mas importações de carne ficam acima de 600 milhões USD/ano",
+      "url": "https://expansao.co.ao/angola/detalhe/pecuaria-cresce-mas-importacoes-de-carne-ficam-acima-de-600-milhoes-usdano-71875.html",
+      "source": "Expansão",
+      "_key": "938250a3edba93f1",
+      "score": 8
+    },
+    {
+      "title": "Mundo Hong Kong reforça controlo a viajantes vindos de África devido ao Ébola ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676487/hong-kong-refor%C3%A7a-controlo-a-viajantes-vindos-de-%C3%A1frica-devido-ao-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "43bd9a5a9655e8ea",
+      "score": 8
+    },
+    {
+      "title": "Mundo OMS declara emergência de saúde pública internacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676451/oms-declara-emerg%C3%AAncia-de-sa%C3%BAde-p%C3%BAblica-internacional",
+      "source": "Jornal de Angola",
+      "_key": "c546b13a1d1fa7b3",
+      "score": 8
+    },
+    {
+      "title": "Carros fora de circulação podem ser desassociados do pagamento do IVM",
+      "url": "https://www.opais.ao/economia/carros-fora-de-circulacao-podem-ser-desassociados-do-pagamento-do-ivm/",
+      "source": "O País",
+      "_key": "c806ffa24fa0e6fa",
+      "score": 8
+    },
+    {
+      "title": "Angola presents mining and energy potential in Madrid",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-potencial-mineiro-e-energetico-em-madrid/",
+      "source": "ANGOP",
+      "_key": "2c2c5a520ee5e32e",
+      "score": 7
+    },
+    {
+      "title": "New infrastructure ensures greater sales control of the Tômbwa Fishing Port",
+      "url": "https://www.angop.ao/en/noticias/economia/novas-infra-estruturas-garantem-maior-controlo-de-venda-do-porto-pesqueiro-do-tombwa/",
+      "source": "ANGOP",
+      "_key": "28ccea17d2bab634",
+      "score": 7
+    },
+    {
+      "title": "Auditor volta a levantar dúvidas sobre imparidades e recuperação de crédito do BDA",
+      "url": "https://expansao.co.ao/empresas/detalhe/auditor-volta-a-levantar-duvidas-sobre-imparidades-e-recuperacao-de-credito-do-bda-71878.html",
+      "source": "Expansão",
+      "_key": "0feb02066712f795",
+      "score": 7
+    },
+    {
+      "title": "Eleições 2027: Analistas antevêem hipótese de terceiro mandato indirecto de João Lourenço",
+      "url": "https://holdonangola.com/eleicoes-2027-analistas-anteveem-hipotese-de-terceiro-mandato-indirecto-de-joao-lourenco/",
+      "source": "Hold On Angola",
+      "_key": "8eac01c03a7c65f8",
+      "score": 7
+    },
+    {
+      "title": "Investimento na indústria do peixe: O julgamento de um desvio do interesse públicoQuando, em 2013, o Executivo do Presidente José Eduardo dos Santos desembolsou 300 milhões de kwanzas (3 milhões de dólares ao câmbio de então), para a execução de um projecto destinado a melhorar o sistema de distribuição do pescado no país, o “Acto I” da então ministra das Pescas, Vitória Francisco Lopes de Barros Neto, foi assinar ordens de levantamento de verbas para a compra de viaturas de luxo para o pessoal ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676433/investimento-na-ind%C3%BAstria-do-peixe:--o-julgamento-de-um-desvio-do-interesse-p%C3%BAblico",
+      "source": "Jornal de Angola",
+      "_key": "cb043e6d71512e3b",
+      "score": 7
+    },
+    {
+      "title": "Destaque País apresenta potencial mineiro e energético em MadridO país vai apresentar, hoje, em Madrid, Espanha, o potencial mineiro e energético num Fórum de Negócios que reúne investidores europeus e líderes angolanos.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676468/pa%C3%ADs-apresenta-potencial-mineiro-e-energ%C3%A9tico-em-madrid",
+      "source": "Jornal de Angola",
+      "_key": "91c46507dd895aa9",
+      "score": 7
+    },
+    {
+      "title": "Economia / Há 2 horas Angola apresenta potencial mineiro a investidores espanhóis ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676460/angola-apresenta-potencial-mineiro-a-investidores-espanh%C3%B3is",
+      "source": "Jornal de Angola",
+      "_key": "779af1887bb9fad5",
+      "score": 7
+    },
+    {
+      "title": "Mundo18/05/2026RDC sem vacinas para nova estirpe de ébola ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676458/rdc-sem-vacinas-para-nova-estirpe-de-%C3%A9bola-",
+      "source": "Jornal de Angola",
+      "_key": "4f4f4d3d5247bf92",
+      "score": 7
+    },
+    {
+      "title": "MINFIN avança com construção da nova sede, mas valor...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/minfin-avanca-com-construcao-da-nova-sede-mas-valor-da-empreitada-nao-consta-no-pac-71844.html",
+      "source": "Novo Jornal",
+      "_key": "cc7d5b735f4e1488",
+      "score": 7
+    },
+    {
+      "title": "RDC: Novo surto de Ébola é o mais perigoso de sempre...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdc-novo-surto-de-ebola-e-o-mais-perigoso-de-sempre-porque-nao-ha-vacina-para-esta-estirpe-do-virus-oms-decreta-crise-global-de-saude-publica-71869.html",
+      "source": "Novo Jornal",
+      "_key": "dfd54c8d704ade63",
+      "score": 7
+    },
+    {
+      "title": "Mara Quiosa destaca importância da continuidade de João Lourenço na liderança do partido",
+      "url": "https://www.opais.ao/politica/mara-quiosa-destaca-importancia-da-continuidade-de-joao-lourenco-na-lideranca-do-partido/",
+      "source": "O País",
+      "_key": "9f78f234b0850b4e",
+      "score": 7
+    },
+    {
+      "title": "Angola afirma-se como plataforma económica dinâmica na atracção do investimento no africa ceo Forum",
+      "url": "https://www.opais.ao/economia/angola-afirma-se-como-plataforma-economica-dinamica-na-atraccao-do-investimento-no-africa-ceo-forum/",
+      "source": "O País",
+      "_key": "626cd9aaee71a546",
+      "score": 7
+    },
+    {
+      "title": "Angola continua sem ser capaz de transformar a agricultura em riqueza",
+      "url": "https://expansao.co.ao/angola/detalhe/angola-continua-sem-ser-capaz-de-transformar-a-agricultura-em-riqueza-71871.html",
+      "source": "Expansão",
+      "_key": "474d8303d8b11eb3",
+      "score": 6
+    },
+    {
+      "title": "Aprovados 356,8 mil milhões Kz para reparar danos das cheias em Benguela",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8236a75f61ab56",
+      "score": 6
+    },
+    {
+      "title": "Crédito à habitação disponibilizou apenas 102,6 mil milhões Kz em 4 anos",
+      "url": "https://expansao.co.ao/economia/detalhe/credito-a-habitacao-disponibilizou-apenas-1026-mil-milhoes-kz-em-4-anos-71874.html",
+      "source": "Expansão",
+      "_key": "677b65f1b13f1438",
+      "score": 6
+    },
+    {
+      "title": "Regiões Electrificação no Huambo concluída no final de 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676476/electrifica%C3%A7%C3%A3o-no-huambo-conclu%C3%ADda-no-final-de-2026",
+      "source": "Jornal de Angola",
+      "_key": "7d4699a71f2d1137",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 2 horas Acesso ao financiamento rural impulsiona a produção agrícola ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676465/acesso-ao-financiamento-rural-impulsiona-a-produ%C3%A7%C3%A3o-agr%C3%ADcola-",
+      "source": "Jornal de Angola",
+      "_key": "315b1d1226dc6717",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 2 horas Estudos elevam novo ciclo de expansão de empresas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676461/estudos-elevam-novo-ciclo-de-expans%C3%A3o-de-empresas-",
+      "source": "Jornal de Angola",
+      "_key": "4b26eceed4f73813",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 2 horas SanlamAllianz Angola atinge prémios brutos de 54,01 mil milhões de kwanzas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676459/sanlamallianz-angola-atinge-pr%C3%A9mios-brutos-de-5401-mil-milh%C3%B5es-de-kwanzas",
+      "source": "Jornal de Angola",
+      "_key": "44f483aff4805ec6",
+      "score": 6
+    },
+    {
+      "title": "Polícia em Luanda detém mais de cem cidadãos durante o fim-de-semana",
+      "url": "https://www.opais.ao/ultimas_hora/policia-em-luanda-detem-mais-de-cem-cidadaos-durante-o-fim-de-semana/",
+      "source": "O País",
+      "_key": "8e1c87ac0a47df95",
+      "score": 6
+    },
+    {
+      "title": "Expo Cuanza-Norte 2026 prevê volume de negócios de cerca de 900 milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/expo-cuanza-norte-2026-preve-volume-de-negocios-de-cerca-de-900-milhoes-de-kwanzas/",
+      "source": "O País",
+      "_key": "96eef42cbcf9f76d",
+      "score": 6
+    },
+    {
+      "title": "Huambo regista avanços nos programas de electrificação",
+      "url": "https://www.opais.ao/ultimas_hora/huambo-regista-avancos-nos-programas-de-electrificacao/",
+      "source": "O País",
+      "_key": "db0c0fd6e10a9945",
+      "score": 6
+    },
+    {
+      "title": "Angola challenges UN-Habitat to accelerate implementation of the new urban agenda",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-desafia-onu-habitat-a-acelerar-implementacao-da-nova-agenda-urbana/",
+      "source": "ANGOP",
+      "_key": "1a45de264e3eb8fc",
+      "score": 5
+    },
+    {
+      "title": "Angola and Brazil sign agreement to strengthen legal cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-brasil-assinam-acordo-para-fortalecimento-da-cooperacao-juridica/",
+      "source": "ANGOP",
+      "_key": "a31483e1ba8e2494",
+      "score": 5
+    },
+    {
+      "title": "Falta de acessos impede expansão económica do município do Quiculungo no Cuanza Norte",
+      "url": "https://correiokianda.info/falta-de-acessos-impede-expansao-economica-do-municipio-do-quiculungo-no-cuanza-norte/",
+      "source": "Correio Kianda",
+      "_key": "f2c781eb677ef33d",
+      "score": 5
+    },
+    {
+      "title": "Economia / Há 2 horas Camponeses aumentam o cultivo de milho e feijão ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676464/camponeses-aumentam-o-cultivo-de-milho-e-feij%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "b4370729fe88ae69",
+      "score": 5
+    },
+    {
+      "title": "Economia / Há 2 horas Empresário angolano aposta na agricultura ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676463/empres%C3%A1rio-angolano-aposta-na-agricultura",
+      "source": "Jornal de Angola",
+      "_key": "731c1ffda0e8ccba",
+      "score": 5
+    },
+    {
+      "title": "Economia / Há 2 horas Fazenda Agro-industrial do Longa inicia colheita de 700 toneladas de arroz ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676462/fazenda-agro-industrial-do-longa-inicia-colheita-de-700-toneladas-de-arroz",
+      "source": "Jornal de Angola",
+      "_key": "4d7b59cae3246728",
+      "score": 5
+    },
+    {
+      "title": "Ministro apela ONU-habitat a acelerar implementação da nova agenda urbana",
+      "url": "https://www.opais.ao/politica/ministro-apela-onu-habitat-a-acelerar-implementacao-da-nova-agenda-urbana/",
+      "source": "O País",
+      "_key": "44d71d51a6db7fcb",
+      "score": 5
+    },
+    {
+      "title": "Jovens auditores da CPLP analisam controlo externo das finanças públicas em Luanda",
+      "url": "https://www.opais.ao/politica/jovens-auditores-da-cplp-analisam-controlo-externo-das-financas-publicas-em-luanda/",
+      "source": "O País",
+      "_key": "8590e6a116ad58ec",
+      "score": 5
+    },
+    {
+      "title": "Nova agenda urbana",
+      "url": "https://www.opais.ao/opiniao/nova-agenda-urbana/",
+      "source": "O País",
+      "_key": "d69d22b700b6d816",
+      "score": 5
+    }
+  ]
 }
