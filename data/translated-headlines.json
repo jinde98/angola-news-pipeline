@@ -1,200 +1,344 @@
 {
-  "date": "2026-05-18",
-  "total_new": 70,
-  "total_filtered": 24,
+  "date": "2026-05-19",
+  "total_new": 134,
+  "total_filtered": 42,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Guerra no Irão atira economia mundial para momento “muito crítico”,...",
-      "url": "https://valoreconomico.co.ao/artigo/guerra-no-irao-atira-economia-mundial-para-momento-muito-critico-avisa-fmi",
-      "source": "Valor Económico",
-      "_key": "96cdb499a7b59286",
-      "score": 10,
-      "title_cn": "伊朗战争将世界经济推向“非常严峻”的时刻"
-    },
-    {
-      "title": "AGT apreende dois contentores com 199 motores indevidamente declarados no Porto de Luanda",
-      "url": "https://correiokianda.info/agt-apreende-dois-contentores-com-199-motores-indevidamente-declarados-no-porto-de-luanda/",
-      "source": "Correio Kianda",
-      "_key": "03fe8b2b5e371673",
-      "score": 9,
-      "title_cn": "安哥拉税务总局在罗安达港查获两集装箱199台虚报发动机"
-    },
-    {
-      "title": "Agricultura ultrapassa petróleo e representa 25,43% do PIB em 2025",
-      "url": "https://diariodosnegocios.com/agricultura-ultrapassa-petroleo-e-representa-2543-do-pib-em-2025/",
-      "source": "Diário dos Negócios",
-      "_key": "f157da1785efab01",
-      "score": 9,
-      "title_cn": "2025年农业将超越石油，占GDP的25.43%"
-    },
-    {
-      "title": " Agricultura ultrapassa petróleo e representa 25,43% do PIB em 2025 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8f119e8c5f10be",
-      "score": 9,
-      "title_cn": "2025 年农业超过石油 ， 占 GDP 的 25.43%"
-    },
-    {
-      "title": "Oxford Economics revê em baixa inflação em Angola para 11,2%",
-      "url": "https://forbesafricalusofona.com/oxford-economics-reve-em-baixa-inflacao-em-angola-para-112/",
-      "source": "Forbes África",
-      "_key": "0f968e9a4c397263",
-      "score": 9,
-      "title_cn": "牛津经济研究院下调安哥拉通胀预期至11.2%"
-    },
-    {
-      "title": "Governo quer mais eficiência e controlo na execução de obras públicas",
-      "url": "https://correiokianda.info/governo-quer-mais-eficiencia-e-controlo-na-execucao-de-obras-publicas/",
-      "source": "Correio Kianda",
-      "_key": "8cd76955af4ae1de",
-      "score": 8,
-      "title_cn": "安哥拉政府寻求提高公共工程实施效率和监管"
-    },
-    {
-      "title": "Sociedade Sistema Integrado de Gestão do Programa de Investimento Público apresentado hoje ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676495/sistema-integrado-de-gest%C3%A3o-do-programa-de-investimento-p%C3%BAblico-apresentado-hoje",
+      "title": "Destaque Brent recupera para 111 dólares com novas tensões no Médio OrienteO barril de petróleo Brent recuperou, na segunda-feira, para os 111 dólares no mercado de futuros de Londres, depois de ter tocado nos 106 dólares, num contexto de novas tensões no Médio Oriente.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676535/brent-recupera-para-111-d%C3%B3lares-com-novas-tens%C3%B5es-no-m%C3%A9dio-oriente",
       "source": "Jornal de Angola",
-      "_key": "0ed137266a0dd1bf",
-      "score": 8,
-      "title_cn": "公共投资计划综合管理系统今日发布"
+      "_key": "32e39ed1e57a5597",
+      "score": 10,
+      "title_cn": "布伦特原油因中东紧张局势回升至111美元"
     },
     {
-      "title": "Executivo lança Sistema Integrado de Gestão do Programa de Investimento",
-      "url": "https://www.opais.ao/economia/executivo-lanca-sistema-integrado-de-gestao-do-programa-de-investimento/",
-      "source": "O País",
-      "_key": "053cc1c5d3be7118",
-      "score": 8,
-      "title_cn": "安哥拉政府推出投资计划综合管理系统"
-    },
-    {
-      "title": "Angola vai fornecer mais de 2.000 megawatts de energia à RDC",
-      "url": "https://angola24horas.com/sociedade/item/34347-angola-vai-fornecer-mais-de-2-000-megawatts-de-energia-a-rdc",
-      "source": "Angola 24 Horas",
-      "_key": "e69588c9c6d1ccfd",
-      "score": 7,
-      "title_cn": "安哥拉将向刚果民主共和国提供逾2000兆瓦电力"
-    },
-    {
-      "title": "BNA continua a financiar Banco Económico apesar de dívida acumulada de 259,6 milhões de euros",
-      "url": "https://angola24horas.com/economia/item/34341-bna-continua-a-financiar-banco-economico-apesar-de-divida-acumulada-de-259-6-milhoes-de-euros",
-      "source": "Angola 24 Horas",
-      "_key": "386aeb60b3918793",
-      "score": 7,
-      "title_cn": "安哥拉国家银行继续资助经济银行，尽管其累计债务达2.596亿欧元"
-    },
-    {
-      "title": "BNA e IMA unem forças para desburocratizar acesso a serviços financeiros e públicos em Angola",
-      "url": "https://diariodosnegocios.com/bna-e-ima-unem-forcas-para-desburocratizar-acesso-a-servicos-financeiros-e-publicos-em-angola/",
+      "title": "Reservas Internacionais de Angola sobem para 15,90 mil milhões USD em 2025 apesar da forte queda das receitas petrolíferas",
+      "url": "https://diariodosnegocios.com/reservas-internacionais-de-angola-sobem-para-1590-mil-milhoes-usd-em-2025-apesar-da-forte-queda-das-receitas-petroliferas/",
       "source": "Diário dos Negócios",
-      "_key": "53591e046c8df931",
-      "score": 7,
-      "title_cn": "安哥拉国家银行与IMA联手简化安哥拉金融和公共服务获取流程"
+      "_key": "5b2bb1990d88b5ce",
+      "score": 9,
+      "title_cn": "尽管石油收入大跌，安哥拉国际储备预计2025年升至159亿美元"
     },
     {
-      "title": " BNA e IMA unem forças para desburocratizar acesso a serviços financeiros e públicos em Angola ",
+      "title": " Reservas Internacionais de Angola sobem para 15,90 mil milhões USD em 2025 apesar da forte queda das receitas petrolíferas ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_500f3e7c3d0215",
-      "score": 7,
-      "title_cn": "安哥拉国家银行与IMA联手简化安哥拉金融和公共服务获取流程"
+      "_key": "t_a1062e9781ecb2",
+      "score": 9,
+      "title_cn": "尽管石油收入大跌，安哥拉国际储备预计2025年升至159亿美元"
     },
     {
-      "title": "Angola and DRC Advance Historic 2,000 MW Energy Project",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9899",
-      "source": "Negócios de Angola",
-      "_key": "9703b5e5b19dc8a4",
-      "score": 7,
-      "title_cn": "安哥拉与刚果民主共和国推进历史性2000兆瓦能源项目"
-    },
-    {
-      "title": "Governo angolano apresenta hoje potencial mineiro e energético em Espanha",
-      "url": "https://www.opais.ao/economia/governo-angolano-apresenta-hoje-potencial-mineiro-e-energetico-em-espanha/",
+      "title": "Agência Italiana para o Comércio vai capacitar 50 empresas agrícolas ao longo do Corredor do Lobito",
+      "url": "https://www.opais.ao/economia/agencia-italiana-para-o-comercio-vai-capacitar-50-empresas-agricolas-ao-longo-do-corredor-do-lobito/",
       "source": "O País",
-      "_key": "c0e6aa4693cd7458",
-      "score": 7,
-      "title_cn": "安哥拉政府今日在西班牙展示矿产和能源潜力"
+      "_key": "7d2adacde314538a",
+      "score": 9,
+      "title_cn": "意大利贸易署将培训洛比托走廊沿线50家农业企业"
     },
     {
-      "title": "Governo lança plataforma digital para reforçar controlo e transparência da...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-lanca-plataforma-digital-para-reforcar-controlo-e-transparencia-da-despesa-publica",
+      "title": "Governador do BNA afirma que Angola já não está em...",
+      "url": "https://valoreconomico.co.ao/artigo/governador-do-bna-afirma-que-angola-ja-nao-esta-em-crise-e-entrou-em-fase-ascendente",
       "source": "Valor Económico",
-      "_key": "b5c45c317f1177a9",
+      "_key": "4bfcd3773dd7b941",
+      "score": 9,
+      "title_cn": "安哥拉国家银行行长称安哥拉已摆脱困境"
+    },
+    {
+      "title": "Italy announces training for 50 companies along the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/italia-anuncia-formacao-de-50-empresas-ao-longo-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "f85ba6baa2b133b0",
+      "score": 8,
+      "title_cn": "意大利宣布将培训洛比托走廊沿线50家企业"
+    },
+    {
+      "title": "Gestão do investimento público em Angola com fragilidades e processos morosos, admite Governo",
+      "url": "https://forbesafricalusofona.com/gestao-do-investimento-publico-em-angola-com-fragilidades-e-processos-morosos-admite-governo/",
+      "source": "Forbes África",
+      "_key": "ab6fda35fe062a8a",
+      "score": 8,
+      "title_cn": "安哥拉政府承认公共投资管理薄弱且流程缓慢"
+    },
+    {
+      "title": "Estabilidade política e fiscal é favorável ao investimento de longo prazo no paísO ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo, assegurou, segunda-feira, em Madrid, Espanha, que a estabilidade política, jurídica e fiscal vigente em Angola configura o elemento fundamental para a atracção do investimento de longo prazo no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676505/estabilidade-pol%C3%ADtica-e-fiscal-%C3%A9-favor%C3%A1vel--ao-investimento-de-longo-prazo-no-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "2c14a6f395977b04",
+      "score": 8,
+      "title_cn": "矿产石油和天然气部长称政治财政稳定利于长期投资"
+    },
+    {
+      "title": "Angola regains position as the 3rd largest economy in Sub-Saharan Africa",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-recupera-posicao-como-3a-economia-da-africa-subsariana/",
+      "source": "ANGOP",
+      "_key": "e6eba13a11a44a8e",
       "score": 7,
-      "title_cn": "安哥拉政府推出数字平台，加强监管与透明度"
+      "title_cn": "安哥拉重回撒哈拉以南非洲第三大经济体地位"
     },
     {
-      "title": "Vera Daves autoriza obras milionárias com base em despacho presidencial não publicado",
-      "url": "https://angola24horas.com/sociedade/item/34356-vera-daves-autoriza-obras-milionarias-com-base-em-despacho-presidencial-nao-publicado",
-      "source": "Angola 24 Horas",
-      "_key": "3841682b7800b52c",
-      "score": 6,
-      "title_cn": "维拉·达维斯（Vera Daves）基于未公布总统令授权数百万工程"
-    },
-    {
-      "title": "Caso da ex-ministra das Pescas: Projecto das pescas acabou na compra de carros de Luxo",
-      "url": "https://angola24horas.com/sociedade/item/34352-caso-da-ex-ministra-das-pescas-projecto-das-pescas-acabou-na-compra-de-carros-de-luxo",
-      "source": "Angola 24 Horas",
-      "_key": "bddb1ffa2d5007a6",
-      "score": 6,
-      "title_cn": "前渔业部长案：渔业项目资金最终被用于购买豪车"
-    },
-    {
-      "title": "Pelo menos 15 pessoas morreram e 94 ficaram feridas nas últimas 72 horas",
-      "url": "https://correiokianda.info/pelo-menos-15-pessoas-morreram-e-94-ficaram-feridas-nas-ultimas-72-horas/",
+      "title": "Angola entre as maiores economias da África Subsaariana",
+      "url": "https://correiokianda.info/angola-entre-as-maiores-economias-da-africa-subsaariana/",
       "source": "Correio Kianda",
-      "_key": "4291959d374da7f4",
+      "_key": "e31eae33a9ef5826",
+      "score": 7,
+      "title_cn": "安哥拉跻身撒哈拉以南非洲主要经济体之列"
+    },
+    {
+      "title": "Sector agrícola torna-se principal motor da economia angolana, diz Governo",
+      "url": "https://correiokianda.info/sector-agricola-torna-se-principal-motor-da-economia-angolana-diz-governo/",
+      "source": "Correio Kianda",
+      "_key": "4a2887012d26df77",
+      "score": 7,
+      "title_cn": "安哥拉政府称农业部门成为经济主要引擎"
+    },
+    {
+      "title": "Pecuária cresce mas importações de carne ficam acima de 600 milhões USD/ano",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_29c8aab7f9b14e",
+      "score": 7,
+      "title_cn": "畜牧业增长，但肉类进口每年超6亿美元"
+    },
+    {
+      "title": "\"O grande desafio de Angola é transformar a matéria-prima em produto acabado\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/o-grande-desafio-de-angola-e-transformar-a-materia-prima-em-produto-acabado-71906.html",
+      "source": "Expansão",
+      "_key": "ada2550cd6e3d5a6",
+      "score": 7,
+      "title_cn": "安哥拉面临将原材料转化为成品的巨大挑战"
+    },
+    {
+      "title": "Indústria dos fundos de investimento cresce 50% dominada por imobiliário",
+      "url": "https://expansao.co.ao/economia/detalhe/industria-dos-fundos-de-investimento-cresce-50-dominada-por-imobiliario-71904.html",
+      "source": "Expansão",
+      "_key": "b09ccc1f4700a375",
+      "score": 7,
+      "title_cn": "投资基金行业增长50%，房地产占主导"
+    },
+    {
+      "title": "Economia Potencialidades do Bengo atraem empresários europeus ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676508/potencialidades-do-bengo-atraem-empres%C3%A1rios-europeus",
+      "source": "Jornal de Angola",
+      "_key": "1e452504d22abc62",
+      "score": 7,
+      "title_cn": "本戈省的潜力吸引欧洲企业家"
+    },
+    {
+      "title": "Consulado português em Luanda muda procedimento para...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/consulado-portugues-em-luanda-muda-procedimento-para-vistos-de-trabalho-a-partir-de-1-de-junho-71914.html",
+      "source": "Novo Jornal",
+      "_key": "4c2e72a6c05b6953",
+      "score": 7,
+      "title_cn": "葡萄牙驻罗安达领事馆更改程序"
+    },
+    {
+      "title": "Programa de Investimento Público regista 1,7 bilião de kwanzas no I trimestre",
+      "url": "https://www.opais.ao/economia/programa-de-investimento-publico-regista-17-biliao-de-kwanzas-no-i-trimestre/",
+      "source": "O País",
+      "_key": "d16e49cdb47d3e47",
+      "score": 7,
+      "title_cn": "第一季度公共投资计划录得1.7万亿宽扎"
+    },
+    {
+      "title": "Ricardo de Abreu vai cumprir jornada de trabalho em Benguela",
+      "url": "https://www.opais.ao/politica/ricardo-de-abreu-vai-cumprir-jornada-de-trabalho-em-benguela/",
+      "source": "O País",
+      "_key": "08cf336a16a7475e",
+      "score": 7,
+      "title_cn": "里卡多·德·阿布雷乌（Ricardo de Abreu）将在本格拉进行工作访问"
+    },
+    {
+      "title": "Minister highlights importance of new public project management system",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-destaca-importancia-do-novo-sistema-de-gestao-de-projectos-publicos/",
+      "source": "ANGOP",
+      "_key": "35ab3eb0793bc11e",
       "score": 6,
-      "title_cn": "过去72小时内，至少15人死亡，94人受伤"
+      "title_cn": "部长强调新公共项目管理系统的重要性"
     },
     {
-      "title": "Consulado português em Luanda muda procedimento para vistos de trabalho",
-      "url": "https://angola24horas.com/sociedade/item/34357-consulado-portugues-em-luanda-muda-procedimento-para-vistos-de-trabalho",
+      "title": "João Lourenço recebe Adalberto Costa Júnior no Palácio Presidencial",
+      "url": "https://correiokianda.info/joao-lourenco-recebe-adalberto-costa-junior-no-palacio-presidencial/",
+      "source": "Correio Kianda",
+      "_key": "1cbd7d8028e5d949",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）在总统府接见阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）"
+    },
+    {
+      "title": "Troca de tiros entre URP e supostos marginais termina em um morto e um ferido no Hoji-Ya-Henda",
+      "url": "https://correiokianda.info/troca-de-tiros-entre-urp-e-supostos-marginais-termina-em-um-morto-e-um-ferido-no-hoji-ya-henda/",
+      "source": "Correio Kianda",
+      "_key": "60243238aa9abde6",
+      "score": 6,
+      "title_cn": "霍吉亚亨达（Hoji-Ya-Henda）发生枪战，造成一死一伤"
+    },
+    {
+      "title": "Vladimir Putin Chega à China após visita de Donald Trump",
+      "url": "https://correiokianda.info/vladimir-putin-chega-a-china-apos-visita-de-donald-trump/",
+      "source": "Correio Kianda",
+      "_key": "f04f6aef2e4063ca",
+      "score": 6,
+      "title_cn": "弗拉基米尔·普京（Vladimir Putin）在唐纳德·特朗普（Donald Trump）访华后抵达中国"
+    },
+    {
+      "title": "Auditor volta a levantar dúvidas sobre imparidades e recuperação de crédito do BDA",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_6903f4b8ae3230",
+      "score": 6,
+      "title_cn": "审计师再次质疑安哥拉发展银行（BDA）减值和信贷回收"
+    },
+    {
+      "title": "Política Angola na 4.ª Conferência Africana dos Reguladores de Água e Saneamento em Cape Town ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676561/angola-na-4.%C2%AA-confer%C3%AAncia-africana-dos-reguladores-de-%C3%A1gua-e-saneamento-em-cape-town",
+      "source": "Jornal de Angola",
+      "_key": "d72b37029979ee6a",
+      "score": 6,
+      "title_cn": "安哥拉出席开普敦第四届非洲水与卫生监管机构会议"
+    },
+    {
+      "title": "Economia Plataforma digital confere mais qualidade à despesa pública ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676512/plataforma-digital-confere-mais-qualidade-%C3%A0-despesa-p%C3%BAblica",
+      "source": "Jornal de Angola",
+      "_key": "2fbe2d7c46c725cf",
+      "score": 6,
+      "title_cn": "数字平台提升公共支出质量"
+    },
+    {
+      "title": "PR recebe em audiência líder da UNITA esta terça-feira...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-recebe-em-audiencia-lider-da-unita-esta-terca-feira-pacto-de-estabilidade-em-cima-da-mesa-71896.html",
+      "source": "Novo Jornal",
+      "_key": "8d523c9c7c3b884d",
+      "score": 6,
+      "title_cn": "总统周二接见安盟（UNITA）领导人"
+    },
+    {
+      "title": "Hoji-Ya-Henda: Tiroteio entre polícia e delinquentes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/hoji-ya-henda-tiroteio-entre-policia-e-delinquentes-acaba-com-um-morto-um-ferido-e-um-foragido-71912.html",
+      "source": "Novo Jornal",
+      "_key": "7abe5c4aaa640c5d",
+      "score": 6,
+      "title_cn": "霍吉亚亨达（Hoji-Ya-Henda）：警方与罪犯枪战"
+    },
+    {
+      "title": "Angola e EUA analisam estado actual das relações bilaterais com foco na agenda político-diplomática",
+      "url": "https://www.opais.ao/politica/angola-e-eua-analisam-estado-actual-das-relacoes-bilaterais-com-foco-na-agenda-politico-diplomatica/",
+      "source": "O País",
+      "_key": "5fb0da4a1f63b58c",
+      "score": 6,
+      "title_cn": "安哥拉与美国分析双边关系现状，聚焦政治外交议程"
+    },
+    {
+      "title": "Presidente da República recebe em audiência líder da UNITA",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-recebe-em-audiencia-lider-da-unita/",
+      "source": "O País",
+      "_key": "e74a36c101149afb",
+      "score": 6,
+      "title_cn": "共和国总统接见安盟（UNITA）领导人"
+    },
+    {
+      "title": "Comandante-geral da Polícia Nacional avalia prontidão das forças em todo o país",
+      "url": "https://www.opais.ao/ultimas_hora/comandante-geral-da-policia-nacional-avalia-prontidao-das-forcas-em-todo-o-pais/",
+      "source": "O País",
+      "_key": "a5448581465fc860",
+      "score": 6,
+      "title_cn": "国家警察总司令评估全国部队战备状态"
+    },
+    {
+      "title": "MINJUD wraps up Advisory Council with several approvals of decrees",
+      "url": "https://www.angop.ao/en/noticias/desporto/aprovacao-de-decretos-marca-fecho-do-xiv-conselho-consultivo/",
+      "source": "ANGOP",
+      "_key": "ffd170e3f4b5f60a",
+      "score": 5,
+      "title_cn": "司法和人权部（MINJUD）顾问委员会批准多项法令"
+    },
+    {
+      "title": "Assembleia “ilegal” travada pela polícia agudiza crise no Conselho da Juventude angolana",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34360-assembleia-ilegal-travada-pela-policia-agudiza-crise-no-conselho-da-juventude-angolana",
       "source": "Angola 24 Horas",
-      "_key": "ef6f91e75605e529",
+      "_key": "595fb0a60435d1ca",
       "score": 5,
-      "title_cn": "葡萄牙驻罗安达领事馆调整工作签证办理程序"
+      "title_cn": "警方阻止“非法”集会，加剧安哥拉青年委员会危机"
     },
     {
-      "title": "Standard Bank no topo das reclamações bancárias no IV trimestre de 2025; BCH destaca-se pela positiva",
-      "url": "https://diariodosnegocios.com/standard-bank-no-topo-das-reclamacoes-bancarias-no-iv-trimestre-de-2025-bch-destaca-se-pela-positiva/",
+      "title": "Manipulação da informação e financiamento opaco fortalecem autoritarismo em Angola - ONG",
+      "url": "https://angola24horas.com/politica/item/34359-manipulacao-da-informacao-e-financiamento-opaco-fortalecem-autoritarismo-em-angola-ong",
+      "source": "Angola 24 Horas",
+      "_key": "50215745715e3aa1",
+      "score": 5,
+      "title_cn": "非政府组织：信息操纵和不透明融资强化安哥拉威权主义"
+    },
+    {
+      "title": "OMS convoca comité de emergência para avaliar surto de ébola",
+      "url": "https://correiokianda.info/oms-convoca-comite-de-emergencia-para-avaliar-surto-de-ebola/",
+      "source": "Correio Kianda",
+      "_key": "27cb69a66799e85b",
+      "score": 5,
+      "title_cn": "世卫组织召开紧急委员会评估埃博拉疫情"
+    },
+    {
+      "title": "Exército chinês anuncia exercícios militares com porta-aviões no Pacífico",
+      "url": "https://correiokianda.info/exercito-chines-anuncia-exercicios-militares-com-porta-avioes-no-pacifico/",
+      "source": "Correio Kianda",
+      "_key": "a51ebe782175adf5",
+      "score": 5,
+      "title_cn": "中国军队宣布在太平洋举行航母军事演习"
+    },
+    {
+      "title": "MINFIN avança com nova sede sem valor da empreitada no PAC e despacho presidencial sem publicação oficial",
+      "url": "https://diariodosnegocios.com/minfin-avanca-com-nova-sede-sem-valor-da-empreitada-no-pac-e-despacho-presidencial-sem-publicacao-oficial/",
       "source": "Diário dos Negócios",
-      "_key": "2165331abea1369d",
+      "_key": "a5d7eb9da6416c58",
       "score": 5,
-      "title_cn": "标准银行在 2025 年第四季度的银行投诉中名列前茅; BCH 突出了积极的投诉"
+      "title_cn": "财政部（MINFIN）推进新总部建设，但项目价值和总统令未公布"
     },
     {
-      "title": " Standard Bank no topo das reclamações bancárias no IV trimestre de 2025; BCH destaca-se pela positiva ",
+      "title": " MINFIN avança com nova sede sem valor da empreitada no PAC e despacho presidencial sem publicação oficial ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_8369de2c55f436",
+      "_key": "t_c605f2826efaad",
       "score": 5,
-      "title_cn": "2025年第四季度银行投诉：渣打银行居首，BCH表现积极"
+      "title_cn": "财政部（MINFIN）推进新总部建设，但项目价值和总统令未公布"
     },
     {
-      "title": "TAAG: Cancelamento de voos no fim-de-semana deixou...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/taag-cancelamento-de-voos-no-fim-de-semana-deixou-centenas-de-passageiros-retidos-em-windhoek-companhia-garante-que-aviao-para-acomodar-todos-os-passageiros-esta-a-caminho-71893.html",
+      "title": "Angola ignora boicote e é patrocinador \"platina\" em Cimeira em Londres",
+      "url": "https://expansao.co.ao/angola/detalhe/angola-ignora-boicote-e-e-patrocinador-platina-em-cimeira-em-londres-71909.html",
+      "source": "Expansão",
+      "_key": "e3091d9e7ecab828",
+      "score": 5,
+      "title_cn": "安哥拉无视抵制，成为伦敦峰会“白金”赞助商"
+    },
+    {
+      "title": "Mundo19/05/2026União Africana apreensiva com os surtos de ébola",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676536/uni%C3%A3o-africana-apreensiva-com-os-surtos-de-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "079440d23cc27de1",
+      "score": 5,
+      "title_cn": "非盟对埃博拉疫情爆发感到担忧"
+    },
+    {
+      "title": "MINFIN avança com construção da nova sede, mas valor...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/minfin-avanca-com-construcao-da-nova-sede-mas-valor-da-empreitada-nao-consta-no-pac-actualizada-com-esclarecimento-do-ministerio-71902.html",
       "source": "Novo Jornal",
-      "_key": "78717ad8cfad79d8",
+      "_key": "4f4f6d7711dafd1e",
       "score": 5,
-      "title_cn": "安哥拉航空：周末航班取消引发问题"
+      "title_cn": "财政部（MINFIN）推进新总部建设，但造价未明"
     },
     {
-      "title": "«Fazer África avançar a nível económico significa maior...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/fazer-africa-avancar-a-nivel-economico-significa-maior-soberania-e-autonomia-emmanuel-macron-presidente-de-franca-71891.html",
-      "source": "Novo Jornal",
-      "_key": "06b1093541874067",
-      "score": 5,
-      "title_cn": "推动非洲经济发展意味着更大的机遇"
-    },
-    {
-      "title": "Tiroteio entre Polícia e supostos marginais no Hoji-Ya-Henda faz um morto e um ferido",
-      "url": "https://www.opais.ao/ultimas_hora/tiroteio-entre-policia-e-supostos-marginais-no-hoji-ya-henda-faz-um-morto-e-um-ferido/",
+      "title": "Angola e Sérvia abordam estreitamento das relações bilaterais",
+      "url": "https://www.opais.ao/politica/angola-e-servia-abordam-estreitamento-das-relacoes-bilaterais/",
       "source": "O País",
-      "_key": "1b1f9a089fca2e3e",
+      "_key": "26e239b3f4ee0899",
       "score": 5,
-      "title_cn": "Hoji-Ya-Henda地区警方与疑似罪犯枪战，致一死一伤"
+      "title_cn": "安哥拉与塞尔维亚探讨深化双边关系"
+    },
+    {
+      "title": "Angola e Reino da Malásia manifestam aposta contínua no reforço da cooperação bilateral",
+      "url": "https://www.opais.ao/politica/angola-e-reino-da-malasia-manifestam-aposta-continua-no-reforco-da-cooperacao-bilateral/",
+      "source": "O País",
+      "_key": "1b24f207e42f3dfd",
+      "score": 5,
+      "title_cn": "安哥拉与马来西亚王国持续致力于加强双边合作"
     }
   ]
 }
