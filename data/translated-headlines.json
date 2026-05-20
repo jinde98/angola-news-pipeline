@@ -1,416 +1,88 @@
 {
   "date": "2026-05-20",
-  "total_new": 145,
-  "total_filtered": 51,
+  "total_new": 33,
+  "total_filtered": 10,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "World Bank reiterates funding for city construction along the Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/bm-reitera-financiamento-para-construcao-de-cidades-ao-longo-do-corredor-do-lobito/",
-      "source": "ANGOP",
-      "_key": "8808a8c33c708955",
+      "title": "Petróleo: Barril em retracção ligeira após Trump tirar...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-em-retraccao-ligeira-apos-trump-tirar-de-novo-o-dedo-do-gatilho-71944.html",
+      "source": "Novo Jornal",
+      "_key": "1e25ad5ba2624f9f",
       "score": 9,
-      "title_cn": "世界银行重申为洛比托走廊沿线城市建设提供资金"
+      "title_cn": "石油：特朗普取消后油价小幅回落"
     },
     {
-      "title": "EU mobilizes over 2bln Euros for Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/ue-mobiliza-mais-de-dois-mil-milhoes-de-euros-para-corredor-do-lobito/",
-      "source": "ANGOP",
-      "_key": "a506896c455889a1",
-      "score": 9,
-      "title_cn": "欧盟为洛比托走廊筹集逾20亿欧元"
-    },
-    {
-      "title": "Investimento na refinaria do Lobito ascendeu a 1.000 milhões USD em 2025",
-      "url": "https://expansao.co.ao/empresas/detalhe/investimento-na-refinaria-do-lobito-ascendeu-a-1000-milhoes-usd-em-2025-71930.html",
-      "source": "Expansão",
-      "_key": "221fb92a723faea6",
-      "score": 9,
-      "title_cn": "2025年洛比托炼油厂投资额达10亿美元"
-    },
-    {
-      "title": "Petróleo recua após Trump afirmar que guerra com o Irão terminará \"muito rapidamente\"",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apos-trump-afirmar-que-guerra-com-o-irao-terminara-muito-rapidamente-71933.html",
-      "source": "Expansão",
-      "_key": "d05ea70cf669492e",
-      "score": 9,
-      "title_cn": "特朗普（Trump）称与伊朗战争将“很快结束”后油价回落"
-    },
-    {
-      "title": "Governo desenvolve estudos para identificar ameaças de branqueamento no Corredor do Lobito",
-      "url": "https://correiokianda.info/governo-desenvolve-estudos-para-identificar-ameacas-de-branqueamento-no-corredor-do-lobito/",
+      "title": "CFB pode retomar circulação ferroviária de Benguela ao Luau dentro de seis semanas",
+      "url": "https://correiokianda.info/cfb-pode-retomar-circulacao-ferroviaria-benguela-ao-luau-dentro-de-seis-semanas/",
       "source": "Correio Kianda",
-      "_key": "c36a0b1ec1631d68",
+      "_key": "cd155d31f846969d",
       "score": 8,
-      "title_cn": "安哥拉政府研究识别洛比托走廊洗钱威胁"
+      "title_cn": "CFB：六周内恢复本格拉至卢阿铁路运营"
     },
     {
-      "title": "Investimento directo estrangeiro em Angola cai 59% em nove anos – estudo",
-      "url": "https://forbesafricalusofona.com/investimento-directo-estrangeiro-em-angola-cai-59-em-nove-anos-estudo/",
-      "source": "Forbes África",
-      "_key": "6ac84631b7f2f653",
-      "score": 8,
-      "title_cn": "研究显示：安哥拉外国直接投资九年内下降59%"
+      "title": "MPs defend increased investment in energy and water",
+      "url": "https://www.angop.ao/en/noticias/economia/deputados-defendem-reforco-de-investimento-nos-sectores-da-energia-e-agua/",
+      "source": "ANGOP",
+      "_key": "d90819ad95f831c2",
+      "score": 6,
+      "title_cn": "议员呼吁增加能源和水务投资"
     },
     {
-      "title": "‎BNA prevê reduzir inflação a um dígito até 2027",
-      "url": "https://www.opais.ao/economia/bna-preve-reduzir-inflacao-a-um-digito-ate-2027/",
+      "title": "Regiões Estados Unidos financiam construção de 18 pontes no Bié ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676651/estados-unidos-financiam-constru%C3%A7%C3%A3o-de-18-pontes-no-bi%C3%A9",
+      "source": "Jornal de Angola",
+      "_key": "8ce9a2251df89e98",
+      "score": 6,
+      "title_cn": "美国各州资助比耶省建设18座桥梁"
+    },
+    {
+      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
+      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=71942",
+      "source": "Novo Jornal",
+      "_key": "45d2beee36cc786a",
+      "score": 6,
+      "title_cn": "KUMBU的价值：银行与保险的世界"
+    },
+    {
+      "title": "Angola anuncia criação de fábrica de mosquiteiros no âmbito do combate à malária",
+      "url": "https://www.opais.ao/ultimas_hora/angola-anuncia-criacao-de-fabrica-de-mosquiteiros-no-ambito-do-combate-a-malaria/",
       "source": "O País",
-      "_key": "2ccd1504a3fbe90e",
-      "score": 8,
-      "title_cn": "安哥拉央行（BNA）预计2027年前将通胀降至个位数"
+      "_key": "d693835a386c7150",
+      "score": 6,
+      "title_cn": "安哥拉宣布建立蚊帐工厂以抗击疟疾"
     },
     {
-      "title": "Sonangol investiu 15 vezes mais do que o previsto em...",
-      "url": "https://valoreconomico.co.ao/artigo/sonangol-investiu-15-vezes-mais-do-que-o-previsto-em-2024",
-      "source": "Valor Económico",
-      "_key": "78bc21e7a5333f62",
-      "score": 8,
-      "title_cn": "安哥拉国家石油公司（Sonangol）投资额超出预期15倍"
-    },
-    {
-      "title": "Angola's Central Bank predicts inflation will fall to single digits by December 2027",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-preve-baixa-da-inflacao-para-um-digito-ate-dezembro-de-2027/",
-      "source": "ANGOP",
-      "_key": "4c2823bc61214434",
-      "score": 7,
-      "title_cn": "安哥拉央行预计2027年12月前通胀将降至个位数"
-    },
-    {
-      "title": "BNA aponta meta de inflação de 11,5% e pede envolvimento do sector económico",
-      "url": "https://correiokianda.info/bna-aponta-meta-de-inflacao-de-115-e-pede-envolvimento-do-sector-economico/",
-      "source": "Correio Kianda",
-      "_key": "2d32e69cf02d8fdf",
-      "score": 7,
-      "title_cn": "安哥拉央行（BNA）设定11.5%通胀目标，呼吁经济部门参与"
-    },
-    {
-      "title": "Programa de Investimento Público regista execução de mais de 1 bilião de kwanzas no Iº trimestre",
-      "url": "https://correiokianda.info/programa-de-investimento-publico-regista-execucao-de-mais-de-1-biliao-de-kwanzas-no-io-trimestre/",
-      "source": "Correio Kianda",
-      "_key": "726d893cef82a82f",
-      "score": 7,
-      "title_cn": "第一季度公共投资计划执行额超1万亿宽扎"
-    },
-    {
-      "title": "Turkish Airlines suspende voos para Luanda até novembro",
-      "url": "https://correiokianda.info/turkish-airlines-suspende-voos-para-luanda-ate-novembro/",
-      "source": "Correio Kianda",
-      "_key": "1666efded4d109a5",
-      "score": 7,
-      "title_cn": "土耳其航空暂停飞往罗安达的航班至11月"
-    },
-    {
-      "title": "Luele entrega mais de 100 milhões de dólares ao Estado em 2025 com produção de 6,5 milhões de quilates",
-      "url": "https://diariodosnegocios.com/luele-entrega-mais-de-100-milhoes-de-dolares-ao-estado-em-2025-com-producao-de-65-milhoes-de-quilates/",
-      "source": "Diário dos Negócios",
-      "_key": "de899d791eeb2646",
-      "score": 7,
-      "title_cn": "Luele（卢埃莱）钻石矿2025年将向国家上缴逾1亿美元，产量达650万克拉"
-    },
-    {
-      "title": " Luele entrega mais de 100 milhões de dólares ao Estado em 2025 com produção de 6,5 milhões de quilates ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_dfd4f1e88ef8b8",
-      "score": 7,
-      "title_cn": "Luele（卢埃莱）钻石矿2025年将向国家上缴逾1亿美元，产量达650万克拉"
-    },
-    {
-      "title": "Angola apresenta potencial mineiro e petrolífero em Madrid para captar investimento espanhol",
-      "url": "https://holdonangola.com/angola-apresenta-potencial-mineiro-e-petrolifero-em-madrid-para-captar-investimento-espanhol/",
+      "title": "IX Congresso do MPLA: Sub-Comissão confirma recepção única da candidatura de João Lourenço",
+      "url": "https://holdonangola.com/ix-congresso-do-mpla-sub-comissao-confirma-recepcao-unica-da-candidatura-de-joao-lourenco/",
       "source": "Hold On Angola",
-      "_key": "f61c8e25f8995c7e",
-      "score": 7,
-      "title_cn": "安哥拉在马德里展示矿产和石油潜力以吸引西班牙投资"
+      "_key": "bc240d183d6d9eb2",
+      "score": 5,
+      "title_cn": "MPLA第九次代表大会：小组委员会确认若昂·洛伦索获唯一提名"
     },
     {
-      "title": "Destaque BNA: Inflação de um dígito pode ocorrer já em 2027Angola pode alcançar já no próximo ano uma inflação de um dígito e posicionar-se no nível dos demais países da região Austral (SADC), segundo afirmou, esta terça-feira, no Cuito, capital da província do Bié, o governador do Banco Nacional de Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676582/bna:-infla%C3%A7%C3%A3o-de-um-d%C3%ADgito-pode-ocorrer-j%C3%A1-em-2027",
+      "title": "Sociedade Angola busca investimento internacional para o Turismo na IMEX Frankfurt 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676654/angola-busca-investimento-internacional-para-o-turismo-na-imex-frankfurt-2026",
       "source": "Jornal de Angola",
-      "_key": "c5b1d5743456dab8",
-      "score": 7,
-      "title_cn": "安哥拉央行（BNA）强调：安哥拉有望在2027年实现个位数通胀"
+      "_key": "9d19489e30677720",
+      "score": 5,
+      "title_cn": "安哥拉协会在2026法兰克福旅展寻求旅游业国际投资"
     },
     {
-      "title": "Economia Programa de Investimento Público atingiu 1,7 bilião de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676592/programa-de-investimento-p%C3%BAblico-atingiu-17-bili%C3%A3o--de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "80dc09f27394dc0a",
-      "score": 7,
-      "title_cn": "公共投资计划已达1.7万亿宽扎"
-    },
-    {
-      "title": "Mundo Vladimir Putin já na China para encontro com Xi Jinping ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676580/vladimir-putin-j%C3%A1-na-china-para-encontro-com-xi-jinping-",
-      "source": "Jornal de Angola",
-      "_key": "232bd081833bbfae",
-      "score": 7,
-      "title_cn": "普京（Vladimir Putin）已抵达中国将与习近平会晤"
-    },
-    {
-      "title": "Reacção às previsões do FMI no adeus à IGAE: \"Executivo...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/reaccao-as-previsoes-do-fmi-no-adeus-a-igae-executivo-angolano-em-obediencia-a-politica-do-presidente-paga-apenas-a-divida-publica-verdadeira-diz-joao-pinto-71939.html",
-      "source": "Novo Jornal",
-      "_key": "f2a8f8df0b5a073a",
-      "score": 7,
-      "title_cn": "安哥拉政府回应国际货币基金组织（IMF）预测"
-    },
-    {
-      "title": "Angola recupera 3.ª posição nas economias da África Subsaariana",
-      "url": "https://www.opais.ao/economia/angola-recupera-3-a-posicao-nas-economias-da-africa-subsaariana/",
+      "title": "Subcomissão Preparatória do IX Congresso Ordinário do MPLA confirma a recepção de apenas uma candidatura",
+      "url": "https://www.opais.ao/politica/subcomissao-preparatoria-do-ix-congresso-ordinario-do-mpla-confirma-a-recepcao-de-apenas-uma-candidatura/",
       "source": "O País",
-      "_key": "20c1fa2ac6750688",
-      "score": 7,
-      "title_cn": "安哥拉重回撒哈拉以南非洲第三大经济体地位"
+      "_key": "6e307783e1f55e67",
+      "score": 5,
+      "title_cn": "MPLA第九次例行大会筹备小组委员会确认仅收到一份候选人资格"
     },
     {
-      "title": "Europa reforça alerta com aumento de fluxos financeiros angolanos em...",
-      "url": "https://valoreconomico.co.ao/artigo/europa-reforca-alerta-com-aumento-de-fluxos-financeiros-angolanos-em-portugal",
-      "source": "Valor Económico",
-      "_key": "5bb7bcd1ed2b6681",
-      "score": 7,
-      "title_cn": "欧洲就安哥拉金融流动增加发出警告"
-    },
-    {
-      "title": "Cuanza-Norte Health Office reports over 332,000 cases of malaria in 2025/2026",
-      "url": "https://www.angop.ao/en/noticias/saude/cuanza-norte-regista-mais-de-332-mil-casos-de-malaria-em-2025-2026/",
-      "source": "ANGOP",
-      "_key": "3d624d044cb947af",
-      "score": 6,
-      "title_cn": "2025/2026年北宽扎省卫生局报告逾33.2万例疟疾病例"
-    },
-    {
-      "title": "Executivo autoriza novos financiamentos para energia, saúde e agricultura",
-      "url": "https://correiokianda.info/executivo-autoriza-novos-financiamentos-para-energia-saude-e-agricultura/",
-      "source": "Correio Kianda",
-      "_key": "565ebd585b005a0d",
-      "score": 6,
-      "title_cn": "安哥拉政府批准能源、卫生和农业新融资"
-    },
-    {
-      "title": "BPC: taxa de manutenção passa a custa 2.500 KZ",
-      "url": "https://correiokianda.info/bpc-taxa-de-manutencao-passa-a-custa-2-500-kz/",
-      "source": "Correio Kianda",
-      "_key": "3ef23e44f5dddead",
-      "score": 6,
-      "title_cn": "BPC银行维护费上调至2500宽扎"
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: energia e serviços públicos – transição renovável e sustentável",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-energia-e-servicos-publicos-transicao-renovavel-e-sustentavel/",
-      "source": "Correio Kianda",
-      "_key": "5df23bc11b73e094",
-      "score": 6,
-      "title_cn": "1963-2026年非洲地缘政治：能源与公共服务——可再生可持续转型"
-    },
-    {
-      "title": "Compras online disparam 98% para 52 mil milhões Kz no I.º trimestre",
-      "url": "https://expansao.co.ao/empresas/detalhe/compras-online-disparam-98-para-52-mil-milhoes-kz-no-i-trimestre-71905.html",
-      "source": "Expansão",
-      "_key": "caf452bcf8261793",
-      "score": 6,
-      "title_cn": "第一季度在线购物激增98%，达520亿宽扎"
-    },
-    {
-      "title": "Trump sugeriu a Xi união com Putin contra Tribunal Penal Internacional – imprensa",
-      "url": "https://jornaloguardiao.com/2026/05/20/trump-sugeriu-a-xi-uniao-com-putin-contra-tribunal-penal-internacional-imprensa/",
-      "source": "Jornal O Guardião",
-      "_key": "91c8f7e275531147",
-      "score": 6,
-      "title_cn": "媒体：特朗普（Trump）建议习近平与普京（Putin）联手对抗国际刑事法院"
-    },
-    {
-      "title": " Trump sugeriu a Xi união com Putin contra Tribunal Penal Internacional – imprensa ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_120bf8b7cf8f05",
-      "score": 6,
-      "title_cn": "媒体：特朗普（Trump）建议习近平与普京（Putin）联手对抗国际刑事法院"
-    },
-    {
-      "title": "Angola e Estados Unidos celebram 33 anos de relações de cooperação Angola e os Estados Unidos da América (EUA) estão a reforçar a cooperação em diversos domínios, com destaque para o comércio, infra-estruturas, energia, transportes, saúde, educação, inovação e segurança regional, declarou, terça-feira, em Luanda, a encarregada de Negócios da Embaixada americana no país, Shannon Cazeau.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676584/angola-e-estados-unidos-celebram-33-anos-de-rela%C3%A7%C3%B5es-de-coopera%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "b2240f5a9a25920d",
-      "score": 6,
-      "title_cn": "安哥拉与美国庆祝建交33周年，加强贸易和基础设施等领域合作"
-    },
-    {
-      "title": "Economia Angola na reunião da Associação dos Países Produtores de Diamantes da África ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676649/angola-na-reuni%C3%A3o-da-associa%C3%A7%C3%A3o-dos-pa%C3%ADses-produtores-de-diamantes-da-%C3%A1frica",
-      "source": "Jornal de Angola",
-      "_key": "11dcad5a2d1abab1",
-      "score": 6,
-      "title_cn": "安哥拉出席非洲钻石生产国协会会议"
-    },
-    {
-      "title": "09:59 / 20 mai. 2026 Segurança no Golfo da Guiné traz ao país navio brasileiro ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676608/seguran%C3%A7a-no-golfo-da-guin%C3%A9-traz-ao-pa%C3%ADs-navio-brasileiro",
-      "source": "Jornal de Angola",
-      "_key": "5270deaf6514d7e8",
-      "score": 6,
-      "title_cn": "几内亚湾安全局势促巴西军舰访安哥拉"
-    },
-    {
-      "title": "Última hora João Lourenço: \"O diálogo sempre será o melhor recurso para serenar os ânimos\"",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676581/jo%C3%A3o-louren%C3%A7o:-%22o-di%C3%A1logo-sempre-ser%C3%A1-o-melhor-recurso-para-serenar-os-%C3%A2nimos%22",
-      "source": "Jornal de Angola",
-      "_key": "ccb28e62365278e3",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）：对话是平息情绪的最佳途径"
-    },
-    {
-      "title": "A experiência chinesa na transformação da sua estrutura...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-experiencia-chinesa-na-transformacao-da-sua-estrutura-economica-71924.html",
-      "source": "Novo Jornal",
-      "_key": "0bfd6c4f08228716",
-      "score": 6,
-      "title_cn": "中国在结构转型方面的经验"
-    },
-    {
-      "title": "IGAE garante fiscalizar gastos em obras emergenciais em Benguela",
-      "url": "https://www.opais.ao/sociedade/igae-garante-fiscalizar-gastos-em-obras-emergenciais-em-benguela/",
+      "title": "Ministra de Estado considera RVCC como pilar para inclusão e desenvolvimento socioeconómico do país",
+      "url": "https://www.opais.ao/politica/ministra-de-estado-considera-rvcc-como-pilar-para-inclusao-e-desenvolvimento-socioeconomico-do-pais/",
       "source": "O País",
-      "_key": "3eea38a20aaae4de",
-      "score": 6,
-      "title_cn": "IGAE确保监督本格拉紧急工程支出"
-    },
-    {
-      "title": "Ministra da Saúde anuncia que Angola terá fábrica de mosquiteiros tratados",
-      "url": "https://www.opais.ao/sociedade/ministra-da-saude-anuncia-que-angola-tera-fabrica-de-mosquiteiros-tratados/",
-      "source": "O País",
-      "_key": "2529c9b44b58e167",
-      "score": 6,
-      "title_cn": "卫生部长宣布安哥拉将建经处理蚊帐工厂"
-    },
-    {
-      "title": "Comandante-geral da Polícia Nacional já trabalha em Cabinda",
-      "url": "https://www.opais.ao/sociedade/comandante-geral-da-policia-nacional-ja-trabalha-em-cabinda/",
-      "source": "O País",
-      "_key": "6519e4fd179ce385",
-      "score": 6,
-      "title_cn": "国家警察总司令已在卡宾达履职"
-    },
-    {
-      "title": "‎EUA investem mais de 100 milhões de dólares em Angola nas últimas três décadas",
-      "url": "https://www.opais.ao/politica/eua-investem-mais-de-100-milhoes-de-dolares-em-angola-nas-ultimas-tres-decadas/",
-      "source": "O País",
-      "_key": "e55c03798a4285e3",
-      "score": 6,
-      "title_cn": "过去三十年美国在安哥拉投资逾1亿美元"
-    },
-    {
-      "title": "‎SIC desmantela dois focos de receptação de artigos roubados e detém três suspeitos em Cabinda",
-      "url": "https://www.opais.ao/ultimas_hora/sic-desmantela-dois-focos-de-receptacao-de-artigos-roubados-e-detem-tres-suspeitos-em-cabinda/",
-      "source": "O País",
-      "_key": "e7a43eb562509990",
-      "score": 6,
-      "title_cn": "SIC在卡宾达捣毁两处赃物窝点，逮捕三名嫌疑人"
-    },
-    {
-      "title": "Quatro em cada 10 jovens estão desempregados, enquanto 93% dos...",
-      "url": "https://valoreconomico.co.ao/artigo/quatro-em-cada-10-jovens-estao-desempregados-enquanto-93-dos-que-trabalham-estao-na-informalidade",
-      "source": "Valor Económico",
-      "_key": "566534ff205dae77",
-      "score": 6,
-      "title_cn": "每十名青年中有四名失业，93%的青年..."
-    },
-    {
-      "title": "Empresas angolanas continuam fora da auditoria aos bancos",
-      "url": "https://valoreconomico.co.ao/artigo/empresas-angolanas-continuam-fora-da-auditoria-aos-bancos",
-      "source": "Valor Económico",
-      "_key": "42cea258ed59a8f0",
-      "score": 6,
-      "title_cn": "安哥拉企业仍未接受银行审计"
-    },
-    {
-      "title": "BPC é o único grande banco a perder clientes desde...",
-      "url": "https://valoreconomico.co.ao/artigo/bpc-e-o-unico-grande-banco-a-perder-clientes-desde-2021",
-      "source": "Valor Económico",
-      "_key": "84c25d25a04c4a1f",
-      "score": 6,
-      "title_cn": "BPC是唯一一家持续流失客户的大银行"
-    },
-    {
-      "title": "Ponte ferroviária sobre o rio Cavaco em Benguela será reposta até Maio de 2027",
-      "url": "https://correiokianda.info/ponte-ferroviaria-sobre-o-rio-cavaco-em-benguela-sera-reposta-ate-maio-de-2027/",
-      "source": "Correio Kianda",
-      "_key": "507607a128c5360e",
+      "_key": "4d1eca7c6938509d",
       "score": 5,
-      "title_cn": "本格拉卡瓦科河铁路桥将于2027年5月前修复"
-    },
-    {
-      "title": "Estados Unidos reforçam apoio ao combate ao Ébola na RDC e Uganda",
-      "url": "https://correiokianda.info/estados-unidos-reforcam-apoio-ao-combate-ao-ebola-na-rdc-e-uganda/",
-      "source": "Correio Kianda",
-      "_key": "feb26c7b9dbe7ac9",
-      "score": 5,
-      "title_cn": "美国加强支持刚果（金）和乌干达抗击埃博拉"
-    },
-    {
-      "title": "        África29 minutos atrás  Ruanda garante continuidade da missão militar em Cabo Delgado após Moçambique assegurar financiamento O Governo do Ruanda anunciou que Moçambique assegurou os recursos financeiros necessários para garantir a continuidade da missão militar ruandesa na província de Cabo Delgado, região...   ",
-      "url": "https://correiokianda.info/ruanda-garante-continuidade-da-missao-militar-em-cabo-delgado-apos-mocambique-assegurar-financiamento/",
-      "source": "Correio Kianda",
-      "_key": "cabdc423d501ced2",
-      "score": 5,
-      "title_cn": "莫桑比克获资金保障后，卢旺达将继续在德尔加杜角执行军事任务"
-    },
-    {
-      "title": "Lisboa recebe Fórum África com foco em comunicação, recursos naturais e tecnologia",
-      "url": "https://forbesafricalusofona.com/lisboa-recebe-forum-africa-com-foco-em-comunicacao-recursos-naturais-e-tecnologia/",
-      "source": "Forbes África",
-      "_key": "5faace4d10f11295",
-      "score": 5,
-      "title_cn": "里斯本举办非洲论坛，聚焦通信、自然资源和技术"
-    },
-    {
-      "title": "Mundo OMS alerta para propagação da Ébola e justifica emergência ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676578/oms-alerta-para-propaga%C3%A7%C3%A3o-da-%C3%A9bola-e-justifica-emerg%C3%AAncia",
-      "source": "Jornal de Angola",
-      "_key": "8c2918e350133224",
-      "score": 5,
-      "title_cn": "世卫组织（WHO）警告埃博拉传播并宣布紧急状态"
-    },
-    {
-      "title": "Política Superação do fosso de competências é prioridade estratégica para transformação económica ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676576/supera%C3%A7%C3%A3o-do-fosso-de-compet%C3%AAncias-%C3%A9-prioridade-estrat%C3%A9gica-para-transforma%C3%A7%C3%A3o-econ%C3%B3mica",
-      "source": "Jornal de Angola",
-      "_key": "b5713bd86a36035e",
-      "score": 5,
-      "title_cn": "弥合技能差距是经济转型的战略优先事项"
-    },
-    {
-      "title": "Mundo Uganda estabelece controlos fronteiriços para prevenir Ébola ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676575/uganda-estabelece-controlos-fronteiri%C3%A7os-para-prevenir-%C3%A9bola-",
-      "source": "Jornal de Angola",
-      "_key": "332016ccb1fd8ce9",
-      "score": 5,
-      "title_cn": "乌干达设立边境管制以预防埃博拉"
-    },
-    {
-      "title": "China/Rússia: Xi Jinping aproveita visita de Vladimir...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/chinarussia-xi-jinping-aproveita-visita-de-vladimir-putin-para-avisar-eua-que-pequim-e-moscovo-nao-vao-aceitar-mais-o-seu-bullyng-unilateral-71931.html",
-      "source": "Novo Jornal",
-      "_key": "a1ccb39d51b0f063",
-      "score": 5,
-      "title_cn": "中俄：习近平利用普京（Vladimir Putin）访问之机..."
-    },
-    {
-      "title": "Município do Tômbwa vai ganhar novas infra-estruturas sociais no âmbito do PIP",
-      "url": "https://www.opais.ao/ultimas_hora/municipio-do-tombwa-vai-ganhar-novas-infra-estruturas-sociais-no-ambito-do-pip/",
-      "source": "O País",
-      "_key": "a961db3405636af4",
-      "score": 5,
-      "title_cn": "Tômbwa（通布瓦）市将在公共投资计划下获得新社会基础设施"
-    },
-    {
-      "title": "É de hoje…Amnista geral, para quê te quero!",
-      "url": "https://www.opais.ao/opiniao/e-de-hojeamnista-geral-para-que-te-quero/",
-      "source": "O País",
-      "_key": "b6afd5e983ec5af9",
-      "score": 5,
-      "title_cn": "今日话题：大赦，意义何在？"
+      "title_cn": "国务部长认为RVCC是国家包容性及社会经济发展的支柱"
     }
   ]
 }
