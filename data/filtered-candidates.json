@@ -1,77 +1,119 @@
 {
   "date": "2026-05-20",
-  "total_new": 33,
-  "total_filtered": 10,
+  "total_new": 51,
+  "total_filtered": 16,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo: Barril em retracção ligeira após Trump tirar...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-em-retraccao-ligeira-apos-trump-tirar-de-novo-o-dedo-do-gatilho-71944.html",
-      "source": "Novo Jornal",
-      "_key": "1e25ad5ba2624f9f",
+      "title": "World Bank intends to support the requalification of cities along the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/bm-tenciona-apoiar-requalificacao-de-cidades-ao-longo-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "19badf86304b17a2",
       "score": 9
     },
     {
-      "title": "CFB pode retomar circulação ferroviária de Benguela ao Luau dentro de seis semanas",
-      "url": "https://correiokianda.info/cfb-pode-retomar-circulacao-ferroviaria-benguela-ao-luau-dentro-de-seis-semanas/",
-      "source": "Correio Kianda",
-      "_key": "cd155d31f846969d",
+      "title": "Angola Foreign Exchange Market makes available over USD 4bln",
+      "url": "https://www.angop.ao/en/noticias/economia/mercado-cambial-disponibiliza-mais-de-quatro-mil-milhoes-de-dolares/",
+      "source": "ANGOP",
+      "_key": "5916da72ece378dd",
+      "score": 9
+    },
+    {
+      "title": "Governo exige prova de titularidade dos terrenos para reconhecer ...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-exige-prova-de-titularidade-dos-terrenos-para-reconhecer-parques-industriais-privados",
+      "source": "Valor Económico",
+      "_key": "2cc97025c47a05cc",
+      "score": 9
+    },
+    {
+      "title": "Governo do Huambo diz que vai usar “mão pesada” com empresas incumpridoras no exercício económico de 2026",
+      "url": "https://www.opais.ao/ultimas_hora/governo-do-huambo-diz-que-vai-usar-mao-pesada-com-empresas-incumpridoras-no-exercicio-economico-de-2026/",
+      "source": "O País",
+      "_key": "5aa8d742ab2fee5b",
       "score": 8
     },
     {
-      "title": "MPs defend increased investment in energy and water",
-      "url": "https://www.angop.ao/en/noticias/economia/deputados-defendem-reforco-de-investimento-nos-sectores-da-energia-e-agua/",
+      "title": "Clima económico melhora, mas empresários continuam a queixar-se de burocracia...",
+      "url": "https://valoreconomico.co.ao/artigo/clima-economico-melhora-mas-empresarios-continuam-a-queixar-se-de-burocracia-e-falta-de-credito",
+      "source": "Valor Económico",
+      "_key": "b64dbb6ec5596507",
+      "score": 8
+    },
+    {
+      "title": "Cinvestec prevê inflação de 7%",
+      "url": "https://valoreconomico.co.ao/artigo/cinvestec-preve-inflacao-de-7",
+      "source": "Valor Económico",
+      "_key": "f3d21e21bc86c455",
+      "score": 8
+    },
+    {
+      "title": "Railway bridge over the Cavaco River will be rebuilt by May 2027",
+      "url": "https://www.angop.ao/en/noticias/transporte/ponte-ferroviaria-sobre-o-rio-cavaco-sera-reposta-ate-maio-de-2027/",
       "source": "ANGOP",
-      "_key": "d90819ad95f831c2",
+      "_key": "5698264d36501587",
+      "score": 7
+    },
+    {
+      "title": "Vera Daves admite “fragilidades na execução financeira” dos...",
+      "url": "https://valoreconomico.co.ao/artigo/vera-daves-admite-fragilidades-na-execucao-financeira-dos-investimentos-publicos",
+      "source": "Valor Económico",
+      "_key": "644c1545e8fbacf1",
+      "score": 7
+    },
+    {
+      "title": "Angola continua como sexto maior devedor das companhias aéreas",
+      "url": "https://valoreconomico.co.ao/artigo/angola-continua-como-sexto-maior-devedor-das-companhias-aereas",
+      "source": "Valor Económico",
+      "_key": "eee667b37824252e",
+      "score": 7
+    },
+    {
+      "title": "Governo corta 50% da quota à Madang numa decisão que...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-corta-50-da-quota-a-madang-numa-decisao-que-pode-asfixiar-contas-da-empresa",
+      "source": "Valor Económico",
+      "_key": "a56caefa7e126eae",
+      "score": 7
+    },
+    {
+      "title": "Portuguese-speaking countries create a network of central banks",
+      "url": "https://www.angop.ao/en/noticias/economia/paises-de-lingua-portuguesa-criam-rede-de-bancos-centrais/",
+      "source": "ANGOP",
+      "_key": "70c0cf9488343cff",
       "score": 6
     },
     {
-      "title": "Regiões Estados Unidos financiam construção de 18 pontes no Bié ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676651/estados-unidos-financiam-constru%C3%A7%C3%A3o-de-18-pontes-no-bi%C3%A9",
-      "source": "Jornal de Angola",
-      "_key": "8ce9a2251df89e98",
+      "title": "Dificuldades financeiras e altos custos com o trabalho de fim...",
+      "url": "https://valoreconomico.co.ao/artigo/dificuldades-financeiras-e-altos-custos-com-o-trabalho-de-fim-de-curso-continuam-a-travar-sonho-de-licenciatura",
+      "source": "Valor Económico",
+      "_key": "4ccb5a661d5d085d",
       "score": 6
     },
     {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=71942",
+      "title": "UNDP plans to implement agricultural center of excellence in Huambo province",
+      "url": "https://www.angop.ao/en/noticias/economia/pnud-preve-implementar-centro-de-excelencia-agricola-no-huambo/",
+      "source": "ANGOP",
+      "_key": "1608a427b2767c1d",
+      "score": 5
+    },
+    {
+      "title": "China/Rússia: Xi Jinping aproveita visita de Vladimir...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/chinarussia-xi-jinping-aproveita-visita-de-vladimir-putin-para-avisar-eua-que-pequim-e-moscovo-nao-vao-aceitar-mais-o-seu-bullyiing-unilateral-71931.html",
       "source": "Novo Jornal",
-      "_key": "45d2beee36cc786a",
-      "score": 6
-    },
-    {
-      "title": "Angola anuncia criação de fábrica de mosquiteiros no âmbito do combate à malária",
-      "url": "https://www.opais.ao/ultimas_hora/angola-anuncia-criacao-de-fabrica-de-mosquiteiros-no-ambito-do-combate-a-malaria/",
-      "source": "O País",
-      "_key": "d693835a386c7150",
-      "score": 6
-    },
-    {
-      "title": "IX Congresso do MPLA: Sub-Comissão confirma recepção única da candidatura de João Lourenço",
-      "url": "https://holdonangola.com/ix-congresso-do-mpla-sub-comissao-confirma-recepcao-unica-da-candidatura-de-joao-lourenco/",
-      "source": "Hold On Angola",
-      "_key": "bc240d183d6d9eb2",
+      "_key": "809b824c2e201de0",
       "score": 5
     },
     {
-      "title": "Sociedade Angola busca investimento internacional para o Turismo na IMEX Frankfurt 2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676654/angola-busca-investimento-internacional-para-o-turismo-na-imex-frankfurt-2026",
-      "source": "Jornal de Angola",
-      "_key": "9d19489e30677720",
+      "title": "Cuvelai regista sete óbitos e mais de nove mil casos de malária no I trimestre de 2026",
+      "url": "https://www.opais.ao/ultimas_hora/cuvelai-regista-sete-obitos-e-mais-de-nove-mil-casos-de-malaria-no-i-trimestre-de-2026/",
+      "source": "O País",
+      "_key": "47ed0e20c55daa02",
       "score": 5
     },
     {
-      "title": "Subcomissão Preparatória do IX Congresso Ordinário do MPLA confirma a recepção de apenas uma candidatura",
-      "url": "https://www.opais.ao/politica/subcomissao-preparatoria-do-ix-congresso-ordinario-do-mpla-confirma-a-recepcao-de-apenas-uma-candidatura/",
-      "source": "O País",
-      "_key": "6e307783e1f55e67",
-      "score": 5
-    },
-    {
-      "title": "Ministra de Estado considera RVCC como pilar para inclusão e desenvolvimento socioeconómico do país",
-      "url": "https://www.opais.ao/politica/ministra-de-estado-considera-rvcc-como-pilar-para-inclusao-e-desenvolvimento-socioeconomico-do-pais/",
-      "source": "O País",
-      "_key": "4d1eca7c6938509d",
+      "title": "BAD alerta para incapacidade de África reduzir risco financeiro",
+      "url": "https://valoreconomico.co.ao/artigo/bad-alerta-para-incapacidade-de-africa-reduzir-risco-financeiro",
+      "source": "Valor Económico",
+      "_key": "33d70b9ac5747735",
       "score": 5
     }
   ]
