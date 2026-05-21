@@ -1,136 +1,160 @@
 {
-  "date": "2026-05-20",
-  "total_new": 51,
-  "total_filtered": 16,
-  "scored_by": "gemini-flash",
+  "date": "2026-05-21",
+  "total_new": 102,
+  "total_filtered": 19,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "World Bank intends to support the requalification of cities along the Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/bm-tenciona-apoiar-requalificacao-de-cidades-ao-longo-do-corredor-do-lobito/",
-      "source": "ANGOP",
-      "_key": "19badf86304b17a2",
+      "title": "O EXPLICADOR FISCAL: Preços de transferência em Angola: o que está a mudar e como devem as empresas preparar-se?",
+      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-precos-de-transferencia-em-angola-o-que-esta-a-mudar-e-como-devem-as-empresas-preparar-se-71955.html",
+      "source": "Expansão",
+      "_key": "b499ec6a9f880288",
       "score": 9,
-      "title_cn": "世界银行打算支持洛比托走廊沿线城市的重新认证"
+      "title_cn": "安哥拉转让定价新规：企业如何应对？"
     },
     {
-      "title": "Angola Foreign Exchange Market makes available over USD 4bln",
-      "url": "https://www.angop.ao/en/noticias/economia/mercado-cambial-disponibiliza-mais-de-quatro-mil-milhoes-de-dolares/",
-      "source": "ANGOP",
-      "_key": "5916da72ece378dd",
+      "title": "Investimento na refinaria do Lobito ascendeu a 1.000 milhões USD em 2025",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_56396f78118703",
       "score": 9,
-      "title_cn": "安哥拉外汇市场提供超过40亿美元"
+      "title_cn": "2025年洛比托炼油厂投资达10亿美元"
     },
     {
-      "title": "Governo exige prova de titularidade dos terrenos para reconhecer ...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-exige-prova-de-titularidade-dos-terrenos-para-reconhecer-parques-industriais-privados",
-      "source": "Valor Económico",
-      "_key": "2cc97025c47a05cc",
+      "title": "Construção de habitações ao longo do Corredor do Lobito",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/676670/constru%C3%A7%C3%A3o-de-habita%C3%A7%C3%B5es-ao-longo-do-corredor-do-lobito",
+      "source": "Jornal de Angola",
+      "_key": "d3d9bb6b1f41da4a",
       "score": 9,
-      "title_cn": "政府要求提供土地所有权证明 ， 以承认..."
+      "title_cn": "洛比托走廊沿线住房建设"
     },
     {
-      "title": "Governo do Huambo diz que vai usar “mão pesada” com empresas incumpridoras no exercício económico de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/governo-do-huambo-diz-que-vai-usar-mao-pesada-com-empresas-incumpridoras-no-exercicio-economico-de-2026/",
-      "source": "O País",
-      "_key": "5aa8d742ab2fee5b",
+      "title": "Brent sobe e WTI recua em sessão marcada por tensão geopolítica e queda das reservas dos EUA",
+      "url": "https://expansao.co.ao/economia/detalhe/brent-e-wti-seguem-em-direcoes-opostas-apos-eua-registarem-maior-queda-de-sempre-nas-reservas-estrategicas-de-crude-71957.html",
+      "source": "Expansão",
+      "_key": "fc9c9719a215f106",
       "score": 8,
-      "title_cn": "瓦博政府表示 ， 将在 2026 年财政年度对违约企业使用 \"重拳\""
+      "title_cn": "地缘政治紧张与美储备下降：布伦特原油涨，WTI跌"
     },
     {
-      "title": "Clima económico melhora, mas empresários continuam a queixar-se de burocracia...",
-      "url": "https://valoreconomico.co.ao/artigo/clima-economico-melhora-mas-empresarios-continuam-a-queixar-se-de-burocracia-e-falta-de-credito",
-      "source": "Valor Económico",
-      "_key": "b64dbb6ec5596507",
-      "score": 8,
-      "title_cn": "经济环境正在改善 ， 但企业家继续抱怨官僚主义。"
-    },
-    {
-      "title": "Cinvestec prevê inflação de 7%",
-      "url": "https://valoreconomico.co.ao/artigo/cinvestec-preve-inflacao-de-7",
-      "source": "Valor Económico",
-      "_key": "f3d21e21bc86c455",
-      "score": 8,
-      "title_cn": "Cinvestec 预测通货膨胀率为 7%"
-    },
-    {
-      "title": "Railway bridge over the Cavaco River will be rebuilt by May 2027",
-      "url": "https://www.angop.ao/en/noticias/transporte/ponte-ferroviaria-sobre-o-rio-cavaco-sera-reposta-ate-maio-de-2027/",
+      "title": "ENDE customer's debt in Zaire province estimated at 5bln Kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/divida-dos-clientes-da-ende-no-zaire-avaliada-em-cinco-mil-milhoes/",
       "source": "ANGOP",
-      "_key": "5698264d36501587",
+      "_key": "0ec0ee7050597862",
       "score": 7,
-      "title_cn": "卡瓦科河上的铁路桥将于2027年5月重建"
+      "title_cn": "扎伊尔省ENDE客户欠款预计达50亿宽扎"
     },
     {
-      "title": "Vera Daves admite “fragilidades na execução financeira” dos...",
-      "url": "https://valoreconomico.co.ao/artigo/vera-daves-admite-fragilidades-na-execucao-financeira-dos-investimentos-publicos",
-      "source": "Valor Económico",
-      "_key": "644c1545e8fbacf1",
+      "title": "Destaque Colocada primeira pedra para construção do Hospital do Tômbwa A primeira pedra do Hospital do Tômbwa, cuja previsão é que fique concluído em Março de 2027, foi colocada, hoje, no Namibe, pelo governador local, Archer Mangueira. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676707/colocada-primeira-pedra-para-constru%C3%A7%C3%A3o-do-hospital-do-t%C3%B4mbwa--",
+      "source": "Jornal de Angola",
+      "_key": "238f323b872569ff",
       "score": 7,
-      "title_cn": "维拉 · 戴夫斯承认美国 \"金融合作的弱点\""
+      "title_cn": "纳米贝省通布瓦医院奠基，预计2027年3月竣工"
     },
     {
-      "title": "Angola continua como sexto maior devedor das companhias aéreas",
-      "url": "https://valoreconomico.co.ao/artigo/angola-continua-como-sexto-maior-devedor-das-companhias-aereas",
-      "source": "Valor Económico",
-      "_key": "eee667b37824252e",
-      "score": 7,
-      "title_cn": "安哥拉仍然是第六大航空公司债务人"
-    },
-    {
-      "title": "Governo corta 50% da quota à Madang numa decisão que...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-corta-50-da-quota-a-madang-numa-decisao-que-pode-asfixiar-contas-da-empresa",
-      "source": "Valor Económico",
-      "_key": "a56caefa7e126eae",
-      "score": 7,
-      "title_cn": "政府削减了 50% 的股份在马当的决定， 这..."
-    },
-    {
-      "title": "Portuguese-speaking countries create a network of central banks",
-      "url": "https://www.angop.ao/en/noticias/economia/paises-de-lingua-portuguesa-criam-rede-de-bancos-centrais/",
-      "source": "ANGOP",
-      "_key": "70c0cf9488343cff",
-      "score": 6,
-      "title_cn": "葡萄牙语国家创建央行网络"
-    },
-    {
-      "title": "Dificuldades financeiras e altos custos com o trabalho de fim...",
-      "url": "https://valoreconomico.co.ao/artigo/dificuldades-financeiras-e-altos-custos-com-o-trabalho-de-fim-de-curso-continuam-a-travar-sonho-de-licenciatura",
-      "source": "Valor Económico",
-      "_key": "4ccb5a661d5d085d",
-      "score": 6,
-      "title_cn": "财务困难和高成本的最后工作..."
-    },
-    {
-      "title": "UNDP plans to implement agricultural center of excellence in Huambo province",
-      "url": "https://www.angop.ao/en/noticias/economia/pnud-preve-implementar-centro-de-excelencia-agricola-no-huambo/",
-      "source": "ANGOP",
-      "_key": "1608a427b2767c1d",
-      "score": 5,
-      "title_cn": "开发计划署计划在万博省建立农业卓越中心"
-    },
-    {
-      "title": "China/Rússia: Xi Jinping aproveita visita de Vladimir...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/chinarussia-xi-jinping-aproveita-visita-de-vladimir-putin-para-avisar-eua-que-pequim-e-moscovo-nao-vao-aceitar-mais-o-seu-bullyiing-unilateral-71931.html",
+      "title": "Caso russos: Igor Rochin diz ser um empresário que...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-igor-rochin-diz-ser-um-empresario-que-veio-investir-em-angola-e-confirma-reunioes-com-acj-hc-dino-matrosse-e-lukamba-gato-mas-nega-ligacao-ao-terrorismo-71961.html",
       "source": "Novo Jornal",
-      "_key": "809b824c2e201de0",
-      "score": 5,
-      "title_cn": "中国/俄罗斯：习近平利用弗拉基米尔的访问..."
+      "_key": "c5242d360e4aa99d",
+      "score": 7,
+      "title_cn": "俄罗斯案件：伊戈尔·罗钦（Igor Rochin）自称商人"
     },
     {
-      "title": "Cuvelai regista sete óbitos e mais de nove mil casos de malária no I trimestre de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/cuvelai-regista-sete-obitos-e-mais-de-nove-mil-casos-de-malaria-no-i-trimestre-de-2026/",
+      "title": "Balança Comercial regista um saldo positivo acima dos 12 mil milhões de kwanzas em 2025",
+      "url": "https://www.opais.ao/economia/balanca-comercial-regista-um-saldo-positivo-acima-dos-12-mil-milhoes-de-kwanzas-em-2025/",
       "source": "O País",
-      "_key": "47ed0e20c55daa02",
-      "score": 5,
-      "title_cn": "Cuvelai 记录了 2026 年第一季度 7 人死亡和 9000 多例疟疾病例"
+      "_key": "95ea8c4687063aa4",
+      "score": 7,
+      "title_cn": "2025年贸易顺差超120亿宽扎"
     },
     {
-      "title": "BAD alerta para incapacidade de África reduzir risco financeiro",
-      "url": "https://valoreconomico.co.ao/artigo/bad-alerta-para-incapacidade-de-africa-reduzir-risco-financeiro",
-      "source": "Valor Económico",
-      "_key": "33d70b9ac5747735",
+      "title": "US private funding enables construction of 18 bridges in Bie",
+      "url": "https://www.angop.ao/en/noticias/sociedade/financiamento-privado-dos-eua-permite-construcao-de-18-pontes-no-bie/",
+      "source": "ANGOP",
+      "_key": "e782f1583fc7542a",
+      "score": 6,
+      "title_cn": "美国私人资金资助比耶省建设18座桥梁"
+    },
+    {
+      "title": "Compras online disparam 98% para 52 mil milhões Kz no I.º trimestre",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_4fd5287095a512",
+      "score": 6,
+      "title_cn": "第一季度在线购物激增98%，达520亿宽扎"
+    },
+    {
+      "title": "A Estratégia de Endividamento 2026-2028 | A arte do equilíbrio entre o défice presente e o fardo futuro",
+      "url": "https://expansao.co.ao/analise/detalhe/a-estrategia-de-endividamento-2026-2028-a-arte-do-equilibrio-entre-o-defice-presente-e-o-fardo-futuro-71954.html",
+      "source": "Expansão",
+      "_key": "24427739ef87f84f",
+      "score": 6,
+      "title_cn": "2026-2028年债务战略：平衡当前赤字与未来负担"
+    },
+    {
+      "title": "Destaque Comissão Económica aprecia medidas de estímulo à produção de bens As medidas complementares de estímulo à produção de bens essenciais foram apreciadas, hoje, na primeira reunião ordinária da Comissão de Económica do Conselho de Ministros, orientada pelo Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676718/comiss%C3%A3o-econ%C3%B3mica-aprecia-medidas-de-est%C3%ADmulo-%C3%A0-produ%C3%A7%C3%A3o-de-bens-",
+      "source": "Jornal de Angola",
+      "_key": "03ad660b83fc4d2c",
+      "score": 6,
+      "title_cn": "经济委员会审议刺激基本商品生产措施"
+    },
+    {
+      "title": "Política Comissão Económica reunida no Palácio Presidencial ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676712/comiss%C3%A3o-econ%C3%B3mica-reunida-no-pal%C3%A1cio-presidencial-",
+      "source": "Jornal de Angola",
+      "_key": "0f15171609632760",
+      "score": 6,
+      "title_cn": "经济委员会在总统府举行会议"
+    },
+    {
+      "title": "Economia ANIESA apreende bens avaliados em dois mil milhões de kwanzas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676679/aniesa-apreende-bens-avaliados-em-dois-mil-milh%C3%B5es-de-kwanzas",
+      "source": "Jornal de Angola",
+      "_key": "4fea398f87bdc914",
+      "score": 6,
+      "title_cn": "ANIESA查获价值20亿宽扎的商品"
+    },
+    {
+      "title": "DIIP apreende grandes quantidades de produtos alimentares...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-apreende-grandes-quantidades-de-produtos-alimentares-estragados-a-venda-nos-mulenvos-71958.html",
+      "source": "Novo Jornal",
+      "_key": "5b59ca0931e6c186",
+      "score": 6,
+      "title_cn": "DIIP查获大量食品"
+    },
+    {
+      "title": "Especialista esclarece que luto nacional não implica dispensa laboral e apela ao cumprimento das obrigações",
+      "url": "https://correiokianda.info/especialista-esclarece-que-luto-nacional-nao-implica-dispensa-laboral-e-apela-ao-cumprimento-das-obrigacoes/",
+      "source": "Correio Kianda",
+      "_key": "e9a5fa7eb15ed76b",
       "score": 5,
-      "title_cn": "非洲开发银行警告非洲无力降低金融风险"
+      "title_cn": "专家澄清：全国哀悼不免除工作义务，呼吁履行职责"
+    },
+    {
+      "title": "Geopolítica africana 1963 – 2026: a Agência de Desenvolvimento da União Africana (AUDA-NEPAD)",
+      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-a-agencia-de-desenvolvimento-da-uniao-africana-auda-nepad/",
+      "source": "Correio Kianda",
+      "_key": "a93b618d757009e8",
+      "score": 5,
+      "title_cn": "1963-2026非洲地缘政治：非洲联盟发展机构（AUDA-NEPAD）"
+    },
+    {
+      "title": "Geopolítica africana 1963 – 2026: educação e desenvolvimento do capital humano",
+      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-educacao-e-desenvolvimento-do-capital-humano/",
+      "source": "Correio Kianda",
+      "_key": "bbff859769640af5",
+      "score": 5,
+      "title_cn": "1963 - 2026 年非洲地缘政治 ： 教育和人力资本发展"
+    },
+    {
+      "title": "Direito de resposta: \"Africell bate Unitel e lidera desempenho de internet móvel em Angola\"",
+      "url": "https://expansao.co.ao/empresas/detalhe/direito-de-resposta-africell-bate-unitel-e-lidera-desempenho-de-internet-movel-em-angola-71956.html",
+      "source": "Expansão",
+      "_key": "34688da44cf08ca1",
+      "score": 5,
+      "title_cn": "回应权：Africell超越Unitel，领跑安哥拉移动互联网"
     }
   ]
 }
