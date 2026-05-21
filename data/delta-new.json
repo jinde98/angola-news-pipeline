@@ -1,620 +1,344 @@
 {
   "date": "2026-05-21",
-  "total_extracted": 1511,
-  "total_new": 102,
-  "total_existing": 1409,
+  "total_extracted": 1648,
+  "total_new": 56,
+  "total_existing": 1592,
   "articles": [
     {
-      "title": "Angola and France trade exchanges reached two billion euros in 2025",
-      "url": "https://www.angop.ao/en/noticias/economia/trocas-comerciais-angola-e-franca-atingem-dois-mil-milhoes-de-euros-em-2025/",
+      "title": "Cabinda receives over 2,000 doses of monkey pox vaccines",
+      "url": "https://www.angop.ao/en/noticias/saude/cabinda-recebe-vacinas-para-combater-variola-dos-macacos/",
       "source": "ANGOP",
-      "_key": "fc7902c067baf5cc"
+      "_key": "56a43f5a9d5cda33"
     },
     {
-      "title": "Minister advocates for balance to foster healthy family relationships",
-      "url": "https://www.angop.ao/en/noticias/sociedade/ministra-defende-equilibrio-para-relacoes-familiares-saudaveis/",
-      "source": "ANGOP",
-      "_key": "ce544109c2e72ade"
-    },
-    {
-      "title": "Head of State calls for forgiveness among Angolans",
-      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-apela-ao-perdao-entre-angolanos/",
-      "source": "ANGOP",
-      "_key": "5be45028c6794eba"
-    },
-    {
-      "title": "President João Lourenço decrees national mourning to honor political conflict victims",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-decreta-luto-nacional-em-homenagem-as-vitimas-dos-conflitos-politicos/",
-      "source": "ANGOP",
-      "_key": "a71172d39254f47c"
-    },
-    {
-      "title": "Parliamentary TV to give greater visibility to legislative activity – Speaker",
-      "url": "https://www.angop.ao/en/noticias/politica/tv-parlamento-da-maior-visibilidade-a-actividade-legislativa-adao-de-almeida/",
-      "source": "ANGOP",
-      "_key": "2c5e6dff75a8b80d"
-    },
-    {
-      "title": "Angola ends its participation in AFCON under-17 after defeat",
-      "url": "https://www.angop.ao/en/noticias/desporto/futebol-angola-termina-com-derrota-participacao-no-can-sub-17/",
-      "source": "ANGOP",
-      "_key": "db5a579478479453"
-    },
-    {
-      "title": "Trocas comerciais",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=65857",
-      "source": "ANGOP",
-      "_key": "1e441ec729e55b98"
-    },
-    {
-      "title": "Reconciliação Nacional",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=70351",
-      "source": "ANGOP",
-      "_key": "0c931763a601bd90"
-    },
-    {
-      "title": "Angola chairs SADC-PF Standing Committee on Human and Social Development",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-assume-lideranca-da-comissao-hsdsp-da-sadc-pf/",
-      "source": "ANGOP",
-      "_key": "a19bcceb9c39a28e"
-    },
-    {
-      "title": "Event tourism has the potential to generate one billion dollars in Angola",
-      "url": "https://www.angop.ao/en/noticias/turismo/turismo-de-eventos-tem-potencial-para-render-mil-milhoes-de-dolares-em-angola/",
-      "source": "ANGOP",
-      "_key": "96aa0484b76684a3"
-    },
-    {
-      "title": "Angola participates in African regulators conference",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-participa-na-conferencia-africana-dos-reguladores/",
-      "source": "ANGOP",
-      "_key": "23f1448f0cfac077"
-    },
-    {
-      "title": "ENDE customer's debt in Zaire province estimated at 5bln Kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/divida-dos-clientes-da-ende-no-zaire-avaliada-em-cinco-mil-milhoes/",
-      "source": "ANGOP",
-      "_key": "0ec0ee7050597862"
-    },
-    {
-      "title": "US private funding enables construction of 18 bridges in Bie",
-      "url": "https://www.angop.ao/en/noticias/sociedade/financiamento-privado-dos-eua-permite-construcao-de-18-pontes-no-bie/",
-      "source": "ANGOP",
-      "_key": "e782f1583fc7542a"
-    },
-    {
-      "title": "Specialist calls for better management of Angola's cultural heritage",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/especialista-quer-melhor-gestao-do-patrimonio-cultural-de-angola/",
-      "source": "ANGOP",
-      "_key": "07f237eb76329b34"
-    },
-    {
-      "title": "Cholera Outbreak - Cunene Health Office increases efforts on 2nd round of vaccination campaign",
-      "url": "https://www.angop.ao/en/noticias/saude/saude-reforca-mobilizacao-para-2a-ronda-da-vacina-contra-poliomielite/",
-      "source": "ANGOP",
-      "_key": "07d46ed3d2be6ee4"
-    },
-    {
-      "title": "João Lourenço decreta luto nacional em memória das vítimas dos conflitos políticos em Angola",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34372-joao-lourenco-decreta-luto-nacional-em-memoria-das-vitimas-dos-conflitos-politicos-em-angola",
+      "title": "Importadores de arroz, frango e açúcar obrigados a comprar 20% da produção nacional",
+      "url": "https://angola24horas.com/economia/item/34378-importadores-de-arroz-frango-e-acucar-obrigados-a-comprar-20-da-producao-nacional",
       "source": "Angola 24 Horas",
-      "_key": "49cfe3930b1ead7a"
+      "_key": "eeec12f0894bcedc"
     },
     {
-      "title": "Parlamento angolano aprova lei contra “fake news” com votos contra da UNITA",
-      "url": "https://angola24horas.com/component/k2/item/34374-parlamento-angolano-aprova-lei-contra-fake-news-com-votos-contra-da-unita",
+      "title": "Angola perde 178 mil milhões de kwanzas por ano devido ao vandalismo, diz Governo",
+      "url": "https://angola24horas.com/politica/item/34377-angola-perde-178-mil-milhoes-de-kwanzas-por-ano-devido-ao-vandalismo-diz-governo",
       "source": "Angola 24 Horas",
-      "_key": "263bb25da551f62a"
+      "_key": "532d250a4945c66b"
     },
     {
-      "title": "Parlamento confirma João Manuel Francisco como novo Provedor de Justiça",
-      "url": "https://angola24horas.com/politica/item/34373-parlamento-confirma-joao-manuel-francisco-como-novo-provedor-de-justica",
+      "title": "Gastos previstos pelo Tribunal de Contas para 2026 levantam questionamentos",
+      "url": "https://angola24horas.com/sociedade/item/34376-gastos-previstos-pelo-tribunal-de-contas-para-2026-levantam-questionamentos",
       "source": "Angola 24 Horas",
-      "_key": "7931579d03166caa"
+      "_key": "4eea6e63c391d704"
     },
     {
-      "title": "Deputados do MPLA e do PHA consideram inoportuno o pacto de estabilidade proposto pela UNITA",
-      "url": "https://angola24horas.com/politica/item/34371-deputados-do-mpla-e-do-pha-consideram-inoportuno-o-pacto-de-estabilidade-proposto-pela-unita",
+      "title": "UNITA rejeita Lei contra “fake news” e denuncia risco de perseguição política",
+      "url": "https://angola24horas.com/politica/item/34375-unita-rejeita-lei-contra-fake-news-e-denuncia-risco-de-perseguicao-politica",
       "source": "Angola 24 Horas",
-      "_key": "76fa3f918fb5ee7e"
+      "_key": "a0890376ac83eb09"
     },
     {
-      "title": "TV Parlamento inicia emissões e reforça aproximação entre Assembleia Nacional e cidadãos",
-      "url": "https://angola24horas.com/politica/item/34370-tv-parlamento-inicia-emissoes-e-reforca-aproximacao-entre-assembleia-nacional-e-cidadaos",
-      "source": "Angola 24 Horas",
-      "_key": "5bce53e96d06c841"
-    },
-    {
-      "title": "Proposta de lei contra informações falsas vai esta quinta-feira a votação final",
-      "url": "https://correiokianda.info/proposta-de-lei-contra-informacoes-falsas-vai-esta-quinta-feira-a-votacao-final/",
+      "title": "Assembleia Nacional dá luz verde à Lei Contra desinformação digital",
+      "url": "https://correiokianda.info/assembleia-nacional-da-luz-verde-a-lei-contra-desinformacao-digital/",
       "source": "Correio Kianda",
-      "_key": "a0bc0c42dd9e29e5"
+      "_key": "3770670f462c63ac"
     },
     {
-      "title": "Luísa Damião eleita para liderar comissão do Fórum Parlamentar da SADC",
-      "url": "https://correiokianda.info/luisa-damiao-eleita-para-liderar-comissao-do-forum-parlamentar-da-sadc/",
+      "title": "Executivo quer aumentar presença de produtos nacionais no comércio",
+      "url": "https://correiokianda.info/executivo-quer-aumentar-presenca-de-produtos-nacionais-no-comercio/",
       "source": "Correio Kianda",
-      "_key": "bf1cb4fef6effb8e"
+      "_key": "cd3bd02affa607b0"
     },
     {
-      "title": "“Nova plataforma do BD coloca em causa futuro da Frente Ampla da UNITA”, afirmam analistas",
-      "url": "https://correiokianda.info/nova-plataforma-do-bd-coloca-em-causa-futuro-da-frente-ampla-da-unita-afirmam-analistas/",
+      "title": "Parlamento aprova lei contra informações falsas na internet com chumbo da UNITA",
+      "url": "https://correiokianda.info/parlamento-aprova-lei-contra-informacoes-falsas-na-internet-com-votos-contra-da-unita/",
       "source": "Correio Kianda",
-      "_key": "33ad9dd440489901"
+      "_key": "56f1ef30c015ffbb"
     },
     {
-      "title": "Adalberto Costa Júnior “desvaloriza alegada crise” entre o BD e a UNITA devido a formalização de coligação",
-      "url": "https://correiokianda.info/adalberto-costa-junior-desvaloriza-alegada-crise-entre-o-bd-e-a-unita-devido-a-formalizacao-de-coligacao/",
+      "title": "João Pinto é eleito novo provedor de Justiça com votação unânime no Parlamento",
+      "url": "https://correiokianda.info/joao-pinto-e-eleito-novo-provedor-de-justica-com-votacao-unanime-no-parlamento/",
       "source": "Correio Kianda",
-      "_key": "cf81a6a0f99644d2"
+      "_key": "9688d12d7e8116a2"
     },
     {
-      "title": "Liderança do MPLA: João Lourenço é único concorrente formalizado até ao momento",
-      "url": "https://correiokianda.info/joao-lourenco-e-o-unico-candidato-entregue-a-lideranca-do-mpla-ate-ao-momento/",
+      "title": "Candidato da lista C na Ordem dos Economistas acusado de plagiar programa eleitoral",
+      "url": "https://correiokianda.info/candidato-da-lista-c-na-ordem-dos-economistas-acusado-de-plagiar-programa-eleitoral/",
       "source": "Correio Kianda",
-      "_key": "cbc219788929e8ef"
+      "_key": "08955289a6b5c1cb"
     },
     {
-      "title": "José Lumbo pede maior impacto das políticas económicas na vida das pessoas",
-      "url": "https://correiokianda.info/jose-lumbo-pede-maior-impacto-das-politicas-economicas-na-vida-das-pessoas/",
+      "title": "BNA anuncia novas taxas das facilidades permanentes de liquidez",
+      "url": "https://correiokianda.info/bna-anuncia-novas-taxas-das-facilidades-permanentes-de-liquidez/",
       "source": "Correio Kianda",
-      "_key": "744ca8c25be0339d"
+      "_key": "4c89ab9a9c4d7ef1"
     },
     {
-      "title": "Lunda-Sul: Kwenda Urbano chega ao Saurimo para mil beneficiários em situação de vulnerabilidade",
-      "url": "https://correiokianda.info/lunda-sul-kwenda-urbano-chega-ao-saurimo-para-mil-beneficiarios-em-situacao-de-vulnerabilidade/",
+      "title": "Rússia envia munições especiais para armas nucleares na Bielorrússia",
+      "url": "https://correiokianda.info/russia-envia-municoes-especiais-para-armas-nucleares-na-bielorrussia/",
       "source": "Correio Kianda",
-      "_key": "47209dbdedcb4f2a"
+      "_key": "e059266f78f3c3ce"
     },
     {
-      "title": "Uíge regista primeira morte por varíola dos macacos ocorrida no Kimbele",
-      "url": "https://correiokianda.info/uige-regista-primeira-morte-por-variola-dos-macacos-no-maquela-do-zombo/",
-      "source": "Correio Kianda",
-      "_key": "c640454ac03516a5"
-    },
-    {
-      "title": "Especialista esclarece que luto nacional não implica dispensa laboral e apela ao cumprimento das obrigações",
-      "url": "https://correiokianda.info/especialista-esclarece-que-luto-nacional-nao-implica-dispensa-laboral-e-apela-ao-cumprimento-das-obrigacoes/",
-      "source": "Correio Kianda",
-      "_key": "e9a5fa7eb15ed76b"
-    },
-    {
-      "title": "“TV Parlamento marca nova era no legislativo angolano”, diz ministro",
-      "url": "https://correiokianda.info/tv-parlamento-marca-nova-era-no-legislativo-angolano-diz-ministro/",
-      "source": "Correio Kianda",
-      "_key": "36e319d39ad84681"
-    },
-    {
-      "title": "Museu das Vítimas de Conflitos reforça reconciliação nacional, defende historiador",
-      "url": "https://correiokianda.info/museu-das-vitimas-de-conflitos-reforca-reconciliacao-nacional-defende-historiador/",
-      "source": "Correio Kianda",
-      "_key": "45f0a13b52fcdc44"
-    },
-    {
-      "title": "Erdogan saúda prolongamento de cessar-fogo entre EUA e Irão e defende solução diplomática",
-      "url": "https://correiokianda.info/erdogan-sauda-prolongamento-de-cessar-fogo-entre-eua-e-irao-e-defende-solucao-diplomatica/",
-      "source": "Correio Kianda",
-      "_key": "c455f2fea1c70d08"
-    },
-    {
-      "title": "Itália convoca embaixador israelita e classifica tratamento de manifestantes como “inaceitável”",
-      "url": "https://correiokianda.info/italia-convoca-embaixador-israelita-e-classifica-tratamento-de-manifestantes-como-inaceitavel/",
-      "source": "Correio Kianda",
-      "_key": "894e154f7fd82a2a"
-    },
-    {
-      "title": "Trump garante alinhamento com Netanyahu sobre Irão",
-      "url": "https://correiokianda.info/trump-garante-alinhamento-com-netanyahu-sobre-irao/",
-      "source": "Correio Kianda",
-      "_key": "889242060cfc4174"
-    },
-    {
-      "title": "Estação de rádio britânica anuncia morte do Rei Carlos III por engano após falha técnica",
-      "url": "https://correiokianda.info/estacao-de-radio-britanica-anuncia-morte-do-rei-carlos-iii-por-engano-apos-falha-tecnica/",
-      "source": "Correio Kianda",
-      "_key": "c24b5800a843d2af"
-    },
-    {
-      "title": "Dois detidos por esquema de facilitação de imigração ilegal em Portugal",
-      "url": "https://correiokianda.info/moradas-falsas-e-atestados-suspeitos-levam-a-detencao-de-dois-homens-em-portugal/",
-      "source": "Correio Kianda",
-      "_key": "692c8f38d0d48b69"
-    },
-    {
-      "title": "Primeiros eleitos de Aliou Cissé serão conhecidos esta sexta-feira",
-      "url": "https://correiokianda.info/primeiros-eleitos-de-aliou-cisse-serao-conhecidos-esta-sexta-feira/",
-      "source": "Correio Kianda",
-      "_key": "33da1593f705b989"
-    },
-    {
-      "title": "FIFA monitoriza surto de ébola na RD Congo antes do Mundial 2026",
-      "url": "https://correiokianda.info/fifa-monitoriza-surto-de-ebola-na-rd-congo-antes-do-mundial-2026/",
-      "source": "Correio Kianda",
-      "_key": "1b47462464ef2c62"
-    },
-    {
-      "title": "Angola perde com Moçambique e é eliminada do CAN Sub-17",
-      "url": "https://correiokianda.info/angola-perde-com-mocambique-e-e-eliminada-do-can-sub-17/",
-      "source": "Correio Kianda",
-      "_key": "11f170eb9d3eef50"
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: a Agência de Desenvolvimento da União Africana (AUDA-NEPAD)",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-a-agencia-de-desenvolvimento-da-uniao-africana-auda-nepad/",
-      "source": "Correio Kianda",
-      "_key": "a93b618d757009e8"
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: educação e desenvolvimento do capital humano",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-educacao-e-desenvolvimento-do-capital-humano/",
-      "source": "Correio Kianda",
-      "_key": "bbff859769640af5"
-    },
-    {
-      "title": "        África5 horas atrás  África do Sul disponibiliza 2,5 milhões de dólares para reforçar resposta ao Ébola na RDC e Uganda A África do Sul anunciou uma contribuição de 2,5 milhões de dólares norte-americanos para apoiar a resposta ao surto de Ébola na República Democrática do Congo...   ",
-      "url": "https://correiokianda.info/africa-do-sul-disponibiliza-25-milhoes-de-dolares-para-reforcar-resposta-ao-ebola-na-rdc-e-uganda/",
-      "source": "Correio Kianda",
-      "_key": "915eac606f5da55a"
-    },
-    {
-      "title": "Presidente decreta Luto Nacional e apela à reconciliação: “Passado deve servir de lição para prevenir erros e crimes”",
-      "url": "https://diariodosnegocios.com/presidente-decreta-luto-nacional-e-apela-a-reconciliacao-passado-deve-servir-de-licao-para-prevenir-erros-e-crimes/",
+      "title": "Comissão Económica aprova obrigatoriedade de venda de produtos nacionais nos estabelecimentos comerciais",
+      "url": "https://diariodosnegocios.com/comissao-economica-aprova-obrigatoriedade-de-venda-de-produtos-nacionais-nos-estabelecimentos-comerciais/",
       "source": "Diário dos Negócios",
-      "_key": "b6b49eed391da2f6"
+      "_key": "646739090d3e190c"
     },
     {
-      "title": " Presidente decreta Luto Nacional e apela à reconciliação: “Passado deve servir de lição para prevenir erros e crimes” ",
+      "title": "BPC perde mais de 217 mil clientes em cinco anos enquanto bancos privados disparam",
+      "url": "https://diariodosnegocios.com/bpc-perde-mais-de-217-mil-clientes-em-cinco-anos-enquanto-bancos-privados-disparam/",
+      "source": "Diário dos Negócios",
+      "_key": "f1488b893c35413a"
+    },
+    {
+      "title": "Escrutínio europeu sobre capitais angolanos leva Omatapalo a reorganizar estruturas internacionais",
+      "url": "https://diariodosnegocios.com/escrutinio-europeu-sobre-capitais-angolanos-leva-omatapalo-a-reorganizar-estruturas-internacionais/",
+      "source": "Diário dos Negócios",
+      "_key": "4e0691efe9440b27"
+    },
+    {
+      "title": " Comissão Económica aprova obrigatoriedade de venda de produtos nacionais nos estabelecimentos comerciais ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_9a475234a8cc33"
+      "_key": "t_531f69c7e481e2"
     },
     {
-      "title": "João Lourenço decreta um dia de luto nacional em homenagem às vítimas dos conflitos",
+      "title": " BPC perde mais de 217 mil clientes em cinco anos enquanto bancos privados disparam ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_d9220422499679"
+    },
+    {
+      "title": " Escrutínio europeu sobre capitais angolanos leva Omatapalo a reorganizar estruturas internacionais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_836aefa6cc02f6"
+    },
+    {
+      "title": "Angola continua sem ser capaz de transformar a agricultura em riqueza",
       "url": "",
       "source": "Expansão",
-      "_key": "t_a8485f210bbe83"
-    },
-    {
-      "title": "O EXPLICADOR FISCAL: Preços de transferência em Angola: o que está a mudar e como devem as empresas preparar-se?",
-      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-precos-de-transferencia-em-angola-o-que-esta-a-mudar-e-como-devem-as-empresas-preparar-se-71955.html",
-      "source": "Expansão",
-      "_key": "b499ec6a9f880288"
+      "_key": "t_225a4b6356063d"
     },
     {
       "title": "Direito de resposta: \"Africell bate Unitel e lidera desempenho de internet móvel em Angola\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/direito-de-resposta-africell-bate-unitel-e-lidera-desempenho-de-internet-movel-em-angola-71956.html",
-      "source": "Expansão",
-      "_key": "34688da44cf08ca1"
-    },
-    {
-      "title": "Investimento na refinaria do Lobito ascendeu a 1.000 milhões USD em 2025",
       "url": "",
       "source": "Expansão",
-      "_key": "t_56396f78118703"
+      "_key": "t_3b66fdae0a27f2"
     },
     {
-      "title": "Compras online disparam 98% para 52 mil milhões Kz no I.º trimestre",
+      "title": "Última hora: Angola regressa aos mercados com segunda emissão de Eurobonds do ano no valor de 1,5 mil milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/ultima-hora-angola-regressa-aos-mercados-com-segunda-emissao-de-eurobonds-do-ano-no-valor-de-15-mil-milhoes-usd-71969.html",
+      "source": "Expansão",
+      "_key": "a45b8a557615d67b"
+    },
+    {
+      "title": "Angola capta 1,5 mil milhões USD nos mercados internacionais com procura acima de 4 mil milhões",
+      "url": "https://forbesafricalusofona.com/angola-capta-15-mil-milhoes-usd-nos-mercados-internacionais-com-procura-acima-de-4-mil-milhoes/",
+      "source": "Forbes África",
+      "_key": "bf0ddfc758f39b45"
+    },
+    {
+      "title": "Ausência de políticas tributárias ajustadas e partilha de infra-estruturas elevam preços em Angola",
+      "url": "https://forbesafricalusofona.com/ausencia-de-politicas-tributarias-ajustadas-e-partilha-de-infra-estruturas-elevam-precos-em-angola/",
+      "source": "Forbes África",
+      "_key": "a6b9ad471e9caaa6"
+    },
+    {
+      "title": "Governo timorense revê em baixa crescimento económico em 2026 para 4,3%",
+      "url": "https://forbesafricalusofona.com/governo-timorense-reve-em-baixa-crescimento-economico-em-2026-para-43/",
+      "source": "Forbes África",
+      "_key": "4634831617ccde12"
+    },
+    {
+      "title": "AIPEX lança prémios para distinguir investidores e empresas que impulsionam economia angolana",
+      "url": "https://forbesafricalusofona.com/aipex-lanca-premios-para-distinguir-investidores-e-empresas-que-impulsionam-economia-angolana/",
+      "source": "Forbes África",
+      "_key": "4093459ebc7fa1e5"
+    },
+    {
+      "title": "Candidaturas ao Prémio Literário Arnaldo França abertas até 31 de Julho",
+      "url": "https://forbesafricalusofona.com/candidaturas-ao-premio-literario-arnaldo-franca-abertas-ate-31-de-julho/",
+      "source": "Forbes África",
+      "_key": "3d94cfe9cd973383"
+    },
+    {
+      "title": "Família do pintor português Neves e Sousa pretende doar a Angola espólio de 3.000 desenhos",
+      "url": "https://forbesafricalusofona.com/familia-do-pintor-portugues-neves-e-sousa-pretende-doar-a-angola-espolio-de-3-000-desenhos/",
+      "source": "Forbes África",
+      "_key": "a1528be32c788602"
+    },
+    {
+      "title": "Aprovada: Nova lei contra Fake News estabelece penas de prisão de até 10 anos em Angola",
+      "url": "https://holdonangola.com/aprovada-nova-lei-contra-fake-news-estabelece-penas-de-prisao-de-ate-10-anos-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "b7bf546eb0d56d77"
+    },
+    {
+      "title": "Amnistia Internacional exige investigação urgente ao assassinato de membros do ANAMOLA em Moçambique",
+      "url": "https://holdonangola.com/amnistia-internacional-exige-investigacao-urgente-ao-assassinato-de-membros-do-anamola-em-mocambique/",
+      "source": "Hold On Angola",
+      "_key": "4d2cd8eb68536c49"
+    },
+    {
+      "title": "Hélder Chihuto condena divulgação de vídeo íntimo e exige punição exemplar dos autores",
+      "url": "https://holdonangola.com/helder-chihuto-condena-divulgacao-de-video-intimo-e-exige-punicao-exemplar-dos-autores/",
+      "source": "Hold On Angola",
+      "_key": "fedfe0f84efe18ec"
+    },
+    {
+      "title": "Donald Trump afirma que negociações com Irão estão “por um fio”",
+      "url": "https://jornaloguardiao.com/2026/05/21/donald-trump-afirma-que-negociacoes-com-irao-estao-por-um-fio/",
+      "source": "Jornal O Guardião",
+      "_key": "b6dc6959e6a19661"
+    },
+    {
+      "title": "Quinta-feira, 21 de Maio, 2026",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_4fd5287095a512"
+      "source": "Jornal O Guardião",
+      "_key": "t_e6613551cc2b90"
     },
     {
-      "title": "Porque as empresas do futuro não sobreviverão sem confiança",
+      "title": " Donald Trump afirma que negociações com Irão estão “por um fio” ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_78df503eee83e1"
+      "source": "Jornal O Guardião",
+      "_key": "t_335452a295ba0f"
     },
     {
-      "title": "João Lourenço decreta um dia de luto nacional em homenagem às vítimas dos conflitosNuma mensagem dirigida à Nação, divulgada esta quarta-feira, o Chefe de Estado justificou a decisão com o impacto humano e simbólico da cerimónia prevista para assinalar a entrega de restos mortais às famílias das vítimas.",
-      "url": "https://expansao.co.ao/angola/detalhe/joao-lourenco-decreta-um-dia-de-luto-nacional-em-memoria-das-vitimas-dos-conflitos-71960.html",
-      "source": "Expansão",
-      "_key": "84b70c3f4cf3b8ea"
-    },
-    {
-      "title": "Brent sobe e WTI recua em sessão marcada por tensão geopolítica e queda das reservas dos EUA",
-      "url": "https://expansao.co.ao/economia/detalhe/brent-e-wti-seguem-em-direcoes-opostas-apos-eua-registarem-maior-queda-de-sempre-nas-reservas-estrategicas-de-crude-71957.html",
-      "source": "Expansão",
-      "_key": "fc9c9719a215f106"
-    },
-    {
-      "title": "A Estratégia de Endividamento 2026-2028 | A arte do equilíbrio entre o défice presente e o fardo futuro",
-      "url": "https://expansao.co.ao/analise/detalhe/a-estrategia-de-endividamento-2026-2028-a-arte-do-equilibrio-entre-o-defice-presente-e-o-fardo-futuro-71954.html",
-      "source": "Expansão",
-      "_key": "24427739ef87f84f"
-    },
-    {
-      "title": "Destaque TAAG apresenta sexta-feira relatório de gestão 2025 A TAAG realiza sexta-feira, 22, uma conferência de imprensa para a apresentação do Relatório de Gestão 2025. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676704/taag-apresenta-sexta-feira-relat%C3%B3rio-de-gest%C3%A3o-2025-",
+      "title": "Destaque Mais de 50 mil passaportes electrónicos angolanos circulam pelo mundo sem constrangimentosActualmente mais de 50 mil passaportes electrónicos angolanos circulam pelo mundo sem nenhum registo formal de constrangimentos com a sua utilização, tranquilizou, hoje, o Serviço de Migração e Estrangeiros (SME).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676729/mais-de-50-mil-passaportes-electr%C3%B3nicos-angolanos-circulam-pelo-mundo-sem-constrangimentos",
       "source": "Jornal de Angola",
-      "_key": "7199f7a72ed6d78a"
+      "_key": "cb638660f87eb2f0"
     },
     {
-      "title": "Destaque João Pinto eleito novo Provedor de Justiça com 171 votos a favorO candidato ao cargo de Provedor de Justiça, João Pinto, foi eleito, esta quinta-feira, pelos deputados da Assembleia Nacional, com 171 votos a favor, sem votos contra e sem abstenções.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676700/jo%C3%A3o-pinto-eleito-novo-provedor-de-justi%C3%A7a-com-171-votos-a-favor",
+      "title": "Política Cuba pretende dinamizar Comissão Intergovernamental com Angola ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676731/cuba-pretende-dinamizar-comiss%C3%A3o-intergovernamental-com-angola",
       "source": "Jornal de Angola",
-      "_key": "84c245b916f644f0"
+      "_key": "ab5c093f338012f6"
     },
     {
-      "title": "Destaque Aprovada na globalidade Proposta de Lei Contra Informações Falsas na InternetA Proposta de Lei Contra Informações Falsas na Internet foi aprovada, esta quinta-feira, na globalidade pela Assembleia Nacional, com 120 votos a favor, 72 contra e nenhuma abstenção. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676699/aprovada-na-globalidade-proposta-de-lei-contra-informa%C3%A7%C3%B5es-falsas-na-internet",
+      "title": "Sociedade Passaportes portugueses passam a ser levantados sem agendamento prévio este mês ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676730/passaportes-portugueses-passam-a-ser-levantados-sem-agendamento-pr%C3%A9vio-este-m%C3%AAs",
       "source": "Jornal de Angola",
-      "_key": "d50045ce1f104ef2"
+      "_key": "6d15f9f0eae529f1"
     },
     {
-      "title": "Destaque Comissão Económica aprecia medidas de estímulo à produção de bens As medidas complementares de estímulo à produção de bens essenciais foram apreciadas, hoje, na primeira reunião ordinária da Comissão de Económica do Conselho de Ministros, orientada pelo Presidente da República, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676718/comiss%C3%A3o-econ%C3%B3mica-aprecia-medidas-de-est%C3%ADmulo-%C3%A0-produ%C3%A7%C3%A3o-de-bens-",
+      "title": "Mundo Preços dos combustíveis em África aumentam devido à guerra no Irão ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676725/pre%C3%A7os-dos-combust%C3%ADveis-em-%C3%A1frica-aumentam-devido-%C3%A0-guerra-no-ir%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "03ad660b83fc4d2c"
+      "_key": "37021f6ec2883154"
     },
     {
-      "title": "Destaque Colocada primeira pedra para construção do Hospital do Tômbwa A primeira pedra do Hospital do Tômbwa, cuja previsão é que fique concluído em Março de 2027, foi colocada, hoje, no Namibe, pelo governador local, Archer Mangueira. ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676707/colocada-primeira-pedra-para-constru%C3%A7%C3%A3o-do-hospital-do-t%C3%B4mbwa--",
+      "title": "Regiões Mais de 70% dos jovens do Bié envolvidos na construção civil ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676724/mais-de-70%25-dos-jovens-do-bi%C3%A9-envolvidos-na-constru%C3%A7%C3%A3o-civil",
       "source": "Jornal de Angola",
-      "_key": "238f323b872569ff"
+      "_key": "ae5ce2381206dcdc"
     },
     {
-      "title": "Sociedade Detida empregada doméstica por importunação sexual contra menor de três anos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676717/detida-empregada-dom%C3%A9stica-por-importuna%C3%A7%C3%A3o-sexual-contra-menor-de-tr%C3%AAs-anos",
+      "title": "Política Manuel Franessa substitui Carla Cativa na Assembleia Nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676723/manuel-franessa-substitui-carla-cativa-na-assembleia-nacional",
       "source": "Jornal de Angola",
-      "_key": "e23edc6f9152f43b"
+      "_key": "4b3df5ca507dd342"
     },
     {
-      "title": "Política Comissão Económica reunida no Palácio Presidencial ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676712/comiss%C3%A3o-econ%C3%B3mica-reunida-no-pal%C3%A1cio-presidencial-",
-      "source": "Jornal de Angola",
-      "_key": "0f15171609632760"
-    },
-    {
-      "title": "Regiões BB Eskebra aberto ao público em Saurimo ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676711/bb-eskebra-aberto-ao-p%C3%BAblico-em-saurimo-",
-      "source": "Jornal de Angola",
-      "_key": "d02eb58446fefada"
-    },
-    {
-      "title": "Mundo Estados Unidos acusam criminalmente ex-presidente cubano Raúl Castro ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676703/estados-unidos-acusam-criminalmente-ex-presidente-cubano-ra%C3%BAl-castro",
-      "source": "Jornal de Angola",
-      "_key": "32c77d224a3892b2"
-    },
-    {
-      "title": "Mundo Autoridades francesas investigam denúncias de abusos sexuais em creches parisienses ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676702/autoridades-francesas-investigam-den%C3%BAncias-de-abusos-sexuais-em-creches-parisienses",
-      "source": "Jornal de Angola",
-      "_key": "3e88505fb4f39e19"
-    },
-    {
-      "title": "Sociedade Acusação de feitiçaria resulta em espancamento até à morte de idoso na Lunda-Norte ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676701/acusa%C3%A7%C3%A3o-de-feiti%C3%A7aria-resulta-em-espancamento-at%C3%A9-%C3%A0-morte-de-idoso-na-lunda-norte",
-      "source": "Jornal de Angola",
-      "_key": "3fb1c4fa982394b9"
-    },
-    {
-      "title": "Política Assembleia Nacional reforça compromisso com a transparência e o acesso à informação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676690/assembleia-nacional-refor%C3%A7a-compromisso-com-a-transpar%C3%AAncia-e-o-acesso-%C3%A0-informa%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "a222535c166bc4cb"
-    },
-    {
-      "title": "Sociedade “Igualdade de género não deve ser entendida como uma disputa entre homens e mulheres” ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676683/%E2%80%9Cigualdade-de-g%C3%A9nero-n%C3%A3o-deve-ser-entendida-como-uma-disputa-entre-homens-e-mulheres%E2%80%9D",
-      "source": "Jornal de Angola",
-      "_key": "513ed8295dee86f6"
-    },
-    {
-      "title": "Economia ANIESA apreende bens avaliados em dois mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676679/aniesa-apreende-bens-avaliados-em-dois-mil-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "4fea398f87bdc914"
-    },
-    {
-      "title": "Sociedade Maior parte das farmácias funciona de forma ilegal ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676676/maior-parte-das-farm%C3%A1cias-funciona-de-forma-ilegal",
-      "source": "Jornal de Angola",
-      "_key": "f832dec5d52d31f7"
-    },
-    {
-      "title": "Economia Criados mais de 2.000 novos empregos na Huíla ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676675/criados-mais-de-2.000--novos-empregos-na-hu%C3%ADla",
-      "source": "Jornal de Angola",
-      "_key": "49dccf788e066967"
-    },
-    {
-      "title": "Economia Huambo vai acolher centro de excelência de produtos agrícolas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676672/huambo-vai-acolher-centro-de-excel%C3%AAncia-de-produtos-agr%C3%ADcolas",
-      "source": "Jornal de Angola",
-      "_key": "f19a130436805b80"
-    },
-    {
-      "title": "Decretado luto nacional em memória das vítimas dos conflitos políticos no país O Presidente da República, João Lourenço, decretou, quarta-feira, luto nacional para o dia de amanhã, em todo o país, em memória de todas as vítimas dos conflitos políticos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676668/decretado-luto-nacional-em-mem%C3%B3ria-das-v%C3%ADtimas-dos-conflitos-pol%C3%ADticos-no-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "d8930459d25df2e7"
-    },
-    {
-      "title": "Miopia: será possível evitar a pandemia do século XXI?",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/676678/miopia:-ser%C3%A1-poss%C3%ADvel-evitar--a-pandemia-do-s%C3%A9culo-xxi%3F",
-      "source": "Jornal de Angola",
-      "_key": "aa5bc6620b68cc1a"
-    },
-    {
-      "title": "Comunicação não é o que você diz, é o que os outros entendem",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/676671/comunica%C3%A7%C3%A3o-n%C3%A3o--%C3%A9-o-que-voc%C3%AA-diz-%C3%A9-o-que-os-outros-entendem",
-      "source": "Jornal de Angola",
-      "_key": "7c88310b79233b4b"
-    },
-    {
-      "title": "Construção de habitações ao longo do Corredor do Lobito",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/676670/constru%C3%A7%C3%A3o-de-habita%C3%A7%C3%B5es-ao-longo-do-corredor-do-lobito",
-      "source": "Jornal de Angola",
-      "_key": "d3d9bb6b1f41da4a"
-    },
-    {
-      "title": "Índia e África - Parceiros para um futuro mais risonho",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/676669/%C3%ADndia-e-%C3%A1frica---parceiros-para-um-futuro-mais-risonho",
-      "source": "Jornal de Angola",
-      "_key": "08384210ff7cd2fe"
-    },
-    {
-      "title": "Última hora Aliou Cissé divulga sexta-feira primeira convocatória no comando das Palancas Negras",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/676667/aliou-ciss%C3%A9-divulga-sexta-feira-primeira-convocat%C3%B3ria-no-comando-das-palancas-negras",
-      "source": "Jornal de Angola",
-      "_key": "2b2a9e1db3ff872a"
-    },
-    {
-      "title": "Lei contra \"fake news\" aprovada definitivamente com...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/lei-contra-fake-news-aprovada-definitivamente-com-votos-do-mpla-prs-e-pha-unita-votou-contra-diploma-que-abre-espaco-para-criminalizar-jornalistas-e-utilizadores-71959.html",
+      "title": "Alteração da Lei de Prevenção e Combate ao Branqueamento...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/alteracao-da-lei-de-prevencao-e-combate-ao-branqueamento-de-capitais-aprovada-por-unanimidade-na-generalidade---mpla-diz-que-em-angola-nao-ha-porto-seguro-para-quem-lucra-com-estes-crimes-71968.html",
       "source": "Novo Jornal",
-      "_key": "4453cd9c1c2a015a"
+      "_key": "fae91e9cfd2b6223"
     },
     {
-      "title": "Jurista João Pinto é o novo provedor de Justiça, eleito...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/jurista-joao-pinto-e-o-novo-provedor-de-justica-eleito-por-unanimidade-no-parlamento-71953.html",
+      "title": "Técnico de reparação de telemóveis tenta extorquir...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tecnico-de-reparacao-de-telemoveis-tenta-extorquir-cliente-com-ameaca-de-divulgar-imagens-intimas-nas-redes-sociais-porem-foi-detido-71972.html",
       "source": "Novo Jornal",
-      "_key": "fd8c2a424599da7b"
+      "_key": "d38e562e323a0265"
     },
     {
-      "title": "PR decreta luto nacional esta sexta-feira, em memória...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-decreta-luto-nacional-esta-sexta-feira-em-memoria-de-todas-as-vitimas-dos-conflitos-ocorridos-no-pais-71949.html",
+      "title": "INAAREES diz ter reduzido período de espera para homologação...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inaarees-diz-ter-reduzido-periodo-de-espera-para-homologacao-de-diplomas-mas-requerentes-contestam-71971.html",
       "source": "Novo Jornal",
-      "_key": "105e74bac13c65b0"
+      "_key": "c46db90766be4452"
     },
     {
-      "title": "Caso russos: Igor Rochin diz ser um empresário que...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-igor-rochin-diz-ser-um-empresario-que-veio-investir-em-angola-e-confirma-reunioes-com-acj-hc-dino-matrosse-e-lukamba-gato-mas-nega-ligacao-ao-terrorismo-71961.html",
+      "title": "MINFIN volta atrás e \"esconde\" valor das empreitadas...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/minfin-volta-atras-e-esconde-valor-das-empreitadas-para-construcao-da-nova-sede-e-requalificacao-da-antiga-71963.html",
       "source": "Novo Jornal",
-      "_key": "c5242d360e4aa99d"
+      "_key": "9e1e5b083b654f3d"
     },
     {
-      "title": "DIIP apreende grandes quantidades de produtos alimentares...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-apreende-grandes-quantidades-de-produtos-alimentares-estragados-a-venda-nos-mulenvos-71958.html",
+      "title": "Ébola/RDC: Selecção nacional da RDC muda preparação...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-seleccao-nacional-da-rdc-muda-preparacao-do-mundial-de-futebol-de-kinshasa-para-a-belgica-virus-ja-chegou-ao-kivu-sul-e-oms-reforca-alerta-global-71970.html",
       "source": "Novo Jornal",
-      "_key": "5b59ca0931e6c186"
+      "_key": "b8c3ce38eda7a2a5"
     },
     {
-      "title": "Médio Oriente: Trump prepara regresso à guerra nas...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-prepara-regresso-a-guerra-nas-proximas-horas-tudo-indica-que-sim-porque-o-presidente-dos-eua-esta-entre-a-espada-da-derrota-e-a-parede-da-humilhacao-71962.html",
+      "title": "FÓRUM MARGINAL: LANÇAMENTO DE AUTOCARROS ELÉTRICOS. Com Edgar Oseias - Administrador do grupo Rosalina Express.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=71965",
       "source": "Novo Jornal",
-      "_key": "f071c0dca49007b5"
+      "_key": "ae758f6f113905af"
     },
     {
-      "title": "Cuba é o próximo alvo no mapa das intervenções dos...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/cuba-e-o-proximo-alvo-no-mapa-das-intervencoes-dos-eua-ex-presidente-raul-castro-acusado-pelo-departamento-de-justica-havana-prepara-se-para-invasao-71952.html",
+      "title": "PONTO AO: DIGITALIZAÇÃO E PRODUTIVIDADE. Do FM ao Streaming: o futuro da rádio em Angola.",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=71967",
       "source": "Novo Jornal",
-      "_key": "fb518ebb9bb38c7b"
+      "_key": "06c79ff781fa5251"
     },
     {
-      "title": "Até jazz: 100 anos de dois Gigantes - Paisagens sonoras...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/ate-jazz-100-anos-de-dois-gigantes---paisagens-sonoras-de-miles-davis-e-john-coltrane-71947.html",
-      "source": "Novo Jornal",
-      "_key": "6f25860393260ffa"
-    },
-    {
-      "title": "FÓRMULA DE SUCESSO: IA: AMEAÇA OU OPORTUNIDADE?  ",
-      "url": "https://marginal.co.ao/programas/formula-de-sucesso?ep=71951",
-      "source": "Novo Jornal",
-      "_key": "8ebd2a42bf99cd88"
-    },
-    {
-      "title": "Cidadãos e Poder legislativo mais próximos com a entrada em cena da TV parlamento",
-      "url": "https://www.opais.ao/jornal-opais/cidadaos-e-poder-legislativo-mais-proximos-com-a-entrada-em-cena-da-tv-parlamento/",
+      "title": "Campus Universitário do Caio vai albergar mais de 10 mil estudantes",
+      "url": "https://www.opais.ao/ultimas_hora/campus-universitario-do-caio-vai-albergar-mais-de-10-mil-estudantes/",
       "source": "O País",
-      "_key": "d937b1d2ea475a4c"
+      "_key": "43afb9ea357fd6b6"
     },
     {
-      "title": "Balança Comercial regista um saldo positivo acima dos 12 mil milhões de kwanzas em 2025",
-      "url": "https://www.opais.ao/economia/balanca-comercial-regista-um-saldo-positivo-acima-dos-12-mil-milhoes-de-kwanzas-em-2025/",
+      "title": "Parlamento aprova a Lei do Beneficiário Efectivo",
+      "url": "https://www.opais.ao/politica/parlamento-aprova-a-lei-do-beneficiario-efectivo/",
       "source": "O País",
-      "_key": "95ea8c4687063aa4"
+      "_key": "f759f8920fa9cac6"
     },
     {
-      "title": "João Pinto é o novo provedor de Justiça",
-      "url": "https://www.opais.ao/politica/joao-pinto-e-o-novo-provedor-de-justica/",
+      "title": "Téte António e embaixador cubano analisam estado actual das relações bilaterais",
+      "url": "https://www.opais.ao/politica/tete-antonio-e-embaixador-cubano-analisam-estado-actual-das-relacoes-bilaterais/",
       "source": "O País",
-      "_key": "c0576a7b1c32b06c"
+      "_key": "03345d830e2d301e"
     },
     {
-      "title": "Angola perde com Moçambique e diz “adeus” ao CAN Sub-17",
-      "url": "https://www.opais.ao/desporto/angola-perde-com-mocambique-e-diz-adeus-ao-can-sub-17/",
+      "title": "Mais de quinhentas crianças vão beneficiar de nova escola em Moçâmedes",
+      "url": "https://www.opais.ao/ultimas_hora/mais-de-quinhentas-criancas-vao-beneficiar-de-nova-escola-em-mocamedes/",
       "source": "O País",
-      "_key": "493aff443277aa60"
+      "_key": "3c7360b8d1ac8b3a"
     },
     {
-      "title": "Músico Ya Munene entre os suspeitos no patrocínio da exploração de ouro na Huíla",
-      "url": "https://www.opais.ao/sociedade/musico-ya-munene-entre-os-suspeitos-no-patrocinio-da-exploracao-de-ouro-na-huila/",
+      "title": "Governo Provincial do Cuanza-Norte lança concurso para pavimentação de vias urbanas na cidade do Dondo",
+      "url": "https://www.opais.ao/ultimas_hora/governo-provincial-do-cuanza-norte-lanca-concurso-para-pavimentacao-de-vias-urbanas-na-cidade-do-dondo/",
       "source": "O País",
-      "_key": "3fac3eaf0df616b7"
+      "_key": "665d65d339ff9cf9"
     },
     {
-      "title": "TAAG apresenta amanhã relatório de gestão referente ao ano de 2025",
-      "url": "https://www.opais.ao/economia/taag-apresenta-amanha-relatorio-de-gestao-referente-ao-ano-de-2025/",
+      "title": "Agentes do DIIP detidos no Cubango por cárcere privado de intermediário de venda de minério",
+      "url": "https://www.opais.ao/ultimas_hora/agentes-do-diip-detidos-no-cubango-por-carcere-privado-de-intermediario-de-venda-de-minerio/",
       "source": "O País",
-      "_key": "c2f9697afd12d555"
+      "_key": "5d15b3928d4b33a6"
     },
     {
-      "title": "Parlamento aprova na globalidade proposta de Lei Contra Informações Falsas na Internet",
-      "url": "https://www.opais.ao/politica/parlamento-aprova-na-globalidade-proposta-de-lei-contra-informacoes-falsas-na-internet/",
+      "title": "PR decreta luto nacional para esta sexta-feira",
+      "url": "https://www.opais.ao/politica/pr-decreta-luto-nacional-para-esta-sexta-feira/",
       "source": "O País",
-      "_key": "1417c7f67e0f544e"
+      "_key": "c330851dacb389d7"
     },
     {
-      "title": "Detido técnico de telemóveis que chantageava clientes com publicação de seus vídeos íntimos",
-      "url": "https://www.opais.ao/ultimas_hora/detido-tecnico-de-telemoveis-que-chantageava-clientes-com-publicacao-de-seus-videos-intimos/",
+      "title": "SIC desmantela associação criminosa suspeita de roubo com recurso à arma de fogo em Malanje",
+      "url": "https://www.opais.ao/ultimas_hora/sic-desmantela-associacao-criminosa-suspeita-de-roubo-com-recurso-a-arma-de-fogo-em-malanje/",
       "source": "O País",
-      "_key": "3d3309816e382192"
+      "_key": "6d8268ff2e62a107"
     },
     {
-      "title": "Pacientes diagnosticados com varíola dos macacos em Cabinda estão estáveis",
-      "url": "https://www.opais.ao/sociedade/pacientes-diagnosticados-com-variola-dos-macacos-em-cabinda-estao-estaveis/",
+      "title": "ADRA disponibiliza mais de 1 milhão de dólares americanos para apoiar cerca de 18 mil pessoas neste ano",
+      "url": "https://www.opais.ao/ultimas_hora/adra-disponibiliza-mais-de-1-milhao-de-dolares-americanos-para-apoiar-cerca-de-18-mil-pessoas-neste-ano/",
       "source": "O País",
-      "_key": "fa51504d0084aa18"
+      "_key": "9207d183bd4d99ed"
     },
     {
-      "title": "É de hoje…O dia da lei das fake news",
-      "url": "https://www.opais.ao/opiniao/e-de-hojeo-dia-da-lei-das-fake-news/",
+      "title": "PNAE beneficia mais de 15 mil alunos no município da Jamba Mineira",
+      "url": "https://www.opais.ao/ultimas_hora/pnae-beneficia-mais-de-15-mil-alunos-no-municipio-da-jamba-mineira/",
       "source": "O País",
-      "_key": "e3d79647a9c01fe3"
-    },
-    {
-      "title": "TV Parlamento",
-      "url": "https://www.opais.ao/opiniao/tv-parlamento/",
-      "source": "O País",
-      "_key": "6ca1ffd28a65ccfe"
-    },
-    {
-      "title": "Camama prepara reabilitação de vias afectadas por ravinas e lençol freático",
-      "url": "https://www.opais.ao/sociedade/camama-prepara-reabilitacao-de-vias-afectadas-por-ravinas-e-lencol-freatico/",
-      "source": "O País",
-      "_key": "7369df2d0cecb18b"
-    },
-    {
-      "title": "Governo prevê concluir este ano estrada de acesso à Centralidade de Ndalatando",
-      "url": "https://www.opais.ao/ultimas_hora/governo-preve-concluir-este-ano-estrada-de-acesso-a-centralidade-de-ndalatando/",
-      "source": "O País",
-      "_key": "4b7f2a311f40ece5"
-    },
-    {
-      "title": "Luto nacional não significa suspensão da actividade laboral, alerta jurista",
-      "url": "https://www.opais.ao/sociedade/luto-nacional-nao-significa-suspensao-da-actividade-laboral-alerta-jurista/",
-      "source": "O País",
-      "_key": "4064bea59bb856ec"
-    },
-    {
-      "title": "Angola e Fundo Global aprofundam cooperação para fortalecer sistema de saúde",
-      "url": "https://www.opais.ao/politica/angola-e-fundo-global-aprofundam-cooperacao-para-fortalecer-sistema-de-saude/",
-      "source": "O País",
-      "_key": "1c1585eb425f1fed"
-    },
-    {
-      "title": "Detidos membros da mesma família suspeitos de homicídio e enterro clandestino de cadáver na Lunda-Norte",
-      "url": "https://www.opais.ao/sociedade/detidos-membros-da-mesma-familia-suspeitos-de-homicidio-e-enterro-clandestino-de-cadaver-na-lunda-norte/",
-      "source": "O País",
-      "_key": "f4091f6a911f2c27"
-    },
-    {
-      "title": "Jornal OPaís",
-      "url": "https://www.opais.ao/categoria/jornal-opais/",
-      "source": "O País",
-      "_key": "d9b059a73d38bccc"
+      "_key": "0efc24239102598d"
     }
   ]
 }

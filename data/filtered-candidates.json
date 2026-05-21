@@ -1,140 +1,210 @@
 {
   "date": "2026-05-21",
-  "total_new": 102,
-  "total_filtered": 19,
-  "scored_by": "glm-flash",
+  "total_new": 56,
+  "total_filtered": 29,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "O EXPLICADOR FISCAL: Preços de transferência em Angola: o que está a mudar e como devem as empresas preparar-se?",
-      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-precos-de-transferencia-em-angola-o-que-esta-a-mudar-e-como-devem-as-empresas-preparar-se-71955.html",
-      "source": "Expansão",
-      "_key": "b499ec6a9f880288",
+      "title": "Importadores de arroz, frango e açúcar obrigados a comprar 20% da produção nacional",
+      "url": "https://angola24horas.com/economia/item/34378-importadores-de-arroz-frango-e-acucar-obrigados-a-comprar-20-da-producao-nacional",
+      "source": "Angola 24 Horas",
+      "_key": "eeec12f0894bcedc",
       "score": 9
     },
     {
-      "title": "Investimento na refinaria do Lobito ascendeu a 1.000 milhões USD em 2025",
+      "title": "BNA anuncia novas taxas das facilidades permanentes de liquidez",
+      "url": "https://correiokianda.info/bna-anuncia-novas-taxas-das-facilidades-permanentes-de-liquidez/",
+      "source": "Correio Kianda",
+      "_key": "4c89ab9a9c4d7ef1",
+      "score": 9
+    },
+    {
+      "title": "Comissão Económica aprova obrigatoriedade de venda de produtos nacionais nos estabelecimentos comerciais",
+      "url": "https://diariodosnegocios.com/comissao-economica-aprova-obrigatoriedade-de-venda-de-produtos-nacionais-nos-estabelecimentos-comerciais/",
+      "source": "Diário dos Negócios",
+      "_key": "646739090d3e190c",
+      "score": 9
+    },
+    {
+      "title": " Comissão Económica aprova obrigatoriedade de venda de produtos nacionais nos estabelecimentos comerciais ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_56396f78118703",
+      "source": "Diário dos Negócios",
+      "_key": "t_531f69c7e481e2",
       "score": 9
     },
     {
-      "title": "Construção de habitações ao longo do Corredor do Lobito",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/676670/constru%C3%A7%C3%A3o-de-habita%C3%A7%C3%B5es-ao-longo-do-corredor-do-lobito",
-      "source": "Jornal de Angola",
-      "_key": "d3d9bb6b1f41da4a",
+      "title": "Última hora: Angola regressa aos mercados com segunda emissão de Eurobonds do ano no valor de 1,5 mil milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/ultima-hora-angola-regressa-aos-mercados-com-segunda-emissao-de-eurobonds-do-ano-no-valor-de-15-mil-milhoes-usd-71969.html",
+      "source": "Expansão",
+      "_key": "a45b8a557615d67b",
       "score": 9
     },
     {
-      "title": "Brent sobe e WTI recua em sessão marcada por tensão geopolítica e queda das reservas dos EUA",
-      "url": "https://expansao.co.ao/economia/detalhe/brent-e-wti-seguem-em-direcoes-opostas-apos-eua-registarem-maior-queda-de-sempre-nas-reservas-estrategicas-de-crude-71957.html",
-      "source": "Expansão",
-      "_key": "fc9c9719a215f106",
+      "title": "Angola capta 1,5 mil milhões USD nos mercados internacionais com procura acima de 4 mil milhões",
+      "url": "https://forbesafricalusofona.com/angola-capta-15-mil-milhoes-usd-nos-mercados-internacionais-com-procura-acima-de-4-mil-milhoes/",
+      "source": "Forbes África",
+      "_key": "bf0ddfc758f39b45",
+      "score": 9
+    },
+    {
+      "title": "Alteração da Lei de Prevenção e Combate ao Branqueamento...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/alteracao-da-lei-de-prevencao-e-combate-ao-branqueamento-de-capitais-aprovada-por-unanimidade-na-generalidade---mpla-diz-que-em-angola-nao-ha-porto-seguro-para-quem-lucra-com-estes-crimes-71968.html",
+      "source": "Novo Jornal",
+      "_key": "fae91e9cfd2b6223",
+      "score": 9
+    },
+    {
+      "title": "Parlamento aprova a Lei do Beneficiário Efectivo",
+      "url": "https://www.opais.ao/politica/parlamento-aprova-a-lei-do-beneficiario-efectivo/",
+      "source": "O País",
+      "_key": "f759f8920fa9cac6",
+      "score": 9
+    },
+    {
+      "title": "Executivo quer aumentar presença de produtos nacionais no comércio",
+      "url": "https://correiokianda.info/executivo-quer-aumentar-presenca-de-produtos-nacionais-no-comercio/",
+      "source": "Correio Kianda",
+      "_key": "cd3bd02affa607b0",
       "score": 8
     },
     {
-      "title": "ENDE customer's debt in Zaire province estimated at 5bln Kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/divida-dos-clientes-da-ende-no-zaire-avaliada-em-cinco-mil-milhoes/",
-      "source": "ANGOP",
-      "_key": "0ec0ee7050597862",
-      "score": 7
+      "title": "Ausência de políticas tributárias ajustadas e partilha de infra-estruturas elevam preços em Angola",
+      "url": "https://forbesafricalusofona.com/ausencia-de-politicas-tributarias-ajustadas-e-partilha-de-infra-estruturas-elevam-precos-em-angola/",
+      "source": "Forbes África",
+      "_key": "a6b9ad471e9caaa6",
+      "score": 8
     },
     {
-      "title": "Destaque Colocada primeira pedra para construção do Hospital do Tômbwa A primeira pedra do Hospital do Tômbwa, cuja previsão é que fique concluído em Março de 2027, foi colocada, hoje, no Namibe, pelo governador local, Archer Mangueira. ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/676707/colocada-primeira-pedra-para-constru%C3%A7%C3%A3o-do-hospital-do-t%C3%B4mbwa--",
+      "title": "Mundo Preços dos combustíveis em África aumentam devido à guerra no Irão ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/676725/pre%C3%A7os-dos-combust%C3%ADveis-em-%C3%A1frica-aumentam-devido-%C3%A0-guerra-no-ir%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "238f323b872569ff",
-      "score": 7
+      "_key": "37021f6ec2883154",
+      "score": 8
     },
     {
-      "title": "Caso russos: Igor Rochin diz ser um empresário que...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-igor-rochin-diz-ser-um-empresario-que-veio-investir-em-angola-e-confirma-reunioes-com-acj-hc-dino-matrosse-e-lukamba-gato-mas-nega-ligacao-ao-terrorismo-71961.html",
-      "source": "Novo Jornal",
-      "_key": "c5242d360e4aa99d",
-      "score": 7
-    },
-    {
-      "title": "Balança Comercial regista um saldo positivo acima dos 12 mil milhões de kwanzas em 2025",
-      "url": "https://www.opais.ao/economia/balanca-comercial-regista-um-saldo-positivo-acima-dos-12-mil-milhoes-de-kwanzas-em-2025/",
+      "title": "Governo Provincial do Cuanza-Norte lança concurso para pavimentação de vias urbanas na cidade do Dondo",
+      "url": "https://www.opais.ao/ultimas_hora/governo-provincial-do-cuanza-norte-lanca-concurso-para-pavimentacao-de-vias-urbanas-na-cidade-do-dondo/",
       "source": "O País",
-      "_key": "95ea8c4687063aa4",
+      "_key": "665d65d339ff9cf9",
+      "score": 8
+    },
+    {
+      "title": "Angola perde 178 mil milhões de kwanzas por ano devido ao vandalismo, diz Governo",
+      "url": "https://angola24horas.com/politica/item/34377-angola-perde-178-mil-milhoes-de-kwanzas-por-ano-devido-ao-vandalismo-diz-governo",
+      "source": "Angola 24 Horas",
+      "_key": "532d250a4945c66b",
       "score": 7
     },
     {
-      "title": "US private funding enables construction of 18 bridges in Bie",
-      "url": "https://www.angop.ao/en/noticias/sociedade/financiamento-privado-dos-eua-permite-construcao-de-18-pontes-no-bie/",
-      "source": "ANGOP",
-      "_key": "e782f1583fc7542a",
+      "title": "Escrutínio europeu sobre capitais angolanos leva Omatapalo a reorganizar estruturas internacionais",
+      "url": "https://diariodosnegocios.com/escrutinio-europeu-sobre-capitais-angolanos-leva-omatapalo-a-reorganizar-estruturas-internacionais/",
+      "source": "Diário dos Negócios",
+      "_key": "4e0691efe9440b27",
+      "score": 7
+    },
+    {
+      "title": " Escrutínio europeu sobre capitais angolanos leva Omatapalo a reorganizar estruturas internacionais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_836aefa6cc02f6",
+      "score": 7
+    },
+    {
+      "title": "Aprovada: Nova lei contra Fake News estabelece penas de prisão de até 10 anos em Angola",
+      "url": "https://holdonangola.com/aprovada-nova-lei-contra-fake-news-estabelece-penas-de-prisao-de-ate-10-anos-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "b7bf546eb0d56d77",
+      "score": 7
+    },
+    {
+      "title": "MINFIN volta atrás e \"esconde\" valor das empreitadas...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/minfin-volta-atras-e-esconde-valor-das-empreitadas-para-construcao-da-nova-sede-e-requalificacao-da-antiga-71963.html",
+      "source": "Novo Jornal",
+      "_key": "9e1e5b083b654f3d",
+      "score": 7
+    },
+    {
+      "title": "Gastos previstos pelo Tribunal de Contas para 2026 levantam questionamentos",
+      "url": "https://angola24horas.com/sociedade/item/34376-gastos-previstos-pelo-tribunal-de-contas-para-2026-levantam-questionamentos",
+      "source": "Angola 24 Horas",
+      "_key": "4eea6e63c391d704",
       "score": 6
     },
     {
-      "title": "Compras online disparam 98% para 52 mil milhões Kz no I.º trimestre",
+      "title": "BPC perde mais de 217 mil clientes em cinco anos enquanto bancos privados disparam",
+      "url": "https://diariodosnegocios.com/bpc-perde-mais-de-217-mil-clientes-em-cinco-anos-enquanto-bancos-privados-disparam/",
+      "source": "Diário dos Negócios",
+      "_key": "f1488b893c35413a",
+      "score": 6
+    },
+    {
+      "title": " BPC perde mais de 217 mil clientes em cinco anos enquanto bancos privados disparam ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_d9220422499679",
+      "score": 6
+    },
+    {
+      "title": "Angola continua sem ser capaz de transformar a agricultura em riqueza",
       "url": "",
       "source": "Expansão",
-      "_key": "t_4fd5287095a512",
+      "_key": "t_225a4b6356063d",
       "score": 6
-    },
-    {
-      "title": "A Estratégia de Endividamento 2026-2028 | A arte do equilíbrio entre o défice presente e o fardo futuro",
-      "url": "https://expansao.co.ao/analise/detalhe/a-estrategia-de-endividamento-2026-2028-a-arte-do-equilibrio-entre-o-defice-presente-e-o-fardo-futuro-71954.html",
-      "source": "Expansão",
-      "_key": "24427739ef87f84f",
-      "score": 6
-    },
-    {
-      "title": "Destaque Comissão Económica aprecia medidas de estímulo à produção de bens As medidas complementares de estímulo à produção de bens essenciais foram apreciadas, hoje, na primeira reunião ordinária da Comissão de Económica do Conselho de Ministros, orientada pelo Presidente da República, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676718/comiss%C3%A3o-econ%C3%B3mica-aprecia-medidas-de-est%C3%ADmulo-%C3%A0-produ%C3%A7%C3%A3o-de-bens-",
-      "source": "Jornal de Angola",
-      "_key": "03ad660b83fc4d2c",
-      "score": 6
-    },
-    {
-      "title": "Política Comissão Económica reunida no Palácio Presidencial ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676712/comiss%C3%A3o-econ%C3%B3mica-reunida-no-pal%C3%A1cio-presidencial-",
-      "source": "Jornal de Angola",
-      "_key": "0f15171609632760",
-      "score": 6
-    },
-    {
-      "title": "Economia ANIESA apreende bens avaliados em dois mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676679/aniesa-apreende-bens-avaliados-em-dois-mil-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "4fea398f87bdc914",
-      "score": 6
-    },
-    {
-      "title": "DIIP apreende grandes quantidades de produtos alimentares...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-apreende-grandes-quantidades-de-produtos-alimentares-estragados-a-venda-nos-mulenvos-71958.html",
-      "source": "Novo Jornal",
-      "_key": "5b59ca0931e6c186",
-      "score": 6
-    },
-    {
-      "title": "Especialista esclarece que luto nacional não implica dispensa laboral e apela ao cumprimento das obrigações",
-      "url": "https://correiokianda.info/especialista-esclarece-que-luto-nacional-nao-implica-dispensa-laboral-e-apela-ao-cumprimento-das-obrigacoes/",
-      "source": "Correio Kianda",
-      "_key": "e9a5fa7eb15ed76b",
-      "score": 5
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: a Agência de Desenvolvimento da União Africana (AUDA-NEPAD)",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-a-agencia-de-desenvolvimento-da-uniao-africana-auda-nepad/",
-      "source": "Correio Kianda",
-      "_key": "a93b618d757009e8",
-      "score": 5
-    },
-    {
-      "title": "Geopolítica africana 1963 – 2026: educação e desenvolvimento do capital humano",
-      "url": "https://correiokianda.info/geopolitica-africana-1963-2026-educacao-e-desenvolvimento-do-capital-humano/",
-      "source": "Correio Kianda",
-      "_key": "bbff859769640af5",
-      "score": 5
     },
     {
       "title": "Direito de resposta: \"Africell bate Unitel e lidera desempenho de internet móvel em Angola\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/direito-de-resposta-africell-bate-unitel-e-lidera-desempenho-de-internet-movel-em-angola-71956.html",
+      "url": "",
       "source": "Expansão",
-      "_key": "34688da44cf08ca1",
+      "_key": "t_3b66fdae0a27f2",
+      "score": 6
+    },
+    {
+      "title": "AIPEX lança prémios para distinguir investidores e empresas que impulsionam economia angolana",
+      "url": "https://forbesafricalusofona.com/aipex-lanca-premios-para-distinguir-investidores-e-empresas-que-impulsionam-economia-angolana/",
+      "source": "Forbes África",
+      "_key": "4093459ebc7fa1e5",
+      "score": 6
+    },
+    {
+      "title": "INAAREES diz ter reduzido período de espera para homologação...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inaarees-diz-ter-reduzido-periodo-de-espera-para-homologacao-de-diplomas-mas-requerentes-contestam-71971.html",
+      "source": "Novo Jornal",
+      "_key": "c46db90766be4452",
+      "score": 6
+    },
+    {
+      "title": "FÓRUM MARGINAL: LANÇAMENTO DE AUTOCARROS ELÉTRICOS. Com Edgar Oseias - Administrador do grupo Rosalina Express.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=71965",
+      "source": "Novo Jornal",
+      "_key": "ae758f6f113905af",
+      "score": 6
+    },
+    {
+      "title": "Agentes do DIIP detidos no Cubango por cárcere privado de intermediário de venda de minério",
+      "url": "https://www.opais.ao/ultimas_hora/agentes-do-diip-detidos-no-cubango-por-carcere-privado-de-intermediario-de-venda-de-minerio/",
+      "source": "O País",
+      "_key": "5d15b3928d4b33a6",
+      "score": 6
+    },
+    {
+      "title": "SIC desmantela associação criminosa suspeita de roubo com recurso à arma de fogo em Malanje",
+      "url": "https://www.opais.ao/ultimas_hora/sic-desmantela-associacao-criminosa-suspeita-de-roubo-com-recurso-a-arma-de-fogo-em-malanje/",
+      "source": "O País",
+      "_key": "6d8268ff2e62a107",
+      "score": 6
+    },
+    {
+      "title": "Assembleia Nacional dá luz verde à Lei Contra desinformação digital",
+      "url": "https://correiokianda.info/assembleia-nacional-da-luz-verde-a-lei-contra-desinformacao-digital/",
+      "source": "Correio Kianda",
+      "_key": "3770670f462c63ac",
+      "score": 5
+    },
+    {
+      "title": "Parlamento aprova lei contra informações falsas na internet com chumbo da UNITA",
+      "url": "https://correiokianda.info/parlamento-aprova-lei-contra-informacoes-falsas-na-internet-com-votos-contra-da-unita/",
+      "source": "Correio Kianda",
+      "_key": "56f1ef30c015ffbb",
       "score": 5
     }
   ]
