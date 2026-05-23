@@ -1,32 +1,40 @@
 {
   "date": "2026-05-23",
-  "total_new": 10,
-  "total_filtered": 3,
+  "total_new": 18,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BNA assures consolidation and structural transformation of the financial system",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-assegura-consolidacao-e-transformacao-estrutural-do-sistema-financeiro/",
-      "source": "ANGOP",
-      "_key": "6388592bcdc65747",
-      "score": 7,
-      "title_cn": "安哥拉央行确保金融体系巩固与结构转型。"
+      "title": "Chefe de Estado autoriza construção de novos sistemas de água no Cuanza-Norte O Presidente da República, João Lourenço, autorizou a construção de sistemas de captação de água potável para nove municípios do Cuanza-Norte.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676853/chefe-de-estado-autoriza-constru%C3%A7%C3%A3o-de-novos-sistemas-de-%C3%A1gua-no-cuanza-norte-",
+      "source": "Jornal de Angola",
+      "_key": "b5b3081f3180c818",
+      "score": 6,
+      "title_cn": "总统若昂·洛伦索授权宽扎北省九市建设新供水系统"
     },
     {
-      "title": "African Bank of Oman enters Angolan market with capital of over Kz 18 billion",
-      "url": "https://www.angop.ao/en/noticias/economia/african-bank-of-oman-entra-no-mercado-angolano-com-capital-de-mais-de-kz-18-mil-milhoes/",
-      "source": "ANGOP",
-      "_key": "e678518297af035a",
+      "title": "Destaque Téte António defende industrialização da SADC face às mudanças geopolíticasO ministro das Relações Exteriores, Téte António, defendeu, hoje, em Mpumalanga, na África do Sul, a industrialização da SADC e a operacionalização de mecanismos de financiamento regional, visando reforçar a resiliência económica do continente face às mudanças geopolíticas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676844/t%C3%A9te-ant%C3%B3nio-defende-industrializa%C3%A7%C3%A3o-da-sadc-face-%C3%A0s-mudan%C3%A7as-geopol%C3%ADticas",
+      "source": "Jornal de Angola",
+      "_key": "70ef625328c9a77b",
       "score": 6,
-      "title_cn": "阿曼非洲银行携超180亿宽扎资本进入安哥拉市场。"
+      "title_cn": "外长特特·安东尼奥呼吁南部非洲发展共同体工业化应对地缘政治变化"
     },
     {
-      "title": "PGR em campo após exonerações em Benguela - Suspensões...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/pgr-em-campo-apos-exoneracoes-em-benguela---suspensoes-nos-contratos-que-deixam-a-empresa-de-aguas-de-benguela-a-arder-72008.html",
-      "source": "Novo Jornal",
-      "_key": "f66c936ce106de21",
+      "title": "PR autoriza construção de novos sistemas de captação de água para nove municípios do Cuanza-Norte",
+      "url": "https://www.opais.ao/ultimas_hora/pr-autoriza-construcao-de-novos-sistemas-de-captacao-de-agua-para-nove-municipios-do-cuanza-norte/",
+      "source": "O País",
+      "_key": "762f8999336185a7",
       "score": 6,
-      "title_cn": "本格拉省免职风波后，总检察院介入，或将停职。"
+      "title_cn": "总统授权宽扎北省九市建设新取水系统"
+    },
+    {
+      "title": "Economia Averi Finance e Mantengu avançam com acordo de 120 milhões de dólares para plataforma pan-africana ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676847/averi-finance-e-mantengu-avan%C3%A7am-com-acordo-de-120-milh%C3%B5es-de-d%C3%B3lares-para-plataforma-pan-africana",
+      "source": "Jornal de Angola",
+      "_key": "3f91cbdd4eb55aae",
+      "score": 5,
+      "title_cn": "Averi Finance和Mantengu达成1.2亿美元协议，推进泛非平台"
     }
   ]
 }
