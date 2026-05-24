@@ -1,28 +1,77 @@
 {
   "date": "2026-05-24",
-  "total_new": 13,
-  "total_filtered": 3,
+  "total_new": 32,
+  "total_filtered": 10,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Angola prevê adoptar assinaturas electrónicas avançadasAngola prevê iniciar o processo de adopção de assinaturas electrónicas avançadas, articuladas à identidade e à certificação digital.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676924/angola-prev%C3%AA-adoptar-assinaturas-electr%C3%B3nicas-avan%C3%A7adas",
-      "source": "Jornal de Angola",
-      "_key": "2c8cfd9ddb7c085c",
+      "title": "Líder da UNITA exige responsabilização após morte de 28 jovens em Mina no Bengo",
+      "url": "https://angola24horas.com/politica/item/34393-lider-da-unita-exige-responsabilizacao-apos-morte-de-28-jovens-em-mina-no-bengo",
+      "source": "Angola 24 Horas",
+      "_key": "489b8ea1c2c15bce",
+      "score": 7
+    },
+    {
+      "title": "Angola regista quase 2,6 milhões de desempregados no 1º trimestre de 2026",
+      "url": "https://correiokianda.info/angola-regista-quase-26-milhoes-de-desempregados-no-1o-trimestre-de-2026/",
+      "source": "Correio Kianda",
+      "_key": "8675e99362b85ed4",
+      "score": 7
+    },
+    {
+      "title": "Vandalização de bens públicos causa perdas de quase 170 milhões de euros anualmente em Angola",
+      "url": "https://forbesafricalusofona.com/vandalizacao-de-bens-publicos-causa-perdas-de-quase-170-milhoes-de-euros-anualmente-em-angola/",
+      "source": "Forbes África",
+      "_key": "c0617cea59f221db",
+      "score": 7
+    },
+    {
+      "title": "Etu Energias e ANPG lançam no Soyo programa formativo avaliado em 412 mil dólares",
+      "url": "https://forbesafricalusofona.com/etu-energias-e-anpg-lancam-no-soyo-programa-formativo-avaliado-em-412-mil-dolares/",
+      "source": "Forbes África",
+      "_key": "739cc0f20e708650",
+      "score": 7
+    },
+    {
+      "title": "Angola to attend annual AfDB and ADF meetings",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-nas-reunioes-anuais-do-bad-e-do-fundo-africano-de-desenvolvimento/",
+      "source": "ANGOP",
+      "_key": "2678d3d73ee987f0",
       "score": 6
     },
     {
-      "title": "‎Governador do Cubango defende reforço da relação entre contribuintes e as instituições públicas",
-      "url": "https://www.opais.ao/ultimas_hora/governador-do-cubango-defende-reforco-da-relacao-entre-contribuintes-e-as-instituicoes-publicas/",
-      "source": "O País",
-      "_key": "245117e654a53559",
+      "title": "At least 13 family members die in mine collapse in northern Bengo",
+      "url": "https://www.angop.ao/en/noticias/sociedade/desabamento-de-mina-no-bengo-mata-13-membros-da-mesma-familia/",
+      "source": "ANGOP",
+      "_key": "bcff06c5b7fff782",
       "score": 6
     },
     {
-      "title": "‎Detido cidadão russo por tentativa de saida ilegal do país com mais de 10 mil dólares",
-      "url": "https://www.opais.ao/sociedade/detido-cidadao-russo-por-tentativa-de-saida-ilegal-do-pais-com-mais-de-10-mil-dolares/",
+      "title": "Five victims of political conflicts buried in Luanda",
+      "url": "https://www.angop.ao/en/noticias/politica/cinco-vitimas-dos-conflitos-politicos-sepultadas-no-cemiterio-do-benfica/",
+      "source": "ANGOP",
+      "_key": "05db0fa38894f8fc",
+      "score": 6
+    },
+    {
+      "title": "Projecto Quilonga Grande no Icolo e Bengo regista execução física acima dos 50 por cento",
+      "url": "https://correiokianda.info/projecto-quilonga-grande-no-icolo-e-bengo-regista-execucao-fisica-acima-dos-50-por-cento/",
+      "source": "Correio Kianda",
+      "_key": "731a08cda2ad25d5",
+      "score": 6
+    },
+    {
+      "title": "‎Angola participa na reunião anual do BAD e do FAD no Congo Brazzaville‎",
+      "url": "https://www.opais.ao/politica/angola-participa-na-reuniao-anual-do-bad-e-do-fad-no-congo-brazzaville/",
       "source": "O País",
-      "_key": "07a136ae7453bdbe",
+      "_key": "9f5bd645e25b045e",
+      "score": 6
+    },
+    {
+      "title": "PR autoriza despesa de mais de 3,4 mil milhões Kz para alimentação escolar no Lubango",
+      "url": "https://correiokianda.info/pr-autoriza-despesa-de-mais-de-34-mil-milhoes-kz-para-alimentacao-escolar-no-lubango/",
+      "source": "Correio Kianda",
+      "_key": "71ebe4456eb367f7",
       "score": 5
     }
   ]
