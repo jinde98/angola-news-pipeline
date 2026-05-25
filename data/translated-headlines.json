@@ -1,72 +1,336 @@
 {
-  "date": "2026-05-24",
-  "total_new": 14,
-  "total_filtered": 8,
-  "scored_by": "gemini-flash",
+  "date": "2026-05-25",
+  "total_new": 138,
+  "total_filtered": 41,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Angola em risco de ser afetada pela epidemia de Ébola – Africa CDC",
-      "url": "https://jornaloguardiao.com/2026/05/23/angola-em-risco-de-ser-afetada-pela-epidemia-de-ebola-africa-cdc/",
-      "source": "Jornal O Guardião",
-      "_key": "e1ad2c2ea3bcfd0a",
+      "title": "Petróleo afunda com perspectiva de reabertura de Ormuz e regressa abaixo dos 100 USD",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-afunda-com-perspectiva-de-reabertura-de-ormuz-e-regressa-abaixo-dos-100-usd-72041.html",
+      "source": "Expansão",
+      "_key": "0180420178c301d7",
+      "score": 9,
+      "title_cn": "油价跌破100美元，因霍尔木兹海峡有望重开"
+    },
+    {
+      "title": "Petróleo: Barril descamba para acomodar optimismo sobre...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-descamba-para-acomodar-optimismo-sobre-possivel-acordo-de-paz-eua-irao-no-golfo-persico-72033.html",
+      "source": "Novo Jornal",
+      "_key": "9e1c7ac467d3ec04",
+      "score": 9,
+      "title_cn": "油价下跌，以适应市场乐观情绪"
+    },
+    {
+      "title": "Police arrests head of illegal gold mining in Dongo municipality",
+      "url": "https://www.angop.ao/en/noticias/sociedade/policia-detem-lider-do-garimpo-de-ouro-no-dongo/",
+      "source": "ANGOP",
+      "_key": "50a23c6ba3c7c7ff",
       "score": 8,
-      "title_cn": "安哥拉面临埃博拉疫情风险 – 非洲疾控中心"
+      "title_cn": "警方逮捕栋戈市非法金矿开采头目"
     },
     {
-      "title": " Angola em risco de ser afetada pela epidemia de Ébola – Africa CDC ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_391a8e732e118c",
+      "title": "Authorities seize 43 barrels of smuggled fuel in Lunda-Norte Province",
+      "url": "https://www.angop.ao/en/noticias/economia/policia-nacional-apreende-mais-de-40-barris-de-combustivel-no-lovua/",
+      "source": "ANGOP",
+      "_key": "f9d9e969b9a20ce5",
       "score": 8,
-      "title_cn": "安哥拉面临埃博拉疫情风险 – 非洲疾控中心"
+      "title_cn": "北隆达省当局查获43桶走私燃料"
     },
     {
-      "title": "TAAG admite que conflito vai duplicar custos com combustível",
-      "url": "https://jornaloguardiao.com/2026/05/23/taag-admite-que-conflito-vai-duplicar-custos-com-combustivel/",
+      "title": "UNITA exige medidas para evitar novas tragédias no garimpo ilegal no Bengo",
+      "url": "https://correiokianda.info/unita-exige-medidas-para-evitar-novas-tragedias-no-garimpo-ilegal-no-bengo/",
+      "source": "Correio Kianda",
+      "_key": "e1ab5021c0734ad1",
+      "score": 8,
+      "title_cn": "安盟要求采取措施，避免本戈省非法采矿再酿悲剧"
+    },
+    {
+      "title": "ENDE alerta que mais de 200 PT privados exercem actividade comercial ilegalmente",
+      "url": "https://correiokianda.info/ende-alerta-que-mais-de-200-pt-privados-exercem-actividade-comercial-ilegalmente/",
+      "source": "Correio Kianda",
+      "_key": "72cb1911228d2054",
+      "score": 8,
+      "title_cn": "安哥拉国家电力公司警告：200多家私人变电站非法运营"
+    },
+    {
+      "title": "Continuam buscas após deslizamento em mina ilegal no Bengo que matou 28 garimpeiros",
+      "url": "https://correiokianda.info/continuam-buscas-apos-deslizamento-em-mina-ilegal-no-bengo-que-matou-28-garimpeiros/",
+      "source": "Correio Kianda",
+      "_key": "3d24c1c51a2ffd07",
+      "score": 8,
+      "title_cn": "本戈省非法矿井滑坡致28名矿工死亡，搜寻工作仍在继续"
+    },
+    {
+      "title": "Custos com importação de combustíveis aumentam 39,5% em dois meses",
+      "url": "https://expansao.co.ao/angola/detalhe/custos-com-importacao-de-combustiveis-aumentam-395-em-dois-meses-72037.html",
+      "source": "Expansão",
+      "_key": "cb4023c2916a3b5f",
+      "score": 8,
+      "title_cn": "两个月内燃料进口成本增长39.5%"
+    },
+    {
+      "title": "Bengo: Deslizamento de terras provoca 30 mortos em mina ilegal de ouro no Nambuangongo",
+      "url": "https://holdonangola.com/bengo-deslizamento-de-terras-provoca-30-mortos-em-mina-ilegal-de-ouro-no-nambuangongo/",
+      "source": "Hold On Angola",
+      "_key": "51c06492ad43f80b",
+      "score": 8,
+      "title_cn": "本戈省南布安贡戈非法金矿山体滑坡致30人死亡"
+    },
+    {
+      "title": "Deslizamento de terras mata 28 garimpeiros em mina de ouro em Angola",
+      "url": "https://jornaloguardiao.com/2026/05/24/deslizamento-de-terras-mata-28-garimpeiros-em-mina-de-ouro-em-angola/",
       "source": "Jornal O Guardião",
-      "_key": "a082feba274b8a10",
-      "score": 7,
-      "title_cn": "安哥拉航空：冲突将使燃油成本翻倍"
+      "_key": "4ecde3163b4efd19",
+      "score": 8,
+      "title_cn": "安哥拉金矿山体滑坡致28名矿工死亡"
     },
     {
-      "title": " TAAG admite que conflito vai duplicar custos com combustível ",
+      "title": " Deslizamento de terras mata 28 garimpeiros em mina de ouro em Angola ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_283e46fb5fc5d7",
+      "_key": "t_097e8235fd80b3",
+      "score": 8,
+      "title_cn": "安哥拉金矿山体滑坡致28名矿工死亡"
+    },
+    {
+      "title": "Bombeiros registam 49 mortos no fim-de-semanaPelo menos 49 pessoas morreram e 47 ficaram feridas, durante o fim-de-semana, informou, esta segunda-feira, o Serviço de Protecção Civil e Bombeiros (SPCB).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676972/bombeiros-registam-49-mortos-no-fim-de-semana",
+      "source": "Jornal de Angola",
+      "_key": "3acc00cae8d60b70",
+      "score": 8,
+      "title_cn": "消防部门报告：周末49人死亡，47人受伤"
+    },
+    {
+      "title": "Economia / Há 1 hora AGT suspende NIF de mais de mil empresas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676967/agt-suspende-nif-de-mais-de-mil-empresas",
+      "source": "Jornal de Angola",
+      "_key": "7a48e01fdc5be27e",
+      "score": 8,
+      "title_cn": "安哥拉税务总局暂停千余家公司税号"
+    },
+    {
+      "title": "Ministro volta a reafirmar que agricultura ultrapassou o petróleo e...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-volta-a-reafirmar-que-agricultura-ultrapassou-o-petroleo-e-dita-ritmo-da-economia-em-angola",
+      "source": "Valor Económico",
+      "_key": "8809115f3cf485dd",
+      "score": 8,
+      "title_cn": "部长重申农业已超越石油产业"
+    },
+    {
+      "title": "Inquérito aberto após tragédia em mina no Bengo que matou 28 garimpeiros",
+      "url": "https://angola24horas.com/sociedade/item/34394-inquerito-aberto-apos-tragedia-em-mina-no-bengo-que-matou-28-garimpeiros",
+      "source": "Angola 24 Horas",
+      "_key": "52ba163b1728c424",
       "score": 7,
-      "title_cn": "安哥拉航空：冲突将使燃油成本翻倍"
+      "title_cn": "本戈省矿难致28名矿工死亡后，已展开调查"
     },
     {
-      "title": "Três voluntários da Cruz Vermelha morreram no atual surto de ébola na RDC",
-      "url": "https://jornaloguardiao.com/2026/05/23/tres-voluntarios-da-cruz-vermelha-morreram-no-atual-surto-de-ebola-na-rdc/",
-      "source": "Jornal O Guardião",
-      "_key": "7800ae562f98aa65",
+      "title": "Destaque Presidente João Lourenço recebe Durão Barroso no Palácio Presidencial O Chefe de Estado, João Lourenço, recebeu em audiência na manhã desta segunda-feira, no Palácio Presidencial da Cidade Alta, em Luanda, o antigo Primeiro-Ministro de Portugal e presidente da Fundação Luso-Americano para o Desenvolvimento, Durão Barroso.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676994/presidente-jo%C3%A3o-louren%C3%A7o-recebe-dur%C3%A3o-barroso-no-pal%C3%A1cio-presidencial",
+      "source": "Jornal de Angola",
+      "_key": "612151e49bd63c5a",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统在总统府接见杜朗·巴罗佐（Durão Barroso）"
+    },
+    {
+      "title": "Economia / Há 1 hora Sindicato preocupado com encerramento de balcões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676966/sindicato-preocupado-com-encerramento-de-balc%C3%B5es-",
+      "source": "Jornal de Angola",
+      "_key": "39c47e4070cf00fb",
+      "score": 7,
+      "title_cn": "工会担忧分支机构关闭问题"
+    },
+    {
+      "title": "Moxico-Leste tem cobertura do Kwenda em 100% dos municípios",
+      "url": "https://www.opais.ao/ultimas_hora/moxico-leste-tem-cobertura-do-kwenda-em-100-dos-municipios/",
+      "source": "O País",
+      "_key": "53e5dc6e487ece81",
+      "score": 7,
+      "title_cn": "莫希科东部所有市镇均已覆盖Kwenda项目"
+    },
+    {
+      "title": "Angola and Namibia sign agreement for joint electrical interconnection project",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-namibia-reforcam-instrumentos-para-implementacao-do-projecto-de-interligacao-electrica/",
+      "source": "ANGOP",
+      "_key": "a572b0828df595ea",
       "score": 6,
-      "title_cn": "刚果（金）埃博拉疫情致三名红十字会志愿者死亡"
+      "title_cn": "安哥拉与纳米比亚签署联合电力互联项目协议"
     },
     {
-      "title": " Três voluntários da Cruz Vermelha morreram no atual surto de ébola na RDC ",
+      "title": "Diamond sector accounts for 35pct of mining rights in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/sector-diamantifero-representa-35-dos-titulos-mineiros-em-angola/",
+      "source": "ANGOP",
+      "_key": "4f7b817a250e95ed",
+      "score": 6,
+      "title_cn": "钻石产业占安哥拉采矿权的35%"
+    },
+    {
+      "title": "Sector das pescas entra em fase de digitalização com aval presidencial",
+      "url": "https://correiokianda.info/sector-das-pescas-entra-em-fase-de-digitalizacao-com-aval-presidencial/",
+      "source": "Correio Kianda",
+      "_key": "81d940e886595ebb",
+      "score": 6,
+      "title_cn": "渔业部门在总统批准下进入数字化阶段"
+    },
+    {
+      "title": "        Diversos4 horas atrás  Acidente na Via Expresso no Benfica faz 7 mortos e vários feridos Um grave acidente de viação ocorrido na noite deste domingo, 24, na Via Expresso, zona do Benfica, em Luanda, provocou a morte de 7 pessoas e...   ",
+      "url": "https://correiokianda.info/acidente-na-via-expresso-no-benfica-faz-7-mortos-e-varios-feridos/",
+      "source": "Correio Kianda",
+      "_key": "86f5c1651c22b2d4",
+      "score": 6,
+      "title_cn": "罗安达本菲卡高速公路事故致7死多伤"
+    },
+    {
+      "title": "Visto de trabalho para Portugal só com autorização prévia",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_30a18fcfcdbc7e",
+      "source": "Expansão",
+      "_key": "t_e8490334bd0898",
       "score": 6,
-      "title_cn": "刚果（金）埃博拉疫情致三名红十字会志愿者死亡"
+      "title_cn": "葡萄牙工作签证需事先批准"
     },
     {
-      "title": "Destaque Ministros da SADC reiteram compromisso em aprofundar integração regional Os ministros da Comunidade de Desenvolvimento da África Austral (SADC) reiteram o compromisso com a acção colectiva destinada a reforçar a resiliência, aprofundar a integração regional e promover o desenvolvimento sustentáve.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676929/ministros-da-sadc-reiteram-compromisso-em-aprofundar-integra%C3%A7%C3%A3o-regional-",
-      "source": "Jornal de Angola",
-      "_key": "d87d987423bd4e46",
+      "title": "Visto de trabalho para Portugal só com autorização préviaO Consulado-Geral de Portugal em Luanda anunciou um novo procedimento de pedido de visto de trabalho para ganhar vagas nos agendamentos de outros tipos de vistos.",
+      "url": "https://expansao.co.ao/angola/detalhe/visto-de-trabalho-para-portugal-so-com-autorizacao-previa-72043.html",
+      "source": "Expansão",
+      "_key": "7e9a33c2bd5295c9",
       "score": 6,
-      "title_cn": "南部非洲发展共同体部长重申深化区域一体化承诺"
+      "title_cn": "葡萄牙工作签证需事先批准"
     },
     {
-      "title": "Destaque Angolanos poderão ser treinados em fábrica nigeriana de drones  Um acordo de parceria para a formação de jovens angolanos poderá ser assinado, ainda este ano, com o grupo nigeriano Terra Industries, voltado em produção de drones. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676931/angolanos-poder%C3%A3o-ser-treinados-em-f%C3%A1brica-nigeriana-de-drones-",
+      "title": "Ministro do Planeamento lidera delegação angolana nas reuniões anuais do BAD em Brazzaville",
+      "url": "https://forbesafricalusofona.com/ministro-do-planeamento-lidera-delegacao-angolana-nas-reunioes-anuais-do-bad-em-brazzaville/",
+      "source": "Forbes África",
+      "_key": "b599ef7dd4f51090",
+      "score": 6,
+      "title_cn": "计划部长率安哥拉代表团出席布拉柴维尔非洲开发银行年会"
+    },
+    {
+      "title": "Destaque Acidente de viação na via expressa causa morte de sete pessoas Sete pessoas morreram e sete outras ficaram feridas, na noite deste domingo, na sequência de um trágico acidente de viação, ocorrido na via expressa, em Luanda. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/676938/acidente-de-via%C3%A7%C3%A3o-na-via-expressa-causa-morte-de-sete-pessoas-",
       "source": "Jornal de Angola",
-      "_key": "39e4b5e2708e7e35",
+      "_key": "ba3be9bb80942659",
+      "score": 6,
+      "title_cn": "高速公路交通事故致7人死亡"
+    },
+    {
+      "title": "Destaque Adão de Almeida: Diplomacia económica moderna exige instituições focadas em resultados concretosO presidente da Assembleia Nacional, Adão de Almeida, reconheceu, esta segunda-feira, em Luanda, que a diplomacia económica contemporânea exige instituições diplomáticas modernas, dinâmicas e orientadas para resultados concretos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676979/ad%C3%A3o-de-almeida:-diplomacia-econ%C3%B3mica-moderna-exige-institui%C3%A7%C3%B5es-focadas-em-resultados-concretos",
+      "source": "Jornal de Angola",
+      "_key": "7da033a5084710cf",
+      "score": 6,
+      "title_cn": "阿达奥·德·阿尔梅达（Adão de Almeida）：现代经济外交需注重实效"
+    },
+    {
+      "title": "Política Angola apontada como mediador legítimo de conflitos em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/676946/angola-apontada-como-mediador-leg%C3%ADtimo-de-conflitos-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "72f1026ed5e4a801",
+      "score": 6,
+      "title_cn": "安哥拉被视为非洲冲突的合法调解者"
+    },
+    {
+      "title": "Entrevista “Angola tem mantido uma agenda de paz contínua e estruturante para o continente” ",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/676943/%E2%80%9Cangola-tem-mantido-uma-agenda-de-paz-cont%C3%ADnua-e-estruturante-para-o--continente%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "d5cb3c839f351ed5",
+      "score": 6,
+      "title_cn": "专访：“安哥拉为非洲大陆保持持续建设性和平议程”"
+    },
+    {
+      "title": "Capital próprio negativo e prejuízos de 144,6 milhões de dólares desafiam a TAAG",
+      "url": "https://www.opais.ao/economia/capital-proprio-negativo-e-prejuizos-de-1446-milhoes-de-dolares-desafiam-a-taag/",
+      "source": "O País",
+      "_key": "b3dc34a9809415fb",
+      "score": 6,
+      "title_cn": "负股本和1.446亿美元亏损挑战安哥拉航空"
+    },
+    {
+      "title": "Ministério da Energia e Águas massifica acesso à energia eléctrica no Cuanza-Sul",
+      "url": "https://www.opais.ao/sociedade/ministerio-da-energia-e-aguas-massifica-acesso-a-energia-electrica-no-cuanza-sul/",
+      "source": "O País",
+      "_key": "0df628cb6c6a47ac",
+      "score": 6,
+      "title_cn": "能源水利部在南宽扎省普及电力供应"
+    },
+    {
+      "title": "Minister of State learns on production companies’ situation in Icolo e Bengo province",
+      "url": "https://www.angop.ao/en/noticias/agricultura/ministro-de-estado-constata-realidade-de-unidades-produtivas-em-icolo-e-bengo/",
+      "source": "ANGOP",
+      "_key": "8ced01a2f5f2a034",
       "score": 5,
-      "title_cn": "安哥拉人或将在尼日利亚无人机工厂接受培训"
+      "title_cn": "国务部长了解伊科洛-本戈省生产企业状况"
+    },
+    {
+      "title": "Bengo governor supports families of the mine collapse’s victims",
+      "url": "https://www.angop.ao/en/noticias/sociedade/governo-do-bengo-apoia-familias-das-vitimas-de-desabamento-de-mina/",
+      "source": "ANGOP",
+      "_key": "0704707f950314b2",
+      "score": 5,
+      "title_cn": "本戈省省长慰问矿难受害者家属"
+    },
+    {
+      "title": "TAAG fecha 2025 com prejuízo de 144,6 milhões USD após investimentos na modernização",
+      "url": "https://angola24horas.com/sociedade/item/34398-taag-fecha-2025-com-prejuizo-de-144-6-milhoes-usd-apos-investimentos-na-modernizacao",
+      "source": "Angola 24 Horas",
+      "_key": "64cca2393f4483f7",
+      "score": 5,
+      "title_cn": "安哥拉航空现代化投资后，2025年亏损1.446亿美元"
+    },
+    {
+      "title": "Líder da UNITA exige responsabilização após morte de 28 jovens em mina de ouro no Bengo",
+      "url": "https://angola24horas.com/politica/item/34393-lider-da-unita-exige-responsabilizacao-apos-morte-de-28-jovens-em-mina-de-ouro-no-bengo",
+      "source": "Angola 24 Horas",
+      "_key": "a3614648f6739cee",
+      "score": 5,
+      "title_cn": "本戈省金矿致28名年轻人死亡，安盟领导人要求追责"
+    },
+    {
+      "title": "Autoridades encerram buscas do incidente na mina de ouro que matou 28 garimpeiros",
+      "url": "https://correiokianda.info/autoridades-encerram-buscas-do-incidente-na-mina-de-ouro-que-matou-28-garimpeiros/",
+      "source": "Correio Kianda",
+      "_key": "5ce0ca6f2da6483e",
+      "score": 5,
+      "title_cn": "金矿事故致28名矿工死亡，当局结束搜寻"
+    },
+    {
+      "title": "Capital do País entra na mobilidade eléctrica com 18 autocarros",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_5ae24fe4501061",
+      "score": 5,
+      "title_cn": "首都引进18辆电动巴士，迈入电动出行时代"
+    },
+    {
+      "title": "Economia / Há 1 hora Sector quer acabar com lotes inactivos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/676965/sector-quer-acabar-com-lotes-inactivos",
+      "source": "Jornal de Angola",
+      "_key": "23e4bca148a7833a",
+      "score": 5,
+      "title_cn": "行业希望解决闲置地块问题"
+    },
+    {
+      "title": "RDC/Ébola: Epidemia alastra apesar dos esforços para...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdcebola-epidemia-alastra-apesar-dos-esforcos-para-conter-avanco-da-infeccao-conflitos-no-leste-congoles-ajudam-a-propagacao-do-virus-72048.html",
+      "source": "Novo Jornal",
+      "_key": "eece94c797db1303",
+      "score": 5,
+      "title_cn": "刚果民主共和国埃博拉疫情蔓延，尽管已努力控制"
+    },
+    {
+      "title": "Governador diz ser “crítico” sector social no Huambo, mas assegura projectos de “grande magnitude”",
+      "url": "https://www.opais.ao/ultimas_hora/governador-diz-ser-critico-sector-social-no-huambo-mas-assegura-projectos-de-grande-magnitude/",
+      "source": "O País",
+      "_key": "25a61abcb62430af",
+      "score": 5,
+      "title_cn": "万博省省长称社会部门严峻，但确保大规模项目"
+    },
+    {
+      "title": "Detido cidadão por desvio de mais de 50 mil litros de combustíveis na Lunda-Norte",
+      "url": "https://www.opais.ao/ultimas_hora/detido-cidadao-por-desvio-de-mais-de-50-mil-litros-de-combustiveis-na-lunda-norte/",
+      "source": "O País",
+      "_key": "59fa6ebc9e6d6539",
+      "score": 5,
+      "title_cn": "北隆达省一公民因挪用5万多升燃料被捕"
     }
   ]
 }
