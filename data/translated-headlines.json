@@ -1,472 +1,560 @@
 {
-  "date": "2026-05-26",
-  "total_new": 158,
-  "total_filtered": 58,
+  "date": "2026-05-27",
+  "total_new": 160,
+  "total_filtered": 69,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola e China assinam Memorando de Entendimento no sector das pescas e aquicultura",
-      "url": "https://www.opais.ao/sociedade/angola-e-china-assinam-memorando-de-entendimento-no-sector-das-pescas-e-aquicultura/",
-      "source": "O País",
-      "_key": "5aab084e15e59f55",
-      "score": 10,
-      "title_cn": "安哥拉与中国签署渔业和水产养殖谅解备忘录"
-    },
-    {
-      "title": "Governo autoriza emissão de Eurobonds no valor de USD 1,5 mil milhões",
-      "url": "https://correiokianda.info/governo-autoriza-emissao-de-eurobonds-no-valor-de-usd-15-mil-milhoes/",
+      "title": "Preços do petróleo em baixa após sinais diplomáticos entre Washington e Teerão",
+      "url": "https://correiokianda.info/precos-do-petroleo-em-baixa-apos-sinais-diplomaticos-entre-washington-e-teerao/",
       "source": "Correio Kianda",
-      "_key": "b34a0014b9c234f9",
+      "_key": "65f43f779eaed826",
       "score": 9,
-      "title_cn": "安哥拉政府批准发行15亿美元欧洲债券"
+      "title_cn": "油价下跌，因华盛顿与德黑兰（Teerão）出现外交信号"
     },
     {
-      "title": "Custos com importação de combustíveis aumentam 39,5% em dois meses",
-      "url": "",
+      "title": "Exportação de petróleo bruto angolano atinge quase 95 milhões de barris em 2025",
+      "url": "https://correiokianda.info/exportacao-de-petroleo-bruto-angolano-atinge-quase-95-milhoes-de-barris-em-2025/",
+      "source": "Correio Kianda",
+      "_key": "e6889d29dfb2932c",
+      "score": 9,
+      "title_cn": "安哥拉2025年原油出口量将达近9500万桶"
+    },
+    {
+      "title": "Petróleo volta a cair com esperança de acordo entre EUA e Irão",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-cair-com-esperanca-de-acordo-entre-eua-e-irao-72095.html",
       "source": "Expansão",
-      "_key": "t_b5384a23775c03",
+      "_key": "971e24a6e2c9dc91",
       "score": 9,
-      "title_cn": "两个月内燃料进口成本上涨39.5%"
+      "title_cn": "美伊（Irão）协议希望再起，油价再次下跌"
     },
     {
-      "title": "Petróleo: Brent voltou aos 100 USD, e pode ganhar raízes...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-brent-voltou-aos-100-usd-e-pode-ganhar-raizes-por-anos-a-fio-neste-patamar-72084.html",
-      "source": "Novo Jornal",
-      "_key": "7de8a24bef5e41e5",
+      "title": "Corredores logísticos só serão sustentáveis com indústria e integração económica, alertam especialistas",
+      "url": "https://forbesafricalusofona.com/corredores-logisticos-so-serao-sustentaveis-com-industria-e-integracao-economica-alertam-especialistas/",
+      "source": "Forbes África",
+      "_key": "841cfa26a5748a33",
       "score": 9,
-      "title_cn": "布伦特原油重回100美元，或将企稳"
+      "title_cn": "专家警告：物流走廊需产业和经济一体化方可持续"
     },
     {
-      "title": "Petróleo já não salva a Sonangol: 53% dos lucros vêm da Angola LNG, BCP e Galp",
-      "url": "https://angola24horas.com/economia/item/34401-petroleo-ja-nao-salva-a-sonangol-53-dos-lucros-vem-da-angola-lng-bcp-e-galp",
-      "source": "Angola 24 Horas",
-      "_key": "aa5b5e8100debf24",
+      "title": "Política Acordo com a China reforça cooperação nas Pescas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677125/acordo-com-a-china-refor%C3%A7a-coopera%C3%A7%C3%A3o-nas-pescas",
+      "source": "Jornal de Angola",
+      "_key": "0d0892c92b246437",
+      "score": 9,
+      "title_cn": "与中国达成协议，加强渔业合作"
+    },
+    {
+      "title": "Mitrelli and Angola’s Sovereign Wealth Fund Advance USD 1 Billion Lobito Corridor Platform",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9845",
+      "source": "Negócios de Angola",
+      "_key": "60a0d83060622c86",
+      "score": 9,
+      "title_cn": "米特雷利（Mitrelli）与安哥拉主权基金推进10亿美元洛比托走廊平台"
+    },
+    {
+      "title": "Luanda is no longer one of the most expensive cities in the world",
+      "url": "https://www.angop.ao/en/noticias/economia/luanda-deixa-de-ser-uma-das-cidades-mais-caras-do-mundo/",
+      "source": "ANGOP",
+      "_key": "d171b74649bea872",
       "score": 8,
-      "title_cn": "石油不再是Sonangol（安哥拉国家石油公司）的救星：53%利润来自安哥拉液化天然气、BCP和Galp"
+      "title_cn": "罗安达（Luanda）不再是全球最昂贵城市之一"
     },
     {
-      "title": "Quedas nos lucros do BAI, BFA e BPC pressionam resultados da banca: sector regista pior arranque desde 2023",
-      "url": "https://diariodosnegocios.com/quedas-nos-lucros-do-bai-bfa-e-bpc-pressionam-resultados-da-banca-sector-regista-pior-arranque-desde-2023/",
+      "title": "Angola has hydroelectric potential of 18,000 megawatts",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-com-potencial-hidroelectrico-de-18-mil-megawatts/",
+      "source": "ANGOP",
+      "_key": "437289afcaa3f085",
+      "score": 8,
+      "title_cn": "安哥拉拥有18000兆瓦的水电潜力"
+    },
+    {
+      "title": "Angola reduz importação de carne e aposta na diversificação da economia, diz Massano",
+      "url": "https://correiokianda.info/angola-reduz-importacao-de-carne-e-aposta-na-diversificacao-da-economia-diz-massano/",
+      "source": "Correio Kianda",
+      "_key": "f963f6dfd13c3653",
+      "score": 8,
+      "title_cn": "马萨诺（Massano）称安哥拉减少肉类进口，押注经济多元化"
+    },
+    {
+      "title": "ANPG: Resultado líquido despenca 69% em 2025 e Fundos de Abandono voltam a gerar controvérsia",
+      "url": "https://diariodosnegocios.com/anpg-resultado-liquido-despenca-69-em-2025-e-fundos-de-abandono-voltam-a-gerar-controversia/",
       "source": "Diário dos Negócios",
-      "_key": "819f679230ad0903",
+      "_key": "36f277c716d373b8",
       "score": 8,
-      "title_cn": "BAI、BFA和BPC利润下滑，银行业绩承压：该行业创2023年以来最差开局"
+      "title_cn": "ANPG：2025年净利润暴跌69%，弃置基金再引争议"
     },
     {
-      "title": " Quedas nos lucros do BAI, BFA e BPC pressionam resultados da banca: sector regista pior arranque desde 2023 ",
+      "title": " ANPG: Resultado líquido despenca 69% em 2025 e Fundos de Abandono voltam a gerar controvérsia ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_94b0417ed0ba9d",
+      "_key": "t_38de558b9429ea",
       "score": 8,
-      "title_cn": "BAI 、 BFA 和 BPC 利润下降给银行业业绩带来压力 ： 该行业创下 2023 年以来最糟糕的开局"
+      "title_cn": "ANPG：2025年净利润暴跌69%，弃置基金再引争议"
     },
     {
       "title": "Lucro da banca cai 16% para 253,4 mil milhões Kz, o pior arranque dos últimos 3 anos",
-      "url": "https://expansao.co.ao/empresas/detalhe/lucro-da-banca-cai-16-para-2534-mil-milhoes-kz-o-pior-arranque-dos-ultimos-3-anos-72067.html",
-      "source": "Expansão",
-      "_key": "b8c221ab01fbf308",
-      "score": 8,
-      "title_cn": "银行业利润下降16%至2534亿宽扎，创三年最差开局"
-    },
-    {
-      "title": "Destaque Instabilidade no Multicaixa Express condiciona acesso à aplicaçãoA Rede Multicaixa informou, esta terça-feira, que o serviço de aplicativo Express está a registar uma instabilidade, situação que está a dificultar o acesso dos utilizadores à aplicação.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677052/instabilidade-no-multicaixa-express-condiciona-acesso-%C3%A0-aplica%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "57c1353a59a8ea07",
-      "score": 8,
-      "title_cn": "Multicaixa Express系统不稳定，影响应用访问"
-    },
-    {
-      "title": "LUANDA DOWNTOWN Factores determinantes da inflação em Angola.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=72066",
-      "source": "Novo Jornal",
-      "_key": "bf3a39e91d635a2f",
-      "score": 8,
-      "title_cn": "罗安达市中心：安哥拉通货膨胀的决定性因素"
-    },
-    {
-      "title": "Autoridades na Huíla desmantelam cerca de 30 mil garimpeiros em mega-operação",
-      "url": "https://www.opais.ao/ultimas_hora/autoridades-na-huila-desmantelam-cerca-de-30-mil-garimpeiros-em-mega-operacao/",
-      "source": "O País",
-      "_key": "e041a94d59179403",
-      "score": 8,
-      "title_cn": "威拉省当局在大型行动中捣毁约3万名非法采矿者"
-    },
-    {
-      "title": "DIP Angola secures $75 million for industrial installation in Bengo",
-      "url": "https://www.angop.ao/en/noticias/economia/dip-angola-assegura-75-milhoes-de-dolares-para-instalacao-de-industrias-no-bengo/",
-      "source": "ANGOP",
-      "_key": "55e3203bbc7f3adb",
-      "score": 7,
-      "title_cn": "DIP Angola为本戈省工业设施获得7500万美元"
-    },
-    {
-      "title": "National Assembly 1st VP defends 'refoundation' of Angolan economic diplomacy",
-      "url": "https://www.angop.ao/en/noticias/politica/americo-cuononoca-defende-refundacao-da-diplomacia-economica-angolana/",
-      "source": "ANGOP",
-      "_key": "6d60325d91b0af6c",
-      "score": 7,
-      "title_cn": "国民议会第一副议长倡导“重建”安哥拉经济外交"
-    },
-    {
-      "title": "ANPG closes 2025 fiscal year with a net profit of over 200 million Cuanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/anpg-fecha-2025-com-resultado-liquido-de-mais-de-200-mil-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "9adf21500f57a329",
-      "score": 7,
-      "title_cn": "ANPG在2025财年实现超过2亿宽扎的净利润"
-    },
-    {
-      "title": "Ministry of Industry highlights progress in Angola's economic reforms",
-      "url": "https://www.angop.ao/en/noticias/economia/ministerio-da-industria-destaca-progressos-das-reformas-economicas-em-angola/",
-      "source": "ANGOP",
-      "_key": "98ab3489daa6e143",
-      "score": 7,
-      "title_cn": "工业部强调安哥拉经济改革取得进展"
-    },
-    {
-      "title": "União Africana: Presidente João Lourenço defende pragmatismo nas reformas institucionais e alerta para dependência de financiamento externo",
-      "url": "https://diariodosnegocios.com/uniao-africana-presidente-joao-lourenco-defende-pragmatismo-nas-reformas-institucionais-e-alerta-para-dependencia-de-financiamento-externo/",
-      "source": "Diário dos Negócios",
-      "_key": "2ca122c14401f0f8",
-      "score": 7,
-      "title_cn": "非盟：若昂·洛伦索（João Lourenço）总统呼吁机构改革务实，警惕外部融资依赖"
-    },
-    {
-      "title": "Dubai Investments Park Angola formaliza contratos de 75 milhões de dólares em 2.000 hectares na Barra do Dande",
-      "url": "https://diariodosnegocios.com/dubai-investments-park-angola-formaliza-contratos-de-75-milhoes-de-dolares-em-2-000-hectares-na-barra-do-dande/",
-      "source": "Diário dos Negócios",
-      "_key": "f2e44aa85097a6e7",
-      "score": 7,
-      "title_cn": "迪拜投资园安哥拉公司在丹德河口2000公顷土地上签订7500万美元合同"
-    },
-    {
-      "title": " União Africana: Presidente João Lourenço defende pragmatismo nas reformas institucionais e alerta para dependência de financiamento externo ",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_6df6a9cf27b803",
-      "score": 7,
-      "title_cn": "非盟：若昂·洛伦索（João Lourenço）总统呼吁机构改革务实，警惕外部融资依赖"
+      "source": "Expansão",
+      "_key": "t_43d61081e048ce",
+      "score": 8,
+      "title_cn": "银行利润下降16%至2534亿宽扎（Kz），创三年最差开局"
     },
     {
-      "title": " Dubai Investments Park Angola formaliza contratos de 75 milhões de dólares em 2.000 hectares na Barra do Dande ",
+      "title": "BAD vê economia angolana crescer 2,9% este ano com impulso do petróleo",
+      "url": "https://expansao.co.ao/economia/detalhe/bad-ve-economia-angolana-crescer-29-este-ano-com-impulso-do-petroleo-72099.html",
+      "source": "Expansão",
+      "_key": "62b081f1b035fc0d",
+      "score": 8,
+      "title_cn": "非洲开发银行（BAD）预计安哥拉经济今年在石油推动下增长2.9%"
+    },
+    {
+      "title": "Confiança dos empresários e gestores com o arranque mais baixo desde 2021",
+      "url": "https://expansao.co.ao/economia/detalhe/confianca-dos-empresarios-e-gestores-com-o-arranque-mais-baixo-desde-2021-72061.html",
+      "source": "Expansão",
+      "_key": "01b042d50060e459",
+      "score": 8,
+      "title_cn": "企业家和管理者的信心指数创2021年以来新低"
+    },
+    {
+      "title": "Cobertura eléctrica em Angola poderá atingir 50% até 2027",
+      "url": "https://jornaloguardiao.com/2026/05/27/cobertura-electrica-em-angola-podera-atingir-50-ate-2027/",
+      "source": "Jornal O Guardião",
+      "_key": "2672855acb2ba33e",
+      "score": 8,
+      "title_cn": "安哥拉电力覆盖率有望在2027年达到50%"
+    },
+    {
+      "title": " Cobertura eléctrica em Angola poderá atingir 50% até 2027 ",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8a1a7ec05baae1",
-      "score": 7,
-      "title_cn": "迪拜投资园安哥拉公司在丹德河口2000公顷土地上签订7500万美元合同"
+      "source": "Jornal O Guardião",
+      "_key": "t_f334de69c6d42b",
+      "score": 8,
+      "title_cn": "安哥拉电力覆盖率有望在2027年达到50%"
     },
     {
-      "title": "Volkswagen África efectua visita de prospecção de mercado em Angola",
-      "url": "https://expansao.co.ao/empresas/detalhe/volkswagen-africa-efectua-visita-de-prospeccao-de-mercado-em-angola-72064.html",
-      "source": "Expansão",
-      "_key": "1f07c51357eeda19",
-      "score": 7,
-      "title_cn": "大众汽车非洲公司访问安哥拉进行市场考察"
+      "title": "Sonangol admits risk of losing more than 390 billion kwanzas",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9858",
+      "source": "Negócios de Angola",
+      "_key": "3a4d6bf672faf23c",
+      "score": 8,
+      "title_cn": "索南戈尔（Sonangol）承认面临损失超3900亿宽扎（Kwanza）的风险"
     },
     {
-      "title": "\"Os bancos preferem emprestar dinheiro ao Governo do que investir no imobiliário\"",
-      "url": "https://expansao.co.ao/grande-entrevista/detalhe/os-bancos-preferem-emprestar-dinheiro-ao-governo-do-que-investir-no-imobiliario-72068.html",
-      "source": "Expansão",
-      "_key": "aa11cbd6b8ec9e97",
-      "score": 7,
-      "title_cn": "“银行宁愿借钱给政府，也不愿投资房地产。”"
-    },
-    {
-      "title": "DIP Angola fecha contratos de 75 milhões USD e acelera criação do pólo industrial na Barra do Dande",
-      "url": "https://forbesafricalusofona.com/dip-angola-fecha-contratos-de-75-milhoes-usd-e-acelera-criacao-do-polo-industrial-na-barra-do-dande/",
-      "source": "Forbes África",
-      "_key": "92e071f23479b168",
-      "score": 7,
-      "title_cn": "DIP Angola签订7500万美元合同，加速丹德河口工业中心建设"
-    },
-    {
-      "title": "Economia Angola e a Argélia analisam implementação dos acordos no sector petrolífero ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677064/angola-e-a-arg%C3%A9lia-analisam-implementa%C3%A7%C3%A3o-dos-acordos-no-sector-petrol%C3%ADfero",
-      "source": "Jornal de Angola",
-      "_key": "372ee6d2e8aa0e97",
-      "score": 7,
-      "title_cn": "经济：安哥拉与阿尔及利亚探讨石油领域协议的实施"
-    },
-    {
-      "title": "Economia Desaceleração de preços em Angola entre as mais acentuadas da SADC ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677020/desacelera%C3%A7%C3%A3o-de-pre%C3%A7os-em-angola-entre-as-mais-acentuadas-da-sadc",
-      "source": "Jornal de Angola",
-      "_key": "906ce51e0bb3ab76",
-      "score": 7,
-      "title_cn": "经济：安哥拉物价减速在南部非洲发展共同体中最为显著"
-    },
-    {
-      "title": "AIPEX passa a distinguir empresas e investidores que contribuem para o crescimento económico de Angola",
-      "url": "https://www.opais.ao/economia/aipex-passa-a-distinguir-empresas-e-investidores-que-contribuem-para-o-crescimento-economico-de-angola/",
+      "title": "OGE-2026: Receitas do sector petrolífero caem 8% em comparação com o período homólogo",
+      "url": "https://www.opais.ao/economia/oge-2026-receitas-do-sector-petrolifero-caem-8-em-comparacao-com-o-periodo-homologo/",
       "source": "O País",
-      "_key": "43fa053aeec8ecd6",
-      "score": 7,
-      "title_cn": "AIPEX将表彰为安哥拉经济增长做出贡献的企业和投资者"
+      "_key": "5b15e761782799c4",
+      "score": 8,
+      "title_cn": "2026年国家预算：石油部门收入同比下降8%"
     },
     {
-      "title": "Américo Cuononoca quer embaixadas a captar investimento e a promover...",
-      "url": "https://valoreconomico.co.ao/artigo/americo-cuononoca-quer-embaixadas-a-captar-investimento-e-a-promover-exportacoes",
+      "title": "Resultado líquido da ANPG caí 69% enquanto ‘pesadelo’ dos Fundos...",
+      "url": "https://valoreconomico.co.ao/artigo/resultado-liquido-da-anpg-cai-69-enquanto-pesadelo-dos-fundos-de-abandono-se-mantem-com-buraco-de-565-mil-milhoes-kz",
       "source": "Valor Económico",
-      "_key": "9e4329e178c44a7d",
-      "score": 7,
-      "title_cn": "阿梅里科·库奥诺诺卡（Américo Cuononoca）希望大使馆吸引投资并促进发展"
+      "_key": "6f887f69f4baab76",
+      "score": 8,
+      "title_cn": "ANPG净利润下降69%，基金“噩梦”持续"
     },
     {
       "title": "Investment agency launches recognition award for investors and producers in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/ipex-lanca-premios-para-reconhecer-investidores-e-produtores-em-angola/",
+      "url": "https://www.angop.ao/en/noticias/economia/aipex-lanca-premios-para-reconhecer-investidores-e-produtores-em-angola/",
       "source": "ANGOP",
-      "_key": "9a2456e5b36368f8",
-      "score": 6,
-      "title_cn": "投资机构为安哥拉投资者和生产商设立表彰奖"
+      "_key": "a7990b9c6c881919",
+      "score": 7,
+      "title_cn": "安哥拉投资机构设立投资者和生产商表彰奖"
     },
     {
-      "title": "Angola's energy and water sector aligned with Africa's challenges",
-      "url": "https://www.angop.ao/en/noticias/economia/sector-da-energia-e-agua-angolano-alinhado-aos-desafios-de-africa/",
+      "title": "Businesspeople discuss investment opportunities in the logistics sector",
+      "url": "https://www.angop.ao/en/noticias/economia/empresarios-debatem-oportunidades-de-investimento-no-sector-logistico/",
       "source": "ANGOP",
-      "_key": "9588f9cab2348028",
-      "score": 6,
-      "title_cn": "安哥拉能源和水利部门与非洲挑战保持一致"
+      "_key": "a469e81646fe8a75",
+      "score": 7,
+      "title_cn": "商界人士探讨物流业投资机遇"
     },
     {
-      "title": "Energia eléctrica e água",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=53978",
+      "title": "More than 50,000 taxpayers adhere to electronic invoicing in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/",
       "source": "ANGOP",
-      "_key": "cfb95583f4194d5e",
-      "score": 6,
-      "title_cn": "电力与水"
+      "_key": "40159410fa9df2fe",
+      "score": 7,
+      "title_cn": "安哥拉逾5万纳税人采用电子发票"
     },
     {
-      "title": "WB and IMF hold second day of their spring meeting in US",
-      "url": "https://www.angop.ao/en/noticias/economia/reforco-da-resiliencia-face-aos-choques-domina-segundo-dia-das-reunioes-de-primavera-do-bm-e-fmi/",
-      "source": "ANGOP",
-      "_key": "96a94727119292e1",
-      "score": 6,
-      "title_cn": "世界银行和国际货币基金组织在美国举行春季会议第二天"
-    },
-    {
-      "title": "Africa CEO Forum 2026: Angola no debate sobre a escala económica do continente",
-      "url": "https://correiokianda.info/africa-ceo-forum-2026-angola-no-debate-sobre-a-escala-economica-do-continente/",
-      "source": "Correio Kianda",
-      "_key": "53abdfc8d4b20c93",
-      "score": 6,
-      "title_cn": "2026非洲CEO论坛：安哥拉参与非洲大陆经济规模辩论"
-    },
-    {
-      "title": "Tribunal Supremo retoma julgamento da ex-ministra das Pescas por alegado peculato",
-      "url": "https://correiokianda.info/tribunal-supremo-retoma-julgamento-da-ex-ministra-das-pescas-por-alegado-peculato/",
-      "source": "Correio Kianda",
-      "_key": "ad8727d5adef617e",
-      "score": 6,
-      "title_cn": "最高法院恢复审理前渔业部长涉嫌贪污案"
-    },
-    {
-      "title": "Supremo julga hoje ex-ministra das Pescas e juiz acusado de desbloquear contas ilicitamente",
-      "url": "https://diariodosnegocios.com/supremo-julga-hoje-ex-ministra-das-pescas-e-juiz-acusado-de-desbloquear-contas-ilicitamente/",
-      "source": "Diário dos Negócios",
-      "_key": "6387d48345cae175",
-      "score": 6,
-      "title_cn": "最高法院今日审理前渔业部长及涉嫌非法解冻账户的法官"
-    },
-    {
-      "title": "TAAG encerra 2025 com 437 milhões USD de receita e défice de 144,6 milhões",
-      "url": "https://diariodosnegocios.com/taag-encerra-2025-com-437-milhoes-usd-de-receita-e-defice-de-1446-milhoes/",
-      "source": "Diário dos Negócios",
-      "_key": "6e39328edf431be0",
-      "score": 6,
-      "title_cn": "TAAG 2025 年年底收入 4.37 亿美元亏损 1.446 亿美元"
-    },
-    {
-      "title": " Supremo julga hoje ex-ministra das Pescas e juiz acusado de desbloquear contas ilicitamente ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7c4482162c981c",
-      "score": 6,
-      "title_cn": "最高法院今日审理前渔业部长及涉嫌非法解冻账户的法官"
-    },
-    {
-      "title": " TAAG encerra 2025 com 437 milhões USD de receita e défice de 144,6 milhões ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_58419553af4409",
-      "score": 6,
-      "title_cn": "TAAG航空2025年营收4.37亿美元，赤字1.446亿美元"
-    },
-    {
-      "title": "Angola Cables alia-se à americana Uniti para reforçar conectividade entre continentes",
-      "url": "https://forbesafricalusofona.com/angola-cables-alia-se-a-americana-uniti-para-reforcar-conectividade-entre-continentes/",
-      "source": "Forbes África",
-      "_key": "9d3dff6705645f6c",
-      "score": 6,
-      "title_cn": "安哥拉电缆公司与美国Uniti合作，加强洲际连接"
-    },
-    {
-      "title": "Destaque Decisão final no julgamento do ex-juiz José Lourenço será anunciada no dia 9 de JunhoO acórdão sobre o julgamento do ex-juiz José Pereira Lourenço, acusado e pronunciado por crimes públicos complexos alegadamente praticados no exercício da sua função, será lido no próximo dia 9 de Junho, no Tribunal Supremo, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677059/decis%C3%A3o-final-no-julgamento-do-ex-juiz-jos%C3%A9-louren%C3%A7o-ser%C3%A1-anunciada-no-dia-9-de-junho",
-      "source": "Jornal de Angola",
-      "_key": "ad20cf4b9ba5b579",
-      "score": 6,
-      "title_cn": "前法官若泽·洛伦索（José Lourenço）案最终判决将于6月9日公布"
-    },
-    {
-      "title": "Economia Mais de 60 empresas registadas no AIPEX Awards 2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677063/mais-de-60-empresas-registadas-no-aipex-awards-2026",
-      "source": "Jornal de Angola",
-      "_key": "e39594faf6d44764",
-      "score": 6,
-      "title_cn": "经济：超过60家企业注册参加2026年AIPEX奖"
-    },
-    {
-      "title": "Política Ministério das Finanças defende importância da ética e integridade no sector público ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677061/minist%C3%A9rio-das-finan%C3%A7as-defende-import%C3%A2ncia-da-%C3%A9tica-e-integridade-no-sector-p%C3%BAblico",
-      "source": "Jornal de Angola",
-      "_key": "5eba0814b23995ea",
-      "score": 6,
-      "title_cn": "政治：财政部强调公共部门道德与廉洁的重要性"
-    },
-    {
-      "title": "Economia DIP Angola assegura USD 75 milhões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677023/dip-angola-assegura-usd-75-milh%C3%B5es",
-      "source": "Jornal de Angola",
-      "_key": "fc217fe2968f66d2",
-      "score": 6,
-      "title_cn": "经济：DIP Angola获得7500万美元"
-    },
-    {
-      "title": "Economia / Há 6 horas Preços no produtor variam 4,33 por cento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677025/pre%C3%A7os-no-produtor-variam-433-por-cento",
-      "source": "Jornal de Angola",
-      "_key": "0976d6b470d8e3d9",
-      "score": 6,
-      "title_cn": "经济：生产者价格波动4.33%"
-    },
-    {
-      "title": "Economia / Há 7 horas Energia solar faz cumprir metas da descarbonização ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677021/energia-solar-faz-cumprir-metas-da-descarboniza%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "1a9650cacf1d46d7",
-      "score": 6,
-      "title_cn": "经济：太阳能助力实现脱碳目标"
-    },
-    {
-      "title": "Supremo com duas sessões de julgamento: a da ex-ministra das Pescas e a do juiz que mandava desbloquear contas cativas de particulares",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/supremo-com-duas-sessoes-de-julgamento-a-da-ex-ministra-das-pescas-e-a-do-juiz-que-mandava-desbloquear-contas-cativas-de-particulares-72075.html",
-      "source": "Novo Jornal",
-      "_key": "3910ed013cc1f61f",
-      "score": 6,
-      "title_cn": "最高法院举行两场庭审：前渔业部长案和法官非法解冻私人账户案"
-    },
-    {
-      "title": "Leitura da sentença do ex-juiz José Lourenço marcada para 9 de Junho",
-      "url": "https://www.opais.ao/ultimas_hora/leitura-da-sentenca-do-ex-juiz-jose-lourenco-marcada-para-9-de-junho/",
-      "source": "O País",
-      "_key": "2c2c1c685f2ae015",
-      "score": 6,
-      "title_cn": "前法官若泽·洛伦索（José Lourenço）宣判定于6月9日"
-    },
-    {
-      "title": "PRA-JA Servir Angola lamenta morte de jovens ocorrida na mina de exploração ilegal de ouro",
-      "url": "https://www.opais.ao/politica/pra-ja-servir-angola-lamenta-morte-de-jovens-ocorrida-na-mina-de-exploracao-ilegal-de-ouro/",
-      "source": "O País",
-      "_key": "4d485e1aca4d7aef",
-      "score": 6,
-      "title_cn": "PRA-JA Servir Angola哀悼非法金矿中遇难青年"
-    },
-    {
-      "title": "Ministério da Agricultura disponibiliza mil toneladas de fertilizantes para reforçar produção agrícola em Malanje",
-      "url": "https://www.opais.ao/ultimas_hora/ministerio-da-agricultura-disponibiliza-mil-toneladas-de-fertilizantes-para-reforcar-producao-agricola-em-malanje/",
-      "source": "O País",
-      "_key": "538d77d93c6677d0",
-      "score": 6,
-      "title_cn": "农业部提供千吨化肥，以加强马兰热省农业生产"
-    },
-    {
-      "title": "Stability and industrialization promote development for Africa",
-      "url": "https://www.angop.ao/en/noticias/politica/estabilidade-e-industrializacao-promovem-desenvolvimento-para-africa/",
-      "source": "ANGOP",
-      "_key": "343b6cd094063de8",
-      "score": 5,
-      "title_cn": "稳定与工业化促进非洲发展"
-    },
-    {
-      "title": "Polícia detém 87 pessoas após desabamento mortal em mina de ouro ilegal no Bengo",
-      "url": "https://angola24horas.com/sociedade/item/34402-policia-detem-87-pessoas-apos-desabamento-mortal-em-mina-de-ouro-ilegal-no-bengo",
+      "title": "BAD prevê crescimento moderado para Angola de 2,9% este ano e 3,3% em 2027",
+      "url": "https://angola24horas.com/economia/item/34407-bad-preve-crescimento-moderado-para-angola-de-2-9-este-ano-e-3-3-em-2027",
       "source": "Angola 24 Horas",
-      "_key": "6ec521124f76ba94",
-      "score": 5,
-      "title_cn": "本戈省非法金矿致命坍塌后，警方逮捕87人"
+      "_key": "d8779729d32b1d74",
+      "score": 7,
+      "title_cn": "非洲开发银行（BAD）预测安哥拉今年增长2.9%，2027年增长3.3%"
     },
     {
-      "title": "Marco Rubio garante reabertura do Estreito de Ormuz ",
-      "url": "https://correiokianda.info/marco-rubio-garante-reabertura-do-estreito-de-ormuz/",
+      "title": "João Lourenço no Zaire: Presidente avalia obras estratégicas e lidera primeira reunião do Conselho de Governação Local de 2026",
+      "url": "https://diariodosnegocios.com/joao-lourenco-no-zaire-presidente-avalia-obras-estrategicas-e-lidera-primeira-reuniao-do-conselho-de-governacao-local-de-2026/",
+      "source": "Diário dos Negócios",
+      "_key": "80ce11e920513e56",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）视察扎伊尔（Zaire），评估战略工程并主持2026年地方治理委员会首次会议"
+    },
+    {
+      "title": " João Lourenço no Zaire: Presidente avalia obras estratégicas e lidera primeira reunião do Conselho de Governação Local de 2026 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_a8bda529e8071c",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）视察扎伊尔（Zaire），评估战略工程并主持2026年地方治理委员会首次会议"
+    },
+    {
+      "title": "Trespasses aumentam e potenciam burlas entre vendedores e compradores",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_de26c9cd0a617a",
+      "score": 7,
+      "title_cn": "转让交易增加，助长买卖双方诈骗"
+    },
+    {
+      "title": "Volkswagen África efectua visita de prospecção de mercado em Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_60007e2e1e5b0a",
+      "score": 7,
+      "title_cn": "大众非洲（Volkswagen África）在安哥拉进行市场考察"
+    },
+    {
+      "title": "Trespasses aumentam e potenciam burlas entre vendedores e compradoresO aumento dos preços dos imóveis das centralidades no circuito informal fez disparar a oferta e o trespasse destes apartamentos, com burlas à mistura, num negócio considerado ilegal, mas que acontece à vista de todos. Há casos de vendas de apartamentos a mais do que um comprador. ",
+      "url": "https://expansao.co.ao/angola/detalhe/trespasses-aumentam-e-potenciam-burlas-entre-vendedores-e-compradores-72090.html",
+      "source": "Expansão",
+      "_key": "0c88acd4ff6400b2",
+      "score": 7,
+      "title_cn": "转让交易增加，助长买卖双方诈骗"
+    },
+    {
+      "title": "BAD prevê crescimento moderado para Angola de 2,9% este ano e 3,3% em 2027",
+      "url": "https://jornaloguardiao.com/2026/05/26/bad-preve-crescimento-moderado-para-angola-de-29-este-ano-e-33-em-2027/",
+      "source": "Jornal O Guardião",
+      "_key": "e5bef8e715071f58",
+      "score": 7,
+      "title_cn": "非洲开发银行（BAD）预测安哥拉今年增长2.9%，2027年增长3.3%"
+    },
+    {
+      "title": "João Lourenço trabalha dois dias no Zaire com foco em infra-estruturas e governação local",
+      "url": "https://jornaloguardiao.com/2026/05/27/joao-lourenco-trabalha-dois-dias-no-zaire-com-foco-em-infra-estruturas-e-governacao-local/",
+      "source": "Jornal O Guardião",
+      "_key": "456756c39cba82f0",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）在扎伊尔（Zaire）工作两天，聚焦基础设施和地方治理"
+    },
+    {
+      "title": " BAD prevê crescimento moderado para Angola de 2,9% este ano e 3,3% em 2027 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7eb470f381fe7b",
+      "score": 7,
+      "title_cn": "非洲开发银行（BAD）预测安哥拉今年增长2.9%，2027年增长3.3%"
+    },
+    {
+      "title": " João Lourenço trabalha dois dias no Zaire com foco em infra-estruturas e governação local ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_06b4141fdcb193",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）在扎伊尔（Zaire）工作两天，聚焦基础设施和地方治理"
+    },
+    {
+      "title": "João Lourenço avalia projectos de impacto económico e socialO Presidente da República, João Lourenço, trabalha, hoje e amanhã, em Mbanza Kongo, capital da província do Zaire, onde, entre outras tarefas, vai presidir à reunião do Conselho de Governação Local e inteirar-se sobre a evolução dos projectos de impacto económico e social em curso na região.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677072/jo%C3%A3o-louren%C3%A7o-avalia-projectos--de-impacto-econ%C3%B3mico-e-social",
+      "source": "Jornal de Angola",
+      "_key": "7dc652f145e82d7b",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）在扎伊尔（Zaire）姆班扎刚果（Mbanza Kongo）评估经济社会影响项目"
+    },
+    {
+      "title": "CONVERSA ABERTA COM HORÁCIO MONIZ E MÁRIO CABRINI. Incentivos à produção nacional e promoção das exportações.",
+      "url": "https://marginal.co.ao/programas/conversa-aberta?ep=72102",
+      "source": "Novo Jornal",
+      "_key": "ddc5a97b30a6dbec",
+      "score": 7,
+      "title_cn": "奥拉西奥·莫尼斯（Horácio Moniz）和马里奥·卡布里尼（Mário Cabrini）对话：激励国内生产，促进出口"
+    },
+    {
+      "title": "Custos de escoamento de produtos agrícolas sobem até 140%",
+      "url": "https://valoreconomico.co.ao/artigo/custos-de-escoamento-de-produtos-agricolas-sobem-ate-140",
+      "source": "Valor Económico",
+      "_key": "b3b75a58e7135ce3",
+      "score": 7,
+      "title_cn": "农产品分销成本上涨高达140%"
+    },
+    {
+      "title": "O BILIÃO QUE ANGOLA CONTINUA A DESPERDIÇAR",
+      "url": "https://valoreconomico.co.ao/artigo/o-biliao-que-angola-continua-a-desperdicar",
+      "source": "Valor Económico",
+      "_key": "ef819a1ac12785cd",
+      "score": 7,
+      "title_cn": "安哥拉仍在浪费数十亿"
+    },
+    {
+      "title": "Aeroportos angolanos são os mais caros do continente africano",
+      "url": "https://valoreconomico.co.ao/artigo/aeroportos-angolanos-sao-os-mais-caros-do-continente-africano",
+      "source": "Valor Económico",
+      "_key": "1833823ca8ea4aca",
+      "score": 7,
+      "title_cn": "安哥拉机场是非洲大陆最昂贵的"
+    },
+    {
+      "title": "Ministro garante que diversificação económica está “efectivamente em curso” e...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-garante-que-diversificacao-economica-esta-efectivamente-em-curso-e-dar-resultados",
+      "source": "Valor Económico",
+      "_key": "97848816b227af14",
+      "score": 7,
+      "title_cn": "部长保证经济多元化“正在有效进行”"
+    },
+    {
+      "title": "Zaire Province population expectant regarding President João Lourenço Visit",
+      "url": "https://www.angop.ao/en/noticias/politica/zaire-expectante-em-relacao-a-visita-do-pr/",
+      "source": "ANGOP",
+      "_key": "af7790b4d05624b8",
+      "score": 6,
+      "title_cn": "扎伊尔省民众期待若昂·洛伦索（João Lourenço）总统来访"
+    },
+    {
+      "title": "President João Lourenço to work in northern province of Zaire",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-trabalha-no-zaire-1/",
+      "source": "ANGOP",
+      "_key": "8407e21c1e23ce92",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统将赴扎伊尔北部省份工作"
+    },
+    {
+      "title": "Zaire provincial governor announces construction of ring road for Mbanza Kongo",
+      "url": "https://www.angop.ao/en/noticias/economia/governador-do-zaire-anuncia-construcao-de-circular-para-mbanza-kongo/",
+      "source": "ANGOP",
+      "_key": "726c30a6712c28f2",
+      "score": 6,
+      "title_cn": "扎伊尔省省长宣布为姆班扎刚果（Mbanza Kongo）修建环城公路"
+    },
+    {
+      "title": "João Lourenço nomeia Felisbela Francisco para liderar a IGAE",
+      "url": "https://angola24horas.com/politica/item/34409-joao-lourenco-nomeia-felisbela-francisco-para-liderar-a-igae",
+      "source": "Angola 24 Horas",
+      "_key": "9710f26537ecb9de",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）任命费利斯贝拉·弗朗西斯科（Felisbela Francisco）领导国家行政总监察局（IGAE）"
+    },
+    {
+      "title": "Inspecção-Geral da Administração do Estado com nova liderança",
+      "url": "https://correiokianda.info/inspeccao-geral-da-administracao-do-estado-com-nova-lideranca/",
       "source": "Correio Kianda",
-      "_key": "391e89009b8e985d",
-      "score": 5,
-      "title_cn": "马可·卢比奥（Marco Rubio）保证霍尔木兹海峡重新开放"
+      "_key": "e6a7aa12bb25c9b7",
+      "score": 6,
+      "title_cn": "国家行政总监察局（IGAE）迎来新领导"
     },
     {
-      "title": "Sociedade Angola e Eritreia abordam fortalecimento da cooperação em Segurança e Ordem Pública ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677062/angola-e-eritreia-abordam-fortalecimento-da-coopera%C3%A7%C3%A3o-em-seguran%C3%A7a-e-ordem-p%C3%BAblica-",
+      "title": "TAAG afunda nas contas: prejuízos ultrapassam 429 milhões USD em apenas três anos",
+      "url": "https://correiokianda.info/taag-afunda-nas-contas-prejuizos-ultrapassam-429-milhoes-usd-em-apenas-tres-anos/",
+      "source": "Correio Kianda",
+      "_key": "b3cf50433a45fbe7",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）陷入财务困境：三年内亏损超4.29亿美元"
+    },
+    {
+      "title": "Executivo anuncia aumento da produção de carne; economista afasta redução imediata dos preços no mercado",
+      "url": "https://correiokianda.info/executivo-anuncia-aumento-da-producao-de-carne-economista-afasta-reducao-imediata-dos-precos-no-mercado/",
+      "source": "Correio Kianda",
+      "_key": "2b7125226a7a89b5",
+      "score": 6,
+      "title_cn": "政府宣布增加肉类产量；经济学家排除市场价格立即下降"
+    },
+    {
+      "title": "Destaque Felisbela Francisco nomeada inspectora Geral da Administração do EstadoO Presidente da República, João Lourenço, nomeou, hoje, Felisbela Maria Francisco, para o cargo de Inspectora Geral da Administração do Estado.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677135/felisbela-francisco-nomeada-inspectora-geral-da-administra%C3%A7%C3%A3o-do-estado",
       "source": "Jornal de Angola",
-      "_key": "a75a68a8cb65e470",
-      "score": 5,
-      "title_cn": "社会：安哥拉与厄立特里亚探讨加强公共安全合作"
+      "_key": "7c9403ae805bf4f7",
+      "score": 6,
+      "title_cn": "费利斯贝拉·弗朗西斯科（Felisbela Francisco）被任命为国家行政总监察局总监"
     },
     {
-      "title": "Regiões Mortes no Bengo aumentam para 29 ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/677031/mortes-no-bengo-aumentam-para-29",
+      "title": "Destaque INE apresenta sexta-feira resultados do PIB do I trimestre de 2026Os resultados do Produto Interno Bruto (PIB) e das demais contas nacionais referentes ao primeiro trimestre de 2026 serão apresentados na próxima sexta-feira pelo Instituto Nacional de Estatística (INE).",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677139/ine-apresenta-sexta-feira-resultados-do-pib-do-i-trimestre-de-2026",
       "source": "Jornal de Angola",
-      "_key": "f9f3176590f98f4b",
-      "score": 5,
-      "title_cn": "地区：本戈省死亡人数增至29人"
+      "_key": "d399b08c8de74f64",
+      "score": 6,
+      "title_cn": "国家统计局（INE）周五公布2026年第一季度GDP数据"
     },
     {
-      "title": "Agricultura e segurança económica",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/677018/agricultura-e-seguran%C3%A7a-econ%C3%B3mica",
-      "source": "Jornal de Angola",
-      "_key": "3702af2692221811",
-      "score": 5,
-      "title_cn": "农业与经济安全"
+      "title": "Direct Awards Surge 393% to 9.817 Trillion Kwanzas in Four Months27/05/2026",
+      "url": "https://www.negociosdeangola.com/en/direct-awards-surge-393-to-9-817-trillion-kwanzas-in-four-months/",
+      "source": "Negócios de Angola",
+      "_key": "556ebc2fd7644ba1",
+      "score": 6,
+      "title_cn": "四个月内直接奖项飙升393%至9.817万亿宽扎27/05/2026"
     },
     {
-      "title": "Economia / Há 6 horas Arena de Negócios acelera Agenda de Transição Digital ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677024/arena-de-neg%C3%B3cios-acelera-agenda-de-transi%C3%A7%C3%A3o-digital",
-      "source": "Jornal de Angola",
-      "_key": "49da130270c8ca93",
-      "score": 5,
-      "title_cn": "经济：商业论坛加速数字化转型议程"
-    },
-    {
-      "title": "Última hora Téte António: \"Angola é um actor decisivo na resolução de conflitos em África\" ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677040/t%C3%A9te-ant%C3%B3nio:-%22angola-%C3%A9-um-actor-decisivo-na-resolu%C3%A7%C3%A3o-de-conflitos-em-%C3%A1frica%22-",
-      "source": "Jornal de Angola",
-      "_key": "dc0cdd3642bbfb04",
-      "score": 5,
-      "title_cn": "最新：特特·安东尼奥（Téte António）称“安哥拉是非洲冲突解决的关键参与者”"
-    },
-    {
-      "title": "Benguela e o regresso à normalidade pós-catástrofe",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/benguela-e-o-regresso-a-normalidade-pos-catastrofe-72062.html",
+      "title": "Ébola/RDC: Bunia, o grau zero da 17ª epidemia da mais...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-bunia-o-grau-zero-da-17-epidemia-da-mais-letal-febre-hemorragica-conhecida-esta-a-ser-isolada-do-mundo-72104.html",
       "source": "Novo Jornal",
-      "_key": "8e0beb94b9920802",
-      "score": 5,
-      "title_cn": "本格拉省灾后恢复正常"
+      "_key": "20a2e87e8552c150",
+      "score": 6,
+      "title_cn": "埃博拉/刚果民主共和国：布尼亚（Bunia）成为第17次疫情的零点"
     },
     {
-      "title": "NJ ÀS TERÇAS: O CÁLVARIO DO ACESSO AO BI. Utentes desesperam-se por atrasos na obtenção do documento nas repartições públicas.",
-      "url": "https://marginal.co.ao/programas/nj-as-tercas?ep=72078",
-      "source": "Novo Jornal",
-      "_key": "71db3159001b471f",
-      "score": 5,
-      "title_cn": "星期二NJ：获取身份证的苦难。公共部门文件办理延误令用户绝望"
-    },
-    {
-      "title": "Obras de asfaltagem no troço São João–Cambiote avançam a bom ritmo no Huambo",
-      "url": "https://www.opais.ao/sociedade/obras-de-asfaltagem-no-troco-sao-joao-cambiote-avancam-a-bom-ritmo-no-huambo/",
+      "title": "João Lourenço reúne com governadores e ministros na província do Zaire",
+      "url": "https://www.opais.ao/politica/joao-lourenco-reune-com-governadores-e-ministros-na-provincia-do-zaire/",
       "source": "O País",
-      "_key": "ede40150a4038316",
+      "_key": "0af01b1153de43fb",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）在扎伊尔省会见省长和部长"
+    },
+    {
+      "title": "Ajustes directos disparam 393% para 9,817 biliões kz em quatro...",
+      "url": "https://valoreconomico.co.ao/artigo/ajustes-directos-disparam-393-para-9-817-bilioes-kz-em-quatro-meses",
+      "source": "Valor Económico",
+      "_key": "30beec16e2a1e8cc",
+      "score": 6,
+      "title_cn": "四个月内直接授标飙升393%，达9.817万亿宽扎（Kz）"
+    },
+    {
+      "title": "Angola é o país que menos capta remessas de...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-e-o-pais-que-menos-capta-remessas-de-emigrantes-em-africa",
+      "source": "Valor Económico",
+      "_key": "81887ff0c248db9f",
+      "score": 6,
+      "title_cn": "安哥拉是吸引汇款最少的国家"
+    },
+    {
+      "title": "More than 200 exhibitors participate in Expo/Cuanza-Norte 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/mais-de-200-expositores-participam-na-expo-cuanza-norte-2026/",
+      "source": "ANGOP",
+      "_key": "d8144f53c287f081",
       "score": 5,
-      "title_cn": "圣若昂-坎比奥特路段沥青工程在万博省进展顺利"
+      "title_cn": "2026年北宽扎（Cuanza-Norte）博览会吸引逾200家参展商"
+    },
+    {
+      "title": "Polices' most wanted man detained for armed robbery in Matala",
+      "url": "https://www.angop.ao/en/noticias/sociedade/detido-homem-mais-procurado-por-roubos-a-mao-armada-na-matala/",
+      "source": "ANGOP",
+      "_key": "dd2496811898e2a9",
+      "score": 5,
+      "title_cn": "警方头号通缉犯因马塔拉（Matala）武装抢劫案被捕"
+    },
+    {
+      "title": "Grupo OMATAPALO marca presença na Feira de Empregabilidade da UCAN e abre portas ao talento jovem",
+      "url": "https://diariodosnegocios.com/grupo-omatapalo-marca-presenca-na-feira-de-empregabilidade-da-ucan-e-abre-portas-ao-talento-jovem/",
+      "source": "Diário dos Negócios",
+      "_key": "cdc348143d57607b",
+      "score": 5,
+      "title_cn": "OMATAPALO集团参加UCAN就业博览会，为青年人才敞开大门"
+    },
+    {
+      "title": " Grupo OMATAPALO marca presença na Feira de Empregabilidade da UCAN e abre portas ao talento jovem ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_8f6a9207c8f777",
+      "score": 5,
+      "title_cn": "OMATAPALO集团参加UCAN就业博览会，为青年人才敞开大门"
+    },
+    {
+      "title": "Prémios da NOSSA crescem 162% em quatro anos e lucros avançam 95%",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_316ce6fac1835b",
+      "score": 5,
+      "title_cn": "NOSSA保费四年增长162%，利润增长95%"
+    },
+    {
+      "title": "SIC detém seis membros da mesma família acusados de matar ancião por alegadas crenças supersticiosas",
+      "url": "https://jornaloguardiao.com/2026/05/27/sic-detem-seis-membros-da-mesma-familia-acusados-de-matar-anciao-por-alegadas-crencas-supersticiosas/",
+      "source": "Jornal O Guardião",
+      "_key": "405e4a261e59a5d5",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）拘留六名家庭成员，涉嫌因迷信杀害老人"
+    },
+    {
+      "title": " SIC detém seis membros da mesma família acusados de matar ancião por alegadas crenças supersticiosas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d7556e229af316",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）拘留六名家庭成员，涉嫌因迷信杀害老人"
+    },
+    {
+      "title": "Política Presidente da República a caminho do Zaire ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677138/presidente-da-rep%C3%BAblica-a-caminho-do-zaire",
+      "source": "Jornal de Angola",
+      "_key": "57b65b86fe1a2ae1",
+      "score": 5,
+      "title_cn": "共和国总统启程前往扎伊尔（Zaire）"
+    },
+    {
+      "title": "Sociedade Lunda-Norte cria plano para conter vírus do ébola ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677089/lunda-norte-cria-plano--para-conter-v%C3%ADrus-do-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "0f164895159cab10",
+      "score": 5,
+      "title_cn": "北隆达（Lunda-Norte）制定埃博拉病毒防控计划"
+    },
+    {
+      "title": "Regiões Moxico e Moxico-Leste reforça vigilância para prevenir casos de ébola ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/677071/moxico-e-moxico-leste-refor%C3%A7a-vigil%C3%A2ncia-para-prevenir-casos-de-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "8f64c42caef94a94",
+      "score": 5,
+      "title_cn": "莫希科（Moxico）和东莫希科（Moxico-Leste）加强埃博拉病例预防监测"
+    },
+    {
+      "title": "PR segue hoje para a província do Zaire, onde vai verificar...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-segue-hoje-para-a-provincia-do-zaire-onde-vai-verificar-o-andamento-das-obras-do-novo-aeroporto-nimi-a-luqueni-e-do-hospital-geral-72089.html",
+      "source": "Novo Jornal",
+      "_key": "176e9b4513db46ec",
+      "score": 5,
+      "title_cn": "总统今日启程前往扎伊尔（Zaire）省视察"
+    },
+    {
+      "title": "Cabinda: PN detém 79 congoleses e apreende grandes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cabinda-pn-detem-79-congoleses-e-apreende-grandes-quantidades-de-medicamentos-72106.html",
+      "source": "Novo Jornal",
+      "_key": "bd7176426c67b3eb",
+      "score": 5,
+      "title_cn": "卡宾达（Cabinda）：国家警察拘捕79名刚果人，缴获大量物品"
+    },
+    {
+      "title": "Caso russos: Dois meses depois, tribunal termina interrogatório...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-dois-meses-depois-tribunal-termina-interrogatorio-dos-arguidos-e-comeca-a-ouvir-declarantes-72101.html",
+      "source": "Novo Jornal",
+      "_key": "40bd6887f592ae4b",
+      "score": 5,
+      "title_cn": "俄罗斯案件：两个月后，法庭结束审讯"
+    },
+    {
+      "title": "Sentença do juiz que mandou desbloquear \"ilegalmente\" conta do antigo director do INEA, congelada pela PGR, conhecida a 9 de Junho",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sentenca-do-juiz-que-mandou-desbloquear-ilegalmente-conta-do-antigo-director-do-inea-congelada-pela-pgr-conhecida-a-9-de-junho-72094.html",
+      "source": "Novo Jornal",
+      "_key": "a9d16c9639d799a8",
+      "score": 5,
+      "title_cn": "法官“非法”解冻前国家道路研究所（INEA）所长账户案，判决将于6月9日公布"
+    },
+    {
+      "title": "Bengo: A febre do ouro que levou a morte a Nambuangongo",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bengo-a-febre-do-ouro-que-levou-a-morte-a-nambuangongo-72086.html",
+      "source": "Novo Jornal",
+      "_key": "b8b709ef5915989b",
+      "score": 5,
+      "title_cn": "本戈（Bengo）：南布安贡戈（Nambuangongo）淘金热致死"
+    },
+    {
+      "title": "Presidente da República trabalha no Zaire",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-trabalha-no-zaire/",
+      "source": "O País",
+      "_key": "2411973965f77129",
+      "score": 5,
+      "title_cn": "共和国总统在扎伊尔（Zaire）工作"
+    },
+    {
+      "title": "Nambuangongo despede-se de filhos “engolidos” pela mina de ouro",
+      "url": "https://www.opais.ao/ultimas_hora/nambuangongo-despede-se-de-filhos-engolidos-pela-mina-de-ouro/",
+      "source": "O País",
+      "_key": "91caf24c254ba0ce",
+      "score": 5,
+      "title_cn": "南布安贡戈（Nambuangongo）告别被金矿“吞噬”的子民"
     }
   ]
 }
