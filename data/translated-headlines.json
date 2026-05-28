@@ -1,192 +1,432 @@
 {
-  "date": "2026-05-27",
-  "total_new": 50,
-  "total_filtered": 23,
+  "date": "2026-05-28",
+  "total_new": 131,
+  "total_filtered": 53,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Política Relações sino-angolanas abordadas hoje em conferência de imprensa ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677144/rela%C3%A7%C3%B5es-sino-angolanas-abordadas-hoje-em-confer%C3%AAncia-de-imprensa",
-      "source": "Jornal de Angola",
-      "_key": "a182e4d5d13900c1",
+      "title": "BNA reduz limite anual de transferências para o exterior de 250 mil para 150 mil dólares",
+      "url": "https://angola24horas.com/sociedade/item/34413-bna-reduz-limite-anual-de-transferencias-para-o-exterior-de-250-mil-para-150-mil-dolares",
+      "source": "Angola 24 Horas",
+      "_key": "a95c969621031da8",
       "score": 10,
-      "title_cn": "中安关系今日新闻发布会讨论"
+      "title_cn": "安哥拉国家银行(BNA)将年度境外转账限额从25万美元降至15万美元。"
     },
     {
-      "title": "Sociedade Angola participa no Fórum de Desenvolvimento Global na China ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677142/angola-participa-no-f%C3%B3rum-de-desenvolvimento-global-na-china",
-      "source": "Jornal de Angola",
-      "_key": "7919d31f23f6905f",
-      "score": 9,
-      "title_cn": "安哥拉参加中国全球发展论坛"
-    },
-    {
-      "title": "One in every five dollars Angola spent abroad went to China",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9839",
-      "source": "Negócios de Angola",
-      "_key": "7692cea1eb444610",
-      "score": 9,
-      "title_cn": "安哥拉每五美元对外支出中，一美元流向中国"
-    },
-    {
-      "title": "Angola Ranked 4th African Country with the Cheapest Diesel in May 2026",
-      "url": "https://www.negociosdeangola.com/en/angola-ranked-4th-african-country-with-the-cheapest-diesel-in-may-2026/",
-      "source": "Negócios de Angola",
-      "_key": "23699a6100e5ef8a",
-      "score": 8,
-      "title_cn": "2026年5月安哥拉柴油价格非洲第四低"
-    },
-    {
-      "title": "O VALOR DO KUMBU Avaliação do FMI ao sistema bancário angolano levanta problemas na supervisão: que lições tirar?",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=72108",
+      "title": "BNA impõe limite anual de 150 mil USD nas transferências...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-impoe-limite-anual-de-150-mil-usd-nas-transferencias-para-o-exterior-ordenadas-por-pessoas-singulares--72117.html",
       "source": "Novo Jornal",
-      "_key": "5c85cc3dd9096c89",
-      "score": 8,
-      "title_cn": "国际货币基金组织评估安哥拉银行体系，指出监管问题"
+      "_key": "e94bc431fa624567",
+      "score": 10,
+      "title_cn": "安哥拉国家银行(BNA)设定年度转账限额15万美元。"
     },
     {
-      "title": "Aeroportos angolanos são os mais caros do continente africano",
-      "url": "https://valoreconomico.co.ao/artigo/aeroportos-angolanos-sao-os-mais-caros-do-continente-africano-14244",
-      "source": "Valor Económico",
-      "_key": "0aca049e23020fc0",
-      "score": 8,
-      "title_cn": "安哥拉机场是非洲大陆最昂贵的"
-    },
-    {
-      "title": "Angola's Central Bank maintains its objective of reducing inflation to single digits",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-mantem-objectivo-de-reduzir-inflacao-a-um-digito/",
-      "source": "ANGOP",
-      "_key": "6dfc0fe42459f374",
-      "score": 7,
-      "title_cn": "安哥拉央行维持将通胀降至个位数的M目标"
-    },
-    {
-      "title": "IMF revises Angola's economic growth forecast upwards",
-      "url": "https://www.angop.ao/en/noticias/economia/fmi-reve-em-alta-crescimento-economico-de-angola/",
-      "source": "ANGOP",
-      "_key": "d43fe59e492ef373",
-      "score": 7,
-      "title_cn": "国际货币基金组织上调安哥拉经济增长预测"
-    },
-    {
-      "title": "Estado enfrenta pressão crescente enquanto liquidez financeira acelera acima...",
-      "url": "https://valoreconomico.co.ao/artigo/estado-enfrenta-pressao-crescente-enquanto-liquidez-financeira-acelera-acima-de-1-4-bilioes-kz",
-      "source": "Valor Económico",
-      "_key": "ca2481d83cde7493",
-      "score": 7,
-      "title_cn": "随着金融流动性加速，安哥拉政府面临日益增长的压力"
-    },
-    {
-      "title": "TAAG acumula prejuízos superiores a 1,1 mil milhões USD em...",
-      "url": "https://valoreconomico.co.ao/artigo/taag-acumula-prejuizos-superiores-a-1-1-mil-milhoes-usd-em-oito-anos",
-      "source": "Valor Económico",
-      "_key": "eaf20dc5520ffad8",
-      "score": 7,
-      "title_cn": "安哥拉航空（TAAG）累计亏损超11亿美元"
-    },
-    {
-      "title": "US diplomat says relations with Angola are growing stronger",
-      "url": "https://www.angop.ao/en/noticias/politica/diplomata-americana-diz-que-relacoes-com-angola-estao-cada-vez-mais-fortes/",
-      "source": "ANGOP",
-      "_key": "8dc320ec1cc02944",
-      "score": 6,
-      "title_cn": "美国外交官称美安关系日益加强"
-    },
-    {
-      "title": "Angolan president assesses progress on Mbanza Congo airport construction",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-constata-andamento-das-obras-do-aeroporto-de-mbanza-kongo/",
-      "source": "ANGOP",
-      "_key": "6e6f3e635556c530",
-      "score": 6,
-      "title_cn": "安哥拉总统视察姆班扎刚果机场建设进展"
-    },
-    {
-      "title": "Especialistas alertam para falta de concorrência em sectores-chave da economia nacional",
-      "url": "https://correiokianda.info/especialistas-alertam-para-falta-de-concorrencia-em-sectores-chave-da-economia-nacional/",
-      "source": "Correio Kianda",
-      "_key": "4f676ed3dae036d2",
-      "score": 6,
-      "title_cn": "专家警告国家经济关键部门缺乏竞争"
-    },
-    {
-      "title": "        Sociedade4 semanas atrás  Cidadãos divergem sobre proposta do Governo para centralizar identificação no BI    ",
-      "url": "https://correiokianda.info/cidadaos-divergem-sobre-proposta-do-governo-para-centralizar-identificacao-no-bi/",
-      "source": "Correio Kianda",
-      "_key": "281bd1cb56370c88",
-      "score": 6,
-      "title_cn": "公民对政府集中身份证识别的提议存在分歧"
-    },
-    {
-      "title": "Destaque Presidente da República já se encontra no Zaire O Presidente da República, João Lourenço, chegou, na tarde desta quarta-feira, à cidade de Mbanza Kongo, província do Zaire, onde vai trabalhar, hoje e amanhã (quinta-feira).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677141/presidente-da-rep%C3%BAblica-j%C3%A1-se-encontra-no-zaire-",
-      "source": "Jornal de Angola",
-      "_key": "a9635374babfd123",
-      "score": 6,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）抵达扎伊尔省姆班扎刚果市"
-    },
-    {
-      "title": "Destaque Presidente João Lourenço avalia obras do Aeroporto e do Hospital-Geral do ZaireO Presidente da República, João Lourenço, procedeu, esta quarta-feira, a uma visita de constatação às obras do futuro Aeroporto do Zaire e do Hospital-Geral da província, no âmbito do acompanhamento dos projectos de impacto económico e social. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677146/presidente-jo%C3%A3o-louren%C3%A7o-avalia-obras-do-aeroporto-e-do-hospital-geral-do-zaire",
-      "source": "Jornal de Angola",
-      "_key": "e8f1793f06a3e8ac",
-      "score": 6,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）视察扎伊尔机场和总医院工程"
-    },
-    {
-      "title": "Governo vai comprar SUV de luxo por 487 mil USD &ndash...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/governo-vai-comprar-suv-de-luxo-por-487-mil-usd-viatura-para-uso-pessoal-de-entidade-protocolar-sera-blindada-contra-municoes-de-alto-calibre-72110.html",
-      "source": "Novo Jornal",
-      "_key": "df746f814fe0fbdc",
-      "score": 6,
-      "title_cn": "安哥拉政府将斥资48.7万美元购买豪华SUV"
-    },
-    {
-      "title": "Angola reforça aposta na electrificação rural com avanço do Programa AMAP",
-      "url": "https://www.opais.ao/sociedade/angola-reforca-aposta-na-electrificacao-rural-com-avanco-do-programa-amap/",
+      "title": "Volume de comércio entre Angola e China movimentou mais de 20 milmilhões de dólares em 2025",
+      "url": "https://www.opais.ao/economia/volume-de-comercio-entre-angolae-china-movimentou-mais-de-20-milmilhoes-de-dolares-em-2025/",
       "source": "O País",
-      "_key": "e58b0a325a0665e1",
-      "score": 6,
-      "title_cn": "安哥拉通过AMAP计划推进农村电气化"
+      "_key": "94dd51c88de8b93a",
+      "score": 10,
+      "title_cn": "安哥拉与中国2025年贸易额超200亿美元。"
     },
     {
-      "title": "África levanta voo, mas Angola continua na pista",
-      "url": "https://valoreconomico.co.ao/artigo/africa-levanta-voo-mas-angola-continua-na-pista",
+      "title": "Angola's debt with China drops to USD 12 billion",
+      "url": "https://www.angop.ao/en/noticias/economia/divida-de-angola-com-a-china-reduz-para-usd-12-mil-milhoes/",
+      "source": "ANGOP",
+      "_key": "4dd692a94deffaa6",
+      "score": 9,
+      "title_cn": "安哥拉对华债务降至120亿美元。"
+    },
+    {
+      "title": "Angola and China sign memorandum of understanding in fisheries’ field",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-china-rubricam-memorando-de-entendimento-no-dominio-das-pescas/",
+      "source": "ANGOP",
+      "_key": "547b4fa75df03142",
+      "score": 9,
+      "title_cn": "安哥拉与中国签署渔业领域谅解备忘录。"
+    },
+    {
+      "title": "Petróleo recupera, mas mantém-se abaixo dos 100 dólares por barril",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recupera-mas-mantem-se-abaixo-dos-100-dolares-por-barril-72123.html",
+      "source": "Expansão",
+      "_key": "191e2909d7db7e2c",
+      "score": 9,
+      "title_cn": "油价回升但仍低于每桶100美元。"
+    },
+    {
+      "title": "Kwanza vai integrar sistema regional de pagamentos da SADC no segundo semestre",
+      "url": "https://jornaloguardiao.com/2026/05/28/kwanza-vai-integrar-sistema-regional-de-pagamentos-da-sadc-no-segundo-semestre/",
+      "source": "Jornal O Guardião",
+      "_key": "255ed1d9e6c5221e",
+      "score": 9,
+      "title_cn": "宽扎货币下半年将纳入南部非洲发展共同体(SADC)区域支付系统。"
+    },
+    {
+      "title": "Escassez de moeda estrangeira é principal obstáculo ao crescimento dos bancos africanos",
+      "url": "https://jornaloguardiao.com/2026/05/27/escassez-de-moeda-estrangeira-e-principal-obstaculo-ao-crescimento-dos-bancos-africanos/",
+      "source": "Jornal O Guardião",
+      "_key": "46941948a4c0072a",
+      "score": 9,
+      "title_cn": "外汇短缺是非洲银行增长的主要障碍。"
+    },
+    {
+      "title": " Kwanza vai integrar sistema regional de pagamentos da SADC no segundo semestre ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d43ffe6c991dbb",
+      "score": 9,
+      "title_cn": "宽扎货币下半年将纳入南部非洲发展共同体(SADC)区域支付系统。"
+    },
+    {
+      "title": " Escassez de moeda estrangeira é principal obstáculo ao crescimento dos bancos africanos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a52be0a54fef97",
+      "score": 9,
+      "title_cn": "外汇短缺是非洲银行增长的主要障碍。"
+    },
+    {
+      "title": "Economia Escassez de moeda estrangeira é obstáculo ao crescimento dos bancos africanos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677155/escassez-de-moeda-estrangeira-%C3%A9-obst%C3%A1culo-ao-crescimento-dos-bancos-africanos",
+      "source": "Jornal de Angola",
+      "_key": "22d08dbbf37b907a",
+      "score": 9,
+      "title_cn": "经济：外汇短缺是非洲银行增长的障碍。"
+    },
+    {
+      "title": "Começa a haver escassez de combustível e gás de cozinha em Luanda - Longas filas de cisternas na refinaria",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/comeca-a-haver-escassez-de-combustivel-e-gas-de-cozinha-em-luanda---longas-filas-de-cisternas-na-refinaria-72111.html",
+      "source": "Novo Jornal",
+      "_key": "add27458a6fc64ea",
+      "score": 9,
+      "title_cn": "罗安达出现燃料和家用燃气短缺，炼油厂油罐车排长队。"
+    },
+    {
+      "title": "Actual modelo de negócio da banca em Angola pode não...",
+      "url": "https://valoreconomico.co.ao/artigo/actual-modelo-de-negocio-da-banca-em-angola-pode-nao-ser-sustentavel-avisa-ceo-do-standard-bank",
       "source": "Valor Económico",
-      "_key": "72218ef2c5a29753",
-      "score": 6,
-      "title_cn": "非洲腾飞，安哥拉仍在原地踏步"
+      "_key": "6660e468cfe1212b",
+      "score": 9,
+      "title_cn": "安哥拉银行业现有商业模式或面临挑战。"
     },
     {
-      "title": "        África2 horas atrás  Gana prepara recepção de cidadãos evacuados da África do Sul após relatos de ataques xenófobos O Governo do Gana anunciou estar preparado para receber o primeiro grupo de cidadãos evacuados da África do Sul, na sequência de relatos de ataques xenófobos...   ",
-      "url": "https://correiokianda.info/gana-prepara-recepcao-de-cidadaos-evacuados-da-africa-do-sul-apos-relatos-de-ataques-xenofobos/",
-      "source": "Correio Kianda",
-      "_key": "59290cdf98727978",
-      "score": 5,
-      "title_cn": "加纳准备接收南非排外袭击后撤离的公民"
-    },
-    {
-      "title": "Adalberto Costa Júnior defende integração económica africana e investimento no conhecimento",
-      "url": "https://holdonangola.com/adalberto-costa-junior-defende-integracao-economica-africana-e-investimento-no-conhecimento/",
+      "title": "Novo livro de NJ Ayuk analisa reformas e transformação do sector petrolífero em Angola",
+      "url": "https://holdonangola.com/novo-livro-de-nj-ayuk-analisa-reformas-e-transformacao-do-sector-petrolifero-em-angola/",
       "source": "Hold On Angola",
-      "_key": "3c8f0a2e52f26adb",
-      "score": 5,
-      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）倡导非洲经济一体化和知识投资"
+      "_key": "4d847c35869e3c10",
+      "score": 8,
+      "title_cn": "恩杰·阿尤克(NJ Ayuk)新书分析安哥拉石油行业改革与转型。"
     },
     {
-      "title": "Julgamento da antiga ministra das Pescas retoma hoje",
-      "url": "https://www.opais.ao/ultimas_hora/julgamento-da-antiga-ministra-das-pescas-retoma-hoje/",
+      "title": "Stock de crédito em Angola cresce 15% e reforça sinais de expansão do financiamento à economia",
+      "url": "https://jornaloguardiao.com/2026/05/28/stock-de-credito-em-angola-cresce-15-e-reforca-sinais-de-expansao-do-financiamento-a-economia/",
+      "source": "Jornal O Guardião",
+      "_key": "a38f2c3fcc7d2ad5",
+      "score": 8,
+      "title_cn": "安哥拉信贷存量增长15%，经济融资扩张迹象增强。"
+    },
+    {
+      "title": "FMI detecta falhas na supervisão do BNA e pede reforço urgente da fiscalização bancária",
+      "url": "https://jornaloguardiao.com/2026/05/28/fmi-detecta-falhas-na-supervisao-do-bna-e-pede-reforco-urgente-da-fiscalizacao-bancaria/",
+      "source": "Jornal O Guardião",
+      "_key": "9abc8e5d55214852",
+      "score": 8,
+      "title_cn": "国际货币基金组织(FMI)发现安哥拉国家银行(BNA)监管缺陷，呼吁紧急加强银行监管。"
+    },
+    {
+      "title": " Stock de crédito em Angola cresce 15% e reforça sinais de expansão do financiamento à economia ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7717c73d772631",
+      "score": 8,
+      "title_cn": "安哥拉信贷存量增长15%，经济融资扩张迹象增强。"
+    },
+    {
+      "title": " FMI detecta falhas na supervisão do BNA e pede reforço urgente da fiscalização bancária ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9be15e162e3928",
+      "score": 8,
+      "title_cn": "国际货币基金组织(FMI)发现安哥拉国家银行(BNA)监管缺陷，呼吁紧急加强银行监管。"
+    },
+    {
+      "title": "Quando quase metade do orçamento serve para a dívida, o país trabalha para o passado",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/677193/quando-quase-metade-do-or%C3%A7amento-serve-para-a-d%C3%ADvida-o-pa%C3%ADs-trabalha-para-o-passado",
+      "source": "Jornal de Angola",
+      "_key": "3feab69cc7766ff5",
+      "score": 8,
+      "title_cn": "近半预算用于偿债，国家发展受制于历史债务。"
+    },
+    {
+      "title": "Sector de Energia e Águas: um pilar estratégico para o desenvolvimento de Angola",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/677190/sector-de-energia-e-%C3%A1guas:-um-pilar-estrat%C3%A9gico-para-o-desenvolvimento-de-angola",
+      "source": "Jornal de Angola",
+      "_key": "4077aca973b12367",
+      "score": 8,
+      "title_cn": "能源和水利部门：安哥拉发展的战略支柱。"
+    },
+    {
+      "title": "Presidente da República recebe garantia de que novo aeroporto e Hospital Geral de Mbanza Congo estarão concluídos no próximo ano",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-recebe-garantia-de-que-novo-aeroporto-e-hospital-geral-de-mbanza-congo-estarao-concluidos-no-proximo-ano/",
       "source": "O País",
-      "_key": "7877ed447d459f33",
-      "score": 5,
-      "title_cn": "前渔业部长审判今日恢复"
+      "_key": "153de41e7516ce43",
+      "score": 8,
+      "title_cn": "总统获悉新机场和姆班扎刚果总医院将于明年竣工。"
     },
     {
-      "title": "Trocas comerciais com África sobem, mas continuam residuais nos 5%",
-      "url": "https://valoreconomico.co.ao/artigo/trocas-comerciais-com-africa-sobem-mas-continuam-residuais-nos-5",
+      "title": "Works at Mbanza Kongo Airport with 38% completion rate",
+      "url": "https://www.angop.ao/en/noticias/politica/obras-do-aeroporto-de-mbanza-kongo-com-grau-de-execucao-de-38-por-cento/",
+      "source": "ANGOP",
+      "_key": "945009bd2b5f225f",
+      "score": 7,
+      "title_cn": "姆班扎刚果机场工程完成38%。"
+    },
+    {
+      "title": "End of Zaire general hospital construction scheduled for April 2027",
+      "url": "https://www.angop.ao/en/noticias/politica/conclusao-do-hospital-geral-do-zaire-prevista-para-abril-de-2027/",
+      "source": "ANGOP",
+      "_key": "9d64dba201f90be9",
+      "score": 7,
+      "title_cn": "扎伊尔总医院预计2027年4月竣工。"
+    },
+    {
+      "title": "Health Minister confirms good pace of construction of Zaire General Hospital",
+      "url": "https://www.angop.ao/en/noticias/politica/ministra-confirma-bom-ritmo-das-obras-do-hospital-geral-do-zaire/",
+      "source": "ANGOP",
+      "_key": "b9cbd2756724f3d3",
+      "score": 7,
+      "title_cn": "卫生部长证实扎伊尔总医院建设进展顺利。"
+    },
+    {
+      "title": "INE apresenta esta sexta-feira os resultados do PIB do Iº trimestre deste ano",
+      "url": "https://correiokianda.info/ine-apresenta-esta-sexta-feira-os-resultados-do-pib-do-io-trimestre-deste-ano/",
+      "source": "Correio Kianda",
+      "_key": "86fc59537a2b3985",
+      "score": 7,
+      "title_cn": "国家统计局(INE)本周五公布今年第一季度GDP数据。"
+    },
+    {
+      "title": "Presidente autoriza obras de terraplanagem em estradas estratégicas do Uíge",
+      "url": "https://correiokianda.info/presidente-autoriza-obras-de-terraplanagem-em-estradas-estrategicas-do-uige/",
+      "source": "Correio Kianda",
+      "_key": "2b454d121afd5dbf",
+      "score": 7,
+      "title_cn": "总统批准威热省战略道路土方工程。"
+    },
+    {
+      "title": "Capital angolana sai do ranking das cidades mais caras do mundo",
+      "url": "https://correiokianda.info/capital-angolana-sai-do-ranking-das-cidades-mais-caras-do-mundo/",
+      "source": "Correio Kianda",
+      "_key": "dd60a79676182a8a",
+      "score": 7,
+      "title_cn": "安哥拉首都罗安达退出全球最昂贵城市榜单。"
+    },
+    {
+      "title": "Ajustes directos disparam 393% e atingem 9.817 biliões de kwanzas entre Janeiro e Abril",
+      "url": "https://diariodosnegocios.com/ajustes-directos-disparam-393-e-atingem-9-817-bilioes-de-kwanzas-entre-janeiro-e-abril/",
+      "source": "Diário dos Negócios",
+      "_key": "95533e4c969c485b",
+      "score": 7,
+      "title_cn": "1月至4月直接拨款激增393%，达9.817万亿宽扎。"
+    },
+    {
+      "title": "Presidente João Lourenço chega a M’banza Kongo e inspeciona obras do novo aeroporto e hospital geral",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-chega-a-mbanza-kongo-e-inspeciona-obras-do-novo-aeroporto-e-hospital-geral/",
+      "source": "Diário dos Negócios",
+      "_key": "d965e5804efc69f0",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统抵达姆班扎刚果，视察新机场和总医院工程。"
+    },
+    {
+      "title": "Governador do BNA abre IV Angola Banking Conference e destaca avanços nos pagamentos electrónicos e open banking",
+      "url": "https://diariodosnegocios.com/governador-do-bna-abre-iv-angola-banking-conference-e-destaca-avancos-nos-pagamentos-electronicos-e-open-banking/",
+      "source": "Diário dos Negócios",
+      "_key": "efbc1d971d62cf11",
+      "score": 7,
+      "title_cn": "安哥拉国家银行(BNA)行长主持第四届安哥拉银行大会，强调电子支付和开放银行进展。"
+    },
+    {
+      "title": " Ajustes directos disparam 393% e atingem 9.817 biliões de kwanzas entre Janeiro e Abril ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_d9d093f9e3d845",
+      "score": 7,
+      "title_cn": "1 月至 4 月间 ， 直接调整增长 393% ， 达到 9.817 亿宽扎"
+    },
+    {
+      "title": " Presidente João Lourenço chega a M’banza Kongo e inspeciona obras do novo aeroporto e hospital geral ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_68a1f2b215edcc",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统抵达姆班扎刚果，视察新机场和总医院工程。"
+    },
+    {
+      "title": " Governador do BNA abre IV Angola Banking Conference e destaca avanços nos pagamentos electrónicos e open banking ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_61848506c003de",
+      "score": 7,
+      "title_cn": "安哥拉国家银行(BNA)行长主持第四届安哥拉银行大会，强调电子支付和开放银行进展。"
+    },
+    {
+      "title": "João Lourenço avalia avanço das obras do novo aeroporto e do futuro Hospital Geral do Zaire",
+      "url": "https://jornaloguardiao.com/2026/05/28/joao-lourenco-avalia-avanco-das-obras-do-novo-aeroporto-e-do-futuro-hospital-geral-do-zaire/",
+      "source": "Jornal O Guardião",
+      "_key": "0df604a8f7e5f00c",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)评估新机场和扎伊尔总医院工程进展。"
+    },
+    {
+      "title": " João Lourenço avalia avanço das obras do novo aeroporto e do futuro Hospital Geral do Zaire ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c48070bca0f7ea",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)评估新机场和扎伊尔总医院工程进展。"
+    },
+    {
+      "title": "Destaque Investimentos confirmam aposta do Executivo no sector da Energia e ÁguasO Executivo angolano tem promovido reformas e investimentos no sector da Energia e Águas, com foco na expansão da produção eléctrica, energias renováveis, electrificação rural e abastecimento de água em várias províncias do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677220/investimentos-confirmam-aposta-do-executivo-no-sector-da-energia-e-%C3%A1guas",
+      "source": "Jornal de Angola",
+      "_key": "aaec9fdee778408e",
+      "score": 7,
+      "title_cn": "投资证实安哥拉政府对能源和水利部门的重视。"
+    },
+    {
+      "title": "Sociedade Conferência Internacional sobre Energia e Águas decorre em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677216/confer%C3%AAncia-internacional-sobre-energia-e-%C3%A1guas-decorre-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "8347047dd6e69a8a",
+      "score": 7,
+      "title_cn": "罗安达举行国际能源和水利会议。"
+    },
+    {
+      "title": "Política Registados avanços no combate ao branqueamento de capitais ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677158/registados-avan%C3%A7os-no-combate-ao-branqueamento-de-capitais",
+      "source": "Jornal de Angola",
+      "_key": "27770c17550ba899",
+      "score": 7,
+      "title_cn": "政治：打击洗钱取得进展。"
+    },
+    {
+      "title": "Hospital Geral do Zaire é inaugurado no primeiro semestre do próximo anoO Hospital Geral do Zaire, em construção na cidade de Mbanza Kongo, vai ser inaugurado no primeiro semestre de 2027, garantiu, quarta-feira, a ministra da Saúde, Sílvia Lutucuta, à margem da visita de constatação do andamento das obras pelo Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677156/hospital-geral-do-zaire-%C3%A9-inaugurado-no-primeiro-semestre-do-pr%C3%B3ximo-ano",
+      "source": "Jornal de Angola",
+      "_key": "1e98eccbc3840ac4",
+      "score": 7,
+      "title_cn": "扎伊尔总医院将于2027年上半年启用。"
+    },
+    {
+      "title": "PR aprova 112,9 mil milhões kz para terraplanar 465...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/pr-aprova-1129-mil-milhoes-kz-para-terraplanar-465-km-no-uige-72128.html",
+      "source": "Novo Jornal",
+      "_key": "6b282ef5f48e4698",
+      "score": 7,
+      "title_cn": "总统批准1129亿宽扎用于465公里道路土方工程。"
+    },
+    {
+      "title": "Luanda acolhe Conferência Internacional sobre Energia e Águas",
+      "url": "https://www.opais.ao/ultimas_hora/luanda-acolhe-conferencia-internacional-sobre-energia-e-aguas/",
+      "source": "O País",
+      "_key": "83a207488e9b8312",
+      "score": 7,
+      "title_cn": "罗安达主办国际能源和水利会议。"
+    },
+    {
+      "title": "Secretary of State highlights energy potential associated with COBEJE's WWTP",
+      "url": "https://www.angop.ao/en/noticias/economia/secretario-de-estado-destaca-potencial-energetico-associado-a-etar-da-cobeje/",
+      "source": "ANGOP",
+      "_key": "1576af0dcf595014",
+      "score": 6,
+      "title_cn": "国务秘书强调COBEJE污水处理厂的能源潜力。"
+    },
+    {
+      "title": "Manager advocates for investment increase in Southern Africa infrastructures",
+      "url": "https://www.angop.ao/en/noticias/economia/gestor-advoga-reforco-de-investimento-em-infra-estruturas-na-africa-austral/",
+      "source": "ANGOP",
+      "_key": "ff9e3fa94390cd56",
+      "score": 6,
+      "title_cn": "经理呼吁增加南部非洲基础设施投资。"
+    },
+    {
+      "title": "Police arrests 132 citizens in Ambriz during operation “Golden Thread 2”",
+      "url": "https://www.angop.ao/en/noticias/sociedade/policia-detem-132-cidadaos-no-ambriz-durante-operacao-fio-de-ouro-2/",
+      "source": "ANGOP",
+      "_key": "c08bee83e430a687",
+      "score": 6,
+      "title_cn": "警方在“金线2号”行动中于安布里什逮捕132名公民。"
+    },
+    {
+      "title": "João Lourenço autoriza despesa para reforço do fornecimento de água em Luanda",
+      "url": "https://correiokianda.info/joao-lourenco-autoriza-despesa-para-reforco-do-fornecimento-de-agua-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "60ae01318df58165",
+      "score": 6,
+      "title_cn": "若昂·洛伦索(João Lourenço)批准罗安达供水强化支出。"
+    },
+    {
+      "title": "Angolanos lideram e estão entre os que mais compram casas...",
+      "url": "https://valoreconomico.co.ao/artigo/angolanos-lideram-e-estao-entre-os-que-mais-compram-casas-em-portugal",
       "source": "Valor Económico",
-      "_key": "9532cc62d0d0dfbd",
+      "_key": "83181f033d783159",
+      "score": 6,
+      "title_cn": "安哥拉人是购房主力之一。"
+    },
+    {
+      "title": "President João Lourenço on a 48-hour working visit to Zaire province",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-no-zaire-para-visita-de-trabalho-de-48-horas/",
+      "source": "ANGOP",
+      "_key": "2365666232dba80a",
       "score": 5,
-      "title_cn": "对非贸易额上升，但仍仅占5%"
+      "title_cn": "若昂·洛伦索(João Lourenço)总统对扎伊尔省进行48小时工作访问。"
+    },
+    {
+      "title": "President João Lourenço to chair Local Governance Council today",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-orienta-hoje-conselho-de-governacao-local/",
+      "source": "ANGOP",
+      "_key": "2756cc5c41137855",
+      "score": 5,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统今日主持地方治理委员会会议。"
+    },
+    {
+      "title": "        África7 horas atrás  BAD prevê desaceleração do crescimento económico africano devido à tensão no Médio Oriente O crescimento económico de África deverá desacelerar para 4,2% este ano, abaixo dos 4,4% registados no ano passado, devido ao impacto das tensões geopolíticas ligadas ao...   ",
+      "url": "https://correiokianda.info/bad-preve-desaceleracao-do-crescimento-economico-africano-devido-a-tensao-no-medio-oriente/",
+      "source": "Correio Kianda",
+      "_key": "327f478a2ba4c496",
+      "score": 5,
+      "title_cn": "非洲开发银行(AfDB)预测非洲经济增长因中东紧张局势放缓至4.2%。"
+    },
+    {
+      "title": "Macau aproxima-se de Cabo Verde e São Tomé para cooperação em privacidade e governação de dados",
+      "url": "https://forbesafricalusofona.com/macau-aproxima-se-de-cabo-verde-e-sao-tome-para-cooperacao-em-privacidade-e-governacao-de-dados/",
+      "source": "Forbes África",
+      "_key": "2963524453526cc0",
+      "score": 5,
+      "title_cn": "澳门与佛得角、圣多美就隐私和数据治理开展合作。"
+    },
+    {
+      "title": "Destaque João Lourenço orienta reunião do Conselho de Governação Local no Zaire O Presidente da República, João Lourenço, orienta, neste momento, a reunião do Conselho de Governação Local na província do Zaire. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677226/jo%C3%A3o-louren%C3%A7o-orienta-reuni%C3%A3o-do-conselho-de-governa%C3%A7%C3%A3o-local-no-zaire-",
+      "source": "Jornal de Angola",
+      "_key": "5437997f1fb8a999",
+      "score": 5,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统在扎伊尔省主持地方治理委员会会议。"
+    },
+    {
+      "title": "Fábrica de massa de tomate sem matéria-prima - Do sabor...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/fabrica-de-massa-de-tomate-sem-materia-prima---do-sabor-agridoce-a-ironia-do-destino-a-ultima-cartada-da-ex-pca-do-fada-em-benguela-72129.html",
+      "source": "Novo Jornal",
+      "_key": "4391b1409b86835b",
+      "score": 5,
+      "title_cn": "番茄酱工厂缺乏原材料。"
+    },
+    {
+      "title": "Presidente da República desloca-se amanhã à província do Zaire",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-desloca-se-amanha-a-provincia-do-zaire/",
+      "source": "O País",
+      "_key": "1801f63a9a12205e",
+      "score": 5,
+      "title_cn": "共和国总统明天将前往扎伊尔省"
     }
   ]
 }
