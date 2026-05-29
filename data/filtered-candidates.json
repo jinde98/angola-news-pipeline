@@ -1,154 +1,385 @@
 {
-  "date": "2026-05-28",
-  "total_new": 47,
-  "total_filtered": 21,
-  "scored_by": "glm-flash",
+  "date": "2026-05-29",
+  "total_new": 127,
+  "total_filtered": 54,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BNA corta em 40% o limite de transferências para fora...",
-      "url": "https://valoreconomico.co.ao/artigo/bna-corta-em-40-o-limite-de-transferencias-para-fora-de-angola",
-      "source": "Valor Económico",
-      "_key": "bba7583ec2e1e38e",
+      "title": "BNA corta limite anual de transferências para o exterior em 40% e reforça pressão sobre o mercado cambial",
+      "url": "https://forbesafricalusofona.com/bna-corta-limite-anual-de-transferencias-para-o-exterior-em-40-e-reforca-pressao-sobre-o-mercado-cambial/",
+      "source": "Forbes África",
+      "_key": "2c371a2c1007caba",
       "score": 10
     },
     {
-      "title": "Angola's debt with China drops to USD 12 billion",
-      "url": "https://www.angop.ao/en/noticias/economia/divida-de-angola-com-a-china-reduz-para-usd-12-9-mil-milhoes/",
-      "source": "ANGOP",
-      "_key": "d4327127509ed92a",
-      "score": 9
-    },
-    {
-      "title": "Crise de combustível agrava-se em Luanda com filas nos postos há cinco dias",
-      "url": "https://correiokianda.info/crise-de-combustivel-agrava-se-em-luanda-com-filas-nos-postos-ha-cinco-dias/",
-      "source": "Correio Kianda",
-      "_key": "36581bf87ad6b8e6",
-      "score": 9
-    },
-    {
-      "title": "Brent inicia negociação a 93,76 dólares por barril",
-      "url": "https://correiokianda.info/brent-inicia-negociacao-a-9376-dolares-por-barril/",
-      "source": "Correio Kianda",
-      "_key": "53397c90b6e21126",
-      "score": 8
-    },
-    {
-      "title": "SIC detém quatro suspeitos de sequestrar família de agente no Uíge",
-      "url": "https://www.opais.ao/ultimas_hora/sic-detem-quatro-suspeitos-de-sequestrar-familia-de-agente-no-uige/",
-      "source": "O País",
-      "_key": "c037300163098465",
-      "score": 8
-    },
-    {
-      "title": "International Conference on Energy and Water kicks off in Luanda",
-      "url": "https://www.angop.ao/en/noticias/economia/inicia-se-2a-conferencia-internacional-sobre-energia-e-aguas-em-luanda/",
-      "source": "ANGOP",
-      "_key": "8416acbdbea6138d",
-      "score": 7
-    },
-    {
-      "title": "Works at Mbanza Kongo Airport with 38% completion rate",
-      "url": "https://www.angop.ao/en/noticias/politica/obras-do-aeroporto-de-mbanza-kongo-com-execucao-de-38/",
-      "source": "ANGOP",
-      "_key": "a829354076c92c12",
-      "score": 7
-    },
-    {
-      "title": "Kwanza passa a ser aceite como moeda de liquidação nas transacções comerciais da SADC a partir de Junho de 2026",
-      "url": "https://diariodosnegocios.com/kwanza-passa-a-ser-aceite-como-moeda-de-liquidacao-nas-transaccoes-comerciais-da-sadc-a-partir-de-junho-de-2026/",
-      "source": "Diário dos Negócios",
-      "_key": "33a6ef98dbff52f8",
-      "score": 7
-    },
-    {
-      "title": " Kwanza passa a ser aceite como moeda de liquidação nas transacções comerciais da SADC a partir de Junho de 2026 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_610314ac3480cd",
-      "score": 7
-    },
-    {
-      "title": "Economia Grupo de coordenação do petróleo admite pressão nas próximas semanas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677238/grupo-de-coordena%C3%A7%C3%A3o-do-petr%C3%B3leo-admite-press%C3%A3o-nas-pr%C3%B3ximas-semanas",
-      "source": "Jornal de Angola",
-      "_key": "4aa557d1d30330a2",
-      "score": 7
-    },
-    {
-      "title": "Integração do kwanza na SADC pode relançar comércio, mas economista...",
-      "url": "https://valoreconomico.co.ao/artigo/integracao-do-kwanza-na-sadc-pode-relancar-comercio-mas-economista-alerta-para-fraca-competitividade",
+      "title": "Embaixador garante que China vai acelerar tarifa zero para produtos...",
+      "url": "https://valoreconomico.co.ao/artigo/embaixador-garante-que-china-vai-acelerar-tarifa-zero-para-produtos-de-angola",
       "source": "Valor Económico",
-      "_key": "6c17a63d905fc087",
+      "_key": "cd353c78999e8b1a",
+      "score": 10
+    },
+    {
+      "title": "Angola wants partnership with Chinese institute to train marine technicians",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-quer-parceria-com-instituto-chines-para-capacitacao-de-tecnicos-marinhos/",
+      "source": "ANGOP",
+      "_key": "603ed98191fc9a2e",
+      "score": 9
+    },
+    {
+      "title": "Longas filas em postos de combustível marcam Luanda apesar de garantias da Sonangol",
+      "url": "https://correiokianda.info/longas-filas-em-postos-de-combustivel-marcam-luanda-apesar-de-garantias-da-sonangol/",
+      "source": "Correio Kianda",
+      "_key": "c79060c11197c08f",
+      "score": 8
+    },
+    {
+      "title": "Sonangol garante abastecimento e afasta risco de escassez de combustíveis no país",
+      "url": "https://correiokianda.info/sonangol-garante-abastecimento-e-afasta-risco-de-escassez-de-combustiveis-no-pais/",
+      "source": "Correio Kianda",
+      "_key": "e4554761ff625a6d",
+      "score": 8
+    },
+    {
+      "title": "Redução da dívida abre novo ciclo económico",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/677272/redu%C3%A7%C3%A3o-da-d%C3%ADvida--abre-novo-ciclo-econ%C3%B3mico",
+      "source": "Jornal de Angola",
+      "_key": "181e729c2835d548",
+      "score": 8
+    },
+    {
+      "title": "Sonangol afasta escassez global devido à guerra no...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/sonangol-afasta-escassez-global-devido-a-guerra-no-medio-oriente-como-razao-da-crise-de-abastecimento-no-pais-falhas-atingem-dezenas-de-paises-africanos-72163.html",
+      "source": "Novo Jornal",
+      "_key": "a160c7ddaeb0f084",
+      "score": 8
+    },
+    {
+      "title": "Variante rara do ébola provoca aumento de restrições",
+      "url": "https://www.opais.ao/mundo/variante-rara-do-ebola-provoca-aumento-de-restricoes/",
+      "source": "O País",
+      "_key": "efd96dbfdbd26133",
+      "score": 8
+    },
+    {
+      "title": "Public investment program records over 3.000 projects in first quarter",
+      "url": "https://www.angop.ao/en/noticias/politica/concluidos-473-projectos-do-pip-no-i-trimestre/",
+      "source": "ANGOP",
+      "_key": "81992de81ab2a06f",
       "score": 7
     },
     {
-      "title": "Minister places Huíla at the center of the strategy to enhance the mining sector",
-      "url": "https://www.angop.ao/en/noticias/economia/huila-no-centro-da-estrategia-de-valorizacao-do-sector-mineiro/",
+      "title": "Angola intends to reach 9.000 megawatts of energy production by 2027",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-projecta-alcancar-producao-de-nove-mil-megawatts-de-energia-ate-2027/",
       "source": "ANGOP",
-      "_key": "d987a0b8083eea52",
-      "score": 6
+      "_key": "8c4c694b3273fd0b",
+      "score": 7
     },
     {
-      "title": "Huila governor warns about the impact of illegal mining in licensed areas",
-      "url": "https://www.angop.ao/en/noticias/economia/huila-alerta-para-impacto-do-garimpo-ilegal-em-areas-mineiras-licenciadas/",
-      "source": "ANGOP",
-      "_key": "c47b765179a9a9dd",
-      "score": 6
-    },
-    {
-      "title": "Destaque Angola e Banco Africano analisam implementação de projectos agrícolasAngola e Banco Africano de Desenvolvimento (BAD), analisaram, quarta-feira, em Brazzaville, na República do Congo, a implementação de projectos agrícolas no país.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677236/angola-e-banco-africano-analisam-implementa%C3%A7%C3%A3o-de-projectos-agr%C3%ADcolas",
-      "source": "Jornal de Angola",
-      "_key": "72d4ebd1054ab88f",
-      "score": 6
-    },
-    {
-      "title": "PONTO AO: ANGOLA NA ERA DA TRANSFORMAÇÃO DIGITAL. Os desafios e oportunidades da digitalização dos serviços públicos e privados.",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=72136",
-      "source": "Novo Jornal",
-      "_key": "f1a85e4dee7ca7d7",
-      "score": 6
-    },
-    {
-      "title": "INE divulga amanhã resultados das Contas Nacionais Trimestrais do 1.º trimestre de 2026",
-      "url": "https://www.opais.ao/ultimas_hora/ine-divulga-amanha-resultados-das-contas-nacionais-trimestrais-do-1-o-trimestre-de-2026/",
-      "source": "O País",
-      "_key": "029dc583442acfee",
-      "score": 6
-    },
-    {
-      "title": "President João Lourenço listens to concerns of civil society leaders from Zaire",
-      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-ausculta-lideres-da-sociedade-civil-do-zaire/",
-      "source": "ANGOP",
-      "_key": "2664c7ea8e605c5c",
-      "score": 5
-    },
-    {
-      "title": "Angola prepara encerramento dos consulados-gerais em Nova Iorque, Macau e Montevidéu",
-      "url": "https://angola24horas.com/politica/item/34415-angola-prepara-encerramento-dos-consulados-gerais-em-nova-iorque-macau-e-montevideu",
-      "source": "Angola 24 Horas",
-      "_key": "d29707b8e8db33f2",
-      "score": 5
-    },
-    {
-      "title": "Saurimo: agricultores denunciam perdas devido a dificuldades de escoamento",
-      "url": "https://correiokianda.info/saurimo-agricultores-denunciam-perdas-devido-a-dificuldades-de-escoamento/",
+      "title": "        África8 horas atrás  Companhias Africanas Cortam Rotas Face ao Aumento dos Custos de Combustível As principais transportadoras africanas, incluindo a South African Airways, Ethiopian Airlines e Kenya Airways, estão a reduzir ou reestruturar várias rotas internacionais e regionais devido ao...   ",
+      "url": "https://correiokianda.info/companhias-africanas-cortam-rotas-face-ao-aumento-dos-custos-de-combustivel/",
       "source": "Correio Kianda",
-      "_key": "021ab5caa1000a45",
-      "score": 5
+      "_key": "7d953851f80aa6e1",
+      "score": 7
     },
     {
-      "title": "Governo angolano garante estar a construir uma economia mais diversificada e sustentável",
-      "url": "https://forbesafricalusofona.com/governo-angolano-garante-estar-a-construir-uma-economia-mais-diversificada-e-sustentavel/",
+      "title": "Troca de dívida antiga por nova com juros mais elevados reduz riscos",
+      "url": "https://expansao.co.ao/economia/detalhe/troca-de-divida-antiga-por-nova-com-juros-mais-elevados-reduz-riscos-72154.html",
+      "source": "Expansão",
+      "_key": "317c5ecedf7cc9c6",
+      "score": 7
+    },
+    {
+      "title": "Angola e BAD aceleram projectos agrícolas e preparam zonas de agro-processamento",
+      "url": "https://forbesafricalusofona.com/angola-e-bad-aceleram-projectos-agricolas-e-preparam-zonas-de-agro-processamento/",
       "source": "Forbes África",
-      "_key": "bdcb601760f0d482",
+      "_key": "9bb45cd23011ada0",
+      "score": 7
+    },
+    {
+      "title": "Crescimento africano abranda para 4% em 2026 sob pressão da crise energética global",
+      "url": "https://forbesafricalusofona.com/crescimento-africano-abranda-para-4-em-2026-sob-pressao-da-crise-energetica-global/",
+      "source": "Forbes África",
+      "_key": "01214dad25b6313e",
+      "score": 7
+    },
+    {
+      "title": "João Baptista Borges diz que Angola quer assumir papel estratégico na nova arquitectura energética africana",
+      "url": "https://forbesafricalusofona.com/joao-baptista-borges-diz-que-angola-quer-assumir-papel-estrategico-na-nova-arquitectura-energetica-africana/",
+      "source": "Forbes África",
+      "_key": "c2b0ed0d3fdbad87",
+      "score": 7
+    },
+    {
+      "title": "Programa de Investimento Público inscreve mais de 3.500 projectos O Programa de Investimento Público (PIP) de 2026 registou, no primeiro trimestre, um total de 3.597 projectos inscritos, de acordo com o Relatório de Execução apresentado, quinta-feira, em Mbanza Kongo, capital da província do Zaire, durante a I Reunião Ordinária do Conselho de Governação Local.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677243/programa-de-investimento-p%C3%BAblico--inscreve-mais-de-3.500-projectos-",
+      "source": "Jornal de Angola",
+      "_key": "eb05bb10a3a09685",
+      "score": 7
+    },
+    {
+      "title": "Nambuangongo, o novo El Dorado",
+      "url": "https://www.novojornal.co.ao/opiniao/editorial/detalhe/nambuangongo-o-novo-el-dorado-72160.html",
+      "source": "Novo Jornal",
+      "_key": "87a4b9b4831fcd95",
+      "score": 7
+    },
+    {
+      "title": "Negócio ameaçade ‘muambeiras’ do pela c chinesa e maliana",
+      "url": "https://www.opais.ao/economia/negocio-ameacade-muambeiras-do-pela-c-chinesa-e-maliana/",
+      "source": "O País",
+      "_key": "220beade111a997a",
+      "score": 7
+    },
+    {
+      "title": "Expo Connect Angola formaliza parcerias para implementação do complexo industrial",
+      "url": "https://www.opais.ao/economia/expo-connect-angola-formaliza-parcerias-para-implementacao-do-complexo-industrial/",
+      "source": "O País",
+      "_key": "2f5b8ba2d2152f13",
+      "score": 7
+    },
+    {
+      "title": "INE divulga amanhã resultados das Contas Nacionais do primeiro trimestre deste ano",
+      "url": "https://www.opais.ao/ultimas_hora/ine-divulga-amanha-resultados-das-contas-nacionais-do-primeiro-trimestre-deste-ano/",
+      "source": "O País",
+      "_key": "21b5a90db4066b3a",
+      "score": 7
+    },
+    {
+      "title": "Sonangol assures fuel availability in the country",
+      "url": "https://www.angop.ao/en/noticias/economia/sonangol-assegura-disponibilidade-de-combustivel-no-pais/",
+      "source": "ANGOP",
+      "_key": "321853858d22fb1a",
+      "score": 6
+    },
+    {
+      "title": "EPAL plans to double water supply in Luanda with new projects by 2027",
+      "url": "https://www.angop.ao/en/noticias/economia/epal-preve-duplicar-fornecimento-de-agua-em-luanda-com-novos-projectos-ate-2027/",
+      "source": "ANGOP",
+      "_key": "afbe781c4e0ea448",
+      "score": 6
+    },
+    {
+      "title": "Polícia angolana detém mais de 200 suspeitos de garimpo ilegal após acidente mortal",
+      "url": "https://angola24horas.com/sociedade/item/34420-policia-angolana-detem-mais-de-200-suspeitos-de-garimpo-ilegal-apos-acidente-mortal",
+      "source": "Angola 24 Horas",
+      "_key": "77272c3cd32c2d2b",
+      "score": 6
+    },
+    {
+      "title": "Presidente autoriza construção de instalações fiscais no Cuando e Moxico Leste",
+      "url": "https://correiokianda.info/presidente-autoriza-construcao-de-instalacoes-fiscais-no-cuando-e-moxico-leste/",
+      "source": "Correio Kianda",
+      "_key": "6d6c95117a443477",
+      "score": 6
+    },
+    {
+      "title": "Economista pede mais incentivos à produção local para reduzir preços da cesta básica",
+      "url": "https://correiokianda.info/economista-pede-mais-incentivos-a-producao-local-para-reduzir-precos-da-cesta-basica/",
+      "source": "Correio Kianda",
+      "_key": "0b3e7a86e2555c73",
+      "score": 6
+    },
+    {
+      "title": "Presidente autoriza construção de 12 pavilhões multiusos em várias províncias",
+      "url": "https://correiokianda.info/presidente-autoriza-construcao-de-12-pavilhoes-multiusos-em-varias-provincias/",
+      "source": "Correio Kianda",
+      "_key": "a3a347c23372d54b",
+      "score": 6
+    },
+    {
+      "title": "O que trava o crescimento do tecido empresarial",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_cc812bb5ebeec9",
+      "score": 6
+    },
+    {
+      "title": "Banco Económico em negociações com novos accionistas precisa de 669 mil milhões Kz em aumento de capital",
+      "url": "https://expansao.co.ao/empresas/detalhe/banco-economico-em-negociacoes-com-novos-accionistas-precisa-de-669-mil-milhoes-kz-em-aumento-de-capital-72152.html",
+      "source": "Expansão",
+      "_key": "29ea3adcec85551c",
+      "score": 6
+    },
+    {
+      "title": "ANPG reclama 1,6 biliões Kz em fundos de abandono",
+      "url": "https://expansao.co.ao/empresas/detalhe/anpg-reclama-16-bilioes-kz-em-fundos-de-abandono-72158.html",
+      "source": "Expansão",
+      "_key": "9b84904f10cf484b",
+      "score": 6
+    },
+    {
+      "title": "CHANCELA DO CINVESTEC Bernardo VazO que trava o crescimento do tecido empresarial",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-que-trava-o-crescimento-do-tecido-empresarial-72121.html",
+      "source": "Expansão",
+      "_key": "394ad35d29fe2c71",
+      "score": 6
+    },
+    {
+      "title": "BAD prevê crescimento moderado para economias lusófonas africanas",
+      "url": "https://forbesafricalusofona.com/bad-preve-crescimento-moderado-para-economias-lusofonas-africanas/",
+      "source": "Forbes África",
+      "_key": "5998bee52f8ae762",
+      "score": 6
+    },
+    {
+      "title": "PR manda construir pavilhões multiusos em 12 províncias...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/pr-manda-construir-pavilhoes-multiusos-em-12-provincias-e-liberta-mais-de-200-milhoes-de-euros-para-as-obras-72167.html",
+      "source": "Novo Jornal",
+      "_key": "36b72dcf583b064c",
+      "score": 6
+    },
+    {
+      "title": "Executivo prevê arrancar em breve com a requalificação da cidade património da humanidade",
+      "url": "https://www.opais.ao/politica/executivo-preve-arrancar-em-breve-com-a-requalificacao-da-cidade-patrimonio-da-humanidade/",
+      "source": "O País",
+      "_key": "619179347d18957f",
+      "score": 6
+    },
+    {
+      "title": "Conselho de Governação Local analisa impacto das medidas de contingência contra ébola",
+      "url": "https://www.opais.ao/politica/conselho-de-governacao-local-analisa-impacto-das-medidas-de-contingencia-contra-ebola/",
+      "source": "O País",
+      "_key": "2ac8ac68c528aaea",
+      "score": 6
+    },
+    {
+      "title": "Angola reports 13 positive cases of monkeypox",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-notifica-13-casos-positivos-de-variola-dos-macacos/",
+      "source": "ANGOP",
+      "_key": "38c545a9fb947e66",
       "score": 5
     },
     {
-      "title": "Destaque Chefe de Estado recebe em audiência representantes da sociedade civil do ZaireO Presidente João Lourenço recebeu, esta quinta-feira, em audiência representantes de igrejas, empresários, juventude e associações profissionais da província do Zaire.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677233/chefe-de-estado-recebe-em-audi%C3%AAncia-representantes-da-sociedade-civil-do-zaire",
+      "title": "President João Lourenço returns to Luanda",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-lourenco-regressa-a-capital-do-pais/",
+      "source": "ANGOP",
+      "_key": "09799485253d0284",
+      "score": 5
+    },
+    {
+      "title": "President João Lourenço ends working visit to Zaire",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-termina-visita-de-trabalho-ao-zaire/",
+      "source": "ANGOP",
+      "_key": "779768708006816f",
+      "score": 5
+    },
+    {
+      "title": "Cabinda border guard prevents entry of 47 illegal immigrants",
+      "url": "https://www.angop.ao/en/noticias/politica/guarda-fronteira-em-cabinda-trava-entrada-de-47-imigrantes-em-angola/",
+      "source": "ANGOP",
+      "_key": "0d9f96270b11bfb9",
+      "score": 5
+    },
+    {
+      "title": "MP´s suggest investing in science as a guarantee of economic diversification",
+      "url": "https://www.angop.ao/en/noticias/economia/deputados-sugerem-aposta-na-ciencia-como-garante-da-diversificacao-economica/",
+      "source": "ANGOP",
+      "_key": "f8ce8b38dca6607b",
+      "score": 5
+    },
+    {
+      "title": "Luena wants to establish itself as a regional development center",
+      "url": "https://www.angop.ao/en/noticias/sociedade/luena-quer-afirmar-se-como-centro-de-desenvolvimento-regional/",
+      "source": "ANGOP",
+      "_key": "6cbc2d69712cfdb4",
+      "score": 5
+    },
+    {
+      "title": "BNA anuncia integração do kwanza no sistema de pagamentos da África Austral",
+      "url": "https://angola24horas.com/economia/item/34414-bna-anuncia-integracao-do-kwanza-no-sistema-de-pagamentos-da-africa-austral",
+      "source": "Angola 24 Horas",
+      "_key": "5ef7905eb272a1f8",
+      "score": 5
+    },
+    {
+      "title": "Cabinda confirma cinco infeções por Mpox entre 20 casos suspeitos",
+      "url": "https://angola24horas.com/sociedade/item/34418-cabinda-confirma-cinco-infecoes-por-mpox-entre-20-casos-suspeitos",
+      "source": "Angola 24 Horas",
+      "_key": "45cb7d8b1efaa52e",
+      "score": 5
+    },
+    {
+      "title": "BNA prepara regulamentação da Inteligência Artificial no sector bancário",
+      "url": "https://correiokianda.info/bna-prepara-regulamentacao-da-inteligencia-artificial-no-sector-bancario/",
+      "source": "Correio Kianda",
+      "_key": "d906c59496b8cddf",
+      "score": 5
+    },
+    {
+      "title": "Subsidiária da Angola Cables alia-se à americana Uniti",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_6edf12027f519d",
+      "score": 5
+    },
+    {
+      "title": "Subsidiária da Angola Cables alia-se à americana Uniti A subsidiária da Angola Cables, Tel Cables Europe, assinou um acordo estratégico com a norte-americana Uniti Wholesale para reforçar a conectividade internacional de dados entre África, América Latina, Europa e Estados Unidos, numa operação que consolida a posição do grupo angolano no ecossistema global das telecomunicações. ",
+      "url": "https://expansao.co.ao/empresas/detalhe/subsidiaria-da-angola-cables-alia-se-a-americana-uniti-72141.html",
+      "source": "Expansão",
+      "_key": "a543d2a3f77ebf72",
+      "score": 5
+    },
+    {
+      "title": "PGR notifica assessores de Higino Carneiro",
+      "url": "https://holdonangola.com/pgr-notifica-assessores-de-higino-carneiro/",
+      "source": "Hold On Angola",
+      "_key": "5de1b24bbc6e854f",
+      "score": 5
+    },
+    {
+      "title": "Destaque Presidente João Lourenço regressa a Luanda O Presidente da República, João Lourenço, regressou na tarde desta quinta-feira a Luanda, depois de dois dias de trabalho em Mbanza Kongo, província do Zaire. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677241/presidente-jo%C3%A3o-louren%C3%A7o-regressa-a-luanda-",
       "source": "Jornal de Angola",
-      "_key": "844f183ca30ff851",
+      "_key": "c4e5a29f1d29d4e8",
+      "score": 5
+    },
+    {
+      "title": "Destaque Presidente da República confere posse à nova inspectora da IGAEO Chefe de Estado, João Lourenço, conferiu, esta sexta-feira, posse à nova inspectora Geral do Administração Estado, Felisbela Francisco.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677295/presidente-da-rep%C3%BAblica-confere-posse-%C3%A0-nova-inspectora-da-igae",
+      "source": "Jornal de Angola",
+      "_key": "d469475aa751a006",
+      "score": 5
+    },
+    {
+      "title": "Política Embaixador angolano foi acreditado pelo Presidente Boakai ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677284/embaixador-angolano-foi-acreditado-pelo-presidente-boakai",
+      "source": "Jornal de Angola",
+      "_key": "783dccb782bb93f8",
+      "score": 5
+    },
+    {
+      "title": "Política Angola reafirma oposição a medidas coercivas unilaterais contra Zimbabwe e Cuba ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677242/angola-reafirma-oposi%C3%A7%C3%A3o-a-medidas-coercivas-unilaterais-contra-zimbabwe-e-cuba",
+      "source": "Jornal de Angola",
+      "_key": "f0e647061f6c6240",
+      "score": 5
+    },
+    {
+      "title": "Justiça: SINSE \"aperta\" assessores de Higino Carneiro",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/justica-sinse-aperta-assessores-de-higino-carneiro-72164.html",
+      "source": "Novo Jornal",
+      "_key": "feb99c6424af1453",
+      "score": 5
+    },
+    {
+      "title": "Caso russos: Jornalistas arrolados no processo começam...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-jornalistas-arrolados-no-processo-comecam-a-ser-ouvidos-esta-sexta-feira-igor-ratchin-diz-ter-pago-a-dirigente-do-mpla-para-conseguir-visto-de-trabalho-72171.html",
+      "source": "Novo Jornal",
+      "_key": "da22ca14476cd171",
+      "score": 5
+    },
+    {
+      "title": "Ébola/RDC: Combater os \"rumores\" é quase tão importante...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-combater-os-rumores-e-quase-tao-importante-como-derrotar-o-virus-director-geral-da-oms-a-caminho-do-leste-congoles-72170.html",
+      "source": "Novo Jornal",
+      "_key": "c0240e8cc568bd40",
+      "score": 5
+    },
+    {
+      "title": "Universidade do Namibe recebe internet gratuita via ANGOSAT-2",
+      "url": "https://www.opais.ao/ultimas_hora/universidade-do-namibe-recebe-internet-gratuita-via-angosat-2/",
+      "source": "O País",
+      "_key": "bc133368ffe9b112",
       "score": 5
     }
   ]
