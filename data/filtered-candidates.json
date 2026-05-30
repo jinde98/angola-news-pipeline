@@ -1,35 +1,42 @@
 {
   "date": "2026-05-30",
-  "total_new": 23,
-  "total_filtered": 4,
+  "total_new": 16,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Conselho de Ministros aprova medidas para desburocratizar publicidade, valorizar café angolano e fomentar ciência nacional",
-      "url": "https://diariodosnegocios.com/conselho-de-ministros-aprova-medidas-para-desburocratizar-publicidade-valorizar-cafe-angolano-e-fomentar-ciencia-nacional/",
-      "source": "Diário dos Negócios",
-      "_key": "ba484af0d2369a6a",
-      "score": 5
+      "title": "Sonangol garante abastecimento de combustível e apela à calma da população",
+      "url": "https://www.opais.ao/ultimas_hora/sonangol-garante-abastecimento-de-combustivel-e-apela-a-calma-da-populacao/",
+      "source": "O País",
+      "_key": "b9fcbec7a59370d0",
+      "score": 9
     },
     {
-      "title": " Conselho de Ministros aprova medidas para desburocratizar publicidade, valorizar café angolano e fomentar ciência nacional ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_1764c867e2e36b",
-      "score": 5
+      "title": "Kwanza pode integrar sistema de pagamento da SADC ainda este ano",
+      "url": "https://correiokianda.info/kwanda-pode-integrar-sistema-de-pagamento-da-sadc-ainda-este-ano/",
+      "source": "Correio Kianda",
+      "_key": "725bc7b7c8bdae28",
+      "score": 7
     },
     {
-      "title": "O Mercado cria riqueza - O Estado cria as condições",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_36f0e5217677a4",
-      "score": 5
+      "title": "Estados Unidos lançam alerta sobre reforço militar chinês na Ásia-Pacífico",
+      "url": "https://correiokianda.info/estados-unidos-lancam-alerta-sobre-reforco-militar-chines-na-asia-pacifico/",
+      "source": "Correio Kianda",
+      "_key": "72fa2c916e36b660",
+      "score": 6
     },
     {
-      "title": "VISTO DO CEIC Carlos VazO Mercado cria riqueza - O Estado cria as condições",
-      "url": "https://expansao.co.ao/opiniao/detalhe/o-mercado-cria-riqueza---o-estado-cria-as-condicoes-72140.html",
-      "source": "Expansão",
-      "_key": "55ff8a9c489de603",
+      "title": "Destaque Indústria transformadora cresce há quatro meses consecutivosA indústria transformadora nacional continua a apresentar sinais robustos de expansão em 2026, com o Índice de Produção Industrial (IPI) a registar, pela primeira vez na história, quatro meses consecutivos de crescimento em dois dígitos.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677368/ind%C3%BAstria-transformadora-cresce-h%C3%A1-quatro-meses-consecutivos",
+      "source": "Jornal de Angola",
+      "_key": "d7f4730e841f0b20",
+      "score": 6
+    },
+    {
+      "title": "FADA recebe mais de 40 processos de pedidos de créditos dos agricultores de Cuanza-Norte",
+      "url": "https://www.opais.ao/economia/fada-recebe-mais-de-40-processos-de-pedidos-de-creditos-dos-agricultores-de-cuanza-norte/",
+      "source": "O País",
+      "_key": "25b1db29b76a0293",
       "score": 5
     }
   ]
