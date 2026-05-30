@@ -1,126 +1,35 @@
 {
   "date": "2026-05-30",
-  "total_new": 57,
-  "total_filtered": 17,
+  "total_new": 23,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "TAAG apresenta na próxima terça-feira nova rota aérea entre Luanda e Guangzhou",
-      "url": "https://www.opais.ao/ultimas_hora/taag-apresenta-na-proxima-terca-feira-nova-rota-aerea-entre-luanda-e-guangzhou/",
-      "source": "O País",
-      "_key": "aa718d37657241b8",
-      "score": 10
-    },
-    {
-      "title": "Destaque Produto Interno Bruto cresce 5,32 por cento no primeiro trimestre O Produto Interno Bruto (PIB) registou um crescimento real de 5,32%, no primeiro trimestre deste ano, comparativamente ao período homólogo de 1,37% se comparado com o quarto trimestre de 2025.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677308/produto-interno-bruto-cresce-532-por-cento-no-primeiro-trimestre-",
-      "source": "Jornal de Angola",
-      "_key": "66e2c333742b1944",
-      "score": 9
-    },
-    {
-      "title": "Economia Produto Interno Bruto cresceu 5,32 % no primeiro trimestre ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677312/produto-interno-bruto-cresceu--532-%25-no-primeiro-trimestre",
-      "source": "Jornal de Angola",
-      "_key": "d2bd4a2738f128f4",
-      "score": 9
-    },
-    {
-      "title": "Custo de vida elevado pressiona orçamento das famílias em Angola",
-      "url": "https://correiokianda.info/custo-de-vida-elevado-pressiona-orcamento-das-familias-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "a54ce4aeb34b4169",
-      "score": 8
-    },
-    {
-      "title": "BFA e BPC actualizam preçários e elevam comissões aos seus clientes",
-      "url": "https://expansao.co.ao/empresas/detalhe/bfa-e-bpc-actualizam-precarios-e-elevam-comissoes-aos-seus-clientes-72155.html",
-      "source": "Expansão",
-      "_key": "2eef06902736b628",
-      "score": 8
-    },
-    {
-      "title": "Conferência destaca avanços e desafios da expansão da água e energia em Angola",
-      "url": "https://www.opais.ao/ultimas_hora/conferencia-destaca-avancos-e-desafios-da-expansao-da-agua-e-energia-em-angola/",
-      "source": "O País",
-      "_key": "253afbaf6b84c61b",
-      "score": 8
-    },
-    {
-      "title": "Moradores associam criminalidade à falta de iluminação em bairros adjacentes ao Mayé Mayé, no Sequele",
-      "url": "https://correiokianda.info/moradores-associam-criminalidade-a-falta-de-iluminacao-em-bairros-adjacentes-ao-maye-maye-no-sequele/",
-      "source": "Correio Kianda",
-      "_key": "ec629c8bbc1c9f65",
-      "score": 7
-    },
-    {
-      "title": "Banco Económico em negociações com novos accionistas precisa de 669 mil milhões Kz em aumento de capital",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0ef75e8872f971",
-      "score": 7
-    },
-    {
-      "title": "ANPG reclama 1,6 biliões Kz em fundos de abandono",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d2a77dc9286604",
-      "score": 7
-    },
-    {
-      "title": "Assinado memorando para construção de portagem no troço Maria Teresa",
-      "url": "https://www.opais.ao/ultimas_hora/assinado-memorando-para-construcao-de-portagem-no-troco-maria-teresa/",
-      "source": "O País",
-      "_key": "191bbe09cbd894b1",
-      "score": 7
-    },
-    {
-      "title": "New export regulations aim to enhance the value of Angolan coffee – Minister",
-      "url": "https://www.angop.ao/en/noticias/politica/novo-regulamento-de-exportacao-visa-valorizar-cafe-angolano-ministro/",
-      "source": "ANGOP",
-      "_key": "b9a5a1275fa6078f",
-      "score": 6
-    },
-    {
-      "title": "Executivo elimina licença de publicidade para identificação de estabelecimentos",
-      "url": "https://correiokianda.info/empresarios-deixam-de-renovar-licenca-de-publicidade/",
-      "source": "Correio Kianda",
-      "_key": "cbe959102ebd3ef1",
-      "score": 6
-    },
-    {
-      "title": "ANGOSAT-2: sinal da Internet gratuito chega à Universidade...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angosat-2-sinal-da-internet-gratuito-chega-a-universidade-do-namibe-72189.html",
-      "source": "Novo Jornal",
-      "_key": "9716d28b055cdc2f",
-      "score": 6
-    },
-    {
-      "title": "Benguela: Empresas em crise refugiam-se nas 720 casas para sinistrados",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/benguela-empresas-em-crise-refugiam-se-nas-720-casas-para-sinistrados-72187.html",
-      "source": "Novo Jornal",
-      "_key": "736134ed59d8f8ac",
-      "score": 6
-    },
-    {
-      "title": "Mais de 60 mil trabalhadores estão inscritos no INSS no Cuanza-Norte",
-      "url": "https://www.opais.ao/ultimas_hora/mais-de-60-mil-trabalhadores-estao-inscritos-no-inss-no-cuanza-norte/",
-      "source": "O País",
-      "_key": "94f6ac61bd025dea",
-      "score": 6
-    },
-    {
-      "title": "Angola reaffirms opposition to unilateral coercive measures at the UN",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-oposicao-a-medidas-coercivas-unilaterais-na-onu/",
-      "source": "ANGOP",
-      "_key": "4858744afe19955c",
+      "title": "Conselho de Ministros aprova medidas para desburocratizar publicidade, valorizar café angolano e fomentar ciência nacional",
+      "url": "https://diariodosnegocios.com/conselho-de-ministros-aprova-medidas-para-desburocratizar-publicidade-valorizar-cafe-angolano-e-fomentar-ciencia-nacional/",
+      "source": "Diário dos Negócios",
+      "_key": "ba484af0d2369a6a",
       "score": 5
     },
     {
-      "title": "Presidente autoriza construção de instalações provisórias das Finanças no Cuando e Moxico Leste",
-      "url": "https://correiokianda.info/presidente-autoriza-construcao-de-instalacoes-provisorias-das-financas-no-cuando-e-moxico-leste/",
-      "source": "Correio Kianda",
-      "_key": "83035d127ff160e0",
+      "title": " Conselho de Ministros aprova medidas para desburocratizar publicidade, valorizar café angolano e fomentar ciência nacional ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_1764c867e2e36b",
+      "score": 5
+    },
+    {
+      "title": "O Mercado cria riqueza - O Estado cria as condições",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_36f0e5217677a4",
+      "score": 5
+    },
+    {
+      "title": "VISTO DO CEIC Carlos VazO Mercado cria riqueza - O Estado cria as condições",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-mercado-cria-riqueza---o-estado-cria-as-condicoes-72140.html",
+      "source": "Expansão",
+      "_key": "55ff8a9c489de603",
       "score": 5
     }
   ]
