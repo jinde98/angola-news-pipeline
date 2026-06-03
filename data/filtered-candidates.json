@@ -1,294 +1,245 @@
 {
   "date": "2026-06-03",
-  "total_new": 89,
-  "total_filtered": 41,
+  "total_new": 84,
+  "total_filtered": 34,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "TAAG launches new route to China on June 23rd",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-inicia-nova-rota-para-china-no-dia-23-de-junho/",
-      "source": "ANGOP",
-      "_key": "be013528b3811853",
-      "score": 10
-    },
-    {
-      "title": "TAAG inaugura voos directos para Guangzhou a partir de 23 de Junho",
-      "url": "https://expansao.co.ao/empresas/detalhe/taag-inaugura-voos-directos-para-guangzhou-a-partir-de-23-de-junho-72260.html",
-      "source": "Expansão",
-      "_key": "8f9a6cdb85411180",
-      "score": 10
-    },
-    {
-      "title": "China reaffirms support for social projects in Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/china-reafirma-apoio-a-projectos-sociais-em-angola/",
-      "source": "ANGOP",
-      "_key": "357bff41876dcb75",
+      "title": "Burocracia na Sonangol Atrasa Descarga de Petroleiros e Agrava Escassez de Combustível em Angola",
+      "url": "https://diariodosnegocios.com/burocracia-na-sonangol-atrasa-descarga-de-petroleiros-e-agrava-escassez-de-combustivel-em-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "ed530646cfbefe2f",
       "score": 9
     },
     {
-      "title": "Angola/China air connection reinforces bilateral cooperation",
-      "url": "https://www.angop.ao/en/noticias/economia/ligacao-aerea-angola-china-reforca-cooperacao-bilateral-entre-estados/",
-      "source": "ANGOP",
-      "_key": "488f619e2764565c",
+      "title": "Angola perde quase mil empresas em cinco anos: Burocracia e carga tributária afundam sonhos empreendedores",
+      "url": "https://diariodosnegocios.com/angola-perde-quase-mil-empresas-em-cinco-anos-burocracia-e-carga-tributaria-afundam-sonhos-empreendedores/",
+      "source": "Diário dos Negócios",
+      "_key": "7a4c061ba3d4234c",
       "score": 9
     },
     {
-      "title": "Angola airline highlights strategic importance of Angola–China route",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-destaca-importancia-estrategica-da-nova-rota-angola-china/",
-      "source": "ANGOP",
-      "_key": "8c1d0f844a5b0911",
-      "score": 9
-    },
-    {
-      "title": "New route to Guangzhou strengthens Angola's integration into the global stage",
-      "url": "https://www.angop.ao/en/noticias/economia/nova-rota-para-guangzhou-reforca-insercao-de-angola-no-panorama-mundial/",
-      "source": "ANGOP",
-      "_key": "1a8a888204eacd35",
-      "score": 9
-    },
-    {
-      "title": "BNA alerta para concentração de risco nos bancos devido à exposição à dívida do Estado",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34439-bna-alerta-para-concentracao-de-risco-nos-bancos-devido-a-exposicao-a-divida-do-estado",
-      "source": "Angola 24 Horas",
-      "_key": "e0e43972c17cf927",
-      "score": 9
-    },
-    {
-      "title": "09:53 / 3 jun. 2026 China reafirma total apoio a projectos sociais no país ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677586/china-reafirma-total-apoio--a-projectos-sociais-no-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "b4200a3b26833e10",
-      "score": 9
-    },
-    {
-      "title": "Angola responde com silêncio à abertura do mercado chinês às...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-responde-com-silencio-a-abertura-do-mercado-chines-as-exportacoes",
-      "source": "Valor Económico",
-      "_key": "53d92cdd64012aeb",
-      "score": 9
-    },
-    {
-      "title": "Burocracias na Sonangol atrasam descarga de petroleiros e causam escassez...",
-      "url": "https://valoreconomico.co.ao/artigo/burocracias-na-sonangol-atrasam-descarga-de-petroleiros-e-causam-escassez-de-combustivel-14282",
-      "source": "Valor Económico",
-      "_key": "699a3e5aaad86334",
-      "score": 9
-    },
-    {
-      "title": "Taxpayer declaration is essential to define tax payable",
-      "url": "https://www.angop.ao/en/noticias/economia/declaracao-dos-contribuintes-e-fundamental-para-definir-imposto-a-pagar-ottoniel-dos-santos/",
-      "source": "ANGOP",
-      "_key": "c01aa41466e95d94",
-      "score": 8
-    },
-    {
-      "title": "Imposto",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=205017",
-      "source": "ANGOP",
-      "_key": "423401707ff28c5f",
-      "score": 8
-    },
-    {
-      "title": "Empresas angolanas passam a poder efectuar pagamentos na SADC em kwanzas",
-      "url": "https://angola24horas.com/sociedade/item/34445-empresas-angolanas-passam-a-poder-efectuar-pagamentos-na-sadc-em-kwanzas",
-      "source": "Angola 24 Horas",
-      "_key": "6853af1014d4ebe3",
-      "score": 8
-    },
-    {
-      "title": "Falta de dinheiro nos ATM leva clientes a acusar bancos de desrespeito pelas regras do BNA",
-      "url": "https://angola24horas.com/sociedade/item/34441-falta-de-dinheiro-nos-atm-leva-clientes-a-acusar-bancos-de-desrespeito-pelas-regras-do-bna",
-      "source": "Angola 24 Horas",
-      "_key": "7584e115a408992f",
-      "score": 8
-    },
-    {
-      "title": "Produtores aplaudem imposição de quotas, mas especialistas receiam",
-      "url": "https://expansao.co.ao/angola/detalhe/produtores-aplaudem-imposicao-de-quotas-mas-especialistas-receiam-72144.html",
-      "source": "Expansão",
-      "_key": "66674c67a690d2be",
-      "score": 8
-    },
-    {
-      "title": "Ministério dos Transportes de Angola aposta em infra-estruturas integradas para facilitar produção nacional",
-      "url": "https://forbesafricalusofona.com/ministerio-dos-transportes-de-angola-aposta-em-infra-estruturas-integradas-para-facilitar-producao-nacional/",
-      "source": "Forbes África",
-      "_key": "d2e629346dd7b927",
-      "score": 8
-    },
-    {
-      "title": "Produtores e distribuidores alertam para risco de escassez e subida...",
-      "url": "https://valoreconomico.co.ao/artigo/produtores-e-distribuidores-alertam-para-risco-de-escassez-e-subida-de-precos",
-      "source": "Valor Económico",
-      "_key": "b702c3046e29bf53",
-      "score": 8
-    },
-    {
-      "title": "Quase mil empresas encerraram actividades em cinco anos",
-      "url": "https://valoreconomico.co.ao/artigo/quase-mil-empresas-encerraram-actividades-em-cinco-anos",
-      "source": "Valor Económico",
-      "_key": "9f557282ee9eb5de",
-      "score": 8
-    },
-    {
-      "title": "“A banca angolana vai ter que viver das PME, criar condições, linhas...",
-      "url": "https://valoreconomico.co.ao/artigo/a-banca-angolana-vai-ter-que-viver-das-pme-criar-condicoes-linhas-de-credito-importadas-e-garantidas-14280",
-      "source": "Valor Económico",
-      "_key": "a0f445e983c5d6f9",
-      "score": 8
-    },
-    {
-      "title": "Angola invited to participate in the 24th edition of the Mining Conference in Australia",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-convidada-a-participar-da-24a-edicao-da-conferencia-sobre-minas-na-australia/",
-      "source": "ANGOP",
-      "_key": "14bbbea5a5ae1499",
-      "score": 7
-    },
-    {
-      "title": "Operation against ilegall gold mining concludes with 331 detainees",
-      "url": "https://www.angop.ao/en/noticias/politica/operacao-fio-de-ouro-ii-no-bengo-termina-com-331-detidos/",
-      "source": "ANGOP",
-      "_key": "1f4f564d43753698",
-      "score": 7
-    },
-    {
-      "title": "Angola Commercial Banks recommended to adopt prudent capital management policies",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-recomenda-bancos-a-adoptarem-politicas-prudentes-de-gestao-de-capital/",
-      "source": "ANGOP",
-      "_key": "cc807d50e954cf0a",
-      "score": 7
-    },
-    {
-      "title": "Silêncio estratégico de João Lourenço mantém incógnita sobre a sucessão presidencial",
-      "url": "https://angola24horas.com/component/k2/item/34442-silencio-estrategico-de-joao-lourenco-mantem-incognita-sobre-a-sucessao-presidencial",
-      "source": "Angola 24 Horas",
-      "_key": "239fead0dbff8a8f",
-      "score": 7
-    },
-    {
-      "title": "Polícia detém 331 pessoas e encerra oito áreas de exploração ilegal de ouro no Bengo",
-      "url": "https://angola24horas.com/sociedade/item/34440-policia-detem-331-pessoas-e-encerra-oito-areas-de-exploracao-ilegal-de-ouro-no-bengo",
-      "source": "Angola 24 Horas",
-      "_key": "3777d5f72a10967d",
-      "score": 7
-    },
-    {
-      "title": "Governo quer mais parques privados mas faltam incentivos fiscais ajustados",
+      "title": " Burocracia na Sonangol Atrasa Descarga de Petroleiros e Agrava Escassez de Combustível em Angola ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_1d89c98c28bebe",
-      "score": 7
+      "source": "Diário dos Negócios",
+      "_key": "t_9e496f381e26ec",
+      "score": 9
     },
     {
-      "title": "Destaque José de Lima Massano empossa administrador não executivo do BNA O ministro de Estado para Coordenação Económica, José de Lima Massano, conferiu, esta terça.feira, posse ao novo administrador não executivo do Banco Nacional de Angola (BNA), Gilberto Caliatu.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677567/jos%C3%A9-de-lima-massano-empossa-administrador-n%C3%A3o-executivo-do-bna-",
-      "source": "Jornal de Angola",
-      "_key": "2fdb4760c290e2f5",
-      "score": 7
-    },
-    {
-      "title": "10:02 / 3 jun. 2026 Angola convidada a estar na Conferência sobre Minas ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677589/angola-convidada-a-estar--na-confer%C3%AAncia-sobre-minas",
-      "source": "Jornal de Angola",
-      "_key": "29d6e360e63c88c1",
-      "score": 7
-    },
-    {
-      "title": "Bengo: PN \"limpa\" oito áreas de garimpo ilegal, detém...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bengo-pn-limpa-oito-areas-de-garimpo-ilegal-detem-331-cidadaos-e-promete-fiscalizacao-permanente-72257.html",
-      "source": "Novo Jornal",
-      "_key": "fd042a310e666a81",
-      "score": 7
-    },
-    {
-      "title": "Combate à criminalidade",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=73087",
-      "source": "ANGOP",
-      "_key": "2840c35f40425f96",
-      "score": 6
-    },
-    {
-      "title": "Luanda sobe no ranking de startups, mas continua na cauda no ambiente para inovadores",
+      "title": " Angola perde quase mil empresas em cinco anos: Burocracia e carga tributária afundam sonhos empreendedores ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_c609ae6b911a4a",
-      "score": 6
+      "source": "Diário dos Negócios",
+      "_key": "t_734616e5d0807f",
+      "score": 9
     },
     {
-      "title": "Ministério dos Transportes reúne com a banca num Executive Breakfast",
-      "url": "https://forbesafricalusofona.com/ministerio-dos-transportes-reune-com-a-banca-num-executive-breakfast/",
+      "title": "“Novo código fiscal pode reduzir desigualdade entre empresas formais e informais”, diz economista",
+      "url": "https://correiokianda.info/novo-codigo-fiscal-pode-reduzir-desigualdade-entre-empresas-formais-e-informais-diz-economista/",
+      "source": "Correio Kianda",
+      "_key": "e7e7b5478c2c570f",
+      "score": 8
+    },
+    {
+      "title": "Angola aposta em concessões e logística integrada para atrair investimento privado",
+      "url": "https://forbesafricalusofona.com/angola-aposta-em-concessoes-e-logistica-integrada-para-atrair-investimento-privado/",
       "source": "Forbes África",
-      "_key": "1f39bcaa5ac5ef43",
-      "score": 6
+      "_key": "6dfde7bfab6a7d3b",
+      "score": 8
     },
     {
-      "title": "Minuto Verde defende aplicação transparente da nova taxa de limpeza e saneamento",
-      "url": "https://holdonangola.com/minuto-verde-defende-aplicacao-transparente-da-nova-taxa-de-limpeza-e-saneamento/",
-      "source": "Hold On Angola",
-      "_key": "b8fe9fde41514e44",
-      "score": 6
-    },
-    {
-      "title": "O lado legítimo do garimpo que a miséria não cala",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-lado-legitimo-do-garimpo-que-a-miseria-nao-cala-72253.html",
-      "source": "Novo Jornal",
-      "_key": "39e14408ca906e8a",
-      "score": 6
-    },
-    {
-      "title": "Angolan delegation Participates in Korea-Africa Economic Forum 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/delegacao-angolana-participa-no-forum-economico-coreia-africa-2026/",
-      "source": "ANGOP",
-      "_key": "badffdd25cd6751c",
-      "score": 5
-    },
-    {
-      "title": "President João Lourenço assesses progress on Burn Hospital construction in Kilamba",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-volta-a-constatar-andamento-das-obras-do-hospital-dos-queimados/",
-      "source": "ANGOP",
-      "_key": "2f5927311e62d2b6",
-      "score": 5
-    },
-    {
-      "title": "Uíge province reports monkeypox positive case",
-      "url": "https://www.angop.ao/en/noticias/saude/uige-regista-caso-positivo-de-variola-dos-macacos/",
-      "source": "ANGOP",
-      "_key": "0b94188c6b543e98",
-      "score": 5
-    },
-    {
-      "title": "Cadeias de hotéis continuam a apostar em África graças ao segmento de luxo",
-      "url": "https://expansao.co.ao/mundo/africa/detalhe/cadeias-de-hoteis-continuam-a-apostar-em-africa-gracas-ao-segmento-de-luxo-72258.html",
-      "source": "Expansão",
-      "_key": "5aee3a3801339c0b",
-      "score": 5
-    },
-    {
-      "title": "Novo Hospital dos Queimados vai ser inaugurado em JulhoO novo Hospital dos Queimados do país, em construção na centralidade do Kilamba, em Luanda, vai tratar dos casos mais complexos de queimaduras e patologias associadas.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677571/novo-hospital-dos-queimados--vai-ser-inaugurado-em-julho",
-      "source": "Jornal de Angola",
-      "_key": "bc68457e31cf900e",
-      "score": 5
-    },
-    {
-      "title": "Sociedade Enaltecida visita do Chefe de Estado ao Hospital dos Queimados ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677568/enaltecida-visita-do-chefe-de-estado-ao-hospital-dos-queimados",
-      "source": "Jornal de Angola",
-      "_key": "4eb983d8dbd9144b",
-      "score": 5
-    },
-    {
-      "title": "Presidente do TS lamenta falta de verbas para melhorar...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/presidente-do-ts-lamenta-falta-de-verbas-para-melhorar-a-justica-72264.html",
-      "source": "Novo Jornal",
-      "_key": "52092ab276bf05f6",
-      "score": 5
-    },
-    {
-      "title": "FALTA ABRIR O ESTADO",
-      "url": "https://valoreconomico.co.ao/artigo/falta-abrir-o-estado",
+      "title": "Avaria informática com a AGT bloqueia emissão de NIF no...",
+      "url": "https://valoreconomico.co.ao/artigo/avaria-informatica-com-a-agt-bloqueia-emissao-de-nif-no-guiche-unico-da-empresa",
       "source": "Valor Económico",
-      "_key": "2ad53921a9676d9a",
+      "_key": "86f9b25c3f8a26b1",
+      "score": 8
+    },
+    {
+      "title": "Governo alivia pressão da dívida com recompra de 700 milhões de dólares em Eurobonds",
+      "url": "https://correiokianda.info/governo-alivia-pressao-da-divida-com-recompra-de-usd-700-milhoes-em-eurobonds/",
+      "source": "Correio Kianda",
+      "_key": "67cdaf8d408eaf4e",
+      "score": 7
+    },
+    {
+      "title": "BNA manifesta preocupação com o aumento da exposição do sector bancário ao Estado",
+      "url": "https://correiokianda.info/bna-manifesta-preocupacao-com-o-aumento-da-exposicao-do-sector-bancario-ao-estado/",
+      "source": "Correio Kianda",
+      "_key": "963c1286f46da3fe",
+      "score": 7
+    },
+    {
+      "title": "Angola antecipa alívio da dívida externa com recompra de 700 milhões de dólares em Eurobonds",
+      "url": "https://diariodosnegocios.com/angola-antecipa-alivio-da-divida-externa-com-recompra-de-700-milhoes-de-dolares-em-eurobonds/",
+      "source": "Diário dos Negócios",
+      "_key": "25767609309bfd21",
+      "score": 7
+    },
+    {
+      "title": " Angola antecipa alívio da dívida externa com recompra de 700 milhões de dólares em Eurobonds ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ce631f0e3e0f07",
+      "score": 7
+    },
+    {
+      "title": "Banco Nacional de Angola alerta para aumento da exposição da banca ao Estado",
+      "url": "https://jornaloguardiao.com/2026/06/02/banco-nacional-de-angola-alerta-para-aumento-da-exposicao-da-banca-ao-estado/",
+      "source": "Jornal O Guardião",
+      "_key": "215e54c978d0da26",
+      "score": 7
+    },
+    {
+      "title": "Angola deverá crescer pelo menos 4% este ano – Oxford Economics",
+      "url": "https://jornaloguardiao.com/2026/06/02/angola-devera-crescer-pelo-menos-4-este-ano-oxford-economics/",
+      "source": "Jornal O Guardião",
+      "_key": "2ad4644a5871ec02",
+      "score": 7
+    },
+    {
+      "title": " Banco Nacional de Angola alerta para aumento da exposição da banca ao Estado ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e814c46635cfe0",
+      "score": 7
+    },
+    {
+      "title": " Angola deverá crescer pelo menos 4% este ano – Oxford Economics ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_fc4bef2e1d4fc9",
+      "score": 7
+    },
+    {
+      "title": "Empresas angolanas ganham acesso a compras na SADC em kwanzas",
+      "url": "https://angola24horas.com/sociedade/item/34445-empresas-angolanas-ganham-acesso-a-compras-na-sadc-em-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "cf7e8a0b9f82bd9d",
+      "score": 6
+    },
+    {
+      "title": "Executivo torna crédito agrícola mais barato para estimular produção nacional",
+      "url": "https://correiokianda.info/executivo-torna-credito-agricola-mais-barato-para-estimular-producao-nacional/",
+      "source": "Correio Kianda",
+      "_key": "3d284ebd6c9e72d0",
+      "score": 6
+    },
+    {
+      "title": "Ricardo D’Abreu desafia banca a financiar diversificação económica face às limitações do Estado",
+      "url": "https://forbesafricalusofona.com/ricardo-dabreu-desafia-banca-a-financiar-diversificacao-economica-face-as-limitacoes-do-estado/",
+      "source": "Forbes África",
+      "_key": "3d742fc2e2b33c1f",
+      "score": 6
+    },
+    {
+      "title": "José de Lima Massano empossa Gilberto Caliatu na administração do Banco Nacional de Angola",
+      "url": "https://forbesafricalusofona.com/jose-de-lima-massano-empossa-gilberto-caliatu-na-administracao-do-banco-nacional-de-angola/",
+      "source": "Forbes África",
+      "_key": "08b604c752c262d9",
+      "score": 6
+    },
+    {
+      "title": "Empresas angolanas passam a efectuar pagamentos na SADC em kwanzas",
+      "url": "https://jornaloguardiao.com/2026/06/03/empresas-angolanas-passam-a-efectuar-pagamentos-na-sadc-em-kwanzas/",
+      "source": "Jornal O Guardião",
+      "_key": "81b7688f9d92aabc",
+      "score": 6
+    },
+    {
+      "title": "Pesca de arrasto de fundo suspensa por três meses para proteger recursos marinhos",
+      "url": "https://jornaloguardiao.com/2026/06/03/pesca-de-arrasto-de-fundo-suspensa-por-tres-meses-para-proteger-recursos-marinhos/",
+      "source": "Jornal O Guardião",
+      "_key": "ed84480b10729488",
+      "score": 6
+    },
+    {
+      "title": " Empresas angolanas passam a efectuar pagamentos na SADC em kwanzas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_04628802b7943e",
+      "score": 6
+    },
+    {
+      "title": " Pesca de arrasto de fundo suspensa por três meses para proteger recursos marinhos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a4c866ea7d7031",
+      "score": 6
+    },
+    {
+      "title": "As soluções fiscais para mitigar os efeitos das cheias de...",
+      "url": "https://valoreconomico.co.ao/artigo/as-solucoes-fiscais-para-mitigar-os-efeitos-das-cheias-de-abril-de-2026-o-caso-de-benguela",
+      "source": "Valor Económico",
+      "_key": "ca960a8889f064f1",
+      "score": 6
+    },
+    {
+      "title": "Angola-Korea cooperation reaches new level – Ambassador",
+      "url": "https://www.angop.ao/en/noticias/politica/cooperacao-angola-coreia-atinge-novo-patamar-embaixador/",
+      "source": "ANGOP",
+      "_key": "14ef26e0956e5c71",
+      "score": 5
+    },
+    {
+      "title": "Angola and Vietnam express interest in strengthen bilateral cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-vietname-reforcam-interesse-em-aprofundar-e-diversificar-cooperacao-bilateral/",
+      "source": "ANGOP",
+      "_key": "dda623bea98be574",
+      "score": 5
+    },
+    {
+      "title": "Formalização de trabalhadores domésticos reforça sistema de protecção social",
+      "url": "https://correiokianda.info/gpl-quer-reduzir-informalidade-laboral-com-registo-de-domesticos-no-inss/",
+      "source": "Correio Kianda",
+      "_key": "8a150bdb10b09919",
+      "score": 5
+    },
+    {
+      "title": "Turismo em Angola ganha novas soluções de financiamento com acordo entre INFOTUR e BAI",
+      "url": "https://forbesafricalusofona.com/turismo-em-angola-ganha-novas-solucoes-de-financiamento-com-acordo-entre-infotur-e-bai/",
+      "source": "Forbes África",
+      "_key": "d04811db3760ee1d",
+      "score": 5
+    },
+    {
+      "title": "Mais de 2.800 casas de pesagem de material ferroso encerradas em Luanda",
+      "url": "https://jornaloguardiao.com/2026/06/03/mais-de-2-800-casas-de-pesagem-de-material-ferroso-encerradas-em-luanda/",
+      "source": "Jornal O Guardião",
+      "_key": "57c41a572582102a",
+      "score": 5
+    },
+    {
+      "title": " Mais de 2.800 casas de pesagem de material ferroso encerradas em Luanda ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_dfbc251c27849d",
+      "score": 5
+    },
+    {
+      "title": "Destaque Embaixador coreano ressalta excelentes relações entre Angola e CoreiaO embaixador da Coreia em Angola, Kwang-Jin Choi, sublinhou, esta quarta-feira, em Luanda, as excelentes relações existentes entre os dois governos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677641/embaixador-coreano-ressalta-excelentes-rela%C3%A7%C3%B5es-entre-angola-e-coreia",
+      "source": "Jornal de Angola",
+      "_key": "8181a9858fba77e3",
+      "score": 5
+    },
+    {
+      "title": "Destaque Angola e Vietname manifestam interesse em diversificar relações de cooperaçãoAngola e o Vietname manifestaram, esta quarta-feira, em Hanói, o interesse em aprofundar e diversificar as relações de cooperação nos mais variados domínios da vida política, diplomática, económica, comercial e técnico-científica.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677643/angola-e-vietname-manifestam-interesse-em-diversificar-rela%C3%A7%C3%B5es-de-coopera%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "b33bfec6eb500ebf",
+      "score": 5
+    },
+    {
+      "title": "Zaire. PN apreende mais de 35 mil litros de petróleo iluminante e deteve motorista que desviou o combustível da empresa onde trabalhava",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/zaire-pn-apreende-mais-de-35-mil-litros-de-petroleo-iluminante-e-deteve-motorista-que-desviou-o-combustivel-da-empresa-onde-trabalhava-72266.html",
+      "source": "Novo Jornal",
+      "_key": "63b4ba3b9d3ca801",
+      "score": 5
+    },
+    {
+      "title": "Carlos Feijó aponta imprecisões e má interpretação do novo Código de Processo...",
+      "url": "https://valoreconomico.co.ao/artigo/carlos-feijo-aponta-imprecisoes-e-ma-interpretacao-do-novo-codigo-de-processo-do-contencioso-administrativo",
+      "source": "Valor Económico",
+      "_key": "bbc24d773095cba5",
       "score": 5
     }
   ]
