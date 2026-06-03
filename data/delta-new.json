@@ -1,320 +1,542 @@
 {
-  "date": "2026-06-02",
-  "total_extracted": 1582,
-  "total_new": 52,
-  "total_existing": 1530,
+  "date": "2026-06-03",
+  "total_extracted": 1286,
+  "total_new": 89,
+  "total_existing": 1197,
   "articles": [
     {
-      "title": "Angola National Radio begins broadcasting from its new studios",
-      "url": "https://www.angop.ao/en/noticias/sociedade/rna-inicia-emissao-nos-novos-estudios/",
+      "title": "Angolan Health Minister reaffirms commitment to specialists’ training",
+      "url": "https://www.angop.ao/en/noticias/saude/ministra-reafirma-aposta-na-formacao-de-especialistas-em-saude/",
       "source": "ANGOP",
-      "_key": "6c249aa7361bff15"
+      "_key": "e03eced87ca845fc"
     },
     {
-      "title": "Tourism Ministry and BAI Bank sign agreement to fund tourism",
-      "url": "https://www.angop.ao/en/noticias/economia/mintur-e-bai-rubricam-acordo-para-financiar-oferta-turistica-nacional/",
+      "title": "Angolan Vice-President discusses bilateral cooperation with Portugal",
+      "url": "https://www.angop.ao/en/noticias/politica/vice-presidente-da-republica-aborda-cooperacao-bilateral-com-portugal/",
       "source": "ANGOP",
-      "_key": "a7ec624c1ec61970"
+      "_key": "abf86f27c9cb1f46"
     },
     {
-      "title": "Criminal Investigation services seizes equipment used to counterfeit US dollars",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-huambo-apreende-material-para-falsificacao-de-dolares/",
+      "title": "China reaffirms support for social projects in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/china-reafirma-apoio-a-projectos-sociais-em-angola/",
       "source": "ANGOP",
-      "_key": "b28e16f844e99e43"
+      "_key": "357bff41876dcb75"
     },
     {
-      "title": "Apreensão",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=43048",
+      "title": "Angola invited to participate in the 24th edition of the Mining Conference in Australia",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-convidada-a-participar-da-24a-edicao-da-conferencia-sobre-minas-na-australia/",
       "source": "ANGOP",
-      "_key": "213d0c3482ddfbcb"
+      "_key": "14bbbea5a5ae1499"
     },
     {
-      "title": "Over 50,000 people benefiting from productive inclusion program",
-      "url": "https://www.angop.ao/en/noticias/economia/programa-de-inclusao-produtiva-beneficia-mais-de-54-mil-pessoas-em-angola/",
+      "title": "TAAG launches new route to China on June 23rd",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-inicia-nova-rota-para-china-no-dia-23-de-junho/",
       "source": "ANGOP",
-      "_key": "16d345836a63030e"
+      "_key": "be013528b3811853"
+    },
+    {
+      "title": "Angolan delegation Participates in Korea-Africa Economic Forum 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/delegacao-angolana-participa-no-forum-economico-coreia-africa-2026/",
+      "source": "ANGOP",
+      "_key": "badffdd25cd6751c"
+    },
+    {
+      "title": "Angola and Uruguay converge in holding the II Bilateral Commission",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-uruguai-convergem-na-realizacao-da-ii-comissao-bilateral/",
+      "source": "ANGOP",
+      "_key": "ff8286cfbdfb0951"
+    },
+    {
+      "title": "Angola and Uruguay plan to strengthen cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-uruguai-perspectivam-reforco-da-cooperacao/",
+      "source": "ANGOP",
+      "_key": "bfcdf53d43231804"
+    },
+    {
+      "title": "Angolan FM attends reception hosted by South Korean president",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-participa-em-recepcao-oferecida-pelo-presidente-da-coreia/",
+      "source": "ANGOP",
+      "_key": "ce277f6b71cbbd86"
+    },
+    {
+      "title": "Operation against ilegall gold mining concludes with 331 detainees",
+      "url": "https://www.angop.ao/en/noticias/politica/operacao-fio-de-ouro-ii-no-bengo-termina-com-331-detidos/",
+      "source": "ANGOP",
+      "_key": "1f4f564d43753698"
+    },
+    {
+      "title": "Combate à criminalidade",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=73087",
+      "source": "ANGOP",
+      "_key": "2840c35f40425f96"
+    },
+    {
+      "title": "President João Lourenço assesses progress on Burn Hospital construction in Kilamba",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-volta-a-constatar-andamento-das-obras-do-hospital-dos-queimados/",
+      "source": "ANGOP",
+      "_key": "2f5927311e62d2b6"
+    },
+    {
+      "title": "Angola/China air connection reinforces bilateral cooperation",
+      "url": "https://www.angop.ao/en/noticias/economia/ligacao-aerea-angola-china-reforca-cooperacao-bilateral-entre-estados/",
+      "source": "ANGOP",
+      "_key": "488f619e2764565c"
+    },
+    {
+      "title": "Taxpayer declaration is essential to define tax payable",
+      "url": "https://www.angop.ao/en/noticias/economia/declaracao-dos-contribuintes-e-fundamental-para-definir-imposto-a-pagar-ottoniel-dos-santos/",
+      "source": "ANGOP",
+      "_key": "c01aa41466e95d94"
+    },
+    {
+      "title": "Imposto",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=205017",
+      "source": "ANGOP",
+      "_key": "423401707ff28c5f"
+    },
+    {
+      "title": "Angola airline highlights strategic importance of Angola–China route",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-destaca-importancia-estrategica-da-nova-rota-angola-china/",
+      "source": "ANGOP",
+      "_key": "8c1d0f844a5b0911"
+    },
+    {
+      "title": "New route to Guangzhou strengthens Angola's integration into the global stage",
+      "url": "https://www.angop.ao/en/noticias/economia/nova-rota-para-guangzhou-reforca-insercao-de-angola-no-panorama-mundial/",
+      "source": "ANGOP",
+      "_key": "1a8a888204eacd35"
+    },
+    {
+      "title": "MINJUD promotes higher sports council",
+      "url": "https://www.angop.ao/en/noticias/desporto/minjud-promove-conselho-superior-do-desporto/",
+      "source": "ANGOP",
+      "_key": "5356caab1f2be8bc"
+    },
+    {
+      "title": "Polysports",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4509",
+      "source": "ANGOP",
+      "_key": "0747c86451f33db7"
+    },
+    {
+      "title": "Cases of teenage pregnancy increases in northern Uige",
+      "url": "https://www.angop.ao/en/noticias/sociedade/uige-regista-aumento-de-casos-de-gravidez-precoce/",
+      "source": "ANGOP",
+      "_key": "ed50a4deb3ed654a"
+    },
+    {
+      "title": "Government invests in specialists training for new Burns Hospital",
+      "url": "https://www.angop.ao/en/noticias/saude/governo-aposta-na-formacao-de-especialistas-para-o-novo-hospital-dos-queimados/",
+      "source": "ANGOP",
+      "_key": "9e0133ee46723027"
+    },
+    {
+      "title": "Angola plans to train 38,000 health professionals by 2028",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-preve-formar-38-mil-profissionais-de-saude-ate-2029/",
+      "source": "ANGOP",
+      "_key": "42f08aad62b5d027"
+    },
+    {
+      "title": "Some 3,000 mangroves to be planted in Luanda south coastal zone",
+      "url": "https://www.angop.ao/en/noticias/ambiente/zona-maritima-da-nicha-ganha-tres-mil-novos-mangais/",
+      "source": "ANGOP",
+      "_key": "50ba69cedd59b915"
+    },
+    {
+      "title": "Angola promotes gastronomy at African fair in Cairo",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-promove-gastronomia-na-feira-africana-no-cairo/",
+      "source": "ANGOP",
+      "_key": "04b8ebabf3fbb40e"
+    },
+    {
+      "title": "Cultural sector considers churches partners in promoting peace and reconciliation",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sector-da-cultura-considera-igrejas-parceiras-na-promocao-da-paz-e-reconciliacao/",
+      "source": "ANGOP",
+      "_key": "21c2ccb78268d620"
+    },
+    {
+      "title": "Church",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=2981",
+      "source": "ANGOP",
+      "_key": "1e3c2f4dbfdc35b8"
+    },
+    {
+      "title": "SIC arrests three women for child murder in Huambo",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-tres-mulheres-por-homicidio-de-criancas-no-huambo/",
+      "source": "ANGOP",
+      "_key": "4511d5c12eaec458"
+    },
+    {
+      "title": "Angola Commercial Banks recommended to adopt prudent capital management policies",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-recomenda-bancos-a-adoptarem-politicas-prudentes-de-gestao-de-capital/",
+      "source": "ANGOP",
+      "_key": "cc807d50e954cf0a"
+    },
+    {
+      "title": "Município",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=254214",
+      "source": "ANGOP",
+      "_key": "e1cb70ca4d924156"
+    },
+    {
+      "title": "Uíge province reports monkeypox positive case",
+      "url": "https://www.angop.ao/en/noticias/saude/uige-regista-caso-positivo-de-variola-dos-macacos/",
+      "source": "ANGOP",
+      "_key": "0b94188c6b543e98"
+    },
+    {
+      "title": "Silêncio estratégico de João Lourenço mantém incógnita sobre a sucessão presidencial",
+      "url": "https://angola24horas.com/component/k2/item/34442-silencio-estrategico-de-joao-lourenco-mantem-incognita-sobre-a-sucessao-presidencial",
+      "source": "Angola 24 Horas",
+      "_key": "239fead0dbff8a8f"
+    },
+    {
+      "title": "Empresas angolanas passam a poder efectuar pagamentos na SADC em kwanzas",
+      "url": "https://angola24horas.com/sociedade/item/34445-empresas-angolanas-passam-a-poder-efectuar-pagamentos-na-sadc-em-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "6853af1014d4ebe3"
+    },
+    {
+      "title": "Líder da UNITA visita jovens detidos em Luanda e pede alargamento da FPU",
+      "url": "https://angola24horas.com/politica/item/34443-lider-da-unita-visita-jovens-detidos-em-luanda-e-pede-alargamento-da-fpu",
+      "source": "Angola 24 Horas",
+      "_key": "62eb8a1cc24f5a96"
+    },
+    {
+      "title": "Falta de dinheiro nos ATM leva clientes a acusar bancos de desrespeito pelas regras do BNA",
+      "url": "https://angola24horas.com/sociedade/item/34441-falta-de-dinheiro-nos-atm-leva-clientes-a-acusar-bancos-de-desrespeito-pelas-regras-do-bna",
+      "source": "Angola 24 Horas",
+      "_key": "7584e115a408992f"
+    },
+    {
+      "title": "Polícia detém 331 pessoas e encerra oito áreas de exploração ilegal de ouro no Bengo",
+      "url": "https://angola24horas.com/sociedade/item/34440-policia-detem-331-pessoas-e-encerra-oito-areas-de-exploracao-ilegal-de-ouro-no-bengo",
+      "source": "Angola 24 Horas",
+      "_key": "3777d5f72a10967d"
     },
     {
       "title": "BNA alerta para concentração de risco nos bancos devido à exposição à dívida do Estado",
-      "url": "https://angola24horas.com/economia/item/34439-bna-alerta-para-concentracao-de-risco-nos-bancos-devido-a-exposicao-a-divida-do-estado",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34439-bna-alerta-para-concentracao-de-risco-nos-bancos-devido-a-exposicao-a-divida-do-estado",
       "source": "Angola 24 Horas",
-      "_key": "ca293fd478a59f64"
+      "_key": "e0e43972c17cf927"
     },
     {
-      "title": "Ambientalista defende taxa de 20% sobre água canalizada para financiar rede de esgotos",
-      "url": "https://angola24horas.com/sociedade/item/34437-ambientalista-defende-taxa-de-20-sobre-agua-canalizada-para-financiar-rede-de-esgotos",
-      "source": "Angola 24 Horas",
-      "_key": "10f70aadddab462b"
+      "title": "Produtores aplaudem imposição de quotas, mas especialistas receiam",
+      "url": "https://expansao.co.ao/angola/detalhe/produtores-aplaudem-imposicao-de-quotas-mas-especialistas-receiam-72144.html",
+      "source": "Expansão",
+      "_key": "66674c67a690d2be"
     },
     {
-      "title": "TAAG com prejuízos de 145 milhões USD admite subir preços dos bilhetes em 2026",
-      "url": "https://angola24horas.com/sociedade/item/34436-taag-com-prejuizos-de-145-milhoes-usd-admite-subir-precos-dos-bilhetes-em-2026",
-      "source": "Angola 24 Horas",
-      "_key": "cb67169eb603a14f"
-    },
-    {
-      "title": "BNA renova gestão de activos com Gemcorp até 2030, entre argumentos de rentabilidade e questões de transparência",
-      "url": "https://diariodosnegocios.com/bna-renova-gestao-de-activos-com-gemcorp-ate-2030-entre-argumentos-de-rentabilidade-e-questoes-de-transparencia/",
-      "source": "Diário dos Negócios",
-      "_key": "9b1fb17d52c94b16"
-    },
-    {
-      "title": " BNA renova gestão de activos com Gemcorp até 2030, entre argumentos de rentabilidade e questões de transparência ",
+      "title": "Luanda sobe no ranking de startups, mas continua na cauda no ambiente para inovadores",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_9c01d0b50270a1"
+      "source": "Expansão",
+      "_key": "t_c609ae6b911a4a"
     },
     {
-      "title": "Lukeni Araújo lança obra que pretende transformar informação dispersa em investimento turístico",
-      "url": "https://forbesafricalusofona.com/lukeni-araujo-lanca-obra-que-pretende-transformar-informacao-dispersa-em-investimento-turistico/",
+      "title": "Governo quer mais parques privados mas faltam incentivos fiscais ajustados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1d89c98c28bebe"
+    },
+    {
+      "title": "TAAG inaugura voos directos para Guangzhou a partir de 23 de Junho",
+      "url": "https://expansao.co.ao/empresas/detalhe/taag-inaugura-voos-directos-para-guangzhou-a-partir-de-23-de-junho-72260.html",
+      "source": "Expansão",
+      "_key": "8f9a6cdb85411180"
+    },
+    {
+      "title": "Cadeias de hotéis continuam a apostar em África graças ao segmento de luxo",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/cadeias-de-hoteis-continuam-a-apostar-em-africa-gracas-ao-segmento-de-luxo-72258.html",
+      "source": "Expansão",
+      "_key": "5aee3a3801339c0b"
+    },
+    {
+      "title": "Dimensão demográfica torna Nigéria na maior fábrica de startups unicórnios de África",
+      "url": "https://expansao.co.ao/empresas/detalhe/dimensao-demografica-torna-nigeria-na-maior-fabrica-de-startups-unicornios-de-africa-72143.html",
+      "source": "Expansão",
+      "_key": "0d7aebfe99f35b74"
+    },
+    {
+      "title": "Ministério dos Transportes de Angola aposta em infra-estruturas integradas para facilitar produção nacional",
+      "url": "https://forbesafricalusofona.com/ministerio-dos-transportes-de-angola-aposta-em-infra-estruturas-integradas-para-facilitar-producao-nacional/",
       "source": "Forbes África",
-      "_key": "fd344cd8d96cc430"
+      "_key": "d2e629346dd7b927"
     },
     {
-      "title": "Quatro cineastas lusófonos seleccionados para programa do Festival de Locarno dedicado a África",
-      "url": "https://forbesafricalusofona.com/quatro-cineastas-lusofonos-seleccionados-para-programa-do-festival-de-locarno-dedicado-a-africa/",
+      "title": "Ministério dos Transportes reúne com a banca num Executive Breakfast",
+      "url": "https://forbesafricalusofona.com/ministerio-dos-transportes-reune-com-a-banca-num-executive-breakfast/",
       "source": "Forbes África",
-      "_key": "94e4b12a40e27d7d"
+      "_key": "1f39bcaa5ac5ef43"
     },
     {
-      "title": "Nova ligação aérea à China reforça ambição de transformar Luanda num hub regional",
-      "url": "https://forbesafricalusofona.com/nova-ligacao-aerea-a-china-reforca-ambicao-de-transformar-luanda-num-hub-regional/",
+      "title": "Projecto angolano “Produzir para Transformar Vidas” prevê geração de receita mensal de 2,3 milhões kz",
+      "url": "https://forbesafricalusofona.com/projecto-angolano-produzir-para-transformar-vidas-preve-geracao-de-receita-mensal-de-23-milhoes-kz/",
       "source": "Forbes África",
-      "_key": "f35d7f934e284b72"
+      "_key": "526ccd30a3ce8e50"
     },
     {
-      "title": "TAAG abre rota directa para Guangzhou a partir do dia 23 deste mês",
-      "url": "https://forbesafricalusofona.com/taag-abre-rota-directa-para-guangzhou-a-partir-do-dia-23-deste-mes/",
-      "source": "Forbes África",
-      "_key": "fce786d5d12863e8"
-    },
-    {
-      "title": "Comissão Preparatória do 9.º Congresso do MPLA reafirma normalidade do processo interno",
-      "url": "https://holdonangola.com/comissao-preparatoria-do-9-o-congresso-do-mpla-reafirma-normalidade-do-processo-interno/",
+      "title": "Angola destaca liderança feminina na 5.ª Conferência sobre Política Exterior Feminista em Madrid",
+      "url": "https://holdonangola.com/angola-destaca-lideranca-feminina-na-5-a-conferencia-sobre-politica-exterior-feminista-em-madrid/",
       "source": "Hold On Angola",
-      "_key": "d021edb5c263259c"
+      "_key": "ea22a0710e878a17"
     },
     {
-      "title": "Fórum Económico Coreia-África discute sectores energéticos e minerais…",
-      "url": "https://holdonangola.com/forum-economico-coreia-africa-discute-sectores-energeticos-e-minerais-criticos/",
+      "title": "Activista Luaty Beirão alerta para pobreza e exclusão social em Angola no Oslo Freedom Forum",
+      "url": "https://holdonangola.com/activista-luaty-beirao-alerta-para-pobreza-e-exclusao-social-em-angola-no-oslo-freedom-forum/",
       "source": "Hold On Angola",
-      "_key": "e5d1a9e44e1df76f"
+      "_key": "fe601818f0b1fea2"
     },
     {
-      "title": "Lares Dom Bosco retiraram 251 crianças das ruas em três anos",
-      "url": "https://holdonangola.com/lares-dom-bosco-retiraram-251-criancas-das-ruas-em-tres-anos/",
+      "title": "Minuto Verde defende aplicação transparente da nova taxa de limpeza e saneamento",
+      "url": "https://holdonangola.com/minuto-verde-defende-aplicacao-transparente-da-nova-taxa-de-limpeza-e-saneamento/",
       "source": "Hold On Angola",
-      "_key": "41e825ac22c1b28a"
+      "_key": "b8fe9fde41514e44"
     },
     {
-      "title": "Mãe embriagada queima rosto da filha de 4…",
-      "url": "https://holdonangola.com/mae-embriagada-queima-rosto-da-filha-de-4-meses-no-fogareiro/",
+      "title": "AJOKWA denuncia alegado desvio de viatura e pede…",
+      "url": "https://holdonangola.com/ajokwa-denuncia-alegado-desvio-de-viatura-e-pede-investigacao-no-kwanza-norte/",
       "source": "Hold On Angola",
-      "_key": "c04b980cb622a01d"
+      "_key": "17464810d634f001"
     },
     {
-      "title": "Parlamento desmente tributação de zungueiras e trabalhadores informais no novo IRPS",
-      "url": "https://jornaloguardiao.com/2026/06/02/parlamento-desmente-tributacao-de-zungueiras-e-trabalhadores-informais-no-novo-irps/",
-      "source": "Jornal O Guardião",
-      "_key": "7031c6fbdecb7ee6"
+      "title": "Líder do Movimento TODOS leva activismo angolano às…",
+      "url": "https://holdonangola.com/lider-do-movimento-todos-leva-activismo-angolano-as-paginas-de-jornal-norte-americano/",
+      "source": "Hold On Angola",
+      "_key": "79087ac15d9b466f"
     },
     {
-      "title": "TAAG anuncia nova rota para Guangzhou e inicia operações para a China a 23 de Junho",
-      "url": "https://jornaloguardiao.com/2026/06/02/taag-anuncia-nova-rota-para-guangzhou-e-inicia-operacoes-para-a-china-a-23-de-junho/",
-      "source": "Jornal O Guardião",
-      "_key": "2175b931c48acadc"
+      "title": "Moçambique: Venâncio Mondlane formaliza candidatura…",
+      "url": "https://holdonangola.com/mocambique-venancio-mondlane-formaliza-candidatura-a-presidencia-do-anamola/",
+      "source": "Hold On Angola",
+      "_key": "af2dcbb785bd94b2"
     },
     {
-      "title": "Número de casos suspeitos de Ébola passa de 906 para 116 na RDCongo e Uganda – OMS",
-      "url": "https://jornaloguardiao.com/2026/06/02/numero-de-casos-suspeitos-de-ebola-passa-de-906-para-116-na-rdcongo-e-uganda-oms/",
-      "source": "Jornal O Guardião",
-      "_key": "a34e99294f1bcf43"
-    },
-    {
-      "title": "Trump destrata Netanyahu devido a ofensiva israelita no Líbano",
-      "url": "https://jornaloguardiao.com/2026/06/02/trump-destrata-netanyahu-devido-a-ofensiva-israelita-no-libano/",
-      "source": "Jornal O Guardião",
-      "_key": "b102934fc8927263"
-    },
-    {
-      "title": "Israel diz ter aval dos EUA para retaliar ataques do Hezbollah",
-      "url": "https://jornaloguardiao.com/2026/06/02/israel-diz-ter-aval-dos-eua-para-retaliar-ataques-do-hezbollah/",
-      "source": "Jornal O Guardião",
-      "_key": "b0a628bf4dc38446"
-    },
-    {
-      "title": " Parlamento desmente tributação de zungueiras e trabalhadores informais no novo IRPS ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f6804f78d1f38e"
-    },
-    {
-      "title": " TAAG anuncia nova rota para Guangzhou e inicia operações para a China a 23 de Junho ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_40d3ef0d8f4cc9"
-    },
-    {
-      "title": " Número de casos suspeitos de Ébola passa de 906 para 116 na RDCongo e Uganda – OMS ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_dff171b6d08d08"
-    },
-    {
-      "title": " Trump destrata Netanyahu devido a ofensiva israelita no Líbano ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_e57fd692116d2b"
-    },
-    {
-      "title": " Israel diz ter aval dos EUA para retaliar ataques do Hezbollah ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_7dc29e2ed96127"
-    },
-    {
-      "title": "Destaque Hospital dos Queimados começa atender pacientes em Julho O Chefe de Estado, João Lourenço, constatou, hoje, o grau de execução das obras do futuro Hospital dos Queimados, em construção na Centralidade do Kilamba, em Luanda, cuja entrada em funcionamento está agendada para Julho deste ano.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677558/hospital-dos-queimados-come%C3%A7a-atender-pacientes-em-julho-",
+      "title": "Novo Hospital dos Queimados vai ser inaugurado em JulhoO novo Hospital dos Queimados do país, em construção na centralidade do Kilamba, em Luanda, vai tratar dos casos mais complexos de queimaduras e patologias associadas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677571/novo-hospital-dos-queimados--vai-ser-inaugurado-em-julho",
       "source": "Jornal de Angola",
-      "_key": "fa3791691a22c600"
+      "_key": "bc68457e31cf900e"
     },
     {
-      "title": "Destaque Téte António entre as entidades recebidas pelo Presidente da República da CoreiaO ministro das Relações Exteriores, Téte António, esteve entre as entidades recebidas, esta terça-feira, pelo Presidente da República da Coreia, Lee Jae-myung, no Blue House, em Seul.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677562/t%C3%A9te-ant%C3%B3nio-entre-as-entidades-recebidas-pelo-presidente-da-rep%C3%BAblica-da-coreia",
+      "title": "Destaque Serviço de cardiologia no Cunene evita longas deslocações de pacientesOs pacientes da província do Cunene com problemas cardiovasculares já não vão precisar de se deslocar-se para as províncias vizinhas ou mesmo para a Namíbia em busca de atendimento especializado, devido à entrada em funcionamento do serviço de Cardilogia no Hospital Geral Simione Cunene. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/677570/servi%C3%A7o-de-cardiologia-no-cunene-evita-longas-desloca%C3%A7%C3%B5es-de-pacientes",
       "source": "Jornal de Angola",
-      "_key": "2ffb0bf2b6c7a91c"
+      "_key": "e217a1e19df9b172"
     },
     {
-      "title": "Destaque Potencialidades do Corredor do Lobito apresentadas na PolóniaAs potencialidades e oportunidade de negócios do Corredor do Lobito foram apresentadas, esta terça-feira, em Gdynia, pelo embaixador Extraordinário e Plenipotenciário de Angola naquele país, Manuel Chaves.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677560/potencialidades-do-corredor-do-lobito-apresentadas-na-pol%C3%B3nia",
+      "title": "Destaque José de Lima Massano empossa administrador não executivo do BNA O ministro de Estado para Coordenação Económica, José de Lima Massano, conferiu, esta terça.feira, posse ao novo administrador não executivo do Banco Nacional de Angola (BNA), Gilberto Caliatu.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677567/jos%C3%A9-de-lima-massano-empossa-administrador-n%C3%A3o-executivo-do-bna-",
       "source": "Jornal de Angola",
-      "_key": "af0511e561accdc1"
+      "_key": "2fdb4760c290e2f5"
     },
     {
-      "title": "Política Angola convidada participar na maior conferência de energia e minas de África ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677561/angola-convidada-participar-na-maior-confer%C3%AAncia-de-energia-e-minas-de-%C3%A1frica-",
+      "title": "Destaque SIC detém três mulheres acusadas de homicídio de crianças no HuamboO Serviço de Investigação Criminal (SIC) deteve, nos dias 28 e 31 de Maio, três cidadãs angolanas, com idades entre os 20 e os 36 anos, acusadas de homicídio de três crianças. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/677609/sic-det%C3%A9m-tr%C3%AAs-mulheres-acusadas-de-homic%C3%ADdio-de-crian%C3%A7as-no-huambo",
       "source": "Jornal de Angola",
-      "_key": "01b1059f34038631"
+      "_key": "b1b4a9a2f33336d5"
     },
     {
-      "title": "Sociedade Autoridades asseguram que cólera em Luanda está sob controlo ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677559/autoridades-asseguram-que-c%C3%B3lera-em-luanda-est%C3%A1-sob-controlo",
+      "title": "Destaque Téte António no Vietnam para fortalecimento dos laços de cooperação O ministro das Relações Exteriores, Téte António, chegou esta quarta-feira, a Hanoi, República Socialista do Vietnam, para uma visita oficial de 48 hora, no âmbito do reforço de amizade e de cooperação entre os dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677598/t%C3%A9te-ant%C3%B3nio-no-vietnam-para-fortalecimento-dos-la%C3%A7os-de-coopera%C3%A7%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "f627ae7a5f4cc7c3"
+      "_key": "9948e26e5845dd45"
     },
     {
-      "title": "Automobilistas queixam-se de estarem a ser multados...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/automobilistas-queixam-se-de-estarem-a-ser-multados-por-passarem-com-sinal-amarelo-nos-semaforos-policia-de-transito-diz-que-medida-e-legal-72246.html",
+      "title": "Regiões Detida no Namibe cidadã acusada de queimas mãos da filha ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/677637/detida-no-namibe-cidad%C3%A3-acusada-de-queimas-m%C3%A3os-da-filha",
+      "source": "Jornal de Angola",
+      "_key": "2d371e961d594cd3"
+    },
+    {
+      "title": "Mundo Incêndio em restaurante em Nova Deli faz 20 mortos ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/677636/inc%C3%AAndio-em-restaurante-em-nova-deli-faz-20-mortos",
+      "source": "Jornal de Angola",
+      "_key": "fe8a5e57a9a20801"
+    },
+    {
+      "title": "Sociedade Rádio Nacional de Angola já emite nos novos estúdios ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677583/r%C3%A1dio-nacional-de-angola--j%C3%A1-emite-nos-novos-est%C3%BAdios",
+      "source": "Jornal de Angola",
+      "_key": "e3dbfd19a51b684a"
+    },
+    {
+      "title": "Política Mais de 600 amostras biológicas recolhidas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677576/mais-de-600-amostras-biol%C3%B3gicas-recolhidas",
+      "source": "Jornal de Angola",
+      "_key": "6bc8a70a46d4f50c"
+    },
+    {
+      "title": "Política Téte António recebido pelo Presidente Lee Jae-myung ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677574/t%C3%A9te-ant%C3%B3nio-recebido-pelo-presidente-lee-jae-myung",
+      "source": "Jornal de Angola",
+      "_key": "b51588d2d52906ac"
+    },
+    {
+      "title": "Política Angola e Portugal querem reforçar relações em matéria de Economia Azul e Educação ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677572/angola-e-portugal-querem-refor%C3%A7ar-rela%C3%A7%C3%B5es-em-mat%C3%A9ria-de-economia-azul-e-educa%C3%A7%C3%A3o--",
+      "source": "Jornal de Angola",
+      "_key": "bb068319a3671621"
+    },
+    {
+      "title": "Sociedade Incêndio destrói cerca uma tonelada de medicamentos no Hospital Municipal do Chitato ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677569/inc%C3%AAndio-destr%C3%B3i-cerca-uma-tonelada-de-medicamentos-no-hospital-municipal-do-chitato",
+      "source": "Jornal de Angola",
+      "_key": "b65eead30e7125c2"
+    },
+    {
+      "title": "Sociedade Enaltecida visita do Chefe de Estado ao Hospital dos Queimados ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677568/enaltecida-visita-do-chefe-de-estado-ao-hospital-dos-queimados",
+      "source": "Jornal de Angola",
+      "_key": "4eb983d8dbd9144b"
+    },
+    {
+      "title": "10:03 / 3 jun. 2026 Presidente João Lourenço felicita homólogo italiano ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677591/presidente-jo%C3%A3o-louren%C3%A7o-felicita-hom%C3%B3logo-italiano",
+      "source": "Jornal de Angola",
+      "_key": "96694c7e5260342e"
+    },
+    {
+      "title": "10:02 / 3 jun. 2026 Angola convidada a estar na Conferência sobre Minas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677589/angola-convidada-a-estar--na-confer%C3%AAncia-sobre-minas",
+      "source": "Jornal de Angola",
+      "_key": "29d6e360e63c88c1"
+    },
+    {
+      "title": "09:53 / 3 jun. 2026 China reafirma total apoio a projectos sociais no país ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677586/china-reafirma-total-apoio--a-projectos-sociais-no-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "b4200a3b26833e10"
+    },
+    {
+      "title": "Mundo03/06/2026Presidente do Senegal nomeia novo Governo",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/677618/presidente-do-senegal-nomeia-novo-governo",
+      "source": "Jornal de Angola",
+      "_key": "77f1a2a5baf19144"
+    },
+    {
+      "title": "Mundo03/06/2026William Ruto defende local de quarentena para o Ébola",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/677617/william-ruto-defende-local--de-quarentena-para-o-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "c13e74b4c9f7664b"
+    },
+    {
+      "title": "03/06/2026Presidente moçambicano manda publicar novas leis",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/677614/presidente-mo%C3%A7ambicano-manda-publicar-novas-leis",
+      "source": "Jornal de Angola",
+      "_key": "be70807c0e4ee9e3"
+    },
+    {
+      "title": "Líder da UNITA defende reforço da Frente Patriótica...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/lider-da-unita-defende-reforco-da-frente-patriotica-unida-para-alternativa-politica-mais-solida-72263.html",
       "source": "Novo Jornal",
-      "_key": "f2aa50d137be5f00"
+      "_key": "bcf519ea8a1f8819"
     },
     {
-      "title": "BNA recomenda aos bancos que adoptem gestão de capital...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-recomenda-aos-bancos-que-adoptem-gestao-de-capital-e-de-liquidez-prudentes-devido-ao-aumento-do-nivel-de-exposicao-do-sector-bancario-ao-estado-72243.html",
+      "title": "MPLA realiza IV Jornadas Parlamentares no Soyo para...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/mpla-realiza-iv-jornadas-parlamentares-no-soyo-para-analisar-situacao-socioeconomica-do-pais---contrabando-de-combustiveis-na-agenda-72262.html",
       "source": "Novo Jornal",
-      "_key": "883756292234aa82"
+      "_key": "de2aecb2f0bfac57"
     },
     {
-      "title": "TAAG começa a voar para Guangzhou a 23 com quatro voos...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/taag-comeca-a-voar-para-guangzhou-a-23-com-quatro-voos-mensais-volume-de-negocios-entre-angola-e-china-fixou-se-em-mais-de-20-mil-milhoes-usd-em-2025-72240.html",
+      "title": "Presidente do TS lamenta falta de verbas para melhorar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/presidente-do-ts-lamenta-falta-de-verbas-para-melhorar-a-justica-72264.html",
       "source": "Novo Jornal",
-      "_key": "a4eacfe4045b5477"
+      "_key": "52092ab276bf05f6"
     },
     {
-      "title": "Ébola: Protestos violentos no Quénia contra criação...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-protestos-violentos-no-quenia-contra-criacao-de-centro-de-quarentena-para-norte-americanos-em-base-militar-virus-soma-e-segue-no-leste-congoles-72245.html",
+      "title": "Huambo: Uma avó matou a neta sem saber porquê, uma...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/huambo-uma-avo-matou-a-neta-sem-saber-porque-uma-mae-afogou-a-filha-para-reaver-ex-marido-e-outra-matou-a-filha-para-poder-sair-a-noite-72267.html",
       "source": "Novo Jornal",
-      "_key": "88db9df5033651a3"
+      "_key": "29ec446a4a115370"
     },
     {
-      "title": "Jovem morre electrocutado após tentativa de vandalização de um posto de transformação",
-      "url": "https://www.opais.ao/ultimas_hora/jovem-morre-electrocutado-apos-tentativa-de-vandalizacao-de-um-posto-de-transformacao/",
-      "source": "O País",
-      "_key": "09d0a9cd765787db"
+      "title": "Bengo: PN \"limpa\" oito áreas de garimpo ilegal, detém...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bengo-pn-limpa-oito-areas-de-garimpo-ilegal-detem-331-cidadaos-e-promete-fiscalizacao-permanente-72257.html",
+      "source": "Novo Jornal",
+      "_key": "fd042a310e666a81"
     },
     {
-      "title": "Cidadão de 51 anos de idade morre vítima de afogamento no rio Mawezi",
-      "url": "https://www.opais.ao/ultimas_hora/cidadao-de-51-anos-de-idade-morre-vitima-de-afogamento-no-rio-mawezi/",
-      "source": "O País",
-      "_key": "1968fa08f870d57e"
+      "title": "Médio Oriente: Noite intensa de ataques e contra-ataques...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-noite-intensa-de-ataques-e-contra-ataques-entre-eua-e-irao-negociacoes-de-paz-estao-a-ser-derretidas-com-misseis-e-drones-72261.html",
+      "source": "Novo Jornal",
+      "_key": "77021c7fc06eee46"
     },
     {
-      "title": "Mãe detida por queimar as mãos da filha de 5 anos com ferro de engomar",
-      "url": "https://www.opais.ao/ultimas_hora/mae-detida-por-queimar-as-maos-da-filha-de-5-anos-com-ferro-de-engomar/",
-      "source": "O País",
-      "_key": "80f16ca65a5fd4cb"
+      "title": "Rússia/Ucrânia: Kiev lança ousado ataque em São Petersburgo...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/russiaucrania-kiev-lanca-ousado-ataque-em-sao-petersburgo-para-baralhar-agenda-de-vladimir-putin-comeco-do-davos-russo-manchado-pelo-fumo-dos-ataques-ucranianos-72252.html",
+      "source": "Novo Jornal",
+      "_key": "228bbff9f42c08a9"
     },
     {
-      "title": "SIC detém cidadão por engravidar menor de 12 anos no Bié",
-      "url": "https://www.opais.ao/ultimas_hora/sic-detem-cidadao-por-engravidar-menor-de-12-anos-no-bie/",
-      "source": "O País",
-      "_key": "0de4a270a5cc3f90"
+      "title": "O lado legítimo do garimpo que a miséria não cala",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-lado-legitimo-do-garimpo-que-a-miseria-nao-cala-72253.html",
+      "source": "Novo Jornal",
+      "_key": "39e14408ca906e8a"
     },
     {
-      "title": "TAAG inicia voos entre Luanda e Guangzhou no dia 23 deste mês",
-      "url": "https://www.opais.ao/economia/taag-inicia-voos-entre-luanda-e-guangzhou-no-dia-23-deste-mes/",
-      "source": "O País",
-      "_key": "6cd7a46ae37031f0"
+      "title": "CONVERSA ABERTA COM FREDERICO BRITO. Representante Adjunto Interino da UNICEF.",
+      "url": "https://marginal.co.ao/programas/conversa-aberta?ep=72265",
+      "source": "Novo Jornal",
+      "_key": "99e22fb8dd09e239"
     },
     {
-      "title": "Falta de combustível obriga automobilistas a pernoitar nos postos de abastecimento",
-      "url": "https://www.opais.ao/ultimas_hora/falta-de-combustivel-obriga-automobilistas-a-pernoitar-nos-postos-de-abastecimento/",
-      "source": "O País",
-      "_key": "d20a59ccf0838932"
+      "title": "JOGGING MARGINAL: DOENÇAS SAZONAIS.  ",
+      "url": "https://marginal.co.ao/programas/jogging-marginal?ep=72250",
+      "source": "Novo Jornal",
+      "_key": "8b7526abf08a1996"
     },
     {
-      "title": "Governador do Zaire acompanha avanço das obras da estrada Nzeto–Quindege",
-      "url": "https://www.opais.ao/sociedade/governador-do-zaire-acompanha-avanco-das-obras-da-estrada-nzeto-quindege/",
-      "source": "O País",
-      "_key": "72e5868dcf81ce12"
-    },
-    {
-      "title": "Ministro Téte António destaca papel estratégico da Embaixada de Angola na Coreia do Sul",
-      "url": "https://www.opais.ao/politica/https-www-opais-ao-politica-ministro-tete-antonio-destaca-papel-estrategico-da-embaixada-de-angola-na-coreia-do-sul/",
-      "source": "O País",
-      "_key": "6c4a57f907292b18"
-    },
-    {
-      "title": "Restos mortais de Dom Zacarias Kamwenho chegam amanhã ao Lubango",
-      "url": "https://www.opais.ao/ultimas_hora/restos-mortais-de-dom-zacarias-kamwenho-chegam-amanha-ao-lubango/",
-      "source": "O País",
-      "_key": "853eab105b307082"
-    },
-    {
-      "title": "Banco Sol expande operações internacionais com nova conta de correspondência",
-      "url": "https://www.opais.ao/economia/banco-sol-expande-operacoes-internacionais-com-nova-conta-de-correspondencia/",
-      "source": "O País",
-      "_key": "08387f0d395fdb1b"
-    },
-    {
-      "title": "Vitória no Parlamento Infantil enche de orgulho Administração Municipal de Cabiri",
-      "url": "https://www.opais.ao/sociedade/vitoria-no-parlamento-infantil-enche-de-orgulho-administracao-municipal-de-cabiri/",
-      "source": "O País",
-      "_key": "ab787b548581cb1e"
-    },
-    {
-      "title": "Fábrica de tomate tem ‘stock’ mas faltam clientes, garante Grupo...",
-      "url": "https://valoreconomico.co.ao/artigo/fabrica-de-tomate-tem-stock-mas-faltam-clientes-garante-grupo-aderito-areias",
+      "title": "Produtores e distribuidores alertam para risco de escassez e subida...",
+      "url": "https://valoreconomico.co.ao/artigo/produtores-e-distribuidores-alertam-para-risco-de-escassez-e-subida-de-precos",
       "source": "Valor Económico",
-      "_key": "8c5a72700b513596"
+      "_key": "b702c3046e29bf53"
     },
     {
-      "title": "Angola recorre a Pequim para acelerar repovoamento de carapau na...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-recorre-a-pequim-para-acelerar-repovoamento-de-carapau-na-costa-nacional",
+      "title": "Angola responde com silêncio à abertura do mercado chinês às...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-responde-com-silencio-a-abertura-do-mercado-chines-as-exportacoes",
       "source": "Valor Económico",
-      "_key": "e8523ac3711a0b68"
+      "_key": "53d92cdd64012aeb"
     },
     {
-      "title": "Factura da luz vai ditar custo do lixo: João Lourenço...",
-      "url": "https://valoreconomico.co.ao/artigo/factura-da-luz-vai-ditar-custo-do-lixo-joao-lourenco-aprova-taxa-de-10-para-luanda",
+      "title": "Quase mil empresas encerraram actividades em cinco anos",
+      "url": "https://valoreconomico.co.ao/artigo/quase-mil-empresas-encerraram-actividades-em-cinco-anos",
       "source": "Valor Económico",
-      "_key": "f46b0cc945205404"
+      "_key": "9f557282ee9eb5de"
     },
     {
-      "title": "Nova Rota da TAAG para a China Quer Transformar Aeroporto...",
-      "url": "https://valoreconomico.co.ao/artigo/nova-rota-da-taag-para-a-china-quer-transformar-aeroporto-de-luanda-em-hub-regional",
+      "title": "Emirates perde 90% dos passageiros e cai para a última...",
+      "url": "https://valoreconomico.co.ao/artigo/emirates-perde-90-dos-passageiros-e-cai-para-a-ultima-posicao-entre-companhias-internacionais",
       "source": "Valor Económico",
-      "_key": "d429eb1a052f4ad0"
+      "_key": "375cf1e34d321a50"
+    },
+    {
+      "title": "Burocracias na Sonangol atrasam descarga de petroleiros e causam escassez...",
+      "url": "https://valoreconomico.co.ao/artigo/burocracias-na-sonangol-atrasam-descarga-de-petroleiros-e-causam-escassez-de-combustivel-14282",
+      "source": "Valor Económico",
+      "_key": "699a3e5aaad86334"
+    },
+    {
+      "title": "Índia ocupa 23ª posição na lista dos países com reservas...",
+      "url": "https://valoreconomico.co.ao/artigo/india-ocupa-23-posicao-na-lista-dos-paises-com-reservas-comprovadas-e-figura-se-entre-os-maiores-compradores-do-crude-angolano",
+      "source": "Valor Económico",
+      "_key": "e17c365b67ef7b80"
+    },
+    {
+      "title": "FALTA ABRIR O ESTADO",
+      "url": "https://valoreconomico.co.ao/artigo/falta-abrir-o-estado",
+      "source": "Valor Económico",
+      "_key": "2ad53921a9676d9a"
+    },
+    {
+      "title": "“A banca angolana vai ter que viver das PME, criar condições, linhas...",
+      "url": "https://valoreconomico.co.ao/artigo/a-banca-angolana-vai-ter-que-viver-das-pme-criar-condicoes-linhas-de-credito-importadas-e-garantidas-14280",
+      "source": "Valor Económico",
+      "_key": "a0f445e983c5d6f9"
+    },
+    {
+      "title": "Download PDF",
+      "url": "https://valoreconomico.co.ao/uploads/files/2026/06/jornal-valor-economico-597-edicao-510.pdf",
+      "source": "Valor Económico",
+      "_key": "dd7e4496e9556ae1"
     }
   ]
 }
