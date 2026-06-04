@@ -1,208 +1,144 @@
 {
   "date": "2026-06-04",
-  "total_new": 86,
-  "total_filtered": 25,
+  "total_new": 56,
+  "total_filtered": 17,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Barril de petróleo Brent abre comercialização acima dos 95 dólares",
-      "url": "https://correiokianda.info/barril-de-petroleo-brent-abre-comercializacao-acima-dos-95-dolares/",
-      "source": "Correio Kianda",
-      "_key": "f616a2a117c238f9",
+      "title": "Banco Central chinês promove yuan digital como alternativa ao SWIFT no espaço lusófono",
+      "url": "https://forbesafricalusofona.com/banco-central-chines-promove-yuan-digital-como-alternativa-ao-swift-no-espaco-lusofono/",
+      "source": "Forbes África",
+      "_key": "c9841984f7ffc8e5",
       "score": 10,
-      "title_cn": "布伦特原油开盘价突破95美元"
+      "title_cn": "中国央行在葡语区推广数字人民币，替代SWIFT。"
     },
     {
-      "title": "Petróleo abre em baixa após cessar-fogo entre Israel e Líbano aliviar receios sobre Ormuz",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-abre-em-baixa-apos-cessar-fogo-entre-israel-e-libano-aliviar-receios-sobre-ormuz-72285.html",
-      "source": "Expansão",
-      "_key": "32939430ffcfbfd7",
-      "score": 10,
-      "title_cn": "以色列与黎巴嫩停火，缓解霍尔木兹海峡担忧，油价低开"
-    },
-    {
-      "title": "Transportes e banca alinham estratégia para financiar projectos estruturantes de 10 mil milhões de dólares",
-      "url": "https://correiokianda.info/transportes-e-banca-alinham-estrategia-para-financiar-projectos-estruturantes-de-10-mil-milhoes-de-dolares/",
+      "title": "Barril de petróleo arranca sessão de venda a 97,26 dólares",
+      "url": "https://correiokianda.info/barril-de-petroleo-arranca-sessao-de-venda-a-9726-dolares/",
       "source": "Correio Kianda",
-      "_key": "aa673bdda2df62a8",
+      "_key": "bf3e3c05a19fae30",
       "score": 9,
-      "title_cn": "交通与银行界制定战略，为100亿美元基建项目融资"
+      "title_cn": "国际油价开盘报每桶97.26美元。"
     },
     {
-      "title": "Produtores aplaudem imposição de quotas, mas especialistas receiam",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0b937299a9a0bd",
+      "title": "Proposta do novo Código do Imposto sobre o Rendimento das Pessoas Singulares aprovada na especialidade",
+      "url": "https://correiokianda.info/proposta-do-novo-codigo-do-imposto-sobre-o-rendimento-das-pessoas-singulares-aprovada-na-especialidade/",
+      "source": "Correio Kianda",
+      "_key": "4e27f1f1744d92cb",
       "score": 8,
-      "title_cn": "生产者欢迎配额制，但专家表示担忧"
+      "title_cn": "新个人所得税法案获专项批准。"
+    },
+    {
+      "title": "EUA querem taxar Angola e outros 58 países por falha no combate ao trabalho forçado",
+      "url": "https://angola24horas.com/politica/item/34449-eua-querem-taxar-angola-e-outros-58-paises-por-falha-no-combate-ao-trabalho-forcado",
+      "source": "Angola 24 Horas",
+      "_key": "bfb1898993345853",
+      "score": 7,
+      "title_cn": "美拟对安哥拉等59国征税，因打击强迫劳动不力。"
+    },
+    {
+      "title": "Empresários pedem reforço da cadeia produtiva para reduzir dependência das importações",
+      "url": "https://correiokianda.info/empresarios-pedem-reforco-da-cadeia-produtiva-para-reduzir-dependencia-das-importacoes/",
+      "source": "Correio Kianda",
+      "_key": "41a9ce89ca9d9d43",
+      "score": 7,
+      "title_cn": "企业家呼吁加强产业链，减少进口依赖。"
+    },
+    {
+      "title": "AGT suspende NIF de mais de 5 mil empresas na província da Lunda-Norte",
+      "url": "https://correiokianda.info/agt-suspende-nif-de-mais-de-5-mil-empresas-na-provincia-da-lunda-norte/",
+      "source": "Correio Kianda",
+      "_key": "b61057be6f1b2433",
+      "score": 7,
+      "title_cn": "安哥拉税务总局暂停隆达北省5000余家企业税号。"
+    },
+    {
+      "title": "Cólera faz 900 mortos nos últimos meses",
+      "url": "https://correiokianda.info/colera-faz-900-mortos-nos-ultimos-meses/",
+      "source": "Correio Kianda",
+      "_key": "a1f6948e7038a643",
+      "score": 7,
+      "title_cn": "近数月霍乱已致900人死亡。"
+    },
+    {
+      "title": "Destaque Nova ponte sobre Rio Lifune fica pronta em três mesesA nova ponte sobre o Rio Lifune, que liga os municípios do Dande e Nambuangongo, na província do Bengo, ficará concluída nos próximos três meses.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677724/nova-ponte-sobre-rio-lifune-fica-pronta-em-tr%C3%AAs-meses",
+      "source": "Jornal de Angola",
+      "_key": "da3831db509c05a3",
+      "score": 7,
+      "title_cn": "本戈省利富内河新桥预计三月内竣工。"
+    },
+    {
+      "title": "Assassinava motoqueiros para lhes roubar as motorizadas-...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/assassinava-motoqueiros-para-lhes-roubar-as-motorizadas--sic-deteve-cabecilha-de-quadrilha-que-actuava-no-bie-e-huambo-72297.html",
+      "source": "Novo Jornal",
+      "_key": "5b523068e9a690e8",
+      "score": 7,
+      "title_cn": "杀害摩托车手以抢夺摩托车。"
     },
     {
       "title": "Economic performance dominates meeting between Economic Team and Business Technical Group",
-      "url": "https://www.angop.ao/en/noticias/economia/desempenho-da-economia-nacional-domina-reuniao-entre-equipa-economica-e-grupo-tecnico-empresarial/",
+      "url": "https://www.angop.ao/en/noticias/economia/desempenho-da-economia-nacional-e-objecto-de-analise/",
       "source": "ANGOP",
-      "_key": "9ef10be4e49084a7",
-      "score": 7,
-      "title_cn": "经济团队与商业技术小组会议聚焦经济表现"
+      "_key": "f3c8135404a8c804",
+      "score": 6,
+      "title_cn": "经济团队与商业技术小组会议聚焦经济表现。"
     },
     {
-      "title": "New central bank administrator with focus on overseeing financial system",
-      "url": "https://www.angop.ao/en/noticias/economia/novo-administrador-do-bna-aponta-continua-fiscalizacao-do-sistema-financeiro/",
-      "source": "ANGOP",
-      "_key": "c96992f23b592582",
-      "score": 7,
-      "title_cn": "新任央行管理者将重点监督金融体系"
-    },
-    {
-      "title": "Angolan journalists visit technology companies in China",
-      "url": "https://www.angop.ao/en/noticias/sociedade/jornalistas-angolanos-em-formacao-na-china/",
-      "source": "ANGOP",
-      "_key": "7e65ac0da0fad6bf",
-      "score": 7,
-      "title_cn": "安哥拉记者团访问中国科技企业"
-    },
-    {
-      "title": "Empresários pedem simplificação de regras para uso do kwanza na SADC",
-      "url": "https://correiokianda.info/empresarios-pedem-simplificacao-de-regras-para-uso-do-kwanza-na-sadc/",
+      "title": "Presidente da República autoriza crédito de 31,9 mil milhões de kwanzas para pequenas e médias empresas",
+      "url": "https://correiokianda.info/presidente-da-republica-autoriza-credito-de-319-mil-milhoes-de-kwanzas-para-pequenas-e-medias-empresas/",
       "source": "Correio Kianda",
-      "_key": "739968d74b18b9ce",
-      "score": 7,
-      "title_cn": "企业家呼吁简化南部非洲发展共同体（SADC）宽扎使用规则"
+      "_key": "e8aee6f0b6403274",
+      "score": 6,
+      "title_cn": "总统批准向中小企业提供319亿宽扎信贷。"
     },
     {
-      "title": "Executivo fixa juros máximos do BDA no agro-pecuário em 7,5% para investimento e 10% para capital circulante",
-      "url": "https://diariodosnegocios.com/executivo-fixa-juros-maximos-do-bda-no-agro-pecuario-em-75-para-investimento-e-10-para-capital-circulante/",
-      "source": "Diário dos Negócios",
-      "_key": "3c9d16c4b8a2829e",
-      "score": 7,
-      "title_cn": "行政长官将 BDA 的最高利率设定为投资 7.5% ， 营运资本 10%"
+      "title": "Destaque MINTTICS abre concurso para startups com aplicação de tecnologias espaciais O Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS), através do Gabinete de Gestão do Programa Espacial Nacional (GGPEN), em parceria com a Airbus e a Aerospace Valley, procedeu à abertura da chamada para a “Trilha 2 Startups Espaciais” do Hackathon ANGOTIC 2026. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677713/minttics-abre-concurso-para-startups-com-aplica%C3%A7%C3%A3o-de-tecnologias-espaciais-",
+      "source": "Jornal de Angola",
+      "_key": "b05069ffacd43d3d",
+      "score": 6,
+      "title_cn": "安哥拉通信部为空间技术初创企业举办竞赛。"
     },
     {
-      "title": " Executivo fixa juros máximos do BDA no agro-pecuário em 7,5% para investimento e 10% para capital circulante ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_9b2efecefb5901",
-      "score": 7,
-      "title_cn": "安哥拉政府设定BDA农牧业贷款最高利率：投资7.5%，流动资金10%"
+      "title": "Sociedade Requalificação da Nova Marginal do Benfica já em marcha ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677736/requalifica%C3%A7%C3%A3o-da-nova-marginal-do-benfica-j%C3%A1-em-marcha-",
+      "source": "Jornal de Angola",
+      "_key": "5a1619db5f968249",
+      "score": 6,
+      "title_cn": "本菲卡新滨海大道改造工程启动。"
     },
     {
-      "title": "O EXPLICADOR FISCAL: Facturação electrónica",
-      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-facturacao-electronica-72279.html",
-      "source": "Expansão",
-      "_key": "65d2166b5f6a40fc",
-      "score": 7,
-      "title_cn": "税务解读：电子发票"
+      "title": "Sociedade Angola e Itália debatem sobre Combate ao Crime Financeiro ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/677728/angola-e-it%C3%A1lia-debatem-sobre-combate-ao-crime-financeiro-",
+      "source": "Jornal de Angola",
+      "_key": "c4207392a6cbb9eb",
+      "score": 6,
+      "title_cn": "安哥拉与意大利探讨打击金融犯罪。"
     },
     {
-      "title": "Prémios de concessões rendem 380 milhões USD ao Governo angolano",
-      "url": "https://forbesafricalusofona.com/premios-de-concessoes-rendem-380-milhoes-usd-ao-governo-angolano/",
-      "source": "Forbes África",
-      "_key": "2240d67199632f5a",
-      "score": 7,
-      "title_cn": "特许经营费为安哥拉政府带来3.8亿美元收入"
-    },
-    {
-      "title": "A Febre do Ouro",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-febre-do-ouro-72256.html",
+      "title": "Tribunal português dá razão a Isabel dos Santos no...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tribunal-da-relacao-de-lisboa-da-razao-a-isabel-dos-santos-e-afasta-acusacoes-de-fraude-no-caso-efacec-72295.html",
       "source": "Novo Jornal",
-      "_key": "dcbe18c4450d860f",
-      "score": 7,
-      "title_cn": "淘金热"
-    },
-    {
-      "title": "Para apoiar produção, Governo reduz taxas de juro do BDA...",
-      "url": "https://valoreconomico.co.ao/artigo/para-apoiar-producao-governo-reduz-taxas-de-juro-do-bda-para-quase-metade",
-      "source": "Valor Económico",
-      "_key": "7d56038998b2157c",
-      "score": 7,
-      "title_cn": "为支持生产，安哥拉政府下调BDA贷款利率"
-    },
-    {
-      "title": "Angola's Attorney General and UK strengthen cooperation for asset recovery",
-      "url": "https://www.angop.ao/en/noticias/politica/pgr-e-reino-unido-reforcam-cooperacao-para-recuperacao-de-activos/",
-      "source": "ANGOP",
-      "_key": "e21bffd9eaeb9bbf",
+      "_key": "8ec9c349998036b7",
       "score": 6,
-      "title_cn": "安哥拉总检察长与英国加强资产追回合作"
+      "title_cn": "葡萄牙法院裁定伊莎贝尔·多斯桑托斯（Isabel dos Santos）胜诉。"
     },
     {
-      "title": "Combate à corrupção",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=55806",
-      "source": "ANGOP",
-      "_key": "ed14fd04aca91f4b",
-      "score": 6,
-      "title_cn": "打击腐败"
+      "title": "Isabel dos Santos diz que tribunal confirma que compra da Efacec não foi financiada com fundos públicos",
+      "url": "https://angola24horas.com/component/k2/item/34452-isabel-dos-santos-diz-que-tribunal-confirma-que-compra-da-efacec-nao-foi-financiada-com-fundos-publicos",
+      "source": "Angola 24 Horas",
+      "_key": "d8deca9be1b66acf",
+      "score": 5,
+      "title_cn": "伊莎贝尔·多斯桑托斯（Isabel dos Santos）称法院证实Efacec收购未用公款。"
     },
     {
-      "title": "Oposição quer revisão do OGE face ao aumento das dificuldades económicas",
-      "url": "https://correiokianda.info/oposicao-quer-revisao-do-oge-face-ao-aumento-das-dificuldades-economicas/",
+      "title": "Desenvolvimento social e agricultura marcam audiência entre Presidente e Rainha Nhakatolo Tisengo",
+      "url": "https://correiokianda.info/desenvolvimento-social-e-agricultura-marcam-audiencia-entre-presidente-e-rainha-nhakatolo-tisengo/",
       "source": "Correio Kianda",
-      "_key": "04df89264a2b86f2",
-      "score": 6,
-      "title_cn": "面对经济困难加剧，反对派要求修订国家总预算"
-    },
-    {
-      "title": "UNITA critica crise social e pede orçamento rectificativo para 2026",
-      "url": "https://holdonangola.com/unita-critica-crise-social-e-pede-orcamento-rectificativo-para-2026/",
-      "source": "Hold On Angola",
-      "_key": "07055a42357d4495",
-      "score": 6,
-      "title_cn": "安盟（UNITA）批评社会危机，要求修订2026年预算"
-    },
-    {
-      "title": "Política Téte António visita maior empresa de telecomunicações do Vietnam ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677651/t%C3%A9te-ant%C3%B3nio-visita-maior-empresa-de-telecomunica%C3%A7%C3%B5es-do-vietnam",
-      "source": "Jornal de Angola",
-      "_key": "4d3a91bcfcc248f1",
-      "score": 6,
-      "title_cn": "政治：特特·安东尼奥（Téte António）访问越南最大电信公司"
-    },
-    {
-      "title": "Angola and Vietnam express interest in strengthen bilateral cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-vietname-reforcam-interesse-em-aprofundar-e-diversificar-cooperacao/",
-      "source": "ANGOP",
-      "_key": "627046bf9795f4c6",
+      "_key": "3b5e963ab64a0bc4",
       "score": 5,
-      "title_cn": "安哥拉与越南有意加强双边合作"
-    },
-    {
-      "title": "Foreign Minister begins official visit to Vietnam",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-das-relacoes-exteriores-inicia-visita-oficial-ao-vietname/",
-      "source": "ANGOP",
-      "_key": "9e7748455558b460",
-      "score": 5,
-      "title_cn": "外交部长开始对越南进行正式访问"
-    },
-    {
-      "title": "BAD destaca Angola por reforçar financiamento ao desenvolvimento em África",
-      "url": "https://forbesafricalusofona.com/bad-destaca-angola-por-reforcar-financiamento-ao-desenvolvimento-em-africa/",
-      "source": "Forbes África",
-      "_key": "83ba3c2e013ac823",
-      "score": 5,
-      "title_cn": "非洲开发银行（BAD）赞扬安哥拉加强非洲发展融资"
-    },
-    {
-      "title": "Comércio com a República da Coreia aumenta cinco vezes em quatro anos  O volume comercial entre Angola e a República da Coreia aumentou cinco vezes, comparado aos dados registados há quatro anos, fortalecendo, assim, o intercâmbio entre os dois países em vários domínios.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677655/com%C3%A9rcio-com-a-rep%C3%BAblica-da-coreia-aumenta-cinco-vezes-em-quatro-anos-",
-      "source": "Jornal de Angola",
-      "_key": "ddb755140600d148",
-      "score": 5,
-      "title_cn": "安哥拉与韩国四年内贸易额增长五倍"
-    },
-    {
-      "title": "Destaque Mensagem do Presidente João Lourenço entregue às autoridades vietnamitasUma mensagem do Chefe de Estado, João Lourenço, Lourenço, dirigida ao seu homólogo vietnamita, Tô Lâm, foi entregue, hoje, em Hanói, ao ministro dos Negócios Estrangeiros daquele país asiático, Lô Hoài Trung. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677689/mensagem-do-presidente-jo%C3%A3o-louren%C3%A7o-entregue-%C3%A0s-autoridades-vietnamitas",
-      "source": "Jornal de Angola",
-      "_key": "8f604e698d1127a4",
-      "score": 5,
-      "title_cn": "亮点：若昂·洛伦索（João Lourenço）总统致越南国家主席的信函已转交"
-    },
-    {
-      "title": "Política Executivo e Vietname querem alargar a cooperação política e económica ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677656/executivo-e-vietname-querem-alargar--a-coopera%C3%A7%C3%A3o-pol%C3%ADtica-e-econ%C3%B3mica",
-      "source": "Jornal de Angola",
-      "_key": "c842b0b8c3b42f86",
-      "score": 5,
-      "title_cn": "政治：安哥拉政府与越南寻求扩大政治经济合作"
+      "title_cn": "总统与纳卡托洛·蒂森戈（Nhakatolo Tisengo）女王会晤，聚焦社发与农业。"
     }
   ]
 }
