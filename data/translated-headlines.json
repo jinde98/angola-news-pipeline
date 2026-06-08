@@ -1,408 +1,272 @@
 {
   "date": "2026-06-08",
-  "total_new": 158,
-  "total_filtered": 50,
+  "total_new": 82,
+  "total_filtered": 33,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo: Barril \"explode\" com retoma da guerra no...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-explode-com-retoma-da-guerra-no-medio-oriente-72373.html",
-      "source": "Novo Jornal",
-      "_key": "cbf546f254f26232",
-      "score": 10,
-      "title_cn": "油价因战争重燃而飙升"
-    },
-    {
-      "title": "Da liquidez ao investimento: o papel da banca nacional na próxima fase da transformação dos transportes e logística em Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/677980/da-liquidez-ao-investimento:-o-papel-da-banca-nacional-na-pr%C3%B3xima-fase-da-transforma%C3%A7%C3%A3o-dos-transportes-e-log%C3%ADstica-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "21a69b944c10a854",
-      "score": 9,
-      "title_cn": "安哥拉：从流动性到投资，国家银行在交通物流转型中的作用"
-    },
-    {
-      "title": "Economia / Há 3 horas TotalEnergies e parceiros aceleram FPSO Kaminho ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677978/totalenergies-e-parceiros--aceleram-fpso-kaminho",
-      "source": "Jornal de Angola",
-      "_key": "80cb99d43064c731",
-      "score": 9,
-      "title_cn": "经济：道达尔能源及其合作伙伴加速Kaminho浮式生产储卸油船项目"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: A EMPRESA NUNCA PAGOU À INSTITUIÇÃO BANCÁRIA. MINFIN paga dívida da Angola Cables ao BDA para evitar incumprimento.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=72378",
-      "source": "Novo Jornal",
-      "_key": "7757255880c722a6",
-      "score": 9,
-      "title_cn": "财政部代安哥拉电缆公司向BDA偿债，避免违约"
-    },
-    {
-      "title": "Angola e China reforçam cooperação na formação de quadros",
-      "url": "https://www.opais.ao/politica/angola-e-china-reforcam-cooperacao-na-formacao-de-quadros/",
+      "title": "PCA do Porto do Lobito destaca sustentabilidade como estratégia para a competitividade das infra-estruturas portuárias",
+      "url": "https://www.opais.ao/economia/pca-do-porto-do-lobito-destaca-sustentabilidade-como-estrategia-para-a-competitividade-das-infra-estruturas-portuarias/",
       "source": "O País",
-      "_key": "5821d3f7d036e886",
+      "_key": "9eedbb33d8e56219",
       "score": 9,
-      "title_cn": "安哥拉与中国加强人才培养合作"
+      "title_cn": "洛比托港务局主席强调可持续性是港口基础设施竞争力的战略"
     },
     {
-      "title": "Angola recompra 700 milhões de dólares em Eurobonds e alivia pressão da dívida de curto prazo",
-      "url": "https://www.opais.ao/economia/angola-recompra-700-milhoes-de-dolares-em-eurobonds-e-alivia-pressao-da-divida-de-curto-prazo/",
-      "source": "O País",
-      "_key": "7d0f36107a76239a",
-      "score": 9,
-      "title_cn": "安哥拉回购7亿美元欧洲债券，缓解短期债务压力"
+      "title": "Each Angolan Now Owes USD 1,856: Public Debt Rises and Moves Back Toward 2022 Levels06/08/2026",
+      "url": "https://www.negociosdeangola.com/en/cada-angolano-ja-deve-1-856-usd-divida-publica-cresce-e-volta-a-aproximar-se-dos-niveis-de-2022/",
+      "source": "Negócios de Angola",
+      "_key": "5f97b51cd3c0f7bc",
+      "score": 8,
+      "title_cn": "安哥拉人均负债1856美元：公共债务回升至2022年水平"
     },
     {
-      "title": "AGT ameaça suspender NIF de contabilistas e despachantes incumpridores",
-      "url": "https://angola24horas.com/sociedade/item/34468-agt-ameaca-suspender-nif-de-contabilistas-e-despachantes-incumpridores",
+      "title": "“National production does not interest them, and we all know why they insist on imports”",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9853",
+      "source": "Negócios de Angola",
+      "_key": "3f95816bd6163f95",
+      "score": 8,
+      "title_cn": "“他们对国内生产不感兴趣，我们都知道他们为何坚持进口”"
+    },
+    {
+      "title": "Governadora prevê queda dos preços com conclusão da estrada Cuito Cuanavale-Mavinga",
+      "url": "https://correiokianda.info/governadora-preve-queda-dos-precos-com-conclusao-da-estrada-cuito-cuanavale-mavinga/",
+      "source": "Correio Kianda",
+      "_key": "e27d307caddf0634",
+      "score": 7,
+      "title_cn": "女省长预计奎托夸纳瓦莱-马文加公路竣工后物价将下跌"
+    },
+    {
+      "title": "Destaque Sector não petrolífero concentra 91% da renúncia fiscal em AngolaCerca de 91% da renúncia fiscal em Angola está concentrada no sector não petrolífero, com destaque para os benefícios concedidos à importação de bens alimentares e matérias-primas, bem como para as medidas de apoio à indústria transformadora.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678023/sector-n%C3%A3o-petrol%C3%ADfero-concentra-91%25-da-ren%C3%BAncia-fiscal-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "caab0ff308535f46",
+      "score": 7,
+      "title_cn": "安哥拉91%的税收减免集中在非石油部门"
+    },
+    {
+      "title": "Difficult Access to Credit in Angola Pushes Thousands of Angolans to Buy Homes in Portugal",
+      "url": "https://www.negociosdeangola.com/en/difficult-access-to-credit-in-angola-pushes-thousands-of-angolans-to-buy-homes-in-portugal/",
+      "source": "Negócios de Angola",
+      "_key": "fe64da8b91c25ebf",
+      "score": 7,
+      "title_cn": "安哥拉贷款难，数千安哥拉人赴葡萄牙购房"
+    },
+    {
+      "title": "Angolan banker Alvaro Sobrinho is back under scrutiny in Portugal over billions that vanished from BES Angola",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9877",
+      "source": "Negócios de Angola",
+      "_key": "38a7c62f36f1e8e6",
+      "score": 7,
+      "title_cn": "安哥拉银行家阿尔瓦罗·索布里尼奥(Alvaro Sobrinho)因安哥拉圣灵银行数十亿资金失踪案在葡萄牙再受审查"
+    },
+    {
+      "title": "PR aprova despesa de 10,3 milhões de dólares para obras...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-aprova-despesa-de-10-3-milhoes-de-dolares-para-obras-e-substituicao-de-mobiliario-obsoleto-na-aipex",
+      "source": "Valor Económico",
+      "_key": "7732f23351e6f35d",
+      "score": 7,
+      "title_cn": "总统批准1030万美元工程支出"
+    },
+    {
+      "title": "Angola and Serbia strengthen partnership with ten new agreements",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-servia-reforcam-parceria-com-dez-novos-acordos/",
+      "source": "ANGOP",
+      "_key": "ef526d362c2ea060",
+      "score": 6,
+      "title_cn": "安哥拉与塞尔维亚签署十项新协议，加强伙伴关系"
+    },
+    {
+      "title": "Angola perde 2,9 biliões de kwanzas em receitas fiscais devido a incentivos tributários",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34472-angola-perde-2-9-bilioes-de-kwanzas-em-receitas-fiscais-devido-a-incentivos-tributarios",
       "source": "Angola 24 Horas",
-      "_key": "02deee4e1dfa41cf",
-      "score": 8,
-      "title_cn": "税务总局威胁暂停不合规会计师和报关员的税务识别号"
+      "_key": "4dc3c31d45cf8c9c",
+      "score": 6,
+      "title_cn": "安哥拉因税收优惠损失2.9万亿宽扎税收"
     },
     {
-      "title": "Ministérios das Obras Públicas e da Defesa já gastaram 65% do orçamento",
+      "title": "AGT terá novo software de 552 mil euros para combater a evasão fiscal no âmbito do FATCA",
+      "url": "https://angola24horas.com/sociedade/item/34471-agt-tera-novo-software-de-552-mil-euros-para-combater-a-evasao-fiscal-no-ambito-do-fatca",
+      "source": "Angola 24 Horas",
+      "_key": "b126fb266803ffea",
+      "score": 6,
+      "title_cn": "安哥拉税务总局将斥资55.2万欧元购置新软件，打击FATCA框架下的逃税行为"
+    },
+    {
+      "title": "Tete António destaca reforço da cooperação económica como eixo central da visita de João Lourenço à Sérvia",
+      "url": "https://correiokianda.info/tete-antonio-destaca-reforco-da-cooperacao-economica-como-eixo-central-da-visita-de-joao-lourenco-a-servia/",
+      "source": "Correio Kianda",
+      "_key": "a3b5e7265a117f6d",
+      "score": 6,
+      "title_cn": "特特·安东尼奥(Tete António)强调加强经济合作是若昂·洛伦索(João Lourenço)访问塞尔维亚的核心"
+    },
+    {
+      "title": "ANGOTIC 2026 reúne mais de 100 empresas nacionais e estrangeiras",
+      "url": "https://correiokianda.info/angotic-2026-reune-mais-de-100-empresas-nacionais-e-estrangeiras/",
+      "source": "Correio Kianda",
+      "_key": "f7506a4ab3f3acbd",
+      "score": 6,
+      "title_cn": "2026年安哥拉信息技术展汇聚逾百家国内外企业"
+    },
+    {
+      "title": "“Crescimento económico não se reflecte na vida dos cidadãos”, alertam especialistas",
+      "url": "https://correiokianda.info/crescimento-economico-nao-se-reflecte-na-vida-dos-cidadaos-alertam-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "bdb789400b8a1cc2",
+      "score": 6,
+      "title_cn": "专家警告：“经济增长未体现在公民生活中”"
+    },
+    {
+      "title": "“Segurança alimentar passa pelo aumento da produção nacional”, diz secretário de Estado",
+      "url": "https://correiokianda.info/seguranca-alimentar-passa-pelo-aumento-da-producao-nacional-diz-secretario-de-estado/",
+      "source": "Correio Kianda",
+      "_key": "5d51a0c6fbede8b9",
+      "score": 6,
+      "title_cn": "国务秘书称：“粮食安全取决于提高国内产量”"
+    },
+    {
+      "title": "        Análise22 minutos atrás  Mega-refinarias e segurança energética: poderá a África Oriental reduzir a dependência dos combustíveis importados? Mega-Refinarias apoiada pelo magnata nigeriano Aliko Dangote acende disputa entre Quénia e Tanzânia Projecto poderá transformar o sector energético da África Oriental e reduzir a dependência...   ",
+      "url": "https://correiokianda.info/mega-refinarias-e-seguranca-energetica-podera-a-africa-oriental-reduzir-a-dependencia-dos-combustiveis-importados/",
+      "source": "Correio Kianda",
+      "_key": "d73b131f53d6d6ef",
+      "score": 6,
+      "title_cn": "大型炼油厂与能源安全：东非能否减少对进口燃料的依赖？"
+    },
+    {
+      "title": "Presidente João Lourenço inicia visita de Estado à Sérvia",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-inicia-visita-de-estado-a-servia/",
+      "source": "Diário dos Negócios",
+      "_key": "0df654c02ea921ab",
+      "score": 6,
+      "title_cn": "若昂·洛伦索总统开始对塞尔维亚进行国事访问"
+    },
+    {
+      "title": "PR autoriza 81,6 mil milhões Kz para limpeza e saneamento em Luanda",
+      "url": "https://diariodosnegocios.com/pr-autoriza-816-mil-milhoes-kz-para-limpeza-e-saneamento-em-luanda/",
+      "source": "Diário dos Negócios",
+      "_key": "29f63b29cbe47b07",
+      "score": 6,
+      "title_cn": "总统批准816亿宽扎用于罗安达清洁卫生项目"
+    },
+    {
+      "title": " Presidente João Lourenço inicia visita de Estado à Sérvia ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_48b93f69b2cad3",
-      "score": 8,
-      "title_cn": "公共工程部和国防部已支出65%预算"
+      "source": "Diário dos Negócios",
+      "_key": "t_1a1e567019a1da",
+      "score": 6,
+      "title_cn": "若昂·洛伦索总统开始对塞尔维亚进行国事访问"
     },
     {
-      "title": "Prioridade à dívida, Defesa e obras contrasta com fraca execução na Saúde e Educação",
+      "title": " PR autoriza 81,6 mil milhões Kz para limpeza e saneamento em Luanda ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_ccda282206f200",
-      "score": 8,
-      "title_cn": "优先考虑债务、国防和工程与卫生和教育合作薄弱形成对比"
+      "source": "Diário dos Negócios",
+      "_key": "t_c9a2b6d47f8411",
+      "score": 6,
+      "title_cn": "总统批准816亿宽扎用于罗安达清洁卫生项目"
     },
     {
-      "title": "'Caça' da AGT a profissionais liberais começa com multas e queixas",
-      "url": "https://expansao.co.ao/empresas/detalhe/caca-da-agt-a-profissionais-liberais-comeca-com-multas-e-queixas-72355.html",
-      "source": "Expansão",
-      "_key": "45b6c0b436a36d8d",
-      "score": 8,
-      "title_cn": "税务总局对自由职业者展开“追捕”，始于罚款和投诉"
-    },
-    {
-      "title": "Acess Bank e DHL lançam formação para capacitar investidores sobre facilidade na exportação",
-      "url": "https://www.opais.ao/economia/acess-bank-e-dhl-lancam-formacao-para-capacitar-investidores-sobre-facilidade-na-exportacao/",
-      "source": "O País",
-      "_key": "e2189c3e9597f345",
-      "score": 8,
-      "title_cn": "Acess银行与敦豪合作，培训投资者提升出口便利性"
-    },
-    {
-      "title": "Angola becomes the first country in the world to receive investment from the African Bank of Oman",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-torna-se-no-primeiro-pais-do-mundo-a-receber-investimento-do-african-bank-of-oman/",
-      "source": "ANGOP",
-      "_key": "0634a56081e06064",
-      "score": 7,
-      "title_cn": "安哥拉成为全球首个获得阿曼非洲银行投资的国家"
-    },
-    {
-      "title": "Nova lei para as SGPS abre novo rumo ao IGAPE",
-      "url": "https://expansao.co.ao/angola/detalhe/nova-lei-para-as-sgps-abre-novo-rumo-ao-igape-72357.html",
-      "source": "Expansão",
-      "_key": "e23846406b3001c5",
-      "score": 7,
-      "title_cn": "控股公司新法为公共资产管理研究所（IGAPE）开辟新方向"
-    },
-    {
-      "title": "Angola e Botswana disputam participação na De Beers",
-      "url": "https://forbesafricalusofona.com/angola-e-botswana-disputam-participacao-na-de-beers/",
-      "source": "Forbes África",
-      "_key": "7db79bf81ae693c4",
-      "score": 7,
-      "title_cn": "安哥拉与博茨瓦纳争夺戴比尔斯公司股份"
-    },
-    {
-      "title": "Tecnologia, energia e finanças no centro da agenda do Digital Summit Angola 2026",
-      "url": "https://forbesafricalusofona.com/tecnologia-energia-e-financas-no-centro-da-agenda-do-digital-summit-angola-2026/",
-      "source": "Forbes África",
-      "_key": "5000734040f78bef",
-      "score": 7,
-      "title_cn": "2026年安哥拉数字峰会将聚焦科技、能源和金融"
-    },
-    {
-      "title": "Destaque Angola aposta na diversificação económica com parceiros como SérviaO ministro das Relações Exteriores, Téte António, afirmou esta segunda-feira, em Belgrado, que Angola conta quer contar com a cooperação da Sérvia no processo de diversificação economia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678005/angola-aposta-na-diversifica%C3%A7%C3%A3o-econ%C3%B3mica-com-parceiros-como-s%C3%A9rvia",
+      "title": "Destaque Presidente da República já na SérviaPresidente João Lourenço já se encontra na cidade de Belgrado, capital da Sérvia, onde cumprirá uma visita oficial de 72 horas, destinada ao reforço da cooperação bilateral.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678027/presidente-da-rep%C3%BAblica-j%C3%A1-na-s%C3%A9rvia",
       "source": "Jornal de Angola",
-      "_key": "eb109078f103a60f",
-      "score": 7,
-      "title_cn": "安哥拉与塞尔维亚等伙伴合作，推动经济多元化"
-    },
-    {
-      "title": "Executivo reforça estratégia de produção em grande escalaO secretário de Estado para Agricultura, Castro Camarada, disse domingo, em Luanda, que o Governo está a desenvolver esforços significativos para impulsionar a produção alimentar em grande escala no país, envolvendo tanto o sector público quanto o privado, nacional e estrangeiro.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677964/executivo-refor%C3%A7a-estrat%C3%A9gia--de-produ%C3%A7%C3%A3o-em-grande-escala",
-      "source": "Jornal de Angola",
-      "_key": "ff12f99f200257f4",
-      "score": 7,
-      "title_cn": "安哥拉政府加强大规模生产战略"
-    },
-    {
-      "title": "PROPRIV e o cidadão: o que as privatizações significam para si?",
-      "url": "https://www.opais.ao/opiniao/propriv-e-o-cidadao-o-que-as-privatizacoes-significam-para-si/",
-      "source": "O País",
-      "_key": "e580f4129ea7ef59",
-      "score": 7,
-      "title_cn": "私有化计划（PROPRIV）与公民：私有化对您意味着什么？"
-    },
-    {
-      "title": "Presidente da República autoriza empréstimo de 30 milhões de euros para apoiar empresas nacionais",
-      "url": "https://www.opais.ao/economia/presidente-da-republica-autoriza-emprestimo-de-30-milhoes-de-euros-para-apoiar-empresas-nacionais/",
-      "source": "O País",
-      "_key": "54aa160b54a71ab3",
-      "score": 7,
-      "title_cn": "总统批准3000万欧元贷款，支持本国企业"
-    },
-    {
-      "title": "Crédito bruto ao sector não-financeiro cifrou-se em 9,0 biliões de kwanzas",
-      "url": "https://www.opais.ao/economia/credito-bruto-ao-sector-nao-financeiro-cifrou-se-em-90-bilioes-de-kwanzas/",
-      "source": "O País",
-      "_key": "61c96b7cc7627871",
-      "score": 7,
-      "title_cn": "非金融部门信贷总额达9万亿宽扎"
-    },
-    {
-      "title": "Stock da dívida pública da Sonangol e TAAG aumenta cerca de 19% no I trimestre",
-      "url": "https://www.opais.ao/economia/stock-da-divida-publica-da-sonangol-e-taag-aumenta-cerca-de-19-no-i-trimestre/",
-      "source": "O País",
-      "_key": "c478f698b0d038d3",
-      "score": 7,
-      "title_cn": "安哥拉国家石油公司和安哥拉航空公共债务一季度增长约19%"
-    },
-    {
-      "title": "MINSA mobiliza mais de 350 especialistas para reforçar resposta ao Ébola",
-      "url": "https://www.opais.ao/ultima_hora/minsa-mobiliza-mais-de-350-especialistas-para-reforcar-resposta-ao-ebola/",
-      "source": "O País",
-      "_key": "589eaa917b3b1c94",
-      "score": 7,
-      "title_cn": "卫生部动员逾350名专家，加强埃博拉应对工作"
-    },
-    {
-      "title": "Presidential visit cements cooperation between Angola and Serbia",
-      "url": "https://www.angop.ao/en/noticias/politica/visita-presidencial-cimenta-cooperacao-entre-angola-e-servia/",
-      "source": "ANGOP",
-      "_key": "b494d954b2b64215",
+      "_key": "845105515b691e78",
       "score": 6,
-      "title_cn": "总统访问巩固安哥拉与塞尔维亚合作"
+      "title_cn": "若昂·洛伦索总统已抵达塞尔维亚首都贝尔格莱德，进行为期72小时的正式访问，旨在加强合作"
     },
     {
-      "title": "Economic inspection with focus on combating illegal gemstone mining",
-      "url": "https://www.angop.ao/en/noticias/economia/combate-a-mineracao-ilegal-de-pedras-preciosas-na-mira-da-aniesa/",
-      "source": "ANGOP",
-      "_key": "06e9292d7d5672a5",
+      "title": "João Lourenço Makes Official Visit to Serbia to Expand Political and Economic Cooperation06/08/2026",
+      "url": "https://www.negociosdeangola.com/en/joao-lourenco-makes-official-visit-to-serbia-to-expand-political-and-economic-cooperation/",
+      "source": "Negócios de Angola",
+      "_key": "66b40f9ee7f48512",
       "score": 6,
-      "title_cn": "经济检查聚焦打击非法宝石开采"
+      "title_cn": "若昂·洛伦索(João Lourenço)访问塞尔维亚，扩大政治经济合作"
     },
     {
-      "title": "Mais poder para as províncias, mas sem direito de veto",
-      "url": "https://expansao.co.ao/angola/detalhe/mais-poder-para-as-provincias-mas-sem-direito-de-veto-72347.html",
-      "source": "Expansão",
-      "_key": "3b921fce0c6b3f20",
+      "title": "FADA and Food Life Sign Strategic Partnership to Boost Rice Production in Moxico",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9907",
+      "source": "Negócios de Angola",
+      "_key": "a24de0639d6860fc",
       "score": 6,
-      "title_cn": "各省权力增加，但无否决权"
+      "title_cn": "安哥拉农业发展基金与食品生活公司签署战略合作协议，促进莫希科省水稻生产"
     },
     {
-      "title": "Donos do grupo Carrinho abdicam de participação qualificada no capital do BFA",
-      "url": "https://forbesafricalusofona.com/donos-do-grupo-carrinho-abdicam-de-participacao-qualificada-no-capital-do-bfa/",
-      "source": "Forbes África",
-      "_key": "de3a5107f36af9b4",
-      "score": 6,
-      "title_cn": "Carrinho集团所有者放弃BFA银行合格股权"
-    },
-    {
-      "title": "Destaque Fábrica de processamento de pescado é inaugurada esta segunda-feira em BenguelaUma fábrica de processamento congelação, distribuição e comercialização de pescado será inaugurada, esta segunda-feira, na província de Benguela, denominada \"Baia Fish\". ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/678010/f%C3%A1brica-de-processamento-de-pescado-%C3%A9-inaugurada-esta-segunda-feira-em-benguela",
-      "source": "Jornal de Angola",
-      "_key": "838057b07fb3f336",
-      "score": 6,
-      "title_cn": "本格拉一家鱼类加工厂周一落成"
-    },
-    {
-      "title": "Economia Instituto de Supervisão de Jogos arrecada 2,1 mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/677973/instituto-de-supervis%C3%A3o-de-jogos-arrecada-21-mil-milh%C3%B5es-de-kwanzas-",
-      "source": "Jornal de Angola",
-      "_key": "994fac4d691fd38c",
-      "score": 6,
-      "title_cn": "博彩监管局征收21亿宽扎"
-    },
-    {
-      "title": "PR cria comissão liderada pelo ministro de Estado para...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-cria-comissao-liderada-pelo-ministro-de-estado-para-actualizar-dados-dos-cidadaos-maiores-com-prova-de-vida-que-passou-a-ser-obrigatoria-nos-periodos-pre-eleitorais-72374.html",
+      "title": "AGT: Mais de meio milhão de euros para licença de software...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/agt-mais-de-meio-milhao-de-euros-para-licenca-de-software-de-combate-a-evasao-fiscal-pr-aprovou-despesa-no-ambito-do-acordo-com-eua-72385.html",
       "source": "Novo Jornal",
-      "_key": "4e6b1ce81638b9bb",
+      "_key": "f54ded1b7851a84c",
       "score": 6,
-      "title_cn": "总统设立由国务部长领导的委员会"
+      "title_cn": "安哥拉税务总局：超50万欧元用于软件许可"
     },
     {
-      "title": "TAAG diz estar consciente dos atrasos nos seus voos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/taag-diz-estar-consciente-dos-atrasos-nos-seus-voos-e-garante-trabalhar-para-mudar-quadro-companhia-preve-abertura-de-novas-rotas-internacionais-72381.html",
-      "source": "Novo Jornal",
-      "_key": "e63ce1e8eb4d82e7",
-      "score": 6,
-      "title_cn": "安哥拉航空承认航班延误问题"
-    },
-    {
-      "title": "MAKKAS NA SANZALA. Tribunal Português dá razão a Isabel dos Santos no caso EFACEC.",
-      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=72343",
-      "source": "Novo Jornal",
-      "_key": "d070f96489ec0ef9",
-      "score": 6,
-      "title_cn": "葡萄牙法院裁定伊莎贝尔·多斯桑托斯在EFACEC案中胜诉"
-    },
-    {
-      "title": "Sinistralidade rodoviária provoca cinco mortes e deixa 12 feridos em Luanda",
-      "url": "https://www.opais.ao/ultima_hora/sinistralidade-rodoviaria-provoca-cinco-mortes-e-deixa-12-feridos-em-luanda/",
+      "title": "Angola marca presença na 114.ª Conferência Internacional do Trabalho em Genebra",
+      "url": "https://www.opais.ao/sociedade/angola-marca-presenca-na-114-a-conferencia-internacional-do-trabalho-em-genebra/",
       "source": "O País",
-      "_key": "3f0ea3c63f51468c",
+      "_key": "4639737d78e80e16",
       "score": 6,
-      "title_cn": "罗安达交通事故致5死12伤"
+      "title_cn": "安哥拉出席在日内瓦举行的第114届国际劳工大会"
     },
     {
-      "title": "Governador da Lunda-Sul reitera apoio ao sector do agronegócio para a diversificação da economia local",
-      "url": "https://www.opais.ao/economia/governador-da-lunda-sul-reitera-apoio-ao-sector-do-agronegocio-para-a-diversificacao-da-economia-local/",
-      "source": "O País",
-      "_key": "62cc9d4453799d4b",
-      "score": 6,
-      "title_cn": "南隆达省省长重申支持农业综合企业，以实现当地经济多元化"
-    },
-    {
-      "title": "Angola convidada a participar na 24.ª ediçãoda Conferência sobre Minas na Austrália",
-      "url": "https://www.opais.ao/economia/angola-convidada-a-participar-na-24-a-edicaoda-conferencia-sobre-minas-na-australia/",
-      "source": "O País",
-      "_key": "6261a9f6ba5f34dd",
-      "score": 6,
-      "title_cn": "安哥拉受邀参加第24届澳大利亚矿业大会"
-    },
-    {
-      "title": "Nova rede de correspondentes do Banco Sol potencia pagamentos para...",
-      "url": "https://valoreconomico.co.ao/artigo/nova-rede-de-correspondentes-do-banco-sol-potencia-pagamentos-para-a-china-e-reforca-expansao-internacional",
+      "title": "Consequências da guerra continuam a impor barreiras na economia da...",
+      "url": "https://valoreconomico.co.ao/artigo/consequencias-da-guerra-continuam-a-impor-barreiras-na-economia-da-rdc",
       "source": "Valor Económico",
-      "_key": "93dced8c6621d324",
+      "_key": "727c37a233927cc7",
       "score": 6,
-      "title_cn": "太阳银行新代理网络提升支付能力"
+      "title_cn": "战争后果持续对经济造成障碍"
     },
     {
-      "title": "Head of State leaves for Serbia",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-a-caminho-da-servia/",
-      "source": "ANGOP",
-      "_key": "d8cf00ce9d38ea2c",
-      "score": 5,
-      "title_cn": "国家元首启程前往塞尔维亚"
-    },
-    {
-      "title": "Visita de Estado",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=46113",
-      "source": "ANGOP",
-      "_key": "eb0443960c473be3",
-      "score": 5,
-      "title_cn": "国事访问"
-    },
-    {
-      "title": "President João Lourenço begins official visit to Servia on Monday",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-inicia-segunda-feira-visita-oficial-a-servia/",
-      "source": "ANGOP",
-      "_key": "a6386268301de8aa",
-      "score": 5,
-      "title_cn": "若昂·洛伦索总统周一开启对塞尔维亚的正式访问"
-    },
-    {
-      "title": "Vendedoras ambulantes resistem ao programa de reordenamento do comércio em Luanda",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d3ec085836c6f3",
-      "score": 5,
-      "title_cn": "罗安达街头小贩抵制商业重组计划"
-    },
-    {
-      "title": "Angola aposta em cooperação com os EUA para fortalecer sistema estatísticoPorFrancisco de Andrade",
-      "url": "https://forbesafricalusofona.com/angola-aposta-em-cooperacao-com-os-eua-para-fortalecer-sistema-estatistico/",
-      "source": "Forbes África",
-      "_key": "3983fe9fc366f312",
-      "score": 5,
-      "title_cn": "安哥拉寻求与美国合作，加强统计系统"
-    },
-    {
-      "title": "“Isabel dos Santos tem mais impacto na economia…",
-      "url": "https://holdonangola.com/isabel-dos-santos-tem-mais-impacto-na-economia-angolana-do-que-o-proprio-governo-esmael-manuel/",
-      "source": "Hold On Angola",
-      "_key": "cda3a0d96df8cf8a",
-      "score": 5,
-      "title_cn": "“伊莎贝尔·多斯桑托斯对经济影响更大……”"
-    },
-    {
-      "title": "Destaque Acidentes rodoviários lideram mortes registadas no fim-de-semanaPelo menos 19 pessoas morreram e outras 43 ficaram feridas durante o fim-de-semana em todo o país, informou esta segunda-feira o Serviço de Protecção Civil e Bombeiros (SPCB).",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678002/acidentes-rodovi%C3%A1rios-lideram-mortes-registadas-no-fim-de-semana",
-      "source": "Jornal de Angola",
-      "_key": "0c1c8fc1b9619983",
-      "score": 5,
-      "title_cn": "周末交通事故致19人死亡，43人受伤"
-    },
-    {
-      "title": "Destaque João Lourenço ruma à Sérvia para reforçar cooperação bilateralO Chefe de Estado, João Lourenço, partiu, na manhã de hoje, para a Sérvia, onde efectuará uma visita oficial, a convite do seu homólogo Aleksandar Vučić, com o objectivo de reforçar a cooperação bilateral. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677979/jo%C3%A3o-louren%C3%A7o-ruma-%C3%A0-s%C3%A9rvia-para-refor%C3%A7ar-coopera%C3%A7%C3%A3o-bilateral",
-      "source": "Jornal de Angola",
-      "_key": "95a499c7895b474c",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统前往塞尔维亚，加强双边合作"
-    },
-    {
-      "title": "Última hora Presidente da República desloca-se à Sérvia na segunda-feira em visita oficial",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/677949/presidente-da-rep%C3%BAblica-desloca-se-%C3%A0-s%C3%A9rvia-na-segunda-feira-em-visita-oficial",
-      "source": "Jornal de Angola",
-      "_key": "105b987ca2b109ba",
-      "score": 5,
-      "title_cn": "总统周一将对塞尔维亚进行正式访问"
-    },
-    {
-      "title": "Luanda: Cinco pessoas morreram e 12 ficaram feridas...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-cinco-pessoas-morreram-e-12-ficaram-feridas-em-13-acidentes-de-viacao-72370.html",
-      "source": "Novo Jornal",
-      "_key": "1b426022928a516d",
-      "score": 5,
-      "title_cn": "罗安达：5人死亡，12人受伤"
-    },
-    {
-      "title": "PR viaja esta segunda-feira para a Sérvia em visita oficial de dois dias",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-viaja-esta-segunda-feira-para-a-servia-em-visita-oficial-de-dois-dias-72371.html",
-      "source": "Novo Jornal",
-      "_key": "753f4b28059f8e1c",
-      "score": 5,
-      "title_cn": "总统周一将对塞尔维亚进行为期两天的正式访问"
-    },
-    {
-      "title": "PRESIDENTE DA REPÚBLICA INICIA HOJE VISITA DE ESTADO À SÉRVIA",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-inicia-hoje-visita-de-estado-a-servia/",
-      "source": "O País",
-      "_key": "c7194a367a0426bd",
-      "score": 5,
-      "title_cn": "共和国总统今日开始对塞尔维亚进行国事访问"
-    },
-    {
-      "title": "PONTUAL: Parasitas urbanos",
-      "url": "https://www.opais.ao/opiniao/pontual-parasitas-urbanos/",
-      "source": "O País",
-      "_key": "1decc3734ab284f7",
-      "score": 5,
-      "title_cn": "焦点：城市寄生虫"
-    },
-    {
-      "title": "Presidente da República deixa Luanda com destino à Sérvia",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-deixa-luanda-com-destino-a-servia/",
-      "source": "O País",
-      "_key": "ce66299882677e33",
-      "score": 5,
-      "title_cn": "共和国总统离开罗安达前往塞尔维亚"
-    },
-    {
-      "title": "PR autoriza despesa de meio milhão de euros em software...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-despesa-de-meio-milhao-de-euros-em-software-para-combater-evasao-fiscal",
+      "title": "PIB nominal superior a 420 bilhões de USD coloca África...",
+      "url": "https://valoreconomico.co.ao/artigo/pib-nominal-superior-a-420-bilhoes-de-usd-coloca-africa-do-sul-na-lideranca-da-regiao-austral-de-africa",
       "source": "Valor Económico",
-      "_key": "4cb67e2e4a20f270",
+      "_key": "e202f0644a7d15a9",
+      "score": 6,
+      "title_cn": "名义GDP超4200亿美元，非洲经济地位提升"
+    },
+    {
+      "title": "Percurso de 30 anos do BAI ganha destaque na imprensa internacional",
+      "url": "https://correiokianda.info/percurso-de-30-anos-do-bai-ganha-destaque-na-imprensa-internacional/",
+      "source": "Correio Kianda",
+      "_key": "00e4f71a361b5802",
       "score": 5,
-      "title_cn": "总统批准50万欧元软件支出"
+      "title_cn": "安哥拉投资银行(BAI)30年发展历程获国际媒体关注"
+    },
+    {
+      "title": "Destaque Angola reforça preparação para prevenir e responder ao vírus Ébola O Ministério da Saúde (MINSA) realiza, na terça-feira, em Luanda, o Encontro Nacional de Preparação e Resposta à Doença pelo Vírus Ébola (DVE), uma iniciativa que reunirá mais de 350 especialistas e representantes de instituições estratégicas de todo o país.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678019/angola-refor%C3%A7a-prepara%C3%A7%C3%A3o-para-prevenir-e-responder-ao-v%C3%ADrus-%C3%A9bola",
+      "source": "Jornal de Angola",
+      "_key": "56549fe3e7307a6f",
+      "score": 5,
+      "title_cn": "安哥拉加强埃博拉病毒预防和应对准备"
+    },
+    {
+      "title": "Mundo Xi Jinping inicia hoje visita à Coreia do Norte ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/678020/xi-jinping-inicia-hoje-visita-%C3%A0-coreia-do-norte-",
+      "source": "Jornal de Angola",
+      "_key": "2733af3b22c54610",
+      "score": 5,
+      "title_cn": "习近平今日开始访问朝鲜"
+    },
+    {
+      "title": "Regiões Fábrica de processamento de pescado inaugurada esta segunda-feira em Benguela ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/678010/f%C3%A1brica-de-processamento-de-pescado-inaugurada-esta-segunda-feira-em-benguela",
+      "source": "Jornal de Angola",
+      "_key": "4f79854b9a43738b",
+      "score": 5,
+      "title_cn": "本格拉省鱼类加工厂本周一落成"
+    },
+    {
+      "title": "TAAG is the world’s most inefficient airline in aircraft utilization",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9864",
+      "source": "Negócios de Angola",
+      "_key": "fb1df0aaafe1fc4a",
+      "score": 5,
+      "title_cn": "安哥拉航空(TAAG)飞机利用率全球最低"
+    },
+    {
+      "title": "Baía Farta ganha nova unidade pesqueira com capacidade para processar 200 toneladas por dia",
+      "url": "https://www.opais.ao/ultima_hora/baia-farta-ganha-nova-unidade-pesqueira-com-capacidade-para-processar-200-toneladas-por-dia/",
+      "source": "O País",
+      "_key": "24480d867ab37ad1",
+      "score": 5,
+      "title_cn": "拜亚法塔新建日处理200吨渔业加工厂"
     }
   ]
 }
