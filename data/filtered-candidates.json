@@ -1,441 +1,70 @@
 {
   "date": "2026-06-09",
-  "total_new": 121,
-  "total_filtered": 62,
+  "total_new": 48,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Mercados aliviam tensão e petróleo recua após sessão de grande volatilidade",
-      "url": "https://expansao.co.ao/economia/detalhe/mercados-aliviam-tensao-e-petroleo-recua-apos-sessao-de-grande-volatilidade-72397.html",
-      "source": "Expansão",
-      "_key": "a3c8bb10d15a5b81",
-      "score": 10
-    },
-    {
-      "title": "Segurança Pública",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=59497",
-      "source": "ANGOP",
-      "_key": "ae2c98aac3488835",
+      "title": "Sociedade Barragem de Caculo Cabaça regista avanços significativos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678112/barragem-de-caculo-caba%C3%A7a-regista-avan%C3%A7os-significativos",
+      "source": "Jornal de Angola",
+      "_key": "523763209553db16",
       "score": 9
     },
     {
-      "title": "TotalEnergies acelera projecto Kaminho para iniciar produção no Bengo em 2028",
-      "url": "https://diariodosnegocios.com/totalenergies-acelera-projecto-kaminho-para-iniciar-producao-no-bengo-em-2028/",
-      "source": "Diário dos Negócios",
-      "_key": "602da38a2da8f8b9",
-      "score": 9
-    },
-    {
-      "title": " TotalEnergies acelera projecto Kaminho para iniciar produção no Bengo em 2028 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_431fec66399e8c",
-      "score": 9
-    },
-    {
-      "title": "Transporte de carga \"segura\" aviação em Abril, passageiros com queda de 3,4% na procuraUm cenário de escassez de petróleo, caso o Estreito de Ormuz não reabra, levou o FMI e o Banco Mundial a lançar um alerta conjunto sobre o \"risco acrescido para a segurança energética e para a resiliência da economia\".",
-      "url": "https://expansao.co.ao/mundo/detalhe/transporte-de-carga-segura-aviacao-em-abril-passageiros-com-queda-de-34-na-procura-72349.html",
-      "source": "Expansão",
-      "_key": "bfef950de3111176",
-      "score": 9
-    },
-    {
-      "title": "Médio Oriente: Trump ameaça \"fechar a torneira\" se...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-ameaca-fechar-a-torneira-se-netanyhau-continuar-a-desafiar-as-suas-orientacoes-israel-mantem-sul-do-libano-sob-fogo-cerrado-72398.html",
-      "source": "Novo Jornal",
-      "_key": "d0e2cda03f43cdd3",
-      "score": 9
-    },
-    {
-      "title": "PCA do Porto do Lobito distinguido pelo contributo à modernização da infraestrutura portuária",
-      "url": "https://www.opais.ao/economia/pca-do-porto-do-lobito-distinguido-pelo-contributo-a-modernizacao-da-infraestrutura-portuaria/",
-      "source": "O País",
-      "_key": "2c4cb70c65f167ad",
-      "score": 9
-    },
-    {
-      "title": "Tax incentives for Angolan economy reached more than 2 trillion kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/incentivos-fiscais-a-economia-atingem-mais-de-2-bilioes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "6013ab3e9824cc8d",
+      "title": "Inflação em Angola fixou-se em 10,88% em Maio",
+      "url": "https://forbesafricalusofona.com/inflacao-em-angola-fixou-se-em-1088-em-maio/",
+      "source": "Forbes África",
+      "_key": "1034fa381ef4b65f",
       "score": 8
     },
     {
-      "title": "Angola perdeu 2,9 biliões de kwanzas em impostos por causa de incentivos fiscais",
-      "url": "https://correiokianda.info/angola-perdeu-29-bilioes-de-kwanzas-em-impostos-por-causa-de-incentivos-fiscais/",
+      "title": "Política Lei do Combate ao Branqueamento de Capitais aprovada na especialidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678086/lei-do-combate-ao-branqueamento-de-capitais-aprovada-na-especialidade",
+      "source": "Jornal de Angola",
+      "_key": "81b14b5ad01ea524",
+      "score": 8
+    },
+    {
+      "title": "Economia / Há 2 horas Inflação homóloga de Maio fixada nos 10,88 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678084/infla%C3%A7%C3%A3o-hom%C3%B3loga-de-maio-fixada-nos-1088-por-cento",
+      "source": "Jornal de Angola",
+      "_key": "2a8ab8b5c0d91f20",
+      "score": 8
+    },
+    {
+      "title": "Parlamento aprova na especialidade lei de combate ao...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/parlamento-aprova-na-especialidade-lei-de-combate-ao-branqueamento-de-capitais-72414.html",
+      "source": "Novo Jornal",
+      "_key": "42da8cf066b4d837",
+      "score": 8
+    },
+    {
+      "title": "Angola deixa de arrecadar 91% dos benefícios fiscais no sector não petrolífero",
+      "url": "https://correiokianda.info/angola-deixa-de-arrecadar-91-dos-beneficios-fiscais-no-sector-nao-petrolifero/",
       "source": "Correio Kianda",
-      "_key": "e2ac74ce5c9ecc0f",
-      "score": 8
-    },
-    {
-      "title": "Inflação abranda para 10,88% em Maio e mantém trajetória descendente há 22 meses",
-      "url": "https://expansao.co.ao/economia/detalhe/inflacao-abranda-para-1088-em-maio-e-mantem-trajetoria-descendente-ha-22-meses-72402.html",
-      "source": "Expansão",
-      "_key": "4d8356a7f31ba55b",
-      "score": 8
-    },
-    {
-      "title": "Dívida pública dispara 7.175 milhões USD num ano para 71.979 milhões USD",
-      "url": "https://expansao.co.ao/economia/detalhe/divida-publica-dispara-7175-milhoes-usd-num-ano-para-71979-milhoes-usd-72345.html",
-      "source": "Expansão",
-      "_key": "b33efc2c840cbea7",
-      "score": 8
-    },
-    {
-      "title": "Inflação em Angola abranda para 10,88% em maio, desaceleração em 22 meses consecutivos",
-      "url": "https://jornaloguardiao.com/2026/06/09/inflacao-em-angola-abranda-para-1088-em-maio-desaceleracao-em-22-meses-consecutivos/",
-      "source": "Jornal O Guardião",
-      "_key": "7ef0b1b057feef43",
-      "score": 8
-    },
-    {
-      "title": "Angola deixa de arrecadar mais de um sexto de potencial receita fiscal com incentivos",
-      "url": "https://jornaloguardiao.com/2026/06/09/angola-deixa-de-arrecadar-mais-de-um-sexto-de-potencial-receita-fiscal-com-incentivos/",
-      "source": "Jornal O Guardião",
-      "_key": "dcc34d1b0542e36c",
-      "score": 8
-    },
-    {
-      "title": " Inflação em Angola abranda para 10,88% em maio, desaceleração em 22 meses consecutivos ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_96e749a7a0012b",
-      "score": 8
-    },
-    {
-      "title": " Angola deixa de arrecadar mais de um sexto de potencial receita fiscal com incentivos ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d869c0a16313e3",
-      "score": 8
-    },
-    {
-      "title": "Economia IGAPE coloca à venda património de empresas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678044/igape-coloca-%C3%A0-venda-patrim%C3%B3nio-de-empresas",
-      "source": "Jornal de Angola",
-      "_key": "c46e993e771f2091",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 2 horas Renúncia fiscal cresce 1.517% para 2,98 biliões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678050/ren%C3%BAncia-fiscal-cresce-1.517%25-para-298-bili%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "705e457d96350db5",
-      "score": 8
-    },
-    {
-      "title": "Legalização",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=304665",
-      "source": "ANGOP",
-      "_key": "9ae6bab2256d65c1",
+      "_key": "abade6f7d73b1179",
       "score": 7
     },
     {
-      "title": "Incentivos",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=38179",
-      "source": "ANGOP",
-      "_key": "9a5cce3133fd236f",
-      "score": 7
-    },
-    {
-      "title": "Deputados debatem alterações à lei de combate ao branqueamento de capitais",
-      "url": "https://correiokianda.info/deputados-debatem-alteracoes-a-lei-de-combate-ao-branqueamento-de-capitais/",
+      "title": "Economista defende gestão privada de estradas e reforço da logística em Angola",
+      "url": "https://correiokianda.info/economista-defende-gestao-privada-de-estradas-e-reforco-da-logistica-em-angola/",
       "source": "Correio Kianda",
-      "_key": "f85736054935ca6e",
-      "score": 7
+      "_key": "5d33771e77f60ff7",
+      "score": 6
     },
     {
-      "title": "AGT investe 552 mil euros em software para reforçar combate à evasão fiscal no âmbito do acordo FATCA",
-      "url": "https://diariodosnegocios.com/agt-investe-552-mil-euros-em-software-para-reforcar-combate-a-evasao-fiscal-no-ambito-do-acordo-fatca/",
-      "source": "Diário dos Negócios",
-      "_key": "17e218a52c05346b",
-      "score": 7
-    },
-    {
-      "title": " AGT investe 552 mil euros em software para reforçar combate à evasão fiscal no âmbito do acordo FATCA ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_2d59ec1cf8a7a3",
-      "score": 7
-    },
-    {
-      "title": "Transporte de carga \"segura\" aviação em Abril, passageiros com queda de 3,4% na procura",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_126812ffb27d4d",
-      "score": 7
-    },
-    {
-      "title": "FLEC pediu atenção pessoal de Donald Trump na resolução da questão de Cabinda",
-      "url": "https://jornaloguardiao.com/2026/06/09/flec-pediu-atencao-pessoal-de-donald-trump-na-resolucao-da-questao-de-cabinda/",
-      "source": "Jornal O Guardião",
-      "_key": "64021ea4b7275811",
-      "score": 7
-    },
-    {
-      "title": " FLEC pediu atenção pessoal de Donald Trump na resolução da questão de Cabinda ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_6d907f0678b643",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 2 horas Relatório do Afreximbank destaca desempenho económico ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678045/relat%C3%B3rio-do-afreximbank-destaca-desempenho-econ%C3%B3mico",
-      "source": "Jornal de Angola",
-      "_key": "cc1523a6214ae8c8",
-      "score": 7
-    },
-    {
-      "title": "Ajuste directo: PR valida despesa de 3,4 milhões USD...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/ajuste-directo-pr-valida-despesa-de-34-milhoes-usd-para-contratacao-de-servicos-de-consultoria-de-apoio-a-unidade-de-gestao-da-divida-publica-72399.html",
-      "source": "Novo Jornal",
-      "_key": "78d0217bf6399eb8",
-      "score": 7
-    },
-    {
-      "title": "Parlamento: Alteração da Lei de Prevenção e Combate...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-alteracao-da-lei-de-prevencao-e-combate-ao-branqueamento-de-capitais-em-debate-na-especialidade-72396.html",
-      "source": "Novo Jornal",
-      "_key": "2fb9cfe473df322d",
-      "score": 7
-    },
-    {
-      "title": "Orçamento público: Transparência anunciada, dados fechados",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/orcamento-publico-transparencia-anunciada-dados-fechados-72395.html",
-      "source": "Novo Jornal",
-      "_key": "5a6dd059264fda4f",
-      "score": 7
-    },
-    {
-      "title": "Executivo investe mais de 552 mil euros em plataforma de troca de informações fiscais com os EUA",
-      "url": "https://www.opais.ao/economia/executivo-investe-mais-de-552-mil-euros-em-plataforma-de-troca-de-informacoes-fiscais-com-os-eua/",
-      "source": "O País",
-      "_key": "4269e31f77fbb9b5",
-      "score": 7
-    },
-    {
-      "title": "IMF and Angolan government remain focused on increasing revenue",
-      "url": "https://www.angop.ao/en/noticias/economia/fmi-e-governo-angolano-continuam-focados-no-aumento-da-receita-fiscal/",
+      "title": "Angola updates contingency plan against Ebola virus - Ministry of Health",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-actualiza-plano-de-contingencia-contra-o-virus-do-ebola/",
       "source": "ANGOP",
-      "_key": "344c3ad7c359bb6f",
-      "score": 6
+      "_key": "14dd204807d57e04",
+      "score": 5
     },
     {
-      "title": "Finanças avançam com contratação de consultoria para gestão da dívida pública",
-      "url": "https://angola24horas.com/economia/item/34475-financas-avancam-com-contratacao-de-consultoria-para-gestao-da-divida-publica",
-      "source": "Angola 24 Horas",
-      "_key": "23f8ee03b2590d41",
-      "score": 6
-    },
-    {
-      "title": "Ministério das Finanças vai contratar consultoria para gerir a dívida pública",
-      "url": "https://correiokianda.info/ministerio-das-financas-vai-contratar-consultoria-para-gerir-a-divida-publica/",
-      "source": "Correio Kianda",
-      "_key": "6d6f6ecdafe5286b",
-      "score": 6
-    },
-    {
-      "title": "Sector das pescas vai ganhar novas unidades de processamento e câmaras frigoríficas",
-      "url": "https://correiokianda.info/sector-das-pescas-vai-ganhar-novas-unidades-de-processamento-e-camaras-frigorificas/",
-      "source": "Correio Kianda",
-      "_key": "fba709fea398c885",
-      "score": 6
-    },
-    {
-      "title": "Governo investe 9,5 mil milhões Kz em obras e novo mobiliário para a AIPEX",
-      "url": "https://diariodosnegocios.com/governo-investe-95-mil-milhoes-kz-em-obras-e-novo-mobiliario-para-a-aipex/",
-      "source": "Diário dos Negócios",
-      "_key": "5979314ca78e3c5f",
-      "score": 6
-    },
-    {
-      "title": " Governo investe 9,5 mil milhões Kz em obras e novo mobiliário para a AIPEX ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_e14c7bf242105b",
-      "score": 6
-    },
-    {
-      "title": "Nova lei para as SGPS abre novo rumo ao IGAPE",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_38661c0e415c23",
-      "score": 6
-    },
-    {
-      "title": "'Caça' da AGT a profissionais liberais começa com multas e queixas",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a5a19d04c8ac1a",
-      "score": 6
-    },
-    {
-      "title": "BDA apoiou com 11,2 mil milhões de kwanzas setor pesqueiro de Benguela",
-      "url": "https://jornaloguardiao.com/2026/06/09/bda-apoiou-com-112-mil-milhoes-de-kwanzas-setor-pesqueiro-de-benguela/",
-      "source": "Jornal O Guardião",
-      "_key": "c487bd90e95e83fb",
-      "score": 6
-    },
-    {
-      "title": " BDA apoiou com 11,2 mil milhões de kwanzas setor pesqueiro de Benguela ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_16aa1c4677fa0e",
-      "score": 6
-    },
-    {
-      "title": "Economia Portais e jornais da RDC destacam investimento privado em Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678052/portais-e-jornais-da-rdc-destacam-investimento-privado-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "6b69685b76e32da1",
-      "score": 6
-    },
-    {
-      "title": "08:45 / 9 jun. 2026 Exportações anuais de Angola para Portugal crescem 4.704 por cento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678046/exporta%C3%A7%C3%B5es-anuais-de-angola-para-portugal-crescem-4.704-por-cento",
-      "source": "Jornal de Angola",
-      "_key": "1f16f33a17881b35",
-      "score": 6
-    },
-    {
-      "title": "Juiz que mandou desbloquear mais de 1 milhão USD da...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/juiz-que-mandou-desbloquear-mais-de-1-milhao-usd-da-conta-cativa-de-joaquim-sebastiao-condenado-a-cinco-anos-de-prisao-72407.html",
-      "source": "Novo Jornal",
-      "_key": "787b5802f3ce6d8a",
-      "score": 6
-    },
-    {
-      "title": "Sentença do juiz acusado de mandar desbloquear contas ilegalmente conhecida hoje",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sentenca-do-juiz-acusado-de-mandar-desbloquear-contas-ilegalmente-conhecida-hoje-72394.html",
-      "source": "Novo Jornal",
-      "_key": "31e2df9118eef205",
-      "score": 6
-    },
-    {
-      "title": "Ministério da Justiça continua a expulsar funcionários por má conduta: Já foram despedidos mais de 120 nos últimos dois anos",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ministerio-da-justica-continua-a-expulsar-funcionarios-por-ma-conduta-ja-foram-despedidos-mais-de-120-nos-ultimos-dois-anos-72386.html",
-      "source": "Novo Jornal",
-      "_key": "a57971eb3ca0e39c",
-      "score": 6
-    },
-    {
-      "title": "Embaixada de Angola na China destaca legado de Manuel Augusto",
-      "url": "https://www.opais.ao/politica/embaixada-de-angola-na-china-destaca-legado-de-manuel-augusto/",
+      "title": "Angola e Namíbia identificam oportunidades de cooperação transfronteiriça",
+      "url": "https://www.opais.ao/politica/angola-e-namibia-identificam-oportunidades-de-cooperacao-transfronteirica/",
       "source": "O País",
-      "_key": "abd80bc7feb6aa8e",
-      "score": 6
-    },
-    {
-      "title": "Presidente liberta 8,3 milhões de dólares para garantir alimentação escolar...",
-      "url": "https://valoreconomico.co.ao/artigo/presidente-liberta-8-3-milhoes-de-dolares-para-garantir-alimentacao-escolar-no-huambo",
-      "source": "Valor Económico",
-      "_key": "ff7ed92d7174270e",
-      "score": 6
-    },
-    {
-      "title": "Governo autoriza 4,9 milhões de dólares para consultoria de um...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-4-9-milhoes-de-dolares-para-consultoria-de-um-projecto-nas-pescas",
-      "source": "Valor Económico",
-      "_key": "ecd80614ee0519a6",
-      "score": 6
-    },
-    {
-      "title": "Ministry of Fisheries receives dozens of requests for shipowner licensing",
-      "url": "https://www.angop.ao/en/noticias/economia/ministerio-das-pescas-recebe-dezenas-de-pedidos-para-licenciamento-de-armadores/",
-      "source": "ANGOP",
-      "_key": "8fb2b9b0e9782c41",
-      "score": 5
-    },
-    {
-      "title": "Namibian Ambassador highlights investment in the Cafu Canal",
-      "url": "https://www.angop.ao/en/noticias/agricultura/embaixador-namibiano-destaca-investimento-no-canal-do-cafu/",
-      "source": "ANGOP",
-      "_key": "3956828e45e32ee7",
-      "score": 5
-    },
-    {
-      "title": "Deslocação presidencial à Sérvia pode reduzir dependência de parceiros tradicionais – Especialista",
-      "url": "https://correiokianda.info/deslocacao-presidencial-a-servia-pode-reduzir-dependencia-de-parceiros-tradicionais-especialista/",
-      "source": "Correio Kianda",
-      "_key": "d7d6546938e97bf2",
-      "score": 5
-    },
-    {
-      "title": "Poluição e pesca ilegal colocam oceanos em risco, alerta ambientalista",
-      "url": "https://correiokianda.info/poluicao-e-pesca-ilegal-colocam-oceanos-em-risco-alerta-ambientalista/",
-      "source": "Correio Kianda",
-      "_key": "87cda89c3a5f8ddf",
-      "score": 5
-    },
-    {
-      "title": "Mais poder para as províncias, mas sem direito de veto",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_2d6276267a3a36",
-      "score": 5
-    },
-    {
-      "title": "Angola e Sérvia assinam em Belgrado dez acordos de cooperaçãoAngola e a Sérvia rubricaram, hoje, em Belgrado, dez acordos de cooperação no quadro da visita oficial do Presidente da República, João Lourenço, reforçando as bases da parceria bilateral e abrindo novas perspectivas para o reforço das relações económicas, comerciais e institucionais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678065/angola-e-s%C3%A9rvia-assinam-em-belgrado-dez-acordos-de-coopera%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "3b9691361d0f0b24",
-      "score": 5
-    },
-    {
-      "title": "Destaque Juiz José Pereira condenado a cinco anos de prisãoO juiz José Pereira foi condenado, na manhã desta terça-feira, pelo Tribunal Supremo, à pena de cinco anos de prisão efectiva pela prática de crimes de corrupção no exercício da função.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678079/juiz-jos%C3%A9-pereira-condenado-a-cinco-anos-de-pris%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "1794f1f0385385d9",
-      "score": 5
-    },
-    {
-      "title": "Economia Nova pescaria aberta em Benguela ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678051/nova-pescaria-aberta-em-benguela",
-      "source": "Jornal de Angola",
-      "_key": "dc3be9fe31ce6e19",
-      "score": 5
-    },
-    {
-      "title": "08:15 / 9 jun. 2026 Governo vai actualizar os dados dos cidadãos com prova de vida ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678038/governo-vai-actualizar-os-dados-dos-cidad%C3%A3os-com-prova-de-vida",
-      "source": "Jornal de Angola",
-      "_key": "4621aa86e582edd6",
-      "score": 5
-    },
-    {
-      "title": "Economia / Há 2 horas Café: Uíge projecta mais de seis milhões de mudas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678048/caf%C3%A9:-u%C3%ADge-projecta-mais-de-seis-milh%C3%B5es-de-mudas",
-      "source": "Jornal de Angola",
-      "_key": "962d9b235bacc4f7",
-      "score": 5
-    },
-    {
-      "title": "Angola e Sérvia elevam cooperação com assinatura de dez acordos e reforço das relações económicas",
-      "url": "https://www.opais.ao/politica/angola-e-servia-elevam-cooperacao-com-assinatura-de-dez-acordos-e-reforco-das-relacoes-economicas/",
-      "source": "O País",
-      "_key": "1a065bb31b4b7421",
-      "score": 5
-    },
-    {
-      "title": "Ministra inaugura em Benguela pescaria avaliada em mais de 20 mil milhões de kwanzas",
-      "url": "https://www.opais.ao/economia/ministra-inaugura-em-benguela-pescaria-avaliada-em-mais-de-20-mil-milhoes-de-kwanzas/",
-      "source": "O País",
-      "_key": "8403902256612337",
-      "score": 5
-    },
-    {
-      "title": "Vice-presidente da República realça que cuidar do ambiente é uma responsabilidade colectiva",
-      "url": "https://www.opais.ao/politica/vice-presidente-da-republica-realca-que-cuidar-do-ambiente-e-uma-responsabilidade-colectiva/",
-      "source": "O País",
-      "_key": "4e63704b9f605e1e",
-      "score": 5
-    },
-    {
-      "title": "Ligação aérea Luanda-Lisboa está mais cara e atinge os dois...",
-      "url": "https://valoreconomico.co.ao/artigo/ligacao-aerea-luanda-lisboa-esta-mais-cara-e-atinge-os-dois-milhoes-de-kwanzas",
-      "source": "Valor Económico",
-      "_key": "9cf156baf610e6fc",
+      "_key": "4eff0d8325cff622",
       "score": 5
     }
   ]
