@@ -1,80 +1,488 @@
 {
-  "date": "2026-06-09",
-  "total_new": 48,
-  "total_filtered": 9,
-  "scored_by": "gemini-flash",
+  "date": "2026-06-10",
+  "total_new": 134,
+  "total_filtered": 60,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Sociedade Barragem de Caculo Cabaça regista avanços significativos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678112/barragem-de-caculo-caba%C3%A7a-regista-avan%C3%A7os-significativos",
-      "source": "Jornal de Angola",
-      "_key": "523763209553db16",
+      "title": "Isabel dos Santos contesta nacionalizações e promete recorrer para recuperar a Unitel",
+      "url": "https://diariodosnegocios.com/isabel-dos-santos-contesta-nacionalizacoes-e-promete-recorrer-para-recuperar-a-unitel/",
+      "source": "Diário dos Negócios",
+      "_key": "04924e2f0ddaf477",
       "score": 9,
-      "title_cn": "卡库洛卡巴萨（Caculo Cabaça）大坝项目取得显著进展"
+      "title_cn": "伊莎贝尔 · 多斯桑托斯挑战国有化 ， 并承诺上诉收回 Unitel"
     },
     {
-      "title": "Inflação em Angola fixou-se em 10,88% em Maio",
-      "url": "https://forbesafricalusofona.com/inflacao-em-angola-fixou-se-em-1088-em-maio/",
-      "source": "Forbes África",
-      "_key": "1034fa381ef4b65f",
-      "score": 8,
-      "title_cn": "安哥拉5月通胀率定格在10.88%"
+      "title": "Inflação em Angola recua para 10,88% em Maio, a menor taxa desde Junho de 2023",
+      "url": "https://diariodosnegocios.com/inflacao-em-angola-recua-para-1088-em-maio-a-menor-taxa-desde-junho-de-2023/",
+      "source": "Diário dos Negócios",
+      "_key": "efe7ed4030289e66",
+      "score": 9,
+      "title_cn": "安哥拉 5 月通胀率回落至 10.88% ， 为 2023 年 6 月以来最低"
     },
     {
-      "title": "Política Lei do Combate ao Branqueamento de Capitais aprovada na especialidade ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678086/lei-do-combate-ao-branqueamento-de-capitais-aprovada-na-especialidade",
-      "source": "Jornal de Angola",
-      "_key": "81b14b5ad01ea524",
-      "score": 8,
-      "title_cn": "反洗钱法案获专门审议通过"
+      "title": " Isabel dos Santos contesta nacionalizações e promete recorrer para recuperar a Unitel ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_f7505e2ee75687",
+      "score": 9,
+      "title_cn": "伊莎贝尔 · 多斯桑托斯挑战国有化 ， 并承诺上诉收回 Unitel"
     },
     {
-      "title": "Economia / Há 2 horas Inflação homóloga de Maio fixada nos 10,88 por cento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678084/infla%C3%A7%C3%A3o-hom%C3%B3loga-de-maio-fixada-nos-1088-por-cento",
-      "source": "Jornal de Angola",
-      "_key": "2a8ab8b5c0d91f20",
-      "score": 8,
-      "title_cn": "安哥拉5月同比通胀率定格在10.88%"
+      "title": "Alta de preços do petróleo já se faz sentir no mercado cambial",
+      "url": "https://expansao.co.ao/economia/detalhe/alta-de-precos-do-petroleo-ja-se-faz-sentir-no-mercado-cambial-72353.html",
+      "source": "Expansão",
+      "_key": "e3643547f2a2d994",
+      "score": 9,
+      "title_cn": "油价上涨已经在外汇市场感受到"
     },
     {
-      "title": "Parlamento aprova na especialidade lei de combate ao...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/parlamento-aprova-na-especialidade-lei-de-combate-ao-branqueamento-de-capitais-72414.html",
+      "title": "Detidas no Talatona duas chinesas que exerciam ilegalmente...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidas-no-talatona-duas-chinesas-que-exerciam-ilegalmente-procedimentos-esteticos-invasivos-72429.html",
       "source": "Novo Jornal",
-      "_key": "42da8cf066b4d837",
-      "score": 8,
-      "title_cn": "议会专门审议通过打击犯罪相关法案"
+      "_key": "2a2ff3685e519f7f",
+      "score": 9,
+      "title_cn": "两名中国人因非法从事..."
     },
     {
-      "title": "Angola deixa de arrecadar 91% dos benefícios fiscais no sector não petrolífero",
-      "url": "https://correiokianda.info/angola-deixa-de-arrecadar-91-dos-beneficios-fiscais-no-sector-nao-petrolifero/",
-      "source": "Correio Kianda",
-      "_key": "abade6f7d73b1179",
-      "score": 7,
-      "title_cn": "安哥拉非石油部门损失91%税收优惠"
-    },
-    {
-      "title": "Economista defende gestão privada de estradas e reforço da logística em Angola",
-      "url": "https://correiokianda.info/economista-defende-gestao-privada-de-estradas-e-reforco-da-logistica-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "5d33771e77f60ff7",
-      "score": 6,
-      "title_cn": "经济学家主张安哥拉道路私有化管理并加强物流"
-    },
-    {
-      "title": "Angola updates contingency plan against Ebola virus - Ministry of Health",
-      "url": "https://www.angop.ao/en/noticias/saude/angola-actualiza-plano-de-contingencia-contra-o-virus-do-ebola/",
-      "source": "ANGOP",
-      "_key": "14dd204807d57e04",
-      "score": 5,
-      "title_cn": "安哥拉卫生部更新埃博拉病毒应急计划"
-    },
-    {
-      "title": "Angola e Namíbia identificam oportunidades de cooperação transfronteiriça",
-      "url": "https://www.opais.ao/politica/angola-e-namibia-identificam-oportunidades-de-cooperacao-transfronteirica/",
+      "title": "Obras do Aproveitamento Hidroeléctrico de Caculo Cabaça com 49% de execução física",
+      "url": "https://www.opais.ao/sociedade/obras-do-aproveitamento-hidroelectrico-de-caculo-cabaca-com-49-de-execucao-fisica/",
       "source": "O País",
-      "_key": "4eff0d8325cff622",
+      "_key": "4ae54becd807fcfa",
+      "score": 9,
+      "title_cn": "Caculo Cabaça 水电开发工程实体完成率为 49%"
+    },
+    {
+      "title": "Angola seeks strengthened strategic position in African logistics corridors",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-quer-reforcar-posicao-estrategica-nos-corredores-logisticos-africanos/",
+      "source": "ANGOP",
+      "_key": "4bff7611a81baa15",
+      "score": 8,
+      "title_cn": "安哥拉寻求加强在非洲物流走廊的战略地位"
+    },
+    {
+      "title": "Angola gasta 11,3 milhões USD em consultoria para gestão da dívida pública em dois meses",
+      "url": "https://diariodosnegocios.com/angola-gasta-113-milhoes-usd-em-consultoria-para-gestao-da-divida-publica-em-dois-meses/",
+      "source": "Diário dos Negócios",
+      "_key": "11eb9360267c2a84",
+      "score": 8,
+      "title_cn": "安哥拉在两个月内花费 1130 万美元用于公共债务管理咨询"
+    },
+    {
+      "title": " Angola gasta 11,3 milhões USD em consultoria para gestão da dívida pública em dois meses ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_3f32d928cc326b",
+      "score": 8,
+      "title_cn": "安哥拉在两个月内花费 1130 万美元用于公共债务管理咨询"
+    },
+    {
+      "title": "Sector não petrolífero em Angola concentra 91% dos incentivos fiscais",
+      "url": "https://forbesafricalusofona.com/sector-nao-petrolifero-em-angola-concentra-91-dos-incentivos-fiscais/",
+      "source": "Forbes África",
+      "_key": "c97204158226e9bf",
+      "score": 8,
+      "title_cn": "安哥拉非石油部门占税收优惠的 91%"
+    },
+    {
+      "title": "Mundo Tiroteio na África do Sul faz 12 mortos ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/678196/tiroteio-na-%C3%A1frica-do-sul-faz-12-mortos",
+      "source": "Jornal de Angola",
+      "_key": "cb1f77ed7ac29206",
+      "score": 8,
+      "title_cn": "南非发生枪击案 12 人死亡"
+    },
+    {
+      "title": "É de hoje… Angola pisca os olhos à Sérvia",
+      "url": "https://www.opais.ao/opiniao/e-de-hoje-angola-pisca-os-olhos-a-servia/",
+      "source": "O País",
+      "_key": "fe32a8c144dbd039",
+      "score": 8,
+      "title_cn": "今天是安哥拉向塞尔维亚眨眼"
+    },
+    {
+      "title": "Presidente João Lourenço encerra hoje visita de três dias à República da Sérvia",
+      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-encerra-hoje-visita-de-tres-dias-a-republica-da-servia/",
+      "source": "O País",
+      "_key": "ee37c8461684ebb1",
+      "score": 8,
+      "title_cn": "塞尔维亚总统若昂 · 洛伦索结束对塞尔维亚共和国为期三天的访问"
+    },
+    {
+      "title": "Isabel dos Santos prepara ofensiva internacional contra nacionalização da Efacec",
+      "url": "https://valoreconomico.co.ao/artigo/isabel-dos-santos-prepara-ofensiva-internacional-contra-nacionalizacao-da-efacec",
+      "source": "Valor Económico",
+      "_key": "01159278e22d0824",
+      "score": 8,
+      "title_cn": "伊莎贝尔 · 多斯桑托斯准备发动国际攻势反对 efacec 国有化"
+    },
+    {
+      "title": "Etu Energias concretiza segunda emissão de título de dívida de curto prazo no valor de 5 milhões de dólares",
+      "url": "https://forbesafricalusofona.com/etu-energias-concretiza-segunda-emissao-de-titulo-de-divida-de-curto-prazo-no-valor-de-5-milhoes-de-dolares/",
+      "source": "Forbes África",
+      "_key": "60f45fe886e7e479",
+      "score": 7,
+      "title_cn": "埃尔多安能源公司完成第二次发行 500 万美元短期债券"
+    },
+    {
+      "title": "Mestre Papy: a casa condigna e o canteiro de obras do Kilamba (Conclusão)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/678133/mestre-papy:-a-casa-condigna-e-o-canteiro--de-obras-do-kilamba-%28conclus%C3%A3o%29",
+      "source": "Jornal de Angola",
+      "_key": "ff9c7b9ce6045de9",
+      "score": 7,
+      "title_cn": "帕皮大师 ： 基兰巴的豪宅和建筑工地 （ 结论 ）"
+    },
+    {
+      "title": "Caso russos: Último declarante começa a ser ouvido...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-ultimo-declarante-comeca-a-ser-ouvido-esta-quarta-feira-72434.html",
+      "source": "Novo Jornal",
+      "_key": "97b982ec7b41e317",
+      "score": 7,
+      "title_cn": "俄罗斯案件 ： 最后一名被告开始被听取"
+    },
+    {
+      "title": "Caso russos: Últimos declarantes começam a ser ouvidos esta quarta-feira",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-ultimos-declarantes-comecam-a-ser-ouvidos-esta-quarta-feira-72434.html",
+      "source": "Novo Jornal",
+      "_key": "8833292736c3c127",
+      "score": 7,
+      "title_cn": "原标题 ： 俄罗斯案 ： 最后一名被告周三开始听证"
+    },
+    {
+      "title": "Cabinda necessita de aproximadamente 400 MW de potência para reforçar quadro energético",
+      "url": "https://www.opais.ao/sociedade/cabinda-necessita-de-aproximadamente-400-mw-de-potencia-para-reforcar-quadro-energetico/",
+      "source": "O País",
+      "_key": "e22d1c02b84da329",
+      "score": 7,
+      "title_cn": "Cabinda 需要大约 400 兆瓦的电力来加强能源框架"
+    },
+    {
+      "title": "Luanda volta a ficar sem ligação marítima directa a...",
+      "url": "https://valoreconomico.co.ao/artigo/luanda-volta-a-ficar-sem-ligacao-maritima-directa-a-cabinda",
+      "source": "Valor Económico",
+      "_key": "27637a316991021b",
+      "score": 7,
+      "title_cn": "罗安达不再有直接的海上连接..."
+    },
+    {
+      "title": "Angola e Sérvia definem nova etapa de cooperação com foco na agricultura, indústria e tecnologia",
+      "url": "https://correiokianda.info/angola-e-servia-definem-nova-etapa-de-cooperacao-com-foco-na-agricultura-industria-e-tecnologia/",
+      "source": "Correio Kianda",
+      "_key": "e807c1214fe89778",
+      "score": 6,
+      "title_cn": "安哥拉和塞尔维亚确定了以农业、工业和技术为重点的新合作阶段"
+    },
+    {
+      "title": "Angola projecta liderança global no mercado de diamantes",
+      "url": "https://correiokianda.info/angola-pode-tornar-se-o-maior-produtor-mundial-de-diamantes-nos-proximos-anos/",
+      "source": "Correio Kianda",
+      "_key": "b69bc81f308ada35",
+      "score": 6,
+      "title_cn": "安哥拉预计将在钻石市场处于全球领导地位"
+    },
+    {
+      "title": "Grupo Carrinho consolida influência no BFA e prepara reforço da participação accionista",
+      "url": "https://diariodosnegocios.com/grupo-carrinho-consolida-influencia-no-bfa-e-prepara-reforco-da-participacao-accionista/",
+      "source": "Diário dos Negócios",
+      "_key": "7d895394bdb81f83",
+      "score": 6,
+      "title_cn": "Grupo Carrinho 巩固了对 BFA 的影响力 ， 并准备加强股东持股"
+    },
+    {
+      "title": "Angola apresenta-se na Sérvia como destino seguro e estratégico para o investimento privado",
+      "url": "https://diariodosnegocios.com/angola-apresenta-se-na-servia-como-destino-seguro-e-estrategico-para-o-investimento-privado/",
+      "source": "Diário dos Negócios",
+      "_key": "02c35bf77ad47017",
+      "score": 6,
+      "title_cn": "安哥拉是塞尔维亚私人投资的安全和战略目的地"
+    },
+    {
+      "title": "Presidente João Lourenço quer mais investimento sérvio em sectores estratégicos",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-quer-mais-investimento-servio-em-sectores-estrategicos/",
+      "source": "Diário dos Negócios",
+      "_key": "6817f2ddb956fa51",
+      "score": 6,
+      "title_cn": "塞尔维亚总统约翰 · 洛伦索希望塞尔维亚在战略部门增加投资"
+    },
+    {
+      "title": " Grupo Carrinho consolida influência no BFA e prepara reforço da participação accionista ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_216030df303220",
+      "score": 6,
+      "title_cn": "Grupo Carrinho 巩固了对 BFA 的影响力 ， 并准备加强股东持股"
+    },
+    {
+      "title": " Angola apresenta-se na Sérvia como destino seguro e estratégico para o investimento privado ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7c436e2346d814",
+      "score": 6,
+      "title_cn": "安哥拉是塞尔维亚私人投资的安全和战略目的地"
+    },
+    {
+      "title": " Presidente João Lourenço quer mais investimento sérvio em sectores estratégicos ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7437b05672129b",
+      "score": 6,
+      "title_cn": "塞尔维亚总统约翰 · 洛伦索希望塞尔维亚在战略部门增加投资"
+    },
+    {
+      "title": " Inflação em Angola recua para 10,88% em Maio, a menor taxa desde Junho de 2023 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_8d7b30b3edc003",
+      "score": 6,
+      "title_cn": "安哥拉 5 月通胀率回落至 10.88% ， 为 2023 年 6 月以来最低"
+    },
+    {
+      "title": "Moçambique quer reduzir custos de importações e melhorar transporte rodoviário",
+      "url": "https://forbesafricalusofona.com/mocambique-quer-reduzir-custos-de-importacoes-e-melhorar-transporte-rodoviario/",
+      "source": "Forbes África",
+      "_key": "90c75c620b34b7f8",
+      "score": 6,
+      "title_cn": "莫桑比克希望降低进口成本并改善道路运输"
+    },
+    {
+      "title": "“Entrada em bolsa do BFA trouxe mais confiança aos emitentes e investidores”, garante técnico da CMC",
+      "url": "https://forbesafricalusofona.com/entrada-em-bolsa-do-bfa-trouxe-mais-confianca-aos-emitentes-e-investidores-garante-tecnico-da-cmc/",
+      "source": "Forbes África",
+      "_key": "2ee91d0d1c8b916d",
+      "score": 6,
+      "title_cn": "<unk> BFA 的 IPO 为 发行 人 和 投资 者 带来 了 更 大 的 信心 <unk> CMC 技术 担保"
+    },
+    {
+      "title": "Empresas sérvias convidadas a investir no mercado angolanoO Presidente da República, João Lourenço, convidou terça-feira, em Belgrado, os empresários sérvios a explorarem as várias oportunidades de negócio existentes no mercado nacional e a participarem no processo de transformação económica levado a cabo no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678126/empresas-s%C3%A9rvias-convidadas--a-investir-no-mercado-angolano",
+      "source": "Jornal de Angola",
+      "_key": "bfb9ca7a6a67ccca",
+      "score": 6,
+      "title_cn": "塞尔维亚总统若昂 · 洛伦索星期二在贝尔格莱德邀请塞尔维亚企业家探索安哥拉市场的各种商业机会， 并参与该国正在进行的经济转型进程。"
+    },
+    {
+      "title": "Destaque Mário Oliveira constata avanços finais dos preparativos do ANGOTIC 2026O ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, constatou, esta terça-feira, os avanços finais dos preparativos para a realização do ANGOTIC 2026, que decorrerá de 11 a 13 deste mês, no Centro de Convenções, em Luanda. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678120/m%C3%A1rio-oliveira-constata-avan%C3%A7os-finais-dos-preparativos-do-angotic-2026",
+      "source": "Jornal de Angola",
+      "_key": "2a84d2d205453065",
+      "score": 6,
+      "title_cn": "电信、信息技术和社会通信部长马里奥 · 奥利维拉 （Mario Oliveira） 周二证实了将于本月 11 日至 13 日在罗安达会议中心举行的 ANGOTIC 2026 筹备工作的最终进展。"
+    },
+    {
+      "title": "Economia Executivo projecta desenvolvimento de biocombustível para aviação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678134/executivo-projecta-desenvolvimento-de-biocombust%C3%ADvel--para-avia%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "b61733e9b653742e",
+      "score": 6,
+      "title_cn": "执行经济计划开发航空生物燃料"
+    },
+    {
+      "title": "Sociedade Eduany Pedro nomeado director para África da Associação de Negociadores de Energia ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678124/eduany-pedro-nomeado-director-para-%C3%A1frica-da-associa%C3%A7%C3%A3o-de-negociadores-de-energia-",
+      "source": "Jornal de Angola",
+      "_key": "033cc8fcaa76877d",
+      "score": 6,
+      "title_cn": "Eduany Pedro 被任命为能源谈判代表协会非洲主任"
+    },
+    {
+      "title": "Taxa de inflação recua de 11,58% para 10,88% em Maio",
+      "url": "https://www.opais.ao/economia/taxa-de-inflacao-recua-de-1158-para-1088-em-maio/",
+      "source": "O País",
+      "_key": "aee77b67f3f07d51",
+      "score": 6,
+      "title_cn": "5 月份通胀率由 11.58% 回落至 10.88%"
+    },
+    {
+      "title": "Parlamento aprova na especialidade alterações à Lei de Combate ao Branqueamento de Capitais",
+      "url": "https://www.opais.ao/politica/parlamento-aprova-na-especialidade-alteracoes-a-lei-de-combate-ao-branqueamento-de-capitais/",
+      "source": "O País",
+      "_key": "2d83749d4213986f",
+      "score": 6,
+      "title_cn": "议会批准对《反洗钱法》的修正案"
+    },
+    {
+      "title": "Parlamento reforça punição do branqueamento de capitais mesmo sem condenação do crime de origem",
+      "url": "https://www.opais.ao/politica/parlamento-reforca-punicao-do-branqueamento-de-capitais-mesmo-sem-condenacao-do-crime-de-origem/",
+      "source": "O País",
+      "_key": "a8d804781346b24f",
+      "score": 6,
+      "title_cn": "议会加大对洗钱的惩罚力度 ， 即使没有原罪定罪"
+    },
+    {
+      "title": "Banco Sol e Inovadora Capital viabilizam financiamento de 5 milhões de dólares para a Etu Energias",
+      "url": "https://www.opais.ao/economia/banco-sol-e-inovadora-capital-viabilizam-financiamento-de-5-milhoes-de-dolares-para-a-etu-energias/",
+      "source": "O País",
+      "_key": "19d7724476eca14b",
+      "score": 6,
+      "title_cn": "Banco Sol 和 Inovadora Capital 共同为 Teta Energias 提供 500 万美元的融资"
+    },
+    {
+      "title": "MAPTSS e OIM abordam projecto de parceria para a mobilidade laboral segura entre Angola, Cabo Verde e Portugal",
+      "url": "https://www.opais.ao/politica/maptss-e-oim-abordam-projecto-de-parceria-para-a-mobilidade-laboral-segura-entre-angola-cabo-verde-e-portugal/",
+      "source": "O País",
+      "_key": "5682f69362872af0",
+      "score": 6,
+      "title_cn": "MAPTSS 和国际移民组织讨论安哥拉、佛得角和葡萄牙之间的安全劳动力流动伙伴关系项目"
+    },
+    {
+      "title": "BDA reforça apoio à produção nacional com inauguração do projecto Baía Fish em Benguela",
+      "url": "https://www.opais.ao/economia/bda-reforca-apoio-a-producao-nacional-com-inauguracao-do-projecto-baia-fish-em-benguela/",
+      "source": "O País",
+      "_key": "14a3a226e58bde58",
+      "score": 6,
+      "title_cn": "BDA 在本格拉启动 Baía Fish 项目 ， 加强对国内生产的支持"
+    },
+    {
+      "title": "Angola reforça compromisso com trabalho digno na OIT",
+      "url": "https://www.opais.ao/economia/angola-reforca-compromisso-com-trabalho-digno-na-oit/",
+      "source": "O País",
+      "_key": "63565e55bf990019",
+      "score": 6,
+      "title_cn": "安哥拉加强对劳工组织体面工作的承诺"
+    },
+    {
+      "title": "Inflação posiciona-se para encerrar primeiro semestre em um dígito apesar...",
+      "url": "https://valoreconomico.co.ao/artigo/inflacao-posiciona-se-para-encerrar-primeiro-semestre-em-um-digito-apesar-da-pressao-dos-alimentos",
+      "source": "Valor Económico",
+      "_key": "3e7de270617ad9ac",
+      "score": 6,
+      "title_cn": "上半年通货膨胀率将以个位数结束 ， 尽管..."
+    },
+    {
+      "title": "Cabinda destaca-se isolada como a região mais inflacionista",
+      "url": "https://valoreconomico.co.ao/artigo/cabinda-destaca-se-isolada-como-a-regiao-mais-inflacionista",
+      "source": "Valor Económico",
+      "_key": "9203a0089e9c2b0f",
+      "score": 6,
+      "title_cn": "卡宾达是通货膨胀率最高的地区"
+    },
+    {
+      "title": "Angola's unemployment rate was estimated at 28.3% in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/taxa-de-desemprego-em-angola-fixou-se-em-28-3-por-cento-em-2025/",
+      "source": "ANGOP",
+      "_key": "700b116be1b08847",
       "score": 5,
-      "title_cn": "安哥拉与纳米比亚发现跨境合作机遇"
+      "title_cn": "2025年安哥拉失业率估计为28.3%"
+    },
+    {
+      "title": "“Potencial agrícola de Angola depende da qualificação dos recursos humanos”, afirma especialista",
+      "url": "https://correiokianda.info/potencial-agricola-de-angola-depende-da-qualificacao-dos-recursos-humanos-afirma-especialista/",
+      "source": "Correio Kianda",
+      "_key": "8cb61cf5a61077e2",
+      "score": 5,
+      "title_cn": "专家说 ： \"安哥拉的农业潜力取决于人力资源的素质。\""
+    },
+    {
+      "title": "Bancos BPC e BAI são os que mais lucram no sector segurador",
+      "url": "https://expansao.co.ao/empresas/detalhe/bancos-bpc-e-bai-sao-os-que-mais-lucram-no-sector-segurador-72352.html",
+      "source": "Expansão",
+      "_key": "5dc75fff8da66525",
+      "score": 5,
+      "title_cn": "BPC 和 BAI 银行是保险业中利润最高的银行"
+    },
+    {
+      "title": "Indemnizações disparam 90% para máximo histórico e pressionam lucros das seguradoras",
+      "url": "https://expansao.co.ao/empresas/detalhe/indemnizacoes-disparam-90-para-maximo-historico-e-pressionam-lucros-das-seguradoras-72351.html",
+      "source": "Expansão",
+      "_key": "70fcea71baf793b5",
+      "score": 5,
+      "title_cn": "赔偿额飙升 90% 创历史新高 ， 压低保险公司利润"
+    },
+    {
+      "title": "Maputo acolhe fórum de negócios Moçambique – União Europeia",
+      "url": "https://forbesafricalusofona.com/maputo-acolhe-forum-de-negocios-mocambique-uniao-europeia/",
+      "source": "Forbes África",
+      "_key": "326f9b0eed91590b",
+      "score": 5,
+      "title_cn": "马普托主办莫桑比克 - 欧盟商业论坛"
+    },
+    {
+      "title": "Destaque Revista do Dubai destaca potencial turístico de Angola como motor da diversificação económicaUm artigo intitulado “O Despertar do Gigante: o Turismo como Motor de Desenvolvimento em Angola” foi publicado na terça-feira, na revista da CEO Clubs Network, do Dubai, destacando os avanços e o potencial do sector turístico angolano como um dos pilares da diversificação económica do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678194/revista-do-dubai-destaca-potencial-tur%C3%ADstico-de-angola-como-motor-da-diversifica%C3%A7%C3%A3o-econ%C3%B3mica",
+      "source": "Jornal de Angola",
+      "_key": "34d8b9ce824ff796",
+      "score": 5,
+      "title_cn": "周二 ， 迪拜首席执行官俱乐部网络杂志发表了一篇题为《巨人的觉醒 ： 旅游业作为安哥拉发展的引擎》的文章 ， 强调了安哥拉旅游业作为该国经济多样化支柱之一的进步和潜力。"
+    },
+    {
+      "title": "Cooperação Angola-Sérvia ganha novo impulso",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/678131/coopera%C3%A7%C3%A3o-angola-s%C3%A9rvia--ganha-novo-impulso",
+      "source": "Jornal de Angola",
+      "_key": "8d957a350251e04d",
+      "score": 5,
+      "title_cn": "安哥拉 - 塞尔维亚合作获得新动力"
+    },
+    {
+      "title": "Última hora Presidente da República recebido na Assembleia Nacional da Sérvia ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678119/presidente-da-rep%C3%BAblica-recebido-na-assembleia-nacional-da-s%C3%A9rvia-",
+      "source": "Jornal de Angola",
+      "_key": "730d46b376e112c7",
+      "score": 5,
+      "title_cn": "塞尔维亚共和国总统在塞尔维亚国民议会接见"
+    },
+    {
+      "title": "Isabel dos Santos \"decepcionada\" com João Lourenço...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/isabel-dos-santos-decepcionada-com-joao-lourenco-diz-que-angola-esta-sem-rumo-72433.html",
+      "source": "Novo Jornal",
+      "_key": "36e972683be1a18a",
+      "score": 5,
+      "title_cn": "伊莎贝尔 · 多斯桑托斯对若昂 · 洛伦索感到失望"
+    },
+    {
+      "title": "RDC: Parlamento dá passo decisivo para Tshisekedi se...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdc-parlamento-da-passo-decisivo-para-tshisekedi-se-poder-eternizar-no-poder-72428.html",
+      "source": "Novo Jornal",
+      "_key": "ad6fd48f8f0f3aaa",
+      "score": 5,
+      "title_cn": "刚果民主共和国 ： 议会向齐塞凯迪迈出决定性的一步 ， 如果..."
+    },
+    {
+      "title": "Ministério da Saúde certifica hoje 150 novos médicos especialistas",
+      "url": "https://www.opais.ao/ultima_hora/ministerio-da-saude-certifica-hoje-150-novos-medicos-especialistas/",
+      "source": "O País",
+      "_key": "af9cb4542b898bc0",
+      "score": 5,
+      "title_cn": "卫生部今天批准了 150 名新医生"
+    },
+    {
+      "title": "Angola reforça sistema de vigilância epidemiológica",
+      "url": "https://www.opais.ao/sociedade/angola-reforca-sistema-de-vigilancia-epidemiologica/",
+      "source": "O País",
+      "_key": "2c64c69a8eff5d9a",
+      "score": 5,
+      "title_cn": "安哥拉加强流行病学监测系统"
+    },
+    {
+      "title": "MIREMPET e Governo da Huíla buscam soluções para travar a exploração ilegal de ouro",
+      "url": "https://www.opais.ao/ultima_hora/mirempet-e-governo-da-huila-buscam-solucoes-para-travar-a-exploracao-ilegal-de-ouro/",
+      "source": "O País",
+      "_key": "afb39639c2c16781",
+      "score": 5,
+      "title_cn": "MIREMPET 和 Huíla 政府寻求解决方案 ， 以阻止非法黄金开采"
+    },
+    {
+      "title": "Dívida ao Reino Unido supera exposição à China em mais...",
+      "url": "https://valoreconomico.co.ao/artigo/divida-ao-reino-unido-supera-exposicao-a-china-em-mais-de-usd-4-5-mil-milhoes",
+      "source": "Valor Económico",
+      "_key": "86a3a9f36b5671f6",
+      "score": 5,
+      "title_cn": "英国债务超过中国风险敞口"
+    },
+    {
+      "title": "IDE recua mais de 18% no arranque do ano",
+      "url": "https://valoreconomico.co.ao/artigo/ide-recua-mais-de-18-no-arranque-do-ano",
+      "source": "Valor Económico",
+      "_key": "15a381522f81d910",
+      "score": 5,
+      "title_cn": "年初 FDI 下降逾 18%"
+    },
+    {
+      "title": "O PREÇO DA INFLUÊNCIA",
+      "url": "https://valoreconomico.co.ao/artigo/o-preco-da-influencia",
+      "source": "Valor Económico",
+      "_key": "5b3170d887f7efd5",
+      "score": 5,
+      "title_cn": "影响力的代价"
     }
   ]
 }
