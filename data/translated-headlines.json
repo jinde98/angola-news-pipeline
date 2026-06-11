@@ -1,200 +1,128 @@
 {
   "date": "2026-06-11",
-  "total_new": 136,
-  "total_filtered": 24,
+  "total_new": 50,
+  "total_filtered": 15,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Subida do preço do petróleo reforça oferta de divisas no mercado cambial",
-      "url": "https://angola24horas.com/economia/item/34487-subida-do-preco-do-petroleo-reforca-oferta-de-divisas-no-mercado-cambial",
-      "source": "Angola 24 Horas",
-      "_key": "742e293b94f3e1d1",
-      "score": 9,
-      "title_cn": "油价上涨提振外汇市场供应"
-    },
-    {
-      "title": "Dívida ao Reino Unido supera exposição à China em mais...",
-      "url": "https://valoreconomico.co.ao/artigo/divida-ao-reino-unido-supera-exposicao-a-china-em-mais-de-usd-4-5-mil-milhoes-14331",
+      "title": "Governo anuncia redução da dívida à China e garante que...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-anuncia-reducao-da-divida-a-china-e-garante-que-divida-deixou-de-ser-um-problema",
       "source": "Valor Económico",
-      "_key": "75a97a8dadeaad23",
-      "score": 9,
-      "title_cn": "安哥拉对英债务超对华债务"
+      "_key": "8567e3b61496363b",
+      "score": 10,
+      "title_cn": "政府宣布削减对华债务。"
     },
     {
-      "title": "Importações sobem 13,8% e ultrapassam 1,2 bilião de kwanzas",
-      "url": "https://valoreconomico.co.ao/artigo/importacoes-sobem-13-8-e-ultrapassam-1-2-biliao-de-kwanzas",
+      "title": "Crise das divisas sufoca Kinguilas de Luanda: da abundância ao...",
+      "url": "https://valoreconomico.co.ao/artigo/crise-das-divisas-sufoca-kinguilas-de-luanda-da-abundancia-ao-trabalho-para-a-barriga",
       "source": "Valor Económico",
-      "_key": "f0dc546b15cc5013",
+      "_key": "0d15990d4084fe9d",
       "score": 9,
-      "title_cn": "进口增长13.8%，超1.2万亿宽扎"
+      "title_cn": "外汇危机扼杀罗安达Kinguilas：从富足到困境。"
     },
     {
-      "title": "Governo altera regime de taxas marítimas e isenta actividades petrolíferas...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-altera-regime-de-taxas-maritimas-e-isenta-actividades-petroliferas-de-cobrancas-da-agencia-maritima",
+      "title": "Governo confirma suspensão do fornecimento de água e luz a...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-confirma-suspensao-do-fornecimento-de-agua-e-luz-a-clientes-em-falta",
       "source": "Valor Económico",
-      "_key": "ac0756bf0f2c0b3c",
-      "score": 9,
-      "title_cn": "政府修改海运税制，豁免石油活动"
+      "_key": "148caba0f51fa235",
+      "score": 8,
+      "title_cn": "政府证实暂停供水供电。"
     },
     {
-      "title": "Luanda: DIIP desmantela na Maianga rede de falsificação de dólares falsos que eram introduzidos no mercado informal",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-diip-desmantela-na-maianga-rede-de-falsificacao-de-dolares-falsos-que-eram-introduzidos-no-mercado-informal-72444.html",
+      "title": "PR autoriza recrutamento de mais de 7 mil novos agentes para o Ministério do Interior",
+      "url": "https://www.opais.ao/politica/pr-autoriza-recrutamento-de-mais-de-7-mil-novos-agentes-para-o-ministerio-do-interior/",
+      "source": "O País",
+      "_key": "08d2657db3693b5f",
+      "score": 7,
+      "title_cn": "总统批准内政部招募逾7000名新警员。"
+    },
+    {
+      "title": "Etu Energias reforça presença no mercado de capitais com emissão de 5 milhões USD",
+      "url": "https://diariodosnegocios.com/etu-energias-reforca-presenca-no-mercado-de-capitais-com-emissao-de-5-milhoes-usd/",
+      "source": "Diário dos Negócios",
+      "_key": "7c40f4da8f92d9d1",
+      "score": 6,
+      "title_cn": "Etu Energias通过发行500万美元增强资本市场影响力。"
+    },
+    {
+      "title": " Etu Energias reforça presença no mercado de capitais com emissão de 5 milhões USD ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_1bda2263ee8b00",
+      "score": 6,
+      "title_cn": "Etu Energias通过发行500万美元增强资本市场影响力。"
+    },
+    {
+      "title": "Internet atinge 48% da população em Angola e telefonia móvel supera 28 milhões de assinantes",
+      "url": "https://forbesafricalusofona.com/internet-atinge-48-da-populacao-em-angola-e-telefonia-movel-supera-28-milhoes-de-assinantes/",
+      "source": "Forbes África",
+      "_key": "962acf6b6662aefe",
+      "score": 6,
+      "title_cn": "安哥拉互联网普及率达48%，移动电话用户超2800万。"
+    },
+    {
+      "title": "Polícia Nacional desmantela rede suspeita de furtos de cartões multicaixas em Cacuaco",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-desmantela-rede-suspeita-de-furtos-de-cartoes-multicaixas-em-cacuaco/",
+      "source": "O País",
+      "_key": "862909139e043be0",
+      "score": 6,
+      "title_cn": "国家警察在卡夸科捣毁涉嫌盗窃多功能银行卡团伙。"
+    },
+    {
+      "title": "Mais de 80% dos produtos distribuídos pela AngoAlissar são fabricados em Angola",
+      "url": "https://www.opais.ao/ultima_hora/mais-de-80-dos-produtos-distribuidos-pela-angoalissar-sao-fabricados-em-angola/",
+      "source": "O País",
+      "_key": "8a1d6a0a35963d0d",
+      "score": 6,
+      "title_cn": "AngoAlissar分销产品逾80%在安哥拉制造。"
+    },
+    {
+      "title": "Governo autoriza 3,9 mil milhões de Kwanzas para aquisição de sementes contra a seca no Sul e Centro",
+      "url": "https://diariodosnegocios.com/governo-autoriza-39-mil-milhoes-de-kwanzas-para-aquisicao-de-sementes-contra-a-seca-no-sul-e-centro/",
+      "source": "Diário dos Negócios",
+      "_key": "c191f6251a1a0d44",
+      "score": 5,
+      "title_cn": "政府批准39亿宽扎用于中南部抗旱种子采购。"
+    },
+    {
+      "title": " Governo autoriza 3,9 mil milhões de Kwanzas para aquisição de sementes contra a seca no Sul e Centro ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b1e184c6d2615f",
+      "score": 5,
+      "title_cn": "政府批准39亿宽扎用于中南部抗旱种子采购。"
+    },
+    {
+      "title": "Economia",
+      "url": "https://www.jornaldeangola.ao/noticias/0/4/economia",
+      "source": "Jornal de Angola",
+      "_key": "783405706b8412fc",
+      "score": 5,
+      "title_cn": "经济"
+    },
+    {
+      "title": "PR dá luz verde à compra de químicos para tratamento...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-da-luz-verde-a-compra-de-quimicos-para-tratamento-de-agua-empresas-fornecedoras-foram-escolhidas-em-concurso-publico-72455.html",
       "source": "Novo Jornal",
-      "_key": "af3f8a12d28cc8dc",
-      "score": 8,
-      "title_cn": "罗安达警方捣毁伪造美元网络"
+      "_key": "0f38c23d0385b78b",
+      "score": 5,
+      "title_cn": "总统批准购买处理用化学品。"
     },
     {
-      "title": "Porto do Lobito forma trabalhadores em matérias de espionagem e risco",
-      "url": "https://www.opais.ao/ultima_hora/porto-do-lobito-forma-trabalhadores-em-materias-de-espionagem-e-risco/",
+      "title": "Campanha de vacinação contra a cólera promete imunizar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/campanha-de-vacinacao-contra-a-colera-promete-imunizar-16-milhoes-em-cacuaco-viana-cazenga-sambizanga-maianga-e-mulenvos-72459.html",
+      "source": "Novo Jornal",
+      "_key": "4654eeb7f0619a89",
+      "score": 5,
+      "title_cn": "霍乱疫苗接种运动承诺免疫。"
+    },
+    {
+      "title": "SIC detém suspeito de matar namorada após discussão em Malanje",
+      "url": "https://www.opais.ao/sociedade/sic-detem-suspeito-de-matar-namorada-apos-discussao-em-malanje/",
       "source": "O País",
-      "_key": "d1be80fc0354ec32",
-      "score": 8,
-      "title_cn": "洛比托港培训员工反间谍与风险管理"
-    },
-    {
-      "title": "IDE recua mais de 18% no arranque do ano",
-      "url": "https://valoreconomico.co.ao/artigo/ide-recua-mais-de-18-no-arranque-do-ano-14328",
-      "source": "Valor Económico",
-      "_key": "98cc0021e91aa9d3",
-      "score": 8,
-      "title_cn": "年初外国直接投资下降超18%"
-    },
-    {
-      "title": "Economistas avisam: Desaceleração da inflação não trava perda de poder...",
-      "url": "https://valoreconomico.co.ao/artigo/economistas-avisam-desaceleracao-da-inflacao-nao-trava-perda-de-poder-de-compra-em-angola",
-      "source": "Valor Económico",
-      "_key": "649c8941b692d026",
-      "score": 7,
-      "title_cn": "经济学家警告：通胀放缓难阻购买力下降"
-    },
-    {
-      "title": "PR autoriza recrutamento de 7.600 novos agentes da Polícia Nacional",
-      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-recrutamento-de-7-600-novos-agentes-da-policia-nacional",
-      "source": "Valor Económico",
-      "_key": "9e8bd71b2c57ea20",
-      "score": 7,
-      "title_cn": "总统批准招募7600名新国家警察"
-    },
-    {
-      "title": "Inflação posiciona-se para encerrar primeiro semestre em um dígito apesar...",
-      "url": "https://valoreconomico.co.ao/artigo/inflacao-posiciona-se-para-encerrar-primeiro-semestre-em-um-digito-apesar-da-pressao-dos-alimentos-14329",
-      "source": "Valor Económico",
-      "_key": "51f94e1053831c43",
-      "score": 7,
-      "title_cn": "上半年通胀率有望保持在个位数"
-    },
-    {
-      "title": "Angolan government to implement new mining concessions rules to tackle illegal mining",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-anuncia-reordenamento-de-concessoes-mineiras-para-travar-garimpo/",
-      "source": "ANGOP",
-      "_key": "7955ab9645a00343",
-      "score": 6,
-      "title_cn": "安哥拉将实施新采矿规则打击非法采矿"
-    },
-    {
-      "title": "Ministry of Tourism and Visa sign agreement for brand strategy “Visit Angola”",
-      "url": "https://www.angop.ao/en/noticias/turismo/ministerio-do-turismo-e-visa-rubricam-acordo-para-estrategia-da-marca-visit-angola/",
-      "source": "ANGOP",
-      "_key": "3f3b48e4dae698bd",
-      "score": 6,
-      "title_cn": "旅游部与维萨签署“访问安哥拉”品牌战略协议"
-    },
-    {
-      "title": "Outbreak - Luanda to vaccinate over a million people against cholera",
-      "url": "https://www.angop.ao/en/noticias/saude/luanda-preve-vacinar-mais-de-um-milhao-de-pessoas-contra-a-colera/",
-      "source": "ANGOP",
-      "_key": "fc4df621dc07b76c",
-      "score": 6,
-      "title_cn": "罗安达将为超百万人接种霍乱疫苗"
-    },
-    {
-      "title": "Refinaria de Cabinda conclui primeira transferência de combustível pesado",
-      "url": "https://www.opais.ao/economia/refinaria-de-cabinda-conclui-primeira-transferencia-de-combustivel-pesado/",
-      "source": "O País",
-      "_key": "75d47590466458bc",
-      "score": 6,
-      "title_cn": "卡宾达炼油厂完成首次重燃料转运"
-    },
-    {
-      "title": "Historiador Don Watson diz que a América está em declínio porque a China e a Índia estão a crescer cada vez mais",
-      "url": "https://www.opais.ao/mundo/historiador-don-watson-diz-que-a-america-esta-em-declinio-porque-a-china-e-a-india-estao-a-crescer-cada-vez-mais/",
-      "source": "O País",
-      "_key": "dd819dbd7e9614f5",
-      "score": 6,
-      "title_cn": "历史学家唐·沃森（Don Watson）称中美印崛起致美国衰落"
-    },
-    {
-      "title": "Governo investe 25 milhões de dólares em produtos químicos para...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-investe-25-milhoes-de-dolares-em-produtos-quimicos-para-tratamento-de-agua-potavel",
-      "source": "Valor Económico",
-      "_key": "314e95431c904b0e",
-      "score": 6,
-      "title_cn": "政府投资2500万美元用于化学产品"
-    },
-    {
-      "title": "Emis movimenta quase 5 mil milhões de kz em...",
-      "url": "https://valoreconomico.co.ao/artigo/emis-movimenta-quase-5-mil-milhoes-de-kz-em-maio",
-      "source": "Valor Económico",
-      "_key": "50d560a128e4a017",
-      "score": 6,
-      "title_cn": "Emis处理近50亿宽扎交易"
-    },
-    {
-      "title": "“Angola na lista da vergonha”",
-      "url": "https://valoreconomico.co.ao/artigo/angola-na-lista-da-vergonha-14336",
-      "source": "Valor Económico",
-      "_key": "3420d84c6354dd16",
-      "score": 6,
-      "title_cn": "“安哥拉在耻辱名单上”"
-    },
-    {
-      "title": "Angolan diplomats in Asia and Oceania strengthen operational strategies",
-      "url": "https://www.angop.ao/en/noticias/politica/diplomatas-angolanos-na-asia-e-oceania-reforcam-estrategias-de-actuacao/",
-      "source": "ANGOP",
-      "_key": "aa55d370a4920c58",
+      "_key": "f58548fda0e19aed",
       "score": 5,
-      "title_cn": "安哥拉驻亚大外交官加强运营战略"
-    },
-    {
-      "title": "Angola no grupo de 60 países com tarifas adicionais anunciadas pelos EUA",
-      "url": "https://expansao.co.ao/economia/detalhe/angola-no-grupo-de-60-paises-com-tarifas-adicionais-anunciadas-pelos-eua-72354.html",
-      "source": "Expansão",
-      "_key": "0d0079845655c86f",
-      "score": 5,
-      "title_cn": "安哥拉被列入美国宣布加征关税的60国名单"
-    },
-    {
-      "title": "Trump em África: o regresso da realpolitik e…",
-      "url": "https://holdonangola.com/trump-em-africa-o-regresso-da-realpolitik-e-a-ascensao-de-parceiros-autoritarios/",
-      "source": "Hold On Angola",
-      "_key": "f5772c6af08a133d",
-      "score": 5,
-      "title_cn": "特朗普访非：现实政治的回归"
-    },
-    {
-      "title": "Ministério do Turismo e Visa assinam acordo para facilitar pagamentos no sector",
-      "url": "https://www.opais.ao/economia/ministerio-do-turismo-e-visa-assinam-acordo-para-facilitar-pagamentos-no-sector/",
-      "source": "O País",
-      "_key": "ae5bee382aa76a8a",
-      "score": 5,
-      "title_cn": "旅游部与维萨签署协议便利行业支付"
-    },
-    {
-      "title": "Agricultores defendem mecanização para abandonar métodos arcaicos de produção",
-      "url": "https://valoreconomico.co.ao/artigo/agricultores-defendem-mecanizacao-para-abandonar-metodos-arcaicos-de-producao",
-      "source": "Valor Económico",
-      "_key": "b3dbd497ef772c8a",
-      "score": 5,
-      "title_cn": "农民呼吁机械化生产，摒弃落后方式"
-    },
-    {
-      "title": "Grupo Carrinho reforça influência no BFA e prepara ...",
-      "url": "https://valoreconomico.co.ao/artigo/grupo-carrinho-reforca-influencia-no-bfa-e-prepara-aumento-da-participacao",
-      "source": "Valor Económico",
-      "_key": "19ba227bd2d0042d",
-      "score": 5,
-      "title_cn": "卡里尼奥集团加强对BFA银行的影响力"
+      "title_cn": "刑事调查局拘捕马兰热争吵后杀害女友嫌犯。"
     }
   ]
 }
