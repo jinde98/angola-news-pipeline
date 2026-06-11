@@ -1,427 +1,175 @@
 {
-  "date": "2026-06-10",
-  "total_new": 134,
-  "total_filtered": 60,
-  "scored_by": "glm-flash",
+  "date": "2026-06-11",
+  "total_new": 136,
+  "total_filtered": 24,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Isabel dos Santos contesta nacionalizações e promete recorrer para recuperar a Unitel",
-      "url": "https://diariodosnegocios.com/isabel-dos-santos-contesta-nacionalizacoes-e-promete-recorrer-para-recuperar-a-unitel/",
-      "source": "Diário dos Negócios",
-      "_key": "04924e2f0ddaf477",
+      "title": "Subida do preço do petróleo reforça oferta de divisas no mercado cambial",
+      "url": "https://angola24horas.com/economia/item/34487-subida-do-preco-do-petroleo-reforca-oferta-de-divisas-no-mercado-cambial",
+      "source": "Angola 24 Horas",
+      "_key": "742e293b94f3e1d1",
       "score": 9
-    },
-    {
-      "title": "Inflação em Angola recua para 10,88% em Maio, a menor taxa desde Junho de 2023",
-      "url": "https://diariodosnegocios.com/inflacao-em-angola-recua-para-1088-em-maio-a-menor-taxa-desde-junho-de-2023/",
-      "source": "Diário dos Negócios",
-      "_key": "efe7ed4030289e66",
-      "score": 9
-    },
-    {
-      "title": " Isabel dos Santos contesta nacionalizações e promete recorrer para recuperar a Unitel ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_f7505e2ee75687",
-      "score": 9
-    },
-    {
-      "title": "Alta de preços do petróleo já se faz sentir no mercado cambial",
-      "url": "https://expansao.co.ao/economia/detalhe/alta-de-precos-do-petroleo-ja-se-faz-sentir-no-mercado-cambial-72353.html",
-      "source": "Expansão",
-      "_key": "e3643547f2a2d994",
-      "score": 9
-    },
-    {
-      "title": "Detidas no Talatona duas chinesas que exerciam ilegalmente...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidas-no-talatona-duas-chinesas-que-exerciam-ilegalmente-procedimentos-esteticos-invasivos-72429.html",
-      "source": "Novo Jornal",
-      "_key": "2a2ff3685e519f7f",
-      "score": 9
-    },
-    {
-      "title": "Obras do Aproveitamento Hidroeléctrico de Caculo Cabaça com 49% de execução física",
-      "url": "https://www.opais.ao/sociedade/obras-do-aproveitamento-hidroelectrico-de-caculo-cabaca-com-49-de-execucao-fisica/",
-      "source": "O País",
-      "_key": "4ae54becd807fcfa",
-      "score": 9
-    },
-    {
-      "title": "Angola seeks strengthened strategic position in African logistics corridors",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-quer-reforcar-posicao-estrategica-nos-corredores-logisticos-africanos/",
-      "source": "ANGOP",
-      "_key": "4bff7611a81baa15",
-      "score": 8
-    },
-    {
-      "title": "Angola gasta 11,3 milhões USD em consultoria para gestão da dívida pública em dois meses",
-      "url": "https://diariodosnegocios.com/angola-gasta-113-milhoes-usd-em-consultoria-para-gestao-da-divida-publica-em-dois-meses/",
-      "source": "Diário dos Negócios",
-      "_key": "11eb9360267c2a84",
-      "score": 8
-    },
-    {
-      "title": " Angola gasta 11,3 milhões USD em consultoria para gestão da dívida pública em dois meses ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_3f32d928cc326b",
-      "score": 8
-    },
-    {
-      "title": "Sector não petrolífero em Angola concentra 91% dos incentivos fiscais",
-      "url": "https://forbesafricalusofona.com/sector-nao-petrolifero-em-angola-concentra-91-dos-incentivos-fiscais/",
-      "source": "Forbes África",
-      "_key": "c97204158226e9bf",
-      "score": 8
-    },
-    {
-      "title": "Mundo Tiroteio na África do Sul faz 12 mortos ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/678196/tiroteio-na-%C3%A1frica-do-sul-faz-12-mortos",
-      "source": "Jornal de Angola",
-      "_key": "cb1f77ed7ac29206",
-      "score": 8
-    },
-    {
-      "title": "É de hoje… Angola pisca os olhos à Sérvia",
-      "url": "https://www.opais.ao/opiniao/e-de-hoje-angola-pisca-os-olhos-a-servia/",
-      "source": "O País",
-      "_key": "fe32a8c144dbd039",
-      "score": 8
-    },
-    {
-      "title": "Presidente João Lourenço encerra hoje visita de três dias à República da Sérvia",
-      "url": "https://www.opais.ao/politica/presidente-joao-lourenco-encerra-hoje-visita-de-tres-dias-a-republica-da-servia/",
-      "source": "O País",
-      "_key": "ee37c8461684ebb1",
-      "score": 8
-    },
-    {
-      "title": "Isabel dos Santos prepara ofensiva internacional contra nacionalização da Efacec",
-      "url": "https://valoreconomico.co.ao/artigo/isabel-dos-santos-prepara-ofensiva-internacional-contra-nacionalizacao-da-efacec",
-      "source": "Valor Económico",
-      "_key": "01159278e22d0824",
-      "score": 8
-    },
-    {
-      "title": "Etu Energias concretiza segunda emissão de título de dívida de curto prazo no valor de 5 milhões de dólares",
-      "url": "https://forbesafricalusofona.com/etu-energias-concretiza-segunda-emissao-de-titulo-de-divida-de-curto-prazo-no-valor-de-5-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "60f45fe886e7e479",
-      "score": 7
-    },
-    {
-      "title": "Mestre Papy: a casa condigna e o canteiro de obras do Kilamba (Conclusão)",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/678133/mestre-papy:-a-casa-condigna-e-o-canteiro--de-obras-do-kilamba-%28conclus%C3%A3o%29",
-      "source": "Jornal de Angola",
-      "_key": "ff9c7b9ce6045de9",
-      "score": 7
-    },
-    {
-      "title": "Caso russos: Último declarante começa a ser ouvido...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-ultimo-declarante-comeca-a-ser-ouvido-esta-quarta-feira-72434.html",
-      "source": "Novo Jornal",
-      "_key": "97b982ec7b41e317",
-      "score": 7
-    },
-    {
-      "title": "Caso russos: Últimos declarantes começam a ser ouvidos esta quarta-feira",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-ultimos-declarantes-comecam-a-ser-ouvidos-esta-quarta-feira-72434.html",
-      "source": "Novo Jornal",
-      "_key": "8833292736c3c127",
-      "score": 7
-    },
-    {
-      "title": "Cabinda necessita de aproximadamente 400 MW de potência para reforçar quadro energético",
-      "url": "https://www.opais.ao/sociedade/cabinda-necessita-de-aproximadamente-400-mw-de-potencia-para-reforcar-quadro-energetico/",
-      "source": "O País",
-      "_key": "e22d1c02b84da329",
-      "score": 7
-    },
-    {
-      "title": "Luanda volta a ficar sem ligação marítima directa a...",
-      "url": "https://valoreconomico.co.ao/artigo/luanda-volta-a-ficar-sem-ligacao-maritima-directa-a-cabinda",
-      "source": "Valor Económico",
-      "_key": "27637a316991021b",
-      "score": 7
-    },
-    {
-      "title": "Angola e Sérvia definem nova etapa de cooperação com foco na agricultura, indústria e tecnologia",
-      "url": "https://correiokianda.info/angola-e-servia-definem-nova-etapa-de-cooperacao-com-foco-na-agricultura-industria-e-tecnologia/",
-      "source": "Correio Kianda",
-      "_key": "e807c1214fe89778",
-      "score": 6
-    },
-    {
-      "title": "Angola projecta liderança global no mercado de diamantes",
-      "url": "https://correiokianda.info/angola-pode-tornar-se-o-maior-produtor-mundial-de-diamantes-nos-proximos-anos/",
-      "source": "Correio Kianda",
-      "_key": "b69bc81f308ada35",
-      "score": 6
-    },
-    {
-      "title": "Grupo Carrinho consolida influência no BFA e prepara reforço da participação accionista",
-      "url": "https://diariodosnegocios.com/grupo-carrinho-consolida-influencia-no-bfa-e-prepara-reforco-da-participacao-accionista/",
-      "source": "Diário dos Negócios",
-      "_key": "7d895394bdb81f83",
-      "score": 6
-    },
-    {
-      "title": "Angola apresenta-se na Sérvia como destino seguro e estratégico para o investimento privado",
-      "url": "https://diariodosnegocios.com/angola-apresenta-se-na-servia-como-destino-seguro-e-estrategico-para-o-investimento-privado/",
-      "source": "Diário dos Negócios",
-      "_key": "02c35bf77ad47017",
-      "score": 6
-    },
-    {
-      "title": "Presidente João Lourenço quer mais investimento sérvio em sectores estratégicos",
-      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-quer-mais-investimento-servio-em-sectores-estrategicos/",
-      "source": "Diário dos Negócios",
-      "_key": "6817f2ddb956fa51",
-      "score": 6
-    },
-    {
-      "title": " Grupo Carrinho consolida influência no BFA e prepara reforço da participação accionista ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_216030df303220",
-      "score": 6
-    },
-    {
-      "title": " Angola apresenta-se na Sérvia como destino seguro e estratégico para o investimento privado ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7c436e2346d814",
-      "score": 6
-    },
-    {
-      "title": " Presidente João Lourenço quer mais investimento sérvio em sectores estratégicos ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7437b05672129b",
-      "score": 6
-    },
-    {
-      "title": " Inflação em Angola recua para 10,88% em Maio, a menor taxa desde Junho de 2023 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8d7b30b3edc003",
-      "score": 6
-    },
-    {
-      "title": "Moçambique quer reduzir custos de importações e melhorar transporte rodoviário",
-      "url": "https://forbesafricalusofona.com/mocambique-quer-reduzir-custos-de-importacoes-e-melhorar-transporte-rodoviario/",
-      "source": "Forbes África",
-      "_key": "90c75c620b34b7f8",
-      "score": 6
-    },
-    {
-      "title": "“Entrada em bolsa do BFA trouxe mais confiança aos emitentes e investidores”, garante técnico da CMC",
-      "url": "https://forbesafricalusofona.com/entrada-em-bolsa-do-bfa-trouxe-mais-confianca-aos-emitentes-e-investidores-garante-tecnico-da-cmc/",
-      "source": "Forbes África",
-      "_key": "2ee91d0d1c8b916d",
-      "score": 6
-    },
-    {
-      "title": "Empresas sérvias convidadas a investir no mercado angolanoO Presidente da República, João Lourenço, convidou terça-feira, em Belgrado, os empresários sérvios a explorarem as várias oportunidades de negócio existentes no mercado nacional e a participarem no processo de transformação económica levado a cabo no país.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678126/empresas-s%C3%A9rvias-convidadas--a-investir-no-mercado-angolano",
-      "source": "Jornal de Angola",
-      "_key": "bfb9ca7a6a67ccca",
-      "score": 6
-    },
-    {
-      "title": "Destaque Mário Oliveira constata avanços finais dos preparativos do ANGOTIC 2026O ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, constatou, esta terça-feira, os avanços finais dos preparativos para a realização do ANGOTIC 2026, que decorrerá de 11 a 13 deste mês, no Centro de Convenções, em Luanda. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678120/m%C3%A1rio-oliveira-constata-avan%C3%A7os-finais-dos-preparativos-do-angotic-2026",
-      "source": "Jornal de Angola",
-      "_key": "2a84d2d205453065",
-      "score": 6
-    },
-    {
-      "title": "Economia Executivo projecta desenvolvimento de biocombustível para aviação ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678134/executivo-projecta-desenvolvimento-de-biocombust%C3%ADvel--para-avia%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "b61733e9b653742e",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Eduany Pedro nomeado director para África da Associação de Negociadores de Energia ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678124/eduany-pedro-nomeado-director-para-%C3%A1frica-da-associa%C3%A7%C3%A3o-de-negociadores-de-energia-",
-      "source": "Jornal de Angola",
-      "_key": "033cc8fcaa76877d",
-      "score": 6
-    },
-    {
-      "title": "Taxa de inflação recua de 11,58% para 10,88% em Maio",
-      "url": "https://www.opais.ao/economia/taxa-de-inflacao-recua-de-1158-para-1088-em-maio/",
-      "source": "O País",
-      "_key": "aee77b67f3f07d51",
-      "score": 6
-    },
-    {
-      "title": "Parlamento aprova na especialidade alterações à Lei de Combate ao Branqueamento de Capitais",
-      "url": "https://www.opais.ao/politica/parlamento-aprova-na-especialidade-alteracoes-a-lei-de-combate-ao-branqueamento-de-capitais/",
-      "source": "O País",
-      "_key": "2d83749d4213986f",
-      "score": 6
-    },
-    {
-      "title": "Parlamento reforça punição do branqueamento de capitais mesmo sem condenação do crime de origem",
-      "url": "https://www.opais.ao/politica/parlamento-reforca-punicao-do-branqueamento-de-capitais-mesmo-sem-condenacao-do-crime-de-origem/",
-      "source": "O País",
-      "_key": "a8d804781346b24f",
-      "score": 6
-    },
-    {
-      "title": "Banco Sol e Inovadora Capital viabilizam financiamento de 5 milhões de dólares para a Etu Energias",
-      "url": "https://www.opais.ao/economia/banco-sol-e-inovadora-capital-viabilizam-financiamento-de-5-milhoes-de-dolares-para-a-etu-energias/",
-      "source": "O País",
-      "_key": "19d7724476eca14b",
-      "score": 6
-    },
-    {
-      "title": "MAPTSS e OIM abordam projecto de parceria para a mobilidade laboral segura entre Angola, Cabo Verde e Portugal",
-      "url": "https://www.opais.ao/politica/maptss-e-oim-abordam-projecto-de-parceria-para-a-mobilidade-laboral-segura-entre-angola-cabo-verde-e-portugal/",
-      "source": "O País",
-      "_key": "5682f69362872af0",
-      "score": 6
-    },
-    {
-      "title": "BDA reforça apoio à produção nacional com inauguração do projecto Baía Fish em Benguela",
-      "url": "https://www.opais.ao/economia/bda-reforca-apoio-a-producao-nacional-com-inauguracao-do-projecto-baia-fish-em-benguela/",
-      "source": "O País",
-      "_key": "14a3a226e58bde58",
-      "score": 6
-    },
-    {
-      "title": "Angola reforça compromisso com trabalho digno na OIT",
-      "url": "https://www.opais.ao/economia/angola-reforca-compromisso-com-trabalho-digno-na-oit/",
-      "source": "O País",
-      "_key": "63565e55bf990019",
-      "score": 6
-    },
-    {
-      "title": "Inflação posiciona-se para encerrar primeiro semestre em um dígito apesar...",
-      "url": "https://valoreconomico.co.ao/artigo/inflacao-posiciona-se-para-encerrar-primeiro-semestre-em-um-digito-apesar-da-pressao-dos-alimentos",
-      "source": "Valor Económico",
-      "_key": "3e7de270617ad9ac",
-      "score": 6
-    },
-    {
-      "title": "Cabinda destaca-se isolada como a região mais inflacionista",
-      "url": "https://valoreconomico.co.ao/artigo/cabinda-destaca-se-isolada-como-a-regiao-mais-inflacionista",
-      "source": "Valor Económico",
-      "_key": "9203a0089e9c2b0f",
-      "score": 6
-    },
-    {
-      "title": "Angola's unemployment rate was estimated at 28.3% in 2025",
-      "url": "https://www.angop.ao/en/noticias/economia/taxa-de-desemprego-em-angola-fixou-se-em-28-3-por-cento-em-2025/",
-      "source": "ANGOP",
-      "_key": "700b116be1b08847",
-      "score": 5
-    },
-    {
-      "title": "“Potencial agrícola de Angola depende da qualificação dos recursos humanos”, afirma especialista",
-      "url": "https://correiokianda.info/potencial-agricola-de-angola-depende-da-qualificacao-dos-recursos-humanos-afirma-especialista/",
-      "source": "Correio Kianda",
-      "_key": "8cb61cf5a61077e2",
-      "score": 5
-    },
-    {
-      "title": "Bancos BPC e BAI são os que mais lucram no sector segurador",
-      "url": "https://expansao.co.ao/empresas/detalhe/bancos-bpc-e-bai-sao-os-que-mais-lucram-no-sector-segurador-72352.html",
-      "source": "Expansão",
-      "_key": "5dc75fff8da66525",
-      "score": 5
-    },
-    {
-      "title": "Indemnizações disparam 90% para máximo histórico e pressionam lucros das seguradoras",
-      "url": "https://expansao.co.ao/empresas/detalhe/indemnizacoes-disparam-90-para-maximo-historico-e-pressionam-lucros-das-seguradoras-72351.html",
-      "source": "Expansão",
-      "_key": "70fcea71baf793b5",
-      "score": 5
-    },
-    {
-      "title": "Maputo acolhe fórum de negócios Moçambique – União Europeia",
-      "url": "https://forbesafricalusofona.com/maputo-acolhe-forum-de-negocios-mocambique-uniao-europeia/",
-      "source": "Forbes África",
-      "_key": "326f9b0eed91590b",
-      "score": 5
-    },
-    {
-      "title": "Destaque Revista do Dubai destaca potencial turístico de Angola como motor da diversificação económicaUm artigo intitulado “O Despertar do Gigante: o Turismo como Motor de Desenvolvimento em Angola” foi publicado na terça-feira, na revista da CEO Clubs Network, do Dubai, destacando os avanços e o potencial do sector turístico angolano como um dos pilares da diversificação económica do país.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678194/revista-do-dubai-destaca-potencial-tur%C3%ADstico-de-angola-como-motor-da-diversifica%C3%A7%C3%A3o-econ%C3%B3mica",
-      "source": "Jornal de Angola",
-      "_key": "34d8b9ce824ff796",
-      "score": 5
-    },
-    {
-      "title": "Cooperação Angola-Sérvia ganha novo impulso",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/678131/coopera%C3%A7%C3%A3o-angola-s%C3%A9rvia--ganha-novo-impulso",
-      "source": "Jornal de Angola",
-      "_key": "8d957a350251e04d",
-      "score": 5
-    },
-    {
-      "title": "Última hora Presidente da República recebido na Assembleia Nacional da Sérvia ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678119/presidente-da-rep%C3%BAblica-recebido-na-assembleia-nacional-da-s%C3%A9rvia-",
-      "source": "Jornal de Angola",
-      "_key": "730d46b376e112c7",
-      "score": 5
-    },
-    {
-      "title": "Isabel dos Santos \"decepcionada\" com João Lourenço...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/isabel-dos-santos-decepcionada-com-joao-lourenco-diz-que-angola-esta-sem-rumo-72433.html",
-      "source": "Novo Jornal",
-      "_key": "36e972683be1a18a",
-      "score": 5
-    },
-    {
-      "title": "RDC: Parlamento dá passo decisivo para Tshisekedi se...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdc-parlamento-da-passo-decisivo-para-tshisekedi-se-poder-eternizar-no-poder-72428.html",
-      "source": "Novo Jornal",
-      "_key": "ad6fd48f8f0f3aaa",
-      "score": 5
-    },
-    {
-      "title": "Ministério da Saúde certifica hoje 150 novos médicos especialistas",
-      "url": "https://www.opais.ao/ultima_hora/ministerio-da-saude-certifica-hoje-150-novos-medicos-especialistas/",
-      "source": "O País",
-      "_key": "af9cb4542b898bc0",
-      "score": 5
-    },
-    {
-      "title": "Angola reforça sistema de vigilância epidemiológica",
-      "url": "https://www.opais.ao/sociedade/angola-reforca-sistema-de-vigilancia-epidemiologica/",
-      "source": "O País",
-      "_key": "2c64c69a8eff5d9a",
-      "score": 5
-    },
-    {
-      "title": "MIREMPET e Governo da Huíla buscam soluções para travar a exploração ilegal de ouro",
-      "url": "https://www.opais.ao/ultima_hora/mirempet-e-governo-da-huila-buscam-solucoes-para-travar-a-exploracao-ilegal-de-ouro/",
-      "source": "O País",
-      "_key": "afb39639c2c16781",
-      "score": 5
     },
     {
       "title": "Dívida ao Reino Unido supera exposição à China em mais...",
-      "url": "https://valoreconomico.co.ao/artigo/divida-ao-reino-unido-supera-exposicao-a-china-em-mais-de-usd-4-5-mil-milhoes",
+      "url": "https://valoreconomico.co.ao/artigo/divida-ao-reino-unido-supera-exposicao-a-china-em-mais-de-usd-4-5-mil-milhoes-14331",
       "source": "Valor Económico",
-      "_key": "86a3a9f36b5671f6",
-      "score": 5
+      "_key": "75a97a8dadeaad23",
+      "score": 9
+    },
+    {
+      "title": "Importações sobem 13,8% e ultrapassam 1,2 bilião de kwanzas",
+      "url": "https://valoreconomico.co.ao/artigo/importacoes-sobem-13-8-e-ultrapassam-1-2-biliao-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "f0dc546b15cc5013",
+      "score": 9
+    },
+    {
+      "title": "Governo altera regime de taxas marítimas e isenta actividades petrolíferas...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-altera-regime-de-taxas-maritimas-e-isenta-actividades-petroliferas-de-cobrancas-da-agencia-maritima",
+      "source": "Valor Económico",
+      "_key": "ac0756bf0f2c0b3c",
+      "score": 9
+    },
+    {
+      "title": "Luanda: DIIP desmantela na Maianga rede de falsificação de dólares falsos que eram introduzidos no mercado informal",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-diip-desmantela-na-maianga-rede-de-falsificacao-de-dolares-falsos-que-eram-introduzidos-no-mercado-informal-72444.html",
+      "source": "Novo Jornal",
+      "_key": "af3f8a12d28cc8dc",
+      "score": 8
+    },
+    {
+      "title": "Porto do Lobito forma trabalhadores em matérias de espionagem e risco",
+      "url": "https://www.opais.ao/ultima_hora/porto-do-lobito-forma-trabalhadores-em-materias-de-espionagem-e-risco/",
+      "source": "O País",
+      "_key": "d1be80fc0354ec32",
+      "score": 8
     },
     {
       "title": "IDE recua mais de 18% no arranque do ano",
-      "url": "https://valoreconomico.co.ao/artigo/ide-recua-mais-de-18-no-arranque-do-ano",
+      "url": "https://valoreconomico.co.ao/artigo/ide-recua-mais-de-18-no-arranque-do-ano-14328",
       "source": "Valor Económico",
-      "_key": "15a381522f81d910",
+      "_key": "98cc0021e91aa9d3",
+      "score": 8
+    },
+    {
+      "title": "Economistas avisam: Desaceleração da inflação não trava perda de poder...",
+      "url": "https://valoreconomico.co.ao/artigo/economistas-avisam-desaceleracao-da-inflacao-nao-trava-perda-de-poder-de-compra-em-angola",
+      "source": "Valor Económico",
+      "_key": "649c8941b692d026",
+      "score": 7
+    },
+    {
+      "title": "PR autoriza recrutamento de 7.600 novos agentes da Polícia Nacional",
+      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-recrutamento-de-7-600-novos-agentes-da-policia-nacional",
+      "source": "Valor Económico",
+      "_key": "9e8bd71b2c57ea20",
+      "score": 7
+    },
+    {
+      "title": "Inflação posiciona-se para encerrar primeiro semestre em um dígito apesar...",
+      "url": "https://valoreconomico.co.ao/artigo/inflacao-posiciona-se-para-encerrar-primeiro-semestre-em-um-digito-apesar-da-pressao-dos-alimentos-14329",
+      "source": "Valor Económico",
+      "_key": "51f94e1053831c43",
+      "score": 7
+    },
+    {
+      "title": "Angolan government to implement new mining concessions rules to tackle illegal mining",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-anuncia-reordenamento-de-concessoes-mineiras-para-travar-garimpo/",
+      "source": "ANGOP",
+      "_key": "7955ab9645a00343",
+      "score": 6
+    },
+    {
+      "title": "Ministry of Tourism and Visa sign agreement for brand strategy “Visit Angola”",
+      "url": "https://www.angop.ao/en/noticias/turismo/ministerio-do-turismo-e-visa-rubricam-acordo-para-estrategia-da-marca-visit-angola/",
+      "source": "ANGOP",
+      "_key": "3f3b48e4dae698bd",
+      "score": 6
+    },
+    {
+      "title": "Outbreak - Luanda to vaccinate over a million people against cholera",
+      "url": "https://www.angop.ao/en/noticias/saude/luanda-preve-vacinar-mais-de-um-milhao-de-pessoas-contra-a-colera/",
+      "source": "ANGOP",
+      "_key": "fc4df621dc07b76c",
+      "score": 6
+    },
+    {
+      "title": "Refinaria de Cabinda conclui primeira transferência de combustível pesado",
+      "url": "https://www.opais.ao/economia/refinaria-de-cabinda-conclui-primeira-transferencia-de-combustivel-pesado/",
+      "source": "O País",
+      "_key": "75d47590466458bc",
+      "score": 6
+    },
+    {
+      "title": "Historiador Don Watson diz que a América está em declínio porque a China e a Índia estão a crescer cada vez mais",
+      "url": "https://www.opais.ao/mundo/historiador-don-watson-diz-que-a-america-esta-em-declinio-porque-a-china-e-a-india-estao-a-crescer-cada-vez-mais/",
+      "source": "O País",
+      "_key": "dd819dbd7e9614f5",
+      "score": 6
+    },
+    {
+      "title": "Governo investe 25 milhões de dólares em produtos químicos para...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-investe-25-milhoes-de-dolares-em-produtos-quimicos-para-tratamento-de-agua-potavel",
+      "source": "Valor Económico",
+      "_key": "314e95431c904b0e",
+      "score": 6
+    },
+    {
+      "title": "Emis movimenta quase 5 mil milhões de kz em...",
+      "url": "https://valoreconomico.co.ao/artigo/emis-movimenta-quase-5-mil-milhoes-de-kz-em-maio",
+      "source": "Valor Económico",
+      "_key": "50d560a128e4a017",
+      "score": 6
+    },
+    {
+      "title": "“Angola na lista da vergonha”",
+      "url": "https://valoreconomico.co.ao/artigo/angola-na-lista-da-vergonha-14336",
+      "source": "Valor Económico",
+      "_key": "3420d84c6354dd16",
+      "score": 6
+    },
+    {
+      "title": "Angolan diplomats in Asia and Oceania strengthen operational strategies",
+      "url": "https://www.angop.ao/en/noticias/politica/diplomatas-angolanos-na-asia-e-oceania-reforcam-estrategias-de-actuacao/",
+      "source": "ANGOP",
+      "_key": "aa55d370a4920c58",
       "score": 5
     },
     {
-      "title": "O PREÇO DA INFLUÊNCIA",
-      "url": "https://valoreconomico.co.ao/artigo/o-preco-da-influencia",
+      "title": "Angola no grupo de 60 países com tarifas adicionais anunciadas pelos EUA",
+      "url": "https://expansao.co.ao/economia/detalhe/angola-no-grupo-de-60-paises-com-tarifas-adicionais-anunciadas-pelos-eua-72354.html",
+      "source": "Expansão",
+      "_key": "0d0079845655c86f",
+      "score": 5
+    },
+    {
+      "title": "Trump em África: o regresso da realpolitik e…",
+      "url": "https://holdonangola.com/trump-em-africa-o-regresso-da-realpolitik-e-a-ascensao-de-parceiros-autoritarios/",
+      "source": "Hold On Angola",
+      "_key": "f5772c6af08a133d",
+      "score": 5
+    },
+    {
+      "title": "Ministério do Turismo e Visa assinam acordo para facilitar pagamentos no sector",
+      "url": "https://www.opais.ao/economia/ministerio-do-turismo-e-visa-assinam-acordo-para-facilitar-pagamentos-no-sector/",
+      "source": "O País",
+      "_key": "ae5bee382aa76a8a",
+      "score": 5
+    },
+    {
+      "title": "Agricultores defendem mecanização para abandonar métodos arcaicos de produção",
+      "url": "https://valoreconomico.co.ao/artigo/agricultores-defendem-mecanizacao-para-abandonar-metodos-arcaicos-de-producao",
       "source": "Valor Económico",
-      "_key": "5b3170d887f7efd5",
+      "_key": "b3dbd497ef772c8a",
+      "score": 5
+    },
+    {
+      "title": "Grupo Carrinho reforça influência no BFA e prepara ...",
+      "url": "https://valoreconomico.co.ao/artigo/grupo-carrinho-reforca-influencia-no-bfa-e-prepara-aumento-da-participacao",
+      "source": "Valor Económico",
+      "_key": "19ba227bd2d0042d",
       "score": 5
     }
   ]
