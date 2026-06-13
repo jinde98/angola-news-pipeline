@@ -1,64 +1,192 @@
 {
-  "date": "2026-06-12",
-  "total_new": 118,
-  "total_filtered": 7,
-  "scored_by": "keyword",
+  "date": "2026-06-13",
+  "total_new": 84,
+  "total_filtered": 23,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China quebra protocolo e junta-se a diálogo liderado por Macron",
-      "url": "https://correiokianda.info/china-quebra-protocolo-e-junta-se-a-dialogo-liderado-por-macron/",
+      "title": "Política Angola e China reforçam parceria com consultas políticas em Pequim ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678369/angola-e-china-refor%C3%A7am-parceria-com-consultas-pol%C3%ADticas-em-pequim",
+      "source": "Jornal de Angola",
+      "_key": "7be26eba77868630",
+      "score": 10,
+      "title_cn": "安哥拉与中国在北京举行政治磋商，深化伙伴关系"
+    },
+    {
+      "title": "Angola e China intensificam relações diplomáticas e de cooperação",
+      "url": "https://www.opais.ao/politica/angola-e-china-intensificam-relacoes-diplomaticas-e-de-cooperacao/",
+      "source": "O País",
+      "_key": "79bb2653b87763f9",
+      "score": 10,
+      "title_cn": "安哥拉与中国深化外交与合作关系"
+    },
+    {
+      "title": "Gasóleo sofre reajuste e passa a custar 420 kwanzas",
+      "url": "https://correiokianda.info/gasoleo-sofre-reajuste-e-passa-a-custar-420-kwanzas/",
       "source": "Correio Kianda",
-      "_key": "0aa2fcd330a52041",
+      "_key": "78321a97af13507b",
+      "score": 8,
+      "title_cn": "柴油价格上调至420宽扎"
+    },
+    {
+      "title": "Preço do gasóleo aumenta mais 20 Kwanzas",
+      "url": "https://www.opais.ao/ultima_hora/preco-do-gasoleo-aumenta-mais-20-kwanzas/",
+      "source": "O País",
+      "_key": "c9eda99c5accffd3",
+      "score": 8,
+      "title_cn": "柴油价格再上涨20宽扎"
+    },
+    {
+      "title": "PR autoriza contratação simplificada de 280 milhões de dólares para...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-contratacao-simplificada-de-280-milhoes-de-dolares-para-alimentacao-e-higiene-das-faa",
+      "source": "Valor Económico",
+      "_key": "25b2a7ad2dd992d9",
+      "score": 8,
+      "title_cn": "总统批准2.8亿美元简化合同采购"
+    },
+    {
+      "title": "Empresa israelita é investigada por alegada interferência em Angola, diz Governo francês",
+      "url": "https://angola24horas.com/component/k2/item/34500-empresa-israelita-e-investigada-por-alegada-interferencia-em-angola-diz-governo-frances",
+      "source": "Angola 24 Horas",
+      "_key": "c8c97ea889888d99",
       "score": 7,
-      "title_cn": "中国打破惯例，加入马克龙（Macron）主导的对话"
+      "title_cn": "法国政府称以色列公司涉嫌干预安哥拉事务受调查"
     },
     {
-      "title": "Reordenamento do comércio leva ao encerramento da Feira da Liberdade no Kilamba Kiaxi",
-      "url": "https://correiokianda.info/reordenamento-do-comercio-leva-ao-encerramento-da-feira-da-liberdade-no-kilamba-kiaxi/",
+      "title": "Taxistas mantêm preços da corrida apesar da subida do gasóleo para 420 kwanzas",
+      "url": "https://correiokianda.info/taxistas-mantem-precos-da-corrida-apesar-da-subida-do-gasoleo-para-420-kwanzas/",
       "source": "Correio Kianda",
-      "_key": "051e17c8a25f8654",
-      "score": 5,
-      "title_cn": "商业秩序调整导致基兰巴·基亚西（Kilamba Kiaxi）自由市场关闭"
+      "_key": "9b15e8541173c1b9",
+      "score": 7,
+      "title_cn": "尽管柴油涨至420宽扎，出租车司机仍维持原价"
     },
     {
-      "title": "Chevron enfrenta processo em Luanda por alegada dívida de 2,8 milhões de dólares à Juve Leo",
-      "url": "https://diariodosnegocios.com/chevron-enfrenta-processo-em-luanda-por-alegada-divida-de-28-milhoes-de-dolares-a-juve-leo/",
-      "source": "Diário dos Negócios",
-      "_key": "a6dc2146d4ca6f3c",
-      "score": 5,
-      "title_cn": "雪佛龙（Chevron）在罗安达面临诉讼，涉嫌拖欠尤文·莱奥（Juve Leo）280万美元"
-    },
-    {
-      "title": " Chevron enfrenta processo em Luanda por alegada dívida de 2,8 milhões de dólares à Juve Leo ",
+      "title": "MinFin paga dívida da Angola Cables ao BDA para evitar incumprimento",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_789de848d8882f",
-      "score": 5,
-      "title_cn": "雪佛龙（Chevron）在罗安达面临诉讼，涉嫌拖欠尤文·莱奥（Juve Leo）280万美元"
+      "source": "Expansão",
+      "_key": "t_942fe6d05e1f7b",
+      "score": 7,
+      "title_cn": "财政部代安哥拉电缆公司偿还BDA债务以避免违约"
     },
     {
-      "title": "Produção de petróleo da OPEP mantém-se 34% abaixo do produzido antes da guerra",
-      "url": "https://jornaloguardiao.com/2026/06/12/producao-de-petroleo-da-opep-mantem-se-34-abaixo-do-produzido-antes-da-guerra/",
-      "source": "Jornal O Guardião",
-      "_key": "5645f20dfd1f3d7c",
-      "score": 5,
-      "title_cn": "欧佩克（OPEC）石油产量仍比战前低34%"
+      "title": "Economia AIPEX Awards anuncia categorias para premiar investidores e empresas do ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678364/aipex-awards-anuncia-categorias-para-premiar-investidores-e-empresas-do-ano-",
+      "source": "Jornal de Angola",
+      "_key": "8576eac410914049",
+      "score": 7,
+      "title_cn": "AIPEX奖项公布年度投资者和企业评选类别"
     },
     {
-      "title": " Produção de petróleo da OPEP mantém-se 34% abaixo do produzido antes da guerra ",
+      "title": "Decisão favorável a Isabel dos Santos é uma gota de...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/decisao-favoravel-a-isabel-dos-santos-e-uma-gota-de-agua-no-oceano-defendem-juristas-72487.html",
+      "source": "Novo Jornal",
+      "_key": "3119f9fcd7059a50",
+      "score": 7,
+      "title_cn": "对伊莎贝尔 · 多斯桑托斯有利的决定是..."
+    },
+    {
+      "title": "Empresas nacionais e estrangeiras apostam na contribuição da economia digital",
+      "url": "https://www.opais.ao/economia/empresas-nacionais-e-estrangeiras-apostam-na-contribuicao-da-economia-digital/",
+      "source": "O País",
+      "_key": "bd7cefb6a1579977",
+      "score": 7,
+      "title_cn": "国内外企业投资数字经济贡献"
+    },
+    {
+      "title": "UN Tourism supports investment policies and \"Meet in Angola\" strategy",
+      "url": "https://www.angop.ao/en/noticias/economia/un-tourism-apoia-politicas-de-investimento-e-estrategia-do-meet-in-angola/",
+      "source": "ANGOP",
+      "_key": "87dd5a53b63309b7",
+      "score": 6,
+      "title_cn": "联合国旅游组织支持安哥拉投资政策及“相约安哥拉”战略"
+    },
+    {
+      "title": "Governo avança com processos judiciais para travar venda e arrendamento ilegal em centralidades",
+      "url": "https://angola24horas.com/sociedade/item/34501-governo-avanca-com-processos-judiciais-para-travar-venda-e-arrendamento-ilegal-em-centralidades",
+      "source": "Angola 24 Horas",
+      "_key": "e2475ea632455935",
+      "score": 6,
+      "title_cn": "政府启动司法程序，打击中心区非法买卖和租赁行为"
+    },
+    {
+      "title": "Tecnideia desenvolve três produtos para resolver problemas reais de empresas angolanas",
+      "url": "https://forbesafricalusofona.com/tecnideia-desenvolve-tres-produtos-para-resolver-problemas-reais-de-empresas-angolanas/",
+      "source": "Forbes África",
+      "_key": "3e3a500d8c461cea",
+      "score": 6,
+      "title_cn": "Tecnideia开发三款产品解决安哥拉企业实际问题"
+    },
+    {
+      "title": "Destaque Parcerias reforçam transformação digital em AngolaA Mercury assinou, quinta-feira, em Luanda, à margem do ANGOTIC 2026, dois Memorandos de Entendimento com o Instituto Nacional de Fomento da Sociedade de Informação (INFOSI) e o Gabinete de Gestão do Programa Espacial Nacional (GGPEN).",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678373/parcerias-refor%C3%A7am-transforma%C3%A7%C3%A3o-digital-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "0659c37d4501ff7a",
+      "score": 6,
+      "title_cn": "伙伴关系助力安哥拉数字化转型"
+    },
+    {
+      "title": " Parlamentares acolhem Proposta de Lei de Identificação Civil e Criminal ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/678378/parlamentares-acolhem-proposta-de-lei--de-identifica%C3%A7%C3%A3o--civil-e-criminal",
+      "source": "Jornal de Angola",
+      "_key": "7651d3b5e8c026d9",
+      "score": 6,
+      "title_cn": "议员们欢迎民事和刑事身份识别法案"
+    },
+    {
+      "title": "Presidente da República autoriza compra de alimentos e produtos de higiene para as FAA",
+      "url": "https://correiokianda.info/presidente-da-republica-autoriza-compra-de-alimentos-e-produtos-de-higiene-para-as-faa/",
+      "source": "Correio Kianda",
+      "_key": "200a7b3017a98132",
+      "score": 5,
+      "title_cn": "总统批准为安哥拉武装部队采购食品和卫生用品"
+    },
+    {
+      "title": "Ébola: Quase 700 casos confirmados na RCD",
+      "url": "https://correiokianda.info/ebola-quase-700-casos-confirmados-na-rcd/",
+      "source": "Correio Kianda",
+      "_key": "3e68b8bb4b34d91e",
+      "score": 5,
+      "title_cn": "埃博拉：刚果（金）确诊近700例"
+    },
+    {
+      "title": "MSTelcom passa a Mercury com olhos no consumidor final",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b9c7d7b0cb3ec6",
+      "source": "Expansão",
+      "_key": "t_0443cba165f9f1",
       "score": 5,
-      "title_cn": "欧佩克（OPEC）石油产量仍比战前低34%"
+      "title_cn": "MSTelcom更名为Mercury，聚焦终端消费者"
     },
     {
-      "title": "Direct Awards Surge 393% to 9.817 Trillion Kwanzas in Four Months",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9915",
-      "source": "Negócios de Angola",
-      "_key": "f5ec9fbce61812d3",
+      "title": "MSTelcom passa a Mercury com olhos no consumidor finalA nova marca traz uma proposta de valor assente em três pilares essenciais: criar, integrar e gerir soluções digitais que simplifiquem a operação dos clientes, aumentem a sua competitividade e acelerem a sua transformação digital. O mercado business-to-business continuará a ser principal aposta da Mercury.",
+      "url": "https://expansao.co.ao/empresas/detalhe/mstelcom-passa-a-mercury-com-olhos-no-consumidor-final-72505.html",
+      "source": "Expansão",
+      "_key": "78ba3960a8a04ff5",
       "score": 5,
-      "title_cn": "四个月内直接授标额飙升393%，达9.817万亿宽扎"
+      "title_cn": "MSTelcom更名为Mercury，聚焦终端消费者"
+    },
+    {
+      "title": "Sociedade Saúde e Ensino Superior unem esforços para acelerar conclusão do Hospital Universitário ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678374/sa%C3%BAde-e-ensino-superior-unem-esfor%C3%A7os-para-acelerar-conclus%C3%A3o-do-hospital-universit%C3%A1rio",
+      "source": "Jornal de Angola",
+      "_key": "a1b3c81225c7bee0",
+      "score": 5,
+      "title_cn": "卫生与高等教育界携手加速大学医院竣工"
+    },
+    {
+      "title": "Tribunais de Comarca e da Relação reforçados com 157...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tribunais-de-comarca-e-da-relacao-reforcados-com-157-novos-juizes-de-garantias-72492.html",
+      "source": "Novo Jornal",
+      "_key": "3696fe50d168b4d4",
+      "score": 5,
+      "title_cn": "区级和上诉法院新增157名人员"
+    },
+    {
+      "title": "Academia BAI e Porto Business School formalizam parceria para acelerar a formação de líderes em Angola",
+      "url": "https://www.opais.ao/economia/academia-bai-e-porto-business-school-formalizam-parceria-para-acelerar-a-formacao-de-lideres-em-angola/",
+      "source": "O País",
+      "_key": "cf6ba8953287004e",
+      "score": 5,
+      "title_cn": "BAI学院与波尔图商学院合作，加速安哥拉领导人才培养"
     }
   ]
 }
