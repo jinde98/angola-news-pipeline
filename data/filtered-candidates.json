@@ -1,35 +1,84 @@
 {
   "date": "2026-06-15",
-  "total_new": 155,
-  "total_filtered": 4,
-  "scored_by": "keyword",
+  "total_new": 39,
+  "total_filtered": 11,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolans visit historical and cultural sites in China",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angolanos-visitam-lugares-historicos-e-culturais-na-china/",
+      "title": "Preço do petróleo recua após EUA e Irão chegarem a...",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-petroleo-recua-apos-eua-e-irao-chegarem-a-acordo-para-reabertura-do-estreito-de-ormuz",
+      "source": "Valor Económico",
+      "_key": "a65fc02eca300c2e",
+      "score": 10
+    },
+    {
+      "title": "Gasóleo sobe para 420 Kwanzas: ANATA pede calma e mantém preços das corridas",
+      "url": "https://diariodosnegocios.com/gasoleo-sobe-para-420-kwanzas-anata-pede-calma-e-mantem-precos-das-corridas/",
+      "source": "Diário dos Negócios",
+      "_key": "313d184172191e73",
+      "score": 9
+    },
+    {
+      "title": " Gasóleo sobe para 420 Kwanzas: ANATA pede calma e mantém preços das corridas ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_bfc9a1de4c1f00",
+      "score": 9
+    },
+    {
+      "title": "Imposto sobre o Rendimento das Pessoas Singulares em...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/imposto-sobre-o-rendimento-das-pessoas-singulares-em-debate-esta-semana-no-parlamento-72549.html",
+      "source": "Novo Jornal",
+      "_key": "371a3767d7f25bb1",
+      "score": 9
+    },
+    {
+      "title": "Utentes denunciam paragem no agendamento de passaportes; SME nega falhas no sistema",
+      "url": "https://diariodosnegocios.com/utentes-denunciam-paragem-no-agendamento-de-passaportes-sme-nega-falhas-no-sistema/",
+      "source": "Diário dos Negócios",
+      "_key": "d5471890ba3cfa7d",
+      "score": 8
+    },
+    {
+      "title": " Utentes denunciam paragem no agendamento de passaportes; SME nega falhas no sistema ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_a7a16370be18e4",
+      "score": 8
+    },
+    {
+      "title": "Especialista diz que subida do gasóleo não justifica aumento das tarifas dos transportes",
+      "url": "https://angola24horas.com/sociedade/item/34511-especialista-diz-que-subida-do-gasoleo-nao-justifica-aumento-das-tarifas-dos-transportes",
+      "source": "Angola 24 Horas",
+      "_key": "9fdef1ba7f36e0fc",
+      "score": 7
+    },
+    {
+      "title": "Investimento de 6,8 mil milhões de kwanzas em centro...",
+      "url": "https://valoreconomico.co.ao/artigo/investimento-de-6-8-mil-milhoes-de-kwanzas-em-centro-logistico-promete-baixar-custos-de-importacao",
+      "source": "Valor Económico",
+      "_key": "400d754e118fc336",
+      "score": 7
+    },
+    {
+      "title": "Mais de 94% das empresas em Angola funcionam sem seguro...",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-94-das-empresas-em-angola-funcionam-sem-seguro-de-acidentes-de-trabalho",
+      "source": "Valor Económico",
+      "_key": "559b0cc105c45831",
+      "score": 7
+    },
+    {
+      "title": "President João Lourenço appoints new deputy-governor for Malanje",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-reforca-governo-de-malanje-com-posse-de-nova-responsavel/",
       "source": "ANGOP",
-      "_key": "579ec8caf51e46c5",
-      "score": 7
-    },
-    {
-      "title": "Entre Pequim e a AfCFTA: o dilema geopolítico e geoeconómico de África",
-      "url": "https://correiokianda.info/entre-pequim-e-a-afcfta-o-dilema-geopolitico-e-geoeconomico-de-africa/",
-      "source": "Correio Kianda",
-      "_key": "e0c6dd15175874ab",
-      "score": 7
-    },
-    {
-      "title": "Petróleo cai para mínimo de três meses com acordo EUA–Irão e reabertura de Ormuz",
-      "url": "https://correiokianda.info/petroleo-cai-para-minimo-de-tres-meses-com-acordo-eua-irao-e-reabertura-de-ormuz/",
-      "source": "Correio Kianda",
-      "_key": "ff277d38be7c2ee6",
+      "_key": "af7b998768244d5b",
       "score": 5
     },
     {
-      "title": "Economia / Há 4 horas INAPEM financia startups com 10 milhões de kwanzas na Huíla ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678553/inapem-financia-startups-com-10-milh%C3%B5es-de-kwanzas-na-hu%C3%ADla",
-      "source": "Jornal de Angola",
-      "_key": "2b79c37170f574fc",
+      "title": "Presidente da República empossa Joana Tomás como nova vice-governadora de Malanje",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-empossa-joana-tomas-como-nova-vice-governadora-de-malanje/",
+      "source": "O País",
+      "_key": "ce9ccd5f9ee0a89c",
       "score": 5
     }
   ]
