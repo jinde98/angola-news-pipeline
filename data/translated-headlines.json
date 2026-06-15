@@ -1,72 +1,40 @@
 {
-  "date": "2026-06-14",
-  "total_new": 18,
-  "total_filtered": 8,
-  "scored_by": "gemini-flash",
+  "date": "2026-06-15",
+  "total_new": 155,
+  "total_filtered": 4,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Empregabilidade",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=26383",
+      "title": "Angolans visit historical and cultural sites in China",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angolanos-visitam-lugares-historicos-e-culturais-na-china/",
       "source": "ANGOP",
-      "_key": "997af26f4dbe5d7f",
+      "_key": "579ec8caf51e46c5",
       "score": 7,
-      "title_cn": "就业"
+      "title_cn": "安哥拉人参观中国历史文化遗址"
     },
     {
-      "title": "Chiri Mining Company starts operating this month",
-      "url": "https://www.angop.ao/en/noticias/economia/sociedade-mineira-do-chiri-entra-em-funcionamento-este-mes/",
-      "source": "ANGOP",
-      "_key": "ed5ad107813b7066",
+      "title": "Entre Pequim e a AfCFTA: o dilema geopolítico e geoeconómico de África",
+      "url": "https://correiokianda.info/entre-pequim-e-a-afcfta-o-dilema-geopolitico-e-geoeconomico-de-africa/",
+      "source": "Correio Kianda",
+      "_key": "e0c6dd15175874ab",
       "score": 7,
-      "title_cn": "奇里矿业公司本月开始运营"
+      "title_cn": "北京与非洲大陆自贸区之间：非洲的地缘政治和地缘经济困境"
     },
     {
-      "title": "Agricultural dam to revitalize the “corn triangle” in Huila Province",
-      "url": "https://www.angop.ao/en/noticias/agricultura/barragem-agricola-de-chicomba-revitaliza-triangulo-do-milho/",
-      "source": "ANGOP",
-      "_key": "f7029bb9e0aaf912",
-      "score": 6,
-      "title_cn": "威拉省将建农业水坝振兴“玉米三角区”"
+      "title": "Petróleo cai para mínimo de três meses com acordo EUA–Irão e reabertura de Ormuz",
+      "url": "https://correiokianda.info/petroleo-cai-para-minimo-de-tres-meses-com-acordo-eua-irao-e-reabertura-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "ff277d38be7c2ee6",
+      "score": 5,
+      "title_cn": "美伊协议与霍尔木兹海峡重开致油价跌至三个月低点"
     },
     {
-      "title": "Projectos",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=29746",
-      "source": "ANGOP",
-      "_key": "4a29628b85850c29",
-      "score": 6,
-      "title_cn": "项目"
-    },
-    {
-      "title": "Destaque Sílvia Lutucuta acompanha obras de unidades estratégicas em LuandaA ministra da Saúde, Sílvia Lutucuta, efectuou, sábado, uma visita de trabalho às obras do futuro Instituto de Anatomia e Medicina Forense, no Camama, e do Hospital dos Queimados Presidente Julius Nyerere, no Kilamba.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678513/s%C3%ADlvia-lutucuta-acompanha-obras-de-unidades-estrat%C3%A9gicas-em-luanda",
+      "title": "Economia / Há 4 horas INAPEM financia startups com 10 milhões de kwanzas na Huíla ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678553/inapem-financia-startups-com-10-milh%C3%B5es-de-kwanzas-na-hu%C3%ADla",
       "source": "Jornal de Angola",
-      "_key": "37d9f41b42ccde20",
-      "score": 6,
-      "title_cn": "卫生部长西尔维娅·卢图库塔视察罗安达战略项目工程"
-    },
-    {
-      "title": "ANGOTIC Forum 6th edition closes",
-      "url": "https://www.angop.ao/en/noticias/economia/chega-ao-fim-6a-edicao-do-forum-angotic/",
-      "source": "ANGOP",
-      "_key": "1385b1ce58e57cfd",
+      "_key": "2b79c37170f574fc",
       "score": 5,
-      "title_cn": "第六届ANGOTIC论坛闭幕"
-    },
-    {
-      "title": "Sociedade Namíbia pondera replicar modelo de Data Center de Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678510/nam%C3%ADbia-pondera-replicar-modelo-de-data-center-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "e1c5c4d2250a38a6",
-      "score": 5,
-      "title_cn": "纳米比亚考虑复制安哥拉数据中心模式"
-    },
-    {
-      "title": "Data Center de Angola pode ser replicado na Namíbia",
-      "url": "https://www.opais.ao/destaque/data-center-de-angola-pode-ser-replicado-na-namibia/",
-      "source": "O País",
-      "_key": "4c88903eb30103a3",
-      "score": 5,
-      "title_cn": "安哥拉的数据中心可以在纳米比亚复制"
+      "title_cn": "INAPEM在威拉省资助初创企业1000万宽扎"
     }
   ]
 }
