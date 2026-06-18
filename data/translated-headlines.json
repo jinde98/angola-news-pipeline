@@ -1,296 +1,448 @@
 {
-  "date": "2026-06-17",
-  "total_new": 62,
-  "total_filtered": 36,
+  "date": "2026-06-18",
+  "total_new": 200,
+  "total_filtered": 55,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Empresário chinês investe USD 5 milhões em orfanato para 200...",
-      "url": "https://valoreconomico.co.ao/artigo/empresario-chines-investe-usd-5-milhoes-em-orfanato-para-200-criancas-no-sequele",
-      "source": "Valor Económico",
-      "_key": "a74e58a31fd318c0",
-      "score": 9,
-      "title_cn": "中国商人投资500万美元，为200名孤儿建孤儿院"
-    },
-    {
-      "title": "Lucro dos bancos estrangeiros sobe 12,34% enquanto crédito cresce 23,97%",
-      "url": "https://valoreconomico.co.ao/artigo/lucro-dos-bancos-estrangeiros-sobe-12-34-enquanto-credito-cresce-23-97",
-      "source": "Valor Económico",
-      "_key": "093e4972648bdd50",
-      "score": 8,
-      "title_cn": "外资银行利润增长12.34%，信贷增长23.97%"
-    },
-    {
-      "title": "ZHANG BIN",
-      "url": "https://valoreconomico.co.ao/autor/zhangbin",
-      "source": "Valor Económico",
-      "_key": "3fcdfd0d38c770fa",
-      "score": 8,
-      "title_cn": "ZHANG BIN (张斌)"
-    },
-    {
-      "title": "BCGA lidera custos salariais por cliente; BFA e BAI destacam-se pelo equilíbrio operacional",
-      "url": "https://diariodosnegocios.com/bcga-lidera-custos-salariais-por-cliente-bfa-e-bai-destacam-se-pelo-equilibrio-operacional/",
-      "source": "Diário dos Negócios",
-      "_key": "b1a49ef9a4f604a8",
-      "score": 7,
-      "title_cn": "BCGA客户薪资成本居首；BFA和BAI运营平衡表现突出"
-    },
-    {
-      "title": " BCGA lidera custos salariais por cliente; BFA e BAI destacam-se pelo equilíbrio operacional ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8fd2d21e06b726",
-      "score": 7,
-      "title_cn": "BCGA客户薪资成本居首；BFA和BAI运营平衡表现突出"
-    },
-    {
-      "title": "Homens armados raptam criança com ébola em hospital...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/homens-armados-raptam-crianca-com-ebola-em-hospital-da-rdc-72605.html",
-      "source": "Novo Jornal",
-      "_key": "07d643865aff6a1a",
-      "score": 7,
-      "title_cn": "武装分子在医院绑架一名埃博拉患儿"
-    },
-    {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=72598",
-      "source": "Novo Jornal",
-      "_key": "5cbe6bece466934a",
-      "score": 7,
-      "title_cn": "KUMBU的价值：银行与保险业的世界"
-    },
-    {
-      "title": "Detidos cidadãos implicados no homicídio de segurança privado na Camama",
-      "url": "https://www.opais.ao/ultima_hora/detidos-cidadaos-implicados-no-homicidio-de-seguranca-privado-na-camama/",
+      "title": "Angola e China apontam telecomunicações e inteligência artificial como novas áreas de cooperação",
+      "url": "https://www.opais.ao/politica/angola-e-china-apontam-telecomunicacoes-e-inteligencia-artificial-como-novas-areas-de-cooperacao/",
       "source": "O País",
-      "_key": "ca7f4f513fc64b3c",
-      "score": 7,
-      "title_cn": "涉嫌在卡马马谋杀私人保安的公民被捕"
+      "_key": "effd1a75e7154045",
+      "score": 10,
+      "title_cn": "安哥拉与中国将电信和人工智能列为新的合作领域"
     },
     {
-      "title": "Angolan president meets with bodies of National Security subsystem",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-reune-se-com-orgaos-do-subsistema-de-seguranca-nacional/",
-      "source": "ANGOP",
-      "_key": "e464cd576da7f664",
-      "score": 6,
-      "title_cn": "安哥拉总统会见国家安全机构负责人"
-    },
-    {
-      "title": "Australia and Angola pursue stronger bilateral ties and economic cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/australia-manifesta-interesse-no-reforco-da-cooperacao-com-angola/",
-      "source": "ANGOP",
-      "_key": "3e3ada71fbdd4362",
-      "score": 6,
-      "title_cn": "澳大利亚与安哥拉寻求加强双边关系和经济合作"
-    },
-    {
-      "title": "Hilton Group and Angola explore new hotel projects",
-      "url": "https://www.angop.ao/en/noticias/economia/grupo-hilton-quer-fortalecer-oferta-hoteleira-em-angola/",
-      "source": "ANGOP",
-      "_key": "0fdb83a2e7b6963b",
-      "score": 6,
-      "title_cn": "希尔顿集团和安哥拉探索新的酒店项目"
-    },
-    {
-      "title": "WTM Africa 2026 - Huíla attracts investors for agriculture and industry",
-      "url": "https://www.angop.ao/en/noticias/turismo/huila-canaliza-potenciais-investidores-em-agricultura-e-industria-na-wtm/",
-      "source": "ANGOP",
-      "_key": "07a5521b7143fa77",
-      "score": 6,
-      "title_cn": "2026年非洲世界旅游市场：威拉省吸引农工投资者"
-    },
-    {
-      "title": "Authorities dismantle Vietnamese trafficking and sexual exploitation network",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-desmantela-rede-de-trafico-e-exploracao-sexual-de-cidadas-vietnamitas/",
-      "source": "ANGOP",
-      "_key": "e65723bc9866e9b8",
-      "score": 6,
-      "title_cn": "当局捣毁越南人口贩运和性剥削网络"
-    },
-    {
-      "title": "Ex-ministra das Pescas conhece sentença por alegado peculato a 22 de Julho",
-      "url": "https://angola24horas.com/sociedade/item/34521-ex-ministra-das-pescas-conhece-sentenca-por-alegado-peculato-a-22-de-julho",
+      "title": "Desdolarização ganha força, mas dólar continua a dominar finanças globais",
+      "url": "https://angola24horas.com/opiniao/item/34523-desdolarizacao-ganha-forca-mas-dolar-continua-a-dominar-financas-globais",
       "source": "Angola 24 Horas",
-      "_key": "e1fe9d4443c6fa74",
-      "score": 6,
-      "title_cn": "前渔业部长涉嫌贪污案将于7月22日宣判"
+      "_key": "529cd45cb8fe3c24",
+      "score": 9,
+      "title_cn": "去美元化势头渐强，但美元仍主导全球金融"
     },
     {
-      "title": "União Europeia e França financiam com 25,3 milhões de euros projecto de gestão de resíduos em Angola",
-      "url": "https://forbesafricalusofona.com/uniao-europeia-e-franca-financiam-com-253-milhoes-de-euros-projecto-de-gestao-de-residuos-em-angola/",
-      "source": "Forbes África",
-      "_key": "bebd39c668463388",
-      "score": 6,
-      "title_cn": "欧盟和法国为安哥拉废物管理项目提供 2530 万欧元资金"
+      "title": "Especialistas alertam para desafios da reforma fiscal em Angola entre modernização, economia e protecção de dados",
+      "url": "https://correiokianda.info/especialistas-alertam-para-desafios-da-reforma-fiscal-em-angola-entre-modernizacao-economia-e-proteccao-de-dados/",
+      "source": "Correio Kianda",
+      "_key": "655d75382fff6137",
+      "score": 9,
+      "title_cn": "专家警告安哥拉税制改革面临挑战：现代化、经济与数据保护"
     },
     {
-      "title": "Harmonia Seguros ambiciona ser a principal insurtech de Angola com processos simplificados",
-      "url": "https://forbesafricalusofona.com/armonia-seguros-ambiciona-ser-a-principal-insurtech-de-angola-com-processos-simplificados/",
-      "source": "Forbes África",
-      "_key": "abf604b38a8d9e6b",
-      "score": 6,
-      "title_cn": "Harmonia保险志在成为安哥拉领先的简化流程保险科技公司"
+      "title": "Análises de preços de transferência: até onde vai a fiabilidade das análises de comparabilidade?",
+      "url": "https://expansao.co.ao/gestao/detalhe/analises-de-precos-de-transferencia-ate-onde-vai-a-fiabilidade-das-analises-de-comparabilidade-72614.html",
+      "source": "Expansão",
+      "_key": "b7b0dd202bc30ad2",
+      "score": 9,
+      "title_cn": "转让定价分析：可比性分析的可靠性有多高？"
     },
     {
-      "title": "Antigo comandante de desminagem George Isaac Pessela condenado no “Caso Lussaty” acusado de controlar militares no Sequele",
-      "url": "https://holdonangola.com/antigo-comandante-de-desminagem-george-isaac-pessela-condenado-no-caso-lussaty-acusado-de-controlar-militares-no-sequele/",
-      "source": "Hold On Angola",
-      "_key": "e35003efe20b89a8",
-      "score": 6,
-      "title_cn": "前排雷指挥官George Isaac Pessela（乔治·艾萨克·佩塞拉）因“Lussaty案”被判刑，被控在塞奎莱控制军人"
-    },
-    {
-      "title": "Destaque Hilton prepara expansão em Angola com novos projectos hoteleirosA cadeia hoteleira internacional Hilton manifestou, esta quarta-feira, interesse em expandir a sua presença em Angola através de novos projectos no sector da hotelaria, reforçando o posicionamento do país como destino turístico competitivo.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678745/hilton-prepara-expans%C3%A3o-em-angola-com-novos-projectos-hoteleiros",
-      "source": "Jornal de Angola",
-      "_key": "26a750ebcbefea23",
-      "score": 6,
-      "title_cn": "希尔顿准备通过新酒店项目在安哥拉扩张"
-    },
-    {
-      "title": "Destaque Presidente João Lourenço reúne-se com chefias da Segurança NacionalO Presidente da República e Comandante-em-Chefe das Forças Armadas Angolanas, João Lourenço, orientou, esta quarta-feira, uma reunião com as chefias dos órgãos do Subsistema de Segurança Nacional",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678722/presidente-jo%C3%A3o-louren%C3%A7o-re%C3%BAne-se-com-chefias-da-seguran%C3%A7a-nacional",
-      "source": "Jornal de Angola",
-      "_key": "dd374474d06fbacb",
-      "score": 6,
-      "title_cn": "若昂·洛伦索总统会见国家安全负责人"
-    },
-    {
-      "title": "Destaque Chefe de Estado de Moçambique em Luanda para Cimeira do Turismo O Presidente de Moçambique, Daniel Chapo, chegou, na tarde desta quarta-feira, a Luanda, para participar no Angola Investment Summit 2026. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678748/chefe-de-estado-de-mo%C3%A7ambique-em-luanda-para-cimeira-do-turismo-",
-      "source": "Jornal de Angola",
-      "_key": "b686b676b554a5f5",
-      "score": 6,
-      "title_cn": "莫桑比克国家元首抵达罗安达出席旅游峰会"
-    },
-    {
-      "title": "Regiões Moxico Leste acolhe VI Conselho Consultivo do Ministério da Indústria e Comércio ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/678725/moxico-leste-acolhe-vi-conselho-consultivo-do-minist%C3%A9rio-da-ind%C3%BAstria-e-com%C3%A9rcio",
-      "source": "Jornal de Angola",
-      "_key": "a12727696f948859",
-      "score": 6,
-      "title_cn": "东莫希科省主办工贸部第六次咨询委员会会议"
-    },
-    {
-      "title": "Sociedade SIC recebe até 10 denúncias mensais de desaparecimento de pessoas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678724/sic-recebe-at%C3%A9-10-den%C3%BAncias-mensais-de-desaparecimento-de-pessoas",
-      "source": "Jornal de Angola",
-      "_key": "caff39f9a3777874",
-      "score": 6,
-      "title_cn": "刑事调查局每月接获多达10起人口失踪举报"
-    },
-    {
-      "title": "PR orienta Reunião do Conselho de Segurança Nacional",
-      "url": "https://www.opais.ao/politica/pr-orienta-reuniao-do-conselho-de-seguranca-nacional/",
-      "source": "O País",
-      "_key": "3f0fb0328677ca4e",
-      "score": 6,
-      "title_cn": "总统主持国家安全委员会会议"
-    },
-    {
-      "title": "Leitura do acórdão do caso que envolve ex-ministra das Pescas agendada para o dia 22 de Julho",
-      "url": "https://www.opais.ao/politica/leitura-do-acordao-do-caso-que-envolve-ex-ministra-das-pescas-agendada-para-o-dia-22-de-julho/",
-      "source": "O País",
-      "_key": "49617899b8cef500",
-      "score": 6,
-      "title_cn": "前渔业部长案判决将于7月22日宣读"
-    },
-    {
-      "title": "Detido cidadão por burla de mais de 7 milhões de kwanzas a seis portadores de deficiência física no Cuanza-Norte",
-      "url": "https://www.opais.ao/ultima_hora/detido-cidadao-por-burla-de-mais-de-7-milhoes-de-kwanzas-a-seis-portadores-de-deficiencia-fisica-no-cuanza-norte/",
-      "source": "O País",
-      "_key": "a9d005f6583ccf5a",
-      "score": 6,
-      "title_cn": "一公民因在北宽扎省诈骗六名残疾人逾700万宽扎被捕"
-    },
-    {
-      "title": "Intermediação só contribuiu com 2% dos prémios brutos emitidos nos...",
-      "url": "https://valoreconomico.co.ao/artigo/intermediacao-so-contribuiu-com-2-dos-premios-brutos-emitidos-nos-seguros",
-      "source": "Valor Económico",
-      "_key": "eb48e0b570751366",
-      "score": 6,
-      "title_cn": "中介仅贡献已发行总保费的2%"
-    },
-    {
-      "title": "Ensa, Sanlam, Nossa e Fidelidade são as seguradoras mais...",
-      "url": "https://valoreconomico.co.ao/artigo/ensa-sanlam-nossa-e-fidelidade-sao-as-seguradoras-mais-contestadas",
-      "source": "Valor Económico",
-      "_key": "bfa4b18a1b18ac24",
-      "score": 6,
-      "title_cn": "Ensa、Sanlam、Nossa和Fidelidade是最主要的保险公司"
-    },
-    {
-      "title": "Mozambican president in Angola for working visit",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-de-mocambique-em-angola-para-visita-de-trabalho/",
+      "title": "Angola Investment Summit opens",
+      "url": "https://www.angop.ao/en/noticias/economia/aberta-cimeira-angola-investment-summit-sobre-turismo/",
       "source": "ANGOP",
-      "_key": "c19f4898b0e5edd4",
-      "score": 5,
-      "title_cn": "莫桑比克总统访问安哥拉"
+      "_key": "dfe1a7be32c82951",
+      "score": 8,
+      "title_cn": "安哥拉投资峰会开幕"
     },
     {
-      "title": "CEO da De Beers confirma venda da gigante dos diamantes para as próximas semanas",
-      "url": "https://diariodosnegocios.com/ceo-da-de-beers-confirma-venda-da-gigante-dos-diamantes-para-as-proximas-semanas/",
-      "source": "Diário dos Negócios",
-      "_key": "9733f347e41cecf4",
-      "score": 5,
-      "title_cn": "戴比尔斯首席执行官确认未来几周将出售钻石巨头"
+      "title": "Angola Investment Summit 2026 set to kicks off",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-investment-summit-inicia-se-hoje-com-foco-na-mobilizacao-de-financiamentos/",
+      "source": "ANGOP",
+      "_key": "2e4b14c3257cd89f",
+      "score": 8,
+      "title_cn": "2026年安哥拉投资峰会即将启动"
     },
     {
-      "title": " CEO da De Beers confirma venda da gigante dos diamantes para as próximas semanas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_b4d9214ea23b5e",
-      "score": 5,
-      "title_cn": "戴比尔斯首席执行官确认未来几周将出售钻石巨头"
+      "title": "Captação de investimentos",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=297259",
+      "source": "ANGOP",
+      "_key": "77a3501595ad325c",
+      "score": 8,
+      "title_cn": "吸引投资"
     },
     {
-      "title": "Destaque PGR destaca papel do Tribunal Constitucional na defesa da ConstituiçãoO procurador-geral da República, Pedro Mendes de Carvalho, destacou, esta quarta-feira, em Luanda, o papel desempenhado pelo Tribunal Constitucional na defesa da Constituição e na consolidação do Estado Democrático e de Direito em Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678723/pgr-destaca-papel-do-tribunal-constitucional-na-defesa-da-constitui%C3%A7%C3%A3o",
+      "title": "Angola Investment summit 2026 - Event gathers over a thousand delegates",
+      "url": "https://www.angop.ao/en/noticias/economia/cimeira-sobre-investimentos-conta-com-participacao-de-mais-de-mil-delegados/",
+      "source": "ANGOP",
+      "_key": "dcb8b4ea39794a8a",
+      "score": 8,
+      "title_cn": "2026年安哥拉投资峰会：逾千名代表齐聚"
+    },
+    {
+      "title": "Refinaria de Cabinda conclui primeira transferência de combustível pesado",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60529:refinaria-de-cabinda-conclui-primeira-transferencia-de-combustivel-pesado&catid=5:economia&lang=pt&Itemid=1070",
+      "source": "Club K",
+      "_key": "14dca080aca8b5df",
+      "score": 8,
+      "title_cn": "卡宾达炼油厂完成首次重质燃料转运"
+    },
+    {
+      "title": "Angola recebe financiamento de 340 milhões de euros para pagar parte da dívida externa",
+      "url": "https://correiokianda.info/angola-recebe-financiamento-de-340-milhoes-de-euros-para-pagar-parte-da-divida-externa/",
+      "source": "Correio Kianda",
+      "_key": "93a1d7d2e66ab38f",
+      "score": 8,
+      "title_cn": "安哥拉获3.4亿欧元融资，用于偿还部分外债"
+    },
+    {
+      "title": "Angola formaliza acordo de USD 150 milhões para melhorar infra-estruturas digitais e integrar sistemas",
+      "url": "https://correiokianda.info/angola-formaliza-acordo-de-usd-150-milhoes-para-melhorar-infra-estruturas-digitais-e-integrar-sistemas-publicos/",
+      "source": "Correio Kianda",
+      "_key": "709888bbd7a4846e",
+      "score": 8,
+      "title_cn": "安哥拉正式签署1.5亿美元协议，改善数字基础设施并整合系统"
+    },
+    {
+      "title": "Destaque Luís Nunes: \"Luanda é uma cidade aberta ao mundo e aos investimentos\"O governador provincial, Luís Nunes, afirmou, esta quinta-feira, na abertura do Angola Investment Summit 2026, que a capital angolana é uma cidade aberta ao mundo e preparada para acolher investimentos internacionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678796/lu%C3%ADs-nunes:-%22luanda-%C3%A9-uma-cidade-aberta-ao-mundo-e-aos-investimentos%22",
       "source": "Jornal de Angola",
-      "_key": "f509065a7ec6f4a3",
-      "score": 5,
-      "title_cn": "总检察长强调宪法法院在捍卫宪法中的作用"
+      "_key": "49130bc8b01de935",
+      "score": 8,
+      "title_cn": "省长路易斯·努内斯（Luís Nunes）表示：“罗安达是一座对世界和投资开放的城市。”"
     },
     {
-      "title": "Sociedade SIC desactiva campo de cultivo de liamba com 15 hectares em Malanje ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678747/sic-desactiva-campo-de-cultivo-de-liamba-com-15-hectares-em-malanje",
+      "title": "10:12 / 18 jun. 2026 João Lourenço preside abertura do Angola Investment Summit 2026 em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678789/jo%C3%A3o-louren%C3%A7o-preside-abertura-do-angola-investment-summit-2026-em-luanda",
       "source": "Jornal de Angola",
-      "_key": "5a1cbbb05b27fe03",
-      "score": 5,
-      "title_cn": "刑事调查局在马兰热省捣毁15公顷大麻种植场"
+      "_key": "6908b6358470cd13",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统在罗安达主持2026年安哥拉投资峰会开幕"
     },
     {
-      "title": "Mundo China anuncia ajuda humanitária ao Irão e ao Líbano ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/678728/china-anuncia-ajuda-humanit%C3%A1ria-ao-ir%C3%A3o-e-ao-l%C3%ADbano",
+      "title": "Cimeira discute em Luanda vias para mais investimento e cooperação global O Presidente da República profere, hoje, o discurso oficial de abertura da Cimeira Internacional de Investimentos em Angola, evento que reúne na capital angolana líderes governamentais, investidores, instituições financeiras, especialistas, empresários e representantes de organizações internacionais provenientes de diferentes regiões do mundo.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678755/cimeira-discute-em-luanda-vias-para-mais-investimento-e-coopera%C3%A7%C3%A3o-global",
       "source": "Jornal de Angola",
-      "_key": "4b022b0c9ebc225a",
-      "score": 5,
-      "title_cn": "中国宣布向伊朗和黎巴嫩提供人道主义援助"
+      "_key": "e92f9642622cb39a",
+      "score": 8,
+      "title_cn": "罗安达峰会探讨更多投资与全球合作途径，总统发表开幕致辞"
     },
     {
-      "title": "SIC apreende mais de dez toneladas de liamba e detém...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-apreende-mais-de-dez-toneladas-de-liamba-e-detem-um-dos-maiores-fornecedores-em-malanje-72602.html",
+      "title": "Angola assina dívida para pagar dívida – Acordo...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-assina-divida-para-pagar-divida-acordo-de-financiamento-vale-340-milhoes-de-euros-72617.html",
       "source": "Novo Jornal",
-      "_key": "c2e8b40825f776fc",
-      "score": 5,
-      "title_cn": "刑事调查局查获逾十吨大麻并逮捕嫌犯"
+      "_key": "a91b3005c0be693d",
+      "score": 8,
+      "title_cn": "安哥拉签署“以债还债”协议"
     },
     {
-      "title": "SIC desactiva campo de 15 hectares de cultivo de estupefaciente em Malanje",
-      "url": "https://www.opais.ao/ultima_hora/sic-desactiva-campo-de-15-hectares-de-cultivo-de-estupefaciente-em-malanje/",
+      "title": "“Os estrangeiros ensinam-nos ou beneficiam-se da nossa ignorância?”",
+      "url": "https://www.opais.ao/opiniao/os-estrangeiros-ensinam-nos-ou-beneficiam-se-da-nossa-ignorancia/",
       "source": "O País",
-      "_key": "887b4d46a76edf6d",
-      "score": 5,
-      "title_cn": "刑事调查局在马兰热省捣毁15公顷毒品种植场"
+      "_key": "39ca8a6c13724937",
+      "score": 8,
+      "title_cn": "外国人是在教导我们，还是利用我们的无知？"
     },
     {
-      "title": "TC Chumba decisão do Supremo e exige que Joaquim Sebastião...",
-      "url": "https://valoreconomico.co.ao/artigo/tc-chumba-decisao-do-supremo-e-exige-que-joaquim-sebastiao-seja-julgado",
-      "source": "Valor Económico",
-      "_key": "137221495b72c52a",
+      "title": "China preparada para fortalecer cooperação com África na luta contra Ébola",
+      "url": "https://www.opais.ao/mundo/china-preparada-para-fortalecer-cooperacao-com-africa-na-luta-contra-ebola/",
+      "source": "O País",
+      "_key": "06a758de50e75d6b",
+      "score": 8,
+      "title_cn": "中国准备加强与非洲在抗击埃博拉方面的合作"
+    },
+    {
+      "title": "N’Gunu Tiny assume gestão das bolsas da ANPG",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60496:n-gunu-tiny-assume-gestao-das-bolsas-da-anpg&catid=8:bastidores&lang=pt&Itemid=1071",
+      "source": "Club K",
+      "_key": "4460e00d79832b78",
+      "score": 7,
+      "title_cn": "恩古努·蒂尼（N’Gunu Tiny）接管国家石油天然气和生物燃料局（ANPG）奖学金管理"
+    },
+    {
+      "title": "Ministra nomeia novo Conselho Fiscal da AGT",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60450:ministra-nomeia-novo-conselho-fiscal-da-agt&catid=8:bastidores&lang=pt&Itemid=1071",
+      "source": "Club K",
+      "_key": "dcf319f882daf6ce",
+      "score": 7,
+      "title_cn": "部长任命国家税务总局（AGT）新监事会"
+    },
+    {
+      "title": "Global Importance of the Strait of Hormuz – Rui Patrício",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9890",
+      "source": "Negócios de Angola",
+      "_key": "65ab01b8af49c2b0",
+      "score": 7,
+      "title_cn": "霍尔木兹海峡的全球重要性——鲁伊·帕特里西奥（Rui Patrício）"
+    },
+    {
+      "title": "Angola wants to strengthen management of urban solid waste",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-quer-fortalecer-gestao-dos-residuos-solidos-urbanos/",
+      "source": "ANGOP",
+      "_key": "20ab6c0adb53258e",
+      "score": 6,
+      "title_cn": "安哥拉希望加强城市固体废物管理"
+    },
+    {
+      "title": "Cabinda governor calls for compliance with the rules of the 2026 State Budget",
+      "url": "https://www.angop.ao/en/noticias/economia/governadora-de-cabinda-apela-ao-cumprimento-das-regras-do-oge-2026/",
+      "source": "ANGOP",
+      "_key": "f34a3fa5e8a7b9f8",
+      "score": 6,
+      "title_cn": "卡宾达省长呼吁遵守2026年国家预算规定"
+    },
+    {
+      "title": "Icolo e Bengo: Trabalhadores denunciam atraso de salários e péssimas condições laborais em estaleiro sem identificação em Catete",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60539:icolo-e-bengo-trabalhadores-denunciam-atraso-de-salarios-e-pessimas-condicoes-laborais-em-estaleiro-sem-identificacao-em-catete&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "b4d529384ae8fb33",
+      "score": 6,
+      "title_cn": "伊科洛-本戈：工人举报卡特特（Catete）一无名工地拖欠工资、劳动条件恶劣"
+    },
+    {
+      "title": "Konda Marta II Anuncia Retoma de Projecto Habitacional Após Obter Licença de Vedação em Camama",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60510:konda-marta-ii-anuncia-retoma-de-projecto-habitacional-apos-obter-licenca-de-vedacao-em-camama&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "be171208996db73c",
+      "score": 6,
+      "title_cn": "Konda Marta II 宣布在卡马马（Camama）获得围栏许可证后，将恢复住房项目"
+    },
+    {
+      "title": "“Turismo pode impulsionar diversificação da economia angolana”, diz Presidente",
+      "url": "https://correiokianda.info/turismo-pode-impulsionar-diversificacao-da-economia-angolana-diz-presidente/",
+      "source": "Correio Kianda",
+      "_key": "2e1a720a099c5993",
+      "score": 6,
+      "title_cn": "总统表示：“旅游业可推动安哥拉经济多元化。”"
+    },
+    {
+      "title": "Governo avança com ajuste directo para terminar 8.688 casas no KK5800",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-avanca-com-ajuste-directo-para-terminar-8688-casas-no-kk5800-72612.html",
+      "source": "Expansão",
+      "_key": "d3ab4a6453c3aac2",
+      "score": 6,
+      "title_cn": "政府直接调整，以完成KK5800项目的8688套住房"
+    },
+    {
+      "title": "Destaque Daniel Chapo recebido no Palácio Presidencial da Cidade Alta O Presidente da República, João Lourenço, recebeu hoje no seu gabinete, à Cidade Alta, o Chefe de Estado de Moçambique, Daniel Chapo.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678811/daniel-chapo-recebido-no-pal%C3%A1cio-presidencial-da-cidade-alta-",
+      "source": "Jornal de Angola",
+      "_key": "fc5070452a84c1e3",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统在总统府接见莫桑比克国家元首丹尼尔·查波（Daniel Chapo）"
+    },
+    {
+      "title": "Grupo Bio Farma interessado em fabricar vacinas em AngolaO grupo farmacêutico indonésio Bio Farma, especializado na fabricação de vacinas humanas e animais, manifestou o interesse em iniciar uma nova fase de cooperação com Angola. A iniciativa prevê a transferência de tecnologia para a produção de vacinas em solo angolano.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678791/grupo-bio-farma-interessado-em-fabricar-vacinas-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "6fd83f69b21151be",
+      "score": 6,
+      "title_cn": "印尼Bio Farma集团有意在安哥拉生产疫苗"
+    },
+    {
+      "title": "Destaque Turismo em Angola \"é uma aposta consolidada” O Presidente da República, João Lourenço, afirmou, esta quinta-feira, em Luanda, que \"o turismo em Angola é uma aposta consolidada\" ao longo de anos de reformas estruturais, abertura ao investimento e aposta consciente na diversificação da economia.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678822/turismo-em-angola-%22%C3%A9-uma-aposta-consolidada%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "24eb709d812b0849",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统在罗安达表示，安哥拉旅游业是“一项长期巩固的投资”"
+    },
+    {
+      "title": "Destaque Aberto novo capítulo para investimento no turismo em AngolaUm novo capítulo de diálogo, parceria e investimento em benefício de Angola, da região e do continente africano está aberto, afirmou, esta quinta-feira, em Luanda, o presidente do World Tourism Forum Institute (WTFI), Bulut Bagci. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678816/aberto-novo-cap%C3%ADtulo-para-investimento-no-turismo-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "ef017820ff701741",
+      "score": 6,
+      "title_cn": "安哥拉旅游投资开启新篇章，促进对话、伙伴关系与投资"
+    },
+    {
+      "title": "Caixa Geral Angola Tops List of Banks Paying the Most per Customer Served17/06/2026",
+      "url": "https://www.negociosdeangola.com/en/caixa-geral-angola-tops-list-of-banks-paying-the-most-per-customer-served/",
+      "source": "Negócios de Angola",
+      "_key": "bfdc7f7686a2e953",
+      "score": 6,
+      "title_cn": "安哥拉储蓄银行（Caixa Geral Angola）位居客户服务支出最高银行榜首"
+    },
+    {
+      "title": "Carrinho Group Strengthens Influence in BFA and Prepares to Increase Its Stake",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9967",
+      "source": "Negócios de Angola",
+      "_key": "130f36bd37916279",
+      "score": 6,
+      "title_cn": "卡里尼奥集团（Carrinho Group）加强对BFA银行影响力，准备增持股份"
+    },
+    {
+      "title": "Turismo reúne hoje em Luanda líderes governamentais, instituições financeiras e empresários",
+      "url": "https://www.opais.ao/politica/turismo-reune-hoje-em-luanda-lideres-governamentais-instituicoes-financeiras-e-empresarios/",
+      "source": "O País",
+      "_key": "c242ed5bc0e686b9",
+      "score": 6,
+      "title_cn": "旅游业峰会今日在罗安达汇聚政府领导、金融机构和企业家"
+    },
+    {
+      "title": "TS marca leitura do acórdão do processo que envolve ex- ministra das Pescas para o dia 22 de Julho",
+      "url": "https://www.opais.ao/destaque/ts-marca-leitura-do-acordao-do-processo-que-envolve-ex-ministra-das-pescas-para-o-dia-22-de-julho/",
+      "source": "O País",
+      "_key": "86def9b6a1c1db97",
+      "score": 6,
+      "title_cn": "最高法院定于7月22日宣读涉及前渔业部长的判决"
+    },
+    {
+      "title": "Festival Vinhos de Portugal identifica novas oportunidades de negócios em Angola",
+      "url": "https://www.opais.ao/economia/festival-vinhos-de-portugal-identifica-novas-oportunidades-de-negocios-em-angola/",
+      "source": "O País",
+      "_key": "33aa68a49c6193cc",
+      "score": 6,
+      "title_cn": "葡萄牙葡萄酒节在安哥拉发现新商机"
+    },
+    {
+      "title": "Consignada empreitada para construção de mais de 30 quilómetros de pavimento em Catete e Sequele",
+      "url": "https://www.opais.ao/ultima_hora/consignada-empreitada-para-construcao-de-mais-de-30-quilometros-de-pavimento-em-catete-e-sequele/",
+      "source": "O País",
+      "_key": "bd82209b7151981c",
+      "score": 6,
+      "title_cn": "卡特特（Catete）和塞克莱（Sequele）30多公里路面工程已签约"
+    },
+    {
+      "title": "President João Lourenço and Mozambican counterpart discuss partnership",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-e-daniel-chapo-abordam-parceria-entre-angola-e-mocambique/",
+      "source": "ANGOP",
+      "_key": "bdc0e31c78536799",
       "score": 5,
-      "title_cn": "宪法法院驳回最高法院裁决，要求Joaquim Sebastião（若阿金·塞巴斯蒂昂）..."
+      "title_cn": "若昂·洛伦索（João Lourenço）总统与莫桑比克总统讨论伙伴关系"
+    },
+    {
+      "title": "Wastes",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=8615",
+      "source": "ANGOP",
+      "_key": "2fd5c3091e5c8b59",
+      "score": 5,
+      "title_cn": "废物"
+    },
+    {
+      "title": "Eleições de 2027 enfrentarão risco sem precedentes de manipulação digital, alerta TC",
+      "url": "https://angola24horas.com/politica/item/34525-eleicoes-de-2027-enfrentarao-risco-sem-precedentes-de-manipulacao-digital-alerta-tc",
+      "source": "Angola 24 Horas",
+      "_key": "2204b573878f74db",
+      "score": 5,
+      "title_cn": "TC 警告 2027 年大选将面临前所未有的数字操纵风险"
+    },
+    {
+      "title": "Isabel dos Santos diz estar dececionada com governação de João Lourenço e espera mudança após 2027",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60522:isabel-dos-santos-diz-estar-dececionada-com-governacao-de-joao-lourenco-e-espera-mudanca-apos-2027&catid=23:politica&lang=pt&Itemid=641",
+      "source": "Club K",
+      "_key": "52d5d5a3e67512e7",
+      "score": 5,
+      "title_cn": "伊莎贝尔·多斯桑托斯（Isabel dos Santos）对若昂·洛伦索（João Lourenço）政府感到失望，期待2027年后改变"
+    },
+    {
+      "title": "Presidente do PRA-JA critica aumento da pobreza e miséria extremas dos angolanos 50 anos depois",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60528:presidente-do-pra-ja-critica-aumento-da-pobreza-e-miseria-extremas-dos-angolanos-50-anos-depois&catid=23:politica&lang=pt&Itemid=641",
+      "source": "Club K",
+      "_key": "a7e08668f9dda41a",
+      "score": 5,
+      "title_cn": "PRA-JA党主席批评安哥拉人50年后贫困和赤贫加剧"
+    },
+    {
+      "title": "Ex-ministra das Pescas conhece sentença a 22 de Julho",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60543:ex-ministra-das-pescas-conhece-sentenca-a-22-de-julho&catid=41026:nacional&lang=pt&Itemid=1083",
+      "source": "Club K",
+      "_key": "6ba543f26bec39bc",
+      "score": 5,
+      "title_cn": "前渔业部长将于7月22日获知判决"
+    },
+    {
+      "title": "Cuanza-Norte: Banco Mundial constata melhorias nas famílias com implementação do Programa KWENDA no Golungo Alto",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60515:cuanza-norte-banco-mundial-constata-melhorias-nas-familias-com-implementacao-do-programa-kwenda-no-golungo-alto&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "4824b50f6a11dd6c",
+      "score": 5,
+      "title_cn": "北宽扎 ： 世界银行注意到在戈伦戈 Alto 实施 KWENDA 方案后家庭状况有所改善"
+    },
+    {
+      "title": "Executivo, Legislativo, Judicial e Ministério Público reafirmam compromisso com a Constituição",
+      "url": "https://correiokianda.info/executivo-legislativo-judicial-e-ministerio-publico-reafirmam-compromisso-com-a-constituicao/",
+      "source": "Correio Kianda",
+      "_key": "e35852bf6c01cbbd",
+      "score": 5,
+      "title_cn": "行政、立法、司法和检察机关重申遵守宪法承诺"
+    },
+    {
+      "title": "IA, eleições e desinformação: Tribunal Constitucional alerta para “novos riscos à democracia angolana”",
+      "url": "https://correiokianda.info/ia-eleicoes-e-desinformacao-tribunal-constitucional-alerta-para-novos-riscos-a-democracia-angolana/",
+      "source": "Correio Kianda",
+      "_key": "dafadac7355e386e",
+      "score": 5,
+      "title_cn": "宪法法院警告：人工智能、选举和虚假信息对安哥拉民主构成“新风险”"
+    },
+    {
+      "title": "Detido alto funcionário do Hospital do Luando por furto de chapas de apoio às vítimas das chuvas no Bié",
+      "url": "https://correiokianda.info/detido-alto-funcionario-do-hospital-do-luando-acusado-furto-de-chapas-de-apoio-as-vitimas-das-chuvas-no-bie/",
+      "source": "Correio Kianda",
+      "_key": "549da974a4f883e4",
+      "score": 5,
+      "title_cn": "罗安多（Luando）医院高级官员因盗窃比耶（Bié）雨灾受害者援助板材被捕"
+    },
+    {
+      "title": "        Politica4 horas atrás  FRELIMO e MPLA sublinham cooperação em encontro de alto nível A cooperação política e institucional entre Angola e Moçambique foi novamente reforçada com um encontro de alto nível entre o MPLA e a Frente de Libertação...   ",
+      "url": "https://correiokianda.info/frelimo-e-mpla-sublinham-cooperacao-em-encontro-de-alto-nivel/",
+      "source": "Correio Kianda",
+      "_key": "5e69d8affa35912e",
+      "score": 5,
+      "title_cn": "莫桑比克解放阵线（FRELIMO）与安哥拉人民解放运动（MPLA）高层会晤，强调合作"
+    },
+    {
+      "title": "Aulas arrancam a 5 de Outubro, propinas podem aumentar 10,88%",
+      "url": "https://expansao.co.ao/universidade/detalhe/aulas-arrancam-a-5-de-outubro-propinas-podem-aumentar-1088-72615.html",
+      "source": "Expansão",
+      "_key": "13cca7a1c8c5f7b3",
+      "score": 5,
+      "title_cn": "课程10月5日开课，学费或上涨10.88%"
+    },
+    {
+      "title": "Política Angola reitera contribuição de cinco milhões de dólares para o Centro Africano de Doenças ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678756/angola-reitera--contribui%C3%A7%C3%A3o-de-cinco-milh%C3%B5es-de-d%C3%B3lares-para-o-centro-africano-de-doen%C3%A7as--",
+      "source": "Jornal de Angola",
+      "_key": "284d29994a05ea38",
+      "score": 5,
+      "title_cn": "安哥拉重申向非洲疾病控制中心捐款500万美元"
+    },
+    {
+      "title": "Política Angola e Eslovénia reforçam cooperação na Agricultura e Inteligência Artificial ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678752/angola-e-eslov%C3%A9nia-refor%C3%A7am-coopera%C3%A7%C3%A3o-na-agricultura-e-intelig%C3%AAncia-artificial",
+      "source": "Jornal de Angola",
+      "_key": "100ef278f172b966",
+      "score": 5,
+      "title_cn": "安哥拉与斯洛文尼亚加强农业和人工智能领域合作"
+    },
+    {
+      "title": "Presidente do Tribunal Constitucional alerta para riscos de ‘deepfakes’ e desinformação digital nas eleições de 2027",
+      "url": "https://www.opais.ao/politica/presidente-do-tribunal-constitucional-alerta-para-riscos-de-deepfakes-e-desinformacao-digital-nas-eleicoes-de-2027/",
+      "source": "O País",
+      "_key": "9af69c37c02f85e5",
+      "score": 5,
+      "title_cn": "宪法法院院长警告2027年选举中“深度伪造”和数字虚假信息风险"
+    },
+    {
+      "title": "Campanha contra a cólera prevê vacinar mais de um milhão de pessoas",
+      "url": "https://www.opais.ao/politica/campanha-contra-a-colera-preve-vacinar-mais-de-um-milhao-de-pessoas/",
+      "source": "O País",
+      "_key": "c8c560db12aee516",
+      "score": 5,
+      "title_cn": "霍乱防治运动计划为逾百万人接种疫苗"
+    },
+    {
+      "title": "‎Detido director do Hospital do Luando por desvio de chapas de zinco destinadas às vítimas das chuvas",
+      "url": "https://www.opais.ao/ultima_hora/detido-director-do-hospital-do-luando-por-desvio-de-chapas-de-zinco-destinadas-as-vitimas-das-chuvas/",
+      "source": "O País",
+      "_key": "dff1e3738efd66cb",
+      "score": 5,
+      "title_cn": "罗安多（Luando）医院院长因挪用雨灾受害者锌板被捕"
+    },
+    {
+      "title": "Angola e Austrália abordam reforço das relações de cooperação",
+      "url": "https://www.opais.ao/politica/angola-e-australia-abordam-reforco-das-relacoes-de-cooperacao/",
+      "source": "O País",
+      "_key": "4d6c31d60bc52db8",
+      "score": 5,
+      "title_cn": "安哥拉与澳大利亚探讨加强合作关系"
+    },
+    {
+      "title": "Icolo e Bengo regista mais de 100 mortes por acidentes rodoviários no primeiro semestre de 2026",
+      "url": "https://www.opais.ao/ultima_hora/icolo-e-bengo-regista-mais-de-100-mortes-por-acidentes-rodoviarios-no-primeiro-semestre-de-2026/",
+      "source": "O País",
+      "_key": "a0f5a8c0451e0345",
+      "score": 5,
+      "title_cn": "伊科洛-本戈省2026年上半年交通事故死亡人数超百人"
     }
   ]
 }
