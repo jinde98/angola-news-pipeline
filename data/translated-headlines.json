@@ -1,216 +1,400 @@
 {
-  "date": "2026-06-18",
-  "total_new": 47,
-  "total_filtered": 26,
+  "date": "2026-06-19",
+  "total_new": 139,
+  "total_filtered": 49,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Transfers from Angola to abroad for individuals reduced to USD 150,000/year",
-      "url": "https://www.angop.ao/en/noticias/economia/transferencias-para-exterior-por-pessoas-singulares-reduzidas-a-150-mil-dolares-ano/",
+      "title": "Angola exported over 93 million barrels of crude oil in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-exporta-mais-de-93-milhoes-barris-de-petroleo-bruto-em-2025/",
       "source": "ANGOP",
-      "_key": "c74b0959623221a8",
-      "score": 10,
-      "title_cn": "安哥拉个人境外汇款限额降至每年15万美元"
-    },
-    {
-      "title": "AGT avisa: Atraso na taxa de circulação dá multa até...",
-      "url": "https://valoreconomico.co.ao/artigo/agt-avisa-atraso-na-taxa-de-circulacao-da-multa-ate-25-e-outras-penalizacoes",
-      "source": "Valor Económico",
-      "_key": "1de4d7b0ec27da87",
+      "_key": "76b7d2755bd2f634",
       "score": 9,
-      "title_cn": "安哥拉税务总局警告：迟缴车辆流通税将面临罚款"
+      "title_cn": "安哥拉2025年出口原油逾9300万桶"
     },
     {
-      "title": "‎PR destaca realização do fórum de investimentos para consolidação da estabilidade política e económica",
-      "url": "https://www.opais.ao/politica/pr-destaca-realizacao-do-forum-de-investimentos-para-consolidacao-da-estabilidade-politica-e-economica/",
-      "source": "O País",
-      "_key": "f16b50ea97b732a6",
+      "title": "Estreito de Ormuz: Acordo entre EUA e Irão reabre rota estratégica de petróleo",
+      "url": "https://correiokianda.info/estreito-de-ormuz-acordo-entre-eua-e-irao-reabre-rota-estrategica-de-petroleo/",
+      "source": "Correio Kianda",
+      "_key": "8e6d358bb58ded29",
+      "score": 9,
+      "title_cn": "霍尔木兹海峡：美伊协议重开战略石油航线"
+    },
+    {
+      "title": "Preço do cimento recua para quase metade e alivia pressão no sector...",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-cimento-recua-para-quase-metade-e-alivia-pressao-no-sector-da-construcao",
+      "source": "Valor Económico",
+      "_key": "fc959a14f1cbd445",
+      "score": 9,
+      "title_cn": "水泥价格跌近一半，行业压力缓解"
+    },
+    {
+      "title": "AGT quer monitorar as contas bancárias: Combate à Fraude ou Risco para a Confiança?",
+      "url": "https://angola24horas.com/opiniao/item/34533-agt-quer-monitorar-as-contas-bancarias-combate-a-fraude-ou-risco-para-a-confianca",
+      "source": "Angola 24 Horas",
+      "_key": "77764518c73191fc",
       "score": 8,
-      "title_cn": "总统强调举办投资论坛，以巩固政治经济稳定"
+      "title_cn": "安哥拉税务总局拟监控银行账户：反欺诈还是损信任？"
+    },
+    {
+      "title": "João Lourenço anuncia “forte investimento” em infraestruturas para potenciar turismo",
+      "url": "https://angola24horas.com/politica/item/34529-joao-lourenco-anuncia-forte-investimento-em-infraestruturas-para-potenciar-turismo",
+      "source": "Angola 24 Horas",
+      "_key": "5f5a35d90845621c",
+      "score": 8,
+      "title_cn": "若昂·洛伦索(João Lourenço)宣布大力投资基础设施以促进旅游业"
+    },
+    {
+      "title": "PRS estreita relações institucionais com a China durante visita à embaixada em Angola",
+      "url": "https://correiokianda.info/prs-estreita-relacoes-institucionais-com-a-china-durante-visita-a-embaixada-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "47f5b64a0e3617d5",
+      "score": 8,
+      "title_cn": "安哥拉社会革新党(PRS)访问中国驻安使馆，深化机构关系"
+    },
+    {
+      "title": "Discurso de João Lourenço na cerimónia de Abertura do Fórum de Investimentos Angola 2026O Chefe de Estado, João Lourenço, proferiu, esta quinta-feira, o discurso de abertura do Fórum de Investimentos Angola 2026, que decorre, em Luanda, onde defendeu que o crescimento do turismo deve contribuir para a melhoria da qualidade de vida dos cidadãos, o fortalecimento das economias locais e a promoção de um desenvolvimento equilibrado entre as diferentes regiões do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678839/discurso-de-jo%C3%A3o-louren%C3%A7o-na-cerim%C3%B3nia-de-abertura-do-f%C3%B3rum-de-investimentos-angola-2026",
+      "source": "Jornal de Angola",
+      "_key": "377ab0a87304a5f5",
+      "score": 8,
+      "title_cn": "若昂·洛伦索(João Lourenço)在2026年安哥拉投资论坛开幕式上致辞"
+    },
+    {
+      "title": "Angola Ranked 4th African Country with the Cheapest Diesel in May 2026",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9929",
+      "source": "Negócios de Angola",
+      "_key": "8afafe5db183f401",
+      "score": 8,
+      "title_cn": "2026年5月安哥拉柴油价格非洲第四低"
+    },
+    {
+      "title": "Head of State Inaugurates Luanda Science and Technology Park",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-inaugura-parque-de-ciencia-e-tecnologia-de-luanda/",
+      "source": "ANGOP",
+      "_key": "eb591535fcaf4af6",
+      "score": 7,
+      "title_cn": "国家元首为罗安达科技园揭幕"
     },
     {
       "title": "Angola reaffirms openness to foreign investment in tourism sector",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-abertura-ao-investimento-estrangeiro-no-sector-do-turismo/",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-aberta-ao-investimento-estrangeiro-no-sector-do-turismo/",
       "source": "ANGOP",
-      "_key": "4358d2afd6684073",
+      "_key": "7f95c8ba05619bb5",
       "score": 7,
       "title_cn": "安哥拉重申对旅游业外国投资的开放态度"
     },
     {
-      "title": "Angolan president reaffirms commitment to infrastructure to foster tourism",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-reafirma-aposta-em-infra-estruturas-para-impulsionar-turismo/",
+      "title": "Angola presents tourism investment guide at summit 2026",
+      "url": "https://www.angop.ao/en/noticias/turismo/angola-apresenta-guia-de-investimentos-no-turismo-no-summit-2026/",
       "source": "ANGOP",
-      "_key": "56f54c30c1557988",
+      "_key": "d2db1c4656e708d2",
       "score": 7,
-      "title_cn": "安哥拉总统重申致力于基础设施建设以促进旅游业发展"
+      "title_cn": "安哥拉在2026年峰会上发布旅游投资指南"
     },
     {
-      "title": "UN tourism highlights Angola as a promising destination for tourism investment",
-      "url": "https://www.angop.ao/en/noticias/turismo/onu-turismo-destaca-angola-como-destino-promissor-para-investimento-turistico/",
-      "source": "ANGOP",
-      "_key": "63ff098bd8d5f058",
+      "title": "Angola tem de pensar no pós-petróleo e no caminho que abre a eletricidade – Costa Silva",
+      "url": "https://angola24horas.com/economia/item/34528-angola-tem-de-pensar-no-pos-petroleo-e-no-caminho-que-abre-a-eletricidade-costa-silva",
+      "source": "Angola 24 Horas",
+      "_key": "cc773b7665b10a60",
       "score": 7,
-      "title_cn": "联合国旅游组织强调安哥拉是极具潜力的旅游投资目的地"
+      "title_cn": "科斯塔·席尔瓦(Costa Silva)：安哥拉须思考后石油时代及电力发展之路"
     },
     {
-      "title": "Luanda open to global investment in tourism sector",
-      "url": "https://www.angop.ao/en/noticias/economia/luanda-aberta-ao-investimento-mundial-no-sector-turistico/",
-      "source": "ANGOP",
-      "_key": "ab5d95c9f7b968cf",
+      "title": "Presidente da República aposta no turismo como motor da diversificação económica de Angola",
+      "url": "https://correiokianda.info/presidente-da-republica-aposta-no-turismo-como-motor-da-diversificacao-economica-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "cc5e0db544e0fa9e",
       "score": 7,
-      "title_cn": "罗安达对全球旅游业投资持开放态度"
+      "title_cn": "安哥拉总统将旅游业视为经济多元化的引擎"
     },
     {
-      "title": "Angola assegura 340 milhões de euros do BBVA para aliviar pressão da dívida externa",
-      "url": "https://diariodosnegocios.com/angola-assegura-340-milhoes-de-euros-do-bbva-para-aliviar-pressao-da-divida-externa/",
-      "source": "Diário dos Negócios",
-      "_key": "49065f922ed55edc",
+      "title": "Crédito ao sector privado em Angola seis vezes abaixo da média da SADC",
+      "url": "https://expansao.co.ao/angola/detalhe/credito-ao-sector-privado-em-angola-seis-vezes-abaixo-da-media-da-sadc-72645.html",
+      "source": "Expansão",
+      "_key": "3b4eede90605bf34",
       "score": 7,
-      "title_cn": "安哥拉从西班牙对外银行（BBVA）获得3.4亿欧元，以缓解外债压力"
+      "title_cn": "安哥拉私营部门信贷额远低于南部非洲发展共同体(SADC)平均水平"
     },
     {
-      "title": " Angola assegura 340 milhões de euros do BBVA para aliviar pressão da dívida externa ",
+      "title": "Ajustes directos triplicam em número e em valor e disparam para 8,4 biliões Kz",
+      "url": "https://expansao.co.ao/angola/detalhe/ajustes-directos-triplicam-em-numero-e-em-valor-e-disparam-para-84-bilioes-kz-72647.html",
+      "source": "Expansão",
+      "_key": "dfd260ab2fbc6af2",
+      "score": 7,
+      "title_cn": "直接调整数量和价值均增两倍，飙升至8.4万亿宽扎"
+    },
+    {
+      "title": "Governo avança com ajuste directo para terminar 8.688 casas no KK5800",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7407292f90f53f",
+      "source": "Expansão",
+      "_key": "t_7225bde8feb4f3",
       "score": 7,
-      "title_cn": "安哥拉从西班牙对外银行（BBVA）获得3.4亿欧元，以缓解外债压力"
+      "title_cn": "政府直接调整以完成KK5800的8688套住房"
     },
     {
-      "title": "PR diz que Angola implementa um amplo programa de reformas...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-diz-que-angola-implementa-um-amplo-programa-de-reformas-destinado-a-simplificar-procedimentos-administrativos-72630.html",
-      "source": "Novo Jornal",
-      "_key": "204a7fb52bc6f62e",
-      "score": 7,
-      "title_cn": "总统表示安哥拉正在实施一项广泛的改革计划"
-    },
-    {
-      "title": "PONTO AO: TECNOLOGIA E INOVAÇÃO. Que infrastrutura Angola precisa criar para permitir o empreendedorismo digital?",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=72640",
-      "source": "Novo Jornal",
-      "_key": "42df6c718c54574a",
-      "score": 7,
-      "title_cn": "安哥拉科技创新：需建设何种基础设施以支持数字创业？"
-    },
-    {
-      "title": "PR e secretária-geral da ONU Turismo abordam o desenvolvimento do sector",
-      "url": "https://www.opais.ao/economia/pr-e-secretaria-geral-da-onu-turismo-abordam-o-desenvolvimento-do-sector/",
-      "source": "O País",
-      "_key": "231a7a9936590244",
-      "score": 7,
-      "title_cn": "总统与联合国旅游组织秘书长探讨旅游业发展"
-    },
-    {
-      "title": "PR e responsável dos Hotéis Hilton analisam oportunidades de investimento no turismo",
-      "url": "https://www.opais.ao/economia/pr-e-responsavel-dos-hoteis-hilton-analisam-oportunidades-de-investimento-no-turismo/",
-      "source": "O País",
-      "_key": "48fcda70405bd298",
-      "score": 7,
-      "title_cn": "总统与希尔顿酒店负责人探讨旅游投资机遇"
-    },
-    {
-      "title": "João Lourenço presents Angola as a top tourist destination",
-      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-apresenta-angola-como-destino-turistico-de-excelencia/",
-      "source": "ANGOP",
-      "_key": "bb7f60a535a505c9",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统将安哥拉推介为顶级旅游目的地"
-    },
-    {
-      "title": "Executivo avança com ajuste directo para concluir 8.688 habitações na urbanização KK5800",
-      "url": "https://diariodosnegocios.com/executivo-avanca-com-ajuste-directo-para-concluir-8-688-habitacoes-na-urbanizacao-kk5800/",
-      "source": "Diário dos Negócios",
-      "_key": "0160e0184a719751",
-      "score": 6,
-      "title_cn": "政府通过直接授予合同，推进完成KK5800住宅区8688套住房建设"
-    },
-    {
-      "title": " Executivo avança com ajuste directo para concluir 8.688 habitações na urbanização KK5800 ",
+      "title": "O BNA mostra | Os investidores já escolheram ficar. E agora?",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_b43a473d027afe",
-      "score": 6,
-      "title_cn": "政府通过直接授予合同，推进完成KK5800住宅区8688套住房建设"
+      "source": "Expansão",
+      "_key": "t_a8844b35c6036a",
+      "score": 7,
+      "title_cn": "安哥拉国家银行：投资者已选择留下，下一步何去何从？"
     },
     {
-      "title": "Governo angolano recupera confiança e diversifica capacidade de atracção de capital",
-      "url": "https://forbesafricalusofona.com/governo-angolano-recupera-confianca-e-diversifica-capacidade-de-atraccao-de-capital/",
+      "title": "Angola no radar dos mercados | Preço, risco e estratégia",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3b80b752aa3941",
+      "score": 7,
+      "title_cn": "安哥拉市场聚焦：价格、风险与战略"
+    },
+    {
+      "title": "Análises de preços de transferência: até onde vai a fiabilidade das análises de comparabilidade?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_16ce7afcdf3fd7",
+      "score": 7,
+      "title_cn": "转让定价分析：可比性分析的可靠性有多高？"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaO BNA mostra | Os investidores já escolheram ficar. E agora?",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-bna-mostra-os-investidores-ja-escolheram-ficar-e-agora-72650.html",
+      "source": "Expansão",
+      "_key": "e3c24f8f6137747d",
+      "score": 7,
+      "title_cn": "奇迹还是海市蜃楼？费尔南德斯·万达(Fernandes Wanda)谈安哥拉国家银行：投资者已选择留下，下一步何去何从？"
+    },
+    {
+      "title": "CONVIDADOJoão MachadoAngola no radar dos mercados | Preço, risco e estratégia",
+      "url": "https://expansao.co.ao/opiniao/detalhe/angola-no-radar-dos-mercados-preco-risco-e-estrategia-72534.html",
+      "source": "Expansão",
+      "_key": "cc5188eda4385202",
+      "score": 7,
+      "title_cn": "嘉宾若昂·马查多(João Machado)：安哥拉市场聚焦：价格、风险与战略"
+    },
+    {
+      "title": "Sector bancário atinge lucros recorde, mas continua distante do financiamento à economia",
+      "url": "https://forbesafricalusofona.com/sector-bancario-atinge-lucros-recorde-mas-continua-distante-do-financiamento-a-economia/",
       "source": "Forbes África",
-      "_key": "3855f244fda8d2dc",
-      "score": 6,
-      "title_cn": "安哥拉政府重拾信心，并提升吸引资本的能力"
+      "_key": "c90de208c725f37b",
+      "score": 7,
+      "title_cn": "银行业利润创纪录，但仍远离经济融资"
     },
     {
-      "title": "Abertura de novas unidades hoteleiras no país abordada na Cidade AltaA possibilidade de instalação de unidades hoteleiras do grupo Hilton em várias regiões do país, no âmbito do reforço do investimento no sector do turismo, foi abordada, esta quinta-feira, no Palácio Presidencial da Cidade Alta, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678837/abertura-de-novas-unidades-hoteleiras-no-pa%C3%ADs-abordada-na-cidade-alta",
+      "title": "Destaque Inaugurado Parque de Ciência e Tecnologia O Presidente João Lourenço inaugurou, hoje, Parque de Ciência e Tecnologia, infra-estrutura situada no município da Maianga, em Luanda, orçada em 100 milhões de dólares. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678902/inaugurado-parque-de-ci%C3%AAncia-e-tecnologia-",
       "source": "Jornal de Angola",
-      "_key": "35810c5cdfe8a532",
-      "score": 6,
-      "title_cn": "安哥拉高层探讨全国新酒店开业，希尔顿集团或在多地设点"
+      "_key": "e51778f3c88381c9",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统在罗安达揭幕科技园"
     },
     {
-      "title": "Sociedade Luanda ganha Parque de Ciência e Tecnologia na sexta-feira ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678838/luanda-ganha-parque-de-ci%C3%AAncia-e-tecnologia-na-sexta-feira",
+      "title": "09:39 / 19 jun. 2026 Presidente da República inaugura hoje Parque de Ciência e Tecnologia em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678882/presidente-da-rep%C3%BAblica-inaugura-hoje-parque-de-ci%C3%AAncia-e-tecnologia-em-luanda-",
       "source": "Jornal de Angola",
-      "_key": "897f2e02928cce9c",
-      "score": 6,
-      "title_cn": "罗安达将于周五迎来科技园"
+      "_key": "e838c3027c2824f3",
+      "score": 7,
+      "title_cn": "共和国总统今日在罗安达揭幕科技园"
     },
     {
-      "title": "Política ONU elogia progressos de Angola no sector do Turismo ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678835/onu-elogia-progressos-de-angola-no-sector-do-turismo",
+      "title": "Turismo como alavanca da diversificação económica",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/678876/turismo-como-alavanca--da-diversifica%C3%A7%C3%A3o-econ%C3%B3mica",
       "source": "Jornal de Angola",
-      "_key": "3cf83a2f848b32a2",
-      "score": 6,
-      "title_cn": "联合国赞扬安哥拉旅游业取得的进展"
+      "_key": "d39bb99da1cceb32",
+      "score": 7,
+      "title_cn": "旅游业成为经济多元化的杠杆"
     },
     {
-      "title": "João Lourenço considera que Angola reúne condições para se afirmar como um dos destinos turísticos mais promissores de África",
-      "url": "https://www.opais.ao/economia/joao-lourenco-considera-que-angola-reune-condicoes-para-se-afirmar-como-um-dos-destinos-turisticos-mais-promissores-de-africa/",
-      "source": "O País",
-      "_key": "4ee91a42b1f3688e",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统认为安哥拉有望成为非洲最具潜力的旅游目的地之一"
+      "title": "Angola continua excessivamente dependente do petróleo...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-continua-excessivamente-dependente-do-petroleo-e-vulneravel-a-choques-externos-diz-unita-72667.html",
+      "source": "Novo Jornal",
+      "_key": "5fc60401f365f36e",
+      "score": 7,
+      "title_cn": "安哥拉仍过度依赖石油"
     },
     {
-      "title": "UN Tourism Secretary-General points to Angola as a gateway to Africa",
-      "url": "https://www.angop.ao/en/noticias/politica/sg-da-onu-turismo-aponta-angola-como-porta-de-entrada-para-africa/",
-      "source": "ANGOP",
-      "_key": "118e192a3aaae8e8",
-      "score": 5,
-      "title_cn": "联合国旅游组织秘书长指出安哥拉是非洲门户"
-    },
-    {
-      "title": "Moxico: Ernesto Muangala exige celeridade nas obras de expansão do sistema de água do Luena",
-      "url": "https://diariodosnegocios.com/moxico-ernesto-muangala-exige-celeridade-nas-obras-de-expansao-do-sistema-de-agua-do-luena/",
-      "source": "Diário dos Negócios",
-      "_key": "d0efc159b0df9f31",
-      "score": 5,
-      "title_cn": "莫希科省：埃内斯托·穆安加拉（Ernesto Muangala）要求加快卢埃纳供水系统扩建工程"
-    },
-    {
-      "title": " Moxico: Ernesto Muangala exige celeridade nas obras de expansão do sistema de água do Luena ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_862ffca07621bf",
-      "score": 5,
-      "title_cn": "莫希科省：埃内斯托·穆安加拉（Ernesto Muangala）要求加快卢埃纳供水系统扩建工程"
-    },
-    {
-      "title": "Economia africana poderá contar com um mil milhões de dólares do sector do turismo em 2027 – WTTC",
-      "url": "https://forbesafricalusofona.com/viagens-e-turismo-em-africa-contara-com-mil-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "ad8de1c2dc34a038",
-      "score": 5,
-      "title_cn": "世界旅游及旅行理事会（WTTC）：2027年非洲旅游业有望贡献10亿美元"
-    },
-    {
-      "title": "Vandalismo em hotéis arrestados a Carlos São Vicente obriga Estado...",
-      "url": "https://valoreconomico.co.ao/artigo/vandalismo-em-hoteis-arrestados-a-carlos-sao-vicente-obriga-estado-a-contratar-seguranca-privada",
+      "title": "Adalberto Costa Júnior defende simplificação tributária e acusa AGT...",
+      "url": "https://valoreconomico.co.ao/artigo/adalberto-costa-junior-defende-simplificacao-tributaria-e-acusa-agt-de-ser-hostil-ao-investimento",
       "source": "Valor Económico",
-      "_key": "69dee973e924e3ac",
+      "_key": "1d8190af40cfc17d",
+      "score": 7,
+      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔(Adalberto Costa Júnior)主张税收简化并指责安哥拉税务总局"
+    },
+    {
+      "title": "Summit on tourism investment enters final day with diverse panels",
+      "url": "https://www.angop.ao/en/noticias/turismo/cimeira-sobre-investimento-no-turismo-entra-para-ultimo-dia-com-paineis-diversificados/",
+      "source": "ANGOP",
+      "_key": "da7913aabb7d4899",
+      "score": 6,
+      "title_cn": "旅游投资峰会进入最后一天，专题讨论丰富"
+    },
+    {
+      "title": "Angola leads tourism growth in Africa",
+      "url": "https://www.angop.ao/en/noticias/turismo/angola-lidera-crescimento-turistico-em-africa/",
+      "source": "ANGOP",
+      "_key": "6aeb2486a62eb5bc",
+      "score": 6,
+      "title_cn": "安哥拉引领非洲旅游业增长"
+    },
+    {
+      "title": "Travel and tourism in Angola grows 6.1 percent",
+      "url": "https://www.angop.ao/en/noticias/turismo/viagens-e-turismo-em-angola-crescem-6-1-por-cento/",
+      "source": "ANGOP",
+      "_key": "03d649d22d0bd847",
+      "score": 6,
+      "title_cn": "安哥拉旅游业增长6.1%"
+    },
+    {
+      "title": "International partnerships strengthen tourism sector – INFORTUR Director",
+      "url": "https://www.angop.ao/en/noticias/turismo/parcerias-internacionais-fortalecem-sector-do-turismo-infortur/",
+      "source": "ANGOP",
+      "_key": "fae6058f56e00ffd",
+      "score": 6,
+      "title_cn": "安哥拉旅游推广局(INFORTUR)局长：国际伙伴关系助力旅游业发展"
+    },
+    {
+      "title": "Dois assaltos armados no município de Belas atingem profissionais da Rádio Correio da Kianda na mesma sequência de crimes",
+      "url": "https://correiokianda.info/dois-assaltos-armados-no-municipio-de-belas-atingem-profissionais-da-radio-correio-da-kianda-na-mesma-sequencia-de-crimes/",
+      "source": "Correio Kianda",
+      "_key": "de2321ead72de8a4",
+      "score": 6,
+      "title_cn": "贝拉斯市发生两起武装抢劫，基安达邮报电台工作人员受害"
+    },
+    {
+      "title": "Registo eleitoral em zonas de difícil acesso força governo a gizar estratégia de expansão da rede de banda larga",
+      "url": "https://correiokianda.info/registo-eleitoral-em-zonas-de-dificil-acesso-forca-governo-a-gizar-estrategia-de-expansao-da-rede-de-banda-larga/",
+      "source": "Correio Kianda",
+      "_key": "34e498a7e7485ca1",
+      "score": 6,
+      "title_cn": "偏远地区选民登记促政府制定宽带网络扩张战略"
+    },
+    {
+      "title": "EDITORIALJoão ArmandoContradiçõesO malparado parece ter decidido não acompanhar o optimismo geral. Talvez ainda não tenha recebido as últimas estatísticas, ou esteja à espera de confirmação por via administrativa.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/contradicoes-72649.html",
+      "source": "Expansão",
+      "_key": "2e72156e83c363e3",
+      "score": 6,
+      "title_cn": "社论：若昂·阿曼多(João Armando)谈矛盾：不良贷款似乎未随普遍乐观情绪而改善"
+    },
+    {
+      "title": "Doing Business Angola regressa a Lisboa a 15 de julho para a sua 4.ª edição",
+      "url": "https://forbesafricalusofona.com/doing-business-angola-4-a-edicao-2026/",
+      "source": "Forbes África",
+      "_key": "330363dab1ebb617",
+      "score": 6,
+      "title_cn": "“安哥拉营商环境”论坛7月15日重返里斯本举行第四届"
+    },
+    {
+      "title": "PR angolano defende que integração regional deve ser encarada como uma necessidade económica",
+      "url": "https://forbesafricalusofona.com/pr-angolano-defende-que-integracao-regional-deve-ser-encarada-como-uma-necessidade-economica/",
+      "source": "Forbes África",
+      "_key": "6c28cfebdc0e6712",
+      "score": 6,
+      "title_cn": "安哥拉总统：区域一体化应被视为经济需要"
+    },
+    {
+      "title": "Destaque Especialistas defendem maior aposta no capital humano no sector do TurismoVários especialistas defenderam, esta sexta-feira, a necessidade de reforçar a formação do capital humano como um dos pilares para o desenvolvimento sustentável do sector do Turismo em Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678885/especialistas-defendem-maior-aposta-no-capital-humano-no-sector-do-turismo",
+      "source": "Jornal de Angola",
+      "_key": "12c6d0c5a39c506d",
+      "score": 6,
+      "title_cn": "专家呼吁加大旅游业人力资本投入"
+    },
+    {
+      "title": "Destaque Angola promove produtos nacionais e cultura no Festival do Espargo na HungriaAngola participou, na quinta-feira, na 30.ª edição do Festival do Espargo, realizado em Öttömös, na Hungria, onde promoveu produtos nacionais e a riqueza cultural do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678884/angola-promove-produtos-nacionais-e-cultura-no-festival-do-espargo-na-hungria",
+      "source": "Jornal de Angola",
+      "_key": "8ec3fd7144fa7bbc",
+      "score": 6,
+      "title_cn": "安哥拉在匈牙利芦笋节推广本国产品和文化"
+    },
+    {
+      "title": "“Queremos que o Turismo contribua para melhorar a qualidade de vida dos cidadãos”Angola quer aproveitar o crescimento do turismo para a criação de mais condições que contribuam para a melhoria da qualidade de vida dos seus cidadãos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678852/%E2%80%9Cqueremos-que-o-turismo-contribua-para--melhorar-a-qualidade-de-vida-dos-cidad%C3%A3os%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "11d13f391ca59d59",
+      "score": 6,
+      "title_cn": "“希望旅游业能改善公民生活质量”"
+    },
+    {
+      "title": "Economia Ordem dos Economistas promove debate sobre diversificação económica no Huambo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678888/ordem-dos-economistas-promove-debate-sobre-diversifica%C3%A7%C3%A3o-econ%C3%B3mica-no-huambo",
+      "source": "Jornal de Angola",
+      "_key": "1c86d6d45d11a4da",
+      "score": 6,
+      "title_cn": "经济学家协会在万博省推动经济多元化辩论"
+    },
+    {
+      "title": "Sorriso crónico: O negócio das estradas",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/sorriso-cronico-o-negocio-das-estradas-72654.html",
+      "source": "Novo Jornal",
+      "_key": "3b15808e170e8458",
+      "score": 6,
+      "title_cn": "长期微笑：道路建设的生意经"
+    },
+    {
+      "title": "João Lourenço afirma que turismo em Angola está a ser consolidado com reformas estruturais",
+      "url": "https://www.opais.ao/politica/joao-lourenco-afirma-que-turismo-em-angola-esta-a-ser-consolidado-com-reformas-estruturais/",
+      "source": "O País",
+      "_key": "e344f1c7e99edafa",
+      "score": 6,
+      "title_cn": "若昂·洛伦索(João Lourenço)称安哥拉旅游业正通过结构性改革得到巩固"
+    },
+    {
+      "title": "Fórum de Turismo posiciona Angola no palco mundial do sector impulsionando a economia nacional",
+      "url": "https://www.opais.ao/politica/forum-de-turismo-posiciona-angola-no-palco-mundial-do-sector-impulsionando-a-economia-nacional/",
+      "source": "O País",
+      "_key": "6ca49aec111047f9",
+      "score": 6,
+      "title_cn": "旅游论坛将安哥拉推向世界舞台，助力国家经济发展"
+    },
+    {
+      "title": "Angola's global projection in world tourism recognized",
+      "url": "https://www.angop.ao/en/noticias/turismo/consultora-internacional-reconhece-projeccao-global-de-angola-no-panorama-mundial-do-turismo/",
+      "source": "ANGOP",
+      "_key": "0b0de8a8bed6d753",
       "score": 5,
-      "title_cn": "卡洛斯·圣维森特（Carlos São Vicente）被查封酒店遭破坏，国家被迫采取行动"
+      "title_cn": "安哥拉在全球旅游业中的地位获认可"
+    },
+    {
+      "title": "Angola's National Bank strengthens corporate governance",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-reforca-governacao-corporativa-da-banca/",
+      "source": "ANGOP",
+      "_key": "8327666e2a13a498",
+      "score": 5,
+      "title_cn": "安哥拉国家银行加强公司治理"
+    },
+    {
+      "title": "GTFI Chair hails Angola’s focus on tourism",
+      "url": "https://www.angop.ao/en/noticias/turismo/turismo-angolano-marca-passos-para-um-novo-rumo/",
+      "source": "ANGOP",
+      "_key": "3bbb1f907f91d710",
+      "score": 5,
+      "title_cn": "全球旅游投资论坛(GTFI)主席赞扬安哥拉对旅游业的重视"
+    },
+    {
+      "title": "Utentes preocupados com rumores sobre possível alteração do preço do táxi em Luanda",
+      "url": "https://correiokianda.info/utentes-preocupados-com-rumores-sobre-possivel-alteracao-do-preco-do-taxi-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "37fa2218eb4f68de",
+      "score": 5,
+      "title_cn": "罗安达市民担忧出租车价格可能变动"
+    },
+    {
+      "title": "Authorities Authorize TAAG to Operate Boeing 787-9 Dreamliner in Europe",
+      "url": "https://www.negociosdeangola.com/en/authorities-authorize-taag-to-operate-boeing-787-9-dreamliner-in-europe/",
+      "source": "Negócios de Angola",
+      "_key": "777019cb41e97775",
+      "score": 5,
+      "title_cn": "当局授权安哥拉航空(TAAG)在欧洲运营波音787-9梦想客机"
+    },
+    {
+      "title": "Preço do bilhete expresso de Luanda sobem para os 800...",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-bilhete-expresso-de-luanda-sobem-para-os-800-kwanzas",
+      "source": "Valor Económico",
+      "_key": "838c113b92f91b69",
+      "score": 5,
+      "title_cn": "罗安达特快车票价上涨至800宽扎"
     }
   ]
 }
