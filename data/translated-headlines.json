@@ -1,336 +1,72 @@
 {
   "date": "2026-06-20",
-  "total_new": 120,
-  "total_filtered": 41,
-  "scored_by": "glm-flash",
+  "total_new": 33,
+  "total_filtered": 8,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Política CIMPAD quer fortalecer cooperação universitária ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678931/cimpad-quer-fortalecer-coopera%C3%A7%C3%A3o-universit%C3%A1ria",
-      "source": "Jornal de Angola",
-      "_key": "dffe1dae04ce9747",
-      "score": 9,
-      "title_cn": "CIMPAD旨在加强大学合作"
+      "title": "Obras de requalificação de 16 quilómetros do troço Quiminha-Estrada Nacional 110 terá duração de 18 meses",
+      "url": "https://correiokianda.info/obras-de-requalificacao-de-16-quilometros-do-troco-quiminha-estrada-nacional-110-tera-duracao-de-18-meses/",
+      "source": "Correio Kianda",
+      "_key": "d3a17b69b3faca08",
+      "score": 7,
+      "title_cn": "Quiminha-110国道16公里路段改造工程将持续18个月"
     },
     {
-      "title": "ANGOTIC 2026: Projecta Angola como potência tecnológica...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angotic-2026-projecta-angola-como-potencia-tecnologica-emergente-72653.html",
+      "title": "Mais de 11 mil milhões de kwanzas vão ser aplicados na construção de 225 casas para os sinistrados de Benguela",
+      "url": "https://www.opais.ao/manchete/mais-de-11-mil-milhoes-de-kwanzas-serao-aplicados-na-construcao-de-225-casas-para-os-sinistrados-de-benguela/",
+      "source": "O País",
+      "_key": "a502aca36036e005",
+      "score": 7,
+      "title_cn": "本戈拉省将投资逾110亿宽扎，为受灾民众建造225套房屋"
+    },
+    {
+      "title": "Paraíso despede-se em choque das vítimas do quádruplo homicídio",
+      "url": "https://www.opais.ao/sociedade/paraiso-despede-se-em-choque-das-vitimas-do-quadruplo-homicidio/",
+      "source": "O País",
+      "_key": "644bea4612981a1c",
+      "score": 7,
+      "title_cn": "Paraíso（天堂）民众震惊送别四重凶杀案受害者"
+    },
+    {
+      "title": "Sociedade Angola e RDC analisam medidas de contingência ao longo da fronteira ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678954/angola-e-rdc-analisam-medidas---de-conting%C3%AAncia-ao-longo-da-fronteira-",
+      "source": "Jornal de Angola",
+      "_key": "26adad579f8f796f",
+      "score": 6,
+      "title_cn": "安哥拉与刚果（金）探讨边境应急措施"
+    },
+    {
+      "title": "Benguela: Manifestação para exigir reconstrução de...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/benguela-manifestacao-para-exigir-reconstrucao-de-casas-expoe-drama-dos-sinistrados-das-cheias-72688.html",
       "source": "Novo Jornal",
-      "_key": "8250c0a38987a1bd",
-      "score": 9,
-      "title_cn": "ANGOTIC 2026：展望安哥拉成为科技强国"
-    },
-    {
-      "title": "Consórcio empresta 2,65 mil milhões USD à Sonangol",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_21f0e197ba654a",
-      "score": 8,
-      "title_cn": "财团向安哥拉国家石油公司(Sonangol)贷款26.5亿美元"
-    },
-    {
-      "title": "Destaque João Lourenço destaca Parque de Ciência e Tecnologia como motor da inovaçãoO Parque de Ciência e Tecnologia de Luanda, representa um marco estratégico para o desenvolvimento de Angola, ao aproximar a academia, a investigação científica, as empresas e os jovens empreendedores, disse, hoje, o Chefe de Estado, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678925/jo%C3%A3o-louren%C3%A7o-destaca-parque-de-ci%C3%AAncia-e-tecnologia-como-motor-da-inova%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "c9017cbbc44b9501",
-      "score": 8,
-      "title_cn": "若昂·洛伦索(João Lourenço)强调科技园是创新引擎"
-    },
-    {
-      "title": "Parque de Ciência e Tecnologia vai estimular o conhecimento no país O Parque de Ciência e Tecnologia de Luanda (PCTL), inaugurado, ontem, pelo Presidente da República, João Lourenço, vai estimular e gerir o fluxo de conhecimento e tecnologia entre instituições de ensino superior, de investigação científica e entre empresas e mercado.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678933/parque-de-ci%C3%AAncia-e-tecnologia-vai-estimular-o-conhecimento-no-pa%C3%ADs-",
-      "source": "Jornal de Angola",
-      "_key": "30f1ca40d5cad0fd",
-      "score": 8,
-      "title_cn": "罗安达科技园将激发全国知识创新"
-    },
-    {
-      "title": "Economia Parque de Ciência e Tecnologia impulsiona diversificação da economia ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678920/parque-de-ci%C3%AAncia-e-tecnologia-impulsiona-diversifica%C3%A7%C3%A3o-da-economia",
-      "source": "Jornal de Angola",
-      "_key": "875b4d99a3b681eb",
-      "score": 8,
-      "title_cn": "科技园推动经济多元化发展"
-    },
-    {
-      "title": "Última hora Angola reforça parceria no Turismo com assinatura de oito novos memorandos",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678923/angola-refor%C3%A7a-parceria-no-turismo-com-assinatura-de-oito-novos-memorandos",
-      "source": "Jornal de Angola",
-      "_key": "b7e10942386679a3",
-      "score": 8,
-      "title_cn": "安哥拉签署八项新备忘录加强旅游合作"
-    },
-    {
-      "title": "CIMPAD seeks strengthened University cooperation with Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/cimpad-quer-fortalecer-cooperacao-universitaria-com-angola/",
-      "source": "ANGOP",
-      "_key": "790604344cea2546",
-      "score": 7,
-      "title_cn": "CIMPAD寻求加强与安哥拉的大学合作"
-    },
-    {
-      "title": "Imigração ilegal",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=225336",
-      "source": "ANGOP",
-      "_key": "a938a1ae8dfae68a",
-      "score": 7,
-      "title_cn": "非法移民"
-    },
-    {
-      "title": "Presidente da República autoriza concurso público para obras de habitação, água e estradas na província do Cubango",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-concurso-publico-para-obras-de-habitacao-agua-e-estradas-na-provincia-do-cubango/",
-      "source": "Correio Kianda",
-      "_key": "258fe05673cdd8bb",
-      "score": 7,
-      "title_cn": "总统批准库邦戈省住房、供水和道路工程公开招标"
-    },
-    {
-      "title": "Crédito ao sector privado em Angola seis vezes abaixo da média da SADC",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_4ddc7a8219d315",
-      "score": 7,
-      "title_cn": "安哥拉私营部门信贷远低于南部非洲发展共同体(SADC)平均水平"
-    },
-    {
-      "title": "Ajustes directos triplicam em número e em valor e disparam para 8,4 biliões Kz",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_8ca71e100b7121",
-      "score": 7,
-      "title_cn": "直接采购数量和价值均增长两倍，飙升至8.4万亿宽扎"
-    },
-    {
-      "title": "Ajustes diretos lideraram contratação pública em Angola com 1,7 biliões de kwanzas em 2025",
-      "url": "https://jornaloguardiao.com/2026/06/19/ajustes-diretos-lideraram-contratacao-publica-em-angola-com-17-bilioes-de-kwanzas-em-2025/",
-      "source": "Jornal O Guardião",
-      "_key": "f59fe2cd3a85f043",
-      "score": 7,
-      "title_cn": "2025年安哥拉直接采购主导公共采购，达1.7万亿宽扎"
-    },
-    {
-      "title": "Resultados líquidos da banca angolana crescem 23% com marco histórico de um bilião de kwanzas em 2025",
-      "url": "https://jornaloguardiao.com/2026/06/19/resultados-liquidos-da-banca-angolana-crescem-23-com-marco-historico-de-um-biliao-de-kwanzas-em-2025/",
-      "source": "Jornal O Guardião",
-      "_key": "f2c5ca163ed88baa",
-      "score": 7,
-      "title_cn": "2025年安哥拉银行业净利润增长23%，达1万亿宽扎创历史新高"
-    },
-    {
-      "title": " Ajustes diretos lideraram contratação pública em Angola com 1,7 biliões de kwanzas em 2025 ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_8c5e0080d289c3",
-      "score": 7,
-      "title_cn": "2025年安哥拉直接采购主导公共采购，达1.7万亿宽扎"
-    },
-    {
-      "title": " Resultados líquidos da banca angolana crescem 23% com marco histórico de um bilião de kwanzas em 2025 ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d7104c280c081d",
-      "score": 7,
-      "title_cn": "2025年安哥拉银行业净利润增长23%，达1万亿宽扎创历史新高"
-    },
-    {
-      "title": "Destaque União Africana envia mensagem a João LourençoO ministro das Relações Exteriores, Téte António, recebeu, esta sexta-feira, uma mensagem do Chefe de Estado do Burundi e presidente em exercício da União Africana, Évariste Ndayishimiye, destinada ao Presidente João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678924/uni%C3%A3o-africana-envia-mensagem-a-jo%C3%A3o-louren%C3%A7o",
-      "source": "Jornal de Angola",
-      "_key": "d602f48d77038709",
-      "score": 7,
-      "title_cn": "非洲联盟致函若昂·洛伦索(João Lourenço)"
-    },
-    {
-      "title": "Política Presidente da União Africana escreve para o líder angolano ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678941/presidente-da-uni%C3%A3o-africana-escreve-para-o-l%C3%ADder-angolano",
-      "source": "Jornal de Angola",
-      "_key": "c84f513850df9ed8",
-      "score": 7,
-      "title_cn": "非洲联盟主席致函安哥拉领导人"
-    },
-    {
-      "title": "Police thwart 15 violation attempts to national border",
-      "url": "https://www.angop.ao/en/noticias/politica/policia-frustra-15-tentativas-de-violacao-da-fronteira-nacional/",
-      "source": "ANGOP",
-      "_key": "f815af2f0355755e",
+      "_key": "7f9681e006d09a24",
       "score": 6,
-      "title_cn": "警方挫败15起非法越境企图"
+      "title_cn": "本戈拉省爆发示威，要求重建"
     },
     {
-      "title": "Non-oil foreign investment in Angola exceeds USD 900 million",
-      "url": "https://www.angop.ao/en/noticias/economia/investimento-estrangeiro-nao-petrolifero-cifra-se-em-mais-de-usd-900-milhoes/",
-      "source": "ANGOP",
-      "_key": "a5b1b3f63ee84fcf",
-      "score": 6,
-      "title_cn": "安哥拉非石油领域外国投资超9亿美元"
-    },
-    {
-      "title": "Contratação pública em Angola: entre a eficiência administrativa e o imperativo da concorrência económica - Tyilenga Mutindi",
-      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60550:contratacao-publica-em-angola-entre-a-eficiencia-administrativa-e-o-imperativo-da-concorrencia-economica-tyilenga-mutindi&catid=17:opiniao&lang=pt&Itemid=1067",
-      "source": "Club K",
-      "_key": "fdc76329d500f04d",
-      "score": 6,
-      "title_cn": "安哥拉公共采购：行政效率与经济竞争的平衡——蒂伦加·穆廷迪(Tyilenga Mutindi)"
-    },
-    {
-      "title": "Obras de construção das casas sociais dos sinistrados em Benguela orçadas em 11 mil milhões de kwanzas",
-      "url": "https://correiokianda.info/obras-de-construcao-das-casas-sociais-dos-sinistrados-em-benguela-orcadas-em-11-mil-milhoes-de-kwanzas/",
-      "source": "Correio Kianda",
-      "_key": "b6844a154bd99da6",
-      "score": 6,
-      "title_cn": "本格拉受灾者社会住房建设工程预算110亿宽扎"
-    },
-    {
-      "title": "Oito em cada 10 obras estavam paralisadas no primeiro trimestre",
-      "url": "https://expansao.co.ao/angola/detalhe/oito-em-cada-10-obras-estavam-paralisadas-no-primeiro-trimestre-72674.html",
-      "source": "Expansão",
-      "_key": "4a939c206268c792",
-      "score": 6,
-      "title_cn": "一季度每 10 个项目中就有 8 个停工"
-    },
-    {
-      "title": "Angola precisa de economia suficientemente livre para finalmente se diversificar – UNITA",
-      "url": "https://jornaloguardiao.com/2026/06/19/angola-precisa-de-economia-suficientemente-livre-para-finalmente-se-diversificar-unita/",
-      "source": "Jornal O Guardião",
-      "_key": "5ca05532849326ea",
-      "score": 6,
-      "title_cn": "安盟(UNITA)称安哥拉需足够自由经济以实现多元化"
-    },
-    {
-      "title": "Autoridades europeias autorizam angolana TAAG a operar Boeing 787-9 Dreamliner na Europa",
-      "url": "https://jornaloguardiao.com/2026/06/19/autoridades-europeias-autorizam-angolana-taag-a-operar-boeing-787-9-dreamliner-na-europa/",
-      "source": "Jornal O Guardião",
-      "_key": "7c159ac0ec029e99",
-      "score": 6,
-      "title_cn": "欧洲当局批准安哥拉TAAG航空在欧运营波音787-9梦想客机"
-    },
-    {
-      "title": " Angola precisa de economia suficientemente livre para finalmente se diversificar – UNITA ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_054a2ead130aa4",
-      "score": 6,
-      "title_cn": "安盟(UNITA)称安哥拉需足够自由经济以实现多元化"
-    },
-    {
-      "title": " Autoridades europeias autorizam angolana TAAG a operar Boeing 787-9 Dreamliner na Europa ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_23147f4465f47b",
-      "score": 6,
-      "title_cn": "欧洲当局批准安哥拉TAAG航空在欧运营波音787-9梦想客机"
-    },
-    {
-      "title": "Angola defende plataforma global de justiça reparatória Angola reafirmou ontem, em Acra, a necessidade de criação de uma plataforma global para a justiça reparatória, assente na articulação entre memória, restituição, capacitação institucional e reforma da governação internacional.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678928/angola-defende-plataforma--global-de-justi%C3%A7a-reparat%C3%B3ria-",
-      "source": "Jornal de Angola",
-      "_key": "1004c4425444502a",
-      "score": 6,
-      "title_cn": "安哥拉倡导建立全球赔偿正义平台"
-    },
-    {
-      "title": "Política Instituição vai ajudar a diversificar a economia ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678932/institui%C3%A7%C3%A3o-vai-ajudar-a-diversificar-a-economia",
-      "source": "Jornal de Angola",
-      "_key": "c82e6445ef7727e3",
-      "score": 6,
-      "title_cn": "机构将助力经济多元化"
-    },
-    {
-      "title": "Vítimas do quádruplo homicídio no Paraíso serão sepultadas amanhã",
-      "url": "https://www.opais.ao/manchete/vitimas-do-quadruplo-homicidio-no-paraiso-serao-sepultadas-amanha/",
+      "title": "Polícia apela à serenidade durante o funeral das vítimas do homicídio no Paraíso",
+      "url": "https://www.opais.ao/destaque/policia-apela-a-serenidade-durante-o-funeral-das-vitimas-do-homicidio-no-paraiso/",
       "source": "O País",
-      "_key": "fefd8cc11615b179",
+      "_key": "f25961e4af4998e2",
       "score": 6,
-      "title_cn": "Paraíso四重谋杀案受害者将于明日下葬"
+      "title_cn": "警方呼吁在帕拉索谋杀案受害者的葬礼上保持冷静"
     },
     {
-      "title": "Angolan govt signs new memo to boost tourism Investment",
-      "url": "https://www.angop.ao/en/noticias/turismo/governo-angolano-assina-mais-oito-memorandos-para-reforco-no-investimento-ao-turismo/",
-      "source": "ANGOP",
-      "_key": "44cdcd589d284828",
-      "score": 5,
-      "title_cn": "安哥拉政府签署新备忘录以促进旅游投资"
-    },
-    {
-      "title": "Executivo avança com requalificação de vias secundárias e terciárias na Huíla",
-      "url": "https://correiokianda.info/executivo-avanca-com-requalificacao-de-vias-secundarias-e-terciarias-na-huila/",
-      "source": "Correio Kianda",
-      "_key": "84c8a9bbd7ee140c",
-      "score": 5,
-      "title_cn": "政府推进威拉省次干道和支路改造"
-    },
-    {
-      "title": "Novo Governo de Cabo Verde tomou posse esta sexta feira",
-      "url": "https://forbesafricalusofona.com/novo-governo-de-cabo-verde-tomou-posse-esta-sexta-feira/",
-      "source": "Forbes África",
-      "_key": "97fc00c8187685c5",
-      "score": 5,
-      "title_cn": "佛得角新政府本周五宣誓就职"
-    },
-    {
-      "title": "Presidente cabo-verdiano dá hoje posse ao novo Governo",
-      "url": "https://jornaloguardiao.com/2026/06/19/presidente-cabo-verdiano-da-hoje-posse-ao-novo-governo/",
-      "source": "Jornal O Guardião",
-      "_key": "e106881aa83590a9",
-      "score": 5,
-      "title_cn": "佛得角总统今日任命新政府"
-    },
-    {
-      "title": " Presidente cabo-verdiano dá hoje posse ao novo Governo ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f1be8dcc507764",
-      "score": 5,
-      "title_cn": "佛得角总统今日任命新政府"
-    },
-    {
-      "title": "10:10 / 20 jun. 2026 Parlamento pretende dinamizar laços com congénere australiana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678929/parlamento-pretende-dinamizar--la%C3%A7os-com-cong%C3%A9nere-australiana-",
+      "title": "Economia Turismo reforça parcerias com oito novos acordos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678960/turismo-refor%C3%A7a-parcerias-com-oito-novos-acordos",
       "source": "Jornal de Angola",
-      "_key": "59532963154f28f4",
+      "_key": "20a3d5dfef9d9b96",
       "score": 5,
-      "title_cn": "议会旨在加强与澳大利亚议会的联系"
+      "title_cn": "经济旅游部门通过八项新协议加强合作"
     },
     {
-      "title": "Nem as \"obras locais\" abrandam tensão na construção...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/nem-as-obras-locais-abrandam-tensao-na-construcao-civil-72637.html",
-      "source": "Novo Jornal",
-      "_key": "963a38dcefb11a11",
-      "score": 5,
-      "title_cn": "“地方工程”未能缓解建筑业紧张局势"
-    },
-    {
-      "title": "Campanha de rastreio da Tripanossomíase prevê abranger cerca de quatro mil munícipes do Ngonguembo",
-      "url": "https://www.opais.ao/politica/campanha-de-rastreio-da-tripanossomiase-preve-abranger-cerca-de-quatro-mil-municipes-do-ngonguembo/",
+      "title": "‎Plataforma automóvel ultrapassa 40 mil utilizadores em dois meses de actividade em Angola‎",
+      "url": "https://www.opais.ao/destaque/plataforma-automovel-ultrapassa-40-mil-utilizadores-em-dois-meses-de-actividade-em-angola/",
       "source": "O País",
-      "_key": "19d4ff9211d459af",
+      "_key": "1c69edeace172c4b",
       "score": 5,
-      "title_cn": "恩贡根博(Ngonguembo)锥虫病筛查运动预计覆盖四千居民"
-    },
-    {
-      "title": "‎Operação “Raia II” movimenta mais de 100 efectivos da Polícia Nacional e das FAA no Namibe",
-      "url": "https://www.opais.ao/ultima_hora/operacao-raia-ii-movimenta-mais-de-100-efectivos-da-policia-nacional-e-das-faa-no-namibe/",
-      "source": "O País",
-      "_key": "ed49166ff4bde6ea",
-      "score": 5,
-      "title_cn": "“鳐鱼二号”行动在纳米贝省调动百余名警察和武装部队人员"
-    },
-    {
-      "title": "Angola e RDC abordam o fortalecimento das relações parlamentares",
-      "url": "https://www.opais.ao/politica/angola-e-rdc-abordam-o-fortalecimento-das-relacoes-parlamentares/",
-      "source": "O País",
-      "_key": "9f959b3bd8205025",
-      "score": 5,
-      "title_cn": "安哥拉与刚果民主共和国讨论加强议会关系"
-    },
-    {
-      "title": "Apreendidos em Cabinda mais de mil sacos de farinha de trigo caducada",
-      "url": "https://www.opais.ao/economia/apreendidos-em-cabinda-mais-de-mil-sacos-de-farinha-de-trigo-caducada/",
-      "source": "O País",
-      "_key": "ec5be0f43d88abe0",
-      "score": 5,
-      "title_cn": "卡宾达查获一千多袋过期小麦粉"
+      "title_cn": "安哥拉汽车平台运营两月用户突破4万"
     }
   ]
 }
