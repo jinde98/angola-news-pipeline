@@ -1,62 +1,464 @@
 {
-  "date": "2026-06-20",
-  "total_extracted": 1497,
-  "total_new": 9,
-  "total_existing": 1488,
+  "date": "2026-06-21",
+  "total_extracted": 1761,
+  "total_new": 76,
+  "total_existing": 1685,
   "articles": [
     {
-      "title": "Minister points to internal migration as the cause of rapid urban expansion in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-aponta-migracao-interna-como-causa-da-rapida-expansao-urbana-em-angola/",
+      "title": "Angola and the United Kingdom strengthen cooperation on Human Rights",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-reino-unido-reforcam-cooperacao-no-dominio-dos-direitos-humanos/",
       "source": "ANGOP",
-      "_key": "cd0fe708274c4731"
+      "_key": "b092c3e462dc3afa"
     },
     {
-      "title": "Damba Polytechnic Institute wins FIT-Uíge 4th Edition",
-      "url": "https://www.angop.ao/en/noticias/tecnologia/instituto-politecnico-da-damba-vence-quarta-edicao-da-fit-uige/",
+      "title": "Angola advocates for strengthening mechanisms to respond to humanitarian crises",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-advoga-reforco-dos-mecanismos-face-as-crises-humanitarias/",
       "source": "ANGOP",
-      "_key": "e11f43a5b6030fa6"
+      "_key": "ec6e69e1b07d05a6"
     },
     {
-      "title": "Pilgrimage of Saint Joseph concludes with an appeal for unity and peace",
-      "url": "https://www.angop.ao/en/noticias/sociedade/peregrinacao-a-s.jose-encerra-com-apelo-a-uniao-e-paz/",
+      "title": "Government plans to build more social housing in Benguela",
+      "url": "https://www.angop.ao/en/noticias/sociedade/governo-projecta-construcao-de-mais-casas-sociais-em-benguela/",
       "source": "ANGOP",
-      "_key": "4e8c11978a4dbbfb"
+      "_key": "02d0fb3be6c5f4a7"
     },
     {
-      "title": "Líbano: Acordo de paz EUA-Irão representa vitóri para Hezbollah?”",
-      "url": "https://www.dw.com/pt-002/líbano-acordo-de-paz-eua-irão-representa-vitóri-para-hezbollah/a-77637359?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "title": "CPLP conference recommends mapping physics in Portuguese-Speaking African Countries",
+      "url": "https://www.angop.ao/en/noticias/sociedade/conferencia-da-cplp-recomenda-mapeamento-da-fisica-nos-palop/",
+      "source": "ANGOP",
+      "_key": "c085141530d00f03"
+    },
+    {
+      "title": "CIVICOP releases provisional list of women victims of May 27, 1977",
+      "url": "https://www.angop.ao/en/noticias/politica/civicop-divulga-lista-provisoria-de-mulheres-vitimas-do-27-de-maio-de-1977/",
+      "source": "ANGOP",
+      "_key": "a0bf9b97dbcb599c"
+    },
+    {
+      "title": "Huíla Joins global network for gravity studies with physical pendulum",
+      "url": "https://www.angop.ao/en/noticias/educacao/huila-integra-rede-mundial-de-estudo-da-gravidade-com-pendulo-fisico/",
+      "source": "ANGOP",
+      "_key": "c013eece5c4dfa61"
+    },
+    {
+      "title": "Obras Públicas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57907",
+      "source": "ANGOP",
+      "_key": "48ba4488b32be2ac"
+    },
+    {
+      "title": "Divulgação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=108457",
+      "source": "ANGOP",
+      "_key": "bfcc2289f339b88b"
+    },
+    {
+      "title": "Angola gives positive assessment to tourism investment summit/2026",
+      "url": "https://www.angop.ao/en/noticias/turismo/angola-da-nota-positiva-a-cimeira-de-investimentos-no-turismo-2026/",
+      "source": "ANGOP",
+      "_key": "54b00b9c6c66c8d0"
+    },
+    {
+      "title": "Guiné-Bissau: Chefes militares da CEDEAO visitam país para acompanhar processo de transição",
+      "url": "https://www.dw.com/pt-002/guiné-bissau-chefes-militares-da-cedeao-visitam-país-para-acompanhar-processo-de-transição/a-77639030?maca=por-RSS_VAF_Club-K-22869-xml-cb",
       "source": "Club K",
-      "_key": "fd777ae4061b69a6"
+      "_key": "1e5b1ad26dd81867"
     },
     {
-      "title": "Moçambique: Movimento de supostos terroristas gera pânico em Ancuabe",
-      "url": "https://www.dw.com/pt-002/moçambique-movimento-de-supostos-terroristas-gera-pânico-em-ancuabe/a-77636485?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "title": "Líbano: Acordo de paz EUA-Irão representa vitória para Hezbollah?”",
+      "url": "https://www.dw.com/pt-002/líbano-acordo-de-paz-eua-irão-representa-vitória-para-hezbollah/a-77637359?maca=por-RSS_VAF_Club-K-22869-xml-cb",
       "source": "Club K",
-      "_key": "01953c1d38133184"
+      "_key": "25cfdc1d47c16cfd"
     },
     {
-      "title": "“Angola na lista da vergonha”",
-      "url": "https://holdonangola.com/angola-na-lista-da-vergonha/",
+      "title": "MPLA no Cazenga destaca engajamento dos militantes no processo orgânico das bases",
+      "url": "https://correiokianda.info/mpla-no-cazenga-destaca-engajamento-dos-militantes-no-processo-organico-das-bases/",
+      "source": "Correio Kianda",
+      "_key": "20f74fb1db241eb8"
+    },
+    {
+      "title": "Governo avança com segunda etapa do Novo Aeroporto Internacional de Cabinda",
+      "url": "https://correiokianda.info/governo-avanca-com-segunda-etapa-do-novo-aeroporto-internacional-de-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "dcfd351b5fc4e42e"
+    },
+    {
+      "title": "Debate democrático envolve diferentes visões sobre papel da oposição",
+      "url": "https://correiokianda.info/debate-democratico-envolve-diferentes-visoes-sobre-papel-da-oposicao/",
+      "source": "Correio Kianda",
+      "_key": "1678d45a919d97ab"
+    },
+    {
+      "title": "Presidente da República autoriza contratação para construção de sistema de abastecimento de água no Uíge",
+      "url": "https://correiokianda.info/presidente-autoriza-contratacao-para-construcao-de-sistema-de-abastecimento-de-agua-no-uige/",
+      "source": "Correio Kianda",
+      "_key": "9c4864b11d090a32"
+    },
+    {
+      "title": "MPLA intensifica acompanhamento das suas estruturas em Icolo e Bengo",
+      "url": "https://correiokianda.info/mpla-intensifica-acompanhamento-das-suas-estruturas-em-icolo-e-bengo/",
+      "source": "Correio Kianda",
+      "_key": "d376f12644e81018"
+    },
+    {
+      "title": "ENDE lança programa para recuperação de pagamentos em atraso através da negociação",
+      "url": "https://correiokianda.info/ende-lanca-programa-para-recuperacao-de-pagamentos-em-atraso-atraves-da-negociacao/",
+      "source": "Correio Kianda",
+      "_key": "bac106143239e312"
+    },
+    {
+      "title": "Autoridades apelam ao engajamento dos fiéis nas eleições gerais de 2027",
+      "url": "https://correiokianda.info/autoridades-apelam-ao-engajamento-dos-fieis-nas-eleicoes-gerais-de-2027/",
+      "source": "Correio Kianda",
+      "_key": "472a85ed92134955"
+    },
+    {
+      "title": "Concurso público: abertas mais de 100 vagas no Governo do Moxico",
+      "url": "https://correiokianda.info/concurso-publico-abertas-mais-de-100-vagas-no-governo-do-moxico/",
+      "source": "Correio Kianda",
+      "_key": "85d1c994ebc07a42"
+    },
+    {
+      "title": "Angola acolhe 55 mil refugiados e requerentes de asilo, revela ACNUR no Dia Mundial do Refugiado",
+      "url": "https://correiokianda.info/angola-acolhe-55-mil-refugiados-e-requerentes-de-asilo-revela-acnur-no-dia-mundial-do-refugiado/",
+      "source": "Correio Kianda",
+      "_key": "fbff96b532c62ccc"
+    },
+    {
+      "title": "Dor e revolta marcam funeral de quatro vítimas de homicídio em Cacuaco",
+      "url": "https://correiokianda.info/dor-e-revolta-marcam-funeral-de-quatro-vitimas-de-homicidio-em-cacuaco/",
+      "source": "Correio Kianda",
+      "_key": "dcae03597e335c82"
+    },
+    {
+      "title": "Irão volta encerrar Estreito de Ormuz após ataques israelitas contra o Líbano",
+      "url": "https://correiokianda.info/irao-volta-encerrar-estreito-de-ormuz-apos-ataques-israelitas-contra-o-libano/",
+      "source": "Correio Kianda",
+      "_key": "b1d525488006b3da"
+    },
+    {
+      "title": "Ucrânia prevê pagar 1,5 mil milhões de dólares ao FMI até ao final do ano",
+      "url": "https://correiokianda.info/ucrania-preve-pagar-15-mil-milhoes-de-dolares-ao-fmi-ate-ao-final-do-ano/",
+      "source": "Correio Kianda",
+      "_key": "d5cc592e8f37be85"
+    },
+    {
+      "title": "Treinador do Egipto afasta rumores de desentendimento com Mohamed Salah no Mundial",
+      "url": "https://correiokianda.info/treinador-do-egipto-afasta-rumores-de-desentendimento-com-mohamed-salah-no-mundial/",
+      "source": "Correio Kianda",
+      "_key": "e6dbbe7f71822755"
+    },
+    {
+      "title": "Negociações de paz entre Estados Unidos e Irão adiadas devido a divergências profundas",
+      "url": "https://correiokianda.info/negociacoes-de-paz-entre-estados-unidos-e-irao-adiadas-devido-a-divergencias-profundas/",
+      "source": "Correio Kianda",
+      "_key": "786a29dc926ac45d"
+    },
+    {
+      "title": "Presidente da Bolívia declara o estado de emergência para restaurar normalidade após protestos",
+      "url": "https://correiokianda.info/presidente-da-bolivia-declara-o-estado-de-emergencia-para-restaurar-normalidade-apos-protestos/",
+      "source": "Correio Kianda",
+      "_key": "c5d3b94a7e85e8f3"
+    },
+    {
+      "title": "Mundial 2026: Primeiras selecções garantem apuramento aos dezasseis-avos-de-final com novas regras de desempate",
+      "url": "https://correiokianda.info/mundial-2026-primeiras-seleccoes-garantem-apuramento-aos-dezasseis-avos-de-final-com-novas-regras-de-desempate/",
+      "source": "Correio Kianda",
+      "_key": "816aca1227757eff"
+    },
+    {
+      "title": "FC de Luanda conquista inédita ascensão ao Girabola após 91 anos de história",
+      "url": "https://correiokianda.info/fc-de-luanda-conquista-inedita-ascensao-ao-girabola-apos-91-anos-de-historia/",
+      "source": "Correio Kianda",
+      "_key": "f20a3992255453f7"
+    },
+    {
+      "title": "Federação Cabo-verdiana esclarece que viagem da mãe de Vozinha aos EUA foi totalmente financiada",
+      "url": "https://correiokianda.info/federacao-cabo-verdiana-esclarece-que-viagem-da-mae-de-vozinha-aos-eua-foi-totalmente-financiada/",
+      "source": "Correio Kianda",
+      "_key": "62da69e81c12a137"
+    },
+    {
+      "title": "Alemanha apura-se, Tunísia é eliminada e Curaçau faz história no Mundial 2026",
+      "url": "https://correiokianda.info/alemanha-apura-se-tunisia-e-eliminada-e-curacau-faz-historia-no-mundial-2026/",
+      "source": "Correio Kianda",
+      "_key": "422044be313122d7"
+    },
+    {
+      "title": "Executivo congolês disponibiliza 1,6 milhões USD para bilhetes dos adeptos",
+      "url": "https://correiokianda.info/executivo-congoles-disponibiliza-16-milhoes-usd-para-bilhetes-dos-adeptos/",
+      "source": "Correio Kianda",
+      "_key": "5acf727bb8966ec9"
+    },
+    {
+      "title": "Reparações pela escravatura ganham novo impulso: conferência do Gana pressiona antigos impérios coloniais europeus",
+      "url": "https://correiokianda.info/reparacoes-pela-escravatura-ganham-novo-impulso-conferencia-do-gana-pressiona-antigos-imperios-coloniais-europeus/",
+      "source": "Correio Kianda",
+      "_key": "49ef8327aaa66ca7"
+    },
+    {
+      "title": "Produção de grafite para baterias de eléctricos dispara em Moçambique",
+      "url": "https://forbesafricalusofona.com/producao-de-grafite-para-baterias-de-electricos-dispara-em-mocambique/",
+      "source": "Forbes África",
+      "_key": "1d985b5c6b59c2f5"
+    },
+    {
+      "title": "Ministério do Turismo de Angola firma três acordos para acelerar desenvolvimento do sector",
+      "url": "https://forbesafricalusofona.com/ministerio-do-turismo-de-angola-firma-tres-acordos-para-acelerar-desenvolvimento-do-sector/",
+      "source": "Forbes África",
+      "_key": "167e4a905eed19f5"
+    },
+    {
+      "title": "“O turismo tem uma enorme capacidade de gerar”, afirma PR de Moçambique",
+      "url": "https://forbesafricalusofona.com/o-turismo-tem-uma-enorme-capacidade-de-gerar-afirma-pr-de-mocambique/",
+      "source": "Forbes África",
+      "_key": "704a0a696c2cbe24"
+    },
+    {
+      "title": "Adalberto Costa Júnior defende reformas estruturais para reduzir dependência do petróleo em Angola",
+      "url": "https://holdonangola.com/adalberto-costa-junior-defende-reformas-estruturais-para-reduzir-dependencia-do-petroleo-em-angola/",
       "source": "Hold On Angola",
-      "_key": "f0f526e4dfb5ec6c"
+      "_key": "a0332f18242a19bc"
     },
     {
-      "title": "George Isaac Pessela nega denúncia publicada pelo portal Rádio Angola e fala em calúnia e difamação de colegas com sonhos…",
-      "url": "https://holdonangola.com/george-isaac-pessela-nega-denuncia-publicada-pelo-portal-radio-angola-e-fala-em-calunia-e-difamacao-de-colegas-com-sonhos-frustrados/",
+      "title": "João Lourenço anuncia construção e reabilitação de universidades e institutos superiores em Angola",
+      "url": "https://holdonangola.com/joao-lourenco-anuncia-construcao-e-reabilitacao-de-universidades-e-institutos-superiores-em-angola/",
       "source": "Hold On Angola",
-      "_key": "071b20c86fe45ca2"
+      "_key": "4540be577873ec57"
     },
     {
-      "title": "Destaque Irão volta a encerrar Ormuz após ataques de Israel contra o LíbanoO Irão anunciou, este sábado, ter voltado a encerrar o tráfego marítimo no Estreito de Ormuz, como consequência da \"violação da promessa por parte do inimigo\".",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/678984/ir%C3%A3o-volta-a-encerrar-ormuz-ap%C3%B3s-ataques-de-israel-contra-o-l%C3%ADbano",
+      "title": "SIC detém dois suspeitos de burla na posse de mais de 150 Bilhetes de Identidade no Cubango",
+      "url": "https://holdonangola.com/sic-detem-dois-suspeitos-de-burla-na-posse-de-mais-de-150-bilhetes-de-identidade-no-cubango/",
+      "source": "Hold On Angola",
+      "_key": "e08e5fd69b3b355b"
+    },
+    {
+      "title": "Minuto Verde alerta para riscos…",
+      "url": "https://holdonangola.com/minuto-verde-alerta-para-riscos-ambientais-e-sanitarios-da-paralisacao-dos-servicos-de-limpeza-em-luanda/",
+      "source": "Hold On Angola",
+      "_key": "6b61af259e99492c"
+    },
+    {
+      "title": "Domingo, 21 de Junho, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_bb781eb673c8da"
+    },
+    {
+      "title": "UNTA exige melhores condições salariais para os trabalhadoresA UNTA–Confederação Sindical defendeu, sábado, a necessidade de melhoria das condições salariais e laborais dos trabalhadores angolanos, face às dificuldades provocadas pelo aumento do custo de vida e à consequente redução do poder de compra das famílias.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678999/unta-exige-melhores-condi%C3%A7%C3%B5es-salariais-para-os-trabalhadores",
       "source": "Jornal de Angola",
-      "_key": "69e23c36d06dcefe"
+      "_key": "b2f32eb711c87fe1"
     },
     {
-      "title": "UPRA e Morgan State assinam Memorando de Entendimento",
-      "url": "https://www.opais.ao/sociedade/upra-e-morgan-state-assinam-memorando-de-entendimento/",
+      "title": "CIVICOP realiza funeral de mais 11 vítimas dos conflitos políticosOs restos mortais das últimas 11 vítimas dos conflitos políticos identicadas pela Comissão para a Implementação do Plano de Reconciliação em Memória das Vítimas dos Conflitos Políticos (CIVICOP) foram sábado a enterrar nos cemitérios do Benfica e do Altos das Cruzes, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678998/civicop-realiza-funeral-de-mais-11-v%C3%ADtimas-dos-conflitos-pol%C3%ADticos",
+      "source": "Jornal de Angola",
+      "_key": "ab947c407f654cb4"
+    },
+    {
+      "title": "SODIAM realiza leilão online de diamantes especiais entre 22 e 25 de JunhoA Empresa Nacional de Comercialização de Diamantes de Angola (SODIAM) realiza, entre os dias 22 e 25 de Junho, um leilão online de pedras especiais de diamantes, dirigido exclusivamente a clientes registados na base de dados e com experiência. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/678991/sodiam-realiza-leil%C3%A3o-online-de-diamantes-especiais-entre-22-e-25-de-junho",
+      "source": "Jornal de Angola",
+      "_key": "3d739d737d56f07f"
+    },
+    {
+      "title": "Governo reforça passos para elevar o Semba a Património MundialO Ministério da Cultura já lidera as etapas técnicas e institucionais para elevar o Semba a Património Cultural Imaterial da Humanidade pela UNESCO. ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/679001/governo-refor%C3%A7a-passos-para-elevar-o-semba-a-patrim%C3%B3nio-mundial",
+      "source": "Jornal de Angola",
+      "_key": "050df01e05d6492b"
+    },
+    {
+      "title": "Apelo ao Registo Eleitoral ganha força em todo o território nacionalO apelo à actualização do registo eleitoral oficioso e à prova de vida — etapas preparatórias para as Eleições Gerais de 2027 — está a ganhar força em todo o território nacional. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679000/apelo-ao-registo-eleitoral-ganha-for%C3%A7a-em-todo-o-territ%C3%B3rio-nacional",
+      "source": "Jornal de Angola",
+      "_key": "200029ac2b368e75"
+    },
+    {
+      "title": "Desporto Golo de Toy Miguel coloca FC de Luanda no Girabola ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/679043/golo-de-toy-miguel-coloca-fc-de-luanda-no-girabola",
+      "source": "Jornal de Angola",
+      "_key": "7f3ee2a9b50c597d"
+    },
+    {
+      "title": "Desporto Mundial 2026: Bis de Deniz Undav apura Die Mannshaft ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/679037/mundial-2026:-bis-de-deniz-undav-apura-die-mannshaft",
+      "source": "Jornal de Angola",
+      "_key": "68c0a962ecf768ff"
+    },
+    {
+      "title": "Mundo Irão volta a encerrar Ormuz após ataques ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679031/ir%C3%A3o-volta-a-encerrar-ormuz-ap%C3%B3s-ataques",
+      "source": "Jornal de Angola",
+      "_key": "681cc91a643af4a9"
+    },
+    {
+      "title": "Sociedade Banco Mundial satisfeito com a formação na Saúde ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679029/banco-mundial-satisfeito-com-a-forma%C3%A7%C3%A3o-na-sa%C3%BAde",
+      "source": "Jornal de Angola",
+      "_key": "c13dfd4c09f35169"
+    },
+    {
+      "title": "Economia Refinaria de Cabinda produz 457,1 mil barris de óleo pesado ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679025/refinaria-de-cabinda-produz-4571-mil-barris-de-%C3%B3leo-pesado",
+      "source": "Jornal de Angola",
+      "_key": "67f61ad1218cb87e"
+    },
+    {
+      "title": "Regiões Ministro do Interior entrega viaturas aos órgãos do Uíge ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679022/ministro-do-interior-entrega-viaturas-aos-%C3%B3rg%C3%A3os-do-u%C3%ADge",
+      "source": "Jornal de Angola",
+      "_key": "d94f12e0112dc633"
+    },
+    {
+      "title": "Política Angola e Reino Unido desejam reforçar laços ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679017/angola-e-reino-unido-desejam-refor%C3%A7ar-la%C3%A7os-",
+      "source": "Jornal de Angola",
+      "_key": "3762aa1208af13e3"
+    },
+    {
+      "title": "Política Angola quer resposta célere para as crises em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679016/angola-quer-resposta-c%C3%A9lere-para-as-crises-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "0847ef574c710bf8"
+    },
+    {
+      "title": "Política FNLA elege 400 delegados para o Congresso Ordinário ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679014/fnla-elege-400-delegados-para-o-congresso-ordin%C3%A1rio",
+      "source": "Jornal de Angola",
+      "_key": "48b5883c0c86fd30"
+    },
+    {
+      "title": "Cultura Resiliência de Fally Ipupa é exemplo para juventude africana ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/679004/resili%C3%AAncia-de-fally-ipupa--%C3%A9-exemplo-para-juventude-africana-",
+      "source": "Jornal de Angola",
+      "_key": "a234c60745cd7989"
+    },
+    {
+      "title": "Reportagem Um mês depois, a Muxima continua a viver a visita do Papa ",
+      "url": "https://www.jornaldeangola.ao/noticias/8/reportagem/679002/um-m%C3%AAs-depois-a-muxima-continua-a-viver-a-visita-do-papa",
+      "source": "Jornal de Angola",
+      "_key": "773045a66f4f2009"
+    },
+    {
+      "title": "Sociedade Igreja Assembleia de Deus Pentecostal de Luanda encerra XIII Conferência ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678990/igreja-assembleia-de-deus-pentecostal-de-luanda-encerra-xiii-confer%C3%AAncia",
+      "source": "Jornal de Angola",
+      "_key": "19daf7fdee18b93e"
+    },
+    {
+      "title": "09:03 / 21 jun. 2026 Mundial de estreias e novas regras ",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679009/mundial-de-estreias-e-novas-regras",
+      "source": "Jornal de Angola",
+      "_key": "803ce8204fe7e16e"
+    },
+    {
+      "title": "17:27 / 20 jun. 2026 Banco Mundial satisfeito com projecto de formação de quadros da saúde em Angola ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678989/banco-mundial-satisfeito-com-projecto-de-forma%C3%A7%C3%A3o-de-quadros-da-sa%C3%BAde-em-angola-",
+      "source": "Jornal de Angola",
+      "_key": "6ef75a1d81739ad5"
+    },
+    {
+      "title": "Economia / Há 1 hora Equinor entra no Bloco 16/21 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679028/equinor-entra-no-bloco-1621",
+      "source": "Jornal de Angola",
+      "_key": "b7ba12b6e3bfe312"
+    },
+    {
+      "title": "Economia / Há 1 hora Transacções digitais crescem cerca de 50% ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679027/transac%C3%A7%C3%B5es-digitais-crescem-cerca-de-50%25",
+      "source": "Jornal de Angola",
+      "_key": "2d9962a38655b222"
+    },
+    {
+      "title": "Economia / Há 1 hora Região possui mercado para novos investimentos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679026/regi%C3%A3o-possui-mercado-para-novos-investimentos",
+      "source": "Jornal de Angola",
+      "_key": "1eabee9d224d6d0d"
+    },
+    {
+      "title": "Mundo21/06/2026Pastor condenado a 80 anos de prisão por abusar de dois menores",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679033/pastor-condenado-a-80-anos-de-pris%C3%A3o-por-abusar-de-dois-menores",
+      "source": "Jornal de Angola",
+      "_key": "10444a015f649270"
+    },
+    {
+      "title": "Mundo21/06/2026“Se queremos mudar os tempos, devemos começar por nós”",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679032/%E2%80%9Cse-queremos-mudar-os-tempos-devemos-come%C3%A7ar-por-n%C3%B3s%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "f89ce5092376b5ff"
+    },
+    {
+      "title": "Mundo21/06/2026Delegação da CEDEAO visita a Guiné-Bissau",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679030/delega%C3%A7%C3%A3o-da-cedeao-visita-a-guin%C3%A9-bissau",
+      "source": "Jornal de Angola",
+      "_key": "992bb9e069f2ef97"
+    },
+    {
+      "title": "Última hora Cotê D'voire sofre reviravolta nos descontos e perde com Alemanha (2-1)",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/678997/cot%C3%AA-d",
+      "source": "Jornal de Angola",
+      "_key": "94324817764d4133"
+    },
+    {
+      "title": "Última hora Conferência do CIMPAD encerra com assinatura de memorandos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/678995/confer%C3%AAncia-do-cimpad-encerra-com-assinatura-de-memorandos-",
+      "source": "Jornal de Angola",
+      "_key": "020454fda533fa4b"
+    },
+    {
+      "title": "Última hora Países Baixos dão espetáculo e goleiam Suécia (5-1) no Mundial 2026",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/678994/pa%C3%ADses-baixos-d%C3%A3o-espet%C3%A1culo-e-goleiam-su%C3%A9cia-%285-1%29-no-mundial-2026",
+      "source": "Jornal de Angola",
+      "_key": "ee93533f5db26039"
+    },
+    {
+      "title": "Última hora Vice-governador de Luanda apela cristãos ao registo oficioso",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/678988/vice-governador-de-luanda-apela-crist%C3%A3os-ao-registo-oficioso",
+      "source": "Jornal de Angola",
+      "_key": "9ce0da572d600712"
+    },
+    {
+      "title": "Médio Oriente: Israel insiste nos ataques ao Líbano...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-israel-insiste-nos-ataques-ao-libano-e-irao-volta-a-fechar-estreito-de-ormuz-washington-e-teerao-olhos-nos-olhos-na-suica-72692.html",
+      "source": "Novo Jornal",
+      "_key": "c80f16d87e93c897"
+    },
+    {
+      "title": "Mundial 2026: Histórico! Eloy Room guarda a ilha de...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-historico-eloy-room-guarda-a-ilha-de-curacao-nas-maos-com-15-defesas-0-0-72696.html",
+      "source": "Novo Jornal",
+      "_key": "424f3267483dd51a"
+    },
+    {
+      "title": "Mundial 2026: Épico! Máquina de Berlim transpira para...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-epico-maquina-de-berlim-transpira-para-vencer-filhos-de-marfim-com-golo-nos-descontos-72694.html",
+      "source": "Novo Jornal",
+      "_key": "99b862750e2b5d92"
+    },
+    {
+      "title": "Mundial 2026: \"Laranja Mecânica\" desaparafusa Suécia...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-laranja-mecanica-desaparafusa-suecia-com-berbequins-brobbey-e-gakpo-afinados-72693.html",
+      "source": "Novo Jornal",
+      "_key": "f4d13ede699fddf1"
+    },
+    {
+      "title": "Familiares das vítimas do quádruplo homicídio no Paraíso clamam por celeridade na justiça",
+      "url": "https://www.opais.ao/manchete/familiares-das-vitimas-do-quadruplo-homicidio-no-paraiso-clamam-por-celeridade-na-justica/",
       "source": "O País",
-      "_key": "02b4027d695e6319"
+      "_key": "371e6ecc9f862b6d"
+    },
+    {
+      "title": "INÉDITO: FC Luanda garante apuramento ao Girabola 2026/2027",
+      "url": "https://www.opais.ao/desporto/inedito-fc-luanda-garante-apuramento-ao-girabola-2026-2027/",
+      "source": "O País",
+      "_key": "0213f12f67bff2a2"
+    },
+    {
+      "title": "Governo do Moxico abre concurso público para mais de cem vagas",
+      "url": "https://www.opais.ao/ultima_hora/governo-do-moxico-abre-concurso-publico-para-mais-de-cem-vagas/",
+      "source": "O País",
+      "_key": "43032c0699e9e6b6"
     }
   ]
 }
