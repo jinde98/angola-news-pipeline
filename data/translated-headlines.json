@@ -1,392 +1,112 @@
 {
   "date": "2026-06-22",
-  "total_new": 196,
-  "total_filtered": 48,
-  "scored_by": "glm-flash",
+  "total_new": 47,
+  "total_filtered": 13,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Câmara de Comércio realiza censo para avaliar impacto das empresas chinesas na economia Angolana",
-      "url": "https://correiokianda.info/camara-de-comercio-realiza-censo-para-avaliar-impacto-das-empresas-chinesas-na-economia-angolana/",
-      "source": "Correio Kianda",
-      "_key": "ced3b5b94a8753e1",
+      "title": "Cabinet Council revises measures to boost investment in oil sector",
+      "url": "https://www.angop.ao/en/noticias/politica/conselho-de-ministros-aprecia-medidas-para-impulsionar-investimento-petrolifero/",
+      "source": "ANGOP",
+      "_key": "ed1c4ea767d77ae7",
       "score": 9,
-      "title_cn": "商会普查中企对安哥拉经济影响"
+      "title_cn": "内阁会议修订措施，促进石油领域投资"
     },
     {
-      "title": "Conselho de Ministros aprecia incentivos fiscais para blocos petrolíferos",
-      "url": "https://www.opais.ao/politica/conselho-de-ministros-aprecia-incentivos-fiscais-para-blocos-petroliferos/",
-      "source": "O País",
-      "_key": "e10011c481e7a643",
-      "score": 9,
-      "title_cn": "部长会议审议石油区块税收激励"
-    },
-    {
-      "title": "Petróleo recua com sinais de avanço nas negociações entre Washington e Teerão",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-com-sinais-de-avanco-nas-negociacoes-entre-washington-e-teerao-72712.html",
-      "source": "Expansão",
-      "_key": "0ee7e227c8cef3e9",
-      "score": 8,
-      "title_cn": "华盛顿与德黑兰谈判有进展 油价回落"
-    },
-    {
-      "title": "Economia / Há 4 horas Unitel detalha privatização nos próximos sete dias ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679091/unitel-detalha-privatiza%C3%A7%C3%A3o-nos-pr%C3%B3ximos-sete-dias",
-      "source": "Jornal de Angola",
-      "_key": "258899c2a0df9a76",
-      "score": 8,
-      "title_cn": "经济/4小时前 Unitel详述未来七日私有化"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: O FOSSO ESTÁ A AUMENTAR. Crédito ao sector privado em Angola seis vezes abaixo da média da SADC.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=72718",
-      "source": "Novo Jornal",
-      "_key": "b636f60ad041b3c7",
-      "score": 8,
-      "title_cn": "直播：差距扩大。安哥拉私营信贷为南部非洲平均六分之一"
-    },
-    {
-      "title": "Refinaria de Cabinda produziu mais de 450 mil barris de Óleo Combustível Pesado desde inauguração em 2025",
-      "url": "https://www.opais.ao/economia/refinaria-de-cabinda-produziu-mais-de-450-mil-barris-de-oleo-combustivel-pesado-desde-inauguracao-em-2025/",
-      "source": "O País",
-      "_key": "a80c91224bf5297a",
-      "score": 8,
-      "title_cn": "卡宾达炼油厂自2025年启用以来生产超45万桶重油"
-    },
-    {
-      "title": "Lucro da estatal SODIAM tombam 68% em 2025,apesar de ano...",
-      "url": "https://valoreconomico.co.ao/artigo/lucro-da-estatal-sodiam-tombam-68-em-2025-apesar-de-ano-recorde-nas-vendas",
-      "source": "Valor Económico",
-      "_key": "d818880dfa511829",
-      "score": 8,
-      "title_cn": "国企SODIAM 2025年利润下降68% 尽管是..."
-    },
-    {
-      "title": "Mais de 457 mil barris produzidos e 103 mil transferidos marcam avanço da Refinaria de Cabinda",
-      "url": "https://correiokianda.info/mais-de-457-mil-barris-produzidos-e-103-mil-transferidos-marcam-avanco-da-refinaria-de-cabinda/",
+      "title": "Executivo prepara OGE 2027 e quadro de despesas para 2028",
+      "url": "https://correiokianda.info/executivo-prepara-oge-2027-e-quadro-de-despesas-para-2028/",
       "source": "Correio Kianda",
-      "_key": "b974ecacea19275d",
+      "_key": "e42a9310d6b14ece",
       "score": 7,
-      "title_cn": "超过45.7万桶生产及10.3万桶转移 标志卡宾达炼油厂进展"
+      "title_cn": "安哥拉政府筹备2027年国家总预算及2028年支出框架"
     },
     {
-      "title": "Destaque Conselho de Ministros aprecia acordo de financiamento com a CoreiaO Conselho de Ministros apreciou, hoje, para envio à Assembleia Nacional, o Projecto de Resolução que aprova o Acordo-Quadro entre Angola e a República da Coreia, relativo aos Empréstimos do Fundo de Cooperação para o Desenvolvimento Económico (EDCF).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679127/conselho-de-ministros-aprecia-acordo-de-financiamento-com-a-coreia",
-      "source": "Jornal de Angola",
-      "_key": "96e47853b916c6a9",
-      "score": 7,
-      "title_cn": "重点：部长会议审议与韩国融资协议"
-    },
-    {
-      "title": "Economia / Há 4 horas Bié: Camacupa ganha em breve três novas infra-estruturas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679089/bi%C3%A9:-camacupa-ganha-em-breve-tr%C3%AAs-novas-infra-estruturas",
-      "source": "Jornal de Angola",
-      "_key": "e6384ffd3caa48a2",
-      "score": 7,
-      "title_cn": "经济/4小时前比耶省：卡马库帕即将新增三项基础设施"
-    },
-    {
-      "title": "Economia / Há 4 horas Aliko Dangote e Samaila Zubairu participam no ASIF em Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679088/aliko-dangote-e-samaila-zubairu-participam-no-asif-em-luanda",
-      "source": "Jornal de Angola",
-      "_key": "71aa54c8ee9fb8df",
-      "score": 7,
-      "title_cn": "经济/4小时前 Aliko Dangote和Samaila Zubairu出席罗安达ASIF"
-    },
-    {
-      "title": "AGT Requires Invoices and Delivery Notes for the Transportation of Agricultural Products and Fish",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9989",
-      "source": "Negócios de Angola",
-      "_key": "3d4832f0c55e41bc",
-      "score": 7,
-      "title_cn": "AGT要求运输农产品和鱼类需提供发票和交货单"
-    },
-    {
-      "title": "Dois anos depois, Angola continua retida na ‘lista cinzenta’ do...",
-      "url": "https://valoreconomico.co.ao/artigo/dois-anos-depois-angola-continua-retida-na-lista-cinzenta-do-gafi",
-      "source": "Valor Económico",
-      "_key": "7ba0063bd595a44c",
-      "score": 7,
-      "title_cn": "两年后，安哥拉仍被列入“灰名单”"
-    },
-    {
-      "title": "Especialistas pedem cautela na aplicação de novos impostos em Angola",
-      "url": "https://correiokianda.info/especialistas-pedem-cautela-na-aplicacao-de-novos-impostos-em-angola/",
+      "title": "MININT avança com modernização tecnológica da Polícia, SIC, SME e Guarda Fronteiras",
+      "url": "https://correiokianda.info/manuel-homem-anuncia-modernizacao-tecnologica-no-seu-ministerio/",
       "source": "Correio Kianda",
-      "_key": "f65776c2f5917e3a",
-      "score": 6,
-      "title_cn": "专家呼吁在安哥拉实施新税时保持谨慎"
+      "_key": "a664b556c8c1e248",
+      "score": 7,
+      "title_cn": "内政部推进警察、刑侦、移民局及边防部队技术现代化"
     },
     {
-      "title": "Sodiam lança leilão online de 35 diamantes especiais com mais de 10,8 quilates",
-      "url": "https://expansao.co.ao/empresas/detalhe/sodiam-lanca-leilao-online-de-35-diamantes-especiais-com-mais-de-108-quilates-72714.html",
-      "source": "Expansão",
-      "_key": "6b7989204fadc76a",
-      "score": 6,
-      "title_cn": "Sodiam在线拍卖35颗超10.8克拉特殊钻石"
+      "title": "OGE 2027: O Governo Está a Preparar a Próxima Governação?",
+      "url": "https://correiokianda.info/oge-2027-o-governo-esta-a-preparar-a-proxima-governacao/",
+      "source": "Correio Kianda",
+      "_key": "f779d284b14b451a",
+      "score": 7,
+      "title_cn": "2027年国家总预算：政府是否在为下届执政做准备？"
     },
     {
-      "title": "Diplomacia angolana perde embaixador Carlos Sardinha Dias",
-      "url": "https://forbesafricalusofona.com/diplomacia-angolana-perde-embaixador-carlos-sardinha-dias/",
-      "source": "Forbes África",
-      "_key": "4373d1e6c30e1682",
-      "score": 6,
-      "title_cn": "安哥拉外交界失去Carlos Sardinha Dias大使"
-    },
-    {
-      "title": "SODIAM anuncia leilão online de 35 diamantes angolanos com 10,80 quilates",
-      "url": "https://forbesafricalusofona.com/sodiam-anuncia-leilao-online-de-35-diamantes-angolanos-com-1080-quilates/",
-      "source": "Forbes África",
-      "_key": "accd683966fafa65",
-      "score": 6,
-      "title_cn": "SODIAM宣布在线拍卖35颗10.80克拉安哥拉钻石"
-    },
-    {
-      "title": "Sodiam anuncia leilão online de 35 diamantes angolanos com 10,80 quilates",
-      "url": "https://jornaloguardiao.com/2026/06/22/sodiam-anuncia-leilao-online-de-35-diamantes-angolanos-com-1080-quilates/",
-      "source": "Jornal O Guardião",
-      "_key": "435d01848a4fc8b3",
-      "score": 6,
-      "title_cn": "Sodiam宣布在线拍卖35颗10.80克拉安哥拉钻石"
-    },
-    {
-      "title": " Sodiam anuncia leilão online de 35 diamantes angolanos com 10,80 quilates ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b337c88e1b84b1",
-      "score": 6,
-      "title_cn": "Sodiam宣布在线拍卖35颗10.80克拉安哥拉钻石"
-    },
-    {
-      "title": "Destaque Manuel Homem enaltece modernização e dedicação dos efectivos no 47.º aniversárioO ministro do Interior, Manuel Homem, reafirmou, hoje, o compromisso com a modernização, a inovação e a excelência institucional, durante a mensagem alusiva ao 47.º aniversário do MININT. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679123/manuel-homem-enaltece-moderniza%C3%A7%C3%A3o-e-dedica%C3%A7%C3%A3o-dos-efectivos-no-47.%C2%BA-anivers%C3%A1rio",
-      "source": "Jornal de Angola",
-      "_key": "1b1abaa04388f52d",
-      "score": 6,
-      "title_cn": "重点：Manuel Homem在47周年纪念强调现代化和奉献精神"
-    },
-    {
-      "title": "Destaque Presidente João Lourenço realiza visita privada ao BrasilO Chefe de Estado, João Lourenço, desloca-se, hoje, 22, à República Federativa do Brasil, para cumprir uma visita de carácter privado.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679130/presidente-jo%C3%A3o-louren%C3%A7o-realiza-visita-privada-ao-brasil",
-      "source": "Jornal de Angola",
-      "_key": "c6bf277b03710286",
-      "score": 6,
-      "title_cn": "重点：总统若昂·洛伦索对巴西进行私人访问"
-    },
-    {
-      "title": "Economia Passageiros da TAAG vão ter preços mais flexibilizados ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679087/passageiros-da-taag-v%C3%A3o-ter-pre%C3%A7os-mais-flexibilizados",
-      "source": "Jornal de Angola",
-      "_key": "603461c5215cc12d",
-      "score": 6,
-      "title_cn": "经济 TAAG乘客票价将更灵活"
-    },
-    {
-      "title": "SODIAM Launches Online Auction of 35 Special Diamond Stones in Luanda Today22/06/2026",
-      "url": "https://www.negociosdeangola.com/en/sodiam-launches-online-auction-of-35-special-diamond-stones-in-luanda-today/",
-      "source": "Negócios de Angola",
-      "_key": "49388297f921207a",
-      "score": 6,
-      "title_cn": "SODIAM今日在罗安达在线拍卖35颗特殊钻石"
-    },
-    {
-      "title": "Difficult Access to Credit in Angola Pushes Thousands of Angolans to Buy Homes in Portugal",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9942",
-      "source": "Negócios de Angola",
-      "_key": "c9c9bb1876e1c01c",
-      "score": 6,
-      "title_cn": "安哥拉信贷难促数千人赴葡萄牙购房"
-    },
-    {
-      "title": "MININT garante estar a equipar PN e SIC com meios tecnológicos...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/minint-garante-estar-a-equipar-pn-e-sic-com-meios-tecnologicos-para-reforcar-seguranca-publica-e-combater-crimes-informaticos-72722.html",
-      "source": "Novo Jornal",
-      "_key": "7f62210601e86a36",
-      "score": 6,
-      "title_cn": "MININT保证为PN和SIC配备技术手段..."
-    },
-    {
-      "title": "Sodiam vai leiloar 35 diamantes com 10,80 quilates",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/sodiam-vai-leiloar-35-diamantes-com-1080-quilates-72705.html",
-      "source": "Novo Jornal",
-      "_key": "d8a83084d083576a",
-      "score": 6,
-      "title_cn": "Sodiam将拍卖35颗10.80克拉钻石"
-    },
-    {
-      "title": "O relógio da justiça laboral",
-      "url": "https://www.opais.ao/opiniao/o-relogio-da-justica-laboral/",
-      "source": "O País",
-      "_key": "1b2e5f109093d40b",
-      "score": 6,
-      "title_cn": "劳动 justice 时钟"
-    },
-    {
-      "title": "SIC desmantela associação criminosa envolvida em trocas ilícitas de cartões multicaixa em Benguela",
-      "url": "https://www.opais.ao/ultima_hora/sic-desmantela-associacao-criminosa-envolvida-em-trocas-ilicitas-de-cartoes-multicaixa-em-benguela/",
-      "source": "O País",
-      "_key": "c9ed975fc35929f6",
-      "score": 6,
-      "title_cn": "SIC瓦解本格拉涉及多用途卡非法交易的犯罪团伙"
-    },
-    {
-      "title": "Presidente da República aprova mais de 100 mil milhões de kwanzas para acomodar vítimas das cheias em Benguela",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-aprova-mais-de-100-mil-milhoes-de-kwanzas-para-acomodar-vitimas-das-cheias-em-benguela/",
-      "source": "O País",
-      "_key": "d7c6ccc58525d6cb",
-      "score": 6,
-      "title_cn": "总统批准超1000亿宽扎用于安置本格拉洪水受害者"
-    },
-    {
-      "title": "Head of State makes private visit to Brazil",
-      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-efectua-visita-privada-ao-brasil/",
+      "title": "Angola to host African financial summit",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-acolhe-cimeira-financeira-africana/",
       "source": "ANGOP",
-      "_key": "17f96315d3762afb",
-      "score": 5,
-      "title_cn": "国家元首对巴西进行私人访问"
+      "_key": "c0b7d90eb11f78c6",
+      "score": 6,
+      "title_cn": "安哥拉将主办非洲金融峰会"
     },
     {
-      "title": "Angola presents products at Swiss-African Business Day",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-apresenta-produtos-no-dia-empresarial-suico-africano/",
+      "title": "Aliko Dangote attends African Sovereign Wealth Fund gathering in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/aliko-dangote-marca-presenca-no-forum-dos-fundos-soberanos-africanos/",
       "source": "ANGOP",
-      "_key": "febfd078893ac5f5",
-      "score": 5,
-      "title_cn": "安哥拉在瑞士非洲商业日展示产品"
+      "_key": "325efcf237edeb76",
+      "score": 6,
+      "title_cn": "阿利科·丹格特（Aliko Dangote）出席安哥拉非洲主权财富基金会议"
     },
     {
-      "title": "SODIAM holds online auction of 35 special diamonds",
-      "url": "https://www.angop.ao/en/noticias/economia/sodiam-realiza-leilao-online-de-35-pedras-especiais-de-diamante/",
+      "title": "Sociedade Banco Mundial valida avanços na formação e reforça apoio ao Hospital do Lobito ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679136/banco-mundial-valida-avan%C3%A7os-na-forma%C3%A7%C3%A3o-e-refor%C3%A7a-apoio-ao-hospital-do-lobito",
+      "source": "Jornal de Angola",
+      "_key": "023257f20071320a",
+      "score": 6,
+      "title_cn": "世界银行肯定洛比托医院培训进展，并加强支持"
+    },
+    {
+      "title": "Economia Especialistas debatem o impacto do empreendedorismo na economia nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679087/especialistas-debatem-o-impacto-do-empreendedorismo-na-economia-nacional",
+      "source": "Jornal de Angola",
+      "_key": "1ce4bc9463b02740",
+      "score": 6,
+      "title_cn": "经济专家讨论创业对国民经济的影响"
+    },
+    {
+      "title": "Health authorities reinforce Ebola prevention measures in Moxico border",
+      "url": "https://www.angop.ao/en/noticias/saude/autoridades-de-saude-reforcam-prevencao-contra-ebola-na-provincia-fronteirica-do-moxico/",
       "source": "ANGOP",
-      "_key": "3541195affead1bb",
+      "_key": "79eb2248e61ac735",
       "score": 5,
-      "title_cn": "SODIAM举行35颗特殊钻石在线拍卖"
+      "title_cn": "卫生当局加强莫希科边境的埃博拉预防措施"
     },
     {
-      "title": "Presidente João Lourenço realiza visita de carácter privado ao Brasil",
-      "url": "https://correiokianda.info/presidente-joao-lourenco-realiza-visita-de-caracter-privado-ao-brasil/",
-      "source": "Correio Kianda",
-      "_key": "0b3a9c53469d4df5",
+      "title": "Government reaffirms support for interior ministry agencies",
+      "url": "https://www.angop.ao/en/noticias/politica/governo-reitera-apoio-aos-orgaos-do-minint/",
+      "source": "ANGOP",
+      "_key": "4ef8b8e03be81703",
       "score": 5,
-      "title_cn": "总统若昂·洛伦索对巴西进行私人访问"
+      "title_cn": "政府重申支持内政部下属机构"
     },
     {
-      "title": "Mais de sete mil vagas abertas para forças do Ministério do Interior",
-      "url": "https://correiokianda.info/mais-de-sete-mil-vagas-abertas-para-forcas-do-ministerio-do-interior/",
-      "source": "Correio Kianda",
-      "_key": "35123596895a9ee4",
+      "title": "UN Global Compact in Angola already has 65 participating companies",
+      "url": "https://www.angop.ao/en/noticias/economia/pacto-global-da-onu-em-angola-ja-conta-com-65-empresas-aderentes/",
+      "source": "ANGOP",
+      "_key": "f04f95289950c018",
       "score": 5,
-      "title_cn": "内政部部队开放逾7000个职位"
+      "title_cn": "联合国全球契约在安哥拉已有65家企业参与"
     },
     {
-      "title": "Oito em cada 10 obras estavam paralisadas no primeiro trimestre",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_c8bbb3d73676e8",
-      "score": 5,
-      "title_cn": "八成工程第一季度处于停滞状态"
-    },
-    {
-      "title": "Oito seguradoras lideram o ranking de transparência na prestação de contas",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_735a581b41ad44",
-      "score": 5,
-      "title_cn": "八家保险公司领跑财务透明度排名"
-    },
-    {
-      "title": "Famílias angolanas arrancam o ano menos pessimistas face à evolução da economia",
-      "url": "https://expansao.co.ao/economia/detalhe/familias-angolanas-arrancam-o-ano-menos-pessimistas-face-a-evolucao-da-economia-72707.html",
-      "source": "Expansão",
-      "_key": "a6cbf9ea70fcc3e6",
-      "score": 5,
-      "title_cn": "安哥拉家庭对经济前景持更乐观态度"
-    },
-    {
-      "title": "Oito seguradoras lideram o ranking de transparência na prestação de contasO número de seguradoras com os pontos máximos atribuidos pelo Expansão duplicaram de quatro em 2022 para oito em 2025. Há cada vez mais seguradoras a adoptarem o caminho da transparência e das boas práticas. A NOSSA é o \"Real Madrid\" das seguradoras angolanas, já que é a que mais prémios ouro alcançou.",
-      "url": "https://expansao.co.ao/empresas/detalhe/oito-seguradoras-lideram-o-ranking-de-transparencia-na-prestacao-de-contas-72706.html",
-      "source": "Expansão",
-      "_key": "ccc1e57e011f3dd0",
-      "score": 5,
-      "title_cn": "八家保险公司领跑财务透明度排名 Expansão评分最高者从2022年4家增至2025年8家"
-    },
-    {
-      "title": "Angola propõe fundo internacional para promover justiça reparatória em ÁfricaPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/angola-propoe-fundo-internacional-para-promover-justica-reparatoria-em-africa/",
-      "source": "Forbes África",
-      "_key": "b27e06b55fcc8f0c",
-      "score": 5,
-      "title_cn": "安哥拉提议设立国际基金促进非洲修复性司法"
-    },
-    {
-      "title": "Destaque MIREX lamenta morte do embaixador Carlos de Lemos Dias aos 64 anos O Ministério das Relações Exteriores (MIREX) manifestou, hoje, profundo pesar pelo falecimento do embaixador de Angola em Cuba, Carlos de Lemos Dias, ocorrido este domingo, numa unidade hospitalar da cidade do Panamá, vítima de doença, aos 64 anos. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679124/mirex-lamenta-morte-do-embaixador-carlos-de-lemos-dias-aos-64-anos-",
+      "title": "Destaque Dois memorandos fortalecem cooperação tecnológica entre Angola e MoçambiqueAngola e Moçambique assinaram, esta segunda-feira, dois memorandos de cooperação nos domínios espacial, das comunicações, tecnologias de informação e comunicação (TIC) e meteorologia, com vista ao reforço da colaboração bilateral, à modernização dos serviços e à promoção da transformação digital nos dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679132/dois-memorandos-fortalecem-coopera%C3%A7%C3%A3o-tecnol%C3%B3gica-entre-angola-e-mo%C3%A7ambique",
       "source": "Jornal de Angola",
-      "_key": "e204310e46318ce4",
+      "_key": "6150a81ecc21a5b0",
       "score": 5,
-      "title_cn": "重点：MIREX对64岁Carlos de Lemos Dias大使逝世表示哀悼"
+      "title_cn": "安哥拉与莫桑比克签署两项备忘录，加强科技合作"
     },
     {
-      "title": "Sociedade MININT celebra 47 anos com tributo aos efectivos que serviram a Pátria ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679125/minint-celebra-47-anos-com-tributo-aos-efectivos-que-serviram-a-p%C3%A1tria",
+      "title": "Economia / Há 9 horas Carrinho Agri reforça ligação entre agronegócio brasileiro e mercado africano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679089/carrinho-agri-refor%C3%A7a-liga%C3%A7%C3%A3o-entre-agroneg%C3%B3cio-brasileiro-e-mercado-africano-",
       "source": "Jornal de Angola",
-      "_key": "2fad0f399d68a420",
+      "_key": "cdcc6eae25945a94",
       "score": 5,
-      "title_cn": "MININT协会庆祝47周年并向为国服役人员致敬"
-    },
-    {
-      "title": "Angola e Brasil iniciam diálogo para a modernização da JustiçaLuanda acolhe acolhe a partir de hoje, na Escola Nacional de Administração e Políticas Públicas (ENAPP), o 1.º Diálogo Judicial Angola-Brasil, com vista a promover o intercâmbio de conhecimentos, experiências e boas práticas entre os respectivos sistemas judiciais.",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/679061/angola-e-brasil-iniciam-di%C3%A1logo--para-a-moderniza%C3%A7%C3%A3o-da-justi%C3%A7a",
-      "source": "Jornal de Angola",
-      "_key": "ef5baa57336d06f4",
-      "score": 5,
-      "title_cn": "安哥拉与巴西启动司法现代化对话"
-    },
-    {
-      "title": "Dangote Says His Wealth Exceeds Forbes Estimates",
-      "url": "https://www.negociosdeangola.com/en/dangote-says-his-wealth-exceeds-forbes-estimates/",
-      "source": "Negócios de Angola",
-      "_key": "cba41b28ce5d2352",
-      "score": 5,
-      "title_cn": "Dangote称其财富超过福布斯预估"
-    },
-    {
-      "title": "Embaixador de Angola em Cuba morre aos 64 anos no Panamá...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/embaixador-de-angola-em-cuba-morre-aos-64-anos-no-panama-vitima-de-doenca-72724.html",
-      "source": "Novo Jornal",
-      "_key": "99fafa44f5e20066",
-      "score": 5,
-      "title_cn": "安哥拉驻古巴大使在巴拿马逝世 享年64岁"
-    },
-    {
-      "title": "Detido confessa autoria do crime que vitimou família...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-confessa-ser-o-autor-do-crime-que-vitimou-familia-no-paraiso-sic-detem-mais-dois-comparsas-populares-incendeiam-casa-do-homicida-72717.html",
-      "source": "Novo Jornal",
-      "_key": "255ee4bfc342d647",
-      "score": 5,
-      "title_cn": "被捕者承认导致家庭受害的罪行..."
-    },
-    {
-      "title": "Luanda: Três mortos e nove feridos em dez acidentes durante o fim-de-semana",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-tres-mortos-e-nove-feridos-em-dez-acidentes-durante-o-fim-de-semana-72710.html",
-      "source": "Novo Jornal",
-      "_key": "0039551bfc664730",
-      "score": 5,
-      "title_cn": "罗安达：周末10起事故致3死9伤"
-    },
-    {
-      "title": "SIC esclarece quadruplo homicídio no bairro Paraíso",
-      "url": "https://www.opais.ao/ultima_hora/sic-esclarece-quadruplo-homicidio-no-bairro-paraiso/",
-      "source": "O País",
-      "_key": "494a6e8b8ad16d9f",
-      "score": 5,
-      "title_cn": "SIC澄清帕拉伊索区四起谋杀案"
-    },
-    {
-      "title": "MINJUD promete pronunciar-se hoje sobre desabamento de uma parte da bancada do Estádio Nacional da Cidadela",
-      "url": "https://www.opais.ao/desporto/minjud-promete-pronunciar-se-hoje-sobre-desabamento-de-uma-parte-da-bancada-do-estadio-nacional-da-cidadela/",
-      "source": "O País",
-      "_key": "7681c30a88ab94df",
-      "score": 5,
-      "title_cn": "MINJUD承诺今日就城堡体育场看台部分坍塌发表声明"
+      "title_cn": "卡里尼奥农业（Carrinho Agri）加强巴西农业与非洲市场联系"
     }
   ]
 }
