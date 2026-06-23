@@ -1,112 +1,440 @@
 {
-  "date": "2026-06-22",
-  "total_new": 47,
-  "total_filtered": 13,
-  "scored_by": "gemini-flash",
+  "date": "2026-06-23",
+  "total_new": 158,
+  "total_filtered": 54,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Cabinet Council revises measures to boost investment in oil sector",
-      "url": "https://www.angop.ao/en/noticias/politica/conselho-de-ministros-aprecia-medidas-para-impulsionar-investimento-petrolifero/",
-      "source": "ANGOP",
-      "_key": "ed1c4ea767d77ae7",
+      "title": "Preço do petróleo regista ligeira subida com atenções viradas para as negociações entre EUA e Irão",
+      "url": "https://correiokianda.info/preco-do-petroleo-regista-ligeira-subida-com-atencoes-viradas-para-as-negociacoes-entre-eua-e-irao/",
+      "source": "Correio Kianda",
+      "_key": "8665e6c178c237c0",
       "score": 9,
-      "title_cn": "内阁会议修订措施，促进石油领域投资"
+      "title_cn": "油价因美伊谈判关注小幅上涨"
     },
     {
-      "title": "Executivo prepara OGE 2027 e quadro de despesas para 2028",
-      "url": "https://correiokianda.info/executivo-prepara-oge-2027-e-quadro-de-despesas-para-2028/",
+      "title": "“Não existe aprovação para venda de acções da UNITEL”, diz CMC",
+      "url": "https://correiokianda.info/nao-existe-aprovacao-para-venda-de-accoes-da-unitel-diz-cmc/",
       "source": "Correio Kianda",
-      "_key": "e42a9310d6b14ece",
-      "score": 7,
-      "title_cn": "安哥拉政府筹备2027年国家总预算及2028年支出框架"
+      "_key": "578d59541f723627",
+      "score": 9,
+      "title_cn": "CMC称无权批准出售UNITEL股份"
     },
     {
-      "title": "MININT avança com modernização tecnológica da Polícia, SIC, SME e Guarda Fronteiras",
-      "url": "https://correiokianda.info/manuel-homem-anuncia-modernizacao-tecnologica-no-seu-ministerio/",
-      "source": "Correio Kianda",
-      "_key": "a664b556c8c1e248",
-      "score": 7,
-      "title_cn": "内政部推进警察、刑侦、移民局及边防部队技术现代化"
+      "title": "Conselho de Ministros aprova directrizes para o OGE 2027 e incentivos fiscais ao sector petrolífero",
+      "url": "https://diariodosnegocios.com/conselho-de-ministros-aprova-directrizes-para-o-oge-2027-e-incentivos-fiscais-ao-sector-petrolifero/",
+      "source": "Diário dos Negócios",
+      "_key": "37e47bc5497ae686",
+      "score": 9,
+      "title_cn": "部长理事会批准2027年国家预算指导方针及石油业税收激励"
     },
     {
-      "title": "OGE 2027: O Governo Está a Preparar a Próxima Governação?",
-      "url": "https://correiokianda.info/oge-2027-o-governo-esta-a-preparar-a-proxima-governacao/",
-      "source": "Correio Kianda",
-      "_key": "f779d284b14b451a",
-      "score": 7,
-      "title_cn": "2027年国家总预算：政府是否在为下届执政做准备？"
+      "title": " Conselho de Ministros aprova directrizes para o OGE 2027 e incentivos fiscais ao sector petrolífero ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_66fb1dc8cf2221",
+      "score": 9,
+      "title_cn": "部长理事会批准2027年国家预算指导方针及石油业税收激励"
     },
     {
-      "title": "Angola to host African financial summit",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-acolhe-cimeira-financeira-africana/",
-      "source": "ANGOP",
-      "_key": "c0b7d90eb11f78c6",
-      "score": 6,
-      "title_cn": "安哥拉将主办非洲金融峰会"
+      "title": "Governo prepara incentivos fiscais adicionais para quatro blocos petrolíferos",
+      "url": "https://expansao.co.ao/economia/detalhe/governo-prepara-incentivos-fiscais-adicionais-para-quatro-blocos-petroliferos-72747.html",
+      "source": "Expansão",
+      "_key": "67c0c4c4980a35c6",
+      "score": 9,
+      "title_cn": "政府为四个石油区块准备额外税收激励"
     },
     {
-      "title": "Aliko Dangote attends African Sovereign Wealth Fund gathering in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/aliko-dangote-marca-presenca-no-forum-dos-fundos-soberanos-africanos/",
-      "source": "ANGOP",
-      "_key": "325efcf237edeb76",
-      "score": 6,
-      "title_cn": "阿利科·丹格特（Aliko Dangote）出席安哥拉非洲主权财富基金会议"
+      "title": "Petróleo prolonga perdas após avanço nas negociações entre EUA e Irão",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-prolonga-perdas-apos-avanco-nas-negociacoes-entre-eua-e-irao-72743.html",
+      "source": "Expansão",
+      "_key": "56978df5e71cf1a8",
+      "score": 9,
+      "title_cn": "美伊谈判进展致油价延续跌势"
     },
     {
-      "title": "Sociedade Banco Mundial valida avanços na formação e reforça apoio ao Hospital do Lobito ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679136/banco-mundial-valida-avan%C3%A7os-na-forma%C3%A7%C3%A3o-e-refor%C3%A7a-apoio-ao-hospital-do-lobito",
+      "title": "Governo angolano aprova incentivos fiscais adicionais para quatro blocos petrolíferos",
+      "url": "https://jornaloguardiao.com/2026/06/22/governo-angolano-aprova-incentivos-fiscais-adicionais-para-quatro-blocos-petroliferos/",
+      "source": "Jornal O Guardião",
+      "_key": "4ec0c370a29d02ac",
+      "score": 9,
+      "title_cn": "政府为四个石油区块准备额外税收激励"
+    },
+    {
+      "title": "Brent cai 3% para 77,75 dólares com EUA a permitirem venda de petróleo do Irão",
+      "url": "https://jornaloguardiao.com/2026/06/22/brent-cai-3-para-7775-dolares-com-eua-a-permitirem-venda-de-petroleo-do-irao/",
+      "source": "Jornal O Guardião",
+      "_key": "4e3c0cd260794951",
+      "score": 9,
+      "title_cn": "美国允许售伊石油，布伦特原油跌3%至77.75美元"
+    },
+    {
+      "title": "Suspensas sanções dos EUA sobre petróleo iraniano até 21 de agosto",
+      "url": "https://jornaloguardiao.com/2026/06/22/suspensas-sancoes-dos-eua-sobre-petroleo-iraniano-ate-21-de-agosto/",
+      "source": "Jornal O Guardião",
+      "_key": "143d6a92d6e3ebcc",
+      "score": 9,
+      "title_cn": "美国暂停对伊朗石油制裁至8月21日"
+    },
+    {
+      "title": " Governo angolano aprova incentivos fiscais adicionais para quatro blocos petrolíferos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d54435670f9e6d",
+      "score": 9,
+      "title_cn": "政府为四个石油区块准备额外税收激励"
+    },
+    {
+      "title": " Brent cai 3% para 77,75 dólares com EUA a permitirem venda de petróleo do Irão ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_ba270fd991bc5b",
+      "score": 9,
+      "title_cn": "美国允许售伊石油，布伦特原油跌3%至77.75美元"
+    },
+    {
+      "title": "Economia Projecto “GreaterPaj” vai produzir 95 mil barris/dia a partir de 2029 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679176/projecto-%E2%80%9Cgreaterpaj%E2%80%9D-vai-produzir-95-mil-barrisdia-a-partir-de-2029",
       "source": "Jornal de Angola",
-      "_key": "023257f20071320a",
-      "score": 6,
-      "title_cn": "世界银行肯定洛比托医院培训进展，并加强支持"
+      "_key": "264b80a756ee21f4",
+      "score": 9,
+      "title_cn": "“GreaterPaj”项目2029年起日产9.5万桶"
     },
     {
-      "title": "Economia Especialistas debatem o impacto do empreendedorismo na economia nacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679087/especialistas-debatem-o-impacto-do-empreendedorismo-na-economia-nacional",
+      "title": "Azule Energy and partners present final decision on the “Greater Paj” oil project",
+      "url": "https://www.angop.ao/en/noticias/economia/azule-energy-e-parceiros-apresentam-decisao-final-do-projecto-petrolifero-greater-paj/",
+      "source": "ANGOP",
+      "_key": "22fe6d1a7e39c864",
+      "score": 8,
+      "title_cn": "Azule Energy等合作伙伴就“Greater Paj”项目做最终决定"
+    },
+    {
+      "title": "Quilemba Solar Park undergoing final testing phase",
+      "url": "https://www.angop.ao/en/noticias/economia/parque-solar-da-quilemba-esta-em-fase-de-testes/",
+      "source": "ANGOP",
+      "_key": "9f66b3eb00002a5e",
+      "score": 8,
+      "title_cn": "Quilemba太阳能公园进入最终测试阶段"
+    },
+    {
+      "title": "Sociedade Livro sobre julgamento do \"caso dos 500 milhões de dólares do BNA\" lançado sexta-feira ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679188/livro-sobre-julgamento-do-%22caso-dos-500-milh%C3%B5es-de-d%C3%B3lares-do-bna%22-lan%C3%A7ado-sexta-feira-",
       "source": "Jornal de Angola",
-      "_key": "1ce4bc9463b02740",
+      "_key": "d777fcb94cffbe88",
+      "score": 8,
+      "title_cn": "周五发行关于“BNA 5亿美元案”审判的书籍"
+    },
+    {
+      "title": "Xenofobia na África do Sul: Novos ataques levam mais moçambicanos a pedir regresso",
+      "url": "https://www.dw.com/pt-002/xenofobia-na-áfrica-do-sul-novos-ataques-levam-mais-moçambicanos-a-pedir-regresso/a-77670321?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "source": "Club K",
+      "_key": "dd34803ee5a19548",
+      "score": 7,
+      "title_cn": "南非排外主义：新袭击致更多莫桑比克人请求回国"
+    },
+    {
+      "title": "ANAMOLA: \"Dificilmente a imagem de Mondlane será apagada\"",
+      "url": "https://www.dw.com/pt-002/anamola-dificilmente-a-imagem-de-mondlane-será-apagada/a-77664776?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "source": "Club K",
+      "_key": "2b4bcc1aea668720",
+      "score": 7,
+      "title_cn": "ANAMOLA：蒙德拉内形象难以被抹去"
+    },
+    {
+      "title": " Suspensas sanções dos EUA sobre petróleo iraniano até 21 de agosto ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_62105c0b3b66e9",
+      "score": 7,
+      "title_cn": "美国暂停对伊朗石油制裁至8月21日"
+    },
+    {
+      "title": "Sociedade Polícia reforçada com novos meios para melhorar a segurança pública ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679160/pol%C3%ADcia-refor%C3%A7ada-com-novos-meios-para-melhorar-a-seguran%C3%A7a-p%C3%BAblica",
+      "source": "Jornal de Angola",
+      "_key": "3dbfc91cf4d73cd8",
+      "score": 7,
+      "title_cn": "警察协会增加新手段以改善公共安全"
+    },
+    {
+      "title": "Economia / Há 2 horas Impedida saída ilegal de dinheiro calculado em Kz 78,9 milhões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679172/impedida-sa%C3%ADda-ilegal-de-dinheiro-calculado-em-kz-789-milh%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "3565e9340bd0a9a7",
+      "score": 7,
+      "title_cn": "经济/2小时前：阻止7890万宽扎非法资金外流"
+    },
+    {
+      "title": "Mundo23/06/2026EUA suspende sanções sobre petróleo iraniano ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679185/eua-suspende-san%C3%A7%C3%B5es-sobre-petr%C3%B3leo-iraniano-",
+      "source": "Jornal de Angola",
+      "_key": "b09ff65216754208",
+      "score": 7,
+      "title_cn": "世界 23/06/2026：美国暂停对伊朗石油制裁"
+    },
+    {
+      "title": "‎Comissão Sindical destaca empenho do Porto do Lobito na resolução dos interesses dos trabalhadores",
+      "url": "https://www.opais.ao/ultima_hora/comissao-sindical-destaca-empenho-do-porto-do-lobito-na-resolucao-dos-interesses-dos-trabalhadores/",
+      "source": "O País",
+      "_key": "22d723f07a0e3325",
+      "score": 7,
+      "title_cn": "工会委员会强调洛比托港在解决工人利益方面的努力"
+    },
+    {
+      "title": "Authorities detain 411 individuals for fuel smuggling in Moxico Leste Province",
+      "url": "https://www.angop.ao/en/noticias/politica/detidos-411-individuos-por-contrabando-de-combustivel-no-moxico-leste/",
+      "source": "ANGOP",
+      "_key": "1838bbb36c71b72e",
       "score": 6,
-      "title_cn": "经济专家讨论创业对国民经济的影响"
+      "title_cn": "马希科东部省当局拘留411人因走私燃料"
+    },
+    {
+      "title": "Governador da Huíla garante cumprimento dos prazos nas obras em execução no Lubango",
+      "url": "https://correiokianda.info/governador-da-huila-garante-cumprimento-dos-prazos-nas-obras-em-execucao-no-lubango/",
+      "source": "Correio Kianda",
+      "_key": "d5450fa9759432f3",
+      "score": 6,
+      "title_cn": "宽扎省省长保证洛比托在建工程按期完工"
+    },
+    {
+      "title": "Investimento Directo Estrangeiro em Angola consolida-se como um dos mais promissores do continente",
+      "url": "https://forbesafricalusofona.com/investimento-directo-estrangeiro-em-angola-consolida-se-como-um-dos-mais-promissores-do-continente/",
+      "source": "Forbes África",
+      "_key": "2f38d0b5c9101e27",
+      "score": 6,
+      "title_cn": "安哥拉外国直接投资巩固为大陆最具前景之一"
+    },
+    {
+      "title": "Irão diz que negociações técnicas com EUA foram concluídas",
+      "url": "https://jornaloguardiao.com/2026/06/23/irao-diz-que-negociacoes-tecnicas-com-eua-foram-concluidas/",
+      "source": "Jornal O Guardião",
+      "_key": "443da972c931f5ba",
+      "score": 6,
+      "title_cn": "伊朗称与美技术谈判已完成"
+    },
+    {
+      "title": "Principal negociador iraniano diz que Teerão irá gerir estreito de Ormuz",
+      "url": "https://jornaloguardiao.com/2026/06/23/principal-negociador-iraniano-diz-que-teerao-ira-gerir-estreito-de-ormuz/",
+      "source": "Jornal O Guardião",
+      "_key": "34f6603057c3ff70",
+      "score": 6,
+      "title_cn": "伊朗首席谈判代表称德黑兰将管理霍尔木兹海峡"
+    },
+    {
+      "title": " Irão diz que negociações técnicas com EUA foram concluídas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_cdd0a4b06a8134",
+      "score": 6,
+      "title_cn": "伊朗称与美技术谈判已完成"
+    },
+    {
+      "title": " Principal negociador iraniano diz que Teerão irá gerir estreito de Ormuz ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8fa9b27daf9d25",
+      "score": 6,
+      "title_cn": "伊朗首席谈判代表称德黑兰将管理霍尔木兹海峡"
+    },
+    {
+      "title": "Angola defende criação de emprego como pilar para consolidação da pazAngola reiterou, segunda-feira, na sede da Organização das Nações Unidas (ONU), em Nova Iorque, a importância da criação de emprego como instrumento fundamental para o reforço da coesão social, da resiliência das comunidades e da consolidação da paz sustentável.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679146/angola-defende-cria%C3%A7%C3%A3o-de-emprego-como-pilar-para-consolida%C3%A7%C3%A3o-da-paz",
+      "source": "Jornal de Angola",
+      "_key": "feaeb3540c04614f",
+      "score": 6,
+      "title_cn": "安哥拉在联合国总部重申就业对巩固和平的重要性"
+    },
+    {
+      "title": "Apreciado Projecto sobre Instruções para a Elaboração do OGE de 2027 O Projecto de Decreto Presidencial que aprova as Instruções para a Elaboração do Orçamento Geral do Estado (OGE) para o Exercício Económico de 2027 e o Quadro Intercalar das Despesas para o Ano de 2028 estão em condições de seguir para a Assembleia Nacional, após a apreciação, segunda-feira, pelo Conselho de Ministros, na sua 1.ª Sessão Extraordinária.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679145/apreciado-projecto-sobre-instru%C3%A7%C3%B5es-para-a-elabora%C3%A7%C3%A3o-do-oge-de-2027-",
+      "source": "Jornal de Angola",
+      "_key": "5ad465a02f1f1004",
+      "score": 6,
+      "title_cn": "2027年国家预算指导方针草案获赞赏"
+    },
+    {
+      "title": "Economia / Há 2 horas Reabilitação das vias dinamiza escoamento dos produtos agrícola ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679173/reabilita%C3%A7%C3%A3o-das-vias-dinamiza-escoamento-dos-produtos-agr%C3%ADcola",
+      "source": "Jornal de Angola",
+      "_key": "bdbe6e518e34f867",
+      "score": 6,
+      "title_cn": "经济/2小时前：道路修复促进农产品流通"
+    },
+    {
+      "title": "Angola a caminho de bater historicamente os números...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/angola-a-caminho-de-bater-historicamente-os-numeros-da-importacao-de-milho-i-a-asfixia-sobre-os-produtores-nacionais-72733.html",
+      "source": "Novo Jornal",
+      "_key": "ff055ee3803c0412",
+      "score": 6,
+      "title_cn": "安哥拉正迈向打破历史纪录..."
+    },
+    {
+      "title": "Banco Mundial faz avaliação positiva da implementação do Kwenda I",
+      "url": "https://www.opais.ao/politica/banco-mundial-faz-avaliacao-positiva-da-implementacao-do-kwenda-i/",
+      "source": "O País",
+      "_key": "651ad57346683654",
+      "score": 6,
+      "title_cn": "世界银行对Kwenda I项目实施给予积极评价"
+    },
+    {
+      "title": "Cerca de 70 empresas na lista negra por incumprimento contratual com Estado",
+      "url": "https://www.opais.ao/politica/cerca-de-70-empresas-na-lista-negra-por-incumprimento-contratual-com-estado/",
+      "source": "O País",
+      "_key": "6a15d5c3efd21161",
+      "score": 6,
+      "title_cn": "约70家因违反国家合同被列入黑名单"
+    },
+    {
+      "title": "É de hoje… As mesmas contas de todos os anos",
+      "url": "https://www.opais.ao/opiniao/e-de-hoje-as-mesmas-contas-de-todos-os-anos/",
+      "source": "O País",
+      "_key": "6e24fc2df02c1feb",
+      "score": 6,
+      "title_cn": "今天……又是每年的老账"
+    },
+    {
+      "title": "Governor praises MININT's role in safeguarding public security",
+      "url": "https://www.angop.ao/en/noticias/politica/governador-enaltece-papel-do-minint-na-salvaguarda-da-seguranca-publica/",
+      "source": "ANGOP",
+      "_key": "32a51f1430761cbe",
+      "score": 5,
+      "title_cn": "省长赞扬MININT在保障公共安全中的作用"
     },
     {
       "title": "Health authorities reinforce Ebola prevention measures in Moxico border",
-      "url": "https://www.angop.ao/en/noticias/saude/autoridades-de-saude-reforcam-prevencao-contra-ebola-na-provincia-fronteirica-do-moxico/",
+      "url": "https://www.angop.ao/en/noticias/saude/autoridades-de-saude-reforcam-prevencao-contra-ebola-no-moxico/",
       "source": "ANGOP",
-      "_key": "79eb2248e61ac735",
+      "_key": "51a4ea6cef8e0721",
       "score": 5,
-      "title_cn": "卫生当局加强莫希科边境的埃博拉预防措施"
+      "title_cn": "卫生当局加强马希科边境埃博拉预防措施"
     },
     {
-      "title": "Government reaffirms support for interior ministry agencies",
-      "url": "https://www.angop.ao/en/noticias/politica/governo-reitera-apoio-aos-orgaos-do-minint/",
+      "title": "Angolans complete training in China",
+      "url": "https://www.angop.ao/en/noticias/sociedade/angolanos-terminam-formacao-na-china/",
       "source": "ANGOP",
-      "_key": "4ef8b8e03be81703",
+      "_key": "55a478c34bd0a3a9",
       "score": 5,
-      "title_cn": "政府重申支持内政部下属机构"
+      "title_cn": "安哥拉人在中国完成培训"
     },
     {
-      "title": "UN Global Compact in Angola already has 65 participating companies",
-      "url": "https://www.angop.ao/en/noticias/economia/pacto-global-da-onu-em-angola-ja-conta-com-65-empresas-aderentes/",
+      "title": "Crime escalation worries authorities in Uíge Province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/uige-regista-aumento-de-127-crimes-em-um-ano/",
       "source": "ANGOP",
-      "_key": "f04f95289950c018",
+      "_key": "afe3cf324555ba2f",
       "score": 5,
-      "title_cn": "联合国全球契约在安哥拉已有65家企业参与"
+      "title_cn": "乌伊泽省犯罪升级令当局担忧"
     },
     {
-      "title": "Destaque Dois memorandos fortalecem cooperação tecnológica entre Angola e MoçambiqueAngola e Moçambique assinaram, esta segunda-feira, dois memorandos de cooperação nos domínios espacial, das comunicações, tecnologias de informação e comunicação (TIC) e meteorologia, com vista ao reforço da colaboração bilateral, à modernização dos serviços e à promoção da transformação digital nos dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679132/dois-memorandos-fortalecem-coopera%C3%A7%C3%A3o-tecnol%C3%B3gica-entre-angola-e-mo%C3%A7ambique",
+      "title": "FMI revela os dez países africanos com menor volume de dívida em 2026",
+      "url": "https://correiokianda.info/fmi-revela-os-dez-paises-africanos-com-menor-volume-de-divida-em-2026/",
+      "source": "Correio Kianda",
+      "_key": "b68305100d0f87b0",
+      "score": 5,
+      "title_cn": "FMI公布2026年非洲债务最低的十个国家"
+    },
+    {
+      "title": "        Crime5 horas atrás  Líder do grupo de hackers internacionais Sniper DZ detido na Argélia Uma operação policial internacional culminou recentemente na detenção, em território argelino, de “Guedz”, apontado pelas autoridades como o cérebro e líder do temido grupo de cibercriminosos...   ",
+      "url": "https://correiokianda.info/lider-do-grupo-de-hackers-internacionais-sniper-dz-detido-na-argelia/",
+      "source": "Correio Kianda",
+      "_key": "9b1beffa5fe33305",
+      "score": 5,
+      "title_cn": "犯罪/5小时前：国际黑客组织Sniper DZ头目在阿尔及利亚被捕"
+    },
+    {
+      "title": "Tribunal suspende decisão do Comandante-Geral da Polícia sobre destituição no Cofre de Previdência",
+      "url": "https://diariodosnegocios.com/tribunal-suspende-decisao-do-comandante-geral-da-policia-sobre-destituicao-no-cofre-de-previdencia/",
+      "source": "Diário dos Negócios",
+      "_key": "aed582f0daff9157",
+      "score": 5,
+      "title_cn": "法院暂停警察总长关于养老金基金解雇的决定"
+    },
+    {
+      "title": " Tribunal suspende decisão do Comandante-Geral da Polícia sobre destituição no Cofre de Previdência ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_5595d4ae8edc9b",
+      "score": 5,
+      "title_cn": "法院暂停警察总长关于养老金基金解雇的决定"
+    },
+    {
+      "title": "Depósitos a prazo fazem angolanos perder dinheiro há mais de uma década",
+      "url": "https://expansao.co.ao/economia/detalhe/depositos-a-prazo-fazem-angolanos-perder-dinheiro-ha-mais-de-uma-decada-72740.html",
+      "source": "Expansão",
+      "_key": "0a34c581b9bcf992",
+      "score": 5,
+      "title_cn": "定期存款让安哥拉人十多年来亏钱"
+    },
+    {
+      "title": "Lagarde avisa que situação económica da zona euro “continua frágil” apesar de acordo",
+      "url": "https://jornaloguardiao.com/2026/06/22/lagarde-avisa-que-situacao-economica-da-zona-euro-continua-fragil-apesar-de-acordo/",
+      "source": "Jornal O Guardião",
+      "_key": "f78f16cedeb04067",
+      "score": 5,
+      "title_cn": "拉加德警告欧元区经济形势“依然脆弱”尽管达成协议"
+    },
+    {
+      "title": " Lagarde avisa que situação económica da zona euro “continua frágil” apesar de acordo ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e0de82fbaca28f",
+      "score": 5,
+      "title_cn": "拉加德警告欧元区经济形势“依然脆弱”尽管达成协议"
+    },
+    {
+      "title": "A economia informal em África: Desafio ou oportunidade para o desenvolvimento",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679157/a-economia-informal--em-%C3%A1frica:-desafio--ou-oportunidade--para-o-desenvolvimento",
       "source": "Jornal de Angola",
-      "_key": "6150a81ecc21a5b0",
+      "_key": "ca7a799c061450aa",
       "score": 5,
-      "title_cn": "安哥拉与莫桑比克签署两项备忘录，加强科技合作"
+      "title_cn": "非洲非正规经济：发展的挑战还是机遇"
     },
     {
-      "title": "Economia / Há 9 horas Carrinho Agri reforça ligação entre agronegócio brasileiro e mercado africano ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679089/carrinho-agri-refor%C3%A7a-liga%C3%A7%C3%A3o-entre-agroneg%C3%B3cio-brasileiro-e-mercado-africano-",
+      "title": "Economia / Há 2 horas Fundação Tony Elumelu pode financiar 50 jovens ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679175/funda%C3%A7%C3%A3o-tony-elumelu-pode-financiar-50-jovens",
       "source": "Jornal de Angola",
-      "_key": "cdcc6eae25945a94",
+      "_key": "06bb751c8edc118d",
       "score": 5,
-      "title_cn": "卡里尼奥农业（Carrinho Agri）加强巴西农业与非洲市场联系"
+      "title_cn": "经济/2小时前：Tony Elumelu基金会可资助50名青年"
+    },
+    {
+      "title": "Economia / Há 2 horas Reafirmado compromisso de apoio ao sector agrícola ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679174/reafirmado-compromisso-de-apoio-ao-sector-agr%C3%ADcola",
+      "source": "Jornal de Angola",
+      "_key": "3e9bda245bf2ba7c",
+      "score": 5,
+      "title_cn": "经济/2小时前：重申对农业部门的支持承诺"
+    },
+    {
+      "title": "Governo investe mais 17 milhões € em equipamentos...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-investe-mais-17-milhoes-em-equipamentos-desportivos-piscina-olimpica-e-seis-polidesportivos-vao-avancar-com-linha-de-credito-portuguesa-72738.html",
+      "source": "Novo Jornal",
+      "_key": "6dfc07a19af4d17d",
+      "score": 5,
+      "title_cn": "政府将在设备上投资 1700 万欧元。"
+    },
+    {
+      "title": "Defendida maior expansão para adesão ao BI nas comunidades",
+      "url": "https://www.opais.ao/politica/defendida-maior-expansao-para-adesao-ao-bi-nas-comunidades/",
+      "source": "O País",
+      "_key": "3d1476e07ce4c9b7",
+      "score": 5,
+      "title_cn": "建议扩大社区采用商业智能的范围"
+    },
+    {
+      "title": "Angola e Moçambique reforçam cooperação no sector espacial e das tecnologias de informação",
+      "url": "https://www.opais.ao/politica/angola-e-mocambique-reforcam-cooperacao-no-sector-espacial-e-das-tecnologias-de-informacao/",
+      "source": "O País",
+      "_key": "d668d01023f9a037",
+      "score": 5,
+      "title_cn": "安哥拉与莫桑比克加强太空与信息技术合作"
+    },
+    {
+      "title": "Mais de 60 gestores capacitados em matéria de gestão empresarial",
+      "url": "https://www.opais.ao/economia/mais-de-60-gestores-capacitados-em-materia-de-gestao-empresarial/",
+      "source": "O País",
+      "_key": "06623779a129be25",
+      "score": 5,
+      "title_cn": "超过60名经理接受企业管理培训"
     }
   ]
 }
