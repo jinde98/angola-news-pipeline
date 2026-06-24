@@ -1,70 +1,140 @@
 {
   "date": "2026-06-24",
-  "total_new": 122,
-  "total_filtered": 9,
-  "scored_by": "keyword",
+  "total_new": 87,
+  "total_filtered": 19,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Canada reaffirms support for Angola's free trade area implementation strategy",
-      "url": "https://www.angop.ao/en/noticias/economia/canada-reitera-apoio-a-estrategia-de-angola-para-implementacao-da-zclca/",
-      "source": "ANGOP",
-      "_key": "a89cd18732d3622d",
-      "score": 5
+      "title": "Higino Carneiro contesta acusação da PGR e invoca 'vício processual grave'\"",
+      "url": "https://angola24horas.com/politica/item/34553-higino-carneiro-contesta-acusacao-da-pgr-e-invoca-vicio-processual-grave",
+      "source": "Angola 24 Horas",
+      "_key": "4aa6cdec15e7421d",
+      "score": 9
     },
     {
-      "title": "Azule Energy e parceiros investem 5 mil milhões de dólares no projecto Greater PAJ em Angola",
-      "url": "https://diariodosnegocios.com/azule-energy-e-parceiros-investem-5-mil-milhoes-de-dolares-no-projecto-greater-paj-em-angola/",
+      "title": "MCA Group vai reabilitar 212 quilómetros de estrada no sudeste de Angola",
+      "url": "https://diariodosnegocios.com/mca-group-vai-reabilitar-212-quilometros-de-estrada-no-sudeste-de-angola/",
       "source": "Diário dos Negócios",
-      "_key": "c814a3bdac228064",
-      "score": 5
+      "_key": "6ecdffbb2e1c0640",
+      "score": 9
     },
     {
-      "title": "Depósitos a prazo em Angola perdem valor real para a inflação há mais de uma década",
-      "url": "https://diariodosnegocios.com/depositos-a-prazo-em-angola-perdem-valor-real-para-a-inflacao-ha-mais-de-uma-decada/",
-      "source": "Diário dos Negócios",
-      "_key": "b8b46bf473fbaf10",
-      "score": 5
-    },
-    {
-      "title": " Azule Energy e parceiros investem 5 mil milhões de dólares no projecto Greater PAJ em Angola ",
+      "title": " MCA Group vai reabilitar 212 quilómetros de estrada no sudeste de Angola ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_47e6e36d48e83b",
-      "score": 5
+      "_key": "t_34bcd24f02024a",
+      "score": 9
     },
     {
-      "title": " Depósitos a prazo em Angola perdem valor real para a inflação há mais de uma década ",
+      "title": "PGR notifica Higino Carneiro de acusação por peculato e branqueamento de capitais",
+      "url": "https://jornaloguardiao.com/2026/06/24/pgr-notifica-higino-carneiro-de-acusacao-por-peculato-e-branqueamento-de-capitais/",
+      "source": "Jornal O Guardião",
+      "_key": "1378da61b4e965e1",
+      "score": 9
+    },
+    {
+      "title": " PGR notifica Higino Carneiro de acusação por peculato e branqueamento de capitais ",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8cdb6ad9034b5c",
-      "score": 5
+      "source": "Jornal O Guardião",
+      "_key": "t_4b7320f2f5bbbd",
+      "score": 9
     },
     {
-      "title": "Petróleo continua em queda com sinais de alívio no estreito de Ormuz",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-continua-em-queda-com-sinais-de-alivio-no-estreito-de-ormuz-72768.html",
-      "source": "Expansão",
-      "_key": "ec4616281fb891b1",
-      "score": 5
+      "title": " SIC detém três suspeitos por homicídio de quatro membros de uma família no bairro Paraíso ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c611f2cf8c19a4",
+      "score": 8
     },
     {
-      "title": "Economia Comissão aprova estratégia para a Zona de Livre Comércio ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679247/comiss%C3%A3o-aprova-estrat%C3%A9gia-para-a-zona-de-livre-com%C3%A9rcio",
-      "source": "Jornal de Angola",
-      "_key": "fdd01c058b0b3e5f",
-      "score": 5
+      "title": "Angola Has Addressed Only One of the Six Deficiencies Identified by FATF24/06/2026",
+      "url": "https://www.negociosdeangola.com/en/angola-has-addressed-only-one-of-the-six-deficiencies-identified-by-fatf/",
+      "source": "Negócios de Angola",
+      "_key": "93a14009a408558b",
+      "score": 8
     },
     {
-      "title": "Petróleo: Barril de Brent regressa ao preço que tinha...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/medio-oriente-barril-de-brent-regressa-ao-preco-que-tinha-no-inicio-da-guerra-72766.html",
-      "source": "Novo Jornal",
-      "_key": "4506fcc3f43c21cb",
-      "score": 5
-    },
-    {
-      "title": "Ministro da Indústria e Comércio admite desafios mas acredita no...",
-      "url": "https://valoreconomico.co.ao/artigo/ministro-da-industria-e-comercio-admite-desafios-mas-acredita-no-sucesso-de-angola-na-zclca",
+      "title": "Frete marítimo cresce 9,81% para mais de 754,027 ...",
+      "url": "https://valoreconomico.co.ao/artigo/frete-maritimo-cresce-9-81-para-mais-de-754-027-milhoes-de-dolares",
       "source": "Valor Económico",
-      "_key": "e29ac97a742f09c1",
+      "_key": "2590c7e97ef8c79a",
+      "score": 8
+    },
+    {
+      "title": "PGR formaliza acusação contra Higino Carneiro por peculato e branqueamento de capitais",
+      "url": "https://www.opais.ao/politica/pgr-formaliza-acusacao-contra-higino-carneiro-por-peculato-e-branqueamento-de-capitais/",
+      "source": "O País",
+      "_key": "48467182a0f5704c",
+      "score": 7
+    },
+    {
+      "title": "Ministério dos Transportes cria três gabinetes para acelerar projectos de mobilidade, aeroportos e caminhos-de-ferro",
+      "url": "https://correiokianda.info/ministerio-dos-transportes-cria-tres-gabinetes-para-acelerar-projectos-de-mobilidade-aeroportos-e-caminhos-de-ferro/",
+      "source": "Correio Kianda",
+      "_key": "c2a1400347faf61c",
+      "score": 6
+    },
+    {
+      "title": "AGT acusada de incentivar corrupção, informalidade e aumento dos preços",
+      "url": "https://valoreconomico.co.ao/artigo/agt-acusada-de-incentivar-corrupcao-informalidade-e-aumento-dos-precos",
+      "source": "Valor Económico",
+      "_key": "640c4eea4963e10b",
+      "score": 6
+    },
+    {
+      "title": "Governo dispensa concurso público e aprova 49,5 milhões de dólares...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-dispensa-concurso-publico-e-aprova-49-5-milhoes-de-dolares-em-infra-estruturas-turisticas",
+      "source": "Valor Económico",
+      "_key": "db1d032afbaa541a",
+      "score": 6
+    },
+    {
+      "title": "Banco Mundial atribui classificação máxima ao Programa Kwenda",
+      "url": "https://correiokianda.info/banco-mundial-atribui-classificacao-maxima-ao-programa-kwenda/",
+      "source": "Correio Kianda",
+      "_key": "552fae756ede89e7",
+      "score": 5
+    },
+    {
+      "title": "ANATA anuncia regresso da paragem de táxis do Golfe 2 à Avenida Pedro de Castro Vandunem Loy",
+      "url": "https://correiokianda.info/anata-anuncia-regresso-da-paragem-de-taxis-do-golfe-2-a-avenida-pedro-de-castro-vandunem-loy/",
+      "source": "Correio Kianda",
+      "_key": "1317b88496158ff3",
+      "score": 5
+    },
+    {
+      "title": "Quatro províncias vão beneficiar de telecomunicações via Angosat-2 para impulsionar o desenvolvimento local",
+      "url": "https://jornaloguardiao.com/2026/06/24/quatro-provincias-vao-beneficiar-de-telecomunicacoes-via-angosat-2-para-impulsionar-o-desenvolvimento-local/",
+      "source": "Jornal O Guardião",
+      "_key": "426089bfaf514695",
+      "score": 5
+    },
+    {
+      "title": "PGR remete 20 processos-crime por ocupação fraudulenta de casas nas centralidades de Benguela",
+      "url": "https://jornaloguardiao.com/2026/06/24/pgr-remete-20-processos-crime-por-ocupacao-fraudulenta-de-casas-nas-centralidades-de-benguela/",
+      "source": "Jornal O Guardião",
+      "_key": "61196cde59198b23",
+      "score": 5
+    },
+    {
+      "title": "SIC detém três suspeitos por homicídio de quatro membros de uma família no bairro Paraíso",
+      "url": "https://jornaloguardiao.com/2026/06/24/sic-detem-tres-suspeitos-por-homicidio-de-quatro-membros-de-uma-familia-no-bairro-paraiso/",
+      "source": "Jornal O Guardião",
+      "_key": "0fb65fb1180b855b",
+      "score": 5
+    },
+    {
+      "title": " PGR remete 20 processos-crime por ocupação fraudulenta de casas nas centralidades de Benguela ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5ea1d2d0eb1724",
+      "score": 5
+    },
+    {
+      "title": "Conferência Nacional sobre o Trabalho Marítimo arranca amanhã no Namibe",
+      "url": "https://www.opais.ao/ultima_hora/conferencia-nacional-sobre-o-trabalho-maritimo-arranca-amanha-no-namibe/",
+      "source": "O País",
+      "_key": "62cfe321d392717d",
       "score": 5
     }
   ]
