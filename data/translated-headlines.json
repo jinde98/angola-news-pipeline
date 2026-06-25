@@ -1,296 +1,128 @@
 {
   "date": "2026-06-25",
-  "total_new": 90,
-  "total_filtered": 36,
+  "total_new": 75,
+  "total_filtered": 15,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque TAAG inicia operações aéreas para cidade chinesa de GuangzhouA TAAG-Linhas Aéreas de Angola assinalou, hoje, em Guangzhou, por via de um evento institucional o início da operação aérea regular entre Angola e a China. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679312/taag-inicia-opera%C3%A7%C3%B5es-a%C3%A9reas-para-cidade-chinesa-de-guangzhou",
+      "title": "Petróleo cai nos mercados internacionais com aumento da oferta no Médio Oriente",
+      "url": "https://correiokianda.info/petroleo-cai-nos-mercados-internacionais-com-aumento-da-oferta-no-medio-oriente/",
+      "source": "Correio Kianda",
+      "_key": "8c88e30a29686a20",
+      "score": 9,
+      "title_cn": "国际油价下跌，因中东供应增加"
+    },
+    {
+      "title": "Empresário denuncia demora da PGR na resposta a processos submetidos há mais de sete meses",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60577:empresario-denuncia-demora-da-pgr-na-resposta-a-processos-submetidos-ha-mais-de-sete-meses&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "81382b1180710b87",
+      "score": 7,
+      "title_cn": "商人投诉检察总署处理案件逾七个月无果"
+    },
+    {
+      "title": "Governador lança projecto de Electrificação Rural e Urbana para beneficiar mais de seis mil ligações domiciliares em 87 povoações no Cuanza-Norte",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60575:governador-lanca-projecto-de-electrificacao-rural-e-urbana-para-beneficiar-mais-de-seis-mil-ligacoes-domiciliares-em-87-povoacoes-no-cuanza-norte&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "e523a9b82e3c912d",
+      "score": 7,
+      "title_cn": "北宽扎省长启动城乡电气化项目，惠及87个村庄逾6000户家庭"
+    },
+    {
+      "title": "Reforço da rede de comunicação da administração pública vai custar quase 10 mil milhões de kwanzas",
+      "url": "https://correiokianda.info/reforco-da-rede-de-comunicacao-da-administracao-publica-vai-custar-quase-10-mil-milhoes-de-kz/",
+      "source": "Correio Kianda",
+      "_key": "c1f7ca90899d1dbf",
+      "score": 7,
+      "title_cn": "加强公共行政通信网络将耗资近100亿宽扎"
+    },
+    {
+      "title": "Crédito por influência: a raiz oculta do malparado em Angola",
+      "url": "https://correiokianda.info/credito-por-influencia-a-raiz-oculta-do-malparado-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "3b95444dbdc72ada",
+      "score": 7,
+      "title_cn": "安哥拉不良贷款的隐秘根源：影响力信贷"
+    },
+    {
+      "title": "11:44 / 25 jun. 2026 Ministro alerta para exploração responsável do potencial mineiro do Bengo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679344/ministro-alerta-para-explora%C3%A7%C3%A3o-respons%C3%A1vel-do-potencial-mineiro-do-bengo",
       "source": "Jornal de Angola",
-      "_key": "5304d4fc8403dd9e",
-      "score": 10,
-      "title_cn": "安哥拉航空（TAAG）开通飞往中国广州的航线"
+      "_key": "54091c997c04f8ff",
+      "score": 7,
+      "title_cn": "部长呼吁本戈省负责任地开发矿产潜力"
     },
     {
-      "title": "TAAG começou a voar directamente para Guangzhou esta...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/taag-comecou-a-voar-directamente-para-guangzhou-esta-semana-72794.html",
-      "source": "Novo Jornal",
-      "_key": "5a738d64825c5048",
-      "score": 10,
-      "title_cn": "安哥拉航空（TAAG）开通广州直飞航班"
+      "title": "MPs reject urgent debate on rising oil prices",
+      "url": "https://www.angop.ao/en/noticias/economia/deputados-chumbam-debate-urgente-sobre-subida-do-preco-do-petroleo/",
+      "source": "ANGOP",
+      "_key": "7ebdf8c63f676e2c",
+      "score": 6,
+      "title_cn": "议员拒绝就油价上涨进行紧急辩论"
     },
     {
-      "title": "Barril de petróleo Brent cai abaixo dos 75 dólares pela primeira vez desde o início da guerra",
-      "url": "https://angola24horas.com/economia/item/34556-barril-de-petroleo-brent-cai-abaixo-dos-75-dolares-pela-primeira-vez-desde-o-inicio-da-guerra",
+      "title": "Ministro da Justiça afasta baixos salários como desculpa para a corrupção",
+      "url": "https://angola24horas.com/sociedade/item/34561-ministro-da-justica-afasta-baixos-salarios-como-desculpa-para-a-corrupcao",
       "source": "Angola 24 Horas",
-      "_key": "3bc3a5b68d8acb71",
-      "score": 9,
-      "title_cn": "布伦特原油价格战后首次跌破75美元"
+      "_key": "3e2316abd4f0053f",
+      "score": 6,
+      "title_cn": "司法部长驳斥低薪是腐败借口"
     },
     {
-      "title": "É já amanhã: Fórum Transportes e Logística debate corredores de desenvolvimento e integração das infraestruturas nacionais",
-      "url": "https://expansao.co.ao/economia/detalhe/e-ja-amanha-forum-transportes-e-logistica-debate-corredores-de-desenvolvimento-e-integracao-das-infraestruturas-nacionais-72789.html",
-      "source": "Expansão",
-      "_key": "42a497b5a869451a",
-      "score": 9,
-      "title_cn": "交通物流论坛将探讨发展走廊与国家基础设施整合"
-    },
-    {
-      "title": "Política Ministro quer combater a corrupção na Justiça ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679314/ministro-quer-combater-a-corrup%C3%A7%C3%A3o-na-justi%C3%A7a",
-      "source": "Jornal de Angola",
-      "_key": "98539bb76ec67393",
-      "score": 9,
-      "title_cn": "部长誓言打击司法腐败"
-    },
-    {
-      "title": "Petróleo: Novo tombo põe barril de Brent nos 72 USD...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-novo-tombo-poe-barril-de-brent-nos-72-usd-e-a-descer-aos-precos-anteriores-ao-comeco-da-guerra-72795.html",
-      "source": "Novo Jornal",
-      "_key": "031be810ac19631f",
-      "score": 9,
-      "title_cn": "油价再跌，布伦特原油跌至72美元"
-    },
-    {
-      "title": "Angola makes progress in meeting FATF recommendations",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-regista-avancos-no-cumprimento-das-recomendacoes-do-gafi/",
-      "source": "ANGOP",
-      "_key": "38c78f9b3f24db3b",
-      "score": 8,
-      "title_cn": "安哥拉在遵守金融行动特别工作组建议方面取得进展"
-    },
-    {
-      "title": "Angola launches \"AgriConnect\" project to accelerate economic diversification",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-lanca-projecto-agriconnect-para-acelerar-diversificacao-economica-nacional/",
-      "source": "ANGOP",
-      "_key": "90ce05ca449ab2c0",
-      "score": 8,
-      "title_cn": "安哥拉启动“AgriConnect”项目加速经济多元化"
-    },
-    {
-      "title": "Minister announces photovoltaic parks in Lunda-Sul Province",
-      "url": "https://www.angop.ao/en/noticias/economia/lunda-sul-vai-ganhar-parques-fotovoltaicos/",
-      "source": "ANGOP",
-      "_key": "cacd2a9cf11443b2",
-      "score": 8,
-      "title_cn": "部长宣布在南隆达省建设光伏园区"
-    },
-    {
-      "title": "AGT acusada de incentivar corrupção, informalidade e aumento dos preços",
-      "url": "https://angola24horas.com/sociedade/item/34555-agt-acusada-de-incentivar-corrupcao-informalidade-e-aumento-dos-precos",
+      "title": "Parlamento rejeita debate de urgência sobre efeitos da subida dos combustíveis nas famílias e no OGE",
+      "url": "https://angola24horas.com/politica/item/34559-parlamento-rejeita-debate-de-urgencia-sobre-efeitos-da-subida-dos-combustiveis-nas-familias-e-no-oge",
       "source": "Angola 24 Horas",
-      "_key": "931d04836ac8ff6a",
-      "score": 8,
-      "title_cn": "税务总局（AGT）被指控助长腐败、非正规经济和物价上涨"
-    },
-    {
-      "title": "Sociedade civil questiona garantias de 212 milhões USD concedidas a projetos da Mitrelli em Angola",
-      "url": "https://diariodosnegocios.com/sociedade-civil-questiona-garantias-de-212-milhoes-usd-concedidas-a-projetos-da-mitrelli-em-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "a24f51c477558674",
-      "score": 8,
-      "title_cn": "安哥拉公民社会质疑米特雷利项目2.12亿美元担保"
-    },
-    {
-      "title": " Sociedade civil questiona garantias de 212 milhões USD concedidas a projetos da Mitrelli em Angola ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_3c10e272573d58",
-      "score": 8,
-      "title_cn": "安哥拉公民社会质疑米特雷利项目2.12亿美元担保"
-    },
-    {
-      "title": "Economia Angola detém um excedente de dois mil megawatts de energia ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679334/angola-det%C3%A9m-um-excedente--de-dois-mil-megawatts-de-energia",
-      "source": "Jornal de Angola",
-      "_key": "d5dbad7ed3eeebbe",
-      "score": 8,
-      "title_cn": "安哥拉拥有2000兆瓦电力盈余"
-    },
-    {
-      "title": "Sociedade Central Fotovoltaica da Quilemba reforça fornecimento de energia ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679325/central-fotovoltaica-da-quilemba-refor%C3%A7a-fornecimento-de-energia-",
-      "source": "Jornal de Angola",
-      "_key": "28b1d2e9d3050cfe",
-      "score": 8,
-      "title_cn": "基伦巴中央光伏电站加强能源供应"
-    },
-    {
-      "title": "Última hora Angola terá dia dedicado na conferência sobre sector mineiro na Austrália",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679309/angola-ter%C3%A1-dia-dedicado-na-confer%C3%AAncia-sobre-sector-mineiro-na-austr%C3%A1lia",
-      "source": "Jornal de Angola",
-      "_key": "44b176b0350852b5",
-      "score": 8,
-      "title_cn": "安哥拉将在澳大利亚矿业大会上设立专题日"
-    },
-    {
-      "title": "Angola regista avanços no cumprimento das recomendações do GAFI",
-      "url": "https://www.opais.ao/economia/angola-regista-avancos-no-cumprimento-das-recomendacoes-do-gafi/",
-      "source": "O País",
-      "_key": "b7726956c1da5720",
-      "score": 8,
-      "title_cn": "安哥拉在遵守金融行动特别工作组建议方面取得进展"
-    },
-    {
-      "title": "Gala AIPEX Awards 2026 remarcada para 16 de Julho",
-      "url": "https://www.opais.ao/ultima_hora/gala-aipex-awards-2026-remarcada-para-16-de-julho/",
-      "source": "O País",
-      "_key": "77e9dd84858f2b15",
-      "score": 8,
-      "title_cn": "2026年安哥拉私人投资和出口促进局（AIPEX）颁奖晚会改期至7月16日"
-    },
-    {
-      "title": "Angolan govt reaffirms goal to integrate global economy",
-      "url": "https://www.angop.ao/en/noticias/economia/executivo-reafirma-integracao-de-angola-na-economia-mundial/",
-      "source": "ANGOP",
-      "_key": "420cede0bb17746a",
-      "score": 7,
-      "title_cn": "安哥拉政府重申融入全球经济目标"
-    },
-    {
-      "title": "Angola joins UN Tourism’s international investment platform",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-integra-plataforma-internacional-de-investimento-turistico-da-onu/",
-      "source": "ANGOP",
-      "_key": "e4b79d947c0fd0d2",
-      "score": 7,
-      "title_cn": "安哥拉加入联合国旅游组织国际投资平台"
-    },
-    {
-      "title": "Angola continues to consolidate a trajectory of economic growth – Minister",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-continua-a-consolidar-uma-trajectoria-de-crescimento-economico-ministro/",
-      "source": "ANGOP",
-      "_key": "62d179047036f7e2",
-      "score": 7,
-      "title_cn": "部长：安哥拉经济增长轨迹持续巩固"
-    },
-    {
-      "title": "Diversificação económica",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=226609",
-      "source": "ANGOP",
-      "_key": "083a9151dfe92439",
-      "score": 7,
-      "title_cn": "经济多元化"
-    },
-    {
-      "title": "HRMI: Angola entre os campeões africanos da tortura, prisões arbitrárias e desaparecimentos",
-      "url": "https://holdonangola.com/hrmi-angola-entre-os-campeoes-africanos-da-tortura-prisoes-arbitrarias-e-desaparecimentos/",
-      "source": "Hold On Angola",
-      "_key": "b83b273b44220c40",
-      "score": 7,
-      "title_cn": "人权衡量倡议：安哥拉是非洲酷刑、任意逮捕和失踪事件“冠军”之一"
-    },
-    {
-      "title": "Aprovada integração de Angola na Plataforma Internacional de Investimento da ONU Turismo",
-      "url": "https://www.opais.ao/economia/aprovada-integracao-de-angola-na-plataforma-internacional-de-investimento-da-onu-turismo/",
-      "source": "O País",
-      "_key": "473a1142b5d04bc5",
-      "score": 7,
-      "title_cn": "安哥拉获批加入联合国旅游组织国际投资平台"
-    },
-    {
-      "title": "Minister highlights PRODESI's impact on promoting national production",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-ressalta-impacto-do-prodesi-na-promocao-da-producao-nacional/",
-      "source": "ANGOP",
-      "_key": "ddf8584a372c49b9",
+      "_key": "8d5d606d482b92cf",
       "score": 6,
-      "title_cn": "部长强调国家生产支持计划（PRODESI）对促进本国生产的影响"
+      "title_cn": "议会拒绝就燃油涨价对家庭和国家预算的影响进行紧急辩论"
     },
     {
-      "title": "Sociedade Luanda acolhe Fórum Nacional de Inteligência Artificial e Transformação Digital ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679336/luanda-acolhe-f%C3%B3rum-nacional-de-intelig%C3%AAncia-artificial-e-transforma%C3%A7%C3%A3o-digital",
-      "source": "Jornal de Angola",
-      "_key": "98b2dc2eb25f51e7",
+      "title": "Angola: Falta de iluminação pública gera insegurança",
+      "url": "https://www.dw.com/pt-002/angola-falta-de-iluminação-pública-gera-insegurança/a-77707207?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "source": "Club K",
+      "_key": "f531ebcf00234ba6",
       "score": 6,
-      "title_cn": "罗安达将举办国家人工智能与数字化转型论坛"
+      "title_cn": "安哥拉：公共照明不足引发不安全感"
     },
     {
-      "title": "Deputados passam a receber 175 mil kz/ dia sempre que...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/deputados-passam-a-receber-175-mil-kz-dia-sempre-que-viagem-em-trabalho-para-fora-de-luanda-72796.html",
+      "title": "Governo quer reduzir tempo de emissão do Bilhete de Identidade para até 48 horas",
+      "url": "https://correiokianda.info/governo-quer-reduzir-tempo-de-emissao-do-bilhete-de-identidade-para-ate-48-horas/",
+      "source": "Correio Kianda",
+      "_key": "89e8da4ffd21af44",
+      "score": 6,
+      "title_cn": "政府拟将身份证办理时间缩短至48小时"
+    },
+    {
+      "title": "Parlamento chumba debate de urgência sobre impacto...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-chumba-debate-de-urgencia-sobre-impacto-dos-combustiveis-72800.html",
       "source": "Novo Jornal",
-      "_key": "c2cd57f1c22e9173",
+      "_key": "9aca53985f37df54",
       "score": 6,
-      "title_cn": "议员每日津贴将增至17.5万宽扎"
+      "title_cn": "议会否决关于影响的紧急辩论"
     },
     {
-      "title": "Luanda arrecada mais de 16 mil milhões de kwanzas em receitas próprias",
-      "url": "https://www.opais.ao/economia/luanda-arrecada-mais-de-16-mil-milhoes-de-kwanzas-em-receitas-proprias/",
+      "title": "Governo lança ‘Compacto AgriConnect’ com olhos em alimentos mais seguros até 2030",
+      "url": "https://www.opais.ao/economia/governo-lanca-compacto-agriconnect-com-olhos-em-alimentos-mais-seguros-ate-2030/",
       "source": "O País",
-      "_key": "f60e92eb02dd3bc1",
+      "_key": "24e0ec381991fdaf",
       "score": 6,
-      "title_cn": "罗安达自有收入超过160亿宽扎"
+      "title_cn": "政府启动“农业互联契约”，旨在2030年前实现更安全的食品"
     },
     {
-      "title": "Deputados passam a receber 175 mil kwanzas de ajuda de...",
-      "url": "https://valoreconomico.co.ao/artigo/deputados-passam-a-receber-175-mil-kwanzas-de-ajuda-de-custo-diaria-por-deslocacoes-internas",
-      "source": "Valor Económico",
-      "_key": "c6930d8e8e69054c",
-      "score": 6,
-      "title_cn": "议员每日津贴将增至17.5万宽扎"
-    },
-    {
-      "title": "WB praises Angola's human resources in health training project",
-      "url": "https://www.angop.ao/en/noticias/saude/banco-mundial-enaltece-progressos-do-pfrhs/",
+      "title": "Congress addresses agribusiness as a decisive factor",
+      "url": "https://www.angop.ao/en/noticias/economia/congresso-aborda-agro-business-como-factor-decisivo-em-viana/",
       "source": "ANGOP",
-      "_key": "b58908aa750c220c",
+      "_key": "f701b5075e0797b1",
       "score": 5,
-      "title_cn": "世界银行赞扬安哥拉在卫生培训项目中的人力资源"
+      "title_cn": "大会关注农业综合企业作为决定性因素"
     },
     {
-      "title": "IA e ESG | Novas questões de âmbito Jurídico-Regulatórias",
-      "url": "https://expansao.co.ao/gestao/detalhe/ia-e-esg-novas-questoes-de-ambito-juridico-regulatorias-72788.html",
-      "source": "Expansão",
-      "_key": "0c862cbcb8ba5561",
+      "title": "João Pinto toma posse como Provedor de Justiça e promete dar continuidade ao trabalho de defesa dos cidadãos",
+      "url": "https://correiokianda.info/joao-pinto-toma-posse-como-provedor-de-justica-e-promete-dar-continuidade-ao-trabalho-da-defesa-dos-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "3d03da1abdbb273e",
       "score": 5,
-      "title_cn": "人工智能与ESG：新的法律法规问题"
-    },
-    {
-      "title": "Auditoria contínua com IA | O que está a mudar",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_851b50e38aa239",
-      "score": 5,
-      "title_cn": "人工智能驱动的持续审计：变革正在发生"
-    },
-    {
-      "title": "Angola e Moçambique assinam memorandos de cooperação para aprofundar a transformação digital",
-      "url": "https://forbesafricalusofona.com/angola-e-mocambique-assinam-memorandos-de-cooperacao-para-aprofundar-a-transformacao-digital/",
-      "source": "Forbes África",
-      "_key": "e44947b21005d6b8",
-      "score": 5,
-      "title_cn": "安哥拉与莫桑比克签署深化数字化转型合作备忘录"
-    },
-    {
-      "title": "Adão de Almeida alerta deputados para defesa da consciência públicaOs legisladores devem ser verdadeiros depositários de responsabilidades perante a nação, sujeitando-se a valores como autocontenção, dignidade institucional e uma permanente consciência pública, afirmou ontem, em Luanda, o presidente da Assembleia Nacional, Adão de Almeida.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679310/ad%C3%A3o-de-almeida-alerta-deputados-para-defesa-da-consci%C3%AAncia-p%C3%BAblica",
-      "source": "Jornal de Angola",
-      "_key": "e847175a5144e8f9",
-      "score": 5,
-      "title_cn": "阿达奥·德·阿尔梅达（Adão de Almeida）提醒议员捍卫公众良知"
-    },
-    {
-      "title": "Política Novo provedor de Justiça deseja aproximar serviços aos cidadãos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679311/novo-provedor-de-justi%C3%A7a-deseja-aproximar-servi%C3%A7os-aos-cidad%C3%A3os",
-      "source": "Jornal de Angola",
-      "_key": "16fb8e25af3c8840",
-      "score": 5,
-      "title_cn": "新任司法特派员希望拉近服务与公民的距离"
-    },
-    {
-      "title": "Destaque João Pinto inicia funções como provedor de JustiçaO presidente da Assembleia Nacional, Adão de Almeida, conferiu posse hoje, ao novo provedor de Justiça, João Manuel Francisco \"João Pinto! que assumiu o compromisso de reforçar a defesa dos direitos fundamentais dos cidadãos e aproximar a instituição da população em todo o país.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679301/jo%C3%A3o-pinto-inicia-fun%C3%A7%C3%B5es-como-provedor-de-justi%C3%A7a",
-      "source": "Jornal de Angola",
-      "_key": "ddb3fc04ba3a4b57",
-      "score": 5,
-      "title_cn": "若昂·平托（João Pinto）就任司法特派员"
-    },
-    {
-      "title": "Concurso público do MININT arranca a 16 de Julho via...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/concurso-publico-do-minint-arranca-a-16-de-julho-via-online-mas-sem-vagas-para-luanda-icolo-e-bengo-e-bengo-72792.html",
-      "source": "Novo Jornal",
-      "_key": "0cdbbbf054564c2d",
-      "score": 5,
-      "title_cn": "内政部（MININT）公开招标将于7月16日启动"
+      "title_cn": "若昂·平托（João Pinto）就任监察专员，承诺继续维护公民权益"
     }
   ]
 }
