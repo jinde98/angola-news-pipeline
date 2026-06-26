@@ -1,175 +1,70 @@
 {
   "date": "2026-06-26",
-  "total_new": 51,
-  "total_filtered": 24,
+  "total_new": 31,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola airlines marks start of air operations to Guangzhou",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-assinala-inicio-das-operacoes-aereas-para-guangzhou/",
-      "source": "ANGOP",
-      "_key": "1c8de7675a4c289b",
-      "score": 9
-    },
-    {
-      "title": "12:59 / 26 jun. 2026 TAAG inicia operações aéreas para a cidade de Guangzhou ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679431/taag-inicia-opera%C3%A7%C3%B5es-a%C3%A9reas-para-a-cidade-de-guangzhou-",
-      "source": "Jornal de Angola",
-      "_key": "77984ddec589331c",
-      "score": 9
-    },
-    {
-      "title": "Zona de Comércio Livre Africana precisa de corredores para funcionar. \"Sem logística, o acordo é simplesmente papel\"",
-      "url": "https://expansao.co.ao/economia/detalhe/zona-de-comercio-livre-africana-precisa-de-corredores-para-funcionar-sem-logistica-o-acordo-e-simplesmente-um-papel-72843.html",
-      "source": "Expansão",
-      "_key": "8f81ee5e2ffae50e",
-      "score": 8
-    },
-    {
-      "title": "África perde cerca de 200 mil milhões USD por ano devido a ineficiências logísticas",
-      "url": "https://expansao.co.ao/economia/detalhe/africa-perde-cerca-de-200-mil-milhoes-usd-por-ano-devido-a-ineficiencias-logisticas-72840.html",
-      "source": "Expansão",
-      "_key": "275da494f595cec7",
-      "score": 8
-    },
-    {
-      "title": "Angola cria três novas delegações aduaneiras para maximizar receitas fiscais",
-      "url": "https://valoreconomico.co.ao/artigo/angola-cria-tres-novas-delegacoes-aduaneiras-para-maximizar-receitas-fiscais",
+      "title": "Preço do petróleo Brent cai 2% para 73 dólares no...",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-petroleo-brent-cai-2-para-73-dolares-no-mercado-internacional",
       "source": "Valor Económico",
-      "_key": "b1eb3744b97e8bb1",
-      "score": 8
+      "_key": "25ac4ccafc797953",
+      "score": 10
     },
     {
-      "title": "Bengo province holds 36 licenses for mining prospecting and exploration",
-      "url": "https://www.angop.ao/en/noticias/economia/bengo-com-36-titulos-mineiros-de-prospeccao-e-exploracao/",
-      "source": "ANGOP",
-      "_key": "8c7daee06bacda3e",
-      "score": 7
-    },
-    {
-      "title": "Parliament unanimously approves legal framework for oversight of external audits",
-      "url": "https://www.angop.ao/en/noticias/economia/regime-juridico-da-supervisao-da-auditoria-externa-aprovado-por-unanimidade/",
-      "source": "ANGOP",
-      "_key": "d3bed001b101657f",
-      "score": 7
-    },
-    {
-      "title": "Regulation Agency calls for stronger measures against illegal gold mining in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/defendido-reforco-do-combate-ao-garimpo-de-ouro-em-angola/",
-      "source": "ANGOP",
-      "_key": "00e3a92f9d458dd0",
-      "score": 7
-    },
-    {
-      "title": "Executivo lança projecto de 200 milhões de dólares para reforçar segurança alimentar",
-      "url": "https://correiokianda.info/executivo-lanca-projecto-de-200-milhoes-de-dolares-para-reforcar-seguranca-alimentar/",
+      "title": "Nova lei do imposto evita que pequenos aumentos resultem em carga fiscal desproporcional, diz Vera Daves",
+      "url": "https://correiokianda.info/nova-lei-do-imposto-evita-que-pequenos-aumentos-resultem-em-carga-fiscal-desproporcional-aos-contribuintes-diz-vera-daves/",
       "source": "Correio Kianda",
-      "_key": "8a34042e80b3399a",
-      "score": 7
+      "_key": "cea9191ac0ac30cd",
+      "score": 8
     },
     {
-      "title": "Ministério do Planeamento de Angola beneficia de assistência técnica do FMI para melhorar projecção macroeconómica",
-      "url": "https://forbesafricalusofona.com/ministerio-do-planeamento-de-angola-beneficia-de-assistencia-tecnica-do-fmi-para-melhorar-projeccao-macroeconomica/",
-      "source": "Forbes África",
-      "_key": "eb24be18046c9036",
-      "score": 7
-    },
-    {
-      "title": "Destaque Aeroporto Dr. António Agostinho Neto integra rede de destinos da Air Algerie O Aeroporto Internacional Dr. António Agostinho Neto (AIAAN) passa a integrar, a partir deste sábado, 27, a rede de destinos da Air Algerie, companhia aérea de bandeira da Argélia.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679426/aeroporto-dr.-ant%C3%B3nio-agostinho-neto-integra-rede-de-destinos-da-air-algerie",
-      "source": "Jornal de Angola",
-      "_key": "1104d8f187695842",
-      "score": 7
-    },
-    {
-      "title": "Angolan govt rules out legalizing artisanal gold mining",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-descarta-legalizacao-da-exploracao-artesanal-de-ouro/",
-      "source": "ANGOP",
-      "_key": "0e0fc70372f6fb96",
-      "score": 6
-    },
-    {
-      "title": "IRDP encourages expansion of fuel distribution network",
-      "url": "https://www.angop.ao/en/noticias/economia/irdp-incentiva-expansao-da-rede-de-distribuicao-de-combustiveis/",
-      "source": "ANGOP",
-      "_key": "1209e411471bef7b",
-      "score": 6
-    },
-    {
-      "title": "Exploração mineira",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=44022",
-      "source": "ANGOP",
-      "_key": "5d9c184ccfae1390",
-      "score": 6
-    },
-    {
-      "title": "Mining conference promotes Angola in Australia",
-      "url": "https://www.angop.ao/en/noticias/economia/conferencia-do-sector-mineiro-promove-angola-na-australia/",
-      "source": "ANGOP",
-      "_key": "190151a9b76799df",
-      "score": 6
-    },
-    {
-      "title": "Conferência mineira",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=89709",
-      "source": "ANGOP",
-      "_key": "8d10f1c9bd797e05",
-      "score": 6
-    },
-    {
-      "title": "Formação farmacêutica suspensa por falta de vistos de participantes guineenses e angolanos",
-      "url": "https://jornaloguardiao.com/2026/06/26/formacao-farmaceutica-suspensa-por-falta-de-vistos-de-participantes-guineenses-e-angolanos/",
-      "source": "Jornal O Guardião",
-      "_key": "3b991d1a1cb11aa6",
-      "score": 6
-    },
-    {
-      "title": " Formação farmacêutica suspensa por falta de vistos de participantes guineenses e angolanos ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_139589c9c0fcf2",
-      "score": 6
-    },
-    {
-      "title": "Destaque Mussulo ganha fábrica de processamento de atum e aviárioO município do Mussulo, em Luanda, vai beneficiar de um projecto integrado de construção e apetrechamento de uma fábrica de processamento de atum e de um aviário, no âmbito do Programa de Combate à Fome e à Pobreza.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679415/mussulo-ganha-f%C3%A1brica-de-processamento-de-atum-e-avi%C3%A1rio",
-      "source": "Jornal de Angola",
-      "_key": "c24f39ca2e90d73d",
-      "score": 6
-    },
-    {
-      "title": "APD aplica multas milionárias a empresas por armazenarem informações pessoais...",
-      "url": "https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao",
+      "title": "Associação acusa SME de detenção “ilegal” de 54 marinheiros e...",
+      "url": "https://valoreconomico.co.ao/artigo/associacao-acusa-sme-de-detencao-ilegal-de-54-marinheiros-e-de-aplicar-multas-milionarias",
       "source": "Valor Económico",
-      "_key": "c089089c3603a523",
+      "_key": "dd9a71cea7ec59b9",
+      "score": 8
+    },
+    {
+      "title": "Câmara de comércio destaca crescimento do sector mineiro e diz projectar-se como “novo petróleo em Angola”",
+      "url": "https://correiokianda.info/camara-de-comercio-e-industria-destaca-crescimento-do-sector-mineiro-e-diz-que-constituira-se-no-novo-petroleo-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "7088b972146a05c7",
+      "score": 7
+    },
+    {
+      "title": "“Não estamos a crescer o suficiente economicamente para compensar o crescimento populacionalˮ",
+      "url": "https://forbesafricalusofona.com/nao-estamos-a-crescer-o-suficiente-economicamente-para-compensar-o-crescimento-populacional%cb%ae/",
+      "source": "Forbes África",
+      "_key": "1e86a36b165fe324",
+      "score": 7
+    },
+    {
+      "title": "Trabalhadores do Porto do Lobito apontam implementação do fundo de pensão como resultado “da luta sindical de anos”",
+      "url": "https://correiokianda.info/trabalhadores-do-porto-do-lobito-apontam-implementacao-do-fundo-de-pensao-como-resultado-da-luta-sindical-de-anos/",
+      "source": "Correio Kianda",
+      "_key": "86aa98b2f306d703",
       "score": 6
     },
     {
-      "title": "Angola strengthens position on Southern Africa regional integration",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-posicao-na-integracao-regional-da-africa-austral/",
-      "source": "ANGOP",
-      "_key": "dd9dcb5566fcbb73",
+      "title": "Rede aeroportuária continua limitada: apenas 17 dos 32 aeroportos estão operacionais e só dois têm certificação internacional",
+      "url": "https://expansao.co.ao/economia/detalhe/rede-aeroportuaria-continua-limitada-apenas-17-dos-32-aeroportos-estao-operacionais-e-so-dois-tem-certificacao-internacional-72845.html",
+      "source": "Expansão",
+      "_key": "0d86e813175787de",
+      "score": 6
+    },
+    {
+      "title": "Polícia Nacional desactiva centro ilegal de mineração de criptomoedas numa fazenda no Zango 3",
+      "url": "https://correiokianda.info/policia-nacional-desactiva-centro-ilegal-de-mineracao-de-criptomoedas-numa-fazenda-no-zango-3/",
+      "source": "Correio Kianda",
+      "_key": "648f9137d7738097",
       "score": 5
     },
     {
-      "title": "Interior Minister assesses readiness of sector agencies in Lunda-Sul",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-do-interior-avalia-prontidao-dos-orgaos-do-sector-na-lunda-sul/",
-      "source": "ANGOP",
-      "_key": "8ed766bcdf0f0fd0",
-      "score": 5
-    },
-    {
-      "title": "RDCongo eleva mortos por ébola para 304 com 95% das camas hospitalares ocupadas",
-      "url": "https://jornaloguardiao.com/2026/06/26/rdcongo-eleva-mortos-por-ebola-para-304-com-95-das-camas-hospitalares-ocupadas/",
-      "source": "Jornal O Guardião",
-      "_key": "5ec1818842d1bea9",
-      "score": 5
-    },
-    {
-      "title": " RDCongo eleva mortos por ébola para 304 com 95% das camas hospitalares ocupadas ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_82ce796d53109c",
+      "title": "Aumento das propinas no ensino privado ameaça atirar milhares de...",
+      "url": "https://valoreconomico.co.ao/artigo/aumento-das-propinas-no-ensino-privado-ameaca-atirar-milhares-de-estudantes-para-a-exclusao-escolar",
+      "source": "Valor Económico",
+      "_key": "bb378b248f7076f9",
       "score": 5
     }
   ]
