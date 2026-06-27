@@ -1,240 +1,64 @@
 {
   "date": "2026-06-27",
-  "total_new": 83,
-  "total_filtered": 29,
+  "total_new": 19,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "SME afasta mais de 13 mil estrangeiros dos postos de trabalho por irregularidade documental",
-      "url": "https://correiokianda.info/sme-afasta-mais-de-13-mil-estrangeiros-dos-postos-de-trabalho-por-irregularidade-documental/",
-      "source": "Correio Kianda",
-      "_key": "2a6355f8be9ce2ef",
-      "score": 10,
-      "title_cn": "移民局因证件不合规，解雇逾1.3万外国工人。"
-    },
-    {
-      "title": "O novo IRPS: reforma tributária ou expansão do poder do Estado?",
-      "url": "https://correiokianda.info/o-novo-irps-reforma-tributaria-ou-expansao-do-poder-do-estado/",
-      "source": "Correio Kianda",
-      "_key": "0ba7dded1cd617b0",
-      "score": 9,
-      "title_cn": "新个人所得税：税改还是国家权力扩张？"
-    },
-    {
-      "title": "Novo Código do IRPS: Vera Daves esclarece limites da AGT e anuncia alívio fiscal para famílias",
-      "url": "https://diariodosnegocios.com/novo-codigo-do-irps-vera-daves-esclarece-limites-da-agt-e-anuncia-alivio-fiscal-para-familias/",
-      "source": "Diário dos Negócios",
-      "_key": "cd6790965813d85a",
-      "score": 9,
-      "title_cn": "新个税法：维拉·戴维斯（Vera Daves）澄清AGT权限，宣布家庭减税。"
-    },
-    {
-      "title": " Novo Código do IRPS: Vera Daves esclarece limites da AGT e anuncia alívio fiscal para famílias ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_b9dda3f2edeeb5",
-      "score": 9,
-      "title_cn": "新个税法：维拉·戴维斯（Vera Daves）澄清AGT权限，宣布家庭减税。"
-    },
-    {
-      "title": "17:37 / 26 jun. 2026 Exportações do sector mineiro e petrolífero atingem 31,3 mil milhões de dólares ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679438/exporta%C3%A7%C3%B5es-do-sector-mineiro-e-petrol%C3%ADfero-atingem-313-mil-milh%C3%B5es-de-d%C3%B3lares",
-      "source": "Jornal de Angola",
-      "_key": "8ad520aa591bfd18",
-      "score": 9,
-      "title_cn": "安哥拉矿业和石油出口额达313亿美元。"
-    },
-    {
-      "title": "Ministério das Finanças cria novas delegações aduaneiras em três províncias",
-      "url": "https://correiokianda.info/ministerio-das-financas-cria-novas-delegacoes-aduaneiras-em-tres-provincias/",
-      "source": "Correio Kianda",
-      "_key": "690ee1756631b5ff",
+      "title": "Ministro de Estado assegura que o sector marítimo reúne condições para ser dos pilares da diversificação económica",
+      "url": "https://www.opais.ao/economia/ministro-de-estado-assegura-que-o-sector-maritimo-reune-condicoes-para-ser-dos-pilares-da-diversificacao-economica/",
+      "source": "O País",
+      "_key": "505ea94e0fa5712f",
       "score": 8,
-      "title_cn": "财政部在三省设立新海关代表处。"
+      "title_cn": "国务部长：海事部门有望成为经济多元化支柱"
     },
     {
-      "title": "        Diversos12 minutos atrás  China afasta generais e altos quadros políticos do principal órgão legislativo O Comité Permanente da Assembleia Popular Nacional da China destituiu seis deputados militares, o antigo líder do regulador financeiro Li Yunze e o membro do Politburo...   ",
-      "url": "https://correiokianda.info/china-afasta-generais-e-altos-quadros-politicos-do-principal-orgao-legislativo/",
-      "source": "Correio Kianda",
-      "_key": "0297c4a326a08787",
-      "score": 8,
-      "title_cn": "中国罢免多名将军和高级政治干部。"
-    },
-    {
-      "title": "Angola só concluiu um dos seis compromissos assumidos com o GAFI",
-      "url": "https://expansao.co.ao/angola/detalhe/angola-so-concluiu-um-dos-seis-compromissos-assumidos-com-o-gafi-72819.html",
-      "source": "Expansão",
-      "_key": "d6cf7fb8a9a073e5",
-      "score": 8,
-      "title_cn": "安哥拉仅完成与GAFI六项承诺中的一项。"
-    },
-    {
-      "title": "Mais de 120 empresas impedidas de fechar contratos com o Estado angolano",
-      "url": "https://forbesafricalusofona.com/mais-de-120-empresas-impedidas-de-fechar-contratos-com-o-estado-angolano/",
-      "source": "Forbes África",
-      "_key": "6943f6259a5d4b14",
-      "score": 8,
-      "title_cn": "逾120家公司被禁与安哥拉政府签约。"
-    },
-    {
-      "title": "Angola advocates union of extractive industry in the diversification of national economy",
-      "url": "https://www.angop.ao/en/noticias/economia/defendida-uniao-da-industria-extractiva-na-diversificacao-da-economia-nacional/",
-      "source": "ANGOP",
-      "_key": "4560a1c263deda44",
-      "score": 7,
-      "title_cn": "安哥拉倡导采掘业联合，促进经济多元化。"
-    },
-    {
-      "title": "Presidente da República autoriza reforço de contratos para construção de pontes modulares",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-reforco-de-contratos-para-construcao-de-pontes-modulares/",
-      "source": "Correio Kianda",
-      "_key": "44806da3888559ca",
-      "score": 7,
-      "title_cn": "总统授权加强模块化桥梁建设合同。"
-    },
-    {
-      "title": "Empresários chamados a desenvolver o sector marítimo nacional",
-      "url": "https://correiokianda.info/empresarios-chamados-a-desenvolver-o-sector-maritimo-nacional/",
-      "source": "Correio Kianda",
-      "_key": "97f6445df10a5f4c",
-      "score": 7,
-      "title_cn": "呼吁企业家发展国家海洋产业。"
-    },
-    {
-      "title": "Títulos de Dívida Pública “Esvaziam” Contribuição Fiscal da Banca em 263 Mil Milhões Kz",
-      "url": "https://diariodosnegocios.com/titulos-de-divida-publica-esvaziam-contribuicao-fiscal-da-banca-em-263-mil-milhoes-kz/",
-      "source": "Diário dos Negócios",
-      "_key": "3981354d52af9995",
-      "score": 7,
-      "title_cn": "公共债务证券“掏空”银行2630亿宽扎税收贡献。"
-    },
-    {
-      "title": " Títulos de Dívida Pública “Esvaziam” Contribuição Fiscal da Banca em 263 Mil Milhões Kz ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_60e58e9fc64f88",
-      "score": 7,
-      "title_cn": "公共债务证券“掏空”银行2630亿宽扎税收贡献。"
-    },
-    {
-      "title": "17:08 / 26 jun. 2026 SODIAM arrecada 21,7 milhões de dólares no 17.º leilão de diamantes brutos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679437/sodiam-arrecada-217-milh%C3%B5es-de-d%C3%B3lares-no-17.%C2%BA-leil%C3%A3o-de-diamantes-brutos",
-      "source": "Jornal de Angola",
-      "_key": "15312a2c1593533b",
-      "score": 7,
-      "title_cn": "SODIAM在第17次原钻拍卖中收入2170万美元。"
-    },
-    {
-      "title": "Namibian Consul advocates for more cooperation between Namibe and Walvis Bay ports",
-      "url": "https://www.angop.ao/en/noticias/politica/consul-namibiana-defende-reforco-da-cooperacao-entre-os-portos-do-namibe-e-walvis-bay/",
-      "source": "ANGOP",
-      "_key": "f2456288773ecdbf",
-      "score": 6,
-      "title_cn": "纳米比亚领事倡导纳米贝港与鲸湾港加强合作。"
-    },
-    {
-      "title": "Angolan government assures payment of 2025 withdrawal orders",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-assegura-pagamento-das-ordens-de-saque-de-2025/",
-      "source": "ANGOP",
-      "_key": "640f6edec46b1dab",
-      "score": 6,
-      "title_cn": "安哥拉政府确保支付2025年提款指令。"
-    },
-    {
-      "title": "Budget",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6751",
-      "source": "ANGOP",
-      "_key": "f29b06b7cec9838f",
-      "score": 6,
-      "title_cn": "预算。"
-    },
-    {
-      "title": "Cyril Ramaphosa promete resposta dura à violência contra emigrantes na África do Sul",
-      "url": "https://correiokianda.info/cyril-ramaphosa-promete-resposta-dura-a-violencia-contra-emigrantes-na-africa-do-sul/",
-      "source": "Correio Kianda",
-      "_key": "81dfc0755b4430a9",
-      "score": 6,
-      "title_cn": "西里尔·拉马福萨（Cyril Ramaphosa）承诺严惩南非反移民暴力。"
-    },
-    {
-      "title": "Air Trading: “Angola é o primeiro passo de um processo mais alargado de expansão” – Exclusivo",
-      "url": "https://forbesafricalusofona.com/air-trading-angola-e-o-primeiro-passo-de-um-processo-mais-alargado-de-expansao-exclusivo/",
-      "source": "Forbes África",
-      "_key": "2a47d8a033d20d32",
-      "score": 6,
-      "title_cn": "航空贸易公司：安哥拉是扩张进程的第一步。"
-    },
-    {
-      "title": "Conectividade que aproxima Angola ao mundo",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679473/conectividade-que-aproxima-angola-ao-mundo",
-      "source": "Jornal de Angola",
-      "_key": "0171d7fc1997c265",
-      "score": 6,
-      "title_cn": "互联互通拉近安哥拉与世界的距离。"
-    },
-    {
-      "title": "No topo da colina: ANGOTIC –– uma \"feira...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/no-topo-da-colina-angotic-uma-feira-de-vaidades-num-pais-com-problemas-basicos-de-telecomunicacoes-72854.html",
+      "title": "Duas fábricas \"engolidas\" pelo lobby da importação...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/duas-fabricas-engolidas-pelo-lobby-da-importacao-de-massa-de-tomate-72851.html",
       "source": "Novo Jornal",
-      "_key": "36ebeb6d1be49ccc",
+      "_key": "ed7e65be151a7b22",
+      "score": 7,
+      "title_cn": "两家工厂被进口游说团体“吞噬”"
+    },
+    {
+      "title": "Tundavala: Um \"monstro\" de 69 milhões USD abandonado...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/tundavala-um-monstro-de-69-milhoes-usd-abandonado-ha-mais-de-10-anos-72809.html",
+      "source": "Novo Jornal",
+      "_key": "ef95c58528bcaac6",
+      "score": 7,
+      "title_cn": "Tundavala (栋达瓦拉)：价值6900万美元的“烂尾工程”"
+    },
+    {
+      "title": "Detidos mais de 600 cidadãos por tráfico de drogas",
+      "url": "https://www.opais.ao/manchete/detidos-mais-de-600-cidadaos-por-trafico-de-drogas/",
+      "source": "O País",
+      "_key": "62be3e7aa147b5c2",
       "score": 6,
-      "title_cn": "安哥拉信息通信技术展：一场盛会。"
+      "title_cn": "600多名公民因贩毒被捕"
     },
     {
-      "title": "Lunda-Sul vai ganhar Centro Integrado de Segurança Pública",
-      "url": "https://www.opais.ao/sociedade/lunda-sul-vai-ganhar-centro-integrado-de-seguranca-publica/",
+      "title": "Incinerados mais de 300 quilos de drogas apreendidas em operações contra o narcotráfico",
+      "url": "https://www.opais.ao/sociedade/incinerados-mais-de-300-quilos-de-drogas-apreendidas-em-operacoes-contra-o-narcotrafico/",
       "source": "O País",
-      "_key": "81e3c923d73d6433",
+      "_key": "4c8bcfba8520abf5",
       "score": 6,
-      "title_cn": "南隆达省将建立综合公共安全中心。"
+      "title_cn": "打击贩毒行动中焚烧300多公斤查获毒品"
     },
     {
-      "title": "Polícia Nacional apreende mais de 50 processadores de criptomoedas no Zango",
-      "url": "https://www.opais.ao/destaque/policia-nacional-apreende-mais-de-50-processadores-de-criptomoedas-no-zango/",
+      "title": "Polícia Nacional intensifica patrulhamento no bairro Paraíso",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-intensifica-patrulhamento-no-bairro-paraiso/",
       "source": "O País",
-      "_key": "678d430416b9c1d8",
+      "_key": "21ea785ecb440246",
       "score": 6,
-      "title_cn": "国家警察在赞戈查获50多台加密货币处理器。"
+      "title_cn": "国家警察加强Paraíso (天堂) 社区巡逻"
     },
     {
-      "title": "Bengo province reinforces commitment to national production – Minister",
-      "url": "https://www.angop.ao/en/noticias/economia/bengo-reforca-aposta-na-producao-nacional-ministro/",
-      "source": "ANGOP",
-      "_key": "c02759031900d343",
-      "score": 5,
-      "title_cn": "部长：本戈省加强对国家生产的承诺。"
-    },
-    {
-      "title": "Police prevent illegal entry of 40 citizens from Democratic Republic of Congo",
-      "url": "https://www.angop.ao/en/noticias/politica/policia-impede-entrada-ilegal-de-40-cidadaos-da-rdc/",
-      "source": "ANGOP",
-      "_key": "ee0ecbf1505c38a7",
-      "score": 5,
-      "title_cn": "警方阻止40名刚果（金）公民非法入境。"
-    },
-    {
-      "title": "Empresários angolanos convidados a participar no \"Angola Day\" da Conferência África Down Under, na Austrália",
-      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60594:empresarios-angolanos-convidados-a-participar-no-angola-day-da-conferencia-africa-down-under-na-australia&catid=41026:nacional&lang=pt&Itemid=1083",
-      "source": "Club K",
-      "_key": "81f4ed207aecce9b",
-      "score": 5,
-      "title_cn": "安哥拉企业家受邀参加澳大利亚“非洲向下”会议“安哥拉日”。"
-    },
-    {
-      "title": "Ministério do Interior em Benguela debate intolerância política com MPLA e a UNITA",
-      "url": "https://www.opais.ao/politica/ministerio-do-interior-em-benguela-debate-intolerancia-politica-com-mpla-e-a-unita/",
+      "title": "Feira da Banana destaca potencial agrícola do Bengo e aposta na transformação local",
+      "url": "https://www.opais.ao/economia/feira-da-banana-destaca-potencial-agricola-do-bengo-e-aposta-na-transformacao-local/",
       "source": "O País",
-      "_key": "a42ce2654cdb9231",
+      "_key": "5586e2522adc622e",
       "score": 5,
-      "title_cn": "本格拉省内政部与安人运、安盟讨论政治不容忍问题。"
-    },
-    {
-      "title": "Ébola: RDC sobe balanço de mortos para 291",
-      "url": "https://www.opais.ao/mundo/ebola-rdc-sobe-balanco-de-mortos-para-291/",
-      "source": "O País",
-      "_key": "295e2fb4525bda48",
-      "score": 5,
-      "title_cn": "刚果民主共和国埃博拉死亡人数升至 291 人"
+      "title_cn": "香蕉展凸显本戈省农业潜力，关注本地加工"
     }
   ]
 }
