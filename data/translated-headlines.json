@@ -1,208 +1,64 @@
 {
   "date": "2026-06-28",
-  "total_new": 72,
-  "total_filtered": 25,
+  "total_new": 22,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Mais de 27 mil milhões USD em investimento chinês sob risco em Angola, alerta Câmara Angola-China",
-      "url": "https://correiokianda.info/mais-de-27-mil-milhoes-usd-em-investimento-chines-sob-risco-em-angola-alerta-camara-angola-china/",
-      "source": "Correio Kianda",
-      "_key": "8f4f847e352318c0",
-      "score": 10,
-      "title_cn": "安哥拉-中国商会警告：安哥拉逾270亿美元中国投资面临风险"
-    },
-    {
-      "title": "Ministério cria três novas delegações aduaneiras para maximizar receitas fiscais",
-      "url": "https://correiokianda.info/governo-cria-tres-novas-delegacoes-aduaneiras-para-maximizar-receitas-fiscais/",
-      "source": "Correio Kianda",
-      "_key": "3a73d41f021797bd",
-      "score": 9,
-      "title_cn": "财政部新设三处海关代表处，旨在最大化税收"
-    },
-    {
-      "title": "Economia Financiamento da economia ganha novas linhas de crédito ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679485/financiamento-da-economia-ganha-novas-linhas-de-cr%C3%A9dito",
-      "source": "Jornal de Angola",
-      "_key": "1b6adca1d56c8ec4",
-      "score": 9,
-      "title_cn": "经济融资获新信贷额度"
-    },
-    {
-      "title": "ZEE expansion to boost employment at around 30,000 jobs",
-      "url": "https://www.angop.ao/en/noticias/economia/expansao-da-zee-podera-elevar-emprego-para-cerca-de-30-mil-postos/",
-      "source": "ANGOP",
-      "_key": "61d0943fa981a7c4",
-      "score": 8,
-      "title_cn": "经济特区扩建预计将新增约3万个就业岗位"
-    },
-    {
-      "title": "More than 50,000 taxpayers adhere to electronic invoicing in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/",
-      "source": "ANGOP",
-      "_key": "40159410fa9df2fe",
-      "score": 8,
-      "title_cn": "安哥拉逾5万纳税人采用电子发票"
-    },
-    {
-      "title": "Centralidade Vida Pacífica vive onda de assaltos e moradores exigem reforço da segurança",
-      "url": "https://correiokianda.info/centralidade-vida-pacifica-vive-onda-de-assaltos-e-moradores-exigem-reforco-da-seguranca/",
-      "source": "Correio Kianda",
-      "_key": "88d5076a720b4323",
-      "score": 8,
-      "title_cn": "Vida Pacífica（和平生活）住宅区抢劫频发，居民要求加强安保"
-    },
-    {
-      "title": "Ataque à petroleiro no Estreito de Ormuz agrava tensão entre Irão e EUA",
-      "url": "https://correiokianda.info/ataque-a-petroleiro-no-estreito-de-ormuz-agrava-tensao-entre-irao-e-eua/",
-      "source": "Correio Kianda",
-      "_key": "7dc882cee78d22d4",
-      "score": 8,
-      "title_cn": "霍尔木兹海峡油轮遇袭，伊朗与美国紧张局势加剧"
-    },
-    {
-      "title": "Ministério das Finanças de Angola garante 246 milhões de dólares para reabilitação da estrada Mavinga-Rivungo",
-      "url": "https://holdonangola.com/ministerio-das-financas-de-angola-garante-246-milhoes-de-dolares-para-reabilitacao-da-estrada-mavinga-rivungo/",
-      "source": "Hold On Angola",
-      "_key": "25082c94dbca9412",
-      "score": 8,
-      "title_cn": "安哥拉财政部拨款2.46亿美元修复Mavinga-Rivungo公路"
-    },
-    {
-      "title": "Aposta dos empresários na ZEE projecta 18 mil novos empregosA Zona Económica Especial (ZEE) projecta expandir a sua força de trabalho dos actuais 12 mil para cerca de 30 mil postos de emprego. Este crescimento será impulsionado pela activação dos projectos em curso e pela atracção de novos investimentos para o pólo industrial.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679483/aposta-dos-empres%C3%A1rios-na-zee-projecta-18-mil-novos-empregos",
-      "source": "Jornal de Angola",
-      "_key": "47b6b7ddf87f8de8",
-      "score": 8,
-      "title_cn": "经济特区吸引企业投资，预计新增1.8万至3万个就业岗位"
-    },
-    {
-      "title": "Economia Espanha desembolsa 500 milhões de euros ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679484/espanha-desembolsa-500-milh%C3%B5es-de-euros",
-      "source": "Jornal de Angola",
-      "_key": "ae79f8ddbb453327",
-      "score": 8,
-      "title_cn": "西班牙拨付5亿欧元"
-    },
-    {
-      "title": "Sogester takes over management of Soyo River Terminal",
-      "url": "https://www.angop.ao/en/noticias/economia/sogester-assume-gestao-do-terminal-fluvial-do-soyo/",
-      "source": "ANGOP",
-      "_key": "b7002c71d1d09335",
+      "title": "Dívida púbica angolana cresceu para quase 60 mil milhões de euros no último trimestre de 2025",
+      "url": "https://jornaloguardiao.com/2026/06/26/divida-pubica-angolana-cresceu-para-quase-60-mil-milhoes-de-euros-no-ultimo-trimestre-de-2025/",
+      "source": "Jornal O Guardião",
+      "_key": "17ad2371bf348cf6",
       "score": 7,
-      "title_cn": "Sogester接管索约河码头管理权"
+      "title_cn": "安哥拉公共债务在2025年第四季度增至近600亿欧元"
     },
     {
-      "title": "Luau: Quando a Indústria e o Comércio se tornam motores da transformação económica de Angola - Arsénio Bumba",
-      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60599:luau-quando-a-industria-e-o-comercio-se-tornam-motores-da-transformacao-economica-de-angola-arsenio-bumba&catid=17:opiniao&lang=pt&Itemid=1067",
-      "source": "Club K",
-      "_key": "69ca97385fce2f9b",
+      "title": " Dívida púbica angolana cresceu para quase 60 mil milhões de euros no último trimestre de 2025 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_581ac9d5382f25",
       "score": 7,
-      "title_cn": "Arsénio Bumba（阿塞尼奥·本巴）：工业与商业是安哥拉经济转型的引擎"
+      "title_cn": "安哥拉公共债务在2025年第四季度增至近600亿欧元"
     },
     {
-      "title": "Ministro desafia empresários a investir na industrialização local da agricultura",
-      "url": "https://correiokianda.info/ministro-desafia-empresarios-a-investir-na-industrializacao-local-da-agricultura/",
+      "title": "Economia / Há 1 dia Angola arrecada mais de 2,7 mil milhões de dólares em concessões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679546/angola-arrecada-mais-de-27-mil-milh%C3%B5es-de-d%C3%B3lares-em-concess%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "86f26780e31a93ce",
+      "score": 7,
+      "title_cn": "安哥拉特许权收入超27亿美元"
+    },
+    {
+      "title": "Governo líquida dívidas atrasadas com prestadores de serviços previstas para 2025",
+      "url": "https://correiokianda.info/governo-liquida-dividas-atrasadas-com-prestadores-de-servicos-previstas-para-2025/",
       "source": "Correio Kianda",
-      "_key": "4c338b5945e4d60a",
-      "score": 7,
-      "title_cn": "部长鼓励企业家投资农业本地工业化"
+      "_key": "7a971fe9b5a600f8",
+      "score": 6,
+      "title_cn": "政府清偿2025年服务商逾期债务"
     },
     {
-      "title": "Economia / Há 23 minutos Adiado Fórum Africano dos Fundos Soberanos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679487/adiado-f%C3%B3rum-africano-dos-fundos-soberanos",
+      "title": "Diamantífera estatal angolana arrecada 21,7 milhões de dólares com venda de 35 diamantes",
+      "url": "https://jornaloguardiao.com/2026/06/26/diamantifera-estatal-angolana-arrecada-217-milhoes-de-dolares-com-venda-de-35-diamantes/",
+      "source": "Jornal O Guardião",
+      "_key": "58656e75f73b067d",
+      "score": 6,
+      "title_cn": "安哥拉国有钻石公司出售35颗钻石获利2170万美元"
+    },
+    {
+      "title": " Diamantífera estatal angolana arrecada 21,7 milhões de dólares com venda de 35 diamantes ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_cdc9b5e5ab2399",
+      "score": 6,
+      "title_cn": "安哥拉国有钻石公司出售35颗钻石获利2170万美元"
+    },
+    {
+      "title": "Economia / Há 1 dia Potencial económico nacional mobiliza incentivos para jovens ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679548/potencial-econ%C3%B3mico-nacional-mobiliza-incentivos-para-jovens",
       "source": "Jornal de Angola",
-      "_key": "5d5dc29ae84e471e",
-      "score": 7,
-      "title_cn": "非洲主权财富基金论坛延期"
-    },
-    {
-      "title": "Manutenção na rede eléctrica deixa várias zonas do Bengo sem energia",
-      "url": "https://www.opais.ao/sociedade/manutencao-na-rede-electrica-deixa-varias-zonas-do-bengo-sem-energia/",
-      "source": "O País",
-      "_key": "9cc6eb27a33cc6a3",
-      "score": 7,
-      "title_cn": "本戈省多地因电网维护停电"
-    },
-    {
-      "title": "Presidente da República autoriza construção do Estádio Nacional de Futebol da Lunda-Sul",
-      "url": "https://www.opais.ao/desporto/presidente-da-republica-autoriza-construcao-do-estadio-nacional-de-futebol-da-lunda-sul/",
-      "source": "O País",
-      "_key": "54f1013c29aa8b63",
-      "score": 7,
-      "title_cn": "总统批准建设南隆达国家足球场"
-    },
-    {
-      "title": "Huambo province seeks solutions to boost agricultural production",
-      "url": "https://www.angop.ao/en/noticias/agricultura/huambo-busca-solucoes-no-iia-para-aumento-da-producao-agricola/",
-      "source": "ANGOP",
-      "_key": "468f1574baeb6f20",
-      "score": 6,
-      "title_cn": "万博省寻求方案提振农业生产"
-    },
-    {
-      "title": "Health officials warn families to redouble preventive measures against respiratory illnesses",
-      "url": "https://www.angop.ao/en/noticias/saude/medico-alerta-familias-para-redobrarem-medidas-contra-doencas-respiratorias/",
-      "source": "ANGOP",
-      "_key": "9bd6091dd3996b8b",
-      "score": 6,
-      "title_cn": "卫生官员警告家庭加强呼吸道疾病预防措施"
-    },
-    {
-      "title": "Comunidades passam a ter papel central no desenvolvimento agrícola no Leste",
-      "url": "https://correiokianda.info/comunidades-passam-a-ter-papel-central-no-desenvolvimento-agricola-no-leste/",
-      "source": "Correio Kianda",
-      "_key": "bbec7ed2d3f162cc",
-      "score": 6,
-      "title_cn": "东部地区社区将在农业发展中发挥核心作用"
-    },
-    {
-      "title": "Já podemos começar a dizer adeus, João Lourenço",
-      "url": "https://holdonangola.com/ja-podemos-comecar-a-dizer-adeus-joao-lourenco/",
-      "source": "Hold On Angola",
-      "_key": "bddb04ac6fa1afb5",
-      "score": 6,
-      "title_cn": "我们可以开始告别了，若昂·洛伦索（João Lourenço）"
-    },
-    {
-      "title": "Economia / Há 22 minutos Cunene: Loteamento de perímetros garante uma melhor gestão ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679489/cunene:-loteamento-de-per%C3%ADmetros-garante-uma-melhor-gest%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "015ecb4b08269b4b",
-      "score": 6,
-      "title_cn": "库内内省：地块划分确保更好管理"
-    },
-    {
-      "title": "Economia / Há 23 minutos Virei pretende valorização das rochas ornamentais ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679488/virei-pretende-valoriza%C3%A7%C3%A3o-das-rochas-ornamentais",
-      "source": "Jornal de Angola",
-      "_key": "bf168f6ebaf99a5e",
-      "score": 6,
-      "title_cn": "Virei（维雷）旨在提升观赏石价值"
-    },
-    {
-      "title": "More than 200 exhibitors participate in Expo/Cuanza-Norte 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/mais-de-200-expositores-participam-na-expo-cuanza-norte-2026/",
-      "source": "ANGOP",
-      "_key": "d8144f53c287f081",
+      "_key": "79b71bccb12077e7",
       "score": 5,
-      "title_cn": "2026年北宽扎博览会吸引逾200家参展商"
-    },
-    {
-      "title": "Economia Exposição de 70 toneladas marca a 1.ª edição da feira ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679486/exposi%C3%A7%C3%A3o-de-70-toneladas-marca-a-1.%C2%AA-edi%C3%A7%C3%A3o-da-feira",
-      "source": "Jornal de Angola",
-      "_key": "a2fa5fc2170a4745",
-      "score": 5,
-      "title_cn": "70吨展品亮相首届博览会"
-    },
-    {
-      "title": "Administração da Camama desactiva casas de pesagem irregulares",
-      "url": "https://www.opais.ao/ultima_hora/administracao-da-camama-desactiva-casas-de-pesagem-irregulares/",
-      "source": "O País",
-      "_key": "8880aafab7f36c6a",
-      "score": 5,
-      "title_cn": "Camama（卡马马）行政区取缔非法称重站"
+      "title_cn": "国家经济潜力激发青年发展动力"
     }
   ]
 }
