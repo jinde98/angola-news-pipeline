@@ -1,48 +1,456 @@
 {
-  "date": "2026-06-28",
-  "total_new": 18,
-  "total_filtered": 5,
+  "date": "2026-06-29",
+  "total_new": 181,
+  "total_filtered": 56,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Projecto de visto único regional da SADC avança e Angola integra fase piloto",
-      "url": "https://correiokianda.info/projecto-de-visto-unico-regional-da-sadc-avanca-e-angola-integra-fase-piloto/",
+      "title": "Câmara de Comércio Angola-China denuncia casos de fraudes na obtenção de terras para investimento",
+      "url": "https://correiokianda.info/camara-de-comercio-angola-china-denuncia-casos-de-fraudes-na-obtencao-de-terras-para-investimento/",
       "source": "Correio Kianda",
-      "_key": "d88650afbff23f64",
+      "_key": "2954eae204992c8a",
+      "score": 10,
+      "title_cn": "安哥拉-中国商会谴责投资土地获取欺诈行为"
+    },
+    {
+      "title": "Política MPLA destaca laços com Partido Comunista Chinês ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679567/mpla-destaca-la%C3%A7os-com--partido-comunista-chin%C3%AAs",
+      "source": "Jornal de Angola",
+      "_key": "6e632d5efc8a9439",
+      "score": 10,
+      "title_cn": "安人运（MPLA）强调与中国共产党的关系"
+    },
+    {
+      "title": "MPLA e Partido Comunista da China reforçam parceria estratégica",
+      "url": "https://www.opais.ao/politica/mpla-e-partido-comunista-da-china-reforcam-parceria-estrategica/",
+      "source": "O País",
+      "_key": "9952c7482fa362c8",
+      "score": 10,
+      "title_cn": "安人运（MPLA）与中国共产党加强战略伙伴关系"
+    },
+    {
+      "title": "Angola's oil and diamond exports to generate USD 31 billion in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/exportacao-de-petroleo-e-diamante-rende-usd-31-mil-milhoes-em-2025/",
+      "source": "ANGOP",
+      "_key": "a8b64cb663f58704",
       "score": 9,
-      "title_cn": "SADC区域单一签证项目推进，安哥拉加入试点"
+      "title_cn": "安哥拉2025年石油和钻石出口预计创收310亿美元"
     },
     {
-      "title": "Parlamento aprova Imposto sobre Rendimento das Pessoas Singulares",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34568-parlamento-aprova-imposto-sobre-rendimento-das-pessoas-singulares",
+      "title": "Dívida púbica angolana cresceu para quase €60 mil milhões no último trimestre de 2025",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34572-divida-pubica-angolana-cresceu-para-quase-60-mil-milhoes-no-ultimo-trimestre-de-2025",
       "source": "Angola 24 Horas",
-      "_key": "e4d9a6c8c3348bcd",
+      "_key": "699c2f6f6d602941",
+      "score": 9,
+      "title_cn": "安哥拉公共债务在2025年第四季度增至近600亿欧元"
+    },
+    {
+      "title": "Governo cria três novas delegações aduaneiras para reforçar fiscalização",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34577-governo-cria-tres-novas-delegacoes-aduaneiras-para-reforcar-fiscalizacao",
+      "source": "Angola 24 Horas",
+      "_key": "b067fa2496eb0d25",
+      "score": 9,
+      "title_cn": "安哥拉政府设立三个新海关代表处以加强监管"
+    },
+    {
+      "title": "Governo encaixa 31 mil milhões de dólares com exportação de petróleo e diamante em 2025",
+      "url": "https://correiokianda.info/governo-encaixa-31-mil-milhoes-de-dolares-com-exportacao-de-petroleo-e-diamante-em-2025/",
+      "source": "Correio Kianda",
+      "_key": "f47a2832aee0d6bf",
+      "score": 9,
+      "title_cn": "安哥拉政府2025年石油和钻石出口收入310亿美元"
+    },
+    {
+      "title": "“Expansão da Zona Económica Especial prevê criação de até 30 mil postos de trabalho”, garantem autoridades",
+      "url": "https://correiokianda.info/expansao-da-zona-economica-especial-preve-criacao-de-ate-30-mil-postos-de-trabalho-garantem-autoridades/",
+      "source": "Correio Kianda",
+      "_key": "9f0e14e203da2169",
+      "score": 9,
+      "title_cn": "官方：经济特区扩建预计创造多达3万个就业岗位"
+    },
+    {
+      "title": "        África14 horas atrás  China doa 30 milhões de dólares à Namíbia para projectos de desenvolvimento A Namíbia e a República Popular da China assinaram, na capital Windhoek, um importante acordo de financiamento sob a forma de doação no valor de 486...   ",
+      "url": "https://correiokianda.info/china-doa-30-milhoes-de-dolares-a-namibia-para-projectos-de-desenvolvimento/",
+      "source": "Correio Kianda",
+      "_key": "182a45d5f16964c4",
+      "score": 9,
+      "title_cn": "中国向纳米比亚捐赠3000万美元用于发展项目"
+    },
+    {
+      "title": "Trégua entre EUA e Irão impulsiona petróleo no arranque da semana",
+      "url": "https://expansao.co.ao/economia/detalhe/tregua-entre-eua-e-irao-impulsiona-petroleo-no-arranque-da-semana-72876.html",
+      "source": "Expansão",
+      "_key": "b9cedb50b0724676",
+      "score": 9,
+      "title_cn": "美伊停火推动本周油价上涨"
+    },
+    {
+      "title": "Exportação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=85953",
+      "source": "ANGOP",
+      "_key": "dd4a978dcb2ed07c",
       "score": 8,
-      "title_cn": "国民议会批准个人所得税法案"
+      "title_cn": "出口"
     },
     {
-      "title": "Deputados aprovam revisão da Lei de Prevenção e Combate ao Branqueamento de Capitais",
-      "url": "https://www.opais.ao/politica/deputados-aprovam-revisao-da-lei-de-prevencao-e-combate-ao-branqueamento-de-capitais/",
+      "title": "Manager advocates for investment increase in Southern Africa infrastructures",
+      "url": "https://www.angop.ao/en/noticias/economia/gestor-advoga-reforco-de-investimento-em-infra-estruturas-na-africa-austral/",
+      "source": "ANGOP",
+      "_key": "ff9e3fa94390cd56",
+      "score": 8,
+      "title_cn": "经理呼吁增加南部非洲基础设施投资"
+    },
+    {
+      "title": "        Sociedade3 semanas atrás  Concurso público abre vagas para Polícia, SIC e Migração    ",
+      "url": "https://correiokianda.info/concurso-publico-abre-vagas-para-policia-sic-e-migracao/",
+      "source": "Correio Kianda",
+      "_key": "dc973b326595fa7e",
+      "score": 8,
+      "title_cn": "公开招聘为警察、刑事调查局和移民局提供职位"
+    },
+    {
+      "title": "Sodiam arrecada 21,7 milhões de dólares com venda de 35 diamantes especiais",
+      "url": "https://diariodosnegocios.com/sodiam-arrecada-217-milhoes-de-dolares-com-venda-de-35-diamantes-especiais/",
+      "source": "Diário dos Negócios",
+      "_key": "6f522a994aa16ed6",
+      "score": 8,
+      "title_cn": "Sodiam 销售 35 颗特殊钻石筹集 2170 万美元"
+    },
+    {
+      "title": " Sodiam arrecada 21,7 milhões de dólares com venda de 35 diamantes especiais ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_d192e6feb86b08",
+      "score": 8,
+      "title_cn": "Sodiam出售35颗特殊钻石获利2170万美元"
+    },
+    {
+      "title": "Angola só concluiu um dos seis compromissos assumidos com o GAFI",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c45b6cc1cefb2a",
+      "score": 8,
+      "title_cn": "安哥拉仅完成对金融行动特别工作组（GAFI）六项承诺中的一项"
+    },
+    {
+      "title": "Lucros da Sodiam com queda de 67% para 6,8 milhões USD",
+      "url": "https://expansao.co.ao/empresas/detalhe/lucros-da-sodiam-com-queda-de-67-para-68-milhoes-usd-72869.html",
+      "source": "Expansão",
+      "_key": "837536038bc11ac5",
+      "score": 8,
+      "title_cn": "Sodiam利润暴跌67%至680万美元"
+    },
+    {
+      "title": "Bilhetes para o Doing Business Angola 2026 já estão disponíveis",
+      "url": "https://forbesafricalusofona.com/bilhetes-para-o-doing-business-angola-2026-ja-estao-disponiveis/",
+      "source": "Forbes África",
+      "_key": "3d87b0555e37abf3",
+      "score": 8,
+      "title_cn": "2026年安哥拉营商环境大会门票已开售"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: PAGARAM APENAS MÉDIA DE 11% DE IMPOSTO SOBRE LUCROS. Banca com \"benefícios fiscais\" de 263 mil milhões KZ em 2025.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=72884",
+      "source": "Novo Jornal",
+      "_key": "d140691802f6e02e",
+      "score": 8,
+      "title_cn": "银行2025年享2630亿宽扎税收优惠，平均仅缴11%利润税"
+    },
+    {
+      "title": "Cerca de 80% das empresas privadas no Bengo não tem trabalhadores inscritos no INSS",
+      "url": "https://www.opais.ao/economia/cerca-de-80-das-empresas-privadas-no-bengo-nao-tem-trabalhadores-inscritos-no-inss/",
       "source": "O País",
-      "_key": "623e26a24dbb0c65",
+      "_key": "2939da7907444398",
+      "score": 8,
+      "title_cn": "本戈省约八成私企未为员工办理社保登记"
+    },
+    {
+      "title": "SIC detém três cidadãos estrangeiros por auxílio ao garimpo ilegal de ouro no Bengo",
+      "url": "https://www.opais.ao/ultima_hora/sic-detem-tres-cidadaos-estrangeiros-por-auxilio-ao-garimpo-ilegal-de-ouro-no-bengo/",
+      "source": "O País",
+      "_key": "4273e8eb5098874e",
+      "score": 8,
+      "title_cn": "SIC 逮捕三名协助本戈非法采金的外国公民"
+    },
+    {
+      "title": "Gestor angolano recebe diploma de mestrado da Tsinghua",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60603:gestor-angolano-recebe-diploma-de-mestrado-da-tsinghua&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "11d68c7d81832fde",
       "score": 7,
-      "title_cn": "议员批准修订《预防和打击洗钱法》"
+      "title_cn": "安哥拉经理获清华大学硕士学位"
     },
     {
-      "title": "Ministra aponta vantagens da regularização de Angola na OMI",
-      "url": "https://www.opais.ao/economia/ministra-aponta-vantagens-da-regularizacao-de-angola-na-omi/",
-      "source": "O País",
-      "_key": "419c9de5fe34cbcd",
+      "title": "Terminal Fluvial de Passageiros do Soyo passa a gestão privada quatro anos após a sua inauguração",
+      "url": "https://correiokianda.info/terminal-fluvial-de-passageiros-do-soyo-passa-a-gestao-privada-com-foco-na-integracao-regional/",
+      "source": "Correio Kianda",
+      "_key": "71651314dc884e31",
+      "score": 7,
+      "title_cn": "索约河运客运码头启用四年后转为私营管理"
+    },
+    {
+      "title": "“Combate à corrupção no sector da Justiça enfrenta obstáculos internos”, defendem analistas.",
+      "url": "https://correiokianda.info/combate-a-corrupcao-no-sector-da-justica-enfrenta-obstaculos-internos-defendem-analistas/",
+      "source": "Correio Kianda",
+      "_key": "c1073760d6a7098f",
+      "score": 7,
+      "title_cn": "分析师：司法部门反腐面临内部障碍"
+    },
+    {
+      "title": "UniVisa da SADC: Angola diante da oportunidade geopolítica que pode redefinir a integração da África Austral",
+      "url": "https://correiokianda.info/univisa-da-sadc-angola-diante-da-oportunidade-geopolitica-que-pode-redefinir-a-integracao-da-africa-austral/",
+      "source": "Correio Kianda",
+      "_key": "431fce29b31c05c9",
+      "score": 7,
+      "title_cn": "南共体统一签证：安哥拉面临重塑南部非洲一体化的地缘政治机遇"
+    },
+    {
+      "title": "        África6 horas atrás  Economista defende equilíbrio entre mobilidade e segurança financeira na SADC O economista José Lumbo defende que a implementação do SADC UniVisa, projecto que prevê a criação de um visto único para a Comunidade de Desenvolvimento da...   ",
+      "url": "https://correiokianda.info/economista-defende-equilibrio-entre-mobilidade-e-seguranca-financeira-na-sadc/",
+      "source": "Correio Kianda",
+      "_key": "004c24b5423a6a88",
+      "score": 7,
+      "title_cn": "经济学家若泽·隆博（José Lumbo）倡导南共体统一签证平衡流动与金融安全"
+    },
+    {
+      "title": "Sogester assume gestão do Terminal Fluvial do Soyo por um período de 20 anos",
+      "url": "https://diariodosnegocios.com/sogester-assume-gestao-do-terminal-fluvial-do-soyo-por-um-periodo-de-20-anos/",
+      "source": "Diário dos Negócios",
+      "_key": "f56d5a851e1e0a98",
+      "score": 7,
+      "title_cn": "Sogester公司接管索约河运码头20年管理权"
+    },
+    {
+      "title": " Sogester assume gestão do Terminal Fluvial do Soyo por um período de 20 anos ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b82fc6636e2373",
+      "score": 7,
+      "title_cn": "Sogester公司接管索约河运码头20年管理权"
+    },
+    {
+      "title": "Aviso 10 do BNA já vale 70% do crédito à economia real",
+      "url": "https://expansao.co.ao/economia/detalhe/aviso-10-do-bna-ja-vale-70-do-credito-a-economia-real-72867.html",
+      "source": "Expansão",
+      "_key": "f6c49f6303efc737",
+      "score": 7,
+      "title_cn": "安哥拉国家银行（BNA）第10号通知已占实体经济信贷的70%"
+    },
+    {
+      "title": "Governo angolano quer mais investimentos na indústria marítima",
+      "url": "https://forbesafricalusofona.com/governo-angolano-quer-mais-investimentos-na-industria-maritima/",
+      "source": "Forbes África",
+      "_key": "c5f92ac0b07dc0c7",
+      "score": 7,
+      "title_cn": "安哥拉政府寻求更多海事产业投资"
+    },
+    {
+      "title": "Destaque Prazo para pagamento do Imposto sobre Veículos Motorizados termina esta terça-feiraO prazo para o pagamento do Imposto sobre Veículos Motorizados (IVM) termina esta terça-feira, informou a Administração Geral Tributária (AGT).",
+      "url": "https://www.jornaldeangola.ao/noticias/41/not%C3%ADcias/679619/prazo-para-pagamento-do-imposto-sobre-ve%C3%ADculos-motorizados-termina-esta-ter%C3%A7a-feira",
+      "source": "Jornal de Angola",
+      "_key": "7bd8b1f2679abeb1",
+      "score": 7,
+      "title_cn": "机动车税（IVM）缴费截止日期为本周二"
+    },
+    {
+      "title": "Prazo para o pagamento do IVM termina amanhã: AGT avisa...",
+      "url": "https://valoreconomico.co.ao/artigo/prazo-para-o-pagamento-do-ivm-termina-amanha-agt-avisa-que-atrasos-dao-multas-ate-25",
+      "source": "Valor Económico",
+      "_key": "0db259be3ffb7a37",
+      "score": 7,
+      "title_cn": "税务总局（AGT）警告：机动车税（IVM）缴费截止日期为明日"
+    },
+    {
+      "title": "Energia sustentável",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=303794",
+      "source": "ANGOP",
+      "_key": "2d8c5d4499607ba5",
       "score": 6,
-      "title_cn": "部长指出安哥拉在国际海事组织地位正常化的优势"
+      "title_cn": "可持续能源"
     },
     {
-      "title": "Cuanza-Norte prevê colher mais de 800 toneladas de café",
-      "url": "https://www.opais.ao/economia/cuanza-norte-preve-colher-mais-de-800-toneladas-de-cafe/",
+      "title": "SIC dismantles alleged group of criminals in Bié province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-no-bie-desmantela-grupo-de-supostos-marginais/",
+      "source": "ANGOP",
+      "_key": "8e7f9e4343d49ddf",
+      "score": 6,
+      "title_cn": "刑事调查局（SIC）在比耶省捣毁一犯罪团伙"
+    },
+    {
+      "title": "UNITA acusa Executivo de perder combate ao lobby da importação e critica dependência do endividamento",
+      "url": "https://angola24horas.com/politica/item/34578-unita-acusa-executivo-de-perder-combate-ao-lobby-da-importacao-e-critica-dependencia-do-endividamento",
+      "source": "Angola 24 Horas",
+      "_key": "887be3b7e79b95ac",
+      "score": 6,
+      "title_cn": "安盟（UNITA）指责政府在进口游说战中失利，批评过度依赖债务"
+    },
+    {
+      "title": "Presidente da ANEMP nega acusações de ocupação de terrenos no Kilamba e aponta esquema de invasores da Cooperativa de Antigos Combatentes",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60605:presidente-da-anemp-nega-acusacoes-de-ocupacao-de-terrenos-no-kilamba-e-aponta-esquema-de-invasores-da-cooperativa-de-antigos-combatentes&catid=2:sociedade&lang=pt&Itemid=1069",
+      "source": "Club K",
+      "_key": "caae25d862689345",
+      "score": 6,
+      "title_cn": "ANEMP主席否认占领基兰巴土地指控，指退伍军人合作社入侵"
+    },
+    {
+      "title": "Cuanza-Norte: Cidade de N'dalatando acelera transformação urbana com obras estruturantes em vários sectores",
+      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60601:cuanza-norte-cidade-de-n-dalatando-acelera-transformacao-urbana-com-obras-estruturantes-em-varios-sectores&catid=41026:nacional&lang=pt&Itemid=1083",
+      "source": "Club K",
+      "_key": "fd88553675453907",
+      "score": 6,
+      "title_cn": "北宽扎省恩达拉坦多市通过多领域结构工程加速城市转型"
+    },
+    {
+      "title": "África do Sul: Como é que o governo está a responder à xenofobia?",
+      "url": "https://www.dw.com/pt-002/áfrica-do-sul-como-é-que-o-governo-está-a-responder-à-xenofobia/a-77748471?maca=por-RSS_VAF_Club-K-22869-xml-cb",
+      "source": "Club K",
+      "_key": "87c338f10339e4bd",
+      "score": 6,
+      "title_cn": "南非 ： 政府如何应对仇外心理 ？"
+    },
+    {
+      "title": "Detidos suspeitos da morte do Agente da Polícia no Sambizanga",
+      "url": "https://correiokianda.info/detidos-suspeitos-da-morte-do-agente-da-policia-no-sambizanga/",
+      "source": "Correio Kianda",
+      "_key": "210528d8702b23af",
+      "score": 6,
+      "title_cn": "桑比赞加警察遇害案嫌疑人被捕"
+    },
+    {
+      "title": "Tundavala: o gigante de 69 milhões de dólares que a CAF rejeitou",
+      "url": "https://diariodosnegocios.com/tundavala-o-gigante-de-69-milhoes-de-dolares-que-a-caf-rejeitou/",
+      "source": "Diário dos Negócios",
+      "_key": "0d273549a7fbdcc9",
+      "score": 6,
+      "title_cn": "图恩达瓦拉：非洲足联（CAF）拒绝的6900万美元巨额项目"
+    },
+    {
+      "title": " Tundavala: o gigante de 69 milhões de dólares que a CAF rejeitou ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_4a7454d4a2f910",
+      "score": 6,
+      "title_cn": "图恩达瓦拉：非洲足联（CAF）拒绝的6900万美元巨额项目"
+    },
+    {
+      "title": "Índice de preços do INE imune às oscilações no mercado de cimento",
+      "url": "https://expansao.co.ao/angola/detalhe/indice-de-precos-do-ine-imune-as-oscilacoes-no-mercado-de-cimento-72873.html",
+      "source": "Expansão",
+      "_key": "b507cd76b2834f98",
+      "score": 6,
+      "title_cn": "国家统计局（INE）价格指数不受水泥市场波动影响"
+    },
+    {
+      "title": "SODIAM arrecada 21,7 milhões USD com venda de 6.586,89 quilates, apesar da baixa procura",
+      "url": "https://forbesafricalusofona.com/sodiam-arrecada-217-milhoes-de-dolares-com-venda-de-6-58689-quilates-apesar-da-baixa-procura/",
+      "source": "Forbes África",
+      "_key": "f2da395b937b0d9a",
+      "score": 6,
+      "title_cn": "尽管需求低迷，Sodiam仍通过出售6586.89克拉钻石获利2170万美元"
+    },
+    {
+      "title": "Terminal Fluvial de passageiros do Soyo entregue à nova gestãoA entrega oficial do Terminal Fluvial de Passageiros do Soyo à Sociedade Gestora de Terminais (Sogester), vencedora do concurso público para a gestão lançado pelo Executivo angolano em Abril de 2026, foi efectivada no sábado.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679575/terminal-fluvial-de-passageiros--do-soyo-entregue-%C3%A0-nova-gest%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "54f32dfea3c05a8b",
+      "score": 6,
+      "title_cn": "索约河运客运码头移交Sogester公司管理"
+    },
+    {
+      "title": "Destaque ANGOTIC e a transformação digital para além da qualidade do sinal de internetO debate em torno do sector das telecomunicações em Angola constitui um importante exercício de cidadania e um contributo para o aperfeiçoamento das políticas públicas, a análise dos desafios do sector exige uma compreensão abrangente dos conceitos de transformação digital, soberania tecnológica e desenvolvimento da economia digital.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679622/angotic-e-a-transforma%C3%A7%C3%A3o-digital-para-al%C3%A9m-da-qualidade-do-sinal-de-internet",
+      "source": "Jornal de Angola",
+      "_key": "a21126f4a2c65d2e",
+      "score": 6,
+      "title_cn": "ANGOTIC与超越网络信号质量的数字化转型"
+    },
+    {
+      "title": "Economia / Há 3 horas Mitrelli reafirma compromisso com diversificação económica ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679580/mitrelli-reafirma-compromisso-com-diversifica%C3%A7%C3%A3o-econ%C3%B3mica",
+      "source": "Jornal de Angola",
+      "_key": "ebaf753d5b56edaf",
+      "score": 6,
+      "title_cn": "Mitrelli重申致力于经济多元化"
+    },
+    {
+      "title": "PONTO E CONTRAPONTO: ELEIÇÕES GERAIS 2027. Inquietações e contribuições em tempo útil.",
+      "url": "https://marginal.co.ao/programas/ponto-de-vista?ep=72872",
+      "source": "Novo Jornal",
+      "_key": "cfe29526e74d87af",
+      "score": 6,
+      "title_cn": "2027年大选：及时关注与贡献"
+    },
+    {
+      "title": "Polícia Nacional no Bengo detém mais de 30 cidadãos por exploração ilegal de ouro",
+      "url": "https://www.opais.ao/ultima_hora/policia-nacional-no-bengo-detem-mais-de-30-cidadaos-por-exploracao-ilegal-de-ouro/",
       "source": "O País",
-      "_key": "aa058b1fd541a906",
+      "_key": "d8eaf194d2328e60",
+      "score": 6,
+      "title_cn": "本戈省国家警察逮捕30多名非法采金公民"
+    },
+    {
+      "title": "Mozambican Ambassador praises ties with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/embaixadora-de-mocambique-exalta-lacos-com-angola/",
+      "source": "ANGOP",
+      "_key": "176ffaee57231b7d",
       "score": 5,
-      "title_cn": "宽扎北省预计收获逾800吨咖啡"
+      "title_cn": "莫桑比克大使赞扬与安哥拉的关系"
+    },
+    {
+      "title": "Angolan Consulate General in Katanga to attract private investment",
+      "url": "https://www.angop.ao/en/noticias/economia/consulado-geral-de-angola-em-katanga-procura-captar-investimentos/",
+      "source": "ANGOP",
+      "_key": "89acfbb0f9cf5ed1",
+      "score": 5,
+      "title_cn": "安哥拉驻加丹加总领事馆将吸引私人投资"
+    },
+    {
+      "title": "Air Algérie launches direct flights to Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/aiaan-recebe-voo-inaugural-da-air-algeire-e-fortalece-integracao-africana/",
+      "source": "ANGOP",
+      "_key": "cdf59bb18c0157d9",
+      "score": 5,
+      "title_cn": "阿尔及利亚航空开通直飞安哥拉航班"
+    },
+    {
+      "title": "Earthquake",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5109",
+      "source": "ANGOP",
+      "_key": "c69f3de3ea2c5b4f",
+      "score": 5,
+      "title_cn": "地震"
+    },
+    {
+      "title": "Autoridades de Talatona descartam fuga de petróleo no subsolo após análise técnica",
+      "url": "https://correiokianda.info/autoridades-de-talatona-descartam-fuga-de-petroleo-no-subsolo-apos-analise-tecnica/",
+      "source": "Correio Kianda",
+      "_key": "e7006939d3957d2c",
+      "score": 5,
+      "title_cn": "塔拉托纳当局经技术分析排除地下石油泄漏"
+    },
+    {
+      "title": "Economia Projecto Agro-mandioca programa 64 milhões de toneladas em cinco anos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679581/projecto-agro-mandioca-programa-64-milh%C3%B5es-de-toneladas-em-cinco-anos",
+      "source": "Jornal de Angola",
+      "_key": "18379b4db8de29d3",
+      "score": 5,
+      "title_cn": "木薯农业项目五年内计划生产6400万吨"
+    },
+    {
+      "title": "Economia / Há 3 horas Regulador confisca pescado juvenil ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679579/regulador-confisca-pescado-juvenil",
+      "source": "Jornal de Angola",
+      "_key": "54b325588c5b3de3",
+      "score": 5,
+      "title_cn": "监管机构没收幼鱼"
+    },
+    {
+      "title": "Agostinho Kapaia left Huambo with nothing and built a $1.4 billion fertilizer empire in Angola",
+      "url": "https://www.negociosdeangola.com/en/agostinho-kapaia-left-huambo-with-nothing-and-built-a-1-4-billion-fertilizer-empire-in-angola/",
+      "source": "Negócios de Angola",
+      "_key": "6d73a24e0a4789dd",
+      "score": 5,
+      "title_cn": "阿戈斯蒂尼奥·卡帕亚（Agostinho Kapaia）白手起家在安哥拉建立14亿美元化肥帝国"
     }
   ]
 }
