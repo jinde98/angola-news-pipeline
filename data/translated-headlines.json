@@ -1,256 +1,400 @@
 {
-  "date": "2026-06-29",
-  "total_new": 63,
-  "total_filtered": 31,
-  "scored_by": "gemini-flash",
+  "date": "2026-06-30",
+  "total_new": 154,
+  "total_filtered": 49,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Subida do preço do petróleo impulsionada pela crise no Médio...",
-      "url": "https://valoreconomico.co.ao/artigo/subida-do-preco-do-petroleo-impulsionada-pela-crise-no-medio-oriente-beneficiou-angola-reconhece-vera-daves",
-      "source": "Valor Económico",
-      "_key": "a448394ca48b65c0",
-      "score": 10,
-      "title_cn": "中东危机推动油价上涨"
+      "title": "AngoMart opens supermarket in Mbanza Kongo City",
+      "url": "https://www.angop.ao/en/noticias/economia/angomart-inaugura-loja-na-cidade-de-mbanza-kongo/",
+      "source": "ANGOP",
+      "_key": "b9e0ac08b607c0b3",
+      "score": 9,
+      "title_cn": "安哥玛特（AngoMart）超市在姆班扎刚果市开业"
     },
     {
-      "title": "Mercado cambial angolano ganha estabilidade com aumento de 23% na oferta de divisas",
-      "url": "https://angola24horas.com/economia/item/34581-mercado-cambial-angolano-ganha-estabilidade-com-aumento-de-23-na-oferta-de-divisas",
+      "title": "Angola usa excedente das receitas do petróleo para financiar o OGE e travar o endividamento",
+      "url": "https://angola24horas.com/economia/item/34582-angola-usa-excedente-das-receitas-do-petroleo-para-financiar-o-oge-e-travar-o-endividamento",
       "source": "Angola 24 Horas",
-      "_key": "d917d7af013d7696",
-      "score": 9,
-      "title_cn": "安哥拉外汇市场趋稳，外汇供应量增23%"
+      "_key": "2c2711cfa560b0a1",
+      "score": 8,
+      "title_cn": "安哥拉用石油收入盈余资助国家预算并遏制债务"
     },
     {
-      "title": "União Europeia investe 50 milhões de euros para dinamizar Corredor do Lobito",
-      "url": "https://correiokianda.info/uniao-europeia-investe-50-milhoes-de-euros-para-dinamizar-corredor-do-lobito/",
+      "title": "Parlamento aprova Imposto sobre Rendimento das Pessoas Singulares",
+      "url": "https://angola24horas.com/politica/item/34568-parlamento-aprova-imposto-sobre-rendimento-das-pessoas-singulares",
+      "source": "Angola 24 Horas",
+      "_key": "e417653584384f86",
+      "score": 8,
+      "title_cn": "议会批准个人所得税法案"
+    },
+    {
+      "title": "Mercados Globais: Petróleo caminha para maior queda trimestral em seis anos",
+      "url": "https://correiokianda.info/mercados-globais-petroleo-caminha-para-maior-queda-trimestral-em-seis-anos-com-avancos-geopoliticos/",
       "source": "Correio Kianda",
-      "_key": "db0f86aff300d53b",
-      "score": 9,
-      "title_cn": "欧盟投资5000万欧元振兴洛比托走廊"
+      "_key": "93d1f116ee8306e6",
+      "score": 8,
+      "title_cn": "全球市场：石油或将创六年来最大季度跌幅"
     },
     {
-      "title": "Destaque Retomada circulação ferroviária entre Lobito e LuenaO regresso da circulação do comboio no troço Lobito, na província de Benguela, até ao Luena, na província do Moxico, após três meses de paralisação, aconteceu esta segunda-feira, com a retoma das viagens de longo curso a partir da Estação Primária do Lobito.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679632/retomada-circula%C3%A7%C3%A3o-ferrovi%C3%A1ria-entre-lobito-e-luena",
+      "title": "Petróleo e diamantes garantiram receitas de 31,3 mil milhões de dólares em 2025",
+      "url": "https://diariodosnegocios.com/petroleo-e-diamantes-garantiram-receitas-de-313-mil-milhoes-de-dolares-em-2025/",
+      "source": "Diário dos Negócios",
+      "_key": "2bec7a3b9fbba644",
+      "score": 8,
+      "title_cn": "2025年安哥拉石油和钻石收入预计达313亿美元"
+    },
+    {
+      "title": "João Lourenço evoca “destino comum” e gratidão histórica nas saudações à RDC pelos 66 anos de Independência",
+      "url": "https://diariodosnegocios.com/joao-lourenco-evoca-destino-comum-e-gratidao-historica-nas-saudacoes-a-rdc-pelos-66-anos-de-independencia/",
+      "source": "Diário dos Negócios",
+      "_key": "280fc7e1913f12a8",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）祝贺刚果（金）独立66周年，强调“共同命运”"
+    },
+    {
+      "title": " Petróleo e diamantes garantiram receitas de 31,3 mil milhões de dólares em 2025 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_50344632ba512a",
+      "score": 8,
+      "title_cn": "2025年安哥拉石油和钻石收入预计达313亿美元"
+    },
+    {
+      "title": " João Lourenço evoca “destino comum” e gratidão histórica nas saudações à RDC pelos 66 anos de Independência ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b142ac7c6900fe",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）祝贺刚果（金）独立66周年，强调“共同命运”"
+    },
+    {
+      "title": "Petróleo prolonga perdas com receios de excesso de oferta",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-prolonga-perdas-com-receios-de-excesso-de-oferta-72912.html",
+      "source": "Expansão",
+      "_key": "e0a9a7e23407bd2c",
+      "score": 8,
+      "title_cn": "供应过剩担忧致油价延续跌势"
+    },
+    {
+      "title": "Angola e EUA rubricam parceria na esfera militarAngola e os Estados Unidos da América (EUA) reforçaram segunda-feira, em Luanda, a cooperação no domínio militar, com a assinatura do Acordo do Programa de Parceria Estatal entre as Forças Armadas Angolanas (FAA) e a Guarda Nacional do estado de Ohio.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679647/angola-e-eua-rubricam-parceria-na-esfera-militar",
       "source": "Jornal de Angola",
-      "_key": "4096381615086a86",
-      "score": 9,
-      "title_cn": "洛比托至卢埃纳铁路恢复通车"
-    },
-    {
-      "title": "Exportações do sector petrolífero e mineiro renderam...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/exportacoes-do-sector-petrolifero-e-mineiro-renderam-a-angola-313-mil-milhoes-usd-em-2025-72889.html",
-      "source": "Novo Jornal",
-      "_key": "a2bf29a79de92714",
-      "score": 9,
-      "title_cn": "安哥拉石油和矿业出口创收"
-    },
-    {
-      "title": "AGT lança novo sistema automatizado com foco na modernização das alfândegas",
-      "url": "https://www.opais.ao/ultima_hora/agt-lanca-novo-sistema-automatizado-com-foco-na-modernizacao-das-alfandegas/",
-      "source": "O País",
-      "_key": "a527b067f2da5136",
-      "score": 9,
-      "title_cn": "安哥拉税务总局推出新自动化系统，聚焦海关现代化"
-    },
-    {
-      "title": "Angola prevê disparar em mais de 500% a produção de...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-preve-disparar-em-mais-de-500-a-producao-de-mandioca-nos-proximos-cinco-anos",
-      "source": "Valor Económico",
-      "_key": "9526943fb704a559",
-      "score": 9,
-      "title_cn": "安哥拉预计产量将增长超500%"
-    },
-    {
-      "title": "“Receitas adicionais do petróleo já foram usadas para financiar OGE”, afirma Governo",
-      "url": "https://correiokianda.info/receitas-adicionais-do-petroleo-ja-foram-usadas-para-financiar-oge-afirma-governo/",
-      "source": "Correio Kianda",
-      "_key": "c1cad08e1a04feb8",
+      "_key": "457358c7038cc437",
       "score": 8,
-      "title_cn": "安哥拉政府：额外石油收入已用于国家预算"
+      "title_cn": "安哥拉与美国在罗安达签署军事合作协议"
     },
     {
-      "title": "Money Card Tecnologia e Ango Digital entre as entidades não habilitadas a exercer actividades de comércio de câmbios em Angola",
-      "url": "https://forbesafricalusofona.com/money-card-tecnologia-e-ango-digital-entre-as-entidades-nao-habilitadas-a-exercer-actividades-de-comercio-de-cambios-em-angola/",
-      "source": "Forbes África",
-      "_key": "2884736bdb8fcabf",
-      "score": 8,
-      "title_cn": "Money Card Tecnologia和Ango Digital等公司未获准在安哥拉从事外汇交易"
-    },
-    {
-      "title": "PCE do Banco Sol recebe diploma em Gestão e Administração de Empresas pela Universidade de Tsinghua da China",
-      "url": "https://www.opais.ao/economia/pce-do-banco-sol-recebe-diploma-em-gestao-e-administracao-de-empresas-pela-universidade-de-tsinghua-da-china/",
-      "source": "O País",
-      "_key": "20486cc7928157f0",
-      "score": 8,
-      "title_cn": "Banco Sol首席执行官获中国清华大学企业管理文凭"
-    },
-    {
-      "title": "Da informalidade à certificação: Angola tenta formalizar 60% da economia",
-      "url": "https://www.dw.com/pt-002/da-informalidade-à-certificação-angola-tenta-formalizar-60-da-economia/a-77748720?maca=por-RSS_VAF_Club-K-22869-xml-cb",
-      "source": "Club K",
-      "_key": "4fbbc4a7b0f17c66",
-      "score": 7,
-      "title_cn": "安哥拉力求将60%的经济活动正规化"
-    },
-    {
-      "title": "Especialistas antevêm impacto político-eleitoral em 2027 devido subida dos preços dos bens e serviços",
-      "url": "https://correiokianda.info/especialistas-antevem-impacto-politico-eleitoral-em-2027-devido-subida-dos-precos-dos-bens-e-servicos/",
-      "source": "Correio Kianda",
-      "_key": "f752b27f7ba1aa9c",
-      "score": 7,
-      "title_cn": "专家预测物价上涨将影响安哥拉2027年大选"
-    },
-    {
-      "title": "Stock de crédito à economia angolana atinge 7,3 biliões de kwanzas em Maio",
-      "url": "https://forbesafricalusofona.com/stock-de-credito-a-economia-angolana-atinge-73-bilioes-de-kwanzas-em-maio/",
-      "source": "Forbes África",
-      "_key": "35e7b8217b9d354a",
-      "score": 7,
-      "title_cn": "5月份安哥拉经济信贷存量达7.3万亿宽扎"
-    },
-    {
-      "title": "Parque de Ciência e Tecnologia de Luanda consome 100 milhões de dólares",
-      "url": "https://forbesafricalusofona.com/parque-de-ciencia-e-tecnologia-de-luanda-consome-100-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "a0e15f2c095094ac",
-      "score": 7,
-      "title_cn": "罗安达科技园耗资1亿美元"
-    },
-    {
-      "title": "Economia Angola participa na Conferência Regional da Zona de Comércio Livre em Abuja ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679629/angola-participa-na-confer%C3%AAncia-regional-da-zona-de-com%C3%A9rcio-livre-em-abuja",
+      "title": "Destaque João Lourenço felicita Presidente da RDC pelo 66.º aniversário da IndependênciaO Chefe de Estado, João Lourenço, felicitou, esta terça-feira, o seu homólogo da República Democrática do Congo (RDC), Félix Antoine Tshisekedi Tshilombo, por ocasião das celebrações do 66.º aniversário da Independência daquele país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679704/jo%C3%A3o-louren%C3%A7o-felicita-presidente-da-rdc-pelo-66.%C2%BA-anivers%C3%A1rio-da-independ%C3%AAncia",
       "source": "Jornal de Angola",
-      "_key": "2b89685c538642d9",
-      "score": 7,
-      "title_cn": "安哥拉参加阿布贾自贸区区域会议"
+      "_key": "5bcef71ef96e8083",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）祝贺刚果（金）独立66周年"
     },
     {
-      "title": "Ministro da Indústria e Comércio participa da Conferência Regional da ZCLCA em Abuja",
-      "url": "https://www.opais.ao/economia/ministro-da-industria-e-comercio-participa-da-conferencia-regional-da-zclca-em-abuja/",
-      "source": "O País",
-      "_key": "3dffed8046c6e9e6",
-      "score": 7,
-      "title_cn": "工贸部长出席阿布贾非洲大陆自贸区区域会议"
-    },
-    {
-      "title": "Angola plans to allocate over AKZ 260.6 billion to contingency plan",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-preve-aplicar-mais-de-260-6-mil-milhoes-de-kwanzas-em-plano-de-contingencia/",
+      "title": "Tax administration expands automated system to Port of Luanda",
+      "url": "https://www.angop.ao/en/noticias/economia/agt-expande-sistema-automatizado-ao-porto-de-luanda/",
       "source": "ANGOP",
-      "_key": "fa47b565963263eb",
-      "score": 6,
-      "title_cn": "安哥拉计划拨款超2606亿宽扎用于应急计划"
+      "_key": "79e1864c0a61b701",
+      "score": 7,
+      "title_cn": "税务管理部门将自动化系统扩展至罗安达港"
     },
     {
-      "title": "Bengo: Mais de trinta detidos por exploração ilegal de ouro",
-      "url": "https://correiokianda.info/bengo-mais-de-trinta-detidos-por-exploracao-ilegal-de-ouro/",
+      "title": "“Caso russos”: Próxima sessão de julgamento reagendada para 6 de Julho",
+      "url": "https://correiokianda.info/caso-russos-proxima-sessao-reagendada-para-6-de-julho/",
       "source": "Correio Kianda",
-      "_key": "f2203c1aa05ac0d5",
-      "score": 6,
-      "title_cn": "本戈省：30余人因非法采金被捕"
+      "_key": "b755566e31e49f5b",
+      "score": 7,
+      "title_cn": "“俄罗斯人案件”下次庭审改期至7月6日"
     },
     {
-      "title": "ARC defende reforço institucional para tornar mercados em Angola mais competitivos",
-      "url": "https://forbesafricalusofona.com/arc-defende-reforco-institucional-para-tornar-mercados-em-angola-mais-competitivos/",
-      "source": "Forbes África",
-      "_key": "ba411149761b63c2",
-      "score": 6,
-      "title_cn": "安哥拉竞争监管局呼吁加强机构建设以提高市场竞争力"
+      "title": "Banco Nacional de Angola alerta para entidades não autorizadas a prestar serviços financeiros",
+      "url": "https://correiokianda.info/banco-nacional-de-angola-alerta-para-entidades-nao-autorizadas-a-prestar-servicos-financeiros/",
+      "source": "Correio Kianda",
+      "_key": "9d856f846e1761e9",
+      "score": 7,
+      "title_cn": "安哥拉国家银行警告未经授权的金融服务实体"
     },
     {
-      "title": "Regiões Malanje ganha duas novas linhas de transporte e distribuição de energia ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679630/malanje-ganha-duas-novas-linhas-de-transporte-e-distribui%C3%A7%C3%A3o-de-energia",
+      "title": "Governo do Cuanza-Sul garante sancionar empresas que não cumprem com execução das obras",
+      "url": "https://correiokianda.info/governo-do-cuanza-sul-garante-sancionar-empresas-que-nao-cumprem-com-execucao-das-obras/",
+      "source": "Correio Kianda",
+      "_key": "2cd1b958ea9fc57d",
+      "score": 7,
+      "title_cn": "南宽扎省政府将制裁未按期完成工程的企业"
+    },
+    {
+      "title": "Lucros da Sodiam com queda de 67% para 6,8 milhões USD",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_4315a636f70712",
+      "score": 7,
+      "title_cn": "Sodiam公司利润下降67%至680万美元"
+    },
+    {
+      "title": "Economia / Há 1 hora BNA anuncia oito entidades não habilitadas a operar ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679677/bna-anuncia-oito-entidades-n%C3%A3o-habilitadas-a-operar-",
       "source": "Jornal de Angola",
-      "_key": "1db1a85c820911f9",
-      "score": 6,
-      "title_cn": "马兰热省新增两条输配电线路"
+      "_key": "8b12680932598ec2",
+      "score": 7,
+      "title_cn": "安哥拉国家银行宣布八家实体无运营资质"
     },
     {
-      "title": "Construção de novas linhas de transporte e distribuição de energia vai beneficiar mais de 47 mil habitantes em Malanje",
-      "url": "https://www.opais.ao/ultima_hora/construcao-de-novas-linhas-de-transporte-e-distribuicao-de-energia-vai-beneficiar-mais-de-47-mil-habitantes-em-malanje/",
+      "title": "Economia / Há 1 dia Feira do peixe impulsiona economia local e valoriza pescadores do Mussulo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679582/feira-do-peixe-impulsiona-economia-local-e-valoriza-pescadores-do-mussulo",
+      "source": "Jornal de Angola",
+      "_key": "3d1b150e7631396f",
+      "score": 7,
+      "title_cn": "渔业博览会推动地方经济，提升穆苏洛渔民价值"
+    },
+    {
+      "title": "Feira do Pescador impulsiona a economia comunitária do Mussulo",
+      "url": "https://www.opais.ao/economia/feira-do-pescador-impulsiona-a-economia-comunitaria-do-mussulo/",
       "source": "O País",
-      "_key": "2e3d0364c0cfdba4",
-      "score": 6,
-      "title_cn": "马兰热省新建输配电线路将惠及4.7万余居民"
+      "_key": "1f305da480061d33",
+      "score": 7,
+      "title_cn": "渔民博览会推动穆苏洛社区经济发展"
     },
     {
-      "title": "Plano Nacional de Resposta à Calamidade orçado em mais de 260 mil milhões de kwanzas",
-      "url": "https://www.opais.ao/ultima_hora/plano-nacional-de-resposta-a-calamidade-orcado-em-mais-de-260-mil-milhoes-de-kwanzas/",
-      "source": "O País",
-      "_key": "feeb4806a05f7d72",
-      "score": 6,
-      "title_cn": "安哥拉国家灾害应急计划预算超2600亿宽扎"
-    },
-    {
-      "title": "IGT in Bié reiterates importance of implementing the Occupational Qualifier",
-      "url": "https://www.angop.ao/en/noticias/sociedade/igt-no-bie-reitera-importancia-da-implementacao-do-qualificador-ocupacional/",
+      "title": "Electricity reaches more towns and villages in Malanje province",
+      "url": "https://www.angop.ao/en/noticias/economia/energia-electrica-chega-a-mais-localidades-em-malanje/",
       "source": "ANGOP",
-      "_key": "85a42c19dd699bbc",
-      "score": 5,
-      "title_cn": "比耶省劳工总监察局重申实施职业资格认证的重要性"
+      "_key": "5baffc2012b52dd6",
+      "score": 6,
+      "title_cn": "马兰热省更多城镇乡村实现电力覆盖"
     },
     {
-      "title": "Bié: Polícia incinera mais de uma tonelada de drogas",
-      "url": "https://correiokianda.info/bie-policia-incinera-mais-de-1-tonelada-de-drogas/",
+      "title": "Angolan delegation attending regional trade conference in Abuja",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-participa-na-conferencia-regional-de-comercio-em-abuja/",
+      "source": "ANGOP",
+      "_key": "e2adff5592565e61",
+      "score": 6,
+      "title_cn": "安哥拉代表团出席阿布贾地区贸易会议"
+    },
+    {
+      "title": "China e União Europeia lançam oficialmente mecanismo de consulta sobre comércio e investimento",
+      "url": "https://correiokianda.info/china-e-uniao-europeia-lancam-oficialmente-mecanismo-de-consulta-sobre-comercio-e-investimento/",
       "source": "Correio Kianda",
-      "_key": "0d7def6a53d94eb4",
-      "score": 5,
-      "title_cn": "比耶省警方焚烧逾一吨毒品"
+      "_key": "af227e7a551f0014",
+      "score": 6,
+      "title_cn": "中国与欧盟正式启动贸易投资磋商机制"
     },
     {
-      "title": "Destaque Angola e Estados Unidos realizam conversações bilaterais na terça-feiraO Ministério das Relações Exteriores acolhe, terça-feira, 30, conversações bilaterais entre delegações de Angola e dos Estados Unidos da América.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679626/angola-e-estados-unidos-realizam-conversa%C3%A7%C3%B5es-bilaterais-na-ter%C3%A7a-feira",
+      "title": "Índice de preços do INE imune às oscilações no mercado de cimento",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_248f199c84ab9f",
+      "score": 6,
+      "title_cn": "国家统计局价格指数不受水泥市场波动影响"
+    },
+    {
+      "title": "Angola apoia diálogo inclusivo para a ordem no MadagáscarA secretária de Estado para as Relações Exteriores, Esmeralda Mendonça, reiterou o compromisso de Angola em contribuir activamente na facilitação do diálogo inclusivo, visando apoiar os processos em curso no âmbito do estabelecimento da ordem constitucional no Madagáscar.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679646/angola-apoia-di%C3%A1logo-inclusivo-para-a-ordem-no-madag%C3%A1scar",
       "source": "Jornal de Angola",
-      "_key": "5e5dc07bbd312d23",
-      "score": 5,
-      "title_cn": "安哥拉与美国周二举行双边会谈"
+      "_key": "f9f83e890c92980b",
+      "score": 6,
+      "title_cn": "安哥拉支持包容性对话以维护马达加斯加秩序"
     },
     {
-      "title": "Política MIREX acolhe Reunião da Mesa da Conferência dos Chefes de Estado e de Governo da União Africana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679628/mirex-acolhe-reuni%C3%A3o-da-mesa-da-confer%C3%AAncia-dos-chefes-de-estado-e-de-governo-da-uni%C3%A3o-africana",
+      "title": "Política Angola apresenta progressos no combate ao terrorismo nas Nações Unidas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679706/angola-apresenta-progressos-no-combate-ao-terrorismo-nas-na%C3%A7%C3%B5es-unidas",
       "source": "Jornal de Angola",
-      "_key": "fa397a482a80ebc8",
-      "score": 5,
-      "title_cn": "安哥拉外交部主办非盟国家元首和政府首脑会议主席团会议"
+      "_key": "9007873c49b6d80c",
+      "score": 6,
+      "title_cn": "安哥拉在联合国展示反恐进展"
     },
     {
-      "title": "Kilamba Kiaxi: Autoridades lançam caça ao homem depois...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/kilamba-kiaxi-autoridades-lancam-caca-ao-homem-depois-do-assassinato-de-um-subinspector-da-pn-durante-assalto-e-detem-alegados-homicidas-72896.html",
+      "title": "Política Jânio Victor acompanha actividades de prospecção mineral no Moxico Leste ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679690/j%C3%A2nio-victor-acompanha-actividades-de-prospec%C3%A7%C3%A3o-mineral-no-moxico-leste",
+      "source": "Jornal de Angola",
+      "_key": "5ccde451f4840ed5",
+      "score": 6,
+      "title_cn": "雅尼奥·维克托（Jânio Victor）视察莫希科东部矿产勘探活动"
+    },
+    {
+      "title": "Economia / Há 1 hora Porto de Luanda automatiza serviços ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679676/porto-de-luanda-automatiza-servi%C3%A7os",
+      "source": "Jornal de Angola",
+      "_key": "068354bf00742aa8",
+      "score": 6,
+      "title_cn": "罗安达港服务实现自动化"
+    },
+    {
+      "title": "Ébola/RDC: Centenas de infectados estão a desaparecer...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-centenas-de-infectados-estao-a-desaparecer-do-radar-das-autoridades-sanitarias-infeccao-alastra-e-ameaca-novas-provincias-e-paises-vizinhos-72909.html",
       "source": "Novo Jornal",
-      "_key": "86969bbee8e85aaa",
-      "score": 5,
-      "title_cn": "基兰巴-基亚希：当局展开搜捕行动"
+      "_key": "8a1789f034d0fd9d",
+      "score": 6,
+      "title_cn": "刚果（金）埃博拉疫情：数百名感染者失踪"
     },
     {
-      "title": "Caso russos: Julgamento suspenso \"sine die\" atira alegações...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-julgamento-suspenso-sine-die-atira-alegacoes-finais-para-as-calendas-gregas-72894.html",
+      "title": "Proposta de Lei de Bases do Sistema Nacional de Saúde em debate na especialidade no Parlamento",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-de-bases-do-sistema-nacional-de-saude-em-debate-na-especialidade-no-parlamento-72920.html",
       "source": "Novo Jornal",
-      "_key": "a341ffa4c72aa69d",
-      "score": 5,
-      "title_cn": "俄罗斯案件：审判无限期中止"
+      "_key": "b07a0b82b66fc13c",
+      "score": 6,
+      "title_cn": "国家卫生系统基本法草案在议会进行专题辩论"
     },
     {
-      "title": "Angola regista mais de 300 mortes na época chuvosa 2025-2026",
-      "url": "https://www.opais.ao/ultima_hora/angola-regista-mais-de-300-mortes-na-epoca-chuvosa-2025-2026/",
+      "title": "SIC detém quatro cidadãos por crime de profanação de cadáver ao exumarem ossadas humanas para fins comerciais em Cabinda",
+      "url": "https://www.opais.ao/manchete/sic-detem-quatro-cidadaos-por-crime-de-profanacao-de-cadaver-ao-exumarem-ossadas-humanas-para-fins-comerciais-em-cabinda/",
       "source": "O País",
-      "_key": "d01e124679c8d615",
-      "score": 5,
-      "title_cn": "安哥拉2025-2026雨季已致300余人死亡"
+      "_key": "0ba8c2db41d8d18f",
+      "score": 6,
+      "title_cn": "刑事调查局在卡宾达逮捕四名涉嫌为商业目的挖掘人类遗骸者"
     },
     {
-      "title": "Angola e Estados Unidos realizam amanhã conversações bilaterais",
-      "url": "https://www.opais.ao/politica/angola-e-estados-unidos-realizam-amanha-conversacoes-bilaterais/",
+      "title": "Angola e Estados Unidos formalizam parceria militar estratégica com a Guarda Nacional de Ohio",
+      "url": "https://www.opais.ao/politica/angola-e-estados-unidos-formalizam-parceria-militar-estrategica-com-a-guarda-nacional-de-ohio/",
       "source": "O País",
-      "_key": "610bcfdfa3d01c17",
-      "score": 5,
-      "title_cn": "安哥拉与美国明日举行双边会谈"
+      "_key": "342a727c8b6acd43",
+      "score": 6,
+      "title_cn": "安哥拉与美国俄亥俄州国民警卫队正式建立战略军事伙伴关系"
     },
     {
-      "title": "Conferência dos Chefes de Estado-Maior de África arranca amanhã em Luanda",
-      "url": "https://www.opais.ao/politica/conferencia-dos-chefes-de-estado-maior-de-africa-arranca-amanha-em-luanda/",
+      "title": "‎Ministério do Interior e PGR reforçam laços de cooperação institucional",
+      "url": "https://www.opais.ao/politica/ministerio-do-interior-e-pgr-reforcam-lacos-de-cooperacao-institucional/",
       "source": "O País",
-      "_key": "c6c822cfe07886a8",
+      "_key": "396a2d7daa55e9e6",
+      "score": 6,
+      "title_cn": "内政部与总检察院加强机构合作"
+    },
+    {
+      "title": "Ébola: Número de mortes sobe para 360 na epidemia da RDC",
+      "url": "https://www.opais.ao/mundo/ebola-numero-de-mortes-sobe-para-360-na-epidemia-da-rdc/",
+      "source": "O País",
+      "_key": "0969147252f814a7",
+      "score": 6,
+      "title_cn": "刚果（金）埃博拉疫情死亡人数升至360人"
+    },
+    {
+      "title": "Head of State congratulates DR Congo on 66th independence anniversary",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-felicita-presidente-da-rdc-pelo-66xo-aniversario-da-independencia/",
+      "source": "ANGOP",
+      "_key": "0d7414a64cbd8b05",
       "score": 5,
-      "title_cn": "非洲参谋长会议明日在罗安达开幕"
+      "title_cn": "安哥拉国家元首祝贺刚果（金）独立66周年"
+    },
+    {
+      "title": "Angola and United States hold bilateral talks",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-estados-unidos-realizam-conversacoes-bilaterais/",
+      "source": "ANGOP",
+      "_key": "4be418743d0005d3",
+      "score": 5,
+      "title_cn": "安哥拉与美国举行双边会谈"
+    },
+    {
+      "title": "João Lourenço sublinha cooperação e paz em mensagem à RDC",
+      "url": "https://correiokianda.info/joao-lourenco-sublinha-cooperacao-e-paz-em-mensagem-a-rdc/",
+      "source": "Correio Kianda",
+      "_key": "41478a0f1b783c4f",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）在致刚果（金）贺电中强调合作与和平"
+    },
+    {
+      "title": "Preços dos materiais de construção em Angola registam ligeiro aumento de 0,26% em Maio",
+      "url": "https://correiokianda.info/precos-dos-materiais-de-construcao-em-angola-registam-ligeiro-aumento-de-026-em-maio/",
+      "source": "Correio Kianda",
+      "_key": "c8b5ef7ac0b61086",
+      "score": 5,
+      "title_cn": "安哥拉5月建筑材料价格略涨0.26%"
+    },
+    {
+      "title": "Crédito ao sector não financeiro em Angola atinge 8,9 bilhões de Kwanzas em Maio de 2026",
+      "url": "https://correiokianda.info/credito-ao-sector-nao-financeiro-em-angola-atinge-89-bilhoes-de-kwanzas-em-maio-de-2026/",
+      "source": "Correio Kianda",
+      "_key": "76457ebe7718bd9d",
+      "score": 5,
+      "title_cn": "2026年5月安哥拉非金融部门信贷达89亿宽扎"
+    },
+    {
+      "title": "Economista defende explicação detalhada sobre utilização dos excedentes do petróleo",
+      "url": "https://correiokianda.info/economista-defende-explicacao-detalhada-sobre-utilizacao-dos-excedentes-do-petroleo/",
+      "source": "Correio Kianda",
+      "_key": "ef918ee09bb91ad6",
+      "score": 5,
+      "title_cn": "经济学家呼吁详细解释石油盈余使用情况"
+    },
+    {
+      "title": "Desabamento de estrutura mata operário na fábrica da Biocom em Malanje",
+      "url": "https://correiokianda.info/desabamento-de-estrutura-mata-operario-na-fabrica-da-biocom-em-malanje/",
+      "source": "Correio Kianda",
+      "_key": "9535f5a7283ce3bd",
+      "score": 5,
+      "title_cn": "马兰热Biocom工厂结构坍塌致一名工人死亡"
+    },
+    {
+      "title": "Presidente sul-africano apela à calma perante “novos protestos anti-imigração convocados”",
+      "url": "https://correiokianda.info/presidente-sul-africano-apela-a-calma-perante-novos-protestos-anti-imigracao-convocados/",
+      "source": "Correio Kianda",
+      "_key": "b0c0140fbc01a50b",
+      "score": 5,
+      "title_cn": "南非总统呼吁民众在新一轮反移民抗议前保持冷静"
+    },
+    {
+      "title": "        África3 horas atrás  África do Sul: Tensão aumenta devido a ultimato de grupos anti-imigração Várias comunidades de migrantes na África do Sul, com destaque para cidadãos de países vizinhos, vivem sob um clima de forte tensão e medo devido a...   ",
+      "url": "https://correiokianda.info/africa-do-sul-tensao-aumenta-devido-a-ultimato-de-grupos-anti-imigracao/",
+      "source": "Correio Kianda",
+      "_key": "a26e6f5433d059be",
+      "score": 5,
+      "title_cn": "南非：反移民团体发出最后通牒，紧张局势加剧"
+    },
+    {
+      "title": "        África3 horas atrás  ANC apela à calma e contenção face a protestos contra a imigração ilegal na África do Sul O Congresso Nacional Africano (ANC), partido no poder na África do Sul, apelou aos organizadores das manifestações contra cidadãos estrangeiros em situação migratória irregular para que...   ",
+      "url": "https://correiokianda.info/anc-apela-a-calma-e-contencao-face-a-protestos-contra-a-imigracao-ilegal-na-africa-do-sul/",
+      "source": "Correio Kianda",
+      "_key": "c0ac38e5f7bc425b",
+      "score": 5,
+      "title_cn": "南非非国大呼吁民众在反非法移民抗议中保持冷静克制"
+    },
+    {
+      "title": "Economia / Há 1 hora Activos mais cotados encerram em alta ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679675/activos-mais-cotados--encerram-em-alta",
+      "source": "Jornal de Angola",
+      "_key": "38b5b04438355524",
+      "score": 5,
+      "title_cn": "高价资产收盘上涨"
+    },
+    {
+      "title": "AFRICOM (EUA) defende investimento como motor de estabilidade...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/africom-eua-defende-investimento-como-motor-de-estabilidade-em-africa-72919.html",
+      "source": "Novo Jornal",
+      "_key": "2f0b9c39a39537c8",
+      "score": 5,
+      "title_cn": "美国非洲司令部倡导投资作为稳定引擎"
+    },
+    {
+      "title": "O Oásis e o Deserto: porque os bancos financiam o oásis...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-oasis-e-o-deserto-porque-os-bancos-financiam-o-oasis-e-nao-o-deserto-72902.html",
+      "source": "Novo Jornal",
+      "_key": "e5d2c451e5996073",
+      "score": 5,
+      "title_cn": "绿洲与沙漠：银行为何资助绿洲？"
+    },
+    {
+      "title": "Mais de 13 mil famílias sinistradas das cheias em Benguela já foram reintegradas",
+      "url": "https://www.opais.ao/ultima_hora/mais-de-13-mil-familias-sinistradas-das-cheias-em-benguela-ja-foram-reintegradas/",
+      "source": "O País",
+      "_key": "0e546fce9c3d0fb3",
+      "score": 5,
+      "title_cn": "本格拉逾1.3万户洪灾受灾家庭已重新安置"
+    },
+    {
+      "title": "SPCB e Academia de Formação de Alta Performance trabalham para melhorar atendimento pré-hospitalar",
+      "url": "https://www.opais.ao/ultima_hora/spcb-e-academia-de-formacao-de-alta-performance-trabalham-para-melhorar-atendimento-pre-hospitalar/",
+      "source": "O País",
+      "_key": "6e68c91d4a159e12",
+      "score": 5,
+      "title_cn": "消防民防局与高性能培训学院合作改善院前急救"
+    },
+    {
+      "title": "Putin reconhece “certa escassez” de combustível devido a ataques da Ucrânia",
+      "url": "https://www.opais.ao/mundo/putin-reconhece-certa-escassez-de-combustivel-devido-a-ataques-da-ucrania/",
+      "source": "O País",
+      "_key": "281132548a27bd05",
+      "score": 5,
+      "title_cn": "普京承认乌克兰袭击导致燃料“一定程度短缺”"
     }
   ]
 }
