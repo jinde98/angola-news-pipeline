@@ -1,350 +1,203 @@
 {
   "date": "2026-07-01",
-  "total_new": 150,
-  "total_filtered": 49,
-  "scored_by": "glm-flash",
+  "total_new": 62,
+  "total_filtered": 28,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Cidade Portuária do Lobito: Quem te viu, quem te vê...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/cidade-portuaria-do-lobito-quem-te-viu-quem-te-ve-de-sala-de-visitas-so-resta-o-nome-72933.html",
-      "source": "Novo Jornal",
-      "_key": "7120d26fe1df6505",
+      "title": "Togo lidera importações angolanas e ultrapassa China em Maio",
+      "url": "https://angola24horas.com/economia/item/34590-togo-lidera-importacoes-angolanas-e-ultrapassa-china-em-maio",
+      "source": "Angola 24 Horas",
+      "_key": "9506a0f57c48b5fc",
       "score": 9
     },
     {
-      "title": "Businesspeople discuss investment opportunities in the logistics sector",
-      "url": "https://www.angop.ao/en/noticias/economia/empresarios-debatem-oportunidades-de-investimento-no-sector-logistico/",
-      "source": "ANGOP",
-      "_key": "a469e81646fe8a75",
-      "score": 8
-    },
-    {
-      "title": "Petróleo estabiliza, mas mercado continua atento ao Médio Oriente",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-estabiliza-mas-mercado-continua-atento-ao-medio-oriente-72942.html",
-      "source": "Expansão",
-      "_key": "1982720dee0af6ce",
-      "score": 8
-    },
-    {
-      "title": "Angola tem grandes necessidades de financiamento, diz Fáusio Mussá",
-      "url": "https://forbesafricalusofona.com/angola-tem-grandes-necessidades-de-financiamento-diz-fausio-mussa/",
-      "source": "Forbes África",
-      "_key": "2217f82fe3c09aa4",
-      "score": 8
-    },
-    {
-      "title": "Crédito ao sector real da economia atingiu 1,5 bilião de kwanzas em MaioO crédito concedido ao abrigo do Aviso n.º 10/2024 do Banco Nacional de Angola (BNA), para o fomento do Sector Real atingiu, em Maio, 1,5 bilião de kwanzas, um aumento de 8,3 por cento, ou seja, mais 111,6 mil milhões de kwanzas em comparação com o período homólogo.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679744/cr%C3%A9dito-ao-sector-real-da-economia-atingiu-15-bili%C3%A3o-de-kwanzas--em-maio",
-      "source": "Jornal de Angola",
-      "_key": "d9b3a897c69a20c9",
-      "score": 8
-    },
-    {
-      "title": "Política João Lourenço felicita Félix Tshisekedi ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679734/jo%C3%A3o-louren%C3%A7o-felicita-f%C3%A9lix-tshisekedi",
-      "source": "Jornal de Angola",
-      "_key": "3e136c64f05651a2",
-      "score": 8
-    },
-    {
-      "title": "12:00 / 1 jul. 2026 Ministro apresenta acções para a aplicação do acordo da Zona de Conercio Livre ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679782/ministro-apresenta-ac%C3%A7%C3%B5es-para-a-aplica%C3%A7%C3%A3o-do-acordo-da-zona-de-conercio-livre",
-      "source": "Jornal de Angola",
-      "_key": "b7a5df1bcc24d5e4",
-      "score": 8
-    },
-    {
-      "title": "More Than 78% of Construction Projects in the Country Were Suspended in the First Quarter of 2026",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=9981",
-      "source": "Negócios de Angola",
-      "_key": "6b0950448e3a5f42",
-      "score": 8
-    },
-    {
-      "title": "SME repatriates 1,305 foreigners due to illegal status",
-      "url": "https://www.angop.ao/en/noticias/politica/sme-em-cabinda-repatria-mil-305-estrangeiros-em-situacao-migratoria-ilegal/",
-      "source": "ANGOP",
-      "_key": "67b100edc3614891",
-      "score": 7
-    },
-    {
-      "title": "Port of Luanda strengthens regional integration with new major projects",
-      "url": "https://www.angop.ao/en/noticias/economia/porto-de-luanda-reforca-integracao-regional-com-novos-projectos-estruturantes/",
-      "source": "ANGOP",
-      "_key": "20797815511a091e",
-      "score": 7
-    },
-    {
-      "title": "Crise de combustíveis tira pão da mesa em Nampula",
-      "url": "https://www.dw.com/pt-002/crise-de-combustíveis-tira-pão-da-mesa-em-nampula/a-77769819?maca=por-RSS_VAF_Club-K-22869-xml-cb",
-      "source": "Club K",
-      "_key": "7cae493e977f722d",
-      "score": 7
-    },
-    {
-      "title": "Empreiteiros têm até Setembro para concluir obras em escolas de Cabinda",
-      "url": "https://correiokianda.info/empreiteiros-tem-ate-setembro-para-concluir-obras-em-escolas-de-cabinda/",
-      "source": "Correio Kianda",
-      "_key": "056096529a4f42c4",
-      "score": 7
-    },
-    {
-      "title": "Sector de Seguros em Angola Cresce 22,67% no I Trimestre de 2026",
-      "url": "https://correiokianda.info/sector-de-seguros-em-angola-cresce-2267-no-i-trimestre-de-2026/",
-      "source": "Correio Kianda",
-      "_key": "cc950049d6cd8639",
-      "score": 7
-    },
-    {
-      "title": "ARSEG transfere carteira da Global Seguros para quatro seguradoras",
-      "url": "https://correiokianda.info/arseg-transfere-carteira-da-global-seguros-para-quatro-seguradoras/",
-      "source": "Correio Kianda",
-      "_key": "5adc535d5df131d0",
-      "score": 7
-    },
-    {
-      "title": "Bancos unem-se para acelerar financiamento sustentável em Angola",
-      "url": "https://forbesafricalusofona.com/bancos-unem-se-para-acelerar-financiamento-sustentavel-em-angola/",
-      "source": "Forbes África",
-      "_key": "71cc976ae4e1b587",
-      "score": 7
-    },
-    {
-      "title": "Economia Leilão de Diamantes rende usd 21,7 milhões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679745/leil%C3%A3o-de-diamantes-rende-usd-217-milh%C3%B5es",
-      "source": "Jornal de Angola",
-      "_key": "1a15be538682d9fd",
-      "score": 7
-    },
-    {
-      "title": "BNA alerta contra oito empresas que não estão legalmente...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-alerta-contra-oito-empresas-que-nao-estao-legalmente-habilitadas-para-o-exercicio-da-actividade-financeira-72941.html",
-      "source": "Novo Jornal",
-      "_key": "8bc422199f20290a",
-      "score": 7
-    },
-    {
-      "title": "Petro de Luanda oficializa Mário Balbúrdia para atacar Afrotaças",
-      "url": "https://www.opais.ao/desporto/petro-de-luanda-oficializa-mario-balburdia-para-atacar-afrotacas/",
-      "source": "O País",
-      "_key": "d765bc8eddcba743",
-      "score": 7
-    },
-    {
-      "title": "Atraso na liquidação dos 'cash calls' dispara juros de mora...",
-      "url": "https://valoreconomico.co.ao/artigo/atraso-na-liquidacao-dos-cash-calls-dispara-juros-de-mora-da-sonangol",
-      "source": "Valor Económico",
-      "_key": "87bab0627e7107af",
-      "score": 7
-    },
-    {
-      "title": "Credit to non-financial sector reaches AKZ 8.9 trillion in May",
-      "url": "https://www.angop.ao/en/noticias/economia/credito-ao-sector-nao-financeiro-atinge-kz-8-9-bilioes-em-maio-deste-ano/",
-      "source": "ANGOP",
-      "_key": "0552723e2a8850a1",
-      "score": 6
-    },
-    {
-      "title": "Central Bank discloses unauthorized institutions carrying out financial activities",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-divulga-entidades-sem-habilitacao-para-exercicio-de-actividade-financeira/",
-      "source": "ANGOP",
-      "_key": "0339a222059b1b0a",
-      "score": 6
-    },
-    {
-      "title": "120 companies barred from signing contracts with the State",
-      "url": "https://www.angop.ao/en/noticias/economia/cento-e-20-empresas-impedidas-de-fechar-contrato-com-o-estado/",
-      "source": "ANGOP",
-      "_key": "b731bb51e2903168",
-      "score": 6
-    },
-    {
-      "title": "Contratação Pública",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=25631",
-      "source": "ANGOP",
-      "_key": "9f7f7d9e9320d9a9",
-      "score": 6
-    },
-    {
-      "title": "Angolan banks make commitment to boost sustainable finance",
-      "url": "https://www.angop.ao/en/noticias/economia/banca-nacional-assume-compromisso-para-impulsionar-financiamento-sustentavel/",
-      "source": "ANGOP",
-      "_key": "1678715bb5331783",
-      "score": 6
-    },
-    {
-      "title": "Standard Bank praises government's economic policy",
-      "url": "https://www.angop.ao/en/noticias/economia/standard-bank-elogia-politica-economica-do-governo/",
-      "source": "ANGOP",
-      "_key": "8a141786f7b6b62e",
-      "score": 6
-    },
-    {
-      "title": "África do Sul: Impactos do regresso forçado de migrantes a Moçambique",
-      "url": "https://www.dw.com/pt-002/áfrica-do-sul-impactos-do-regresso-forçado-de-migrantes-a-moçambique/a-77779890?maca=por-RSS_VAF_Club-K-22869-xml-cb",
-      "source": "Club K",
-      "_key": "bdd79d915be44e6c",
-      "score": 6
-    },
-    {
-      "title": "Milhares de sul-africanos nas ruas contra a imigração ilegal",
-      "url": "https://www.dw.com/pt-002/milhares-de-sul-africanos-nas-ruas-contra-a-imigração-ilegal/a-77773786?maca=por-RSS_VAF_Club-K-22869-xml-cb",
-      "source": "Club K",
-      "_key": "dbd9895f24b636c9",
-      "score": 6
-    },
-    {
-      "title": "SME anuncia encerramento de entrega de passaportes no ponto da Baía de Luanda",
-      "url": "https://correiokianda.info/sme-anuncia-encerramento-de-entrega-de-passaportes-no-ponto-da-baia-de-luanda/",
-      "source": "Correio Kianda",
-      "_key": "0c978f92132312a0",
-      "score": 6
-    },
-    {
-      "title": "        África3 horas atrás  Governo da RDC relança linha ferroviária estratégica em Kinshasa O Governo da República Democrática do República Democrática do Congo procedeu, esta terça-feira, 30, à reativação da linha ferroviária que liga a Gare Centrale ao Aeroporto...   ",
-      "url": "https://correiokianda.info/governo-da-rdc-relanca-linha-ferroviaria-estrategica-em-kinshasa/",
-      "source": "Correio Kianda",
-      "_key": "523b4d95d7a52a7f",
-      "score": 6
-    },
-    {
-      "title": "Bancassurance avança com dúvidas sobre concorrência e fiscalização",
-      "url": "https://expansao.co.ao/empresas/detalhe/bancassurance-avanca-com-duvidas-sobre-concorrencia-e-fiscalizacao-72938.html",
-      "source": "Expansão",
-      "_key": "fffbcff7baecb813",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Serviço de Investigação Criminal detém oficiais por extorsão ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679755/servi%C3%A7o-de-investiga%C3%A7%C3%A3o-criminal-det%C3%A9m-oficiais-por-extors%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "1a038fe56298d9e3",
-      "score": 6
-    },
-    {
-      "title": "Política OMA analisa com o Executivo facilidades de acesso ao crédito ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679740/oma-analisa-com-o-executivo-facilidades-de-acesso-ao-cr%C3%A9dito",
-      "source": "Jornal de Angola",
-      "_key": "e78116e70050ac54",
-      "score": 6
-    },
-    {
-      "title": "11:44 / 1 jul. 2026 Angola reforça compromisso com o combate ao terrorismo ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679777/angola-refor%C3%A7a-compromisso-com-o-combate-ao-terrorismo",
-      "source": "Jornal de Angola",
-      "_key": "479d4beb17568fb5",
-      "score": 6
-    },
-    {
-      "title": "PR passa novo cheque a Benguela para construção de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-passa-novo-cheque-a-benguela-para-construcao-de-mais-932-habitacoes-sociais---contratacao-emergencial-vale-69-milhoes-usd-e-inclui-reabilitacao-de-460-casas-72932.html",
-      "source": "Novo Jornal",
-      "_key": "1de35a0fe156a563",
-      "score": 6
-    },
-    {
-      "title": "Angola quer maior cooperação militar contra terrorismo e crime organizado",
-      "url": "https://www.opais.ao/politica/angola-quer-maior-cooperacao-militar-contra-terrorismo-e-crime-organizado/",
-      "source": "O País",
-      "_key": "34436c187815efec",
-      "score": 6
-    },
-    {
-      "title": "Movicel perde quase 80% dos clientes e depende de injecção...",
-      "url": "https://valoreconomico.co.ao/artigo/movicel-perde-quase-80-dos-clientes-e-depende-de-injeccao-de-capital-do-estado",
-      "source": "Valor Económico",
-      "_key": "7efb9efccc024ae6",
-      "score": 6
-    },
-    {
-      "title": "ENTRE A UNITEL E A MOVICEL, ONDE ESTÁ A URGÊNCIA...",
-      "url": "https://valoreconomico.co.ao/artigo/entre-a-unitel-e-a-movicel-onde-esta-a-urgencia-do-estado",
-      "source": "Valor Económico",
-      "_key": "d044798dd0fa1956",
-      "score": 6
-    },
-    {
-      "title": "Agricultura continua sem concluir protocolo para o acordo do gado com o...",
-      "url": "https://valoreconomico.co.ao/artigo/agricultura-continua-sem-concluir-protocolo-para-o-acordo-do-gado-com-o-chade",
-      "source": "Valor Económico",
-      "_key": "827d2f4b2e3bdba6",
-      "score": 6
-    },
-    {
-      "title": "Temporary ban on horse mackerel fishing in Angola begins July 1st",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-observa-veda-temporaria-do-carapau/",
-      "source": "ANGOP",
-      "_key": "2c68834cd69f1418",
-      "score": 5
-    },
-    {
-      "title": "\"Grow\" Project boosts INAPEM activities",
-      "url": "https://www.angop.ao/en/noticias/economia/projecto-crescer-dinamiza-accoes-do-inapem/",
-      "source": "ANGOP",
-      "_key": "09755d65d93ae53a",
-      "score": 5
-    },
-    {
-      "title": "Dois oficiais do SIC detidos por alegada extorsão e detenção ilegal em Catete",
-      "url": "https://angola24horas.com/sociedade/item/34586-dois-oficiais-do-sic-detidos-por-alegada-extorsao-e-detencao-ilegal-em-catete",
+      "title": "Governo cria três novas delegações aduaneiras para reforçar fiscalização",
+      "url": "https://angola24horas.com/sociedade/item/34577-governo-cria-tres-novas-delegacoes-aduaneiras-para-reforcar-fiscalizacao",
       "source": "Angola 24 Horas",
-      "_key": "61aa029dbde085ae",
-      "score": 5
+      "_key": "df0f475f0bbbaf32",
+      "score": 9
     },
     {
-      "title": "“Obra na Via Wadadame não foi abandonada”, afirma Administração Municipal de Cacuaco",
-      "url": "https://correiokianda.info/obra-na-via-wadadame-nao-foi-abandonada-afirma-administracao-municipal-de-cacuaco/",
-      "source": "Correio Kianda",
-      "_key": "1676cac31161b73a",
-      "score": 5
+      "title": "Port of Luanda Records 23% Growth in Ship Traffic and Invests in Modernisation",
+      "url": "https://www.negociosdeangola.com/en/port-of-luanda-records-23-growth-in-ship-traffic-and-invests-in-modernisation/",
+      "source": "Negócios de Angola",
+      "_key": "ce18f8a017d4a248",
+      "score": 9
     },
     {
-      "title": "Revenda de combustível escasseia derivados de petróleo em Camacupa",
-      "url": "https://correiokianda.info/revenda-de-combustivel-escasseia-derivados-de-petroleo-em-camacupa/",
-      "source": "Correio Kianda",
-      "_key": "04ca18e2892ffc44",
-      "score": 5
-    },
-    {
-      "title": "Greve na fábrica de calçados e uniformes mantém produção sob pressão",
-      "url": "https://correiokianda.info/trabalhadores-da-fabrica-de-calcados-persistem-com-a-greve-para-exigir-melhores-condicoes/",
-      "source": "Correio Kianda",
-      "_key": "72aabe4edb8bea02",
-      "score": 5
-    },
-    {
-      "title": "Destaque Universalização do Bilhete de Identidade abordada esta quarta-feira no CaféCipraA \"Universalização do Bilhete de Identidade e garantia da cidadania angolana” serão os temas da 22.ª edição do CaféCIPRA, a realizar-se, esta quarta-feira, no Memorial Dr. António Agostinho Neto, em Luanda. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/679725/universaliza%C3%A7%C3%A3o-do-bilhete-de-identidade-abordada-esta-quarta-feira-no-caf%C3%A9cipra",
-      "source": "Jornal de Angola",
-      "_key": "e4ffb6049ee42377",
-      "score": 5
-    },
-    {
-      "title": "Política Embaixador Carlos Dias é sepultado hoje no Cemitério de Sant'Ana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679770/embaixador-carlos-dias-%C3%A9-sepultado-hoje-no-cemit%C3%A9rio-de-sant",
-      "source": "Jornal de Angola",
-      "_key": "f802fd0ea723c84a",
-      "score": 5
-    },
-    {
-      "title": "Política Angola defende uma União Africana pronta para os desafios continentais ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679733/angola-defende-uma-uni%C3%A3o-africana--pronta-para-os-desafios-continentais",
-      "source": "Jornal de Angola",
-      "_key": "c69974049d1103d9",
-      "score": 5
-    },
-    {
-      "title": "Automobilistas passam a pagar IVM com multa a partir de hoje",
-      "url": "https://www.opais.ao/economia/automobilistas-passam-a-pagar-ivm-com-multa-a-partir-de-hoje/",
-      "source": "O País",
-      "_key": "10ad570981af3385",
-      "score": 5
-    },
-    {
-      "title": "Crescimento estatístico da agricultura na economia “não traduz ganhos reais...",
-      "url": "https://valoreconomico.co.ao/artigo/crescimento-estatistico-da-agricultura-na-economia-nao-traduz-ganhos-reais-de-produtividade-e-competitividade",
+      "title": "IRPS, custo de vida e a crise de credibilidade da...",
+      "url": "https://valoreconomico.co.ao/artigo/irps-custo-de-vida-e-a-crise-de-credibilidade-da-politica-fiscal-angolana",
       "source": "Valor Económico",
-      "_key": "acaeff483aca4c66",
+      "_key": "38d751ac8d756c28",
+      "score": 9
+    },
+    {
+      "title": "Luanda acolhe evento voltado à promoção do investimento no sector extractivo",
+      "url": "https://correiokianda.info/luanda-acolhe-evento-voltado-a-promocao-do-investimento-no-sector-extractivo/",
+      "source": "Correio Kianda",
+      "_key": "9b2d14207cd8f623",
+      "score": 8
+    },
+    {
+      "title": "Moxico Leste possui quatro folhas geológicas com elevado potencial mineral A província do Moxico Leste dispõe de quatro folhas geológicas com elevado potencial para a exploração de recursos minerais, incluindo metais nobres, metais ferrosos e não ferrosos, elementos de terras raras, além de pedras preciosas e semi-preciosas. ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679797/moxico-leste-possui-quatro-folhas-geol%C3%B3gicas-com-elevado-potencial-mineral",
+      "source": "Jornal de Angola",
+      "_key": "b3532556dd29ae08",
+      "score": 8
+    },
+    {
+      "title": "Sector extractivo apresenta maior aumento de preço do índice...",
+      "url": "https://valoreconomico.co.ao/artigo/sector-extractivo-apresenta-maior-aumento-de-preco-do-indice-no-produtor",
+      "source": "Valor Económico",
+      "_key": "f718f1c2020b1f3e",
+      "score": 8
+    },
+    {
+      "title": "Ausência prolongada de João Lourenço no Brasil alimenta especulações sobre estado de saúde",
+      "url": "https://angola24horas.com/politica/item/34591-ausencia-prolongada-de-joao-lourenco-no-brasil-alimenta-especulacoes-sobre-estado-de-saude",
+      "source": "Angola 24 Horas",
+      "_key": "b946a78397201fbb",
+      "score": 7
+    },
+    {
+      "title": "Surto de Ébola pode custar mais de tres mil milhões de dólares a África, alerta ONU",
+      "url": "https://correiokianda.info/surto-de-ebola-pode-custar-mais-de-tres-mil-milhoes-de-dolares-a-africa-alerta-onu/",
+      "source": "Correio Kianda",
+      "_key": "30585d56f855d87a",
+      "score": 7
+    },
+    {
+      "title": "        África2 horas atrás  Xenofobia em Pretória deixa mais de 50 casas de moçambicanos incendiadas Mais de 50 residências de cidadãos moçambicanos foram incendiadas esta terça-feira em Mamelodi, Pretória, na sequência de manifestações anti-imigração protagonizadas por grupos de cidadãos sul-africanos. Os...   ",
+      "url": "https://correiokianda.info/xenofobia-em-pretoria-deixa-mais-de-50-casas-de-mocambicanos-incendiadas/",
+      "source": "Correio Kianda",
+      "_key": "07fec017ddb7a801",
+      "score": 7
+    },
+    {
+      "title": "Factura da Sonangol com juros de mora ascende a 212,8 mil milhões Kz",
+      "url": "https://diariodosnegocios.com/factura-da-sonangol-com-juros-de-mora-ascende-a-2128-mil-milhoes-kz/",
+      "source": "Diário dos Negócios",
+      "_key": "a0d2042c8cceea58",
+      "score": 7
+    },
+    {
+      "title": " Factura da Sonangol com juros de mora ascende a 212,8 mil milhões Kz ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_a9803a50e50614",
+      "score": 7
+    },
+    {
+      "title": "Mundo Xi Jinping propõe modelo chinês como alternativa para países em desenvolvimento ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679800/xi-jinping--prop%C3%B5e-modelo-chin%C3%AAs-como-alternativa-para-pa%C3%ADses-em-desenvolvimento",
+      "source": "Jornal de Angola",
+      "_key": "907c83040d307d47",
+      "score": 7
+    },
+    {
+      "title": "Bodiva fecha primeiro semestre com movimentações históricas de 4,639 biliões...",
+      "url": "https://valoreconomico.co.ao/artigo/bodiva-fecha-primeiro-semestre-com-movimentacoes-historicas-de-4-639-bilioes-kwanzas",
+      "source": "Valor Económico",
+      "_key": "4721d9a388df6254",
+      "score": 7
+    },
+    {
+      "title": "A pressa de João Lourenço e o capote do general...",
+      "url": "https://valoreconomico.co.ao/artigo/a-pressa-de-joao-lourenco-e-o-capote-do-general-4x4",
+      "source": "Valor Económico",
+      "_key": "e1372780c508c4b1",
+      "score": 7
+    },
+    {
+      "title": "Deputados analisam fim da gratuitidade total da assistência médica em Angola",
+      "url": "https://angola24horas.com/component/k2/item/34588-deputados-analisam-fim-da-gratuitidade-total-da-assistencia-medica-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "5f65b12e51ec8abb",
+      "score": 6
+    },
+    {
+      "title": "Dívida pública limita investimento em saúde e educação, alerta UNITA",
+      "url": "https://correiokianda.info/divida-publica-limita-investimento-em-saude-e-educacao-alerta-unita/",
+      "source": "Correio Kianda",
+      "_key": "9ffdef1c1a695841",
+      "score": 6
+    },
+    {
+      "title": "Detido suspeito com arma de fogo e 30 munições antes de alegado plano de assaltos no Cuanza-Sul",
+      "url": "https://correiokianda.info/detido-suspeito-com-arma-de-fogo-e-30-municoes-antes-de-alegado-plano-de-assaltos-no-cuanza-sul/",
+      "source": "Correio Kianda",
+      "_key": "8c14ccb2280963ff",
+      "score": 6
+    },
+    {
+      "title": "Deputados pedem esclarecimentos sobre pagamento na saúde pública em Angola",
+      "url": "https://correiokianda.info/deputados-pedem-esclarecimentos-sobre-pagamento-na-saude-publica-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "880b3398210977e8",
+      "score": 6
+    },
+    {
+      "title": "Xi Jinping pede adaptação do Partido Comunista e protecção das conquistas da China",
+      "url": "https://correiokianda.info/xi-jinping-pede-adaptacao-do-partido-comunista-e-protecao-das-conquistas-da-china/",
+      "source": "Correio Kianda",
+      "_key": "d5c6f31420dffac0",
+      "score": 6
+    },
+    {
+      "title": "PGR investiga ministra Carmen do Sacramento Neto por alegada má gestão nas Pescas",
+      "url": "https://diariodosnegocios.com/pgr-investiga-ministra-carmen-do-sacramento-neto-por-alegada-ma-gestao-nas-pescas/",
+      "source": "Diário dos Negócios",
+      "_key": "8d35dd4abff36628",
+      "score": 6
+    },
+    {
+      "title": " PGR investiga ministra Carmen do Sacramento Neto por alegada má gestão nas Pescas ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_a4d039684b2f9b",
+      "score": 6
+    },
+    {
+      "title": "Mundo01/07/2026Milhares em protesto contra imigrantes",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679804/milhares-em-protesto-contra-imigrantes",
+      "source": "Jornal de Angola",
+      "_key": "3b6b08b45b81256d",
+      "score": 6
+    },
+    {
+      "title": "SIC apreende 11 toneladas de liamba e desactiva mais...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-apreende-11-toneladas-de-liamba-e-desactiva-mais-um-campo-de-cultivo-de-17-hectares-em-malanje-72948.html",
+      "source": "Novo Jornal",
+      "_key": "ace1b3713ef90913",
+      "score": 6
+    },
+    {
+      "title": "Seis efectivos do SIC condenados entre seis e 16 meses...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/seis-efectivos-do-sic-condenados-entre-seis-e-16-meses-de-prisao-por-roubo-de-63-botijas-de-gas-de-cozinha-72950.html",
+      "source": "Novo Jornal",
+      "_key": "8e8b52d7fad0f310",
+      "score": 6
+    },
+    {
+      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
+      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=72946",
+      "source": "Novo Jornal",
+      "_key": "06ff465cf39f89fe",
+      "score": 6
+    },
+    {
+      "title": "SIC desactiva 17 hectares de cultivo de liamba em Malanje",
+      "url": "https://www.opais.ao/ultima_hora/sic-desactiva-17-hectares-de-cultivo-de-liamba-em-malanje/",
+      "source": "O País",
+      "_key": "6a0380c2b48978a1",
+      "score": 6
+    },
+    {
+      "title": "Governo suspende pesca do carapau para garantir sustentabilidade da espécie",
+      "url": "https://valoreconomico.co.ao/artigo/governo-suspende-pesca-do-carapau-para-garantir-sustentabilidade-da-especie",
+      "source": "Valor Económico",
+      "_key": "ca4c2ce7b9c9b92f",
       "score": 5
     }
   ]
