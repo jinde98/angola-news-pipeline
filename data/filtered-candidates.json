@@ -1,301 +1,98 @@
 {
   "date": "2026-07-02",
-  "total_new": 124,
-  "total_filtered": 42,
-  "scored_by": "gemini-flash",
+  "total_new": 32,
+  "total_filtered": 13,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Café angolano passa a beneficiar de isenção de impostos no mercado chinês",
-      "url": "https://correiokianda.info/cafe-angolano-passa-a-beneficiar-de-isencao-de-impostos-no-mercado-chines/",
+      "title": "O petróleo cai pelo terceiro dia consecutivo após avanços nas negociações entre EUA e Irão",
+      "url": "https://correiokianda.info/o-petroleo-cai-pelo-terceiro-dia-consecutivo-apos-avancos-nas-negociacoes-entre-eua-e-irao/",
       "source": "Correio Kianda",
-      "_key": "e4ea6fed12a42818",
+      "_key": "9e5538a7e40217bf",
       "score": 9
     },
     {
-      "title": "Xi Jinping propõe modelo chinês como alternativa para países em desenvolvimento",
-      "url": "https://jornaloguardiao.com/2026/07/02/xi-jinping-propoe-modelo-chines-como-alternativa-para-paises-em-desenvolvimento/",
-      "source": "Jornal O Guardião",
-      "_key": "b63796cdd899f950",
-      "score": 9
-    },
-    {
-      "title": " Xi Jinping propõe modelo chinês como alternativa para países em desenvolvimento ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_8780ced999e751",
-      "score": 9
-    },
-    {
-      "title": "Economia União Europeia garante 50 milhões de euros para projectos ao longo do Corredor do Lobito ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679824/uni%C3%A3o-europeia-garante-50-milh%C3%B5es-de-euros-para-projectos-ao-longo-do-corredor-do-lobito",
+      "title": "Destaque Esperança da Costa recebe em audiência membros da Família TuckerA Vice-Presidente da República, Esperança da Costa, recebeu, esta quinta-feira, em audiência, membros da Família Tucker, descendentes de africanos levados para os Estados Unidos da América durante o tráfico transatlântico de escravos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679890/esperan%C3%A7a-da-costa-recebe-em-audi%C3%AAncia-membros-da-fam%C3%ADlia-tucker",
       "source": "Jornal de Angola",
-      "_key": "ecfbd54675eec8aa",
-      "score": 9
-    },
-    {
-      "title": "Oil and Gas agency wants to transform hydrocarbons into wealth-generating opportunities",
-      "url": "https://www.angop.ao/en/noticias/economia/anpg-quer-transformar-hidrocarbonetos-em-oportunidades-de-geracao-de-riqueza/",
-      "source": "ANGOP",
-      "_key": "384c4486827e11f8",
+      "_key": "a48bbeb407855649",
       "score": 8
     },
     {
-      "title": "Economia Governo reforça mecanismos para fomentar Parcerias Público – Privadas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679823/governo-refor%C3%A7a-mecanismos-para-fomentar-parcerias-p%C3%BAblico-%E2%80%93-privadas",
-      "source": "Jornal de Angola",
-      "_key": "d304e94503297a90",
+      "title": "Músico gospel detido por burla de mais de 25 milhões de Kwanzas com falsas promessas de vistos",
+      "url": "https://www.opais.ao/ultima_hora/musico-gospel-detido-por-burla-de-mais-de-25-milhoes-de-kwanzas-com-falsas-promessas-de-vistos/",
+      "source": "O País",
+      "_key": "28e560880323cc6d",
       "score": 8
     },
     {
-      "title": "President Authorizes Kz 63.9 Billion for Construction of 932 New Homes and Rehabilitation of 460 Houses in Benguela07/02/2026",
-      "url": "https://www.negociosdeangola.com/en/president-authorizes-kz-63-9-billion-for-construction-of-932-new-homes-and-rehabilitation-of-460-houses-in-benguela/",
-      "source": "Negócios de Angola",
-      "_key": "25fae12743f02085",
-      "score": 8
-    },
-    {
-      "title": "Executivo aprova isenção de vistos com Emirados e reforço na defesa com RDC",
-      "url": "https://correiokianda.info/executivo-aprova-isencao-de-vistos-com-emirados-e-reforco-na-defesa-com-rdc/",
-      "source": "Correio Kianda",
-      "_key": "ee7520955b4e208c",
-      "score": 7
-    },
-    {
-      "title": "Parlamento debate fim da gratuitidade da assistência médica em Angola",
-      "url": "https://correiokianda.info/parlamento-debate-fim-da-gratuitidade-da-assistencia-medica-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "81dfb503808d3f69",
-      "score": 7
-    },
-    {
-      "title": "Balança comercial de Angola regista saldo positivo de 1,07 mil milhões de kwanzas em Maio de 2026",
-      "url": "https://correiokianda.info/balanca-comercial-de-angola-regista-saldo-positivo-de-107-mil-milhoes-de-kwanzas-em-maio-de-2026/",
-      "source": "Correio Kianda",
-      "_key": "461e2c0c331def24",
-      "score": 7
-    },
-    {
-      "title": "Avenida Deolinda Rodrigues regista 8 mortes e 25 feridos por acidente de viação em dois dias",
-      "url": "https://correiokianda.info/avenida-deolinda-rodrigues-regista-8-mortes-e-25-feridos-por-acidente-de-viacao-em-dois-dias/",
-      "source": "Correio Kianda",
-      "_key": "c6ef7dee9bcdcbbd",
-      "score": 7
-    },
-    {
-      "title": "Saúde: Fim da gratuitidade generalizada. Utentes com capacidade financeira vão comparticipar em 30% dos custos",
-      "url": "https://diariodosnegocios.com/saude-fim-da-gratuitidade-generalizada-utentes-com-capacidade-financeira-vao-comparticipar-em-30-dos-custos/",
-      "source": "Diário dos Negócios",
-      "_key": "de8ceecd19ee4816",
-      "score": 7
-    },
-    {
-      "title": " Saúde: Fim da gratuitidade generalizada. Utentes com capacidade financeira vão comparticipar em 30% dos custos ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_99ac411d10b130",
-      "score": 7
-    },
-    {
-      "title": "Economia Balança comercial registou saldo positivo de 1,07 bilião em Maio ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679825/balan%C3%A7a-comercial-registou-saldo-positivo-de-107-bili%C3%A3o-em-maio",
-      "source": "Jornal de Angola",
-      "_key": "496a42dd1400623a",
-      "score": 7
-    },
-    {
-      "title": "Angola Has Addressed Only One of the Six Deficiencies Identified by FATF",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10041",
-      "source": "Negócios de Angola",
-      "_key": "6ac177924344a978",
-      "score": 7
-    },
-    {
-      "title": "Apenas 13 dos 44 postos de combustível funcionam na nova...",
-      "url": "https://valoreconomico.co.ao/artigo/apenas-13-dos-44-postos-de-combustivel-funcionam-na-nova-provincia-do-moxico-leste",
-      "source": "Valor Económico",
-      "_key": "fdeeb5d7adb3a491",
-      "score": 7
-    },
-    {
-      "title": "Copper prospecting in Macondo municipality reaches satisfactory levels",
-      "url": "https://www.angop.ao/en/noticias/economia/secretario-de-estado-considera-satisfatoria-prospeccao-de-cobre-em-macondo/",
+      "title": "SNPCB bulletin reports 26 deaths over last 72-hours",
+      "url": "https://www.angop.ao/en/noticias/sociedade/bombeiros-registam-26-mortes-no-fim-de-semana-em-angola/",
       "source": "ANGOP",
-      "_key": "7e0208d40f983123",
-      "score": 6
+      "_key": "816d80c4a3f367f4",
+      "score": 7
     },
     {
-      "title": "Activista cívico alvo de perseguição e assalto à mão armada em Viana",
-      "url": "https://www.club-k.net/index.php?option=com_content&view=article&id=60619:activista-civico-alvo-de-perseguicao-e-assalto-a-mao-armada-em-viana&catid=2:sociedade&lang=pt&Itemid=1069",
-      "source": "Club K",
-      "_key": "87248c2a04456e80",
-      "score": 6
+      "title": "Financiamento climático de Angola está avaliado 421.3 mil milhões de dólares – BNA",
+      "url": "https://forbesafricalusofona.com/financiamento-climatico-de-angola-esta-avaliado-421-3-mil-milhoes-de-dolares-bna/",
+      "source": "Forbes África",
+      "_key": "b4c9dd60a867c629",
+      "score": 7
     },
     {
-      "title": "MININT dispensa registo criminal e as provas serão feitas de forma electrónicas",
-      "url": "https://diariodosnegocios.com/minint-dispensa-registo-criminal-e-as-provas-serao-feitas-de-forma-electronicas/",
-      "source": "Diário dos Negócios",
-      "_key": "2269b2ef80f8bceb",
-      "score": 6
-    },
-    {
-      "title": "Bancassurance: Dez bancos autorizados a operar como agentes de seguros em Angola",
-      "url": "https://diariodosnegocios.com/bancassurance-dez-bancos-autorizados-a-operar-como-agentes-de-seguros-em-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "d796c6fc17013b5d",
-      "score": 6
-    },
-    {
-      "title": "Angola terá 634 Balcões Únicos de Atendimento ao Cidadão até final de julho",
-      "url": "https://diariodosnegocios.com/angola-tera-634-balcoes-unicos-de-atendimento-ao-cidadao-ate-final-de-julho/",
-      "source": "Diário dos Negócios",
-      "_key": "6167ab531dc9a81a",
-      "score": 6
-    },
-    {
-      "title": " MININT dispensa registo criminal e as provas serão feitas de forma electrónicas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_622ed337d4fb65",
-      "score": 6
-    },
-    {
-      "title": " Bancassurance: Dez bancos autorizados a operar como agentes de seguros em Angola ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_115af7bb81588c",
-      "score": 6
-    },
-    {
-      "title": " Angola terá 634 Balcões Únicos de Atendimento ao Cidadão até final de julho ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_58aab2fde0bc17",
-      "score": 6
-    },
-    {
-      "title": "Angola: a influência externa e a disputa pelo valor criado no território nacional",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679868/angola:-a-influ%C3%AAncia-externa--e-a-disputa-pelo-valor-criado--no-territ%C3%B3rio-nacional",
+      "title": "Destaque Angola defende reforço da cooperação internacional contra terrorismo Angola defendeu, na quarta-feira, na sede das Nações Unidas, em Nova Iorque, o reforço da cooperação internacional e da adopção de uma abordagem preventiva no combate ao terrorismo, por ocasião da sessão que assinalou os 20 anos da Estratégia Global de Combate ao Terrorismo.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/679891/angola-defende-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-internacional-contra-terrorismo-",
       "source": "Jornal de Angola",
-      "_key": "4af0f21652bb7de2",
-      "score": 6
+      "_key": "5ac4ad5200228fdb",
+      "score": 7
     },
     {
-      "title": "Balcões Únicos de Atendimento ao Público passam a funcionar...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/balcoes-unicos-de-atendimento-ao-publico-passam-a-funcionar-de-segunda-a-sabado-72965.html",
+      "title": "Angola a caminho de bater historicamenteos números...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/angola-a-caminho-de-bater-historicamenteos-numeros-da-importacao-de-milho-conclusao-72967.html",
       "source": "Novo Jornal",
-      "_key": "352a62cd6235077c",
-      "score": 6
+      "_key": "2fed79be73583941",
+      "score": 7
     },
     {
-      "title": "Seis efectivos do SIC condenados a penas entre seis e 16 meses de prisão por roubo de 63 botijas de gás de cozinha",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/seis-efectivos-do-sic-condenados-a-penas-entre-seis-e-16-meses-de-prisao-por-roubo-de-63-botijas-de-gas-de-cozinha-72950.html",
-      "source": "Novo Jornal",
-      "_key": "2f6e6fbe794c7559",
-      "score": 6
-    },
-    {
-      "title": "Agentes do SIC condenados por desvio de mais de 60 botijas no Cazenga",
-      "url": "https://www.opais.ao/manchete/agentes-do-sic-condenados-por-desvio-de-mais-de-60-botijas-no-cazenga/",
-      "source": "O País",
-      "_key": "45b99bfe799426b9",
-      "score": 6
-    },
-    {
-      "title": "AFRICOM aponta Angola como parceiro estratégico para a segurança em África",
-      "url": "https://www.opais.ao/politica/africom-aponta-angola-como-parceiro-estrategico-para-a-seguranca-em-africa/",
-      "source": "O País",
-      "_key": "7401807d53871dac",
-      "score": 6
-    },
-    {
-      "title": "Expo-Namibe prevê arrecadar cerca de mil milhões de kwanzas",
-      "url": "https://www.opais.ao/economia/expo-namibe-preve-arrecadar-cerca-de-mil-milhoes-de-kwanzas/",
-      "source": "O País",
-      "_key": "4d5f35e31809e6a9",
-      "score": 6
-    },
-    {
-      "title": "1.ª edição da Expo-Namibe arranca com cerca de 100 empresas do país",
-      "url": "https://www.opais.ao/economia/1-a-edicao-da-expo-namibe-arranca-com-cerca-de-100-empresas-do-pais/",
-      "source": "O País",
-      "_key": "629fd43308c32fe2",
-      "score": 6
-    },
-    {
-      "title": "Angola moves forward with new National Science and Tech Policy",
-      "url": "https://www.angop.ao/en/noticias/educacao/angola-avanca-com-nova-politica-nacional-de-ciencia-e-tecnologia/",
+      "title": "UGD and Inovadora Capital agree to promote liquidity of treasury bonds",
+      "url": "https://www.angop.ao/en/noticias/economia/ugd-e-inovadora-capital-acordam-fomentar-liquidez-dos-titulos-de-tesouro/",
       "source": "ANGOP",
-      "_key": "7f7ca751baee4102",
-      "score": 5
+      "_key": "3851e976528df306",
+      "score": 6
     },
     {
-      "title": "African military leaders reaffirm commitment to peace and security",
-      "url": "https://www.angop.ao/en/noticias/politica/chefes-militares-africanos-reafirmam-compromisso-com-a-paz-e-seguranca/",
-      "source": "ANGOP",
-      "_key": "1be87e38c4b7ca52",
-      "score": 5
+      "title": "MININT elimina exigência de registo criminal e documento militar no novo concurso público",
+      "url": "https://angola24horas.com/sociedade/item/34597-minint-elimina-exigencia-de-registo-criminal-e-documento-militar-no-novo-concurso-publico",
+      "source": "Angola 24 Horas",
+      "_key": "8aac507183b489ea",
+      "score": 6
     },
     {
-      "title": "Associação Angolana de Bancos defende financiamento sustentável para impulsionar o desenvolvimento do país",
-      "url": "https://correiokianda.info/associacao-angolana-de-bancos-defende-financiamento-sustentavel-para-impulsionar-o-desenvolvimento-do-pais/",
+      "title": "Destaque Daniel Félix Neto constata funcionamento dos BUAP no CubangoO ministro da Administração do Território, Daniel Félix Neto, efectua, esta quinta-feira, uma visita de trabalho à província do Cubango para constatar o grau de funcionamento, organização e capacidade de resposta dos Balcões Únicos de Atendimento ao Público (BUAP) nos municípios de Menongue e Longa, no âmbito do processo de actualização do Registo Eleitoral Oficioso.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679889/daniel-f%C3%A9lix-neto-constata-funcionamento-dos-buap-no-cubango",
+      "source": "Jornal de Angola",
+      "_key": "a05eb4e64e0f1bde",
+      "score": 6
+    },
+    {
+      "title": "Ministro da Administração do Território trabalha na província do Cubango",
+      "url": "https://www.opais.ao/ultima_hora/ministro-da-administracao-do-territorio-trabalha-na-provincia-do-cubango/",
+      "source": "O País",
+      "_key": "88a3d6c1ec1f874d",
+      "score": 6
+    },
+    {
+      "title": "        África6 minutos atrás  Cyril Ramaphosa visita Kinshasa para reforçar cooperação no combate a pandemias O Presidente da África do Sul, Cyril Ramaphosa, deslocou-se esta quinta-feira, 2 de Julho de 2026, a Kinshasa, na República Democrática do Congo (RDC), no quadro...   ",
+      "url": "https://correiokianda.info/cyril-ramaphosa-visita-kinshasa-para-reforcar-cooperacao-no-combate-a-pandemias/",
       "source": "Correio Kianda",
-      "_key": "731f8d36422e8634",
+      "_key": "f41f5fa98ffdf143",
       "score": 5
     },
     {
-      "title": "Inteligência Artificial aumenta o ciber-risco nas empresas",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_ef32f168421dc3",
-      "score": 5
-    },
-    {
-      "title": "Inteligência Artificial aumenta o ciber-risco nas empresasA crescente adopção da inteligência artificial (IA), o aumento do número de acessos realizados por máquinas e a maior dependência de fornecedores tecnológicos estão a redefinir o panorama da cibersegurança empresarial. A conclusão consta do relatório Considerações sobre a Cibersegurança em 2026, da KPMG, que aponta o cibercrime e a insegurança digital como a principal ameaça ao crescimento das organizações, segundo 79% dos CEOs inquiridos",
-      "url": "https://expansao.co.ao/weekend/tecnologia/detalhe/inteligencia-artificial-aumenta-o-ciber-risco-nas-empresas-72952.html",
-      "source": "Expansão",
-      "_key": "f6a131b18d5b993e",
-      "score": 5
-    },
-    {
-      "title": "10:23 / 2 jul. 2026 Angola defende reforço da cooperação internacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679847/angola-defende-refor%C3%A7o-da--coopera%C3%A7%C3%A3o-internacional-",
+      "title": "Política Parlamento aprecia diploma para emissão de moeda comemorativa dos 50 anos do BNA ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679886/parlamento-aprecia-diploma-para-emiss%C3%A3o-de-moeda-comemorativa-dos-50-anos-do-bna",
       "source": "Jornal de Angola",
-      "_key": "75f2701f2e99a5b7",
-      "score": 5
-    },
-    {
-      "title": "Turismo: o novo motor da diversificação económica de Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679866/turismo:-o-novo-motor--da-diversifica%C3%A7%C3%A3o-econ%C3%B3mica-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "81933bbeaafb4b3e",
-      "score": 5
-    },
-    {
-      "title": "Concurso público do MININT exclui obrigatoriedade de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/concurso-publico-do-minint-exclui-obrigatoriedade-de-apresentacao-de-registo-criminal-ou-documento-militar-provas-serao-electronicas-e-realizadas-em-salas-criadas-para-os-exames-72961.html",
-      "source": "Novo Jornal",
-      "_key": "eb46e8d50976dc8c",
-      "score": 5
-    },
-    {
-      "title": "Lei em campo: Uma bolada de dinheiro",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/lei-em-campo-uma-bolada-de-dinheiro-72959.html",
-      "source": "Novo Jornal",
-      "_key": "dd5d9a3ec9848380",
-      "score": 5
-    },
-    {
-      "title": "Apenas 31% dos bancos em Angola publicam relatórios de sustentabilidade, revela ABANC",
-      "url": "https://www.opais.ao/economia/apenas-31-dos-bancos-em-angola-publicam-relatorios-de-sustentabilidade-revela-abanc/",
-      "source": "O País",
-      "_key": "53123afba2602dba",
-      "score": 5
-    },
-    {
-      "title": "Polícia Nacional desmantela grupos “Labels” e “Baby 300” no Sambizanga",
-      "url": "https://www.opais.ao/ultima_hora/policia-nacional-desmantela-grupos-labels-e-baby-300-no-sambizanga/",
-      "source": "O País",
-      "_key": "d301d7a8477dd32a",
+      "_key": "1a14e94f80e5c7bf",
       "score": 5
     }
   ]
