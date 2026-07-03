@@ -1,70 +1,301 @@
 {
-  "date": "2026-07-02",
-  "total_new": 24,
-  "total_filtered": 9,
+  "date": "2026-07-03",
+  "total_new": 141,
+  "total_filtered": 42,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola reforça cooperação para melhorar controlo e segurança dos portos",
-      "url": "https://holdonangola.com/angola-reforca-cooperacao-para-melhorar-controlo-e-seguranca-dos-portos/",
-      "source": "Hold On Angola",
-      "_key": "89d86eb83827edd9",
+      "title": "Angola vai mapear Corredor do Lobito para identificar áreas de produção e recursos naturais",
+      "url": "https://jornaloguardiao.com/2026/07/02/angola-vai-mapear-corredor-do-lobito-para-identificar-areas-de-producao-e-recursos-naturais/",
+      "source": "Jornal O Guardião",
+      "_key": "6cd04a52e8b707cb",
+      "score": 10
+    },
+    {
+      "title": " Angola vai mapear Corredor do Lobito para identificar áreas de produção e recursos naturais ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f305f1ff78266d",
+      "score": 10
+    },
+    {
+      "title": "Taxas de câmbio e competitividade da economia angolana",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_5271668e039f9a",
+      "score": 9
+    },
+    {
+      "title": "CHANCELA DO CINVESTEC Bernardo VazTaxas de câmbio e competitividade da economia angolana",
+      "url": "https://expansao.co.ao/opiniao/detalhe/taxas-de-cambio-e-competitividade-da-economia-angolana-72936.html",
+      "source": "Expansão",
+      "_key": "d25820ff58ff7c4f",
+      "score": 9
+    },
+    {
+      "title": "Preços do petróleo recua 1,7% para 70,38 dólares o barril",
+      "url": "https://forbesafricalusofona.com/precos-do-petroleo-recua-17-para-7038-dolares-o-barril/",
+      "source": "Forbes África",
+      "_key": "6acee3f649ef2453",
+      "score": 9
+    },
+    {
+      "title": "Angola marca presença na Conferência Regional sobre o Controlo dos Portos",
+      "url": "https://www.opais.ao/economia/angola-marca-presenca-na-conferencia-regional-sobre-o-controlo-dos-portos/",
+      "source": "O País",
+      "_key": "ae548990307a6748",
+      "score": 9
+    },
+    {
+      "title": "Operações da Chevron e ExxonMobil rendem 8,8 mil milhões de...",
+      "url": "https://valoreconomico.co.ao/artigo/operacoes-da-chevron-e-exxonmobil-rendem-8-8-mil-milhoes-de-dolares-a-angola",
+      "source": "Valor Económico",
+      "_key": "7c1c8f4dbd1af8cd",
+      "score": 9
+    },
+    {
+      "title": "Reservas internacionais encolhem 968 milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/reservas-internacionais-encolhem-968-milhoes-usd-72976.html",
+      "source": "Expansão",
+      "_key": "a9c0eb6a5bacbdc4",
       "score": 8
     },
     {
-      "title": "Autoridades sul-africanas detêm mais de 900 pessoas envolvidas nos protestos anti-imigração",
-      "url": "https://correiokianda.info/autoridades-sul-africanas-detem-mais-de-900-pessoas-envolvidas-nos-protestos-anti-imigracao/",
+      "title": "\"Angola entrou agora numa nova fase do seu desenvolvimento\", Ricardo d´AbreuO ministro dos Transportes, Ricardo Viegas D'Abreu, defendeu, na abertura do II Fórum Transportes e Logística do Expansão, que o investimento em infra-estruturas de transporte é um factor determinante para o crescimento económico, sublinhando que a competitividade de um país depende cada vez mais da eficiência da sua logística.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/angola-entrou-agora-numa-nova-fase-do-seu-desenvolvimento-ricardo-dabreu-72989.html",
+      "source": "Expansão",
+      "_key": "7703e7967356f593",
+      "score": 8
+    },
+    {
+      "title": "PR autoriza construção de mais 1.300 habitações para famílias de Benguela por 63,9 mil milhões de kwanzas",
+      "url": "https://jornaloguardiao.com/2026/07/02/pr-autoriza-construcao-de-mais-1-300-habitacoes-para-familias-de-benguela-por-639-mil-milhoes-de-kwanzas/",
+      "source": "Jornal O Guardião",
+      "_key": "b06c202ffefb17a5",
+      "score": 8
+    },
+    {
+      "title": " PR autoriza construção de mais 1.300 habitações para famílias de Benguela por 63,9 mil milhões de kwanzas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_97cd85b282a1a8",
+      "score": 8
+    },
+    {
+      "title": "Produzir ou continuar a importar? O novo desafio estratégico da economia angolana",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/679932/produzir-ou-continuar-a-importar%3F-o-novo-desafio-estrat%C3%A9gico--da-economia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "dc89ad6af7a3356a",
+      "score": 8
+    },
+    {
+      "title": "PCA da AGT é o convidado da VI edição das Conversas Economia 100 Makas",
+      "url": "https://www.opais.ao/economia/pca-da-agt-e-o-convidado-da-vi-edicao-das-conversas-economia-100-makas/",
+      "source": "O País",
+      "_key": "3623def3715622ef",
+      "score": 8
+    },
+    {
+      "title": "Crise de combustíveis em Cabinda provoca longas filas e contestação política",
+      "url": "https://correiokianda.info/crise-de-combustiveis-em-cabinda-provoca-longas-filas-e-contestacao-politica/",
       "source": "Correio Kianda",
-      "_key": "0c78263295c3be32",
+      "_key": "ebe6696570691e5f",
       "score": 7
     },
     {
-      "title": "Marcy Lopes quer fim do desleixo nos serviços públicos onde...",
-      "url": "https://valoreconomico.co.ao/artigo/marcy-lopes-quer-fim-do-desleixo-nos-servicos-publicos-onde-pinga-agua-ha-bolor-e-as-paredes-estao-sujas",
+      "title": "Tensão no Estreito de Ormuz persiste apesar de avanços entre Irão e EUA",
+      "url": "https://correiokianda.info/tensao-no-estreito-de-ormuz-persiste-apesar-de-avancos-entre-irao-e-eua/",
+      "source": "Correio Kianda",
+      "_key": "b95eaae269798c87",
+      "score": 7
+    },
+    {
+      "title": "\"Angola entrou agora numa nova fase do seu desenvolvimento\", Ricardo d´Abreu",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c784c51af57bae",
+      "score": 7
+    },
+    {
+      "title": "Trump afirma que Irão aceitou “praticamente tudo” o que os EUA exigem",
+      "url": "https://jornaloguardiao.com/2026/07/03/trump-afirma-que-irao-aceitou-praticamente-tudo-o-que-os-eua-exigem/",
+      "source": "Jornal O Guardião",
+      "_key": "51958566301225cb",
+      "score": 7
+    },
+    {
+      "title": " Trump afirma que Irão aceitou “praticamente tudo” o que os EUA exigem ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_28c6ef6be4843e",
+      "score": 7
+    },
+    {
+      "title": "Economia Estabilidade abre oportunidade para investimento produtivo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679928/estabilidade-abre-oportunidade-para-investimento-produtivo",
+      "source": "Jornal de Angola",
+      "_key": "b69295406dd55f75",
+      "score": 7
+    },
+    {
+      "title": "Economia Produção Industrial cresce 7,26 por cento em Maio ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/679927/produ%C3%A7%C3%A3o-industrial-cresce-726-por-cento-em-maio",
+      "source": "Jornal de Angola",
+      "_key": "8942e0ffff35ac1b",
+      "score": 7
+    },
+    {
+      "title": "Angola and UAE strengthen partnership to attract tourism investment",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-eau-reforcam-parceria-para-atraccao-de-investimento-no-turismo/",
+      "source": "ANGOP",
+      "_key": "e374bf61c428643c",
+      "score": 6
+    },
+    {
+      "title": "Export substitution project injects over AKz 10 billion in 125 projects financing in Huambo",
+      "url": "https://www.angop.ao/en/noticias/economia/prodesi-injecta-mais-de-kz-10-mil-milhoes-no-financiamento-de-125-projectos-no-huambo/",
+      "source": "ANGOP",
+      "_key": "fb7e34cb56e248cf",
+      "score": 6
+    },
+    {
+      "title": "Central Bank and UNDP sign agreement on financial inclusion",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-e-pnud-assinam-acordo-no-dominio-da-inclusao-financeira/",
+      "source": "ANGOP",
+      "_key": "f05fa6e18e13784a",
+      "score": 6
+    },
+    {
+      "title": "Angola aims to become a benchmark in sustainable biofuel production",
+      "url": "https://www.angop.ao/en/noticias/economia/estrategia-dos-biocombustiveis-estimula-agricultura-no-moxico-leste/",
+      "source": "ANGOP",
+      "_key": "151c5d45b556385b",
+      "score": 6
+    },
+    {
+      "title": "BNA e PNUD assinam acordo para reforçar inclusão e educação financeira em Angola",
+      "url": "https://correiokianda.info/bna-e-pnud-assinam-acordo-para-reforcar-inclusao-e-educacao-financeira-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "b84e098c0ae06f17",
+      "score": 6
+    },
+    {
+      "title": "“Fuga de quadro e corrupção entre os entraves à qualidade do Ensino Superior em Angola” – Académico",
+      "url": "https://correiokianda.info/fuga-de-quadro-e-corrupcao-entre-os-entraves-a-qualidade-do-ensino-superior-em-angola-academico/",
+      "source": "Correio Kianda",
+      "_key": "0cbf8f0c6e02733f",
+      "score": 6
+    },
+    {
+      "title": "Classe média alta é a mais beneficiada com alívio fiscal nos rendimentos sobre o trabalho",
+      "url": "https://expansao.co.ao/angola/detalhe/classe-media-alta-e-a-mais-beneficiada-com-alivio-fiscal-nos-rendimentos-sobre-o-trabalho-72978.html",
+      "source": "Expansão",
+      "_key": "800faa148234fc56",
+      "score": 6
+    },
+    {
+      "title": "A questão agrária na diversificação da economia",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_2c94682ee7f351",
+      "score": 6
+    },
+    {
+      "title": "Bancassurance avança com dúvidas sobre concorrência e fiscalização",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e4c181b7c6a92d",
+      "score": 6
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaA questão agrária na diversificação da economia",
+      "url": "https://expansao.co.ao/opiniao/detalhe/a-questao-agraria-na-diversificacao-da-economia-72975.html",
+      "source": "Expansão",
+      "_key": "482b2f013eeef4f5",
+      "score": 6
+    },
+    {
+      "title": "Autoridades angolanas investigam mortes por alegado consumo de água contaminada",
+      "url": "https://jornaloguardiao.com/2026/07/02/autoridades-angolanas-investigam-mortes-por-alegado-consumo-de-agua-contaminada/",
+      "source": "Jornal O Guardião",
+      "_key": "1168228b2cd25b6b",
+      "score": 6
+    },
+    {
+      "title": " Autoridades angolanas investigam mortes por alegado consumo de água contaminada ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_65bd121da00875",
+      "score": 6
+    },
+    {
+      "title": " SIC detém cidadão por vandalização de torres de alta tensão na Quipela ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/679935/sic-det%C3%A9m-cidad%C3%A3o-por-vandaliza%C3%A7%C3%A3o-de-torres-de-alta-tens%C3%A3o-na-quipela",
+      "source": "Jornal de Angola",
+      "_key": "b757e4f1f5b471e2",
+      "score": 6
+    },
+    {
+      "title": "Autoridades no Bengo reforçam “aperto” ao garimpo de ouro depois da morte de dez garimpeiros por água contaminada em Bula Tumba",
+      "url": "https://www.opais.ao/politica/autoridades-no-bengo-reforcam-aperto-ao-garimpo-de-ouro-depois-da-morte-de-dez-garimpeiros-por-agua-contaminada-em-bula-tumba/",
+      "source": "O País",
+      "_key": "4bd0cf0c54f2d9c6",
+      "score": 6
+    },
+    {
+      "title": "Crise na pecuária: Falta de cevada e ração cara provocam...",
+      "url": "https://valoreconomico.co.ao/artigo/crise-na-pecuaria-falta-de-cevada-e-racao-cara-provocam-morte-de-centenas-de-animais",
       "source": "Valor Económico",
-      "_key": "ef029742a545af23",
-      "score": 7
-    },
-    {
-      "title": "PGR investiga ministra das Pescas por alegados indícios de má gestão",
-      "url": "https://angola24horas.com/component/k2/item/34600-pgr-investiga-ministra-das-pescas-por-alegados-indicios-de-ma-gestao",
-      "source": "Angola 24 Horas",
-      "_key": "895515ee4e5cd92f",
+      "_key": "7e1b19b6fb55ac81",
       "score": 6
     },
     {
-      "title": "Retoma circulação de comboios entre estações do Bungo ao Aeroporto Internacional Dr. António Agostinho Neto",
-      "url": "https://correiokianda.info/retoma-circulacao-de-comboios-entre-estacoes-do-bungo-ao-aeroporto-internacional-dr-antonio-agostinho-neto/",
-      "source": "Correio Kianda",
-      "_key": "46700da83a564dd3",
-      "score": 6
-    },
-    {
-      "title": "Mundo Casos confirmados de Ébola na RDC sobem para 1.406 ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679895/casos-confirmados-de-%C3%A9bola-na-rdc-sobem-para-1.406",
-      "source": "Jornal de Angola",
-      "_key": "2c4963c22b34d64c",
-      "score": 6
-    },
-    {
-      "title": "Presidente moçambicano reconhece que xenofobia na África do Sul está a piorar",
-      "url": "https://www.dw.com/pt-002/presidente-moçambicano-reconhece-que-xenofobia-na-áfrica-do-sul-está-a-piorar/a-77802764?maca=por-RSS_VAF_Club-K-22869-xml-cb",
-      "source": "Club K",
-      "_key": "9cf393dd9b842f87",
+      "title": "Luanda hosts national digital transformation forum's 2nd edition",
+      "url": "https://www.angop.ao/en/noticias/economia/forum-debate-transformacao-digital-em-luanda/",
+      "source": "ANGOP",
+      "_key": "308d991e96f2408b",
       "score": 5
     },
     {
-      "title": "Detidos dois suspeitos da morte de agente da Polícia Nacional em Luanda",
-      "url": "https://correiokianda.info/detidos-dois-suspeitos-da-morte-de-agente-da-policia-nacional-em-luanda/",
-      "source": "Correio Kianda",
-      "_key": "12a9a7d90c7d139b",
+      "title": "Climate Resilience project kicks off research for Quipungo dam requalification",
+      "url": "https://www.angop.ao/en/noticias/economia/reclima-estuda-requalificacao-da-represa-de-quipungo/",
+      "source": "ANGOP",
+      "_key": "33045e06de7fb315",
       "score": 5
     },
     {
-      "title": "Destaque Diplomacia parlamentar pode consolidar paz na Região dos Grandes LagosA diplomacia parlamentar pode desempenhar um papel determinante na consolidação de uma paz duradoura, no reforço da estabilidade política e na criação das condições indispensáveis para o desenvolvimento sustentável da Região dos Grandes Lagos, afirmou, hoje, em Luanda, o presidente da Assembleia Nacional, Adão de Almeida.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679893/diplomacia-parlamentar-pode-consolidar-paz-na-regi%C3%A3o-dos-grandes-lagos",
+      "title": "ARC promotes international debate on digital market regulation",
+      "url": "https://www.angop.ao/en/noticias/economia/arc-promove-debate-internacional-de-regulacao-dos-mercados-digitais/",
+      "source": "ANGOP",
+      "_key": "bbe0264ece74f4f0",
+      "score": 5
+    },
+    {
+      "title": "Zaire govt committed to building new municipal hospitals",
+      "url": "https://www.angop.ao/en/noticias/saude/governo-do-zaire-trabalha-na-construcao-de-hospitais-nos-novos-municipios/",
+      "source": "ANGOP",
+      "_key": "232fc20d7d2a976c",
+      "score": 5
+    },
+    {
+      "title": "Angola e RDC reforçam cooperação com criação de Comissão Mista de Defesa e Segurança",
+      "url": "https://correiokianda.info/angola-e-rd-congo-reforcam-cooperacao-com-criacao-de-comissao-mista-de-defesa-e-seguranca/",
+      "source": "Correio Kianda",
+      "_key": "f42bac25f80e5515",
+      "score": 5
+    },
+    {
+      "title": "Mundo ONU prevê rápida intensificação do El Niño ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/679943/onu-prev%C3%AA-r%C3%A1pida-intensifica%C3%A7%C3%A3o-do-el-ni%C3%B1o",
       "source": "Jornal de Angola",
-      "_key": "02f7cf85b7aba5b5",
+      "_key": "df2fdd488c7b13d3",
+      "score": 5
+    },
+    {
+      "title": "Oficial superior da Polícia está a ser julgado, acusado...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/oficial-superior-da-policia-esta-a-ser-julgado-acusado-de-liderar-associacao-criminosa-que-vitimou-um-motorista-da-yango-na-zona-verde-em-2025-72996.html",
+      "source": "Novo Jornal",
+      "_key": "9a0c554522f715c7",
       "score": 5
     }
   ]
