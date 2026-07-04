@@ -1,200 +1,72 @@
 {
   "date": "2026-07-04",
-  "total_new": 71,
-  "total_filtered": 24,
+  "total_new": 21,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Porto do Lobito movimenta mais de 800 mil toneladas diversas no primeiro semestre deste ano",
-      "url": "https://www.opais.ao/ultima_hora/porto-do-lobito-movimenta-mais-de-800-mil-toneladas-diversas-no-primeiro-semestre-deste-ano/",
-      "source": "O País",
-      "_key": "93965bdeed138fc3",
-      "score": 10,
-      "title_cn": "洛比托港上半年货物吞吐量超80万吨"
+      "title": "Agro-Corredores: transformar potencial em riqueza efectiva",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/680044/agro-corredores:-transformar-potencial-em-riqueza-efectiva",
+      "source": "Jornal de Angola",
+      "_key": "707fc13784eb0902",
+      "score": 8,
+      "title_cn": "农业走廊：将潜力转化为实际财富"
     },
     {
-      "title": "Dois falsos agentes do SINSE detidos no Bengo por extorsão a comerciantes estrangeiros",
-      "url": "https://angola24horas.com/sociedade/item/34607-dois-falsos-agentes-do-sinse-detidos-no-bengo-por-extorsao-a-comerciantes-estrangeiros",
+      "title": "Growth of 5.32% GDP in 2026 marks economic news",
+      "url": "https://www.angop.ao/en/noticias/economia/crescimento-de-5-32-pib-em-2026-marca-noticiario-economico/",
+      "source": "ANGOP",
+      "_key": "c8020a0abdb1d17e",
+      "score": 7,
+      "title_cn": "2026年GDP增长5.32%成为经济新闻焦点"
+    },
+    {
+      "title": "Cuanza-Norte Health Office reports over 332,000 cases of malaria in 2025/2026",
+      "url": "https://www.angop.ao/en/noticias/saude/cuanza-norte-regista-mais-de-332-mil-casos-de-malaria-em-2025-2026/",
+      "source": "ANGOP",
+      "_key": "3d624d044cb947af",
+      "score": 7,
+      "title_cn": "宽扎北省卫生局报告2025/2026年疟疾病例超33.2万例"
+    },
+    {
+      "title": "Política Segurança marítima exige mecanismos coordenados ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679987/seguran%C3%A7a-mar%C3%ADtima-exige-mecanismos-coordenados-",
+      "source": "Jornal de Angola",
+      "_key": "2ba63f014f5c7bc9",
+      "score": 7,
+      "title_cn": "海上安全政策：需协调机制"
+    },
+    {
+      "title": "Polices' most wanted man detained for armed robbery in Matala",
+      "url": "https://www.angop.ao/en/noticias/sociedade/detido-homem-mais-procurado-por-roubos-a-mao-armada-na-matala/",
+      "source": "ANGOP",
+      "_key": "dd2496811898e2a9",
+      "score": 6,
+      "title_cn": "警方头号通缉犯因马塔拉武装抢劫案被捕"
+    },
+    {
+      "title": "Entre os números e a realidade: Quando o crescimento económico não resolve o social dos angolanos",
+      "url": "https://angola24horas.com/opiniao/item/34598-entre-os-numeros-e-a-realidade-quando-o-crescimento-economico-nao-resolve-o-social-dos-angolanos",
       "source": "Angola 24 Horas",
-      "_key": "297eb70886cb749d",
-      "score": 9,
-      "title_cn": "两名假冒情报局特工在本戈省勒索外国商人被捕"
-    },
-    {
-      "title": "Falhas em transferências e comissões excessivas levam BNA a sancionar o BFA",
-      "url": "https://diariodosnegocios.com/falhas-em-transferencias-e-comissoes-excessivas-levam-bna-a-sancionar-o-bfa/",
-      "source": "Diário dos Negócios",
-      "_key": "e3adb693f5588750",
-      "score": 9,
-      "title_cn": "安哥拉国家银行因转账故障和佣金过高处罚BFA银行"
-    },
-    {
-      "title": " Falhas em transferências e comissões excessivas levam BNA a sancionar o BFA ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_d6d0d54718603c",
-      "score": 9,
-      "title_cn": "安哥拉国家银行因转账故障和佣金过高处罚BFA银行"
-    },
-    {
-      "title": "BFA multado pelo BNA em 48 milhões de kwanzas por...",
-      "url": "https://valoreconomico.co.ao/artigo/bfa-multado-pelo-bna-em-48-milhoes-de-kwanzas-por-atrasos-em-transferencias",
-      "source": "Valor Económico",
-      "_key": "15df08b32a674d23",
-      "score": 9,
-      "title_cn": "BFA银行因违规被安哥拉国家银行罚款4800万宽扎"
-    },
-    {
-      "title": "Novo Código do IRPS entra em vigor a 1 de Janeiro de 2027",
-      "url": "https://jornaloguardiao.com/2026/07/04/novo-codigo-do-irps-entra-em-vigor-a-1-de-janeiro-de-2027/",
-      "source": "Jornal O Guardião",
-      "_key": "e3d2713279827a0f",
-      "score": 8,
-      "title_cn": "安哥拉新个人所得税法将于2027年1月1日生效"
-    },
-    {
-      "title": " Novo Código do IRPS entra em vigor a 1 de Janeiro de 2027 ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_92c9c99ee91057",
-      "score": 8,
-      "title_cn": "安哥拉新个人所得税法将于2027年1月1日生效"
-    },
-    {
-      "title": "Administração da Camama participa no Seminário Internacional sobre Governação Pública na China",
-      "url": "https://www.opais.ao/politica/administracao-da-camama-participa-no-seminario-internacional-sobre-governacao-publica-na-china/",
-      "source": "O País",
-      "_key": "f7ebf8506e44a493",
-      "score": 8,
-      "title_cn": "卡马马区政府参加中国公共治理国际研讨会"
-    },
-    {
-      "title": "Lawmakers recommend measures to improve revenue collection",
-      "url": "https://www.angop.ao/en/noticias/economia/deputados-recomendam-medidas-para-melhorar-arrecadacao-de-receitas/",
-      "source": "ANGOP",
-      "_key": "cca471ff5b767ed4",
-      "score": 7,
-      "title_cn": "议员建议采取措施改善税收征管"
-    },
-    {
-      "title": "FOTOGALERIA: II Fórum de Transportes e Logística",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_7a1751ae6ede38",
-      "score": 7,
-      "title_cn": "图片集：第二届交通物流论坛"
-    },
-    {
-      "title": "FOTOGALERIA: II Fórum de Transportes e LogísticaNa segunda edição do fórum Transportes e Logística do Expansão, os especialistas do sector discutiram sobre os corredores logísticos e de desenvolvimento do País. Enquanto acontecia o debate lá dentro, fora as empresas expuseram potencialidades do sector dos transportes e logística, bancário e segurador",
-      "url": "https://expansao.co.ao/multimedia/detalhe/fotogaleria-ii-forum-de-transportes-e-logistica-73017.html",
-      "source": "Expansão",
-      "_key": "7906afc8df9d6aca",
-      "score": 7,
-      "title_cn": "图片集：第二届交通物流论坛"
-    },
-    {
-      "title": "Angolan Defense Minister calls for greater coordination on maritime security",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-da-defesa-apela-a-maior-coordenacao-na-seguranca-do-espaco-maritimo/",
-      "source": "ANGOP",
-      "_key": "9ae124eb3d710693",
+      "_key": "f04da71c291f6d5a",
       "score": 6,
-      "title_cn": "安哥拉国防部长呼吁加强海上安全协调"
+      "title_cn": "数字与现实之间：经济增长未能解决安哥拉社会问题"
     },
     {
-      "title": "Classe média alta é a mais beneficiada com alívio fiscal nos rendimentos sobre o trabalho",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0cec350c8ded91",
-      "score": 6,
-      "title_cn": "劳动所得税收减免最大受益者为中高收入阶层"
-    },
-    {
-      "title": "Regiões Westaves exporta 5 mil de pintos para São Tomé ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679975/westaves-exporta-5-mil-de-pintos-para-s%C3%A3o-tom%C3%A9-",
+      "title": "Política Chefe de Estado convidado a participar no ECAM Council ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679988/chefe-de-estado-convidado-a-participar-no-ecam-council-",
       "source": "Jornal de Angola",
-      "_key": "010dab1cc28cd582",
-      "score": 6,
-      "title_cn": "Westaves地区向圣多美出口5000只雏鸡"
+      "_key": "50326ca88fa3d5d0",
+      "score": 5,
+      "title_cn": "政策：国家元首受邀参加ECAM理事会"
     },
     {
-      "title": "\"Hoje, mais de sessenta empresas dos Estados Unidos...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/hoje-mais-de-sessenta-empresas-dos-estados-unidos-ja-estao-presentes-em-angola-e-a-investir-no-futuro-do-pais-sublinha-encarregada-de-negocios-dos-eua-em-angola-e-sao-tome-e-principe-73012.html",
+      "title": "Os \"sinistrados da pobreza\" no drama das vítimas das...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/os-sinistrados-da-pobreza-no-drama-das-vitimas-das-cheias-em-benguela-73004.html",
       "source": "Novo Jornal",
-      "_key": "b8d98c8f49ece794",
-      "score": 6,
-      "title_cn": "超过60家美国公司..."
-    },
-    {
-      "title": "Angola projecta participação inovadora na Expo Yokohama no Japão",
-      "url": "https://www.opais.ao/politica/angola-projecta-participacao-inovadora-na-expo-yokohama-no-japao/",
-      "source": "O País",
-      "_key": "668f477b4eab1259",
-      "score": 6,
-      "title_cn": "安哥拉计划创新参与日本横滨世博会"
-    },
-    {
-      "title": "Angola joins global UNT-PASS platform",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-adere-a-plataforma-global-unt-pass/",
-      "source": "ANGOP",
-      "_key": "f7bf24d25472a8c6",
+      "_key": "fd0c97daa7f75dde",
       "score": 5,
-      "title_cn": "安哥拉加入全球UNT-PASS平台"
-    },
-    {
-      "title": "Adalberto Costa Júnior defende aposta na educação e critica gestão dos recursos naturais em Angola",
-      "url": "https://angola24horas.com/politica/item/34608-adalberto-costa-junior-defende-aposta-na-educacao-e-critica-gestao-dos-recursos-naturais-em-angola",
-      "source": "Angola 24 Horas",
-      "_key": "fe77123d2129abc9",
-      "score": 5,
-      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）倡导投资教育，批评安哥拉自然资源管理"
-    },
-    {
-      "title": "CPLP nunca chegou a ser \"uma comunidade económica\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_db7b798f3f7b24",
-      "score": 5,
-      "title_cn": "葡语国家共同体从未成为“经济共同体”"
-    },
-    {
-      "title": "Destaque Angola e Benin em consultas políticas para redefinir prioridades de cooperação  O ministro das Relações Exteriores, Téte António, chegou na noite desta sexta-feira, a Cotonou, para a primeira sessão de consultas políticas com a sua homóloga do Benin, Corinne Amori Brunet. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680009/angola-e-benin-em-consultas-pol%C3%ADticas-para-redefinir-prioridades-de-coopera%C3%A7%C3%A3o-",
-      "source": "Jornal de Angola",
-      "_key": "8338894de3230838",
-      "score": 5,
-      "title_cn": "安哥拉与贝宁政治磋商，重定合作重点。外交部长特特·安东尼奥（Téte António）抵科托努"
-    },
-    {
-      "title": "Política Téte António analisa reforço da cooperação bilateral com homólogo Somali ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679978/t%C3%A9te-ant%C3%B3nio-analisa-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-bilateral-com-hom%C3%B3logo-somali",
-      "source": "Jornal de Angola",
-      "_key": "84ddf5fb6030b794",
-      "score": 5,
-      "title_cn": "特特·安东尼奥（Téte António）与索马里外长讨论加强双边合作"
-    },
-    {
-      "title": "Regiões Feira do Milho e Bombó prevê arrecadar mais de 300 milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/679974/feira-do-milho-e-bomb%C3%B3-prev%C3%AA-arrecadar-mais-de-300-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "ad68b9bd11b70771",
-      "score": 5,
-      "title_cn": "玉米和邦博博览会预计筹集超3亿宽扎"
-    },
-    {
-      "title": "Sinistralidade: Somente 5,5% das empresas no País dispõem...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/sinistralidade-somente-55-das-empresas-no-pais-dispoem-de-seguros-obrigatorios-73006.html",
-      "source": "Novo Jornal",
-      "_key": "7bf2b0c71ec68be7",
-      "score": 5,
-      "title_cn": "全国仅5.5%的企业拥有..."
-    },
-    {
-      "title": "Governo de Benguela injecta mais de 180 mil milhões de kwanzas em projectos sociais",
-      "url": "https://www.opais.ao/politica/governo-de-benguela-injecta-mais-de-180-mil-milhoes-de-kwanzas-em-projectos-sociais/",
-      "source": "O País",
-      "_key": "f4e94e6190bc0f54",
-      "score": 5,
-      "title_cn": "本格拉省政府向社会项目投入超1800亿宽扎"
+      "title_cn": "贫困受害者：受灾者悲剧中的挣扎"
     }
   ]
 }
