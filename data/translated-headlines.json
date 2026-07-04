@@ -1,72 +1,80 @@
 {
   "date": "2026-07-04",
-  "total_new": 21,
-  "total_filtered": 8,
+  "total_new": 53,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Agro-Corredores: transformar potencial em riqueza efectiva",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/680044/agro-corredores:-transformar-potencial-em-riqueza-efectiva",
-      "source": "Jornal de Angola",
-      "_key": "707fc13784eb0902",
-      "score": 8,
-      "title_cn": "农业走廊：将潜力转化为实际财富"
-    },
-    {
-      "title": "Growth of 5.32% GDP in 2026 marks economic news",
-      "url": "https://www.angop.ao/en/noticias/economia/crescimento-de-5-32-pib-em-2026-marca-noticiario-economico/",
-      "source": "ANGOP",
-      "_key": "c8020a0abdb1d17e",
+      "title": "Fluxo recorde dos Emirados faz disparar exportações de petróleo do Golfo",
+      "url": "https://correiokianda.info/fluxo-recorde-dos-emirados-faz-disparar-exportacoes-de-petroleo-do-golfo/",
+      "source": "Correio Kianda",
+      "_key": "0d221ac5b5f07173",
       "score": 7,
-      "title_cn": "2026年GDP增长5.32%成为经济新闻焦点"
+      "title_cn": "阿联酋创纪录流量推动海湾石油出口激增"
     },
     {
-      "title": "Cuanza-Norte Health Office reports over 332,000 cases of malaria in 2025/2026",
-      "url": "https://www.angop.ao/en/noticias/saude/cuanza-norte-regista-mais-de-332-mil-casos-de-malaria-em-2025-2026/",
-      "source": "ANGOP",
-      "_key": "3d624d044cb947af",
-      "score": 7,
-      "title_cn": "宽扎北省卫生局报告2025/2026年疟疾病例超33.2万例"
-    },
-    {
-      "title": "Política Segurança marítima exige mecanismos coordenados ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679987/seguran%C3%A7a-mar%C3%ADtima-exige-mecanismos-coordenados-",
-      "source": "Jornal de Angola",
-      "_key": "2ba63f014f5c7bc9",
-      "score": 7,
-      "title_cn": "海上安全政策：需协调机制"
-    },
-    {
-      "title": "Polices' most wanted man detained for armed robbery in Matala",
-      "url": "https://www.angop.ao/en/noticias/sociedade/detido-homem-mais-procurado-por-roubos-a-mao-armada-na-matala/",
-      "source": "ANGOP",
-      "_key": "dd2496811898e2a9",
+      "title": "Nova rede eléctrica vai ligar Soyo, Cabinda e cidades da RDC",
+      "url": "https://correiokianda.info/nova-rede-electrica-vai-ligar-soyo-cabinda-e-cidades-da-rdc/",
+      "source": "Correio Kianda",
+      "_key": "dc472814c802886d",
       "score": 6,
-      "title_cn": "警方头号通缉犯因马塔拉武装抢劫案被捕"
+      "title_cn": "新电网将连接索约、卡宾达和刚果（金）城市"
     },
     {
-      "title": "Entre os números e a realidade: Quando o crescimento económico não resolve o social dos angolanos",
-      "url": "https://angola24horas.com/opiniao/item/34598-entre-os-numeros-e-a-realidade-quando-o-crescimento-economico-nao-resolve-o-social-dos-angolanos",
+      "title": "Sociedade do Chitotolo consolida referência no sector mineiro com distinção do PCA",
+      "url": "https://correiokianda.info/sociedade-do-chitotolo-consolida-referencia-no-sector-mineiro-com-distincao-do-pca/",
+      "source": "Correio Kianda",
+      "_key": "17bb37ccaef07b75",
+      "score": 6,
+      "title_cn": "Chitotolo公司因董事长获表彰，巩固矿业领先地位"
+    },
+    {
+      "title": "Destaque ANGOSAT-2 leva transmissões desportivas a universidades em zonas remotasUniversidades e um centro de formação de quatro províncias do país, abrangidos pela infra-estrutura de conectividade do projecto Conecta Angola Comercial, suportada pelo satélite ANGOSAT-2, passam a transmitir, durante o mês de Julho, jogos de futebol em streaming da DSTv.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680051/angosat-2-leva-transmiss%C3%B5es-desportivas-a-universidades-em-zonas-remotas",
+      "source": "Jornal de Angola",
+      "_key": "10e784a3a277edb3",
+      "score": 6,
+      "title_cn": "安哥拉卫星-2号将体育赛事转播至偏远地区大学"
+    },
+    {
+      "title": "Capital Market Commission approves public offering of 15% of UNITEL's share capital",
+      "url": "https://www.angop.ao/en/noticias/economia/cmc-aprova-oferta-publica-de-15-do-capital-social-da-unitel/",
+      "source": "ANGOP",
+      "_key": "47023be48e13518a",
+      "score": 5,
+      "title_cn": "资本市场委员会批准UNITEL 15%股本公开发行"
+    },
+    {
+      "title": "UNITEL entra na Bolsa de Valores com venda de 15% do capital após aval da CMC",
+      "url": "https://angola24horas.com/sociedade/item/34612-unitel-entra-na-bolsa-de-valores-com-venda-de-15-do-capital-apos-aval-da-cmc",
       "source": "Angola 24 Horas",
-      "_key": "f04da71c291f6d5a",
-      "score": 6,
-      "title_cn": "数字与现实之间：经济增长未能解决安哥拉社会问题"
+      "_key": "75cdd8b17a83cffe",
+      "score": 5,
+      "title_cn": "在 CMC 认可后 ， UNITEL 通过出售 15% 的股份进入证券交易所"
     },
     {
-      "title": "Política Chefe de Estado convidado a participar no ECAM Council ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/679988/chefe-de-estado-convidado-a-participar-no-ecam-council-",
+      "title": "Comissão do Mercado de Capitais autoriza venda de 15% das acções da UNITEL ao público",
+      "url": "https://correiokianda.info/comissao-do-mercado-de-capitais-autoriza-venda-de-15-das-accoes-da-unitel-ao-publico/",
+      "source": "Correio Kianda",
+      "_key": "dc454919a427636e",
+      "score": 5,
+      "title_cn": "资本市场委员会授权UNITEL向公众出售15%股份"
+    },
+    {
+      "title": "Ataque do M23 na RDC resulta em 18 mortos e dezenas de feridos",
+      "url": "https://correiokianda.info/ataque-do-m23-na-rdc-resulta-em-18-mortos-e-dezenas-de-feridos/",
+      "source": "Correio Kianda",
+      "_key": "dce890901398d529",
+      "score": 5,
+      "title_cn": "M23在刚果（金）发动袭击，致18死数十伤"
+    },
+    {
+      "title": "Destaque Angolanos poderão tornar-se accionistas da UNITEL com lançamento da oferta pública A UNITEL vai lançar, na segunda-feira, em Luanda, o roadshow da oferta pública de Venda, cuja iniciativa assinala o arranque de uma nova fase na história da maior operadora de telecomunicações do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680050/angolanos-poder%C3%A3o-tornar-se-accionistas-da-unitel-com-lan%C3%A7amento-da-oferta-p%C3%BAblica-",
       "source": "Jornal de Angola",
-      "_key": "50326ca88fa3d5d0",
+      "_key": "9e493114cc257ae2",
       "score": 5,
-      "title_cn": "政策：国家元首受邀参加ECAM理事会"
-    },
-    {
-      "title": "Os \"sinistrados da pobreza\" no drama das vítimas das...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/os-sinistrados-da-pobreza-no-drama-das-vitimas-das-cheias-em-benguela-73004.html",
-      "source": "Novo Jornal",
-      "_key": "fd0c97daa7f75dde",
-      "score": 5,
-      "title_cn": "贫困受害者：受灾者悲剧中的挣扎"
+      "title_cn": "UNITEL启动公开发售，安哥拉人可成其股东"
     }
   ]
 }
