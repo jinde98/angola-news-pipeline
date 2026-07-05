@@ -1,482 +1,50 @@
 {
   "date": "2026-07-05",
-  "total_extracted": 1690,
-  "total_new": 79,
-  "total_existing": 1611,
+  "total_extracted": 1413,
+  "total_new": 7,
+  "total_existing": 1406,
   "articles": [
     {
-      "title": "Four mining projects under prospecting phase in Moxico Leste",
-      "url": "https://www.angop.ao/en/noticias/economia/quatro-projectos-mineiros-realizam-prospeccao-no-moxico-leste/",
-      "source": "ANGOP",
-      "_key": "88c3f279e5ce6818"
-    },
-    {
-      "title": "Women Parliamentarians discuss teenagers’ pregnancy in Moxico Leste province",
-      "url": "https://www.angop.ao/en/noticias/saude/grupo-de-mulheres-parlamentares-aborda-gravidez-precoce-no-moxico-leste/",
-      "source": "ANGOP",
-      "_key": "10bb0fd7b09bcde4"
-    },
-    {
-      "title": "Luanda expects to have a central seedling nursery later this year",
-      "url": "https://www.angop.ao/en/noticias/ambiente/luanda-tera-viveiro-central-de-mudas-ainda-este-ano/",
-      "source": "ANGOP",
-      "_key": "078c9983bb13f1b7"
-    },
-    {
-      "title": "Arborização",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=62489",
-      "source": "ANGOP",
-      "_key": "c22b938e37e9b40d"
-    },
-    {
-      "title": "Preço do petróleo continua a influenciar contas externas de Angola",
-      "url": "https://correiokianda.info/preco-do-petroleo-continua-a-influenciar-contas-externas-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "94fe908a4f106625"
-    },
-    {
-      "title": "Importações caem 17,1% e compras de alimentos recuam quase 30% em Angola",
-      "url": "https://correiokianda.info/importacoes-caem-171-e-compras-de-alimentos-recuam-quase-30-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "95e607c7c1f40a83"
-    },
-    {
-      "title": "EUA reforçam aposta no Corredor do Lobito com mais de 160 milhões de dólares",
-      "url": "https://correiokianda.info/eua-reforcam-aposta-no-corredor-do-lobito-com-mais-de-160-milhoes-de-dolares/",
-      "source": "Correio Kianda",
-      "_key": "1fb140ed66c20823"
-    },
-    {
-      "title": "Homem acusado de matar esposa e simular suicídio no Bié‎",
-      "url": "https://correiokianda.info/homem-acusado-de-matar-esposa-e-simular-suicidio-no-bie/",
-      "source": "Correio Kianda",
-      "_key": "07fded1f877bc200"
-    },
-    {
-      "title": "Naufrágio de embarcação artesanal faz um morto e dois feridos no Nzeto",
-      "url": "https://correiokianda.info/naufragio-de-embarcacao-artesanal-faz-um-morto-e-dois-feridos-no-nzeto/",
-      "source": "Correio Kianda",
-      "_key": "ae57b4586dcb24fd"
-    },
-    {
-      "title": "Disparo acidental em troca de turno faz uma morte na prisão de Calomboloca",
-      "url": "https://correiokianda.info/disparo-acidental-em-troca-de-turno-faz-uma-morte-na-prisao-de-calomboloca/",
-      "source": "Correio Kianda",
-      "_key": "5b21c809ba02f20b"
-    },
-    {
-      "title": "DStv quer aproximar conteúdos dos clientes com novo canal de novelas",
-      "url": "https://correiokianda.info/dstv-quer-aproximar-conteudos-dos-clientes-com-novo-canal-de-novelas/",
-      "source": "Correio Kianda",
-      "_key": "3b2676f7cb2c0e3e"
-    },
-    {
-      "title": "Estudantes pedem maior ligação entre universidades e centros de investigação",
-      "url": "https://correiokianda.info/estudantes-pedem-maior-ligacao-entre-universidades-e-centros-de-investigacao/",
-      "source": "Correio Kianda",
-      "_key": "a813ac80a2f449a3"
-    },
-    {
-      "title": "Europa permitiu entrada a “criminosos do Terceiro Mundo” – Trump",
-      "url": "https://correiokianda.info/europa-permitiu-entrada-a-criminosos-do-terceiro-mundo-trump/",
-      "source": "Correio Kianda",
-      "_key": "071a9ead63389bc5"
-    },
-    {
-      "title": "Presença da Namíbia no funeral de Ali Khamenei teve alcance político, diz especialista",
-      "url": "https://correiokianda.info/presenca-da-namibia-no-funeral-de-ali-khamenei-teve-alcance-politico-diz-especialista/",
-      "source": "Correio Kianda",
-      "_key": "90f274e0a7fad369"
-    },
-    {
-      "title": "Ucrânia ataca instalações petrolíferas e militares perto de São Petersburgo",
-      "url": "https://correiokianda.info/ucrania-ataca-instalacoes-petroliferas-e-militares-perto-de-sao-petersburgo/",
-      "source": "Correio Kianda",
-      "_key": "09ee037e42718195"
-    },
-    {
-      "title": "Milhares juntam-se em Teerão para último adeus a Ali Khamenei",
-      "url": "https://correiokianda.info/milhares-juntam-se-em-teerao-para-ultimo-adeus-a-ali-khamenei/",
-      "source": "Correio Kianda",
-      "_key": "ffde911a363ed985"
-    },
-    {
-      "title": "Mbappé decide e coloca França nos quartos de final do Mundial",
-      "url": "https://correiokianda.info/mbappe-decide-e-coloca-franca-nos-quartos-de-final-do-mundial/",
-      "source": "Correio Kianda",
-      "_key": "25ddd50917e604c6"
-    },
-    {
-      "title": "Basquetebol: Excesso de faltas e erros ofensivos ditam derrota de Angola frente ao Egipto",
-      "url": "https://correiokianda.info/basquetebol-excesso-de-faltas-e-erros-ofensivos-ditam-derrota-de-angola-frente-ao-egipto/",
-      "source": "Correio Kianda",
-      "_key": "f648d2f1ca7ebfed"
-    },
-    {
-      "title": "Passaporte electrónico e portal do SME: o fim das filas ou o início de uma nova administração pública?",
-      "url": "https://correiokianda.info/passaporte-electronico-e-portal-do-sme-o-fim-das-filas-ou-o-inicio-de-uma-nova-administracao-publica/",
-      "source": "Correio Kianda",
-      "_key": "4f0f91b720c733eb"
-    },
-    {
-      "title": "Teerão e Windhoek: o funeral que expôs a nova Diplomacia do Sul Global",
-      "url": "https://correiokianda.info/teerao-e-windhoek-o-funeral-que-expos-a-nova-diplomacia-do-sul-global/",
-      "source": "Correio Kianda",
-      "_key": "b22c61eb1c72e236"
-    },
-    {
-      "title": "Sahel em chamas: porque o regresso da Guerra no Mali ameaça toda a arquitectura de segurança africana",
-      "url": "https://correiokianda.info/sahel-em-chamas-porque-o-regresso-da-guerra-no-mali-ameaca-toda-a-arquitectura-de-seguranca-africana/",
-      "source": "Correio Kianda",
-      "_key": "75603887838c50a0"
-    },
-    {
-      "title": "Quando Pequim se torna a primeira opção: a visita da Presidente da Namíbia revela a nova Geopolítica da Dependência Financeira",
-      "url": "https://correiokianda.info/quando-pequim-se-torna-a-primeira-opcao-a-visita-da-presidente-da-namibia-revela-a-nova-geopolitica-da-dependencia-financeira/",
-      "source": "Correio Kianda",
-      "_key": "de94224fa2724e07"
-    },
-    {
-      "title": "        Crónica46 minutos atrás  Angola: entre as ideias loucas e os infernos que fingimos não ver Dizem que para uma ideia mudar o mundo, ela precisa primeiro parecer insana. Em Angola, porém, algumas ideias nem chegam a parecer insanas; parecem simplesmente impossíveis....   ",
-      "url": "https://correiokianda.info/angola-entre-as-ideias-loucas-e-os-infernos-que-fingimos-nao-ver/",
-      "source": "Correio Kianda",
-      "_key": "3d2e57f38f8a885b"
-    },
-    {
-      "title": "        África4 horas atrás  Quénia repatria mais de 60 cidadãos da África do Sul por receio de ataques xenófobos O Governo do Quénia repatriou mais de 60 cidadãos provenientes da África do Sul, devido ao agravamento da violência xenófoba e dos protestos anti-imigração que têm...   ",
-      "url": "https://correiokianda.info/quenia-repatria-mais-de-60-cidadaos-da-africa-do-sul-por-receio-de-ataques-xenofobos/",
-      "source": "Correio Kianda",
-      "_key": "51520a6fabf95b24"
-    },
-    {
-      "title": "        Sociedade4 horas atrás  Médico vietnamita detido por alegado aborto clandestino de menor no Dundo Um médico de nacionalidade vietnamita, de 85 anos, foi detido pelo Departamento de Investigação de Ilícitos Penais (DIIP) da Polícia Nacional, no município do Dundo, província...   ",
-      "url": "https://correiokianda.info/medico-vietnamita-detido-por-alegado-aborto-clandestino-de-menor-no-dundo/",
-      "source": "Correio Kianda",
-      "_key": "32019a30b4afc409"
-    },
-    {
-      "title": "Unitel inicia maior IPO da história da BODIVA a 6 de Julho",
-      "url": "https://diariodosnegocios.com/unitel-inicia-maior-ipo-da-historia-da-bodiva-a-6-de-julho/",
-      "source": "Diário dos Negócios",
-      "_key": "c269ac4e89c0cde8"
-    },
-    {
-      "title": "Solvabilidade do BNI dispara para 22,74% com nova liderança de Walter Cruz Pacheco",
-      "url": "https://diariodosnegocios.com/solvabilidade-do-bni-dispara-para-2274-com-nova-lideranca-de-walter-cruz-pacheco/",
-      "source": "Diário dos Negócios",
-      "_key": "4ae75a44df520b4c"
-    },
-    {
-      "title": "Bastonário da OAA afirma que “cultura da não denúncia” trava combate à corrupção na justiça",
-      "url": "https://diariodosnegocios.com/bastonario-da-oaa-afirma-que-cultura-da-nao-denuncia-trava-combate-a-corrupcao-na-justica/",
-      "source": "Diário dos Negócios",
-      "_key": "c881d0e530c79302"
-    },
-    {
-      "title": " Unitel inicia maior IPO da história da BODIVA a 6 de Julho ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_4345297d4fc3cb"
-    },
-    {
-      "title": " Solvabilidade do BNI dispara para 22,74% com nova liderança de Walter Cruz Pacheco ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_ef19540183af96"
-    },
-    {
-      "title": " Bastonário da OAA afirma que “cultura da não denúncia” trava combate à corrupção na justiça ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_330bf2ecc5bf37"
-    },
-    {
-      "title": "Lionel Messi admite potência de Cabo verde",
-      "url": "https://forbesafricalusofona.com/lionel-messi-admite-potencia-de-cabo-verde/",
+      "title": "UEM e Halliburton reforçam cooperação para modernizar a formação em Petróleo e Gás",
+      "url": "https://forbesafricalusofona.com/uem-e-halliburton-reforcam-cooperacao-para-modernizar-a-formacao-em-petroleo-e-gas/",
       "source": "Forbes África",
-      "_key": "77a2092c5f2799b8"
-    },
-    {
-      "title": "Angola reforça liderança no turismo africano com assinatura do acordo como co-fundador da UNT-PASS",
-      "url": "https://forbesafricalusofona.com/angola-reforca-lideranca-no-turismo-africano-com-assinatura-do-acordo-como-co-fundador-da-unt-pass/",
-      "source": "Forbes África",
-      "_key": "a5356aae4f96034e"
-    },
-    {
-      "title": "Governo entrega programa para a XI Legislatura e reafirma compromisso com um “Cabo Verde para Todos”",
-      "url": "https://forbesafricalusofona.com/governo-entrega-programa-para-a-xi-legislatura-e-reafirma-compromisso-com-um-cabo-verde-para-todos/",
-      "source": "Forbes África",
-      "_key": "2829639740652e26"
+      "_key": "a5f68e9168798c8c"
     },
     {
       "title": " [email protected]",
-      "url": "https://holdonangola.com/cdn-cgi/l/email-protection#15767a7b617476617a557d7a79717a7b747b727a79743b767a78",
+      "url": "https://holdonangola.com/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a3b897bfb8bbb3b8b9b6b9b0b8bbb6f9b4b8ba",
       "source": "Hold On Angola",
-      "_key": "3bf0ad7f84308acb"
+      "_key": "2542ab384acc0943"
     },
     {
-      "title": "Domingo, 5 de Julho, 2026",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ea6d7d610fa3f3"
-    },
-    {
-      "title": "Destaque Ministro de Estado actualiza dados do Registo Eleitoral OficiosoO ministro de Estado e Chefe da Casa Militar do Presidente da República, João Ernesto dos Santos \"Liberdade\", realizou, este sábado, a prova de vida e a actualização dos seus dados do Registo Eleitoral Oficioso, no BUAP da sede da Administração Municipal da Ingombota, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680055/ministro-de-estado-actualiza-dados-do-registo-eleitoral-oficioso",
+      "title": "Destaque Sílvia Lutucuta defende comunicação estratégica para reforçar confiança no Sistema Nacional de SaúdeA ministra da Saúde, Sílvia Lutucuta, defendeu, este domingo, em Luanda, que a comunicação em saúde desempenha um papel determinante na qualidade dos serviços prestados à população e no fortalecimento da confiança no Sistema Nacional de Saúde.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680124/s%C3%ADlvia-lutucuta-defende-comunica%C3%A7%C3%A3o-estrat%C3%A9gica-para-refor%C3%A7ar-confian%C3%A7a-no-sistema-nacional-de-sa%C3%BAde",
       "source": "Jornal de Angola",
-      "_key": "1718cc7c92168fcf"
+      "_key": "5b240b7fe9a8ea79"
     },
     {
-      "title": "Concurso de financiamento apura sete instituições de ensino superiorSete instituições públicas de ensino superior de diferentes províncias do país foram, sexta-feira, anunciadas como vencedoras da 2.ª fase do Concurso de Financiamento de três milhões de dólares, inseridas nos Acordos Baseados em Resultados ( ABR) de acções de produção científica. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680080/concurso-de-financiamento-apura-sete-institui%C3%A7%C3%B5es-de-ensino-superior",
+      "title": "Destaque Téte António destaca papel da diáspora no reforço das relações entre Angola e BeninO ministro das Relações Exteriores, Téte António, afirmou, em Cotonou, que a diáspora angolana constitui um parceiro estratégico para o desenvolvimento nacional e para o fortalecimento das relações de amizade entre Angola e o Benin.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680123/t%C3%A9te-ant%C3%B3nio-destaca-papel-da-di%C3%A1spora-no-refor%C3%A7o-das-rela%C3%A7%C3%B5es-entre-angola-e-benin",
       "source": "Jornal de Angola",
-      "_key": "7ce49091e55fd7b9"
+      "_key": "fd41c0f2569bca2e"
     },
     {
-      "title": "Destaque Marrocos é a primeira selecção africana nos quartos-de-final após golear Canadá por 3-0Marrocos tornou-se, este sábado, a primeira representante africana a garantir presença nos quartos-de-final do Mundial 2026, ao vencer o Canadá por 3-0, em jogo disputado em Houston, Estados Unidos.",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/680059/marrocos-%C3%A9-a-primeira-selec%C3%A7%C3%A3o-africana-nos-quartos-de-final-ap%C3%B3s-golear-canad%C3%A1-por-3-0",
+      "title": "Regiões Municípios do Moxico executam processo de registo eleitoral oficioso ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/680126/munic%C3%ADpios-do-moxico-executam-processo-de-registo-eleitoral-oficioso",
       "source": "Jornal de Angola",
-      "_key": "59df21408f6a707c"
+      "_key": "0e5b3775133ae0c6"
     },
     {
-      "title": "Desporto Angola perde com Egipto no segundo jogo do torneio ",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/680109/angola-perde-com-egipto-no-segundo-jogo-do-torneio",
+      "title": "Política Angola e Benim reforçam cooperação em sectores estratégicos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680125/angola-e-benim-refor%C3%A7am-coopera%C3%A7%C3%A3o-em-sectores-estrat%C3%A9gicos",
       "source": "Jornal de Angola",
-      "_key": "05e529d4da93e3f9"
+      "_key": "623088fcfdb44e38"
     },
     {
-      "title": "Reportagem De Intelectual à Frente de Combate ao Engajamento Poético como Expressão de Luta e Despertar de Consciências ",
-      "url": "https://www.jornaldeangola.ao/noticias/8/reportagem/680091/de-intelectual-%C3%A0-frente-de-combate-ao-engajamento-po%C3%A9tico-como-express%C3%A3o-de-luta-e-despertar-de-consci%C3%AAncias",
-      "source": "Jornal de Angola",
-      "_key": "433af30d1982e6cc"
-    },
-    {
-      "title": "Entrevista “Foi uma notícia do Jornal de Angola que mudou a minha vida” ",
-      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/680090/%E2%80%9Cfoi-uma-not%C3%ADcia-do-jornal-de-angola-que-mudou-a-minha-vida%E2%80%9D",
-      "source": "Jornal de Angola",
-      "_key": "1ff930f01f26ff88"
-    },
-    {
-      "title": "Cultura Cidade de Lucapa recebe Caldo do Poeira com tributo a ícones da música angolana ",
-      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/680085/cidade-de-lucapa-recebe-caldo-do-poeira-com-tributo-a-%C3%ADcones-da-m%C3%BAsica-angolana",
-      "source": "Jornal de Angola",
-      "_key": "b17d0262ab004a2a"
-    },
-    {
-      "title": "Regiões Icolo e Bengo: Governo lança concurso público com 205 vagas ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/680076/-icolo-e-bengo:-governo-lan%C3%A7a-concurso-p%C3%BAblico-com-205-vagas",
-      "source": "Jornal de Angola",
-      "_key": "eb02dc8371e2e105"
-    },
-    {
-      "title": "Economia Angola e Vietname focados no segmento agro-florestal ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680070/angola-e-vietname-focados-no-segmento-agro-florestal",
-      "source": "Jornal de Angola",
-      "_key": "d4ce08398e5dc5e3"
-    },
-    {
-      "title": "Economia Feira do Café e de Cacau promove potencial local ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680065/feira-do-caf%C3%A9-e-de-cacau-promove-potencial-local",
-      "source": "Jornal de Angola",
-      "_key": "aeaa745f6ee84126"
-    },
-    {
-      "title": "Política UNITA ausculta as bases na região do Cuanza-Sul ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680064/unita-ausculta-as-bases-na-regi%C3%A3o-do-cuanza-sul---",
-      "source": "Jornal de Angola",
-      "_key": "83d8b0153302793f"
-    },
-    {
-      "title": "Política Líder juvenil do PRA-JA vai ser conhecido este mês ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680063/l%C3%ADder-juvenil-do-pra-ja-vai-ser-conhecido-este-m%C3%AAs",
-      "source": "Jornal de Angola",
-      "_key": "0a47ad74409cca0f"
-    },
-    {
-      "title": "Política Religiosos do Cubango aderem em massa aos postos de registo eleitoral ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680062/religiosos-do-cubango-aderem-em-massa-aos-postos-de-registo-eleitoral",
-      "source": "Jornal de Angola",
-      "_key": "e907a861fc2f21c6"
-    },
-    {
-      "title": "Política Medida para a eliminação da licença de publicidade entra em vigor no país ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680060/medida-para-a-elimina%C3%A7%C3%A3o-da-licen%C3%A7a-de-publicidade-entra-em-vigor-no-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "9b63f28675d50586"
-    },
-    {
-      "title": "Mundo Mais 60 quenianos repatriados da África do Sul por medo de ataques xenófobos ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680058/mais-60-quenianos-repatriados-da-%C3%A1frica-do-sul-por-medo-de-ataques-xen%C3%B3fobos",
-      "source": "Jornal de Angola",
-      "_key": "a80f28c65c37dc95"
-    },
-    {
-      "title": "Entre a malária e o abuso, o desporto pede respostas",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/680096/entre-a-mal%C3%A1ria-e-o-abuso--o-desporto-pede-respostas",
-      "source": "Jornal de Angola",
-      "_key": "404e323bb6973627"
-    },
-    {
-      "title": "Economia / Há 2 horas Cubango incentiva camponeses a apostar na produção de arroz ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680071/cubango-incentiva-camponeses-a-apostar-na-produ%C3%A7%C3%A3o-de-arroz",
-      "source": "Jornal de Angola",
-      "_key": "2a2c8d56ff77b597"
-    },
-    {
-      "title": "Economia / Há 2 horas Revista Brent propõe mais comunicação especializada ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680069/revista-brent-prop%C3%B5e-mais-comunica%C3%A7%C3%A3o-especializada",
-      "source": "Jornal de Angola",
-      "_key": "8abb37e75c274e36"
-    },
-    {
-      "title": "Economia / Há 2 horas Westaves exporta 15 mil aves do Icolo e Bengo para São Tomé ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680068/westaves-exporta-15-mil-aves-do-icolo-e-bengo-para-s%C3%A3o-tom%C3%A9",
-      "source": "Jornal de Angola",
-      "_key": "6fa556fba4f43c18"
-    },
-    {
-      "title": "Economia / Há 2 horas Bengo defende um maior investimento empresarial ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680067/bengo-defende-um-maior-investimento-empresarial",
-      "source": "Jornal de Angola",
-      "_key": "59319bcaa5a7db0e"
-    },
-    {
-      "title": "Economia / Há 2 horas Benguela: Navegantes ganha um novo mercado ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680066/benguela:-navegantes-ganha-um-novo-mercado",
-      "source": "Jornal de Angola",
-      "_key": "77109fd61c69c56c"
-    },
-    {
-      "title": "Mundo05/07/2026Oito estudantes acusadas de homicídio pela morte de oito alunas no Quénia",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680122/oito-estudantes-acusadas-de-homic%C3%ADdio-pela-morte-de-oito-alunas-no-qu%C3%A9nia",
-      "source": "Jornal de Angola",
-      "_key": "14baecedbbd82118"
-    },
-    {
-      "title": "Mundo05/07/2026ONU encerra o seu gabinete no Burkina Faso",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680121/onu-encerra-o-seu-gabinete-no-burkina-faso",
-      "source": "Jornal de Angola",
-      "_key": "27fefc8113230766"
-    },
-    {
-      "title": "Mundo05/07/2026Líder da oposição ugandesa continua detido sob acusação de traição",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680120/l%C3%ADder-da-oposi%C3%A7%C3%A3o-ugandesa-continua-detido-sob-acusa%C3%A7%C3%A3o-de-trai%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "cbeb775f6a3af9ce"
-    },
-    {
-      "title": "Mundo05/07/2026Conflito e falta de verba afectam combate ao Ébola",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680119/conflito-e-falta-de-verba-afectam-combate-ao-%C3%A9bola",
-      "source": "Jornal de Angola",
-      "_key": "2192efacbe1d45fa"
-    },
-    {
-      "title": "Mundo05/07/2026Nigéria e Ghana em disputa com o Governo sul-africano",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680118/nig%C3%A9ria-e-ghana-em-disputa-com-o-governo-sul-africano",
-      "source": "Jornal de Angola",
-      "_key": "71e67f052718eea5"
-    },
-    {
-      "title": "Mundo05/07/2026Moçambique: Resgatadas duas vítimas raptadas em Muidumbe",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680100/mo%C3%A7ambique:-resgatadas-duas-v%C3%ADtimas-raptadas-em-muidumbe",
-      "source": "Jornal de Angola",
-      "_key": "53f45fb9484ec941"
-    },
-    {
-      "title": "Última hora Obras do novo Mercado 4 de Abril avaliadas em 1,7 mil milhões kwanzas",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/680053/obras-do-novo-mercado-4-de-abril-avaliadas-em-17-mil-milh%C3%B5es-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "92e4b6ee414863cf"
-    },
-    {
-      "title": "Mundial 2026: França lança cavalaria contra fortaleza...",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-franca-lanca-cavalaria-contra-fortaleza-paraguaia-e-canada-desafia-marrocos-73023.html",
-      "source": "Novo Jornal",
-      "_key": "2e981ae52c3ab770"
-    },
-    {
-      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA.  ",
-      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=73021",
-      "source": "Novo Jornal",
-      "_key": "b11f343687cc129b"
-    },
-    {
-      "title": "BILLBOARD - 04 JULHO 2026  ",
-      "url": "https://marginal.co.ao/programas/billboard-25-ouvidas?ep=73022",
-      "source": "Novo Jornal",
-      "_key": "62391da029a71818"
-    },
-    {
-      "title": "Registados mais de 2 mil casos de tuberculose no Namibe",
-      "url": "https://www.opais.ao/manchete/registados-mais-de-2-mil-casos-de-tuberculose-no-namibe/",
+      "title": "Embarcação artesanal naufraga e faz um morto e dois feridos no Nzeto",
+      "url": "https://www.opais.ao/manchete/embarcacao-artesanal-naufraga-e-faz-um-morto-e-dois-feridos-no-nzeto/",
       "source": "O País",
-      "_key": "163e659d759e8bc1"
-    },
-    {
-      "title": "‎João Lourenço felicita Donald Trump pelos 250 anos de independência dos EUA‎",
-      "url": "https://www.opais.ao/politica/joao-lourenco-felicita-donald-trump-pelos-250-anos-de-independencia-dos-eua/",
-      "source": "O País",
-      "_key": "56ed9dc87daa4069"
-    },
-    {
-      "title": "Mbappé coloca França nos oitavos e cruza com Marrocos",
-      "url": "https://www.opais.ao/desporto/mbappe-coloca-franca-nos-oitavos-e-cruza-com-marrocos/",
-      "source": "O País",
-      "_key": "57aaaed029c917df"
-    },
-    {
-      "title": "PRA-JA no Namibe elogia boa convivência política entre partidos políticos",
-      "url": "https://www.opais.ao/politica/pra-ja-no-namibe-elogia-boa-convivencia-politica-entre-partidos-politicos/",
-      "source": "O País",
-      "_key": "9998cb76e8c2c84f"
-    },
-    {
-      "title": "Marrocos bate Canadá e garante presença nos quartos-de-final do Mundial",
-      "url": "https://www.opais.ao/desporto/marrocos-bate-canada-e-garante-presenca-nos-quartos-de-final-do-mundial/",
-      "source": "O País",
-      "_key": "9d0e34a6145976cb"
-    },
-    {
-      "title": "Marido acusado de matar a esposa e simular suicídio no Bié‎",
-      "url": "https://www.opais.ao/ultima_hora/marido-acusado-de-matar-a-esposa-e-simular-suicidio-no-bie/",
-      "source": "O País",
-      "_key": "8d099eceb8020944"
-    },
-    {
-      "title": "Disparo acidental durante troca de turno mata uma agente prisional e deixa outro ferido",
-      "url": "https://www.opais.ao/ultima_hora/disparo-acidental-durante-troca-de-turno-mata-uma-agente-prisional-e-deixa-outro-ferido/",
-      "source": "O País",
-      "_key": "5f20bbfca047c538"
-    },
-    {
-      "title": "Livro Jornalismo no Jogo de Ideias chega aos leitores do Namibe",
-      "url": "https://www.opais.ao/cultura/livro-jornalismo-no-jogo-de-ideias-chega-aos-leitores-do-namibe/",
-      "source": "O País",
-      "_key": "9d8da8b68a2c6f3c"
-    },
-    {
-      "title": "Porto do Lobito e despachantes oficiais criam grupos de trabalho para agilizar comércio regional",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-e-despachantes-oficiais-criam-grupos-de-trabalho-para-agilizar-comercio-regional/",
-      "source": "O País",
-      "_key": "52ac5d5b6bc6c5d4"
-    },
-    {
-      "title": "ANGOSAT-2 leva transmissões da DSTv a universidades em zonas remotas",
-      "url": "https://www.opais.ao/sociedade/angosat-2-leva-transmissoes-da-dstv-a-universidades-em-zonas-remotas/",
-      "source": "O País",
-      "_key": "0463d6c10e2c98b3"
-    },
-    {
-      "title": "Abrem-se as cortinas da 21ª edição do Festival Internacional de Teatro do Cazenga",
-      "url": "https://www.opais.ao/cultura/abrem-se-as-cortinas-da-21a-edicao-do-festival-internacional-de-teatro-do-cazenga/",
-      "source": "O País",
-      "_key": "b764f41a2466b4e9"
-    },
-    {
-      "title": "Basquetebol: Egipto “gela” Pavilhão do Kilamba após vencer Angola‎",
-      "url": "https://www.opais.ao/desporto/basquetebol-egipto-gela-pavilhao-do-kilamba-apos-vencer-angola/",
-      "source": "O País",
-      "_key": "29c8790620b5fab0"
+      "_key": "d939b91772d7f3f3"
     }
   ]
 }
