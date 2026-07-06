@@ -1,16 +1,320 @@
 {
-  "date": "2026-07-05",
-  "total_new": 13,
-  "total_filtered": 1,
+  "date": "2026-07-06",
+  "total_new": 104,
+  "total_filtered": 39,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola and Benin strengthen technical coordination and bilateral cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-benin-reforcam-coordenacao-tecnica-e-cooperacao-bilateral/",
+      "title": "Já fecharam 100 casas de câmbio em Angola nos últimos 9 anos e apenas 21 sobreviveram em 2025",
+      "url": "https://expansao.co.ao/economia/detalhe/ja-fecharam-100-casas-de-cambio-em-angola-nos-ultimos-9-anos-e-apenas-21-sobreviveram-em-2025-73031.html",
+      "source": "Expansão",
+      "_key": "ce9db5e3006c9c1e",
+      "score": 9,
+      "title_cn": "安哥拉过去9年关闭百家兑换所，2025年仅剩21家"
+    },
+    {
+      "title": "Petróleo: Barril de Brent começa semana em perda depois...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-comeca-semana-em-perda-depois-de-opep-anunciar-decisao-de-aumentar-producao-73043.html",
+      "source": "Novo Jornal",
+      "_key": "27aecc1f00c1ff99",
+      "score": 9,
+      "title_cn": "布伦特原油本周开盘下跌"
+    },
+    {
+      "title": "Governo proíbe importação, produção e comercialização de plásticos a partir de Setembro",
+      "url": "https://angola24horas.com/sociedade/item/34614-governo-proibe-importacao-producao-e-comercializacao-de-plasticos-a-partir-de-setembro",
+      "source": "Angola 24 Horas",
+      "_key": "8878258e02297191",
+      "score": 8,
+      "title_cn": "安哥拉政府9月起禁止塑料制品进口、生产和销售"
+    },
+    {
+      "title": "Economia AGT prevê reembolsar 300 mil milhões de kwanzas em IVA este ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680207/agt-prev%C3%AA-reembolsar-300-mil-milh%C3%B5es-de-kwanzas-em-iva-este-ano",
+      "source": "Jornal de Angola",
+      "_key": "ba370f6491b07641",
+      "score": 8,
+      "title_cn": "安哥拉税务总局预计今年退还3000亿宽扎增值税"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: CÓDIGO DO NOVO IRPS EM VIGOR EM JANEIRO. Classe média alta é a mais beneficiada com alívio fiscal em 2027.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=73046",
+      "source": "Novo Jornal",
+      "_key": "d498ba327ebfe109",
+      "score": 8,
+      "title_cn": "新个税法1月生效，2027年高收入中产阶级获最大减税优惠"
+    },
+    {
+      "title": "Arranca hoje venda de 15% da UNITEL com acções entre 36.036 e 40.040 kwanzas",
+      "url": "https://www.opais.ao/economia/arranca-hoje-venda-de-15-da-unitel-com-accoes-entre-36-036-e-40-040-kwanzas/",
+      "source": "O País",
+      "_key": "3610c143a480b5e5",
+      "score": 8,
+      "title_cn": "UNITEL今日启动15%股权出售，股价介于36036至40040宽扎"
+    },
+    {
+      "title": "Detidos mais de cem cidadãos no âmbito do combate à criminalidade em Luanda",
+      "url": "https://www.opais.ao/sociedade/detidos-mais-de-cem-cidadaos-no-ambito-do-combate-a-criminalidade-em-luanda/",
+      "source": "O País",
+      "_key": "6567a3daa5b9e084",
+      "score": 7,
+      "title_cn": "罗安达打击犯罪行动逮捕逾百名公民"
+    },
+    {
+      "title": "UNITEL launches on Monday shares sale session",
+      "url": "https://www.angop.ao/en/noticias/economia/lancamento-da-oferta-publica-da-unitel-acontece-segunda-feira/",
       "source": "ANGOP",
-      "_key": "1daea542c6af071a",
+      "_key": "b123e86c3701772a",
+      "score": 6,
+      "title_cn": "UNITEL周一启动股票发售"
+    },
+    {
+      "title": "Agricultural sector gains weight in Angolan GDP",
+      "url": "https://www.angop.ao/en/noticias/economia/sector-agricola-ganha-peso-no-pib-angolano/",
+      "source": "ANGOP",
+      "_key": "d34c4c23c28c4473",
+      "score": 6,
+      "title_cn": "农业部门在安哥拉GDP中比重增加"
+    },
+    {
+      "title": "AGT identifica 15 mil empresas com declarações irregulares através de inteligência artificial",
+      "url": "https://angola24horas.com/sociedade/item/34617-agt-identifica-15-mil-empresas-com-declaracoes-irregulares-atraves-de-inteligencia-artificial",
+      "source": "Angola 24 Horas",
+      "_key": "bf7e4a32d997b5d1",
+      "score": 6,
+      "title_cn": "安哥拉税务总局利用人工智能识别1.5万家违规申报企业"
+    },
+    {
+      "title": "BODIVA acolhe hoje o lançamento da Oferta Pública de Venda da Unitel",
+      "url": "https://angola24horas.com/sociedade/item/34620-bodiva-acolhe-hoje-o-lancamento-da-oferta-publica-de-venda-da-unitel",
+      "source": "Angola 24 Horas",
+      "_key": "326182fe1b17bc29",
+      "score": 6,
+      "title_cn": "安哥拉证交所今日启动Unitel公开募股"
+    },
+    {
+      "title": "Proposta de Lei para revolucionar imobiliário pendurada no parlamento",
+      "url": "https://expansao.co.ao/angola/detalhe/proposta-de-lei-para-revolucionar-imobiliario-pendurada-no-parlamento-73033.html",
+      "source": "Expansão",
+      "_key": "9261b068b10e8fe3",
+      "score": 6,
+      "title_cn": "房地产改革法案在议会悬而未决"
+    },
+    {
+      "title": "Receios com ébola levam a cancelamento de assembleia dos fundos soberanos",
+      "url": "https://expansao.co.ao/angola/detalhe/receios-com-ebola-levam-a-cancelamento-de-assembleia-dos-fundos-soberanos-73032.html",
+      "source": "Expansão",
+      "_key": "bdf96905cc4471e7",
+      "score": 6,
+      "title_cn": "埃博拉疫情担忧导致主权财富基金大会取消"
+    },
+    {
+      "title": "Destaque AGT arrecada 1,6 mil milhões de kwanzas por mês com novos contribuintesA Administração Geral Tributária (AGT) está a arrecadar, em média, 1,6 mil milhões de kwanzas por mês através de contribuintes anteriormente inseridos na economia informal, no âmbito do Programa de Indução à Conformidade Tributária.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680205/agt-arrecada-16-mil-milh%C3%B5es-de-kwanzas-por-m%C3%AAs-com-novos-contribuintes",
+      "source": "Jornal de Angola",
+      "_key": "2122fa20dd9d62f9",
+      "score": 6,
+      "title_cn": "安哥拉税务总局每月从新纳税人处征收16亿宽扎"
+    },
+    {
+      "title": "Destaque UNITEL coloca sete milhões de acções à venda em bolsa até 24 de JulhoCerca de sete milhões de acções da operadora de telecomunicações UNITEL encontram-se, a partir desta segunda-feira, disponíveis para venda pública em bolsa até ao dia 24 deste mês.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680204/unitel-coloca-sete-milh%C3%B5es-de-ac%C3%A7%C3%B5es-%C3%A0-venda-em-bolsa-at%C3%A9-24-de-julho",
+      "source": "Jornal de Angola",
+      "_key": "c5b079abb010a8ad",
+      "score": 6,
+      "title_cn": "UNITEL在7月24日前发售700万股股票"
+    },
+    {
+      "title": "Economia / Há 3 horas Empossada a administração da fábrica de fertilizantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680165/empossada-a-administra%C3%A7%C3%A3o-da-f%C3%A1brica-de-fertilizantes",
+      "source": "Jornal de Angola",
+      "_key": "ebf192b14048b2a4",
+      "score": 6,
+      "title_cn": "肥料厂管理层宣誓就职"
+    },
+    {
+      "title": "Economia / Há 3 horas Angola e Índia rubricam novos acordos em Delhi ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680161/angola-e-%C3%ADndia-rubricam-novos-acordos-em-delhi",
+      "source": "Jornal de Angola",
+      "_key": "705fa58943bf2337",
+      "score": 6,
+      "title_cn": "安哥拉与印度在新德里签署新协议"
+    },
+    {
+      "title": "Venda de acções da UNITEL em bolsa arranca hoje com...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/venda-de-accoes-da-unitel-em-bolsa-arranca-hoje-com-75-milhoes-de-titulos-disponiveis-73040.html",
+      "source": "Novo Jornal",
+      "_key": "338f74646a5cf3da",
+      "score": 6,
+      "title_cn": "UNITEL股票今日在证交所开售"
+    },
+    {
+      "title": "Angola e Benim acordam reforçar cooperação política, económica e institucional",
+      "url": "https://www.opais.ao/politica/angola-e-benim-acordam-reforcar-cooperacao-politica-economica-e-institucional/",
+      "source": "O País",
+      "_key": "4081117b5c4fedbb",
+      "score": 6,
+      "title_cn": "安哥拉与贝宁同意加强政治、经济和机构合作"
+    },
+    {
+      "title": "7º edição Fórum Negocio e Conectividade",
+      "url": "https://www.opais.ao/economia/7o-edicao-forum-negocio-e-conectividade/",
+      "source": "O País",
+      "_key": "431e3c08245390b2",
+      "score": 6,
+      "title_cn": "第七届商业与互联互通论坛"
+    },
+    {
+      "title": "Apenas 45% dos angolanos tinham luz e 64% água potável...",
+      "url": "https://valoreconomico.co.ao/artigo/apenas-45-dos-angolanos-tinham-luz-e-64-agua-potavel-ate-ao-ano-passado-revela-ces",
+      "source": "Valor Económico",
+      "_key": "e953ce152bdd0415",
+      "score": 6,
+      "title_cn": "仅45%安哥拉人有电，64%有饮用水"
+    },
+    {
+      "title": "Bolsa de Valores",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=86555",
+      "source": "ANGOP",
+      "_key": "aeca4936f9198e4f",
       "score": 5,
-      "title_cn": "安哥拉与贝宁加强技术协调与双边合作"
+      "title_cn": "证券交易所"
+    },
+    {
+      "title": "Justiça portuguesa confirma arresto de 72 milhões de euros do general \"Dino\" a pedido de Angola",
+      "url": "https://angola24horas.com/component/k2/item/34618-justica-portuguesa-confirma-arresto-de-72-milhoes-de-euros-do-general-dino-a-pedido-de-angola",
+      "source": "Angola 24 Horas",
+      "_key": "fe8d4d4ac228aae9",
+      "score": 5,
+      "title_cn": "葡萄牙司法部应安哥拉请求确认冻结迪诺将军7200万欧元资产"
+    },
+    {
+      "title": "General “Dino”: 72 milhões de euros congelados em Portugal após recurso negado",
+      "url": "https://diariodosnegocios.com/general-dino-72-milhoes-de-euros-congelados-em-portugal-apos-recurso-negado/",
+      "source": "Diário dos Negócios",
+      "_key": "fd6127751b5b07e7",
+      "score": 5,
+      "title_cn": "迪诺将军上诉被驳回，7200万欧元在葡萄牙被冻结"
+    },
+    {
+      "title": " General “Dino”: 72 milhões de euros congelados em Portugal após recurso negado ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_1100dc817ddbb3",
+      "score": 5,
+      "title_cn": "迪诺将军上诉被驳回，7200万欧元在葡萄牙被冻结"
+    },
+    {
+      "title": "Destaque Bombeiros contabilizam 17 mortos e 27 incêndios nas últimas 72 horas Pelo menos 17 pessoas morreram e outras 35 ficaram feridas nas últimas 72 horas, segundo o balanço operacional divulgado, esta segunda-feira, pelo Serviço de Protecção Civil e Bombeiros (SPCB).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680203/bombeiros-contabilizam-17-mortos-e-27-inc%C3%AAndios-nas-%C3%BAltimas-72-horas",
+      "source": "Jornal de Angola",
+      "_key": "6d2cc746bc90fc3f",
+      "score": 5,
+      "title_cn": "消防部门：过去72小时17人死亡，27起火灾"
+    },
+    {
+      "title": "Economia Expo-Uíge regista presença de empresas de sete províncias ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680163/expo-u%C3%ADge-regista-presen%C3%A7a-de-empresas-de-sete-prov%C3%ADncias",
+      "source": "Jornal de Angola",
+      "_key": "786054082b7c570f",
+      "score": 5,
+      "title_cn": "威热博览会吸引七省企业参展"
+    },
+    {
+      "title": "Política Ministério do Interior detecta 190 BI obtidos de forma ilegal ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680141/minist%C3%A9rio-do-interior-detecta--190-bi-obtidos-de-forma-ilegal",
+      "source": "Jornal de Angola",
+      "_key": "a0e6a655590ba13b",
+      "score": 5,
+      "title_cn": "内政部政治发现190张非法获得的身份证"
+    },
+    {
+      "title": "08:28 / 6 jul. 2026 Ministério das Finanças paga 13.º em uma única prestação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680164/minist%C3%A9rio-das-finan%C3%A7as-paga--13.%C2%BA-em-uma-%C3%BAnica-presta%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "54db32d1ca0fcec0",
+      "score": 5,
+      "title_cn": "财政部一次性支付第13个月工资"
+    },
+    {
+      "title": "Economia / Há 3 horas Cultivo de cereais no Cunene: Chiedi prevê alcançar mais de 4 mil toneladas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680160/-cultivo-de-cereais-no-cunene:-chiedi-prev%C3%AA-alcan%C3%A7ar-mais-de-4-mil-toneladas-",
+      "source": "Jornal de Angola",
+      "_key": "e8e9a6b651e00d8d",
+      "score": 5,
+      "title_cn": "库内内省谷物种植：切迪（Chiedi）预计产量超4000吨"
+    },
+    {
+      "title": "Função Pública vai receber totalidade do 13.º salário...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/funcao-publica-vai-receber-totalidade-do-13-salario-numa-unica-parcela-73047.html",
+      "source": "Novo Jornal",
+      "_key": "a241ead8feafa8d4",
+      "score": 5,
+      "title_cn": "公务员将获得全额第13个月工资"
+    },
+    {
+      "title": "Julgamento do \"caso russos\" entra esta segunda-feira na fase das alegações finais",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/julgamento-do-caso-russos-entra-esta-segunda-feira-na-fase-das-alegacoes-finais-73042.html",
+      "source": "Novo Jornal",
+      "_key": "1bbf9b6490d64ce6",
+      "score": 5,
+      "title_cn": "“俄罗斯案”审判周一进入最终辩论阶段"
+    },
+    {
+      "title": "Luanda: PN sinaliza 16 acidentes rodoviários, quatro mortos e 16 feridos no fim-de-semana",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-pn-sinaliza-16-acidentes-rodoviarios-quatro-mortos-e-16-feridos-no-fim-de-semana-73038.html",
+      "source": "Novo Jornal",
+      "_key": "a6d7f47a3ce98b6a",
+      "score": 5,
+      "title_cn": "罗安达周末发生16起交通事故，致4死16伤"
+    },
+    {
+      "title": "SIC detém cidadão suspeito de tráfico de diamantes em Cafunfo",
+      "url": "https://www.opais.ao/ultima_hora/sic-detem-cidadao-suspeito-de-trafico-de-diamantes-em-cafunfo/",
+      "source": "O País",
+      "_key": "42a983b300cd4220",
+      "score": 5,
+      "title_cn": "刑侦局在卡丰福逮捕一名涉嫌贩运钻石公民"
+    },
+    {
+      "title": "‎Polícia Nacional apela à participação dos cidadãos na protecção e conservação dos bens públicos",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-apela-a-participacao-dos-cidadaos-na-proteccao-e-conservacao-dos-bens-publicos/",
+      "source": "O País",
+      "_key": "82de0af7b3b5cd8f",
+      "score": 5,
+      "title_cn": "国家警察呼吁公民参与保护公共财产"
+    },
+    {
+      "title": "Apreendidas 80 supostas pedras de diamantes em posse de dois cidadãos no Bié",
+      "url": "https://www.opais.ao/ultima_hora/apreendidas-80-supostas-pedras-de-diamantes-em-posse-de-dois-cidadaos-no-bie/",
+      "source": "O País",
+      "_key": "6dd27f91ab57025c",
+      "score": 5,
+      "title_cn": "比耶省两名公民被查获80块疑似钻石"
+    },
+    {
+      "title": "Acidentes de viação em Luanda fazem quatro mortos e 16 feridos nas últimas 72 horas",
+      "url": "https://www.opais.ao/ultima_hora/acidentes-de-viacao-em-luanda-fazem-quatro-mortos-e-16-feridos-nas-ultimas-72-horas/",
+      "source": "O País",
+      "_key": "9609b345d5bc830b",
+      "score": 5,
+      "title_cn": "罗安达72小时内交通事故致4死16伤"
+    },
+    {
+      "title": "Luanda acolhe exercício de simulação sobre sistema nacional de alerta prévio",
+      "url": "https://www.opais.ao/sociedade/luanda-acolhe-exercicio-de-simulacao-sobre-sistema-nacional-de-alerta-previo/",
+      "source": "O País",
+      "_key": "5c7f88e9c12cb443",
+      "score": 5,
+      "title_cn": "罗安达举行国家预警系统模拟演习"
+    },
+    {
+      "title": "Esquema de falso recrutamento nas FAA leva à detenção de 11 pessoas em Malanje",
+      "url": "https://www.opais.ao/ultima_hora/esquema-de-falso-recrutamento-nas-faa-leva-a-detencao-de-11-pessoas-em-malanje/",
+      "source": "O País",
+      "_key": "91245584c1d54ee6",
+      "score": 5,
+      "title_cn": "安哥拉武装部队虚假招募案致马兰热11人被捕"
     }
   ]
 }
