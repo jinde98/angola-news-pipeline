@@ -1,77 +1,196 @@
 {
   "date": "2026-07-08",
-  "total_new": 34,
-  "total_filtered": 10,
+  "total_new": 54,
+  "total_filtered": 27,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Barrel of brent crude oil traded at USD 72.13",
-      "url": "https://www.angop.ao/en/noticias/economia/barril-de-brent-transaccionado-a-72-13-dolares/",
-      "source": "ANGOP",
-      "_key": "159c78d50cfc9b3c",
+      "title": "Angola atribui à Somagec concessão de 30 anos para exportação de energia à RDC",
+      "url": "https://angola24horas.com/sociedade/item/34640-angola-atribui-a-somagec-concessao-de-30-anos-para-exportacao-de-energia-a-rdc",
+      "source": "Angola 24 Horas",
+      "_key": "5a6c50e66835a605",
+      "score": 10
+    },
+    {
+      "title": "Corredor do Lobito garante 753 milhões de dólares",
+      "url": "https://valoreconomico.co.ao/artigo/corredor-do-lobito-garante-753-milhoes-de-dolares",
+      "source": "Valor Económico",
+      "_key": "51f28bd6febc2e33",
+      "score": 10
+    },
+    {
+      "title": "Empresas de recursos minerais e petrolíferas desembolsaram 206,9 milhões USD",
+      "url": "https://valoreconomico.co.ao/artigo/empresas-de-recursos-minerais-e-petroliferas-desembolsaram-206-9-milhoes-usd",
+      "source": "Valor Económico",
+      "_key": "cefb6de2462d760f",
       "score": 9
     },
     {
-      "title": "Cooperação entre Angola e China forma três novos mestres em engenharia",
-      "url": "https://www.opais.ao/sociedade/cooperacao-entre-angola-e-china-forma-tres-novos-mestres-em-engenharia/",
-      "source": "O País",
-      "_key": "4420db80eddebf4d",
-      "score": 9
-    },
-    {
-      "title": "Preços das exportações angolanas aumentam 25,48% no primeiro trimestre de 2026",
-      "url": "https://correiokianda.info/precos-das-exportacoes-angolanas-aumentam-2548-no-primeiro-trimestre-de-2026/",
+      "title": "Assaltantes matam segurança durante invasão a agência bancária na Cidadela",
+      "url": "https://correiokianda.info/assaltantes-matam-seguranca-durante-invasao-a-agencia-bancaria-na-cidadela/",
       "source": "Correio Kianda",
-      "_key": "a69b5c681383a53d",
+      "_key": "e4056160d401b6cb",
       "score": 8
     },
     {
-      "title": "Cinquenta cidadãos estrangeiros detidos por tentativa de entrada clandestina em Angola",
-      "url": "https://correiokianda.info/cinquenta-cidadaos-estrangeiros-detidos-por-tentativa-de-entrada-clandestina-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "5459baf4d83639c3",
-      "score": 8
-    },
-    {
-      "title": "Government reaffirms commitment to economic diversification and sustainable growth",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-mantem-aposta-na-diversificacao-economica-e-crescimento-sustentavel/",
-      "source": "ANGOP",
-      "_key": "d030bb4609f71f1d",
-      "score": 7
-    },
-    {
-      "title": "“Formalização da economia exige mais literacia fiscal e transparência”, defendem especialistas",
-      "url": "https://correiokianda.info/formalizacao-da-economia-exige-mais-literacia-fiscal-e-transparencia-defendem-especialistas/",
-      "source": "Correio Kianda",
-      "_key": "067c9bbe58242909",
-      "score": 7
-    },
-    {
-      "title": "Destaque Memorando entre BNA e Banco da RDC facilita pagamentos transfronteiriçosO Banco Nacional de Angola (BNA) e o Banco Central da República Democrática do Congo (RDC) assinaram, esta quarta-feira, em Luanda, um memorando de entendimento destinado a facilitar os pagamentos transfronteiriços entre os dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680382/memorando-entre-bna-e-banco-da-rdc-facilita-pagamentos-transfronteiri%C3%A7os",
+      "title": "Destaque Assalto a agência bancária do BAI na Cidadela faz um morto e um feridoUm assalto registado na manhã desta quarta-feira, na agência do Banco Angolano de Investimentos (BAI), situada na Cidadela Desportiva, em Luanda, resultou na morte de um segurança e no ferimento de outro, segundo informações preliminares.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680387/assalto-a-ag%C3%AAncia-banc%C3%A1ria-do-bai-na-cidadela-faz-um-morto-e-um-ferido",
       "source": "Jornal de Angola",
-      "_key": "8546a5c6cf248878",
+      "_key": "ad6e149f940b35b9",
+      "score": 8
+    },
+    {
+      "title": "Economia Angola adopta versão nacional das normas internacionais de contabilidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680383/angola-adopta-vers%C3%A3o-nacional-das-normas-internacionais-de-contabilidade",
+      "source": "Jornal de Angola",
+      "_key": "d3509742ca97308a",
+      "score": 8
+    },
+    {
+      "title": "Assalto a uma agência bancária na Cidadela Desportiva faz um morto e um ferido",
+      "url": "https://www.opais.ao/ultima_hora/assalto-a-uma-agencia-bancaria-na-cidadela-desportiva-faz-um-morto-e-um-ferido/",
+      "source": "O País",
+      "_key": "a41d63e4e7d88bbc",
+      "score": 8
+    },
+    {
+      "title": "É Urgente Rever os Limites de Isenção dos Subsídios...",
+      "url": "https://valoreconomico.co.ao/artigo/e-urgente-rever-os-limites-de-isencao-dos-subsidios-de-alimentacao-e-transporte-no-cirt",
+      "source": "Valor Económico",
+      "_key": "afb4058e996a026b",
+      "score": 8
+    },
+    {
+      "title": "Assalto a agência do BAI na Cidadela faz um morto e um ferido; SIC procura autores",
+      "url": "https://angola24horas.com/sociedade/item/34639-assalto-a-agencia-do-bai-na-cidadela-faz-um-morto-e-um-ferido-sic-procura-autores",
+      "source": "Angola 24 Horas",
+      "_key": "dae8f619b72acddc",
       "score": 7
     },
     {
-      "title": "Angolan police arrest 45 people for illegal gold mining in Bengo province",
-      "url": "https://www.angop.ao/en/noticias/sociedade/detidos-45-cidadaos-por-exploracao-ilegal-de-ouro-no-bengo/",
+      "title": "Destaque Polícia trabalha para localizar autores de assalto à agência do BAIA Polícia Nacional e o Serviço de Investigação Criminal (SIC) estão a trabalhar para localizar e deter os quatro supostos meliantes que assaltaram e mataram a tiro esta quarta-feira, um segurança da agência do Banco Angolano de Investimentos (BAI), na Cidadela Desportiva, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680390/pol%C3%ADcia-trabalha-para-localizar-autores-de-assalto-%C3%A0-ag%C3%AAncia-do-bai",
+      "source": "Jornal de Angola",
+      "_key": "9333495b37b76ec1",
+      "score": 7
+    },
+    {
+      "title": "Regiões Zaire tem 134 projectos inscritos na carteira de investimentos públicos ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/680385/zaire-tem-134-projectos-inscritos-na-carteira-de-investimentos-p%C3%BAblicos",
+      "source": "Jornal de Angola",
+      "_key": "254f727d8e2f8ffa",
+      "score": 7
+    },
+    {
+      "title": "Sale of 15% of Unitel Could Be Reversed if Vidatel and Geni Win Court Cases",
+      "url": "https://www.negociosdeangola.com/en/sale-of-15-of-unitel-could-be-reversed-if-vidatel-and-geni-win-court-cases/",
+      "source": "Negócios de Angola",
+      "_key": "e2cbc42b4b16ac1e",
+      "score": 7
+    },
+    {
+      "title": "Falso inspector da Polícia Nacional detido durante operação “Maianga Segura”",
+      "url": "https://www.opais.ao/ultima_hora/falso-inspector-da-policia-nacional-detido-durante-operacao-maianga-segura/",
+      "source": "O País",
+      "_key": "a590ff8f23fc199f",
+      "score": 7
+    },
+    {
+      "title": "Polícia Nacional intensifica buscas para localizar autores do assalto à agência do BAI",
+      "url": "https://www.opais.ao/sociedade/policia-nacional-intensifica-buscas-para-localizar-autores-do-assalto-a-agencia-do-bai/",
+      "source": "O País",
+      "_key": "5b5518743d5f04a8",
+      "score": 7
+    },
+    {
+      "title": "Operadores interprovinciais aumentam tarifas até 30% após subida do preço...",
+      "url": "https://valoreconomico.co.ao/artigo/operadores-interprovinciais-aumentam-tarifas-ate-30-apos-subida-do-preco-do-gasoleo",
+      "source": "Valor Económico",
+      "_key": "0fe0c80cf55bbaa8",
+      "score": 7
+    },
+    {
+      "title": "“Angola em Perspectiva” junta especialistas em Luanda para debater presente e futuro do país",
+      "url": "https://correiokianda.info/angola-em-perspectiva-junta-especialistas-em-luanda-para-debater-presente-e-futuro-do-pais/",
+      "source": "Correio Kianda",
+      "_key": "e12eb78bca5c7da7",
+      "score": 6
+    },
+    {
+      "title": "Política Ministro Daniel Félix Neto avalia funcionamento do BUAP no Negage ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680392/ministro-daniel-f%C3%A9lix-neto-avalia-funcionamento-do-buap-no-negage",
+      "source": "Jornal de Angola",
+      "_key": "6792606a4aa13a30",
+      "score": 6
+    },
+    {
+      "title": "Lunda-Norte: SIC apreende mais de 500 diamantes e detém...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/lunda-norte-sic-apreende-mais-de-500-diamantes-e-detem-um-comerciante-73107.html",
+      "source": "Novo Jornal",
+      "_key": "bc0eeab27e224f54",
+      "score": 6
+    },
+    {
+      "title": "BUAP da sede municipal do Uíge atende mais de 200 cidadãos por dia",
+      "url": "https://www.opais.ao/sociedade/buap-da-sede-municipal-do-uige-atende-mais-de-200-cidadaos-por-dia/",
+      "source": "O País",
+      "_key": "39fda272dbe43e1d",
+      "score": 6
+    },
+    {
+      "title": "BCI e Keve juntam-se ao grupo restrito de bancos nacionais...",
+      "url": "https://valoreconomico.co.ao/artigo/bci-e-keve-juntam-se-ao-grupo-restrito-de-bancos-nacionais-que-financiam-a-sonangol",
+      "source": "Valor Económico",
+      "_key": "84fa25cfb4b7d102",
+      "score": 6
+    },
+    {
+      "title": "EMIS regista recuo de 0,3% nas transacções em Junho",
+      "url": "https://valoreconomico.co.ao/artigo/emis-regista-recuo-de-0-3-nas-transaccoes-em-junho",
+      "source": "Valor Económico",
+      "_key": "f20cefdba300946d",
+      "score": 6
+    },
+    {
+      "title": "RNT aposta em drones e videovigilância para travar prejuízos de...",
+      "url": "https://valoreconomico.co.ao/artigo/rnt-aposta-em-drones-e-videovigilancia-para-travar-prejuizos-de-50-milhoes-de-dolares-causados-por-vandalismo",
+      "source": "Valor Económico",
+      "_key": "a852681f2afcd1e0",
+      "score": 6
+    },
+    {
+      "title": "Police detain seven citizens for alleged felony",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sete-detidos-no-cuanza-norte-por-suspeita-de-homicidio/",
       "source": "ANGOP",
-      "_key": "2ab4969768504e5a",
-      "score": 6
+      "_key": "69daab60bd3096c1",
+      "score": 5
     },
     {
-      "title": "Segurança morre e outro fica ferido durante assalto...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/seguranca-morre-e-outro-fica-ferido-durante-assalto-a-agencia-do-bai-na-cidadela-desportiva-73106.html",
-      "source": "Novo Jornal",
-      "_key": "6ea7a9a4977636d6",
-      "score": 6
+      "title": "Destaque MINTTICS inaugura salas de informática equipadas com aplicações espaciaisO Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS) inaugura, na próxima segunda-feira, 13, em Luanda, as primeiras salas de informática equipadas com aplicações espaciais.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680393/minttics-inaugura-salas-de-inform%C3%A1tica-equipadas-com-aplica%C3%A7%C3%B5es-espaciais",
+      "source": "Jornal de Angola",
+      "_key": "50ed6c09b60eeb5c",
+      "score": 5
     },
     {
-      "title": "Ébola RDC: Número de mortos sobe para 580 e o de casos...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebola-rdc-numero-de-mortos-sobe-para-580-e-o-de-casos-ultrapassa-os-1700-73104.html",
-      "source": "Novo Jornal",
-      "_key": "428bc657d7bd5801",
+      "title": "Lançamento do Conecta Angola TVWS agendado para o dia 13 deste mês",
+      "url": "https://www.opais.ao/ultima_hora/lancamento-do-conecta-angola-tvws-agendado-para-o-dia-13-deste-mes/",
+      "source": "O País",
+      "_key": "834cfc8e8e2f6b61",
+      "score": 5
+    },
+    {
+      "title": "Angola apresenta avanços no domínio da ciência e inovação na 68ª Série de Reuniões da OMPI",
+      "url": "https://www.opais.ao/politica/angola-apresenta-avancos-no-dominio-da-ciencia-e-inovacao-na-68a-serie-de-reunioes-da-ompi/",
+      "source": "O País",
+      "_key": "d90a9bed77aee981",
+      "score": 5
+    },
+    {
+      "title": "Mercados informais facturam até 36 milhões kz por mês, mas vendedoras dizem...",
+      "url": "https://valoreconomico.co.ao/artigo/mercados-informais-facturam-ate-36-milhoes-kz-por-mes-mas-vendedoras-dizem-nao-ver-retorno",
+      "source": "Valor Económico",
+      "_key": "0215195271c43753",
       "score": 5
     }
   ]
