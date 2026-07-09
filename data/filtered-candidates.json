@@ -1,329 +1,77 @@
 {
   "date": "2026-07-09",
-  "total_new": 133,
-  "total_filtered": 46,
+  "total_new": 39,
+  "total_filtered": 10,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Política Cooperação sino-angolana com melhoria significativa ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680407/coopera%C3%A7%C3%A3o-sino-angolana-com-melhoria-significativa",
-      "source": "Jornal de Angola",
-      "_key": "f5091e25ee8a0beb",
-      "score": 10
-    },
-    {
-      "title": "Angolan Government and Parliament adjust corporate income tax bill",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-e-an-ajustam-proposta-sobre-rendimento-das-pessoas-colectivas/",
-      "source": "ANGOP",
-      "_key": "d99a9ecbbe4d9249",
-      "score": 9
-    },
-    {
-      "title": "Angola prevê tributação específica para a actividade mineira",
-      "url": "https://correiokianda.info/angola-preve-tributacao-especifica-para-a-actividade-mineira/",
-      "source": "Correio Kianda",
-      "_key": "bf5fe21d4a8bfce4",
-      "score": 9
-    },
-    {
-      "title": "Proposta de Lei para revolucionar imobiliário pendurada no parlamento",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0891bc5fc15c1b",
-      "score": 9
-    },
-    {
-      "title": "O EXPLICADOR FISCAL: Imposto do selo responsabilidade solidária nos contratos de arrendamento",
-      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-imposto-do-selo-responsabilidade-solidaria-nos-contratos-de-arrendamento-73110.html",
-      "source": "Expansão",
-      "_key": "554079f1b9c34bd0",
-      "score": 9
-    },
-    {
-      "title": "Inflation rate in Angola falls to 10.11% in June",
-      "url": "https://www.angop.ao/en/noticias/economia/inflacao-em-angola-recua-para-10-11-em-junho/",
-      "source": "ANGOP",
-      "_key": "d259552f85193a66",
-      "score": 8
-    },
-    {
-      "title": "Inflation",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4542",
-      "source": "ANGOP",
-      "_key": "a417e3f60637571a",
-      "score": 8
-    },
-    {
-      "title": "Inflação desacelera para 10,11%, mas transportes continuam a liderar subida de preços",
-      "url": "https://correiokianda.info/inflacao-desacelera-para-1011-mas-transportes-continuam-a-liderar-subida-de-precos/",
-      "source": "Correio Kianda",
-      "_key": "be0264b8f1001385",
-      "score": 8
-    },
-    {
-      "title": "Kwanza passa a ser aceite como moeda de pagamento na SADC a partir deste mês",
-      "url": "https://correiokianda.info/kwanza-passa-a-ser-aceite-como-moeda-de-pagamento-a-sadc-a-partir-deste-mes/",
-      "source": "Correio Kianda",
-      "_key": "9c181bd963c1032f",
-      "score": 8
-    },
-    {
-      "title": "BNA e Banco Central do Congo assinam acordo para facilitar pagamentos transfronteiriços",
-      "url": "https://diariodosnegocios.com/bna-e-banco-central-do-congo-assinam-acordo-para-facilitar-pagamentos-transfronteiricos/",
-      "source": "Diário dos Negócios",
-      "_key": "108a32b6e0c44971",
-      "score": 8
-    },
-    {
-      "title": " BNA e Banco Central do Congo assinam acordo para facilitar pagamentos transfronteiriços ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7546f619f58230",
-      "score": 8
-    },
-    {
-      "title": "Angola LNG entra em paragem de 32 dias e corta produção de gás em 80%",
-      "url": "https://expansao.co.ao/empresas/detalhe/angola-lng-entra-em-paragem-de-32-dias-e-corta-producao-de-gas-em-80-73112.html",
-      "source": "Expansão",
-      "_key": "8f0ca19f0fe60577",
-      "score": 8
-    },
-    {
-      "title": "Economia Dez províncias com inflação a um dígito ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680431/dez-prov%C3%ADncias-com-infla%C3%A7%C3%A3o-a-um-d%C3%ADgito",
-      "source": "Jornal de Angola",
-      "_key": "f2b7bd475c8a9448",
-      "score": 8
-    },
-    {
-      "title": "Taxa de inflação desacelera para 10,11%, a mais baixa desde 2015",
-      "url": "https://www.opais.ao/politica/taxa-de-inflacao-desacelera-para-1011-a-mais-baixa-desde-2015/",
-      "source": "O País",
-      "_key": "6b9328910aab382e",
-      "score": 8
-    },
-    {
-      "title": "Angola LNG suspends operations for maintenance work",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-lng-suspende-actividades-para-trabalhos-de-manutencao/",
-      "source": "ANGOP",
-      "_key": "7f40c59138b35b73",
-      "score": 7
-    },
-    {
-      "title": "Angolan Ambassador to UK briefed on Icolo & Bengo Aerotropolis project",
-      "url": "https://www.angop.ao/en/noticias/politica/embaixador-em-londres-inteira-se-do-plano-da-aerotropolis-de-icolo-e-bengo/",
-      "source": "ANGOP",
-      "_key": "a3aec832a69063ba",
-      "score": 7
-    },
-    {
-      "title": "Plataforma angolana conecta banca, indústria e petróleo em busca de soluções concretas",
-      "url": "https://correiokianda.info/plataforma-angolana-conecta-banca-industria-e-petroleo-em-busca-de-solucoes-concretas/",
-      "source": "Correio Kianda",
-      "_key": "aa0db5851b2029db",
-      "score": 7
-    },
-    {
-      "title": "Phoenix Bridge Group: Investimento de 80 milhões USD reforça parque industrial em Icolo e Bengo",
-      "url": "https://diariodosnegocios.com/phoenix-bridge-group-investimento-de-80-milhoes-usd-reforca-parque-industrial-em-icolo-e-bengo/",
-      "source": "Diário dos Negócios",
-      "_key": "feed41769bf45773",
-      "score": 7
-    },
-    {
-      "title": "Sonangol diversifica fontes de financiamento e integra BCI e Keve na sua carteira de crédito",
-      "url": "https://diariodosnegocios.com/sonangol-diversifica-fontes-de-financiamento-e-integra-bci-e-keve-na-sua-carteira-de-credito/",
-      "source": "Diário dos Negócios",
-      "_key": "3a25df07dab73473",
-      "score": 7
-    },
-    {
-      "title": " Phoenix Bridge Group: Investimento de 80 milhões USD reforça parque industrial em Icolo e Bengo ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_6bbed647168fe2",
-      "score": 7
-    },
-    {
-      "title": " Sonangol diversifica fontes de financiamento e integra BCI e Keve na sua carteira de crédito ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_2358af8255dcca",
-      "score": 7
-    },
-    {
-      "title": "Economia Assinado memorando com foco na integração económica ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680429/assinado-memorando-com-foco-na-integra%C3%A7%C3%A3o-econ%C3%B3mica-",
-      "source": "Jornal de Angola",
-      "_key": "4494e31736bcb47b",
-      "score": 7
-    },
-    {
-      "title": "Última hora Plano Director da Cidade Aeroportuária de Icolo e Bengo apresentado em Londres",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680396/plano-director-da-cidade-aeroportu%C3%A1ria-de-icolo-e-bengo-apresentado-em-londres",
-      "source": "Jornal de Angola",
-      "_key": "5c0622abedb6e267",
-      "score": 7
-    },
-    {
-      "title": "Inflação abranda pelo 23º mês consecutivo e fixa-se...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/inflacao-abranda-pelo-23-mes-consecutivo-e-fixa-se-em-1011-73119.html",
-      "source": "Novo Jornal",
-      "_key": "69a8d54063ae38a6",
-      "score": 7
-    },
-    {
-      "title": "Police thwart illegal gold mining in Huambo province",
-      "url": "https://www.angop.ao/en/noticias/economia/policia-frustra-exploracao-ilegal-de-ouro-no-cuima/",
-      "source": "ANGOP",
-      "_key": "4e3e80d36ff7642c",
-      "score": 6
-    },
-    {
-      "title": "Angolan companies make up 90% of exhibitors at FILDA 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/empresas-angolanas-representam-90-dos-expositores-da-filda-2026/",
-      "source": "ANGOP",
-      "_key": "69136b149ad0b3ab",
-      "score": 6
-    },
-    {
-      "title": "        África42 minutos atrás  Preparativos da cimeira da União Africana em Luanda dominam encontro entre Angola e Comissão da UA Os preparativos para a Sessão Extraordinária da Assembleia da União Africana sobre o Reforço dos Mecanismos de Prevenção e Resolução de Conflitos em África, agendada para...   ",
-      "url": "https://correiokianda.info/preparativos-da-cimeira-da-uniao-africana-em-luanda-dominam-encontro-entre-angola-e-comissao-da-ua/",
-      "source": "Correio Kianda",
-      "_key": "96f93cf6d7450a92",
-      "score": 6
-    },
-    {
-      "title": "O factor Isabel dos Santos e ‘Dino’: Como os litígios judiciais podem condicionar a entrada da Unitel em Bolsa",
-      "url": "https://diariodosnegocios.com/o-factor-isabel-dos-santos-e-dino-como-os-litigios-judiciais-podem-condicionar-a-entrada-da-unitel-em-bolsa/",
-      "source": "Diário dos Negócios",
-      "_key": "e3fec99c1cd1c3f3",
-      "score": 6
-    },
-    {
-      "title": "Atrasos nos desembolsos do FADA asfixiam cooperativas e travam produção agrícola no País",
-      "url": "https://diariodosnegocios.com/atrasos-nos-desembolsos-do-fada-asfixiam-cooperativas-e-travam-producao-agricola-no-pais/",
-      "source": "Diário dos Negócios",
-      "_key": "ab78888819a51e93",
-      "score": 6
-    },
-    {
-      "title": " O factor Isabel dos Santos e ‘Dino’: Como os litígios judiciais podem condicionar a entrada da Unitel em Bolsa ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_fdfaad0eaf1902",
-      "score": 6
-    },
-    {
-      "title": " Atrasos nos desembolsos do FADA asfixiam cooperativas e travam produção agrícola no País ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_9a8cefd66256b8",
-      "score": 6
-    },
-    {
-      "title": "Programa de Reordenamento do Comércio perde o rasto a milhares de informais",
-      "url": "https://expansao.co.ao/angola/detalhe/programa-de-reordenamento-do-comercio-perde-o-rasto-a-milhares-de-informais-73109.html",
-      "source": "Expansão",
-      "_key": "cf43f39e50eac7a1",
-      "score": 6
-    },
-    {
-      "title": "António Silva assume presidência do FADA",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_4f49202ffc8d7e",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Executivo tem definido como prioridade a execução da Agenda Nacional do Emprego ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680440/executivo-tem-definido-como-prioridade-a-execu%C3%A7%C3%A3o-da-agenda-nacional-do-emprego",
-      "source": "Jornal de Angola",
-      "_key": "5145350e2ee8824d",
-      "score": 6
-    },
-    {
-      "title": "Polícia Nacional diz que segurança morto na agência BAI da Cidadela terá reagido ao assalto",
-      "url": "https://www.opais.ao/destaque/policia-nacional-diz-que-seguranca-morto-na-agencia-bai-da-cidadela-tera-reagido-ao-assalto/",
-      "source": "O País",
-      "_key": "b3f4a3786eafd259",
-      "score": 6
-    },
-    {
-      "title": "Adão de Almeida defende integridade como base para reforço da transparência na contratação pública",
-      "url": "https://www.opais.ao/politica/adao-de-almeida-defende-integridade-como-base-para-reforco-da-transparencia-na-contratacao-publica/",
-      "source": "O País",
-      "_key": "ad5a44e0372fe679",
-      "score": 6
-    },
-    {
-      "title": "Angola advocates cooperation to combat transnational crime",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-advoga-cooperacao-para-combater-criminalidade-transnacional/",
-      "source": "ANGOP",
-      "_key": "87ed708838904f42",
-      "score": 5
-    },
-    {
-      "title": "Agricultural Projects in Moxico Leste await FADA funding",
-      "url": "https://www.angop.ao/en/noticias/agricultura/projectos-agrarios-no-moxico-leste-aguardam-por-financiamento-do-fada/",
-      "source": "ANGOP",
-      "_key": "faff49a3a34a321d",
-      "score": 5
-    },
-    {
-      "title": "Julgamento de russos em Angola é \"teatro político\" para agradar ao Ocidente, acusa Rafael Marques",
-      "url": "https://angola24horas.com/sociedade/item/34642-julgamento-de-russos-em-angola-e-teatro-politico-para-agradar-ao-ocidente-acusa-rafael-marques",
+      "title": "AGT prevê devolver às empresas 300 mil milhões de kwanzas em reembolsos do IVA este ano",
+      "url": "https://angola24horas.com/sociedade/item/34626-agt-preve-devolver-as-empresas-300-mil-milhoes-de-kwanzas-em-reembolsos-do-iva-este-ano",
       "source": "Angola 24 Horas",
-      "_key": "7de39da4cdc341fa",
-      "score": 5
+      "_key": "247e28eb507773c6",
+      "score": 9
     },
     {
-      "title": "Segurança ferido durante assalto à agência bancária na Cidadela encontra-se estável",
-      "url": "https://correiokianda.info/seguranca-ferido-durante-assalto-a-agencia-bancaria-na-cidadela-encontra-se-estavel/",
+      "title": "Angola LNG suspende actividades para manutenção: Produção terá redução de 80% em 32 dias",
+      "url": "https://diariodosnegocios.com/angola-lng-suspende-actividades-para-manutencao-producao-tera-reducao-de-80-em-32-dias/",
+      "source": "Diário dos Negócios",
+      "_key": "02fe766a03ae7e0f",
+      "score": 9
+    },
+    {
+      "title": " Angola LNG suspende actividades para manutenção: Produção terá redução de 80% em 32 dias ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_8236d7581dd119",
+      "score": 9
+    },
+    {
+      "title": "Produtos da cesta básica registam subida de preços esta semana",
+      "url": "https://correiokianda.info/produtos-da-cesta-basica-registam-subida-de-precos-esta-semana/",
       "source": "Correio Kianda",
-      "_key": "1398abc28699b02e",
-      "score": 5
+      "_key": "88d2952caff5561e",
+      "score": 8
     },
     {
-      "title": "Governo de Luanda estima concluir obras do PIIL da educação e saúde em meados de 2027",
-      "url": "https://correiokianda.info/governo-de-luanda-estima-concluir-obras-do-piil-da-educacao-e-saude-em-meados-de-2027/",
-      "source": "Correio Kianda",
-      "_key": "e3f66e66be01d95d",
-      "score": 5
+      "title": "Apresentado em Londres plano director da Cidade Aeroportuária de Icolo e Bengo",
+      "url": "https://www.opais.ao/politica/apresentado-em-londres-plano-director-da-cidade-aeroportuaria-de-icolo-e-bengo/",
+      "source": "O País",
+      "_key": "32aea98ef3b55f7a",
+      "score": 8
     },
     {
-      "title": "Ébola na RDC: Profissionais de saúde abandonam postos por falta de salários",
-      "url": "https://correiokianda.info/ebola-na-rdc-profissionais-de-saude-abandonam-postos-por-falta-de-salarios/",
-      "source": "Correio Kianda",
-      "_key": "77cc51f016c6ab1c",
-      "score": 5
+      "title": "SIC apreende 123 passaportes e detém três suspeitos de falsificação de documentos",
+      "url": "https://angola24horas.com/sociedade/item/34648-sic-apreende-123-passaportes-e-detem-tres-suspeitos-de-falsificacao-de-documentos",
+      "source": "Angola 24 Horas",
+      "_key": "5dcece614868c800",
+      "score": 7
     },
     {
-      "title": "        África4 horas atrás  RDC enfrenta nova suspeita de Ébola em meio a aumento de vítimas mortais A República Democrática do Congo (RDC) enfrenta uma nova suspeita de infecção pelo vírus Ébola numa altura em que o número de mortes associadas ao surto...   ",
-      "url": "https://correiokianda.info/rdc-enfrenta-nova-suspeita-de-ebola-em-meio-a-aumento-de-vitimas-mortais/",
-      "source": "Correio Kianda",
-      "_key": "76606b5ec4e2830c",
-      "score": 5
-    },
-    {
-      "title": "Angola investe 80 milhões de dólares no Polo Industrial para reforçar produção nacional",
-      "url": "https://forbesafricalusofona.com/angola-investe-80-milhoes-de-dolares-no-polo-industrial-para-reforcar-producao-nacional/",
-      "source": "Forbes África",
-      "_key": "a746d24d08a9311c",
-      "score": 5
-    },
-    {
-      "title": "Economia EXPO-BIÉ arranca hoje com 500 expositores ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680426/-expo-bi%C3%A9-arranca-hoje---com-500-expositores-",
-      "source": "Jornal de Angola",
-      "_key": "70f47700ae16d2d5",
-      "score": 5
-    },
-    {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=73116",
+      "title": "SIC desmantela rede de falsificação de documentos e...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-desmantela-rede-de-falsificacao-de-documentos-e-apreende-mais-de-120-passaportes-73123.html",
       "source": "Novo Jornal",
-      "_key": "c6ab0145f7ce4020",
+      "_key": "9583a7c8831e3225",
+      "score": 7
+    },
+    {
+      "title": "Pólo da Quiminha, um dos maiores do país, fica sob...",
+      "url": "https://valoreconomico.co.ao/artigo/polo-da-quiminha-um-dos-maiores-do-pais-fica-sob-gestao-da-omatapalo-ate-2035",
+      "source": "Valor Económico",
+      "_key": "eba7c43bd5ee569a",
+      "score": 7
+    },
+    {
+      "title": "Novos especialistas instalam internet via ANGOSAT-2 no Bié",
+      "url": "https://www.opais.ao/sociedade/novos-especialistas-instalam-internet-via-angosat-2-no-bie/",
+      "source": "O País",
+      "_key": "998b9618a0612371",
+      "score": 6
+    },
+    {
+      "title": "PN detém seis jovens em Cabinda por burlas feitas por...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pn-detem-seis-jovens-em-cabinda-por-burlas-feitas-por-telefone-73127.html",
+      "source": "Novo Jornal",
+      "_key": "a7def903b009c026",
       "score": 5
     }
   ]
