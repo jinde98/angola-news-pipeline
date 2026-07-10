@@ -1,304 +1,184 @@
 {
   "date": "2026-07-10",
-  "total_new": 81,
-  "total_filtered": 37,
+  "total_new": 91,
+  "total_filtered": 22,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Inteligência Artificial da AGT \"apanha\" 15 mil empresas suspeitas de fuga ao fisco",
-      "url": "https://expansao.co.ao/empresas/detalhe/inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fuga-ao-fisco-73137.html",
-      "source": "Expansão",
-      "_key": "f47be1e450611672",
-      "score": 9,
-      "title_cn": "安哥拉税务总局（AGT）人工智能识别1.5万家涉嫌逃税企业"
-    },
-    {
-      "title": "Doing Business Angola 2026: conheça o programa",
-      "url": "https://forbesafricalusofona.com/doing-business-angola-2026-conheca-o-programa/",
-      "source": "Forbes África",
-      "_key": "3b026fac5c6a828e",
-      "score": 9,
-      "title_cn": "2026年安哥拉营商环境报告：了解项目详情"
-    },
-    {
-      "title": "Taxa de inflação em Angola recua para 10,11% em Junho deste ano",
-      "url": "https://forbesafricalusofona.com/taxa-de-inflacao-em-angola-recua-para-1011-em-junho-deste-ano/",
-      "source": "Forbes África",
-      "_key": "15e53f67f322c6d6",
-      "score": 9,
-      "title_cn": "安哥拉今年6月通胀率降至10.11%"
-    },
-    {
-      "title": "No IRT do Grupo A, há acréscimos tecnicamente infundados",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_4ff2563f14bc02",
-      "score": 8,
-      "title_cn": "A组劳动所得税（IRT）存在技术上无根据的增项"
-    },
-    {
-      "title": "Com o digital em ascensão só 10% das transacções na rede Multicaixa ainda usam dinheiro físico",
-      "url": "https://expansao.co.ao/economia/detalhe/com-o-digital-em-ascensao-so-10-das-transaccoes-na-rede-multicaixa-ainda-usam-dinheiro-fisico-73136.html",
-      "source": "Expansão",
-      "_key": "97170617026548cc",
-      "score": 8,
-      "title_cn": "随着数字化兴起，Multicaixa网络仅10%交易仍使用现金"
-    },
-    {
-      "title": "PR angolano concessiona à Somagec por 30 anos ligação eléctrica para exportar energia para a RDCongo",
-      "url": "https://forbesafricalusofona.com/pr-angolano-concessiona-a-somagec-por-30-anos-ligacao-electrica-para-exportar-energia-para-a-rdcongo/",
-      "source": "Forbes África",
-      "_key": "32ea48f84b197e90",
-      "score": 8,
-      "title_cn": "安哥拉总统特许Somagec公司30年向刚果（金）输电"
-    },
-    {
-      "title": "Mundo China investiga incêndio em fábrica de calçado que fez 28 mortos ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680514/china-investiga-inc%C3%AAndio-em-f%C3%A1brica-de-cal%C3%A7ado-que-fez-28-mortos",
-      "source": "Jornal de Angola",
-      "_key": "37a08a8f25fe5033",
-      "score": 8,
-      "title_cn": "中国调查鞋厂火灾致28人死亡事故"
-    },
-    {
-      "title": "Economia Banco Sol defende crédito baseado na prudência e gestão ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680511/banco-sol-defende-cr%C3%A9dito-baseado-na-prud%C3%AAncia-e-gest%C3%A3o-",
-      "source": "Jornal de Angola",
-      "_key": "29fe47d8307ffe63",
-      "score": 7,
-      "title_cn": "Sol银行倡导基于审慎和管理的信贷"
-    },
-    {
-      "title": "Tourism and Planning Ministers align investment priorities",
-      "url": "https://www.angop.ao/en/noticias/turismo/ministros-do-turismo-e-planeamento-alinham-prioridades-de-investimento/",
-      "source": "ANGOP",
-      "_key": "7e71fe0a5a293424",
-      "score": 6,
-      "title_cn": "旅游与规划部长统一投资优先事项"
-    },
-    {
-      "title": "Antiga fábrica da Mabor em Luanda à venda por seis milhões de euros",
-      "url": "https://angola24horas.com/sociedade/item/34652-antiga-fabrica-da-mabor-em-luanda-a-venda-por-seis-milhoes-de-euros",
-      "source": "Angola 24 Horas",
-      "_key": "73f3d7d5c4e4a4e6",
-      "score": 6,
-      "title_cn": "罗安达Mabor旧工厂以600万欧元出售"
-    },
-    {
-      "title": "Programa de Reordenamento do Comércio perde o rasto a milhares de informais",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_54c630476c78e5",
-      "score": 6,
-      "title_cn": "商业重组计划失去数千非正规商贩踪迹"
-    },
-    {
-      "title": "Posição de árbitro e jogador do INFOSI lesa concorrência nas TIC",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_bb67f1ac080fdb",
-      "score": 6,
-      "title_cn": "INFOSI身兼裁判与选手，损害信息通信技术（ICT）竞争"
-    },
-    {
-      "title": "O relatório de execução trimestral do OGE está completo?",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_6df077a200d3c1",
-      "score": 6,
-      "title_cn": "国家总预算（OGE）季度执行报告是否已完成？"
-    },
-    {
-      "title": "Tensões geopolíticas pressionam mercados",
-      "url": "https://expansao.co.ao/economia/detalhe/tensoes-geopoliticas-pressionam-mercados-73139.html",
-      "source": "Expansão",
-      "_key": "802fa215c4dd744e",
-      "score": 6,
-      "title_cn": "地缘政治紧张局势施压市场"
-    },
-    {
-      "title": "VISTO DO CEIC Teurio MarceloO relatório de execução trimestral do OGE está completo?",
-      "url": "https://expansao.co.ao/opiniao/detalhe/o-relatorio-de-execucao-trimestral-do-oge-esta-completo-73009.html",
-      "source": "Expansão",
-      "_key": "2982967cd5d71cc3",
-      "score": 6,
-      "title_cn": "CEIC的Teurio Marcelo（特乌里奥·马塞洛）：国家总预算季度执行报告是否完成？"
-    },
-    {
-      "title": "ARSEG reforça mercado segurador com registo da primeira resseguradora nacional",
-      "url": "https://forbesafricalusofona.com/arseg-reforca-mercado-segurador-com-registo-da-primeira-resseguradora-nacional/",
-      "source": "Forbes África",
-      "_key": "c5c7b7d2bdb900bc",
-      "score": 6,
-      "title_cn": "ARSEG注册首家国家再保险公司，强化保险市场"
-    },
-    {
-      "title": "Comportamento do consumidor e estratégia de crescimento empresarial vão dominar o Summit International de Branding em Luanda",
-      "url": "https://forbesafricalusofona.com/comportamento-do-consumidor-e-estrategia-de-crescimento-empresarial-vao-dominar-o-summit-international-de-branding-em-luanda/",
-      "source": "Forbes África",
-      "_key": "ba33745792134c3d",
-      "score": 6,
-      "title_cn": "罗安达国际品牌峰会将聚焦消费者行为与企业增长战略"
-    },
-    {
-      "title": "Minuto Verde saúda proibição de plásticos de utilização…",
-      "url": "https://holdonangola.com/minuto-verde-sauda-proibicao-de-plasticos-de-utilizacao-unica-anunciada-pelo-executivo-angolano/",
-      "source": "Hold On Angola",
-      "_key": "a4ae7e3e6352ce8e",
-      "score": 6,
-      "title_cn": "“绿色时刻”组织欢迎禁用一次性塑料"
-    },
-    {
-      "title": "Destaque Ministra da Saúde alerta candidatos para burlas no Concurso Público 2026A ministra da Saúde, Sílvia Lutucuta, alertou na quinta-feira, os candidatos ao Concurso Público Externo de Ingresso 2026 para não serem vítimas de esquemas fraudulentos.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680493/ministra-da-sa%C3%BAde-alerta-candidatos-para-burlas-no-concurso-p%C3%BAblico-2026",
-      "source": "Jornal de Angola",
-      "_key": "4e58dac41f8abb1d",
-      "score": 6,
-      "title_cn": "卫生部长Sílvia Lutucuta（西尔维娅·卢图库塔）警告2026年公开招聘诈骗"
-    },
-    {
-      "title": "Destaque Inclusão financeira em Angola atinge 51,7% no primeiro trimestre de 2026A taxa de inclusão financeira em Angola atingiu 51,7% no primeiro trimestre de 2026, aproximando-se da meta de 65% estabelecida para 2027, informou, esta quinta-feira, em Luanda, o ministro de Estado para a Coordenação Económica, José de Lima Massano.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680488/inclus%C3%A3o-financeira-em-angola-atinge-517%25-no-primeiro-trimestre-de-2026",
-      "source": "Jornal de Angola",
-      "_key": "eaf8afae266a4bae",
-      "score": 6,
-      "title_cn": "2026年第一季度安哥拉金融普惠率达51.7%，接近65%目标"
-    },
-    {
-      "title": "Património, ambiente e desenvolvimento: uma oportunidade para Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/680515/patrim%C3%B3nio-ambiente-e-desenvolvimento:-uma-oportunidade-para-angola",
-      "source": "Jornal de Angola",
-      "_key": "2f90e8a34cf10073",
-      "score": 6,
-      "title_cn": "遗产、环境与发展：安哥拉的机遇"
-    },
-    {
-      "title": "Candidatos ao concurso do MININT não precisam de autenticar...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/candidatos-ao-concurso-do-minint-nao-precisam-de-autenticar-documentos-diz-ministro-73151.html",
-      "source": "Novo Jornal",
-      "_key": "0ff06723ab587e95",
-      "score": 6,
-      "title_cn": "内政部（MININT）招聘候选人无需认证"
-    },
-    {
-      "title": "Moradia paga em 2018 por entregar: Cliente acusa Grupo Boa...",
-      "url": "https://valoreconomico.co.ao/artigo/moradia-paga-em-2018-por-entregar-cliente-acusa-grupo-boa-vida-de-burla-e-ameacas",
-      "source": "Valor Económico",
-      "_key": "7fb9d73bebd53ca4",
-      "score": 6,
-      "title_cn": "2018年已付款房屋未交付：客户指控Boa集团"
-    },
-    {
-      "title": "Angolan Govt announces new phase of the National Financial Inclusion Strategy",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/",
-      "source": "ANGOP",
-      "_key": "a18edbbc5b69eaa9",
-      "score": 5,
-      "title_cn": "安哥拉政府宣布国家金融普惠战略新阶段"
-    },
-    {
-      "title": "Inclusão Financeira",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=248346",
-      "source": "ANGOP",
-      "_key": "117c6df9194b6460",
-      "score": 5,
-      "title_cn": "金融普惠"
-    },
-    {
-      "title": "Angola e a fronteira invisível que nos empobrece",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d68f65fe170934",
-      "score": 5,
-      "title_cn": "安哥拉与使我们贫困的无形边界"
-    },
-    {
-      "title": "Cortes na ajuda deixam África para trás nas metas do ODS",
-      "url": "https://expansao.co.ao/mundo/detalhe/cortes-na-ajuda-deixam-africa-para-tras-nas-metas-do-ods-73138.html",
-      "source": "Expansão",
-      "_key": "38ffce25fd4af682",
-      "score": 5,
-      "title_cn": "援助削减使非洲在可持续发展目标（SDG）方面落后"
-    },
-    {
-      "title": "CONVIDADOFrancisco Xavier PedroAngola e a fronteira invisível que nos empobrece",
-      "url": "https://expansao.co.ao/opiniao/detalhe/angola-e-a-fronteira-invisivel-que-nos-empobrece-73140.html",
-      "source": "Expansão",
-      "_key": "2d7f9e9fea1fb4e8",
-      "score": 5,
-      "title_cn": "嘉宾Francisco Xavier Pedro（弗朗西斯科·哈维尔·佩德罗）：安哥拉与使我们贫困的无形边界"
-    },
-    {
-      "title": "Moçambique quer mobilizar investimento e promover desenvolvimento sustentável",
-      "url": "https://forbesafricalusofona.com/mocambique-quer-mobilizar-investimento-e-promover-desenvolvimento-sustentavel/",
-      "source": "Forbes África",
-      "_key": "15d35110606d2440",
-      "score": 5,
-      "title_cn": "莫桑比克旨在动员投资并促进可持续发展"
-    },
-    {
-      "title": "“É tempo de renovarmos o nosso compromisso com a defesa do Estado de Direito”, diz Thera Dai",
-      "url": "https://forbesafricalusofona.com/e-tempo-de-renovarmos-o-nosso-compromisso-com-a-defesa-do-estado-de-direito-diz-thera-dai/",
-      "source": "Forbes África",
-      "_key": "cb3f4a2227eab774",
-      "score": 5,
-      "title_cn": "Thera Dai（特拉·戴）：“是时候重申我们捍卫法治的承诺了”"
-    },
-    {
-      "title": "Destaque Mulheres defendem mais oportunidades e inclusão financeira Líderes femininas de vários países africanos defenderam, esta sexta-feira, em Luanda, a criação de mais oportunidades e o reforço da inclusão financeira como factores determinantes para o empoderamento económico das mulheres.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680535/mulheres-defendem-mais-oportunidades-e-inclus%C3%A3o-financeira-",
-      "source": "Jornal de Angola",
-      "_key": "81217e23d14fe6e0",
-      "score": 5,
-      "title_cn": "罗安达：非洲女性领导人呼吁更多机会与金融普惠"
-    },
-    {
-      "title": "Destaque Emancipação económica da mulher domina segundo dia do Fórum para Paz e DemocraciaA emancipação económica da mulher, a inclusão financeira e a inclusão tecnológica marcam os debates do segundo dia do II Fórum Internacional da Mulher para Paz e Democracia, que decorre em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680509/emancipa%C3%A7%C3%A3o-econ%C3%B3mica-da-mulher-domina-segundo-dia-do-f%C3%B3rum-para-paz-e-democracia",
-      "source": "Jornal de Angola",
-      "_key": "6872044188cbc885",
-      "score": 5,
-      "title_cn": "和平与民主论坛次日聚焦女性经济赋权、金融与技术普惠"
-    },
-    {
-      "title": "Sociedade Campanha de sensibilização sobre hepatites virais lançada a 15 de Julho ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680490/campanha-de-sensibiliza%C3%A7%C3%A3o-sobre-hepatites-virais-lan%C3%A7ada-a-15-de-julho",
-      "source": "Jornal de Angola",
-      "_key": "ed980e6fe2055a7a",
-      "score": 5,
-      "title_cn": "病毒性肝炎宣传活动于7月15日启动"
-    },
-    {
-      "title": "Sociedade MINSA certifica 96 profissionais para reforço de emergência médica ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680489/minsa-certifica-96-profissionais-para-refor%C3%A7o-de-emerg%C3%AAncia-m%C3%A9dica",
-      "source": "Jornal de Angola",
-      "_key": "d61330e1e0054acf",
-      "score": 5,
-      "title_cn": "MINSA协会认证了96名专业人员进行紧急医疗强化"
-    },
-    {
-      "title": "Regiões Três cidadãos detidos em Malanje por exercício ilegal da actividade farmacêutica ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/680483/tr%C3%AAs-cidad%C3%A3os-detidos-em-malanje-por-exerc%C3%ADcio-ilegal-da-actividade-farmac%C3%AAutica",
-      "source": "Jornal de Angola",
-      "_key": "594c066ac3c3d11b",
-      "score": 5,
-      "title_cn": "马兰热三名公民因非法从事药学活动被捕"
-    },
-    {
-      "title": "Bengo: Filho assassina pai com catana durante discussão",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bengo-filho-assassina-pai-com-catana-durante-discussao-73149.html",
-      "source": "Novo Jornal",
-      "_key": "ebfd4081512107bd",
-      "score": 5,
-      "title_cn": "本戈省：儿子争执中用弯刀弑父"
-    },
-    {
-      "title": "Desentendimento entre pai e filho por causa da colheita de milho termina em morte",
-      "url": "https://www.opais.ao/ultima_hora/desentendimento-entre-pai-e-filho-por-causa-da-colheita-de-milho-termina-em-morte/",
+      "title": "Porto do Lobito participa no fecho financeiro do Corredor Logístico Regional",
+      "url": "https://www.opais.ao/economia/porto-do-lobito-participa-no-fecho-financeiro-do-corredor-logistico-regional/",
       "source": "O País",
-      "_key": "70e62937cb4e00d3",
+      "_key": "e4054b298eee6685",
+      "score": 10,
+      "title_cn": "洛比托港参与区域物流走廊项目融资收尾"
+    },
+    {
+      "title": "Três pessoas detidas em Luanda na posse de 123 passaportes angolanos",
+      "url": "https://jornaloguardiao.com/2026/07/09/tres-pessoas-detidas-em-luanda-na-posse-de-123-passaportes-angolanos/",
+      "source": "Jornal O Guardião",
+      "_key": "c280b99a62a3c7ec",
+      "score": 9,
+      "title_cn": "罗安达三人被捕，持有123本安哥拉护照"
+    },
+    {
+      "title": " Três pessoas detidas em Luanda na posse de 123 passaportes angolanos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_21a0ab4dbdeb6a",
+      "score": 9,
+      "title_cn": "罗安达三人被捕，持有123本安哥拉护照"
+    },
+    {
+      "title": "Destaque Inflação mais baixa cria condições para crédito acessívelA redução da inflação cria melhores condições para alargar o acesso ao crédito a custos mais acessíveis, impulsionar a inclusão financeira, o investimento e o crescimento económico, considerou, na quinta-feira, em Luanda, o ministro de Estado para Coordenação Económica.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680566/infla%C3%A7%C3%A3o-mais-baixa-cria-condi%C3%A7%C3%B5es-para-cr%C3%A9dito-acess%C3%ADvel",
+      "source": "Jornal de Angola",
+      "_key": "0a2dbcf4277c716a",
+      "score": 8,
+      "title_cn": "通胀下降为普惠信贷创造条件"
+    },
+    {
+      "title": "Clima e preço do prato: como a seca e as chuvas ditam a inflação alimentar?",
+      "url": "https://www.opais.ao/opiniao/clima-e-preco-do-prato-como-a-seca-e-as-chuvas-ditam-a-inflacao-alimentar/",
+      "source": "O País",
+      "_key": "8f33685298526ede",
+      "score": 8,
+      "title_cn": "气候与餐桌价格：旱涝如何影响食品通胀？"
+    },
+    {
+      "title": "        África5 horas atrás  Namíbia quer transformar relação com China em mais investimentos e empregos A Namíbia pretende transformar a histórica relação de amizade e cooperação com a China numa parceria económica mais voltada para o investimento, criação de empregos, industrialização...   ",
+      "url": "https://correiokianda.info/namibia-quer-transformar-relacao-com-china-em-mais-investimentos-e-empregos/",
+      "source": "Correio Kianda",
+      "_key": "9a2f6c81b53410a1",
+      "score": 7,
+      "title_cn": "纳米比亚：深化对华关系，吸引更多投资和就业"
+    },
+    {
+      "title": "China perdoa dívida de 11 milhões de dólares à Guiné-Bissau",
+      "url": "https://forbesafricalusofona.com/china-perdoa-divida-de-11-milhoes-de-dolares-a-guine-bissau/",
+      "source": "Forbes África",
+      "_key": "69b87f38a13299f2",
+      "score": 7,
+      "title_cn": "中国免除几内亚比绍1100万美元债务"
+    },
+    {
+      "title": "Responsabilidade social no sector petrolífero, conceito e perspectivas",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/680546/responsabilidade-social-no-sector-petrol%C3%ADfero-conceito-e-perspectivas",
+      "source": "Jornal de Angola",
+      "_key": "3b0516f84707dc46",
+      "score": 7,
+      "title_cn": "石油行业的社会责任：概念与展望"
+    },
+    {
+      "title": "CEO do Banco Sol defende modelo de concessão de crédito assente na prudência",
+      "url": "https://www.opais.ao/economia/ceo-do-banco-sol-defende-modelo-de-concessao-de-credito-assente-na-prudencia/",
+      "source": "O País",
+      "_key": "9476cb06e4d34ae1",
+      "score": 7,
+      "title_cn": "Sol银行CEO倡导审慎信贷模式"
+    },
+    {
+      "title": "Ébola: Número de mortos sobe para 600 e epidemia alastra na RDC",
+      "url": "https://www.opais.ao/mundo/ebola-numero-de-mortos-sobe-para-600-e-epidemia-alastra-na-rdc/",
+      "source": "O País",
+      "_key": "420bb9ada8626363",
+      "score": 7,
+      "title_cn": "埃博拉致死人数升至600，疫情在刚果（金）蔓延"
+    },
+    {
+      "title": "Governador do BNA: Sucesso bancário deve medir-se pelo bem-estar e...",
+      "url": "https://valoreconomico.co.ao/artigo/governador-do-bna-sucesso-bancario-deve-medir-se-pelo-bem-estar-e-nao-pelo-numero-de-contas",
+      "source": "Valor Económico",
+      "_key": "8a1dbd1567cc4047",
+      "score": 7,
+      "title_cn": "安哥拉国家银行行长：银行业成功应以民生福祉衡量"
+    },
+    {
+      "title": "IGAPE coloca antiga fábrica da Mabor à venda por 6,5 mil milhões de kwanzas",
+      "url": "https://diariodosnegocios.com/igape-coloca-antiga-fabrica-da-mabor-a-venda-por-65-mil-milhoes-de-kwanzas/",
+      "source": "Diário dos Negócios",
+      "_key": "39fab6e89d552309",
+      "score": 6,
+      "title_cn": "IGAPE出售Mabor旧工厂，要价65亿宽扎"
+    },
+    {
+      "title": " IGAPE coloca antiga fábrica da Mabor à venda por 6,5 mil milhões de kwanzas ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_f13d280a1ecb99",
+      "score": 6,
+      "title_cn": "IGAPE出售Mabor旧工厂，要价65亿宽扎"
+    },
+    {
+      "title": "Analista prevê forte procura por ações da Unitel mas fala em preço sobrevalorizado",
+      "url": "https://jornaloguardiao.com/2026/07/09/analista-preve-forte-procura-por-acoes-da-unitel-mas-fala-em-preco-sobrevalorizado/",
+      "source": "Jornal O Guardião",
+      "_key": "f64085a522c097db",
+      "score": 6,
+      "title_cn": "分析师：Unitel股票需求强劲但价格被高估"
+    },
+    {
+      "title": " Analista prevê forte procura por ações da Unitel mas fala em preço sobrevalorizado ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c039f375df4043",
+      "score": 6,
+      "title_cn": "分析师：Unitel股票需求强劲但价格被高估"
+    },
+    {
+      "title": "Huambo: Agente da PN morre após ser baleado em assalto...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/huambo-agente-da-pn-morre-apos-ser-baleado-em-assalto-a-sua-casa-73159.html",
+      "source": "Novo Jornal",
+      "_key": "95eda88dab37c176",
+      "score": 6,
+      "title_cn": "胡安博：PN特工在抢劫中被枪击身亡......"
+    },
+    {
+      "title": "Fundo Monetário Internacional eleva previsão do PIB mundial para 3,4%...",
+      "url": "https://valoreconomico.co.ao/artigo/fundo-monetario-internacional-eleva-previsao-do-pib-mundial-para-3-4-em-2027",
+      "source": "Valor Económico",
+      "_key": "5fe3bc86aef362db",
+      "score": 6,
+      "title_cn": "国际货币基金组织上调全球GDP预测至3.4%"
+    },
+    {
+      "title": "African Union highlights João Lourenço's role in promoting peace in Africa",
+      "url": "https://www.angop.ao/en/noticias/politica/uniao-africana-realca-papel-do-pr-na-promocao-da-paz-em-africa/",
+      "source": "ANGOP",
+      "_key": "b39c87feee0adf75",
       "score": 5,
-      "title_cn": "父子因玉米收成争执致死"
+      "title_cn": "非盟赞扬若昂·洛伦索（João Lourenço）在非洲促和作用"
+    },
+    {
+      "title": "Executivo quer que oito milhões de angolanos tenham conta bancária até 2027",
+      "url": "https://correiokianda.info/executivo-quer-que-oito-milhoes-de-angolanos-tenham-conta-bancaria-ate-2027/",
+      "source": "Correio Kianda",
+      "_key": "8e19d11ac9a95878",
+      "score": 5,
+      "title_cn": "安哥拉政府目标：2027年前八百万公民拥有银行账户"
+    },
+    {
+      "title": "Mulheres líderes africanas discutem inclusão financeira, tecnologia e segurança em Luanda",
+      "url": "https://correiokianda.info/mulheres-lideres-africanas-discutem-inclusao-financeira-tecnologia-e-seguranca-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "6aab39a3b0fd9a84",
+      "score": 5,
+      "title_cn": "非洲女性领导人在罗安达探讨普惠金融、科技与安全"
+    },
+    {
+      "title": "Sociedade Cidadão detido por suspeita de matar pai à catana no Panguila ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680557/cidad%C3%A3o-detido-por-suspeita-de-matar-pai-%C3%A0-catana-no-panguila",
+      "source": "Jornal de Angola",
+      "_key": "bafadd84f0d98a26",
+      "score": 5,
+      "title_cn": "潘吉拉一公民涉嫌用砍刀杀父被捕"
+    },
+    {
+      "title": "Lunda-Norte e Sul sentem efeitos do sismo registado na RDC",
+      "url": "https://www.opais.ao/ultima_hora/lunda-norte-e-sul-sentem-efeitos-do-sismo-registado-na-rdc/",
+      "source": "O País",
+      "_key": "fc767dcf8844f9c2",
+      "score": 5,
+      "title_cn": "刚果（金）地震影响北隆达和南隆达省"
     }
   ]
 }
