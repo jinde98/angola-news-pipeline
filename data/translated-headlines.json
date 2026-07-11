@@ -1,160 +1,40 @@
 {
   "date": "2026-07-11",
-  "total_new": 75,
-  "total_filtered": 19,
+  "total_new": 32,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Alegado cérebro do assalto ao BAI confessa crime e diz ter planeado ataque durante oito meses",
-      "url": "https://angola24horas.com/sociedade/item/34656-alegado-cerebro-do-assalto-ao-bai-confessa-crime-e-diz-ter-planeado-ataque-durante-oito-meses",
-      "source": "Angola 24 Horas",
-      "_key": "e93f234adee8547e",
+      "title": "Destaque Téte António destaca prioridades da diplomacia angolana em entrevista à revista FortuneO ministro das Relações Exteriores, Téte António, concedeu, sexta-feira, em Luanda, uma entrevista exclusiva à revista norte-americana Fortune, na qual apresentou as prioridades da política externa angolana e a visão do Executivo para o reforço da presença do país nos principais fóruns internacionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680592/t%C3%A9te-ant%C3%B3nio-destaca-prioridades-da-diplomacia-angolana-em-entrevista-%C3%A0-revista-fortune",
+      "source": "Jornal de Angola",
+      "_key": "69097c705927185b",
       "score": 8,
-      "title_cn": "BAI银行抢劫案主谋认罪，称策划八个月"
+      "title_cn": "安哥拉外长Téte António（安东尼奥）接受《财富》杂志采访，强调外交优先事项"
     },
     {
-      "title": "Assalto ao BAI da Cidadela: líder do grupo foi detido na casa de um polícia",
-      "url": "https://correiokianda.info/assalto-ao-bai-da-cidadela-lider-do-grupo-foi-detido-na-casa-de-um-policia/",
+      "title": "Política Aprovado Regime Jurídico da Assinatura Electrónica e da Certificação Digital ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680580/aprovado-regime-jur%C3%ADdico-da-assinatura-electr%C3%B3nica-e-da-certifica%C3%A7%C3%A3o-digital",
+      "source": "Jornal de Angola",
+      "_key": "4a79fcabef5d4862",
+      "score": 8,
+      "title_cn": "电子签名与数字认证法律制度获批"
+    },
+    {
+      "title": "O KWENDA pode fazer mais pela bancarização do que todo o sistema bancário de Angola",
+      "url": "https://correiokianda.info/o-kwenda-pode-fazer-mais-pela-bancarizacao-do-que-todo-o-sistema-bancario-de-angola/",
       "source": "Correio Kianda",
-      "_key": "6c41cb17e5882a8b",
-      "score": 8,
-      "title_cn": "罗安达Cidadela区BAI银行劫案：团伙头目在警员家中被捕"
-    },
-    {
-      "title": "SIC detém quatro suspeitos do assalto ao BAI na Cidadela e recupera parte do dinheiro roubado",
-      "url": "https://jornaloguardiao.com/2026/07/11/sic-detem-quatro-suspeitos-do-assalto-ao-bai-na-cidadela-e-recupera-parte-do-dinheiro-roubado/",
-      "source": "Jornal O Guardião",
-      "_key": "49151dcd9eb41ba3",
-      "score": 8,
-      "title_cn": "刑事调查局逮捕Cidadela区BAI银行劫案四名嫌犯，追回部分赃款"
-    },
-    {
-      "title": " SIC detém quatro suspeitos do assalto ao BAI na Cidadela e recupera parte do dinheiro roubado ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_0a00ca2c0dba7b",
-      "score": 8,
-      "title_cn": "刑事调查局逮捕Cidadela区BAI银行劫案四名嫌犯，追回部分赃款"
-    },
-    {
-      "title": "Detidos quatro presumíveis autores do assalto à agência do BAI na Cidadela",
-      "url": "https://www.opais.ao/ultima_hora/detidos-quatro-presumiveis-autores-do-assalto-a-agencia-do-bai-na-cidadela/",
-      "source": "O País",
-      "_key": "b311d0b196280433",
-      "score": 8,
-      "title_cn": "Cidadela区BAI银行分行劫案：四名嫌疑人被捕"
-    },
-    {
-      "title": "Lower inflation creates conditions for affordable credit – Minister of State",
-      "url": "https://www.angop.ao/en/noticias/economia/inflacao-mais-baixa-cria-condicoes-para-credito-acessivel-ministro-de-estado/",
-      "source": "ANGOP",
-      "_key": "dcbed21222c3e8be",
-      "score": 7,
-      "title_cn": "国务部长：通胀下降为可负担信贷创造条件"
-    },
-    {
-      "title": "EPAL plans to double water supply in Luanda with new projects by 2027",
-      "url": "https://www.angop.ao/en/noticias/economia/epal-preve-duplicar-fornecimento-de-agua-em-luanda-com-novos-projectos-ate-2027/",
-      "source": "ANGOP",
-      "_key": "afbe781c4e0ea448",
+      "_key": "302ef43f82fb11c4",
       "score": 6,
-      "title_cn": "罗安达供水公司计划到2027年通过新项目将罗安达供水翻倍"
+      "title_cn": "KWENDA项目在银行普及方面超越安哥拉银行系统"
     },
     {
-      "title": "BNA defende maior inclusão financeira para o desenvolvimento em África",
-      "url": "https://correiokianda.info/bna-defende-maior-inclusao-financeira-para-o-desenvolvimento-em-africa/",
-      "source": "Correio Kianda",
-      "_key": "61558b40d73d4311",
+      "title": "Política Presidente da RDC escreve ao Chefe de Estado angolano ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680584/presidente-da-rdc-escreve-ao-chefe-de-estado-angolano",
+      "source": "Jornal de Angola",
+      "_key": "dc5d517acfa78251",
       "score": 6,
-      "title_cn": "安哥拉国家银行倡导非洲金融普惠以促发展"
-    },
-    {
-      "title": "Ex-comandante e dois agentes da Polícia Nacional aguardam decisão judicial por extravio de armas",
-      "url": "https://correiokianda.info/ex-comandante-e-dois-agentes-da-policia-nacional-aguardam-decisao-judicial-por-extravio-de-armas/",
-      "source": "Correio Kianda",
-      "_key": "885b3c6e3473da2e",
-      "score": 6,
-      "title_cn": "前指挥官与两名国家警察因武器遗失等待司法裁决"
-    },
-    {
-      "title": "PR moçambicano quer remoção de constrangimentos ao investimento",
-      "url": "https://forbesafricalusofona.com/pr-mocambicano-quer-remocao-de-constrangimentos-ao-investimento/",
-      "source": "Forbes África",
-      "_key": "8cad478c7867f8a4",
-      "score": 6,
-      "title_cn": "莫桑比克总统呼吁消除投资障碍"
-    },
-    {
-      "title": "Conferência Angola Avante 2026 promove debate sobre inovação",
-      "url": "https://www.opais.ao/sociedade/conferencia-angola-avante-2026-promove-debate-sobre-inovacao/",
-      "source": "O País",
-      "_key": "85bbe551776ccda4",
-      "score": 6,
-      "title_cn": "“安哥拉前进2026”大会促进创新议题讨论"
-    },
-    {
-      "title": "Angolan Armed Forces Chief of Staff highlights Maritime Security importance",
-      "url": "https://www.angop.ao/en/noticias/politica/chefe-do-estado-maior-das-faa-destaca-importancia-da-seguranca-maritima/",
-      "source": "ANGOP",
-      "_key": "2f450eeca503a092",
-      "score": 5,
-      "title_cn": "安哥拉武装部队总参谋长强调海上安全的重要性"
-    },
-    {
-      "title": "Governor advocates for greater technical capacity in transforming resources",
-      "url": "https://www.angop.ao/en/noticias/economia/governadora-defende-maior-capacidade-tecnica-na-transformacao-dos-recursos/",
-      "source": "ANGOP",
-      "_key": "a7e222f4728a85e9",
-      "score": 5,
-      "title_cn": "省长倡导提高资源转化技术能力"
-    },
-    {
-      "title": "MINSA lança portal para concurso público de recrutamento de 6.000 profissionais de saúde",
-      "url": "https://angola24horas.com/sociedade/item/34657-minsa-lanca-portal-para-concurso-publico-de-recrutamento-de-6-000-profissionais-de-saude",
-      "source": "Angola 24 Horas",
-      "_key": "f4e7feca3670dfdd",
-      "score": 5,
-      "title_cn": "卫生部推出门户网站，公开招聘6000名卫生专业人员"
-    },
-    {
-      "title": "MINSA rejeita facilitação de vagas e chama candidatos a seguirem canais oficiais",
-      "url": "https://correiokianda.info/minsa-rejeita-facilitacao-de-vagas-e-chama-candidatos-a-seguirem-canais-oficiais/",
-      "source": "Correio Kianda",
-      "_key": "4a28087b56d8951c",
-      "score": 5,
-      "title_cn": "卫生部拒绝职位便利，呼吁求职者遵循官方渠道"
-    },
-    {
-      "title": "Finanças elevam para 57,5 milhões Kz contrato de reparação de viaturas",
-      "url": "https://diariodosnegocios.com/financas-elevam-para-575-milhoes-kz-contrato-de-reparacao-de-viaturas/",
-      "source": "Diário dos Negócios",
-      "_key": "b67574cbbcfb2c01",
-      "score": 5,
-      "title_cn": "财政部将车辆维修合同金额提高至5750万宽扎"
-    },
-    {
-      "title": " Finanças elevam para 57,5 milhões Kz contrato de reparação de viaturas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_4e1e73eef3edf6",
-      "score": 5,
-      "title_cn": "财政部将车辆维修合同金额提高至5750万宽扎"
-    },
-    {
-      "title": "Recursos naturais e transformação",
-      "url": "https://forbesafricalusofona.com/recursos-naturais-e-transformacao/",
-      "source": "Forbes África",
-      "_key": "7d4721afbb73e3b8",
-      "score": 5,
-      "title_cn": "自然资源与转型"
-    },
-    {
-      "title": "CSMJ designa três novos juízes de garantias do Tribunal Supremo",
-      "url": "https://www.opais.ao/politica/csmj-designa-tres-novos-juizes-de-garantias-do-tribunal-supremo/",
-      "source": "O País",
-      "_key": "c93485cf1eff1eda",
-      "score": 5,
-      "title_cn": "最高司法委员会任命最高法院三名新保障法官"
+      "title_cn": "政治 刚果民主共和国总统致信安哥拉国家元首"
     }
   ]
 }
