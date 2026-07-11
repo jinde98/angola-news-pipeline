@@ -1,40 +1,80 @@
 {
   "date": "2026-07-11",
   "total_new": 32,
-  "total_filtered": 4,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Téte António destaca prioridades da diplomacia angolana em entrevista à revista FortuneO ministro das Relações Exteriores, Téte António, concedeu, sexta-feira, em Luanda, uma entrevista exclusiva à revista norte-americana Fortune, na qual apresentou as prioridades da política externa angolana e a visão do Executivo para o reforço da presença do país nos principais fóruns internacionais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680592/t%C3%A9te-ant%C3%B3nio-destaca-prioridades-da-diplomacia-angolana-em-entrevista-%C3%A0-revista-fortune",
-      "source": "Jornal de Angola",
-      "_key": "69097c705927185b",
+      "title": "Kwanza entra no sistema regional da SADC este mês",
+      "url": "https://expansao.co.ao/economia/detalhe/kwanza-entra-no-sistema-regional-da-sadc-este-mes-73175.html",
+      "source": "Expansão",
+      "_key": "3397e05af5067fbd",
+      "score": 9,
+      "title_cn": "宽扎本月进入南共体区域系统"
+    },
+    {
+      "title": "Preços crescem 8% nos mercados informais e 5% nos formais",
+      "url": "https://expansao.co.ao/economia/detalhe/precos-crescem-8-nos-mercados-informais-e-5-nos-formais-73177.html",
+      "source": "Expansão",
+      "_key": "b869d31d132602cf",
       "score": 8,
-      "title_cn": "安哥拉外长Téte António（安东尼奥）接受《财富》杂志采访，强调外交优先事项"
+      "title_cn": "非正规市场物价上涨8%，正规市场上涨5%"
     },
     {
-      "title": "Política Aprovado Regime Jurídico da Assinatura Electrónica e da Certificação Digital ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680580/aprovado-regime-jur%C3%ADdico-da-assinatura-electr%C3%B3nica-e-da-certifica%C3%A7%C3%A3o-digital",
-      "source": "Jornal de Angola",
-      "_key": "4a79fcabef5d4862",
-      "score": 8,
-      "title_cn": "电子签名与数字认证法律制度获批"
+      "title": "SIC detém quatro suspeitos do assalto ao BAI, incluindo agente da Polícia Nacional",
+      "url": "https://angola24horas.com/component/k2/item/34658-sic-detem-quatro-suspeitos-do-assalto-ao-bai-incluindo-agente-da-policia-nacional",
+      "source": "Angola 24 Horas",
+      "_key": "62671f1dedec1c32",
+      "score": 7,
+      "title_cn": "SIC逮捕四名BAI银行抢劫嫌犯，包括一名国家警察警员"
     },
     {
-      "title": "O KWENDA pode fazer mais pela bancarização do que todo o sistema bancário de Angola",
-      "url": "https://correiokianda.info/o-kwenda-pode-fazer-mais-pela-bancarizacao-do-que-todo-o-sistema-bancario-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "302ef43f82fb11c4",
+      "title": "AGT lança projecto-piloto Balcão do Contabilista na Repartição…",
+      "url": "https://holdonangola.com/agt-lanca-projecto-piloto-balcao-do-contabilista-na-reparticao-fiscal-de-viana/",
+      "source": "Hold On Angola",
+      "_key": "b6398661067238ce",
+      "score": 7,
+      "title_cn": "AGT在税务局启动“会计师服务窗口”试点项目"
+    },
+    {
+      "title": "Angola Central Bank proposes regional payment systems in Africa",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-propoe-sistemas-de-pagamento-regionais-em-africa/",
+      "source": "ANGOP",
+      "_key": "f200d1205363a396",
       "score": 6,
-      "title_cn": "KWENDA项目在银行普及方面超越安哥拉银行系统"
+      "title_cn": "安哥拉央行提议在非洲建立区域支付系统"
     },
     {
-      "title": "Política Presidente da RDC escreve ao Chefe de Estado angolano ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680584/presidente-da-rdc-escreve-ao-chefe-de-estado-angolano",
-      "source": "Jornal de Angola",
-      "_key": "dc5d517acfa78251",
+      "title": "UNICEF apela à priorização do sector social no OGE 2026",
+      "url": "https://holdonangola.com/unicef-apela-a-priorizacao-do-sector-social-no-oge-2026/",
+      "source": "Hold On Angola",
+      "_key": "41912d7f146cadf9",
       "score": 6,
-      "title_cn": "政治 刚果民主共和国总统致信安哥拉国家元首"
+      "title_cn": "儿基会呼吁2026年国家总预算优先考虑社会部门"
+    },
+    {
+      "title": "Angola pode atingir 73 milhões de habitantes até ao ano de 2044Angola poderá contar com uma população estimada em 73 milhões de habitantes até ao ano de 2044. O cenário tem como base os dados preliminares do Recenseamento Geral da População e Habitação (Censo 2024) e as tendências actuais das variáveis demográficas no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680612/angola-pode-atingir-73-milh%C3%B5es-de-habitantes-at%C3%A9-ao-ano-de-2044",
+      "source": "Jornal de Angola",
+      "_key": "c7cd733b1ef4e04a",
+      "score": 6,
+      "title_cn": "安哥拉人口到2044年或达7300万"
+    },
+    {
+      "title": "Technology and Science Fair offers Internet access via Angosat-2",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/expo-bie-feira-de-tecnologia-e-ciencia-conta-com-internet-via-angosat-2/",
+      "source": "ANGOP",
+      "_key": "34334a31a017e4fc",
+      "score": 5,
+      "title_cn": "科技博览会通过Angosat-2卫星提供互联网接入"
+    },
+    {
+      "title": "Cortes na ajuda deixam África para trás nas metas do ODS",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_bd6f25aa9fc6f2",
+      "score": 5,
+      "title_cn": "援助削减使非洲在可持续发展目标方面落后"
     }
   ]
 }
