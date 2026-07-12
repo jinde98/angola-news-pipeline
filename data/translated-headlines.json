@@ -1,16 +1,48 @@
 {
-  "date": "2026-07-11",
-  "total_new": 7,
-  "total_filtered": 1,
+  "date": "2026-07-12",
+  "total_new": 49,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economia Programa de Privatizações democratiza governo societário e faz novos investidores ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680607/programa-de-privatiza%C3%A7%C3%B5es-democratiza-governo-societ%C3%A1rio-e-faz-novos-investidores",
-      "source": "Jornal de Angola",
-      "_key": "997250792bc14674",
-      "score": 7,
-      "title_cn": "私有化计划：推动公司治理民主化，吸引新投资者"
+      "title": "BNA autoriza bancos a utilizar yuan chinês nas reservas obrigatórias em moeda estrangeira",
+      "url": "https://angola24horas.com/economia/item/34659-bna-autoriza-bancos-a-utilizar-yuan-chines-nas-reservas-obrigatorias-em-moeda-estrangeira",
+      "source": "Angola 24 Horas",
+      "_key": "4154c16b91673bf6",
+      "score": 10,
+      "title_cn": "安哥拉央行授权银行将人民币纳入外汇法定准备金"
+    },
+    {
+      "title": "Privatização da Unitel avança sob risco de anulação judicial da nacionalização",
+      "url": "https://angola24horas.com/sociedade/item/34660-privatizacao-da-unitel-avanca-sob-risco-de-anulacao-judicial-da-nacionalizacao",
+      "source": "Angola 24 Horas",
+      "_key": "f64fae231f453a58",
+      "score": 6,
+      "title_cn": "Unitel私有化推进，面临国有化被司法撤销的风险"
+    },
+    {
+      "title": "Afreximbank reafirma compromisso com o grupo OPAIA e com a produção automóvel nacional",
+      "url": "https://diariodosnegocios.com/afreximbank-reafirma-compromisso-com-o-grupo-opaia-e-com-a-producao-automovel-nacional/",
+      "source": "Diário dos Negócios",
+      "_key": "f89d6d06a7a8d80a",
+      "score": 5,
+      "title_cn": "非洲进出口银行重申支持OPAIA集团及安哥拉本国汽车生产"
+    },
+    {
+      "title": " Afreximbank reafirma compromisso com o grupo OPAIA e com a produção automóvel nacional ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_6786d5faed89ea",
+      "score": 5,
+      "title_cn": "非洲进出口银行重申支持OPAIA集团及安哥拉本国汽车生产"
+    },
+    {
+      "title": "Principais suspeitos do assalto à agência do BAI na Cidadela detidos",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/principais-suspeitos-do-assalto-a-agencia-do-bai-na-cidadela-detidos-73172.html",
+      "source": "Novo Jornal",
+      "_key": "6ab363d353e8400e",
+      "score": 5,
+      "title_cn": "CIDADELABAI分行抢劫案的主要嫌疑人被捕"
     }
   ]
 }
