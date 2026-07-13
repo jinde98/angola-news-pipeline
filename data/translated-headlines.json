@@ -1,344 +1,136 @@
 {
   "date": "2026-07-13",
-  "total_new": 122,
-  "total_filtered": 42,
+  "total_new": 44,
+  "total_filtered": 16,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BNA inclui moeda chinesa nos requisitos de reservas cambiais para a banca comercial",
-      "url": "https://correiokianda.info/bna-inclui-moeda-chinesa-nos-requisitos-de-reservas-cambiais-para-a-banca-comercial/",
-      "source": "Correio Kianda",
-      "_key": "df1b4bcc94735418",
+      "title": "Angolan banks authorized to use Chinese Yuan for mandatory reserves",
+      "url": "https://www.angop.ao/en/noticias/economia/bancos-angolanos-autorizados-a-usar-yuan-nas-reservas-obrigatorias/",
+      "source": "ANGOP",
+      "_key": "4dc76865e6be6ceb",
       "score": 10,
-      "title_cn": "安哥拉国家银行将人民币纳入商业银行外汇储备要求。"
+      "title_cn": "安哥拉银行获准使用人民币作为强制性准备金"
     },
     {
-      "title": "BNA inclui Yuan chinês nas reservas obrigatórias dos bancos comerciais",
-      "url": "https://diariodosnegocios.com/bna-inclui-yuan-chines-nas-reservas-obrigatorias-dos-bancos-comerciais/",
-      "source": "Diário dos Negócios",
-      "_key": "76aaa13908e80b23",
-      "score": 10,
-      "title_cn": "安哥拉国家银行将人民币纳入商业银行法定准备金。"
-    },
-    {
-      "title": " BNA inclui Yuan chinês nas reservas obrigatórias dos bancos comerciais ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_723bf2292de522",
-      "score": 10,
-      "title_cn": "安哥拉国家银行将人民币纳入商业银行法定准备金。"
-    },
-    {
-      "title": "Petróleo: Inevitável como o destino, com o regresso...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-inevitavel-como-o-destino-com-o-regresso-da-guerra-ao-golfo-persico-o-barril-explode-nos-mercados-73197.html",
-      "source": "Novo Jornal",
-      "_key": "2f2a9535ed5b7a79",
-      "score": 9,
-      "title_cn": "石油：回归势不可挡。"
-    },
-    {
-      "title": "Terceira paragem da Angola LNG reacende receios de aumento do preço e força compra antecipada do gás de cozinha",
-      "url": "https://www.opais.ao/economia/terceira-paragem-da-angola-lng-reacende-receios-de-aumento-do-preco-e-forca-compra-antecipada-do-gas-de-cozinha/",
-      "source": "O País",
-      "_key": "bf679b8e309f635b",
-      "score": 9,
-      "title_cn": "安哥拉液化天然气第三次停产，引发价格上涨担忧，促使提前购买家用燃气。"
-    },
-    {
-      "title": "Líder do Banco Sol pede \"prudência\" no crédito e lembra...",
-      "url": "https://valoreconomico.co.ao/artigo/lider-do-banco-sol-pede-prudencia-no-credito-e-lembra-crise-do-malparado",
+      "title": "Preço do petróleo sobe mais 4% para 79 dólares",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-petroleo-sobe-mais-4-para-79-dolares",
       "source": "Valor Económico",
-      "_key": "fb559b497053e23b",
-      "score": 9,
-      "title_cn": "Sol银行行长呼吁信贷“谨慎”。"
+      "_key": "c7da051f5f0892ff",
+      "score": 10,
+      "title_cn": "油价上涨4%至每桶79美元"
     },
     {
-      "title": "Conflito entre EUA e Irão aumenta incerteza nos mercados financeiros",
-      "url": "https://correiokianda.info/conflito-entre-eua-e-irao-aumenta-incerteza-nos-mercados-financeiros/",
-      "source": "Correio Kianda",
-      "_key": "d57abddf0dfeeeea",
-      "score": 8,
-      "title_cn": "美伊冲突加剧金融市场不确定性。"
-    },
-    {
-      "title": "Procura por inteligência artificial ajuda China a manter exportações fortes",
-      "url": "https://correiokianda.info/procura-por-inteligencia-artificial-ajuda-china-a-manter-exportacoes-fortes/",
-      "source": "Correio Kianda",
-      "_key": "58379d9e535083a9",
-      "score": 8,
-      "title_cn": "人工智能需求助中国保持强劲出口。"
-    },
-    {
-      "title": "Tráfego no Estreito de Ormuz cai para mínimo de várias semanas após escalada entre EUA e Irão",
-      "url": "https://correiokianda.info/trafego-no-estreito-de-ormuz-cai-para-minimo-de-varias-semanas-apos-escalada-entre-eua-e-irao/",
-      "source": "Correio Kianda",
-      "_key": "91045ad5b9c7718f",
-      "score": 8,
-      "title_cn": "美伊局势升级后，霍尔木兹海峡交通降至数周低点。"
-    },
-    {
-      "title": "Irão intensifica ataques após ofensiva dos EUA; sirenes soam no Bahrein",
-      "url": "https://correiokianda.info/irao-intensifica-ataques-apos-ofensiva-dos-eua-sirenes-soam-no-bahrein/",
-      "source": "Correio Kianda",
-      "_key": "45b003fadd5a1330",
-      "score": 8,
-      "title_cn": "美国攻势后伊朗加强袭击；巴林响起警报。"
-    },
-    {
-      "title": "Mundo Irão ameaça abandonar memorando se EUA não cumprirem compromissos ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680776/ir%C3%A3o-amea%C3%A7a-abandonar-memorando-se-eua-n%C3%A3o-cumprirem-compromissos",
+      "title": "Destaque Grupo vietnamita prevê investimentos na agricultura e mineração em seis províncias O Grupo Xuan Thien prevê investir na produção agrícola e no sector mineiro em Angola, com projectos a serem desenvolvidos nas províncias do Uíge, Malanje, Cuando, Cubango, Cuanza-Norte e Huambo, abarcando a plantação e transformação de café, actividades de prospecção e exploração mineira.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680796/grupo-vietnamita-prev%C3%AA-investimentos-na-agricultura-e-minera%C3%A7%C3%A3o-em-seis-prov%C3%ADncias-",
       "source": "Jornal de Angola",
-      "_key": "237c679bd3ba3101",
-      "score": 8,
-      "title_cn": "伊朗威胁：若美国不履行承诺将放弃备忘录。"
+      "_key": "17bcefc7b32ecfed",
+      "score": 7,
+      "title_cn": "越南春善（Xuan Thien）集团计划在安哥拉六省投资农业和矿业"
     },
     {
-      "title": "Mundo Guterres apela à retoma urgente das negociações entre Irão e EUA ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/680765/guterres-apela-%C3%A0-retoma-urgente--das-negocia%C3%A7%C3%B5es-entre-ir%C3%A3o-e-eua",
-      "source": "Jornal de Angola",
-      "_key": "7253147f0a2a4f37",
-      "score": 8,
-      "title_cn": "古特雷斯(Guterres)呼吁紧急恢复美伊谈判。"
+      "title": "EXPANSÃO EM DIRECTO: ANTES DA COVID-19 VALIA 26%. Dinheiro físico já só vale 10% da rede multicaixa.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=73208",
+      "source": "Novo Jornal",
+      "_key": "ca11fbabc57f83a7",
+      "score": 7,
+      "title_cn": "疫情前占26%，现金在多功能支付网络中占比已降至10%"
     },
     {
-      "title": "Benguela: Mau estado das estradas faz apodrecer 2,5 toneladas de...",
-      "url": "https://valoreconomico.co.ao/artigo/benguela-mau-estado-das-estradas-faz-apodrecer-2-5-toneladas-de-fruta",
+      "title": "Acidentes de viação fazem quatro mortos e 12 feridos nas últimas 72 horas",
+      "url": "https://www.opais.ao/ultima_hora/acidentes-de-viacao-fazem-quatro-mortos-e-12-feridos-nas-ultimas-72-horas/",
+      "source": "O País",
+      "_key": "3ce8725c1478c4d9",
+      "score": 7,
+      "title_cn": "过去72小时内，交通事故致4人死亡12人受伤"
+    },
+    {
+      "title": "Detidos 50 automobilistas por condução sob efeito de álcool durante o fim-de-semana",
+      "url": "https://www.opais.ao/ultima_hora/detidos-50-automobilistas-por-conducao-sob-efeito-de-alcool-durante-o-fim-de-semana/",
+      "source": "O País",
+      "_key": "a9ab1deaf661e8f2",
+      "score": 7,
+      "title_cn": "周末期间，50名司机因酒驾被捕"
+    },
+    {
+      "title": "Com mais de duas mil empresas, FILDA sobe o preço...",
+      "url": "https://valoreconomico.co.ao/artigo/com-mais-de-duas-mil-empresas-filda-sobe-o-preco-do-bilhete-em-mil-kwanzas-e-fixa-entrada-nos-5-mil",
       "source": "Valor Económico",
-      "_key": "14cc08dbf93abe24",
-      "score": 8,
-      "title_cn": "本格拉：道路状况不佳致2.5吨货物腐烂。"
-    },
-    {
-      "title": "Angola to privatize seven industrial hubs and an equal number of rural parks",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-privatiza-sete-polos-industriais-e-igual-numero-de-parques-rurais/",
-      "source": "ANGOP",
-      "_key": "1a45518a28ed5a59",
+      "_key": "9d96977eeab03d3b",
       "score": 7,
-      "title_cn": "安哥拉将私有化七个工业中心及七个乡村公园。"
+      "title_cn": "逾两千家企业参展，罗安达国际博览会（FILDA）提高收费"
     },
     {
-      "title": "Economic growth",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=1129",
+      "title": "CMC Issues warning regarding authorized entities for Unitel public share offering",
+      "url": "https://www.angop.ao/en/noticias/economia/cmc-alerta-sobre-entidades-autorizadas-na-oferta-publica-de-venda-da-unitel/",
       "source": "ANGOP",
-      "_key": "b406e4cdccdd1f8c",
-      "score": 7,
-      "title_cn": "经济增长。"
+      "_key": "57c76487675ec895",
+      "score": 6,
+      "title_cn": "资本市场委员会（CMC）就Unitel公开募股授权实体发出警告"
     },
     {
-      "title": "Índice Ibrahim: Angola entre os países que mais melhoraram no combate à corrupção em África",
-      "url": "https://correiokianda.info/indice-ibrahim-angola-entre-os-paises-que-mais-melhoraram-no-combate-a-corrupcao-em-africa/",
+      "title": "Mega-Refinarias da Dangote reforça disputa geopolítica pela liderança energética em África",
+      "url": "https://correiokianda.info/mega-refinarias-da-dangote-reforca-disputa-geopolitica-pela-lideranca-energetica-em-africa/",
       "source": "Correio Kianda",
-      "_key": "753cafbd662bc070",
-      "score": 7,
-      "title_cn": "易卜拉欣指数：安哥拉在非洲反腐方面改善显著。"
+      "_key": "7b7cd0fb84619949",
+      "score": 6,
+      "title_cn": "丹格特（Dangote）大型炼油厂加剧非洲能源主导权地缘政治竞争"
     },
     {
-      "title": "BFA lidera mercado comercial num semestre marcado pela injecção de 1,6 mil milhões USD pelo Tesouro",
-      "url": "https://diariodosnegocios.com/bfa-lidera-mercado-comercial-num-semestre-marcado-pela-injeccao-de-16-mil-milhoes-usd-pelo-tesouro/",
+      "title": "CMC clarifica entidades autorizadas para a compra de acções da Unitel",
+      "url": "https://diariodosnegocios.com/cmc-clarifica-entidades-autorizadas-para-a-compra-de-accoes-da-unitel/",
       "source": "Diário dos Negócios",
-      "_key": "199755b906078dd5",
-      "score": 7,
-      "title_cn": "财政部注资16亿美元，安哥拉发展银行BFA上半年领跑商业市场。"
+      "_key": "bca7d08b84218298",
+      "score": 6,
+      "title_cn": "资本市场委员会（CMC）澄清Unitel股票购买授权实体"
     },
     {
-      "title": " BFA lidera mercado comercial num semestre marcado pela injecção de 1,6 mil milhões USD pelo Tesouro ",
+      "title": " CMC clarifica entidades autorizadas para a compra de acções da Unitel ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_508adb21ce9f53",
-      "score": 7,
-      "title_cn": "财政部注资16亿美元，安哥拉发展银行BFA上半年领跑商业市场。"
-    },
-    {
-      "title": "Unitel avaliada em 2 biliões Kz é a mais valiosa da bolsa angolana",
-      "url": "https://expansao.co.ao/empresas/detalhe/unitel-avaliada-em-2-bilioes-kz-e-a-mais-valiosa-da-bolsa-angolana-73199.html",
-      "source": "Expansão",
-      "_key": "8e52181a03b9b2ad",
-      "score": 7,
-      "title_cn": "Unitel估值2万亿宽扎，成安哥拉股市最有价值公司。"
-    },
-    {
-      "title": "Cinco fábricas de materiais de construção instalam-se em parque industrial privado",
-      "url": "https://expansao.co.ao/economia/detalhe/cinco-fabricas-de-materiais-de-construcao-instalam-se-em-parque-industrial-privado-73202.html",
-      "source": "Expansão",
-      "_key": "4d423f77581ed36e",
-      "score": 7,
-      "title_cn": "五家建材厂落户私人工业园区。"
-    },
-    {
-      "title": "Angola precisa de 10 biliões de dólares para auto-suficiência da produção de carne bovina",
-      "url": "https://www.opais.ao/economia/angola-precisa-de-10-bilioes-de-dolares-para-auto-suficiencia-da-producao-de-carne-bovina/",
-      "source": "O País",
-      "_key": "7b7c042d9aa34653",
-      "score": 7,
-      "title_cn": "安哥拉需100亿美元实现牛肉生产自给自足。"
-    },
-    {
-      "title": "João Lourenço regressa a Angola após visita privada ao Brasil marcada por especulações",
-      "url": "https://angola24horas.com/component/k2/item/34662-joao-lourenco-regressa-a-angola-apos-visita-privada-ao-brasil-marcada-por-especulacoes",
-      "source": "Angola 24 Horas",
-      "_key": "98d359ae11ee729a",
+      "_key": "t_113c86c882e24c",
       "score": 6,
-      "title_cn": "若昂·洛伦索(João Lourenço)结束巴西私人访问，返回安哥拉，引发诸多猜测。"
+      "title_cn": "资本市场委员会（CMC）澄清Unitel股票购买授权实体"
     },
     {
-      "title": "Dois bancos comerciais anunciam entrada em vigor da norma ISO 20022 no Sistema de Pagamentos em Tempo Real (SPTR)",
-      "url": "https://diariodosnegocios.com/dois-bancos-comerciais-anunciam-entrada-em-vigor-da-norma-iso-20022-no-sistema-de-pagamentos-em-tempo-real-sptr/",
-      "source": "Diário dos Negócios",
-      "_key": "c6ebf64392829400",
-      "score": 6,
-      "title_cn": "两家商业银行宣布ISO 20022标准在实时支付系统(SPTR)中生效。"
-    },
-    {
-      "title": " Dois bancos comerciais anunciam entrada em vigor da norma ISO 20022 no Sistema de Pagamentos em Tempo Real (SPTR) ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8c0315d2c6ee7d",
-      "score": 6,
-      "title_cn": "两家商业银行宣布ISO 20022标准在实时支付系统(SPTR)中生效。"
-    },
-    {
-      "title": "Especialistas questionam modelo de PPP para as águas de Cabinda",
-      "url": "https://expansao.co.ao/angola/detalhe/especialistas-questionam-modelo-de-ppp-para-as-aguas-de-cabinda-73201.html",
-      "source": "Expansão",
-      "_key": "de3022a2019aebb4",
-      "score": 6,
-      "title_cn": "专家质疑卡宾达水务PPP模式。"
-    },
-    {
-      "title": "TAAG carrega 3.363 toneladas e mais de 318 mil passageirosA Transportadora Aérea Angolana (TAAG) registou, no primeiro trimestre do ano, a movimentação de 3.363 toneladas de carga e o transporte de 318.776 passageiros, num total de 3.584 voos realizados.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680712/taag-carrega-3.363-toneladas-e-mais-de-318-mil-passageiros",
+      "title": "Política Téte António e empresários vietnamitas analisam oportunidades de cooperação ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680795/t%C3%A9te-ant%C3%B3nio-e-empres%C3%A1rios-vietnamitas-analisam-oportunidades-de-coopera%C3%A7%C3%A3o-",
       "source": "Jornal de Angola",
-      "_key": "b382af55e60d3fec",
+      "_key": "a880894dcd1a7d10",
       "score": 6,
-      "title_cn": "安哥拉航空TAAG一季度运输3363吨货物和超31.8万名乘客。"
+      "title_cn": "特特·安东尼奥（Téte António）与越南企业家探讨合作机遇"
     },
     {
-      "title": "Economia / Há 3 horas Aliança para a Inclusão Financeira apoia Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680714/alian%C3%A7a-para-a-inclus%C3%A3o-financeira-apoia-angola",
+      "title": "Economia / Há 7 horas Empresário guineense considera Angola um mercado atractivo para o investimento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680713/empres%C3%A1rio-guineense-considera-angola-um-mercado-atractivo-para-o-investimento-",
       "source": "Jornal de Angola",
-      "_key": "f7db1839e3fa0d70",
+      "_key": "996133be24cd109b",
       "score": 6,
-      "title_cn": "普惠金融联盟支持安哥拉。"
+      "title_cn": "几内亚商人认为安哥拉是具吸引力的投资市场"
     },
     {
-      "title": "Economia / Há 3 horas Arseg aposta no reforço da supervisão de risco ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680713/arseg-aposta-no-refor%C3%A7o-da-supervis%C3%A3o-de-risco",
-      "source": "Jornal de Angola",
-      "_key": "80165d63e38cc21e",
-      "score": 6,
-      "title_cn": "安哥拉保险监管局Arseg致力于加强风险监管。"
-    },
-    {
-      "title": "‎MINTTICS lança amanhã Conecta Angola TV White Space no Ramiros",
-      "url": "https://www.opais.ao/ultima_hora/minttics-lanca-amanha-conecta-angola-tv-white-space-no-ramiros/",
-      "source": "O País",
-      "_key": "c2e0c3dc1b49444b",
-      "score": 6,
-      "title_cn": "安哥拉电信部MINTTICS明日在拉米罗斯推出电视空白频谱连接项目。"
-    },
-    {
-      "title": "Estate",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=1128",
+      "title": "President João Lourenço returns to the country from Brazil",
+      "url": "https://www.angop.ao/en/noticias/politica/skh21u6/",
       "source": "ANGOP",
-      "_key": "4e00d576100bdeb0",
+      "_key": "3f23ecf7f7c572b4",
       "score": 5,
-      "title_cn": "房地产。"
+      "title_cn": "若昂·洛伦索（João Lourenço）总统从巴西回国"
     },
     {
-      "title": "Engenharia",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=42816",
+      "title": "Regresso",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37843",
       "source": "ANGOP",
-      "_key": "b4147b557a6d0e56",
+      "_key": "4840faf366da8d6c",
       "score": 5,
-      "title_cn": "工程。"
+      "title_cn": "总统回国"
     },
     {
-      "title": "Presidente da República já está de volta ao país depois de deslocação ao Brasil",
-      "url": "https://correiokianda.info/presidente-da-republica-ja-esta-de-volta-ao-pais-depois-de-deslocacao-ao-brasil/",
+      "title": "Presidente regressa ao país e analistas consideram encerradas especulações sobre ausência",
+      "url": "https://correiokianda.info/presidente-regressa-ao-pais-e-analistas-consideram-encerradas-especulacoes-sobre-ausencia/",
       "source": "Correio Kianda",
-      "_key": "bbcc9453c983c7dc",
+      "_key": "b35c482b4fd2fc86",
       "score": 5,
-      "title_cn": "共和国总统结束巴西之行已返回国内。"
-    },
-    {
-      "title": "        África7 horas atrás  Rússia expande diplomacia em África com abertura de novas embaixadas O governo da Rússia planeia expandir a sua presença diplomática no continente africano, com a abertura de novas missões diplomáticas em quatro países. A medida surge...   ",
-      "url": "https://correiokianda.info/russia-expande-diplomacia-em-africa-com-abertura-de-novas-embaixadas/",
-      "source": "Correio Kianda",
-      "_key": "1f4cb651d037b746",
-      "score": 5,
-      "title_cn": "俄罗斯在非洲开设新使馆，扩大外交影响力。"
-    },
-    {
-      "title": "Presidente João Lourenço Regressa a Angola Após Visita Privada ao Brasil",
-      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-regressa-a-angola-apos-visita-privada-ao-brasil/",
-      "source": "Diário dos Negócios",
-      "_key": "39046b398cd5e5e7",
-      "score": 5,
-      "title_cn": "若昂·洛伦索(João Lourenço)总统结束巴西私人访问返回安哥拉。"
-    },
-    {
-      "title": " Presidente João Lourenço Regressa a Angola Após Visita Privada ao Brasil ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_a7f3cffb52d915",
-      "score": 5,
-      "title_cn": "若昂·洛伦索(João Lourenço)总统结束巴西私人访问返回安哥拉。"
-    },
-    {
-      "title": "Moçambique enfrenta desafios relacionados com infra-estruturas tecnológicas",
-      "url": "https://forbesafricalusofona.com/mocambique-enfrenta-desafios-relacionados-com-infra-estruturas-tecnologicas/",
-      "source": "Forbes África",
-      "_key": "1299d1d59b5ddba2",
-      "score": 5,
-      "title_cn": "莫桑比克面临技术基础设施挑战。"
-    },
-    {
-      "title": "Destaque Presidente João Lourenço regressa ao país após visita privada ao BrasilO Chefe de Estado, João Lourenço, regressou ao país, esta segunda-feira, 13 de Julho, após cumprir uma visita de carácter privado à República Federativa do Brasil.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680754/presidente-jo%C3%A3o-louren%C3%A7o-regressa-ao-pa%C3%ADs-ap%C3%B3s-visita-privada-ao-brasil",
-      "source": "Jornal de Angola",
-      "_key": "63997ebc45c028f0",
-      "score": 5,
-      "title_cn": "若昂·洛伦索(João Lourenço)总统结束巴西私人访问返回国内。"
-    },
-    {
-      "title": "Sociedade Seis mortos e 32 feridos registados nas últimas 72 horas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680769/seis-mortos-e-32-feridos-registados-nas-%C3%BAltimas-72-horas",
-      "source": "Jornal de Angola",
-      "_key": "9b7c876772566e43",
-      "score": 5,
-      "title_cn": "过去72小时内，6人死亡32人受伤。"
-    },
-    {
-      "title": "Economia / Há 3 horas Ordem dos contabilistas preocupada com execução ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680715/ordem-dos-contabilistas-preocupada-com-execu%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "f68d57edb90f8efe",
-      "score": 5,
-      "title_cn": "会计师协会担忧执行情况。"
-    },
-    {
-      "title": "Presidente da República regressa ao País depois de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/presidente-da-republica-regressa-ao-pais-depois-de-22-dias-no-brasil-73194.html",
-      "source": "Novo Jornal",
-      "_key": "78311d98f058f875",
-      "score": 5,
-      "title_cn": "共和国总统结束访问后返回国内。"
-    },
-    {
-      "title": "Luanda: Quatro pessoas morreram e 12 ficaram feridas em acidentes de viação no fim-de-semana",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-quatro-pessoas-morreram-e-12-ficaram-feridas-em-acidentes-de-viacao-no-fim-de-semana-73196.html",
-      "source": "Novo Jornal",
-      "_key": "6edd2c2ac42eea66",
-      "score": 5,
-      "title_cn": "罗安达：周末交通事故致4死12伤。"
-    },
-    {
-      "title": "Presidente da República regressa ao país após visita privada ao Brasil",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-regressa-ao-pais-apos-visita-privada-ao-brasil/",
-      "source": "O País",
-      "_key": "964fba1a3e8d4892",
-      "score": 5,
-      "title_cn": "共和国总统结束巴西私人访问返回国内。"
+      "title_cn": "总统回国，分析人士认为其缺席猜测已结束"
     }
   ]
 }
