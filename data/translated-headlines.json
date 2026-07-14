@@ -1,136 +1,256 @@
 {
-  "date": "2026-07-13",
-  "total_new": 44,
-  "total_filtered": 16,
+  "date": "2026-07-14",
+  "total_new": 110,
+  "total_filtered": 31,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolan banks authorized to use Chinese Yuan for mandatory reserves",
-      "url": "https://www.angop.ao/en/noticias/economia/bancos-angolanos-autorizados-a-usar-yuan-nas-reservas-obrigatorias/",
-      "source": "ANGOP",
-      "_key": "4dc76865e6be6ceb",
+      "title": "Entrada do Yuan nas Reservas Obrigatórias pode reduzir tempo de espera para acesso às divisas",
+      "url": "https://www.opais.ao/politica/entrada-do-yuan-nas-reservas-obrigatorias-pode-reduzir-tempo-de-espera-para-acesso-as-divisas/",
+      "source": "O País",
+      "_key": "08634d14c610e354",
       "score": 10,
-      "title_cn": "安哥拉银行获准使用人民币作为强制性准备金"
+      "title_cn": "人民币纳入强制性储备，或缩短外汇获取等待时间"
     },
     {
-      "title": "Preço do petróleo sobe mais 4% para 79 dólares",
-      "url": "https://valoreconomico.co.ao/artigo/preco-do-petroleo-sobe-mais-4-para-79-dolares",
+      "title": "BNA inclui moeda chinesa nas reservas: Economistas divididos entre o...",
+      "url": "https://valoreconomico.co.ao/artigo/bna-inclui-moeda-chinesa-nas-reservas-economistas-divididos-entre-o-peso-de-pequim-e-o-baixo-impacto-imediato",
       "source": "Valor Económico",
-      "_key": "c7da051f5f0892ff",
+      "_key": "f678613666c7bf1e",
       "score": 10,
-      "title_cn": "油价上涨4%至每桶79美元"
+      "title_cn": "安哥拉国家银行将人民币纳入储备：经济学家看法不一"
     },
     {
-      "title": "Destaque Grupo vietnamita prevê investimentos na agricultura e mineração em seis províncias O Grupo Xuan Thien prevê investir na produção agrícola e no sector mineiro em Angola, com projectos a serem desenvolvidos nas províncias do Uíge, Malanje, Cuando, Cubango, Cuanza-Norte e Huambo, abarcando a plantação e transformação de café, actividades de prospecção e exploração mineira.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680796/grupo-vietnamita-prev%C3%AA-investimentos-na-agricultura-e-minera%C3%A7%C3%A3o-em-seis-prov%C3%ADncias-",
+      "title": "Dois chineses acusam-se de feitiçaria após dificuldades na venda de carros no Huambo",
+      "url": "https://correiokianda.info/dois-chineses-acusam-se-de-feiticaria-apos-dificuldades-na-venda-de-carros-no-huambo/",
+      "source": "Correio Kianda",
+      "_key": "f5132167d1cfd84a",
+      "score": 9,
+      "title_cn": "万博两名中国人因汽车销售困难，互相指控巫术"
+    },
+    {
+      "title": "BNA admite que Angola poderá atingir inflação de um dígito nos próximos meses",
+      "url": "https://correiokianda.info/bna-admite-que-angola-podera-atingir-inflacao-de-um-digito-nos-proximos-meses/",
+      "source": "Correio Kianda",
+      "_key": "062f1c680da4c3ee",
+      "score": 8,
+      "title_cn": "安哥拉国家银行：安哥拉未来数月通胀率或降至个位数"
+    },
+    {
+      "title": "GAFI: a verdadeira saída da lista cinzenta começa depois da avaliação",
+      "url": "https://correiokianda.info/gafi-a-verdadeira-saida-da-lista-cinzenta-comeca-depois-da-avaliacao/",
+      "source": "Correio Kianda",
+      "_key": "12f60d2faeca64c1",
+      "score": 8,
+      "title_cn": "金融行动特别工作组：脱离“灰名单”需待评估后"
+    },
+    {
+      "title": "Economia BNA prevê inflação de um dígito até final de Julho ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680809/bna-prev%C3%AA-infla%C3%A7%C3%A3o-de-um-d%C3%ADgito-at%C3%A9-final-de-julho",
       "source": "Jornal de Angola",
-      "_key": "17bcefc7b32ecfed",
-      "score": 7,
-      "title_cn": "越南春善（Xuan Thien）集团计划在安哥拉六省投资农业和矿业"
+      "_key": "1787d77bef3a2b19",
+      "score": 8,
+      "title_cn": "安哥拉国家银行预计7月底通胀率将降至个位数"
     },
     {
-      "title": "EXPANSÃO EM DIRECTO: ANTES DA COVID-19 VALIA 26%. Dinheiro físico já só vale 10% da rede multicaixa.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=73208",
+      "title": "Central Bank forecasts single-digit inflation in August",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-preve-inflacao-de-um-digito-em-agosto/",
+      "source": "ANGOP",
+      "_key": "5c3e14a9e605832d",
+      "score": 7,
+      "title_cn": "央行预测8月通胀率将降至个位数"
+    },
+    {
+      "title": "Subida dos preços desacelera e reduz a pressão da inflação em Angola",
+      "url": "https://angola24horas.com/economia/item/34667-subida-dos-precos-desacelera-e-reduz-a-pressao-da-inflacao-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "8694dd85ba56ee12",
+      "score": 7,
+      "title_cn": "安哥拉物价上涨放缓，通胀压力减轻"
+    },
+    {
+      "title": "Destaque Angola defende energia como pilar da industrialização e do desenvolvimento sustentávelO secretário de Estado para o Planeamento, Luís Epalanga, defendeu, em Nova Iorque, que a energia constitui a base da industrialização, da diversificação económica, da criação de emprego e do desenvolvimento sustentável em Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680800/angola-defende-energia-como-pilar-da-industrializa%C3%A7%C3%A3o-e-do-desenvolvimento-sustent%C3%A1vel",
+      "source": "Jornal de Angola",
+      "_key": "5bd571971b462318",
+      "score": 7,
+      "title_cn": "安哥拉在纽约强调能源是工业化和可持续发展支柱"
+    },
+    {
+      "title": "Cooperação consular e mobilidade internacional analisada em LuandaA directora-geral do Instituto das Comunidades Angolanas no Exterior e Serviços Consulares (ICAESC), Maria António, reuniu-se, segunda-feira, em Luanda, com uma delegação da Fundação Universitária Iberoamericana (FUNIBER), de Espanha, chefiada pelo seu presidente, Santos Villar, para analisar matérias ligadas à cooperação consular e à mobilidade internacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680837/coopera%C3%A7%C3%A3o-consular-e-mobilidade-internacional-analisada-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "5de07c614fc095b9",
+      "score": 7,
+      "title_cn": "罗安达探讨领事合作与国际流动性"
+    },
+    {
+      "title": "Economia / Há 1 hora Inflação permanece estável em 1,8 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680810/infla%C3%A7%C3%A3o-permanece-est%C3%A1vel-em-18-por-cento",
+      "source": "Jornal de Angola",
+      "_key": "51f42b08db0225fd",
+      "score": 7,
+      "title_cn": "通胀率稳定在1.8%"
+    },
+    {
+      "title": "Embaixadores africanos visitam Cabinda com a missão de explorar oportunidades de investimento",
+      "url": "https://www.opais.ao/politica/embaixadores-africanos-visitam-cabinda-com-a-missao-de-explorar-oportunidades-de-investimento/",
+      "source": "O País",
+      "_key": "9f29bfe527ce4a73",
+      "score": 7,
+      "title_cn": "非洲各国大使访问卡宾达，探索投资机遇"
+    },
+    {
+      "title": "Export prices show 25.48% variation in the first quarter",
+      "url": "https://www.angop.ao/en/noticias/economia/precos-de-exportacao-registam-variacao-de-25-48-no-primeiro-trimestre/",
+      "source": "ANGOP",
+      "_key": "1e64763890b7ef91",
+      "score": 6,
+      "title_cn": "第一季度出口价格波动25.48%"
+    },
+    {
+      "title": "Cholera Outbreak - Municipality of Catumbela reinforces actions to Combat disease",
+      "url": "https://www.angop.ao/en/noticias/saude/municipio-da-catumbela-intensifica-accoes-de-combate-a-colera/",
+      "source": "ANGOP",
+      "_key": "7cf7388a3865c712",
+      "score": 6,
+      "title_cn": "卡通贝拉市加强霍乱防治措施"
+    },
+    {
+      "title": "CMC alerta investidores para compra de acções da Unitel apenas através de entidades autorizadas",
+      "url": "https://angola24horas.com/sociedade/item/34665-cmc-alerta-investidores-para-compra-de-accoes-da-unitel-apenas-atraves-de-entidades-autorizadas",
+      "source": "Angola 24 Horas",
+      "_key": "91c24f15110e8c21",
+      "score": 6,
+      "title_cn": "资本市场委员会提醒投资者通过授权机构购买Unitel股票"
+    },
+    {
+      "title": "Ranking africano coloca Angola entre os países com maiores progressos na luta contra a corrupção",
+      "url": "https://angola24horas.com/sociedade/item/34664-ranking-africano-coloca-angola-entre-os-paises-com-maiores-progressos-na-luta-contra-a-corrupcao",
+      "source": "Angola 24 Horas",
+      "_key": "40366933e881126b",
+      "score": 6,
+      "title_cn": "非洲排名使安哥拉成为反腐败取得最大进展的国家之一"
+    },
+    {
+      "title": "Burladores usam nome do INSS para tentar obter dados bancários de cidadãos",
+      "url": "https://correiokianda.info/burladores-usam-nome-do-inss-para-tentar-obter-dados-bancarios-de-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "3538250a1f7ffa2e",
+      "score": 6,
+      "title_cn": "诈骗者冒用国家社会保障局名义，企图获取公民银行数据"
+    },
+    {
+      "title": "Ranking africano coloca Angola no topo do combate à corrupção Angola figura entre os países africanos que mais progressos registaram no combate à corrupção na última década, de acordo com as conclusões preliminares do Índice Ibrahim de Governação Africana (IIAG) 2026, divulgadas pela Fundação Mo Ibrahim.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680803/ranking-africano-coloca-angola--no-topo-do-combate-%C3%A0-corrup%C3%A7%C3%A3o-",
+      "source": "Jornal de Angola",
+      "_key": "2b07926edbd253eb",
+      "score": 6,
+      "title_cn": "非洲反腐排名：安哥拉位居前列"
+    },
+    {
+      "title": "Economia Express responde por metade das transacções nos multicaixas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680812/express-responde-por-metade-das-transac%C3%A7%C3%B5es-nos-multicaixas",
+      "source": "Jornal de Angola",
+      "_key": "cb4308ea8c01907c",
+      "score": 6,
+      "title_cn": "Express经济占自动取款机交易量一半"
+    },
+    {
+      "title": "Inflação e autarquias locais vão dominar as jornadas...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/inflacao-e-autarquias-locais-vao-dominar-as-jornadas-do-grupo-parlamentar-do-mpla-que-comecam-hoje-no-municipio-do-soyo-73217.html",
       "source": "Novo Jornal",
-      "_key": "ca11fbabc57f83a7",
-      "score": 7,
-      "title_cn": "疫情前占26%，现金在多功能支付网络中占比已降至10%"
+      "_key": "edca0b8acd28af67",
+      "score": 6,
+      "title_cn": "通胀与地方政府将成为会议焦点"
     },
     {
-      "title": "Acidentes de viação fazem quatro mortos e 12 feridos nas últimas 72 horas",
-      "url": "https://www.opais.ao/ultima_hora/acidentes-de-viacao-fazem-quatro-mortos-e-12-feridos-nas-ultimas-72-horas/",
+      "title": "Nova agência da SanlamAllianz Angola entra em funcionamento no Lobito",
+      "url": "https://www.opais.ao/ultima_hora/nova-agencia-da-sanlamallianz-angola-entra-em-funcionamento-no-lobito/",
       "source": "O País",
-      "_key": "3ce8725c1478c4d9",
-      "score": 7,
-      "title_cn": "过去72小时内，交通事故致4人死亡12人受伤"
+      "_key": "f6bae5eb440fbad5",
+      "score": 6,
+      "title_cn": "SanlamAllianz安哥拉新机构在洛比托投入运营"
     },
     {
-      "title": "Detidos 50 automobilistas por condução sob efeito de álcool durante o fim-de-semana",
-      "url": "https://www.opais.ao/ultima_hora/detidos-50-automobilistas-por-conducao-sob-efeito-de-alcool-durante-o-fim-de-semana/",
+      "title": "INSS alerta para mensagens falsas em nome da instituição",
+      "url": "https://www.opais.ao/ultima_hora/inss-alerta-para-mensagens-falsas-em-nome-da-instituicao/",
       "source": "O País",
-      "_key": "a9ab1deaf661e8f2",
-      "score": 7,
-      "title_cn": "周末期间，50名司机因酒驾被捕"
-    },
-    {
-      "title": "Com mais de duas mil empresas, FILDA sobe o preço...",
-      "url": "https://valoreconomico.co.ao/artigo/com-mais-de-duas-mil-empresas-filda-sobe-o-preco-do-bilhete-em-mil-kwanzas-e-fixa-entrada-nos-5-mil",
-      "source": "Valor Económico",
-      "_key": "9d96977eeab03d3b",
-      "score": 7,
-      "title_cn": "逾两千家企业参展，罗安达国际博览会（FILDA）提高收费"
-    },
-    {
-      "title": "CMC Issues warning regarding authorized entities for Unitel public share offering",
-      "url": "https://www.angop.ao/en/noticias/economia/cmc-alerta-sobre-entidades-autorizadas-na-oferta-publica-de-venda-da-unitel/",
-      "source": "ANGOP",
-      "_key": "57c76487675ec895",
+      "_key": "5d4bfb0d4ebde630",
       "score": 6,
-      "title_cn": "资本市场委员会（CMC）就Unitel公开募股授权实体发出警告"
+      "title_cn": "国家社会保障局警告冒名虚假信息"
     },
     {
-      "title": "Mega-Refinarias da Dangote reforça disputa geopolítica pela liderança energética em África",
-      "url": "https://correiokianda.info/mega-refinarias-da-dangote-reforca-disputa-geopolitica-pela-lideranca-energetica-em-africa/",
+      "title": "Expo/Bié 2026 raises over two billion kwanzas and surpasses previous edition",
+      "url": "https://www.angop.ao/en/noticias/economia/expo-bie-2026-arrecada-mais-de-dois-mil-milhoes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "fbaacf5037f577fb",
+      "score": 5,
+      "title_cn": "2026年比耶博览会筹集逾20亿宽扎，超越上届"
+    },
+    {
+      "title": "Investigation service arrests suspects in robbery of a bank branch in Luanda",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-suspeitos-do-assalto-da-agencia-bancaria-na-cidadela/",
+      "source": "ANGOP",
+      "_key": "c823f00e5ff5d41c",
+      "score": 5,
+      "title_cn": "调查部门逮捕罗安达银行抢劫案嫌疑人"
+    },
+    {
+      "title": "Business Fair brings together 200 entrepreneurs",
+      "url": "https://www.angop.ao/en/noticias/economia/feira-de-negocios-reune-200-empreendedores-nacionais/",
+      "source": "ANGOP",
+      "_key": "bf7056562d543910",
+      "score": 5,
+      "title_cn": "商业博览会汇聚200名企业家"
+    },
+    {
+      "title": "“Crianças estão a ser usadas no contrabando de combustível para a RDC”, alertam autoridades da Lunda Norte",
+      "url": "https://correiokianda.info/criancas-estao-a-ser-usadas-no-contrabando-de-combustivel-para-a-rdc-alertam-autoridades-da-lunda-norte/",
       "source": "Correio Kianda",
-      "_key": "7b7cd0fb84619949",
-      "score": 6,
-      "title_cn": "丹格特（Dangote）大型炼油厂加剧非洲能源主导权地缘政治竞争"
-    },
-    {
-      "title": "CMC clarifica entidades autorizadas para a compra de acções da Unitel",
-      "url": "https://diariodosnegocios.com/cmc-clarifica-entidades-autorizadas-para-a-compra-de-accoes-da-unitel/",
-      "source": "Diário dos Negócios",
-      "_key": "bca7d08b84218298",
-      "score": 6,
-      "title_cn": "资本市场委员会（CMC）澄清Unitel股票购买授权实体"
-    },
-    {
-      "title": " CMC clarifica entidades autorizadas para a compra de acções da Unitel ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_113c86c882e24c",
-      "score": 6,
-      "title_cn": "资本市场委员会（CMC）澄清Unitel股票购买授权实体"
-    },
-    {
-      "title": "Política Téte António e empresários vietnamitas analisam oportunidades de cooperação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680795/t%C3%A9te-ant%C3%B3nio-e-empres%C3%A1rios-vietnamitas-analisam-oportunidades-de-coopera%C3%A7%C3%A3o-",
-      "source": "Jornal de Angola",
-      "_key": "a880894dcd1a7d10",
-      "score": 6,
-      "title_cn": "特特·安东尼奥（Téte António）与越南企业家探讨合作机遇"
-    },
-    {
-      "title": "Economia / Há 7 horas Empresário guineense considera Angola um mercado atractivo para o investimento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680713/empres%C3%A1rio-guineense-considera-angola-um-mercado-atractivo-para-o-investimento-",
-      "source": "Jornal de Angola",
-      "_key": "996133be24cd109b",
-      "score": 6,
-      "title_cn": "几内亚商人认为安哥拉是具吸引力的投资市场"
-    },
-    {
-      "title": "President João Lourenço returns to the country from Brazil",
-      "url": "https://www.angop.ao/en/noticias/politica/skh21u6/",
-      "source": "ANGOP",
-      "_key": "3f23ecf7f7c572b4",
+      "_key": "ff13c91ba37dac2b",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统从巴西回国"
+      "title_cn": "北隆达当局警告：儿童被用于向刚果民主共和国走私燃料"
     },
     {
-      "title": "Regresso",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37843",
-      "source": "ANGOP",
-      "_key": "4840faf366da8d6c",
-      "score": 5,
-      "title_cn": "总统回国"
-    },
-    {
-      "title": "Presidente regressa ao país e analistas consideram encerradas especulações sobre ausência",
-      "url": "https://correiokianda.info/presidente-regressa-ao-pais-e-analistas-consideram-encerradas-especulacoes-sobre-ausencia/",
+      "title": "        Sociedade13 horas atrás  Aumento das propinas divide opiniões entre famílias, escolas e especialistas em Luanda O aumento das propinas nos colégios privados em Luanda está a gerar preocupação entre famílias, enquanto instituições de ensino defendem a necessidade de reajustar os valores...   ",
+      "url": "https://correiokianda.info/aumento-das-propinas-divide-opinioes-entre-familias-escolas-e-especialistas-em-luanda/",
       "source": "Correio Kianda",
-      "_key": "b35c482b4fd2fc86",
+      "_key": "b0522e91237164e6",
       "score": 5,
-      "title_cn": "总统回国，分析人士认为其缺席猜测已结束"
+      "title_cn": "罗安达学费上涨引家庭、学校和专家意见分歧"
+    },
+    {
+      "title": "Pressão na Saúde: Formandos Pós-Média exigem subsídios e ameaçam paralisar serviços – Ministério promete pagar este mês",
+      "url": "https://holdonangola.com/pressao-na-saude-formandos-pos-media-exigem-subsidios-e-ameacam-paralisar-servicos-ministerio-promete-pagar-este-mes/",
+      "source": "Hold On Angola",
+      "_key": "e6ade3f4c1d25483",
+      "score": 5,
+      "title_cn": "卫生系统承压：中等教育后培训生要求补贴并威胁停工，卫生部承诺本月支付"
+    },
+    {
+      "title": "Economia / Há 1 hora FILDA: Empresários de Benguela equacionam participação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680816/filda:-empres%C3%A1rios-de-benguela-equacionam-participa%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "f2827e67ac0e26df",
+      "score": 5,
+      "title_cn": "罗安达国际博览会：本格拉企业家考虑参展"
+    },
+    {
+      "title": "Economia / Há 1 hora PIB continental deve crescer 4,0 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680811/pib-continental--deve-crescer-40-por-cento-",
+      "source": "Jornal de Angola",
+      "_key": "e3b37adc2722a2a8",
+      "score": 5,
+      "title_cn": "非洲大陆GDP预计增长4.0%"
+    },
+    {
+      "title": "Instituto Nacional de Segurança Social alerta sobre...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/instituto-nacional-de-seguranca-social-alerta-sobre-mensagens-fraudulentas-em-nome-da-instituicao-73218.html",
+      "source": "Novo Jornal",
+      "_key": "9f8c469890a840fd",
+      "score": 5,
+      "title_cn": "国家社会保障局发布警告"
     }
   ]
 }
