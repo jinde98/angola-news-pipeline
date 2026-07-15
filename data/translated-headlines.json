@@ -1,80 +1,512 @@
 {
-  "date": "2026-07-14",
-  "total_new": 34,
-  "total_filtered": 9,
+  "date": "2026-07-15",
+  "total_new": 149,
+  "total_filtered": 63,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Política Uganda retira candidatura à liderança da FAO e apoia Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680876/uganda-retira-candidatura-%C3%A0-lideran%C3%A7a-da-fao-e-apoia-angola-",
-      "source": "Jornal de Angola",
-      "_key": "0eb79f87fc728950",
-      "score": 6,
-      "title_cn": "乌干达撤回粮农组织领导人候选资格并支持安哥拉"
-    },
-    {
-      "title": "SIC captura quinto suspeito do assalto à agência BAI",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-captura-quinto-suspeito-do-assalto-a-agencia-bai-73238.html",
-      "source": "Novo Jornal",
-      "_key": "3d7aaeb1f620e072",
-      "score": 6,
-      "title_cn": "安哥拉刑事调查局抓获BAI银行抢劫案第五名嫌疑人"
-    },
-    {
-      "title": "Cidadão “Tira Pressa” detido por suspeita de envolvimento no assalto à agência BAI",
-      "url": "https://www.opais.ao/ultima_hora/cidadao-tira-pressa-detido-por-suspeita-de-envolvimento-no-assalto-a-agencia-bai/",
-      "source": "O País",
-      "_key": "38d41e9a5c6d1618",
-      "score": 6,
-      "title_cn": "公民“Tira Pressa”（蒂拉·普雷萨）涉嫌参与BAI银行抢劫案被捕"
-    },
-    {
-      "title": "Angola reafirma compromisso com desenvolvimento sustentável em Nova Iorque",
-      "url": "https://www.opais.ao/politica/angola-reafirma-compromisso-com-desenvolvimento-sustentavel-em-nova-iorque/",
-      "source": "O País",
-      "_key": "c5257384538a6e38",
-      "score": 6,
-      "title_cn": "安哥拉在纽约重申对可持续发展的承诺"
-    },
-    {
-      "title": "Fundo de Fomento à Habitação recorre a fundos próprios para...",
-      "url": "https://valoreconomico.co.ao/artigo/fundo-de-fomento-a-habitacao-recorre-a-fundos-proprios-para-construir-novas-centralidades",
+      "title": "Clientes queixam-se dos custos do pós-venda de viaturas chinesas",
+      "url": "https://valoreconomico.co.ao/artigo/clientes-queixam-se-dos-custos-do-pos-venda-de-viaturas-chinesas",
       "source": "Valor Económico",
-      "_key": "098f3563824046a5",
-      "score": 6,
-      "title_cn": "住房发展基金动用自有资金"
+      "_key": "979eb19b4ea56075",
+      "score": 10,
+      "title_cn": "客户抱怨中国汽车售后成本高昂"
     },
     {
-      "title": "China nega procura por “esfera de influência” nas relações com países insulares do Pacífico",
-      "url": "https://correiokianda.info/china-nega-procura-por-esfera-de-influencia-nas-relacoes-com-paises-insulares-do-pacifico/",
+      "title": "Reservas em yuan podem facilitar financiamento da banca chinesa a Angola, diz economista",
+      "url": "https://angola24horas.com/economia/item/34672-reservas-em-yuan-podem-facilitar-financiamento-da-banca-chinesa-a-angola-diz-economista",
+      "source": "Angola 24 Horas",
+      "_key": "e2d00f793eeac6e3",
+      "score": 9,
+      "title_cn": "经济学家：人民币储备可助中国银行对安哥拉融资"
+    },
+    {
+      "title": "BNA revê inflação em baixa para 8,6% e crescimento do PIB em alta para 3,6%",
+      "url": "https://angola24horas.com/economia/item/34669-bna-reve-inflacao-em-baixa-para-8-6-e-crescimento-do-pib-em-alta-para-3-6",
+      "source": "Angola 24 Horas",
+      "_key": "c0097089f6a89842",
+      "score": 9,
+      "title_cn": "安哥拉国家银行下调通胀至8.6%，上调GDP增长至3.6%"
+    },
+    {
+      "title": "Irão ameaça travar exportações de energia após bloqueio dos EUA",
+      "url": "https://correiokianda.info/irao-ameaca-travar-exportacoes-de-energia-apos-bloqueio-dos-eua/",
       "source": "Correio Kianda",
-      "_key": "b624f73c262c408a",
-      "score": 5,
-      "title_cn": "中国否认在与太平洋岛国关系中寻求“势力范围”"
+      "_key": "9d4f91324acfa909",
+      "score": 9,
+      "title_cn": "伊朗威胁在美国封锁后停止能源出口"
     },
     {
-      "title": "Política Angola e Coreia do Sul reforçam diálogo para aprofundar relações bilaterais ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/680875/angola-e-coreia-do-sul-refor%C3%A7am-di%C3%A1logo-para-aprofundar-rela%C3%A7%C3%B5es-bilaterais",
+      "title": "Novos ataques iranianos forçam EUA a restabelecerem bloqueios aos portos de Terrão",
+      "url": "https://correiokianda.info/novos-ataques-iranianos-forcam-eua-a-restabelecerem-bloqueios-aos-portos-de-terrao/",
+      "source": "Correio Kianda",
+      "_key": "62c49e83d9f61ae1",
+      "score": 9,
+      "title_cn": "伊朗新袭击迫使美国恢复对特朗港口的封锁"
+    },
+    {
+      "title": "PIB da China perde força e aumenta pressão sobre políticas de estímulo",
+      "url": "https://correiokianda.info/pib-da-china-perde-forca-e-aumenta-pressao-sobre-politicas-de-estimulo/",
+      "source": "Correio Kianda",
+      "_key": "1a58c020c1c01872",
+      "score": 9,
+      "title_cn": "中国GDP增长乏力，刺激政策面临更大压力"
+    },
+    {
+      "title": "Irão quer cobrar portagem no estreito de Ormuz",
+      "url": "https://correiokianda.info/irao-quer-cobrar-portagem-no-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "a70d0530346ad359",
+      "score": 9,
+      "title_cn": "伊朗欲在霍尔木兹海峡收取通行费"
+    },
+    {
+      "title": "Trump, Irão e o perigo de uma escalada sem retorno",
+      "url": "https://correiokianda.info/trump-irao-e-o-perigo-de-uma-escalada-sem-retorno/",
+      "source": "Correio Kianda",
+      "_key": "b4d5c711e412d513",
+      "score": 9,
+      "title_cn": "特朗普、伊朗与不可逆转的局势升级危险"
+    },
+    {
+      "title": "BNA reduz taxa de juro de referência para 15,75% e projeta inflação de 8,6% no final de 2026",
+      "url": "https://diariodosnegocios.com/bna-reduz-taxa-de-juro-de-referencia-para-1575-e-projeta-inflacao-de-86-no-final-de-2026/",
+      "source": "Diário dos Negócios",
+      "_key": "73d468a602cb9632",
+      "score": 9,
+      "title_cn": "安哥拉国家银行下调基准利率至15.75%，预计2026年底通胀8.6%"
+    },
+    {
+      "title": "Mota-Engil vai reabilitar troço congolês do Corredor do Lobito em parceria com o Executivo da RDC",
+      "url": "https://diariodosnegocios.com/mota-engil-vai-reabilitar-troco-congoles-do-corredor-do-lobito-em-parceria-com-o-executivo-da-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "26e5962c9a59f85b",
+      "score": 9,
+      "title_cn": "莫塔-英吉尔（Mota-Engil）将与刚果民主共和国政府合作修复洛比托走廊刚果段"
+    },
+    {
+      "title": " BNA reduz taxa de juro de referência para 15,75% e projeta inflação de 8,6% no final de 2026 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_514c2a08477d25",
+      "score": 9,
+      "title_cn": "安哥拉国家银行下调基准利率至15.75%，预计2026年底通胀8.6%"
+    },
+    {
+      "title": " Mota-Engil vai reabilitar troço congolês do Corredor do Lobito em parceria com o Executivo da RDC ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ca159e49d4514b",
+      "score": 9,
+      "title_cn": "莫塔-英吉尔（Mota-Engil）将与刚果民主共和国政府合作修复洛比托走廊刚果段"
+    },
+    {
+      "title": "BNA baixa taxa directora para 15,75% e revê inflação em baixa para 8,6%",
+      "url": "https://expansao.co.ao/economia/detalhe/bna-baixa-taxa-directora-para-1575-e-reve-inflacao-em-baixa-para-86-73248.html",
+      "source": "Expansão",
+      "_key": "75ed1f4dae7d5da0",
+      "score": 9,
+      "title_cn": "安哥拉国家银行将政策利率降至15.75%，下调通胀至8.6%"
+    },
+    {
+      "title": "Doing Business Angola 2026: acompanhe em direto – Primeira parte",
+      "url": "https://forbesafricalusofona.com/doing-business-angola-2026-acompanhe-em-direto-primeira-parte/",
+      "source": "Forbes África",
+      "_key": "fbc61af034a60e96",
+      "score": 9,
+      "title_cn": "2026年安哥拉营商环境报告：直播第一部分"
+    },
+    {
+      "title": "Descida da inflação motiva redução da taxa de juros de 17 para 15,75%O Comité de Política Monetária (CPM) do Banco Nacional de Angola (BNA) anunciou terça-feira a redução da taxa básica de juro, conhecida como Taxa BNA, de 17,0% para 15,75%, impulsionada pela desaceleração da inflação. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680883/descida-da-infla%C3%A7%C3%A3o-motiva-redu%C3%A7%C3%A3o--da-taxa-de-juros-de-17-para-1575%25",
       "source": "Jornal de Angola",
-      "_key": "271597db45c33bcf",
-      "score": 5,
-      "title_cn": "安哥拉与韩国加强对话以深化双边关系"
+      "_key": "021524d7c0741e08",
+      "score": 9,
+      "title_cn": "通胀下降促使安哥拉国家银行将利率从17%降至15.75%"
     },
     {
-      "title": "Mensagem do Presidente da República entregue ao homólogo ugandês",
-      "url": "https://www.opais.ao/politica/mensagem-do-presidente-da-republica-entregue-ao-homologo-ugandes/",
-      "source": "O País",
-      "_key": "e91a6e65992fc7a7",
-      "score": 5,
-      "title_cn": "共和国总统信函递交乌干达总统"
+      "title": "BNA, que antecipa inflação de 8,6% e crescimento do...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-que-antecipa-inflacao-de-86-e-crescimento-do-pib-de-36-no-final-de-2026-reduz-taxa-de-juro-para-1575-73245.html",
+      "source": "Novo Jornal",
+      "_key": "45280609f4bfe980",
+      "score": 9,
+      "title_cn": "BNA预计通胀8.6%，增长......"
     },
     {
-      "title": "Luanda acolhe durante dois dias a 3ª edição da Iniciativa da Aliança das Civilizações da ONU",
-      "url": "https://www.opais.ao/politica/luanda-acolhe-durante-dois-dias-a-3a-edicao-da-iniciativa-da-alianca-das-civilizacoes-da-onu/",
+      "title": "Mercado cambial cresce 15%, impulsionado por operações do Tesouro e...",
+      "url": "https://valoreconomico.co.ao/artigo/mercado-cambial-cresce-15-impulsionado-por-operacoes-do-tesouro-e-do-bna",
+      "source": "Valor Económico",
+      "_key": "92c6d20e4958ba94",
+      "score": 9,
+      "title_cn": "外汇市场增长15%，由国债运营推动......"
+    },
+    {
+      "title": "Angola Central Bank cuts interest rate to 15.75 percent",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-reduz-taxa-de-juro-para-15-75-por-cento/",
+      "source": "ANGOP",
+      "_key": "4c2a8125c12618ad",
+      "score": 8,
+      "title_cn": "安哥拉央行将利率下调至15.75%"
+    },
+    {
+      "title": "Subida dos preços desacelera e reduz a pressão da inflação em Angola",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34667-subida-dos-precos-desacelera-e-reduz-a-pressao-da-inflacao-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "09ec368baafcd4d2",
+      "score": 8,
+      "title_cn": "安哥拉物价上涨放缓，通胀压力减轻"
+    },
+    {
+      "title": "BNA reduz taxa de juro de referência para 15,75% face à desaceleração da inflação",
+      "url": "https://correiokianda.info/bna-reduz-taxa-de-juro-de-referencia-para-1575-face-a-desaceleracao-da-inflacao/",
+      "source": "Correio Kianda",
+      "_key": "e8d6ebba647be63e",
+      "score": 8,
+      "title_cn": "面对通胀放缓，安哥拉国家银行将基准利率降至15.75%"
+    },
+    {
+      "title": "PIB angolano regista crescimento de 5,32 por cento no Iº trimestre de 2026",
+      "url": "https://correiokianda.info/pib-angolano-regista-crescimento-de-532-por-cento-no-io-trimestre-de-2026/",
+      "source": "Correio Kianda",
+      "_key": "4d2849cc458429cf",
+      "score": 8,
+      "title_cn": "2026年第一季度安哥拉GDP增长5.32%"
+    },
+    {
+      "title": "Banco Nacional prevê cenário económico mais favorável para Angola em 2026",
+      "url": "https://correiokianda.info/banco-nacional-preve-cenario-economico-mais-favoravel-para-angola-em-2026/",
+      "source": "Correio Kianda",
+      "_key": "608e20078c4f45b3",
+      "score": 8,
+      "title_cn": "安哥拉国家银行预测2026年经济形势将更趋有利"
+    },
+    {
+      "title": "Projecção descendente da taxa de inflação pode causar estabilidade macroeconómica, diz analista",
+      "url": "https://correiokianda.info/projeccao-descendente-da-taxa-de-inflacao-pode-causar-estabilidade-macroeconomica-diz-analista/",
+      "source": "Correio Kianda",
+      "_key": "01b35680d574ca8d",
+      "score": 8,
+      "title_cn": "分析师：通胀率下行预测或带来宏观经济稳定"
+    },
+    {
+      "title": "AGT propõe revisão da Lei do Mecenato para eliminar entraves burocráticos ao investimento",
+      "url": "https://diariodosnegocios.com/agt-propoe-revisao-da-lei-do-mecenato-para-eliminar-entraves-burocraticos-ao-investimento/",
+      "source": "Diário dos Negócios",
+      "_key": "6f847da61c8eac97",
+      "score": 8,
+      "title_cn": "安哥拉税务总局提议修订《赞助法》以消除投资官僚障碍"
+    },
+    {
+      "title": " AGT propõe revisão da Lei do Mecenato para eliminar entraves burocráticos ao investimento ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_18abb848ca8aaa",
+      "score": 8,
+      "title_cn": "安哥拉税务总局提议修订《赞助法》以消除投资官僚障碍"
+    },
+    {
+      "title": "Angola manteve-se protegida do impacto inflacionário da guerra no Médio Oriente – Consultora",
+      "url": "https://forbesafricalusofona.com/angola-manteve-se-protegida-do-impacto-inflacionario-da-guerra-no-medio-oriente-consultora/",
+      "source": "Forbes África",
+      "_key": "257afb1158e4237f",
+      "score": 8,
+      "title_cn": "咨询公司：安哥拉未受中东战争通胀影响"
+    },
+    {
+      "title": "Abrandamento na subida de preços mostra que Angola está protegida da pressão inflacionária – Consultora",
+      "url": "https://jornaloguardiao.com/2026/07/15/abrandamento-na-subida-de-precos-mostra-que-angola-esta-protegida-da-pressao-inflacionaria-consultora/",
+      "source": "Jornal O Guardião",
+      "_key": "e4f3794c3b827ba6",
+      "score": 8,
+      "title_cn": "咨询公司：物价上涨放缓表明安哥拉免受通胀压力"
+    },
+    {
+      "title": " Abrandamento na subida de preços mostra que Angola está protegida da pressão inflacionária – Consultora ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6e5a68bf2b19b6",
+      "score": 8,
+      "title_cn": "咨询公司：物价上涨放缓表明安哥拉免受通胀压力"
+    },
+    {
+      "title": "Estado recebeu apenas 30% dos 763,9 mil milhões arrecadados pelo...",
+      "url": "https://valoreconomico.co.ao/artigo/estado-recebeu-apenas-30-dos-763-9-mil-milhoes-arrecadados-pelo-propriv-em-sete-anos",
+      "source": "Valor Económico",
+      "_key": "451503251803630b",
+      "score": 8,
+      "title_cn": "国家仅收到所征收7639亿宽扎中30%的收入"
+    },
+    {
+      "title": "Angola reaffirms commitment to transparency in the extractive industry",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reitera-compromisso-com-a-transparencia-na-industria-extractiva/",
+      "source": "ANGOP",
+      "_key": "e23dea27cab463cf",
+      "score": 7,
+      "title_cn": "安哥拉重申致力于采掘业透明化"
+    },
+    {
+      "title": "Diamonds",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4393",
+      "source": "ANGOP",
+      "_key": "68d02429c548306a",
+      "score": 7,
+      "title_cn": "钻石"
+    },
+    {
+      "title": "Angolan economy undergoing structural transformation - Minister of State",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-vive-uma-transformacao-estrutural-da-sua-economia-ministro-de-estado/",
+      "source": "ANGOP",
+      "_key": "4dd7249d1d6a6455",
+      "score": 7,
+      "title_cn": "国务部长：安哥拉经济正经历结构转型"
+    },
+    {
+      "title": "Taxpayer declaration is essential to define tax payable",
+      "url": "https://www.angop.ao/en/noticias/economia/declaracao-dos-contribuintes-e-fundamental-para-definir-imposto-a-pagar-ottoniel-dos-santos/",
+      "source": "ANGOP",
+      "_key": "c01aa41466e95d94",
+      "score": 7,
+      "title_cn": "纳税人申报对确定应纳税额至关重要"
+    },
+    {
+      "title": "Kwanza será utilizado nas liquidações interbancárias da SADC - BNA",
+      "url": "https://angola24horas.com/economia/item/34671-kwanza-sera-utilizado-nas-liquidacoes-interbancarias-da-sadc-bna",
+      "source": "Angola 24 Horas",
+      "_key": "1c71ae31b0356ce1",
+      "score": 7,
+      "title_cn": "安哥拉国家银行：宽扎将用于南部非洲发展共同体银行间结算"
+    },
+    {
+      "title": "Grupo suspeito de roubar 86 milhões de kwanzas de carro-forte é desmantelado em Luanda",
+      "url": "https://correiokianda.info/grupo-suspeito-de-roubar-86-milhoes-de-kwanzas-de-carro-forte-e-desmantelado-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "18817e8510e4aef4",
+      "score": 7,
+      "title_cn": "罗安达一涉嫌抢劫8600万宽扎运钞车的团伙被捣毁"
+    },
+    {
+      "title": "Angola quer atingir 65% de inclusão financeira e reforçar acesso ao crédito até 2027",
+      "url": "https://diariodosnegocios.com/angola-quer-atingir-65-de-inclusao-financeira-e-reforcar-acesso-ao-credito-ate-2027/",
+      "source": "Diário dos Negócios",
+      "_key": "ea902862d6795f83",
+      "score": 7,
+      "title_cn": "安哥拉力争到2027年实现65%金融普惠并加强信贷可及性"
+    },
+    {
+      "title": " Angola quer atingir 65% de inclusão financeira e reforçar acesso ao crédito até 2027 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_cae77932c19c76",
+      "score": 7,
+      "title_cn": "安哥拉力争到2027年实现65%金融普惠并加强信贷可及性"
+    },
+    {
+      "title": "Destaque José de Lima Massano defende continuidade das reformas para consolidar progresso económicoO ministro de Estado para a Coordenação Económica, José de Lima Massano, afirmou, hoje, que Angola regista progressos económicos concretos e mensuráveis.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/680879/jos%C3%A9-de-lima-massano-defende-continuidade-das-reformas-para-consolidar-progresso-econ%C3%B3mico",
+      "source": "Jornal de Angola",
+      "_key": "8ba98f33e216763d",
+      "score": 7,
+      "title_cn": "若泽·德·利马·马萨诺（José de Lima Massano）倡导继续改革以巩固经济进步"
+    },
+    {
+      "title": "Angola approves concession to export electricity to the DRC without public funding14/07/2026",
+      "url": "https://www.negociosdeangola.com/en/angola-approves-concession-to-export-electricity-to-the-drc-without-public-funding/",
+      "source": "Negócios de Angola",
+      "_key": "708ba4270fa080ba",
+      "score": 7,
+      "title_cn": "安哥拉批准向刚果民主共和国出口电力特许权，无需公共资金"
+    },
+    {
+      "title": "President Authorizes Kz 63.9 Billion for Construction of 932 New Homes and Rehabilitation of 460 Houses in Benguela",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10099",
+      "source": "Negócios de Angola",
+      "_key": "9030b84ba044083e",
+      "score": 7,
+      "title_cn": "总统批准639亿宽扎用于本格拉932套新房建设和460套房屋翻修"
+    },
+    {
+      "title": "Pedidos de crédito superam em mais de 15% linha de...",
+      "url": "https://valoreconomico.co.ao/artigo/pedidos-de-credito-superam-em-mais-de-15-linha-de-credito-do-governo",
+      "source": "Valor Económico",
+      "_key": "b23ddf1e287e3b96",
+      "score": 7,
+      "title_cn": "信贷申请超出额度15%以上"
+    },
+    {
+      "title": "Excesso de burocracia trava mecenato e afasta privados, alerta AGT",
+      "url": "https://valoreconomico.co.ao/artigo/excesso-de-burocracia-trava-mecenato-e-afasta-privados-alerta-agt",
+      "source": "Valor Económico",
+      "_key": "0410c2db2cdf3379",
+      "score": 7,
+      "title_cn": "安哥拉税务总局警告：过度官僚主义阻碍赞助并吓退私人投资者"
+    },
+    {
+      "title": "SIC detém quinto suspeito do assalto ao BAI na Cidadela que fez um morto",
+      "url": "https://angola24horas.com/sociedade/item/34673-sic-detem-quinto-suspeito-do-assalto-ao-bai-na-cidadela-que-fez-um-morto",
+      "source": "Angola 24 Horas",
+      "_key": "7210d5683d9cd79f",
+      "score": 6,
+      "title_cn": "刑事调查局逮捕西达德拉BAI银行抢劫案第五名嫌犯，该案致一人死亡"
+    },
+    {
+      "title": "SIC confirma detenção do quinto suspeito do assalto à agência do BAI na Cidadela",
+      "url": "https://correiokianda.info/sic-confirma-detencao-do-quinto-suspeito-do-assalto-a-agencia-do-bai-na-cidadela/",
+      "source": "Correio Kianda",
+      "_key": "b61c4f5c500daac9",
+      "score": 6,
+      "title_cn": "刑事调查局证实西达德拉BAI银行抢劫案第五名嫌犯被捕"
+    },
+    {
+      "title": "INAAREES alerta para plataforma falsa de homologação de diplomas que imita o portal SEPE",
+      "url": "https://diariodosnegocios.com/inaarees-alerta-para-plataforma-falsa-de-homologacao-de-diplomas-que-imita-o-portal-sepe/",
+      "source": "Diário dos Negócios",
+      "_key": "85df14b464349674",
+      "score": 6,
+      "title_cn": "INAAREES警告：有假冒SEPE门户网站的文凭认证平台"
+    },
+    {
+      "title": " INAAREES alerta para plataforma falsa de homologação de diplomas que imita o portal SEPE ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_71b81c89efe521",
+      "score": 6,
+      "title_cn": "INAAREES警告：有假冒SEPE门户网站的文凭认证平台"
+    },
+    {
+      "title": "Dinheiro transaccionado no Kwik cresce 62% para 557 mil milhões Kz em seis meses",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_30cabd8f9956b1",
+      "score": 6,
+      "title_cn": "Kwik平台交易额六个月内增长62%至5570亿宽扎"
+    },
+    {
+      "title": "Seguradoras com licenças revogadas devem pelo menos 812,8 milhões Kz a 211 credores",
+      "url": "https://expansao.co.ao/empresas/detalhe/seguradoras-com-licencas-revogadas-devem-pelo-menos-8128-milhoes-kz-a-211-credores-73223.html",
+      "source": "Expansão",
+      "_key": "99a71586defde847",
+      "score": 6,
+      "title_cn": "执照被吊销的保险公司至少拖欠211名债权人8.128亿宽扎"
+    },
+    {
+      "title": "N’Gunu Tiny: “Verdadeiro desafio é usar Portugal e Angola para criar empresas globais e conquistar novos mercados”",
+      "url": "https://forbesafricalusofona.com/ngunu-tiny-verdadeiro-desafio-e-usar-portugal-e-angola-para-criar-empresas-globais-e-conquistar-novos-mercados-2/",
+      "source": "Forbes África",
+      "_key": "77392bafd4ef0308",
+      "score": 6,
+      "title_cn": "恩古努·蒂尼（N’Gunu Tiny）：真正挑战是利用葡安两国创建全球企业并开拓新市场"
+    },
+    {
+      "title": "AGT termina hoje auscultação da proposta de lei do mecenato que estabelece incentivos fiscais",
+      "url": "https://www.opais.ao/economia/agt-termina-hoje-auscultacao-da-proposta-de-lei-do-mecenato-que-estabelece-incentivos-fiscais/",
       "source": "O País",
-      "_key": "b3b0c437ab55e2e7",
+      "_key": "b4110b2802c50921",
+      "score": 6,
+      "title_cn": "安哥拉税务总局今日结束对设立税收优惠的《赞助法》草案征询"
+    },
+    {
+      "title": "Segunda fase da Centralidade General Txizaízanga deverá ser concluída em 36 meses",
+      "url": "https://www.opais.ao/ultima_hora/segunda-fase-da-centralidade-general-txizaizanga-devera-ser-concluida-em-36-meses/",
+      "source": "O País",
+      "_key": "a394a84384befe55",
+      "score": 6,
+      "title_cn": "希扎伊赞加（Txizaízanga）将军中心城二期工程预计36个月内完工"
+    },
+    {
+      "title": "Assalto de 86 milhões de kwanzas na Avenida Deolinda Rodrigues leva à detenção de dois suspeitos",
+      "url": "https://www.opais.ao/ultima_hora/assalto-de-86-milhoes-de-kwanzas-na-avenida-deolinda-rodrigues-leva-a-detencao-de-dois-suspeitos/",
+      "source": "O País",
+      "_key": "ae5e534b5c54638a",
+      "score": 6,
+      "title_cn": "德奥林达·罗德里格斯大道8600万宽扎抢劫案致两名嫌犯被捕"
+    },
+    {
+      "title": "French Ambassador highlights strengthening of bilateral relations with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/embaixadora-francesa-realca-fortalecimento-das-relacoes-bilaterais-com-angola/",
+      "source": "ANGOP",
+      "_key": "f1cdcff87fc0da40",
       "score": 5,
-      "title_cn": "罗安达将主办为期两天的第三届联合国文明联盟倡议活动"
+      "title_cn": "法国大使强调加强与安哥拉双边关系"
+    },
+    {
+      "title": "Angola and Japan identify new areas of strategic cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-japao-identificam-novas-areas-de-cooperacao-estrategica/",
+      "source": "ANGOP",
+      "_key": "0fd566f874f9329e",
+      "score": 5,
+      "title_cn": "安哥拉与日本确定新的战略合作领域"
+    },
+    {
+      "title": "Angola Tourism Ministry launches platform to mobilize investors",
+      "url": "https://www.angop.ao/en/noticias/economia/turismo-lanca-plataforma-para-mobilizar-investidores/",
+      "source": "ANGOP",
+      "_key": "c9418c79992787af",
+      "score": 5,
+      "title_cn": "安哥拉旅游部推出平台以吸引投资者"
+    },
+    {
+      "title": "Segunda fase da Centralidade General Txizainga prevê construção de 1400 casas em 36 meses",
+      "url": "https://correiokianda.info/segunda-fase-da-centralidade-general-txizainga-preve-construcao-de-1400-casas-em-36-meses/",
+      "source": "Correio Kianda",
+      "_key": "f8a7377e9e27e9bb",
+      "score": 5,
+      "title_cn": "希扎伊赞加（Txizainga）将军中心城二期工程预计36个月内建成1400套住房"
+    },
+    {
+      "title": "SIC desativa fábrica clandestina de sabão no panguila e detém dois estrangeiros",
+      "url": "https://correiokianda.info/181639-2/",
+      "source": "Correio Kianda",
+      "_key": "891e03da48a7686d",
+      "score": 5,
+      "title_cn": "刑事调查局捣毁潘吉拉一非法肥皂厂并逮捕两名外国人"
+    },
+    {
+      "title": "Contabilistas e despachantes oficiais respondem em massa apesar de multas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_57cd2739734ced",
+      "score": 5,
+      "title_cn": "尽管有罚款，会计师和官方报关员仍积极响应"
+    },
+    {
+      "title": "Sociedade Ministra quer equilíbrio entre desenvolvimento económico e a preservação ambiental ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/680889/ministra-quer-equil%C3%ADbrio-entre-desenvolvimento-econ%C3%B3mico-e-a-preserva%C3%A7%C3%A3o-ambiental",
+      "source": "Jornal de Angola",
+      "_key": "dbc34999253cf223",
+      "score": 5,
+      "title_cn": "部长呼吁经济发展与环境保护之间取得平衡"
+    },
+    {
+      "title": "ARC holds debate on negotiated justice to strengthen competition compliance in companies",
+      "url": "https://www.negociosdeangola.com/en/arc-holds-debate-on-negotiated-justice-to-strengthen-competition-compliance-in-companies/",
+      "source": "Negócios de Angola",
+      "_key": "94f51d6e2a4e4ec0",
+      "score": 5,
+      "title_cn": "安哥拉竞争监管局就协商司法举行辩论以加强企业合规"
+    },
+    {
+      "title": "NÁDIA FEIJÓ: “A transparência e a integridade devem ser pilares da soberania económica de Angola”",
+      "url": "https://www.opais.ao/economia/nadia-feijo-a-transparencia-e-a-integridade-devem-ser-pilares-da-soberania-economica-de-angola/",
+      "source": "O País",
+      "_key": "21c62dba2d7524c6",
+      "score": 5,
+      "title_cn": "娜迪亚·费霍（NÁDIA FEIJÓ）：透明和诚信应是安哥拉经济主权的支柱"
+    },
+    {
+      "title": "Burocracia continua a ‘ofuscar’ crédito bonificado à habitação",
+      "url": "https://valoreconomico.co.ao/artigo/burocracia-continua-a-ofuscar-credito-bonificado-a-habitacao",
+      "source": "Valor Económico",
+      "_key": "355ed59c57b8285c",
+      "score": 5,
+      "title_cn": "官僚主义持续阻碍优惠住房信贷"
+    },
+    {
+      "title": "“Deveria investir-se menos em viagens ao exterior e mais no trabalho de...",
+      "url": "https://valoreconomico.co.ao/artigo/deveria-investir-se-menos-em-viagens-ao-exterior-e-mais-no-trabalho-de-campo-e-no-desenvolvimento-da-agropecuaria",
+      "source": "Valor Económico",
+      "_key": "fda25ab4d1467988",
+      "score": 5,
+      "title_cn": "“应减少海外旅行投资，更多投入到...工作”"
     }
   ]
 }
