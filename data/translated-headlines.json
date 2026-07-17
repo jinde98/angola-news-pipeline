@@ -1,112 +1,104 @@
 {
   "date": "2026-07-17",
-  "total_new": 30,
-  "total_filtered": 13,
+  "total_new": 40,
+  "total_filtered": 12,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BAI e BFA na corrida ao sistema \"Swift\" chinês",
+      "title": "Huatong Industry vence o Prémio AIPEX Awards 2026",
+      "url": "https://www.opais.ao/economia/huatong-industry-vence-o-premio-aipex-awards-2026/",
+      "source": "O País",
+      "_key": "5ed1978abd743392",
+      "score": 10,
+      "title_cn": "华通工业荣获2026年AIPEX奖。"
+    },
+    {
+      "title": "Internacionalização da banca e regresso dos correspondentes no crivo dos executivos da banca",
+      "url": "https://expansao.co.ao/empresas/detalhe/internacionalizacao-da-banca-e-regresso-dos-correspondentes-no-crivo-dos-executivos-da-banca-73337.html",
+      "source": "Expansão",
+      "_key": "c6b75f1cc0db12e8",
+      "score": 9,
+      "title_cn": "银行业高管关注银行业国际化及代理行回归。"
+    },
+    {
+      "title": "Destaque Visa lança serviço para acelerar transferências de dinheiroAngola conta com uma solução que promete tornar as transferências internacionais de dinheiro mais rápidas, seguras e eficientes, com o reforço do Visa Direct, anunciado, esta sexta-feira, pela Visa, no âmbito da estratégia de modernização do sistema nacional de pagamentos.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681104/visa-lan%C3%A7a-servi%C3%A7o-para-acelerar-transfer%C3%AAncias-de-dinheiro",
+      "source": "Jornal de Angola",
+      "_key": "b0330de4fad11016",
+      "score": 9,
+      "title_cn": "Visa在安哥拉推出新服务，加速国际资金转账。"
+    },
+    {
+      "title": "AIPEX reaffirms commitment to attracting private investment",
+      "url": "https://www.angop.ao/en/noticias/economia/aipex-reafirma-compromisso-com-atraccao-de-investimento-privado/",
+      "source": "ANGOP",
+      "_key": "010328470f1a84f7",
+      "score": 8,
+      "title_cn": "AIPEX重申致力于吸引私人投资。"
+    },
+    {
+      "title": "O verdadeiro teste não será o número de bancos correspondentes que recuperarmos",
+      "url": "https://expansao.co.ao/economia/detalhe/o-verdadeiro-teste-nao-sera-o-numero-de-bancos-correspondentes-que-recuperarmos-73335.html",
+      "source": "Expansão",
+      "_key": "4bb80d352e290f5f",
+      "score": 8,
+      "title_cn": "真正的考验并非我们恢复的代理银行数量。"
+    },
+    {
+      "title": "Ajustes directos disparam 243% para 13,7 mil milhões USD no I semestre do ano",
       "url": "",
       "source": "Expansão",
-      "_key": "t_07e456c5e8dc1b",
-      "score": 10,
-      "title_cn": "BAI和BFA银行竞逐中国“SWIFT”系统"
-    },
-    {
-      "title": "Investimento privado ganha palco nos AIPEX Awards com Huatong a liderar lista de vencedores",
-      "url": "https://forbesafricalusofona.com/investimento-privado-ganha-palco-nos-aipex-awards-com-huatong-a-liderar-lista-de-vencedores/",
-      "source": "Forbes África",
-      "_key": "bd5ecabb530ebc8f",
-      "score": 9,
-      "title_cn": "私人投资在AIPEX奖项中受关注，华通公司领跑获奖名单"
-    },
-    {
-      "title": "Florindo Chivucute participa em lançamento de relatório sobre influência da China e Rússia",
-      "url": "https://holdonangola.com/florindo-chivucute-participa-em-lancamento-de-relatorio-sobre-influencia-da-china-e-russia/",
-      "source": "Hold On Angola",
-      "_key": "51872f36025b49db",
-      "score": 9,
-      "title_cn": "弗洛林多·奇武库特（Florindo Chivucute）出席中俄影响力报告发布会"
-    },
-    {
-      "title": "Custos de manutenção de viaturas chinesas preocupam proprietários em Angola",
-      "url": "https://angola24horas.com/sociedade/item/34695-custos-de-manutencao-de-viaturas-chinesas-preocupam-proprietarios-em-angola",
-      "source": "Angola 24 Horas",
-      "_key": "eb67e006a3c3df94",
-      "score": 8,
-      "title_cn": "安哥拉车主担忧中国汽车维修成本过高"
-    },
-    {
-      "title": "Instituto de Estradas de Angola e a IP Engenharia reforçam cooperação no domínio das infra-estruturas rodoviárias",
-      "url": "https://forbesafricalusofona.com/instituto-de-estradas-de-angola-e-a-ip-engenharia-reforcam-cooperacao-no-dominio-das-infra-estruturas-rodoviarias/",
-      "source": "Forbes África",
-      "_key": "49f8b2e6ec5516f1",
-      "score": 8,
-      "title_cn": "安哥拉公路局与IP工程公司加强道路基础设施合作"
-    },
-    {
-      "title": "Correspondentes bancários estão a regressar a Angola...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/correspondentes-bancarios-estao-a-regressar-a-angola-anuncia-secretario-de-estado-das-financas-e-tesouro-73333.html",
-      "source": "Novo Jornal",
-      "_key": "19e4b735b1a7d16a",
-      "score": 8,
-      "title_cn": "银行代理机构正重返安哥拉市场"
-    },
-    {
-      "title": "Capitalização bolsista da banca atinge 3,9 biliões Kz no primeiro semestre",
-      "url": "https://expansao.co.ao/empresas/detalhe/capitalizacao-bolsista-da-banca-atinge-39-bilioes-kz-no-primeiro-semestre-73332.html",
-      "source": "Expansão",
-      "_key": "9db33f2559153cca",
+      "_key": "t_aeb16e58775b10",
       "score": 7,
-      "title_cn": "上半年银行业市值达3.9万亿宽扎"
+      "title_cn": "上半年直接采购额飙升243%，达137亿美元。"
     },
     {
-      "title": "\"A banca não é uma alternativa. Pelo contrário, é a porta de entrada para o mercado de capitais\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/a-banca-nao-e-uma-alternativa-pelo-contrario-e-a-porta-de-entrada-para-o-mercado-de-capitais-73329.html",
-      "source": "Expansão",
-      "_key": "288db4f85fd0749f",
+      "title": "Government Conceals Names of Companies Awarded Direct Contracts, Raising Transparency Concerns17/07/2026",
+      "url": "https://www.negociosdeangola.com/en/government-conceals-names-of-companies-awarded-direct-contracts-raising-transparency-concerns/",
+      "source": "Negócios de Angola",
+      "_key": "5979f3d7c219ed67",
       "score": 7,
-      "title_cn": "“银行业并非替代品，而是进入资本市场的门户。”"
+      "title_cn": "政府隐瞒直接合同中标公司名称，引发透明度担忧。"
     },
     {
-      "title": "Minister of State considers economic diversification foundation for Angola's growth",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-de-estado-aponta-diversificacao-economica-como-base-de-crescimento-de-angola/",
+      "title": "Saurimo hosts international business forum",
+      "url": "https://www.angop.ao/en/noticias/economia/saurimo-acolhe-forum-empresarial-internacional/",
       "source": "ANGOP",
-      "_key": "778613884e02a61e",
+      "_key": "54bccdec0250e964",
       "score": 6,
-      "title_cn": "国务部长：经济多元化是安哥拉增长的基础"
+      "title_cn": "绍里木市主办国际商业论坛。"
     },
     {
-      "title": "Ministro Massano aponta diversificação económica como base de crescimento para Angola",
-      "url": "https://correiokianda.info/ministro-massano-aponta-diversificacao-economica-como-base-de-crescimento-para-angola/",
-      "source": "Correio Kianda",
-      "_key": "6a478bf351019303",
+      "title": "Civil servants to receive 13th-month salary in a single payment",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10128",
+      "source": "Negócios de Angola",
+      "_key": "5c76f64a08c14ffa",
       "score": 6,
-      "title_cn": "马萨诺（Massano）部长指出经济多元化是安哥拉增长基础"
+      "title_cn": "公务员将一次性领取第13个月工资。"
     },
     {
-      "title": "SIC detém sexto suspeito do assalto à agência BAI",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-detem-sexto-suspeito-do-assalto-a-agencia-bai-73323.html",
-      "source": "Novo Jornal",
-      "_key": "99965ba9a189037a",
-      "score": 6,
-      "title_cn": "刑事调查局逮捕BAI银行抢劫案第六名嫌疑人"
-    },
-    {
-      "title": "Após duas mortes, autoridades intensificam combate às clínicas de estética irregulares em Luanda",
-      "url": "https://angola24horas.com/sociedade/item/34694-apos-duas-mortes-autoridades-intensificam-combate-as-clinicas-de-estetica-irregulares-em-luanda",
+      "title": "Sinprof admite nova greve em setembro e critica ingresso de oito mil professores",
+      "url": "https://angola24horas.com/component/k2/item/34696-sinprof-admite-nova-greve-em-setembro-e-critica-ingresso-de-oito-mil-professores",
       "source": "Angola 24 Horas",
-      "_key": "c7d6c6304402b0b8",
+      "_key": "212c521fe0bb12e3",
       "score": 5,
-      "title_cn": "罗安达两起死亡事件后，当局加强打击非法美容诊所"
+      "title_cn": "辛普罗夫（Sinprof）承认9月将再次罢工，批评8000名教师入职。"
     },
     {
-      "title": "Acidentes de viação no Uíge fazem 12 mortos e 28 feridos em sete dias",
-      "url": "https://correiokianda.info/acidentes-de-viacao-no-uige-fazem-12-mortos-e-28-feridos-em-sete-dias/",
-      "source": "Correio Kianda",
-      "_key": "02f809c1b11e9ab4",
+      "title": "O maior desafio de João Lourenço pode começar quando deixar o poder",
+      "url": "https://angola24horas.com/opiniao/item/34698-o-maior-desafio-de-joao-lourenco-pode-comecar-quando-deixar-o-poder",
+      "source": "Angola 24 Horas",
+      "_key": "25bd3881ab9a3426",
       "score": 5,
-      "title_cn": "威热省七天内发生交通事故致12死28伤"
+      "title_cn": "若昂·洛伦索（João Lourenço）的最大挑战或始于卸任之后。"
+    },
+    {
+      "title": "Decorre neste momento o XVI Fórum Banca do Expansão",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_fda41b1c8e1f98",
+      "score": 5,
+      "title_cn": "第十六届Expansão银行论坛正在举行。"
     }
   ]
 }
