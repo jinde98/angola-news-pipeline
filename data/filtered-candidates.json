@@ -1,56 +1,63 @@
 {
   "date": "2026-07-18",
-  "total_new": 24,
-  "total_filtered": 7,
+  "total_new": 25,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola airline highlights strategic importance of Angola–China route",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-destaca-importancia-estrategica-da-nova-rota-angola-china/",
-      "source": "ANGOP",
-      "_key": "8c1d0f844a5b0911",
-      "score": 9
+      "title": "Internacionalização da banca e regresso dos correspondentes no crivo dos executivos da banca",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_9d336abdf8fa72",
+      "score": 8
     },
     {
-      "title": "Economia Inaugurada embarcação para proteger blocos da Sonangol ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681141/inaugurada-embarca%C3%A7%C3%A3o-para-proteger-blocos-da-sonangol",
+      "title": "Economia Economistas falam em manter prudência para conter inflação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681148/economistas-falam-em-manter-prud%C3%AAncia-para-conter-infla%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "2ae5c6b72f6ae492",
+      "_key": "d31fa7098318d4d0",
+      "score": 8
+    },
+    {
+      "title": "Corrida à Unitel provoca queda generalizada das acções na BODIVA",
+      "url": "https://expansao.co.ao/empresas/detalhe/corrida-a-unitel-provoca-queda-generalizada-das-accoes-na-bodiva-73304.html",
+      "source": "Expansão",
+      "_key": "c2e48fcf1cb5497a",
       "score": 7
     },
     {
-      "title": "Oceano Máquinas e Equipamentos apresenta equipamentos da JCB na 41.ª edição da FILDA",
-      "url": "https://www.opais.ao/economia/oceano-maquinas-e-equipamentos-apresenta-equipamentos-da-jcb-na-41-a-edicao-da-filda/",
-      "source": "O País",
-      "_key": "8cdc3be86b128779",
+      "title": "Digitalização abre caminho ao Open Banking e à economia de dados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c21da39ddcbd8e",
       "score": 7
     },
     {
-      "title": "Chefes de Estado e de Governo da UA reúnem em Angola no próximo mêsO ministro das Relações Exteriores, Téte António, anunciou ontem que o país vai acolher, nos dias 29 e 30 de Agosto, a Cimeira Extraordinária de Chefes de Estado e de Governo da União Africana (UA). ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681120/chefes-de-estado-e-de-governo-da-ua-re%C3%BAnem-em-angola-no-pr%C3%B3ximo-m%C3%AAs",
-      "source": "Jornal de Angola",
-      "_key": "384754a46de64e6e",
+      "title": "Angola perdeu mais de 700 exportadores portugueses desde 2021",
+      "url": "https://correiokianda.info/angola-perdeu-mais-de-700-exportadores-portugueses-desde-2021/",
+      "source": "Correio Kianda",
+      "_key": "79ac69da4fc57290",
       "score": 6
     },
     {
-      "title": "Uíge province reports monkeypox positive case",
-      "url": "https://www.angop.ao/en/noticias/saude/uige-regista-caso-positivo-de-variola-dos-macacos/",
-      "source": "ANGOP",
-      "_key": "0b94188c6b543e98",
+      "title": "BAI eleito melhor banco em Angola 2026 e distinguido também como melhor banco em Angola para PME",
+      "url": "https://correiokianda.info/bai-eleito-melhor-banco-em-angola-2026-e-distinguido-tambem-como-melhor-banco-em-angola-para-pme/",
+      "source": "Correio Kianda",
+      "_key": "f849c2ba642b8416",
+      "score": 6
+    },
+    {
+      "title": "Banco Keve distinguido pela Euromoney como o Melhor…",
+      "url": "https://holdonangola.com/banco-keve-distinguido-pela-euromoney-como-o-melhor-banco-para-grandes-empresas-de-angola-em-2026/",
+      "source": "Hold On Angola",
+      "_key": "22155ad6c61aeaf6",
       "score": 5
     },
     {
-      "title": "Luanda considerada símbolo global de transição da guerra para a pazA capital angolana foi considerada um símbolo global da transição da guerra para a paz e da reconciliação nacional, funcionando como um modelo replicável na prevenção de conflitos, cuja experiência deve ser partilhada com outras nações e povos afectados pelas guerras.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681124/luanda-considerada-s%C3%ADmbolo-global-de-transi%C3%A7%C3%A3o-da-guerra-para-a-paz",
-      "source": "Jornal de Angola",
-      "_key": "c1a253b8d5937b80",
-      "score": 5
-    },
-    {
-      "title": "Política Mercenarismo é das principais ameaças à estabilidade e soberania dos Estados ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681125/mercenarismo-%C3%A9-das-principais-amea%C3%A7as-%C3%A0-estabilidade-e-soberania-dos-estados",
-      "source": "Jornal de Angola",
-      "_key": "77d59f358ddd468b",
+      "title": "BCI distinguido pela Euromoney como o Melhor Banco…",
+      "url": "https://holdonangola.com/bci-distinguido-pela-euromoney-como-o-melhor-banco-de-retalho-de-angola-em-2026/",
+      "source": "Hold On Angola",
+      "_key": "c3b19626049b627a",
       "score": 5
     }
   ]
