@@ -1,72 +1,96 @@
 {
   "date": "2026-07-18",
-  "total_new": 25,
-  "total_filtered": 8,
+  "total_new": 49,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Internacionalização da banca e regresso dos correspondentes no crivo dos executivos da banca",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_9d336abdf8fa72",
-      "score": 8,
-      "title_cn": "银行高管审视银行业国际化及代理行回归"
-    },
-    {
-      "title": "Economia Economistas falam em manter prudência para conter inflação ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681148/economistas-falam-em-manter-prud%C3%AAncia-para-conter-infla%C3%A7%C3%A3o",
+      "title": "Destaque Sonangol anuncia regresso da Galp à exploração de petróleo em AngolaA Galp prepara um novo ciclo de investimento em Angola, em parceria com a petrolífera estatal Sonangol, nas áreas de exploração e produção de petróleo, soube, este sábado, o JA Online.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681179/sonangol-anuncia-regresso-da-galp-%C3%A0-explora%C3%A7%C3%A3o-de-petr%C3%B3leo-em-angola",
       "source": "Jornal de Angola",
-      "_key": "d31fa7098318d4d0",
+      "_key": "720c1f6a25ae5726",
       "score": 8,
-      "title_cn": "经济学家呼吁保持谨慎以遏制通胀"
+      "title_cn": "安哥拉国家石油公司宣布Galp重返安哥拉石油勘探领域"
     },
     {
-      "title": "Corrida à Unitel provoca queda generalizada das acções na BODIVA",
-      "url": "https://expansao.co.ao/empresas/detalhe/corrida-a-unitel-provoca-queda-generalizada-das-accoes-na-bodiva-73304.html",
-      "source": "Expansão",
-      "_key": "c2e48fcf1cb5497a",
+      "title": "Lunda-Sul Governor reiterates infrastructure investments for agribusiness",
+      "url": "https://www.angop.ao/en/noticias/economia/governador-reitera-investimentos-estruturantes-para-agronegocio/",
+      "source": "ANGOP",
+      "_key": "ab48d95004aaa5b6",
       "score": 7,
-      "title_cn": "对Unitel的争夺导致BODIVA股价普遍下跌"
+      "title_cn": "南隆达省省长重申对农业综合企业的基础设施投资"
     },
     {
-      "title": "Digitalização abre caminho ao Open Banking e à economia de dados",
+      "title": "Portuguese Consul praises government measures to attract investors",
+      "url": "https://www.angop.ao/en/noticias/economia/consul-portugues-enaltece-medidas-do-executivo-para-atraccao-de-investidores/",
+      "source": "ANGOP",
+      "_key": "2f339b58d04950ea",
+      "score": 6,
+      "title_cn": "葡萄牙领事赞扬政府吸引投资者的措施"
+    },
+    {
+      "title": "Governor presents major infrastructure projects in Bengo province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/governadora-apresenta-projectos-estruturantes-no-bengo/",
+      "source": "ANGOP",
+      "_key": "ef89be47317b726d",
+      "score": 6,
+      "title_cn": "本戈省省长介绍重大基础设施项目"
+    },
+    {
+      "title": "Angola perdeu 713 exportadores portugueses desde 2021 – INE",
+      "url": "https://jornaloguardiao.com/2026/07/18/angola-perdeu-713-exportadores-portugueses-desde-2021-ine/",
+      "source": "Jornal O Guardião",
+      "_key": "dc79350896fe9c0e",
+      "score": 6,
+      "title_cn": "安哥拉自2021年以来失去713家葡萄牙出口商——INE"
+    },
+    {
+      "title": "Epidemia por Ébola na RDCongo está a propagar-se “mais rapidamente” do que as anteriores – OMS",
+      "url": "https://jornaloguardiao.com/2026/07/18/epidemia-por-ebola-na-rdcongo-esta-a-propagar-se-mais-rapidamente-do-que-as-anteriores-oms/",
+      "source": "Jornal O Guardião",
+      "_key": "6103598335ce669f",
+      "score": 6,
+      "title_cn": "世卫组织：刚果（金）埃博拉疫情传播速度“快于以往”"
+    },
+    {
+      "title": " Angola perdeu 713 exportadores portugueses desde 2021 – INE ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_c21da39ddcbd8e",
-      "score": 7,
-      "title_cn": "数字化为开放银行和数据经济铺平道路"
-    },
-    {
-      "title": "Angola perdeu mais de 700 exportadores portugueses desde 2021",
-      "url": "https://correiokianda.info/angola-perdeu-mais-de-700-exportadores-portugueses-desde-2021/",
-      "source": "Correio Kianda",
-      "_key": "79ac69da4fc57290",
+      "source": "Jornal O Guardião",
+      "_key": "t_f81f8c6a098810",
       "score": 6,
-      "title_cn": "安哥拉自2021年以来失去700多家葡萄牙出口商"
+      "title_cn": "安哥拉自2021年以来失去713家葡萄牙出口商——INE"
     },
     {
-      "title": "BAI eleito melhor banco em Angola 2026 e distinguido também como melhor banco em Angola para PME",
-      "url": "https://correiokianda.info/bai-eleito-melhor-banco-em-angola-2026-e-distinguido-tambem-como-melhor-banco-em-angola-para-pme/",
-      "source": "Correio Kianda",
-      "_key": "f849c2ba642b8416",
+      "title": " Epidemia por Ébola na RDCongo está a propagar-se “mais rapidamente” do que as anteriores – OMS ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8d1956520421d6",
       "score": 6,
-      "title_cn": "BAI被评为2026年安哥拉最佳银行，并获安哥拉最佳中小企业银行奖"
+      "title_cn": "世卫组织：刚果（金）埃博拉疫情传播速度“快于以往”"
     },
     {
-      "title": "Banco Keve distinguido pela Euromoney como o Melhor…",
-      "url": "https://holdonangola.com/banco-keve-distinguido-pela-euromoney-como-o-melhor-banco-para-grandes-empresas-de-angola-em-2026/",
-      "source": "Hold On Angola",
-      "_key": "22155ad6c61aeaf6",
-      "score": 5,
-      "title_cn": "Keve银行被《欧洲货币》杂志评为最佳银行"
+      "title": "Grupo Naval apresenta na FILDA Complexo Industrial de Processamento Alimentar",
+      "url": "https://www.opais.ao/economia/grupo-naval-apresenta-na-filda-complexo-industrial-de-processamento-alimentar/",
+      "source": "O País",
+      "_key": "297609e5801508d0",
+      "score": 6,
+      "title_cn": "Grupo Naval在FILDA展出食品加工综合工业园"
     },
     {
-      "title": "BCI distinguido pela Euromoney como o Melhor Banco…",
-      "url": "https://holdonangola.com/bci-distinguido-pela-euromoney-como-o-melhor-banco-de-retalho-de-angola-em-2026/",
-      "source": "Hold On Angola",
-      "_key": "c3b19626049b627a",
+      "title": "Teerão e Washington afundam-se numa guerra entre ataques e ameaças",
+      "url": "https://jornaloguardiao.com/2026/07/18/teerao-e-washington-afundam-se-numa-guerra-entre-ataques-e-ameacas/",
+      "source": "Jornal O Guardião",
+      "_key": "c5dc7b6c185aaf75",
       "score": 5,
-      "title_cn": "BCI被《欧洲货币》杂志评为最佳银行"
+      "title_cn": "德黑兰与华盛顿陷入攻击与威胁的战争"
+    },
+    {
+      "title": " Teerão e Washington afundam-se numa guerra entre ataques e ameaças ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_0b790754e24aa3",
+      "score": 5,
+      "title_cn": "德黑兰与华盛顿陷入攻击与威胁的战争"
     }
   ]
 }
