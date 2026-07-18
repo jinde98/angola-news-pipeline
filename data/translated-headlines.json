@@ -1,48 +1,248 @@
 {
-  "date": "2026-07-17",
-  "total_new": 17,
-  "total_filtered": 5,
+  "date": "2026-07-18",
+  "total_new": 83,
+  "total_filtered": 30,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economia Hoaoung Angola Industry distinguida como Investidor do Ano nos AIPEX Awards 2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681110/hoaoung-angola-industry-distinguida-como-investidor-do-ano-nos-aipex-awards-2026",
+      "title": "Economia Huatong Angola Industry distinguida como Investidor do Ano nos AIPEX Awards 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681110/huatong-angola-industry-distinguida-como-investidor-do-ano-nos-aipex-awards-2026",
       "source": "Jornal de Angola",
-      "_key": "a349c057388fe827",
-      "score": 9,
-      "title_cn": "Hoaoung Angola Industry荣获2026年AIPEX年度投资者奖"
+      "_key": "5c3350365be36a39",
+      "score": 10,
+      "title_cn": "华通安哥拉工业荣获2026年AIPEX年度投资者奖"
     },
     {
-      "title": "Economia Angola e Países Baixos reforçam cooperação no domínio dos transportes ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681106/angola-e-pa%C3%ADses-baixos-refor%C3%A7am-coopera%C3%A7%C3%A3o-no-dom%C3%ADnio-dos-transportes",
-      "source": "Jornal de Angola",
-      "_key": "3101010a64bd897b",
-      "score": 7,
-      "title_cn": "安哥拉与荷兰加强交通运输领域合作"
+      "title": "Lobito Atlantic Railway Recognised at the AIPEX Awards 2026 for Its Contribution to Regional Development",
+      "url": "https://www.negociosdeangola.com/en/lobito-atlantic-railway-recognised-at-the-aipex-awards-2026-for-its-contribution-to-regional-development/",
+      "source": "Negócios de Angola",
+      "_key": "e236b211366bd18f",
+      "score": 10,
+      "title_cn": "洛比托大西洋铁路因贡献区域发展获2026年AIPEX奖"
     },
     {
-      "title": "Pay4all disponibiliza ao público cartão multicaixa é-Kwanza na FILDA 2026",
-      "url": "https://www.opais.ao/economia/pay4all-disponibiliza-ao-publico-cartao-multicaixa-e-kwanza-na-filda-2026/",
+      "title": "Chery cresce 89% em vendas no primeiro semestre",
+      "url": "https://www.opais.ao/economia/chery-cresce-89-em-vendas-no-primeiro-semestre/",
       "source": "O País",
-      "_key": "317c39548df17a1c",
+      "_key": "e72d30e73e2d326e",
+      "score": 10,
+      "title_cn": "奇瑞汽车上半年销量增长89%"
+    },
+    {
+      "title": "Nova fábrica do grupo Sino Ord vai produzir 120 mil toneladas de embalagens de vidro por ano",
+      "url": "https://www.opais.ao/economia/nova-fabrica-do-grupo-sino-ord-vai-produzir-120-mil-toneladas-de-embalagens-de-vidro-por-ano/",
+      "source": "O País",
+      "_key": "c55149816621675e",
+      "score": 10,
+      "title_cn": "中奥德集团新工厂年产12万吨玻璃包装"
+    },
+    {
+      "title": "Utentes queixam-se da morosidade e constrangimentos com agendamento no SME",
+      "url": "https://correiokianda.info/utentes-queixam-se-da-morosidade-e-constrangimentos-com-agendamento-no-sme/",
+      "source": "Correio Kianda",
+      "_key": "92a06ff083f2fd18",
+      "score": 9,
+      "title_cn": "用户抱怨SME预约缓慢且受限"
+    },
+    {
+      "title": "Galp volta a investir na exploração de petróleo em Angola",
+      "url": "https://diariodosnegocios.com/galp-volta-a-investir-na-exploracao-de-petroleo-em-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "8367507150f61fb5",
+      "score": 9,
+      "title_cn": "加尔普（Galp）再次投资安哥拉石油勘探"
+    },
+    {
+      "title": " Galp volta a investir na exploração de petróleo em Angola ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_b2b786e8239274",
+      "score": 9,
+      "title_cn": "加尔普（Galp）再次投资安哥拉石油勘探"
+    },
+    {
+      "title": "Visa Strengthens Cross-Border Payments in Angola with Visa Direct Expansion17/07/2026",
+      "url": "https://www.negociosdeangola.com/en/visa-strengthens-cross-border-payments-in-angola-with-visa-direct-expansion/",
+      "source": "Negócios de Angola",
+      "_key": "1169d7ad6b062410",
+      "score": 9,
+      "title_cn": "Visa通过拓展Visa Direct强化安哥拉跨境支付"
+    },
+    {
+      "title": "Port of Luanda Records 23% Growth in Ship Traffic and Invests in Modernisation",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10083",
+      "source": "Negócios de Angola",
+      "_key": "99457c92c64cfc0b",
+      "score": 9,
+      "title_cn": "罗安达港船舶交通量增长23%并投资现代化"
+    },
+    {
+      "title": "Centro logístico aduaneiro – quando o contribuinte...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/centro-logistico-aduaneiro-quando-o-contribuinte-e-importante-demais-73349.html",
+      "source": "Novo Jornal",
+      "_key": "d983917825d23699",
+      "score": 9,
+      "title_cn": "海关物流中心：纳税人面临的挑战"
+    },
+    {
+      "title": "Sonangol anuncia regresso da Galp à exploração e produção de petróleo",
+      "url": "https://www.opais.ao/economia/sonangol-anuncia-regresso-da-galp-a-exploracao-e-producao-de-petroleo/",
+      "source": "O País",
+      "_key": "87e03d0e50a44439",
+      "score": 9,
+      "title_cn": "索南戈尔（Sonangol）宣布加尔普回归石油勘探生产"
+    },
+    {
+      "title": "Visa Direct reforça pagamentos transfronteiriços em Angola",
+      "url": "https://www.opais.ao/economia/visa-direct-reforca-pagamentos-transfronteiricos-em-angola/",
+      "source": "O País",
+      "_key": "0fb7d8ec7dcac40a",
+      "score": 9,
+      "title_cn": "Visa Direct强化安哥拉跨境支付"
+    },
+    {
+      "title": "BDA cria cinco produtos financeiros para apoiar empresas e acelerar...",
+      "url": "https://valoreconomico.co.ao/artigo/bda-cria-cinco-produtos-financeiros-para-apoiar-empresas-e-acelerar-producao-nacional",
+      "source": "Valor Económico",
+      "_key": "ace8b2fe3a3c7146",
+      "score": 9,
+      "title_cn": "BDA推出五款金融产品支持企业发展"
+    },
+    {
+      "title": "Banca angolana desfiada captar investidores estrangeiros para contribuir na economia real",
+      "url": "https://correiokianda.info/banca-angolana-desfiada-captar-investidores-estrangeiros-para-contribuir-na-economia-real/",
+      "source": "Correio Kianda",
+      "_key": "55b3e0f341575991",
+      "score": 8,
+      "title_cn": "安哥拉银行业面临挑战：吸引外资助力实体经济"
+    },
+    {
+      "title": "Executivo defende maior articulação para reforçar internacionalização da banca",
+      "url": "https://correiokianda.info/executivo-defende-maior-articulacao-para-reforcar-internacionalizacao-da-banca/",
+      "source": "Correio Kianda",
+      "_key": "259af4aa452fc498",
+      "score": 8,
+      "title_cn": "安哥拉政府倡导加强协调推动银行业国际化"
+    },
+    {
+      "title": "Desemprego e crise no sector privado disparam corrida aos recentes...",
+      "url": "https://valoreconomico.co.ao/artigo/desemprego-e-crise-no-sector-privado-disparam-corrida-aos-recentes-concursos-publicos",
+      "source": "Valor Económico",
+      "_key": "8ac0d66fc1f41154",
+      "score": 8,
+      "title_cn": "失业与私营部门危机加剧，引发新需求"
+    },
+    {
+      "title": "É falso que financiamento para estrada Mavinga–Rivungo represente novo endividamento de Angola",
+      "url": "https://diariodosnegocios.com/e-falso-que-financiamento-para-estrada-mavinga-rivungo-represente-novo-endividamento-de-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "a3aa72854239a3fd",
       "score": 7,
-      "title_cn": "Pay4all在2026年FILDA展推出é-Kwanza多功能卡"
+      "title_cn": "否认马文加-里文戈公路融资构成安哥拉新债务"
     },
     {
-      "title": "Destaque Fórum Empresarial Internacional promove diálogo para diversificação da economiaA cidade de Saurimo, província da Lunda-Sul, acolheu, hoje, pela primeira vez, o Fórum Empresarial Internacional (FEI), iniciativa promovida pelo executivo angolano, em parceria com o Consulado-Geral de Angola no Porto.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681107/f%C3%B3rum-empresarial-internacional-promove-di%C3%A1logo-para-diversifica%C3%A7%C3%A3o-da-economia",
+      "title": " É falso que financiamento para estrada Mavinga–Rivungo represente novo endividamento de Angola ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7551471bf89a55",
+      "score": 7,
+      "title_cn": "否认马文加-里文戈公路融资构成安哥拉新债务"
+    },
+    {
+      "title": "Capitalização bolsista da banca atinge 3,9 biliões Kz no primeiro semestre",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_f86c8346c032b9",
+      "score": 7,
+      "title_cn": "上半年安哥拉银行业市值达3.9万亿宽扎"
+    },
+    {
+      "title": "Banco Keve distinguido pela Euromoney como o Melhor Banco para Grandes Empresas de Angola em 2026O Banco Keve foi distinguido com o prémio “Angola’s Best Bank for Large Corporates 2026”, atribuído pela Euromoney no âmbito dos Euromoney Awards for Excellence, uma das mais prestigiadas distinções internacionais do sector financeiro. O reconhecimento reforça o posicionamento do Banco Keve no segmento Corporate e evidencia a solidez da sua estratégia, a capacidade de inovação e a qualidade do relaci",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/681118/banco-keve-distinguido-pela-euromoney-como-o-melhor-banco-para-grandes-empresas-de-angola-em-2026",
       "source": "Jornal de Angola",
-      "_key": "2eac9e6e6b1d0cf0",
+      "_key": "b1b8f2a15b13872f",
+      "score": 7,
+      "title_cn": "凯夫银行（Banco Keve）获《欧洲货币》评为2026年安哥拉最佳大型企业银行"
+    },
+    {
+      "title": "Angola approves concession to export electricity to the DRC without public funding",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10156",
+      "source": "Negócios de Angola",
+      "_key": "49dd8e27bf0e2d15",
+      "score": 7,
+      "title_cn": "安哥拉批准无公共资金向刚果民主共和国出口电力"
+    },
+    {
+      "title": "Indian companies create jobs for 150,000 Angolans",
+      "url": "https://www.angop.ao/en/noticias/economia/empresas-indianas-garantem-emprego-a-150-mil-angolanos/",
+      "source": "ANGOP",
+      "_key": "20bc9a2ce06ea0bd",
       "score": 6,
-      "title_cn": "国际商业论坛推动经济多元化对话"
+      "title_cn": "印度公司为15万安哥拉人创造就业"
     },
     {
-      "title": "Sociedade SIC detém suspeito de envolvimento em assalto ao BAI ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681112/sic-det%C3%A9m-suspeito-de-envolvimento-em-assalto-ao-bai",
+      "title": "        Crime4 horas atrás  Operação do SIC na Centralidade do Kilamba resulta na detenção de fugitivos procurados pela INTERPOL O Serviço de Investigação Criminal (SIC), através do seu Gabinete Nacional da INTERPOL, deteve recentemente, na província de Luanda, dois cidadãos de nacionalidade indiana procurados internacionalmente....   ",
+      "url": "https://correiokianda.info/operacao-do-sic-na-centralidade-do-kilamba-resulta-na-detencao-de-fugitivos-procurados-pela-interpol/",
+      "source": "Correio Kianda",
+      "_key": "2ddb42e16124c56a",
+      "score": 6,
+      "title_cn": "SIC在基兰巴社区行动，逮捕国际刑警组织通缉逃犯"
+    },
+    {
+      "title": "Digitalização potencia fraude bancária, mas literacia financeira e digital e sistemas de controlo são as principais linha de defesa",
+      "url": "https://expansao.co.ao/empresas/detalhe/digitalizacao-potencia-fraude-bancaria-mas-literacia-financeira-e-digital-e-sistemas-de-controlo-sao-as-principais-linha-de-defesa-73342.html",
+      "source": "Expansão",
+      "_key": "635ee12231586054",
+      "score": 6,
+      "title_cn": "数字化助长银行欺诈，金融素养与控制系统是主要防线"
+    },
+    {
+      "title": "Digitalização abre caminho ao Open Banking e à economia de dados",
+      "url": "https://expansao.co.ao/empresas/detalhe/digitalizacao-abre-caminho-ao-open-banking-e-a-economia-de-dados-73340.html",
+      "source": "Expansão",
+      "_key": "8d70e81d62d05e35",
+      "score": 6,
+      "title_cn": "数字化为开放银行和数据经济铺平道路"
+    },
+    {
+      "title": "\"A banca não é uma alternativa. Pelo contrário, é a porta de entrada para o mercado de capitais\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3d0cea7b4ad077",
+      "score": 6,
+      "title_cn": "“银行业并非替代，而是进入资本市场的门户”"
+    },
+    {
+      "title": "\"Um sistema financeiro forte é uma condição essencial...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/um-sistema-financeiro-forte-e-uma-condicao-essencial-para-uma-angola-mais-prospera-presidente-da-comissao-de-mercado-de-capitais-73341.html",
+      "source": "Novo Jornal",
+      "_key": "f3586688c1bda7f6",
+      "score": 6,
+      "title_cn": "“强大的金融体系是基本条件”"
+    },
+    {
+      "title": "Detidos em Luanda dois cidadãos indianos procurados pela Interpol",
+      "url": "https://www.opais.ao/ultima_hora/detidos-em-luanda-dois-cidadaos-indianos-procurados-pela-interpol/",
+      "source": "O País",
+      "_key": "e78c0da2deab8035",
+      "score": 6,
+      "title_cn": "罗安达逮捕两名国际刑警组织通缉的印度公民"
+    },
+    {
+      "title": "Operação “Erosão” desmantela cenário de garimpo ilegal de ouro",
+      "url": "https://www.opais.ao/ultima_hora/operacao-erosao-desmantela-cenario-de-garimpo-ilegal-de-ouro/",
+      "source": "O País",
+      "_key": "01738766397b0307",
+      "score": 6,
+      "title_cn": "“侵蚀”行动捣毁非法黄金开采点"
+    },
+    {
+      "title": " / Há 13 horas BCI distinguido pela Euromoney como o Melhor Banco de Retalho de Angola em 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/681117/bci-distinguido-pela-euromoney-como-o-melhor-banco-de-retalho-de-angola-em-2026",
       "source": "Jornal de Angola",
-      "_key": "1bfe47bb1450cde0",
+      "_key": "8d30e820ae547912",
       "score": 5,
-      "title_cn": "SIC逮捕涉嫌抢劫BAI银行的嫌犯"
+      "title_cn": "BCI获《欧洲货币》评为2026年安哥拉最佳零售银行"
     }
   ]
 }
