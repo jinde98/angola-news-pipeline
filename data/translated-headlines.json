@@ -1,24 +1,72 @@
 {
   "date": "2026-07-19",
-  "total_new": 16,
-  "total_filtered": 2,
+  "total_new": 18,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Governo destaca avanço das obras nas estradas nacionais 100 e 200 em Cabinda",
-      "url": "https://www.opais.ao/ultima_hora/governo-destaca-avanco-das-obras-nas-estradas-nacionais-100-e-200-em-cabinda/",
-      "source": "O País",
-      "_key": "84ad5d044004b0c9",
-      "score": 7,
-      "title_cn": "政府强调卡宾达100号和200号国道工程进展"
+      "title": "Destaque Relatório Económico sobre Corredor do Lobito apresentado na terça-feira O Grupo Banco Mundial apresenta, na próxima terça-feira, 21, em Luanda, o Relatório Económico de Angola 2026, subordinado ao tema “O Corredor do Lobito: De Trânsito à Transformação – Motor de Diversificação Económica e Integração Regional”.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681256/relat%C3%B3rio-econ%C3%B3mico-sobre-corredor-do-lobito-apresentado-na-ter%C3%A7a-feira-",
+      "source": "Jornal de Angola",
+      "_key": "c4f5722b3fa6aa9b",
+      "score": 10,
+      "title_cn": "世界银行将在罗安达发布2026年安哥拉经济报告，聚焦洛比托走廊"
     },
     {
-      "title": "Electrification of Zaire Province estimated at 78 percent",
-      "url": "https://www.angop.ao/en/noticias/economia/electrificacao-da-provincia-do-zaire-estimada-em-78-por-cento/",
+      "title": "Mais de 700 empresas portuguesas abandonaram o mercado angolano desde 2021",
+      "url": "https://angola24horas.com/sociedade/item/34708-mais-de-700-empresas-portuguesas-abandonaram-o-mercado-angolano-desde-2021",
+      "source": "Angola 24 Horas",
+      "_key": "d92970cf271ed445",
+      "score": 8,
+      "title_cn": "自2021年以来，逾700家葡萄牙企业撤离安哥拉市场"
+    },
+    {
+      "title": "Destaque Investimento português em Angola cai 9,7% em 2025O investimento directo de Portugal em Angola fixou-se em 2.410,4 milhões de euros em 2025, registando uma redução de 9,7% em relação ao ano anterior e ficando abaixo do valor alcançado em 2021.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681253/investimento-portugu%C3%AAs-em-angola-cai-97%25-em-2025",
+      "source": "Jornal de Angola",
+      "_key": "6b95c50bcedfaeae",
+      "score": 8,
+      "title_cn": "2025年葡萄牙对安哥拉直接投资下降9.7%"
+    },
+    {
+      "title": "Angolan government reiterates support to maritime industry",
+      "url": "https://www.angop.ao/en/noticias/economia/executivo-angolano-reitera-apoio-a-industria-maritima/",
       "source": "ANGOP",
-      "_key": "99826220bfd3d000",
+      "_key": "f64d2b027ae8ac7f",
+      "score": 7,
+      "title_cn": "安哥拉政府重申支持海运业发展"
+    },
+    {
+      "title": "Mundo Graça Machel critica incapacidade da SADC para lidar com crise xenófoba ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/681254/gra%C3%A7a-machel-critica-incapacidade-da-sadc-para-lidar-com-crise-xen%C3%B3foba",
+      "source": "Jornal de Angola",
+      "_key": "0eed34de4108a916",
+      "score": 7,
+      "title_cn": "格拉萨·马谢尔（Graça Machel）批评南共体无力应对排外危机"
+    },
+    {
+      "title": "Moxico province committed to agriculture promotion as economic development engine",
+      "url": "https://www.angop.ao/en/noticias/agricultura/governo-do-moxico-reafirma-agricultura-como-motor-do-desenvolvimento-economico/",
+      "source": "ANGOP",
+      "_key": "7c1b294255b40ebe",
       "score": 6,
-      "title_cn": "扎伊尔省电气化率预计达78%"
+      "title_cn": "莫希科省致力于将农业作为经济发展引擎"
+    },
+    {
+      "title": "BAI recognized as best bank in Angola and for SME in 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/bai-distinguido-como-melhor-banco-em-angola-e-para-pme-em-2026/",
+      "source": "ANGOP",
+      "_key": "137da2d10e079599",
+      "score": 6,
+      "title_cn": "BAI银行获评2026年安哥拉最佳银行及中小企业银行"
+    },
+    {
+      "title": "Investimento angolano em Portugal duplica desde 2021 e supera o português em Angola",
+      "url": "https://angola24horas.com/sociedade/item/34709-investimento-angolano-em-portugal-duplica-desde-2021-e-supera-o-portugues-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "4cd4f66af538e893",
+      "score": 6,
+      "title_cn": "自2021年以来，安哥拉在葡萄牙的投资翻了一番，超过了葡萄牙在安哥拉的投资"
     }
   ]
 }
