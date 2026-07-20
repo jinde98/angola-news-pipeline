@@ -1,14 +1,704 @@
 {
-  "date": "2026-07-19",
-  "total_extracted": 1413,
-  "total_new": 1,
-  "total_existing": 1412,
+  "date": "2026-07-20",
+  "total_extracted": 1662,
+  "total_new": 116,
+  "total_existing": 1546,
   "articles": [
     {
-      "title": "Mundial 2026: Professor e Aluno numa final com sotaque...",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-professor-e-aluno-numa-final-com-sotaque-espanhol-73360.html",
+      "title": "Tourists delighted with Angola's potential",
+      "url": "https://www.angop.ao/en/noticias/turismo/turistas-da-rovos-rail-encantados-com-as-potencialidades-de-angola/",
+      "source": "ANGOP",
+      "_key": "c2586087a79c6b64"
+    },
+    {
+      "title": "FILDA 2026 confirms participation of 2,348 exhibitors",
+      "url": "https://www.angop.ao/en/noticias/economia/confirmada-participacao-de-dois-mil-348-expositores-na-filda-2026/",
+      "source": "ANGOP",
+      "_key": "0c7ad26b9a873070"
+    },
+    {
+      "title": "Central Bank strengths public proximity with new app",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-lanca-aplicativos-para-reforcar-proximidade-com-publico/",
+      "source": "ANGOP",
+      "_key": "2da44ad473d430b3"
+    },
+    {
+      "title": "Expo-Bié and the evidence of comprehensive development",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/expo-bie-e-as-evidencias-para-o-desenvolvimento-integral/",
+      "source": "ANGOP",
+      "_key": "036dbd2f97ba11bd"
+    },
+    {
+      "title": "Transporte ferroviário",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=89685",
+      "source": "ANGOP",
+      "_key": "9b242886e014fb07"
+    },
+    {
+      "title": "South African journalist highlights CFB's potential in realizing the Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/turismo/jornalista-sul-africana-destaca-potencial-do-cfb-na-materializacao-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "207b0e6d43e83113"
+    },
+    {
+      "title": "Evangelical Church appeals for reinforcement of support to disadvantaged people",
+      "url": "https://www.angop.ao/en/noticias/sociedade/ieca-reforca-missao-em-favor-dos-mais-necessitados/",
+      "source": "ANGOP",
+      "_key": "9ad799bcd8d1e545"
+    },
+    {
+      "title": "Centenário",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=92934",
+      "source": "ANGOP",
+      "_key": "7a9d2e8c78b7cef1"
+    },
+    {
+      "title": "Okukula project promotes African tradition in technological age",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/projecto-okukula-promove-tradicao-africana-na-era-da-tecnologia/",
+      "source": "ANGOP",
+      "_key": "92026d5e96428549"
+    },
+    {
+      "title": "Zaire abre concurso público com 435 vagas para o sector da Educação",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34712-zaire-abre-concurso-publico-com-435-vagas-para-o-sector-da-educacao",
+      "source": "Angola 24 Horas",
+      "_key": "4719f6c59d1eb382"
+    },
+    {
+      "title": "Espanha bate a Argentina no prolongamento e é bicampeã mundial",
+      "url": "https://angola24horas.com/desporto/item/34711-espanha-bate-a-argentina-no-prolongamento-e-e-bicampea-mundial",
+      "source": "Angola 24 Horas",
+      "_key": "367ab3f383097e32"
+    },
+    {
+      "title": "MPLA quer militantes mais activos nas redes sociais para combater \"falsas narrativas\"",
+      "url": "https://angola24horas.com/politica/item/34713-mpla-quer-militantes-mais-activos-nas-redes-sociais-para-combater-falsas-narrativas",
+      "source": "Angola 24 Horas",
+      "_key": "d5455a51df59c9c7"
+    },
+    {
+      "title": "Marcolino Moco assinala aniversário e defende um pacto nacional para construir uma \"nova Angola\"",
+      "url": "https://angola24horas.com/politica/item/34710-marcolino-moco-assinala-aniversario-e-defende-um-pacto-nacional-para-construir-uma-nova-angola",
+      "source": "Angola 24 Horas",
+      "_key": "6966fbdfb6a0f20d"
+    },
+    {
+      "title": "Icolo e Bengo conta com 421 vagas para ingresso ao sector da educação",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34700-icolo-e-bengo-conta-com-421-vagas-para-ingresso-ao-sector-da-educacao",
+      "source": "Angola 24 Horas",
+      "_key": "4ade2581294dc322"
+    },
+    {
+      "title": "Huíla abre concurso para admissão de 361 novos profissionais de saúde",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34699-huila-abre-concurso-para-admissao-de-361-novos-profissionais-de-saude",
+      "source": "Angola 24 Horas",
+      "_key": "c0e353b0041ce0b8"
+    },
+    {
+      "title": "PRA-JA promete fiscalização do voto em 2027 e afasta ligação dos concursos públicos com fins eleitorais",
+      "url": "https://correiokianda.info/pra-ja-promete-fiscalizacao-do-voto-em-2027-e-afasta-ligacao-dos-concursos-publicos-com-fins-eleitorais/",
+      "source": "Correio Kianda",
+      "_key": "1e4703c050e36048"
+    },
+    {
+      "title": "Governo duplica custos das obras da Centralidade do Cazengo e chegam a 15 mil milhões de kz",
+      "url": "https://correiokianda.info/governo-duplica-custos-das-obras-da-centralidade-do-cazengo-e-chegam-a-15-mil-milhoes-de-kz/",
+      "source": "Correio Kianda",
+      "_key": "e42b67bc354e046b"
+    },
+    {
+      "title": "Luís Nunes marca passos para formalização da candidatura ao cargo de 1° Secretário do MPLA em Luanda",
+      "url": "https://correiokianda.info/luis-nunes-marca-passos-para-formalizacao-da-candidatura-ao-cargo-de-1-secretario-do-mpla-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "97703c5afce875af"
+    },
+    {
+      "title": "UNITA mobiliza juventude e aponta JURA como força determinante para 2027",
+      "url": "https://correiokianda.info/unita-mobiliza-juventude-e-aponta-jura-como-forca-determinante-para-2027/",
+      "source": "Correio Kianda",
+      "_key": "0c78012878470e3f"
+    },
+    {
+      "title": "Governador de Luanda promete transformar compromissos em resultados no Mussulo",
+      "url": "https://correiokianda.info/governador-de-luanda-promete-transformar-compromissos-em-resultados-no-mussulo/",
+      "source": "Correio Kianda",
+      "_key": "eac34a413fd14fa9"
+    },
+    {
+      "title": "Preço do Brent sobe para 90,70 dólares com tensão no Estreito de Ormuz",
+      "url": "https://correiokianda.info/preco-do-brent-sobe-para-9070-dolares-com-tensao-no-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "828abed2c5060cc5"
+    },
+    {
+      "title": "Banco Mundial aponta Corredor do Lobito como chave para novas cadeias de valor em África",
+      "url": "https://correiokianda.info/banco-mundial-aponta-corredor-do-lobito-como-chave-para-novas-cadeias-de-valor-em-africa/",
+      "source": "Correio Kianda",
+      "_key": "a64c02564a76fdaf"
+    },
+    {
+      "title": "Galp prepara novo ciclo de investimento em Angola em parceria com a Sonangol",
+      "url": "https://correiokianda.info/galp-prepara-novo-ciclo-de-investimento-em-angola-em-parceria-com-a-sonangol/",
+      "source": "Correio Kianda",
+      "_key": "7c822c70d9daf059"
+    },
+    {
+      "title": "Sonangol adia entrada em bolsa e revela que subsídios aos combustíveis continuam a travar venda de 30% do capital",
+      "url": "https://correiokianda.info/sonangol-adia-entrada-em-bolsa-e-revela-que-subsidios-aos-combustiveis-continuam-a-travar-venda-de-30-do-capital/",
+      "source": "Correio Kianda",
+      "_key": "1defc173191456ba"
+    },
+    {
+      "title": "Luanda reúne líderes africanos para discutir futuro da Economia Azul",
+      "url": "https://correiokianda.info/luanda-reune-lideres-africanos-para-discutir-futuro-da-economia-azul/",
+      "source": "Correio Kianda",
+      "_key": "742e29d142e43d91"
+    },
+    {
+      "title": "Cidadão põe fim a própria vida por alegados problemas financeiros em Menongue",
+      "url": "https://correiokianda.info/cidadao-poe-fim-a-propria-vida-por-alegados-problemas-financeiros-em-menongue/",
+      "source": "Correio Kianda",
+      "_key": "9d9ba895aeecef0e"
+    },
+    {
+      "title": "Cinco detidos por assalto a carro-forte no Cazenga; SIC investiga outros 13 roubos",
+      "url": "https://correiokianda.info/cinco-detidos-por-assalto-a-carro-forte-no-cazenga-sic-investiga-outros-13-roubos/",
+      "source": "Correio Kianda",
+      "_key": "ded3680f80392a0c"
+    },
+    {
+      "title": "SIC encerra clínicas de estética em Luanda por graves irregularidades e detém dois cidadãos",
+      "url": "https://correiokianda.info/sic-encerra-clinicas-de-estetica-em-luanda-por-graves-irregularidades-e-detem-dois-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "0021f2db21914284"
+    },
+    {
+      "title": "UNTA critica perda do poder de compra e exige cumprimento integral do acordo com Governo",
+      "url": "https://correiokianda.info/unta-critica-perda-do-poder-de-compra-e-exige-cumprimento-integral-do-acordo-com-governo/",
+      "source": "Correio Kianda",
+      "_key": "c0e5f1eda648a392"
+    },
+    {
+      "title": "Navio atingido por projéctil incendeia-se no estreito de Ormuz",
+      "url": "https://correiokianda.info/navio-atingido-por-projectil-incendeia-se-no-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "50a071602e43b85d"
+    },
+    {
+      "title": "Míssil russo atinge embarcação civil e mata seis marinheiros",
+      "url": "https://correiokianda.info/missil-russo-atinge-embarcacao-civil-e-mata-seis-marinheiros/",
+      "source": "Correio Kianda",
+      "_key": "e1c8ff8254186122"
+    },
+    {
+      "title": "Espanha: Adolescente morre durante celebrações da vitória do Mundial",
+      "url": "https://correiokianda.info/espanha-adolescente-morre-durante-celebracoes-da-vitoria-do-mundial/",
+      "source": "Correio Kianda",
+      "_key": "522f9bf1e7aae3b8"
+    },
+    {
+      "title": "Inundações e deslizamentos no norte da Índia provocam pelo menos 25 mortes",
+      "url": "https://correiokianda.info/inundacoes-e-deslizamentos-no-norte-da-india-provocam-pelo-menos-25-mortes/",
+      "source": "Correio Kianda",
+      "_key": "5fe31f7bb0068183"
+    },
+    {
+      "title": "Coreia do Sul enfrenta incêndio de longa duração em armazém de comércio electrónico",
+      "url": "https://correiokianda.info/coreia-do-sul-enfrenta-incendio-de-longa-duracao-em-armazem-de-comercio-electronico/",
+      "source": "Correio Kianda",
+      "_key": "ea8234273dd01fc5"
+    },
+    {
+      "title": "Stand-up comedy em Angola cresce com nova geração de humoristas”, diz Avô Rocha",
+      "url": "https://correiokianda.info/stand-up-comedy-em-angola-cresce-com-nova-geracao-de-humoristas-diz-avo-rocha/",
+      "source": "Correio Kianda",
+      "_key": "330bc04b4ff1acc5"
+    },
+    {
+      "title": "Espanha vence Argentina no prolongamento e sagra-se campeã do Mundial de 2026",
+      "url": "https://correiokianda.info/espanha-vence-argentina-no-prolongamento-e-sagra-se-campea-do-mundial-de-2026/",
+      "source": "Correio Kianda",
+      "_key": "320ed5a170861a80"
+    },
+    {
+      "title": "Trump cumpre promessa e assiste à final do Mundial nos Estados Unidos",
+      "url": "https://correiokianda.info/trump-cumpre-promessa-e-assiste-a-final-do-mundial-nos-estados-unidos/",
+      "source": "Correio Kianda",
+      "_key": "e81bbd73a6152827"
+    },
+    {
+      "title": "Angola prepara Mundial Juvenil de MMA com ambição de conquistar medalhas em Abu Dhabi",
+      "url": "https://correiokianda.info/angola-prepara-mundial-juvenil-de-mma-com-ambicao-de-conquistar-medalhas-em-abu-dhabi/",
+      "source": "Correio Kianda",
+      "_key": "561cd53ed76b0ffe"
+    },
+    {
+      "title": "Conselho da Europa pede à FIFA medidas contra pressões políticas e manipulação no futebol",
+      "url": "https://correiokianda.info/conselho-da-europa-pede-a-fifa-medidas-contra-pressoes-politicas-e-manipulacao-no-futebol/",
+      "source": "Correio Kianda",
+      "_key": "29c5e0feda2ede5c"
+    },
+    {
+      "title": "Trump ameaçou tarifas, a Espanha respondeu com troféus",
+      "url": "https://correiokianda.info/trump-ameacou-tarifas-a-espanha-respondeu-com-trofeus/",
+      "source": "Correio Kianda",
+      "_key": "2fb7ed0b18922135"
+    },
+    {
+      "title": "        África7 dias atrás  Líder de movimento anti-imigração é morto a tiro na África do Sul    ",
+      "url": "https://correiokianda.info/lider-de-movimento-anti-imigracao-e-morto-a-tiro-na-africa-do-sul/",
+      "source": "Correio Kianda",
+      "_key": "2b4f64999ed78171"
+    },
+    {
+      "title": "Combate à corrupção perde força apesar das melhorias desde 2016",
+      "url": "https://expansao.co.ao/angola/detalhe/combate-a-corrupcao-perde-forca-apesar-das-melhorias-desde-2016-73295.html",
+      "source": "Expansão",
+      "_key": "7f4001b89e859f49"
+    },
+    {
+      "title": "Falta de transparência e má execução orçamental condicionam crescimento",
+      "url": "https://expansao.co.ao/angola/detalhe/falta-de-transparencia-e-ma-execucao-orcamental-condicionam-crescimento-73296.html",
+      "source": "Expansão",
+      "_key": "f11210078e42b923"
+    },
+    {
+      "title": "Corrida à Unitel provoca queda generalizada das acções na BODIVA",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_31f33922ea1ad1"
+    },
+    {
+      "title": "\"Luto para que a música não seja a minha única fonte de renda para não cantar por fome\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_6461e4684ef930"
+    },
+    {
+      "title": "Digitalização potencia fraude bancária, mas literacia financeira e digital e sistemas de controlo são as principais linha de defesa",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_187a45f0556896"
+    },
+    {
+      "title": "\"A nossa inflação é do lado da oferta e isso não se combate com taxas de juros altas\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_75abb888b29259"
+    },
+    {
+      "title": "Bancos compraram mais 1.125,6 milhões USD em divisas mas kwanza mantém-se \"preso\" face ao dólar",
+      "url": "https://expansao.co.ao/economia/detalhe/bancos-compraram-mais-11256-milhoes-usd-em-divisas-mas-kwanza-mantem-se-preso-face-ao-dolar-73302.html",
+      "source": "Expansão",
+      "_key": "88ce4d514ed23da4"
+    },
+    {
+      "title": "Sem linha de chegadaHá uma pergunta simples que deveria acompanhar qualquer nomeação para um cargo de gestão, seja num ministério, numa empresa pública ou numa direcção-geral: \"o que é exactamente suposto esta pessoa alcançar?\"",
+      "url": "https://expansao.co.ao/multimedia/detalhe/sem-linha-de-chegada-73309.html",
+      "source": "Expansão",
+      "_key": "28a1be11cd97279e"
+    },
+    {
+      "title": "\"A nossa inflação é do lado da oferta e isso não se combate com taxas de juros altas\"O economista Job de Sousa entende que os meios usados para o combate à inflação não são os mais adequados. Sendo uma inflação do lado da oferta, como é o nosso caso, combate-se com taxas de juros atractivas, com uma política monetária expansionista, visando o crescimento económico.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/a-nossa-inflacao-e-do-lado-da-oferta-e-isso-nao-se-combate-com-taxas-de-juros-altas-73310.html",
+      "source": "Expansão",
+      "_key": "9d087c600a15767e"
+    },
+    {
+      "title": "Camisola da primeira conquista mundial de Pelé atinge 4,9 milhões de dólares em leilão",
+      "url": "https://forbesafricalusofona.com/camisola-da-primeira-conquista-mundial-de-pele-atinge-49-milhoes-de-dolares-em-leilao/",
+      "source": "Forbes África",
+      "_key": "356bcfebecd5f583"
+    },
+    {
+      "title": "CPLP prevê as eleições “mais pacíficas de sempre” em São Tomé e Príncipe",
+      "url": "https://forbesafricalusofona.com/cplp-preve-as-eleicoes-mais-pacificas-de-sempre-em-sao-tome-e-principe/",
+      "source": "Forbes África",
+      "_key": "715660f1e9731017"
+    },
+    {
+      "title": "Mais de 142 mil são-tomenses escolhem hoje o Presidente num clima de elevada tensão política",
+      "url": "https://forbesafricalusofona.com/mais-de-142-mil-sao-tomenses-escolhem-hoje-o-presidente-num-clima-de-elevada-tensao-politica/",
+      "source": "Forbes África",
+      "_key": "33bfdbc8dc803dad"
+    },
+    {
+      "title": "Cuba fica novamente sem eletricidade em 64% da ilha durante a tarde e noite de domingo",
+      "url": "https://jornaloguardiao.com/2026/07/20/cuba-fica-novamente-sem-eletricidade-em-64-da-ilha-durante-a-tarde-e-noite-de-domingo/",
+      "source": "Jornal O Guardião",
+      "_key": "651a361f87d874c4"
+    },
+    {
+      "title": "Angola investe hoje mais em Portugal do que o inverso",
+      "url": "https://jornaloguardiao.com/2026/07/20/angola-investe-hoje-mais-em-portugal-do-que-o-inverso/",
+      "source": "Jornal O Guardião",
+      "_key": "0626737e40fd8971"
+    },
+    {
+      "title": "Surto de ébola na RDCongo causa 930 mortes",
+      "url": "https://jornaloguardiao.com/2026/07/20/surto-de-ebola-na-rdcongo-causa-930-mortes/",
+      "source": "Jornal O Guardião",
+      "_key": "71da3e59d5c1c10b"
+    },
+    {
+      "title": "Graça Machel critica incapacidade da SADC para lidar com crise xenófoba",
+      "url": "https://jornaloguardiao.com/2026/07/20/graca-machel-critica-incapacidade-da-sadc-para-lidar-com-crise-xenofoba/",
+      "source": "Jornal O Guardião",
+      "_key": "791b7cf4eb211729"
+    },
+    {
+      "title": "Conselho da Europa pede à FIFA que abra diálogo sobre pressões políticas no futebol",
+      "url": "https://jornaloguardiao.com/2026/07/20/conselho-da-europa-pede-a-fifa-que-abra-dialogo-sobre-pressoes-politicas-no-futebol/",
+      "source": "Jornal O Guardião",
+      "_key": "43d1e49873c0af43"
+    },
+    {
+      "title": "Mundial2026: Espanha soma segundo título ao vencer Argentina",
+      "url": "https://jornaloguardiao.com/2026/07/20/mundial2026-espanha-soma-segundo-titulo-ao-vencer-argentina/",
+      "source": "Jornal O Guardião",
+      "_key": "a4811a3e47f94969"
+    },
+    {
+      "title": "Estados Unidos concluem nona ronda de ataques contra o Irão após cessar-fogo provisório",
+      "url": "https://jornaloguardiao.com/2026/07/20/estados-unidos-concluem-nona-ronda-de-ataques-contra-o-irao-apos-cessar-fogo-provisorio/",
+      "source": "Jornal O Guardião",
+      "_key": "5b16966944f978d7"
+    },
+    {
+      "title": "Segunda-feira, 20 de Julho, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d0b7c5b7cf4790"
+    },
+    {
+      "title": " Cuba fica novamente sem eletricidade em 64% da ilha durante a tarde e noite de domingo ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5ad4dd128240f8"
+    },
+    {
+      "title": " Angola investe hoje mais em Portugal do que o inverso ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6071a19d1e3591"
+    },
+    {
+      "title": " Surto de ébola na RDCongo causa 930 mortes ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c6f8263d7c5be7"
+    },
+    {
+      "title": " Graça Machel critica incapacidade da SADC para lidar com crise xenófoba ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_60bb834754961b"
+    },
+    {
+      "title": " Conselho da Europa pede à FIFA que abra diálogo sobre pressões políticas no futebol ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7f10484442c278"
+    },
+    {
+      "title": " Mundial2026: Espanha soma segundo título ao vencer Argentina ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_4a5625d7b7a342"
+    },
+    {
+      "title": " Estados Unidos concluem nona ronda de ataques contra o Irão após cessar-fogo provisório ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_97980482c78588"
+    },
+    {
+      "title": "Benguela recebe mais de 100 turistas de várias nacionalidadesA província de Benguela prepara-se para acolher mais de 100 turistas estrangeiros no âmbito das operações turísticas Rovos Rail e Kitanda das Viagens, uma acção que visa promover o património histórico, cultural e natural da região.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681261/benguela-recebe-mais-de-100-turistas-de-v%C3%A1rias-nacionalidades",
+      "source": "Jornal de Angola",
+      "_key": "44d4554fa1717f22"
+    },
+    {
+      "title": "CIVICOP consolida processo de reconciliação com entrega de 136 restos mortaisA entrega dos restos mortais de 136 vítimas de conflitos políticos às respectivas famílias, bem como a realização dos seus funerais sob a coordenação da Comissão para a Implementação do Plano de Reconciliação em Memória das Vítimas dos Conflitos Políticos (CIVICOP), constitui mais uma etapa de um processo iniciado há sete anos. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681260/civicop-consolida-processo-de-reconcilia%C3%A7%C3%A3o-com-entrega-de-136-restos-mortais",
+      "source": "Jornal de Angola",
+      "_key": "054008f18d6c3d22"
+    },
+    {
+      "title": "Destaque Espanha conquista bicampeonato mundial de futebol ao vencer Argentina (1-0)A Espanha conquistou, este domingo, o Campeonato do Mundo de Futebol 2026, ao derrotar a Argentina por 1-0, na final disputada no MetLife Stadium, Estados Unidos da América, graças a um golo decisivo de Ferran Torres, que devolveu a La Roja ao topo do futebol mundial.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/681259/espanha-conquista-bicampeonato-mundial-de-futebol-ao-vencer-argentina-%281-0%29",
+      "source": "Jornal de Angola",
+      "_key": "142037446b0b1dc1"
+    },
+    {
+      "title": "Destaque Ampliação do Projecto de Consolidação e Modernização da Gestão da Acção Social lançado hoje O Ministério da Acção Social, Família e Promoção da Mulher (MASFAMU) procede, dentro de instantes, em Luanda, ao lançamento oficial da Ampliação do Projecto de Consolidação e Modernização da Gestão da Acção Social.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681286/amplia%C3%A7%C3%A3o-do-projecto-de-consolida%C3%A7%C3%A3o-e-moderniza%C3%A7%C3%A3o-da-gest%C3%A3o-da-ac%C3%A7%C3%A3o-social-lan%C3%A7ado-hoje-",
+      "source": "Jornal de Angola",
+      "_key": "d23806b2f5fcc478"
+    },
+    {
+      "title": "Josefa Sacko defende descentralização da FAO para acelerar combate à fome no Sul GlobalA embaixadora Josefa Sacko, candidata angolana ao cargo de directora-geral da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), defende a descentralização deste organismo da ONU. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681264/josefa-sacko-defende-descentraliza%C3%A7%C3%A3o-da-fao-para-acelerar-combate-%C3%A0-fome-no-sul-global",
+      "source": "Jornal de Angola",
+      "_key": "94e65d43342b97d4"
+    },
+    {
+      "title": "Sociedade Fim-de-semana marcado por 25 mortos e 55 feridos em todo o país ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681294/fim-de-semana-marcado-por-25-mortos-e-55-feridos-em-todo-o-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "9bad93214a3a69e4"
+    },
+    {
+      "title": "Economia BNA presente na maior bolsa de negócios de Angola ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681289/--bna-presente-na-maior-bolsa-de-neg%C3%B3cios-de-angola-",
+      "source": "Jornal de Angola",
+      "_key": "7ea1d09741b90a25"
+    },
+    {
+      "title": "Política Mara Quiosa anota inquietações de jovens num encontro com centena de organizações ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681269/mara-quiosa-anota-inquieta%C3%A7%C3%B5es-de-jovens-num-encontro-com-centena-de-organiza%C3%A7%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "53bdddb48e3a8639"
+    },
+    {
+      "title": "Política Magistraturas debatem boas práticas e modernização da Justiça Constitucional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681265/magistraturas-debatem-boas-pr%C3%A1ticas--e-moderniza%C3%A7%C3%A3o-da-justi%C3%A7a-constitucional",
+      "source": "Jornal de Angola",
+      "_key": "8fb55c4820c82491"
+    },
+    {
+      "title": "Sociedade Governo de Luanda quer aproximação comunitária ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681263/governo-de-luanda-quer-aproxima%C3%A7%C3%A3o-comunit%C3%A1ria",
+      "source": "Jornal de Angola",
+      "_key": "d2139631f80f9cae"
+    },
+    {
+      "title": "Desporto Argentina e Espanha disputam neste momento final do Mundial 2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/681258/argentina-e-espanha-disputam-neste-momento-final-do-mundial-2026",
+      "source": "Jornal de Angola",
+      "_key": "9ea68a65c8513037"
+    },
+    {
+      "title": "Economia / agora Angola vai traduzir 40 normas de relatos financeiros em 2028 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681292/angola-vai-traduzir-40-normas--de-relatos-financeiros-em-2028",
+      "source": "Jornal de Angola",
+      "_key": "cb10c0fb21f39cbe"
+    },
+    {
+      "title": "Economia / agora AIPEX recepciona 70 projectos no I semestre ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681291/aipex-recepciona-70---projectos-no-i-semestre",
+      "source": "Jornal de Angola",
+      "_key": "1dd0cf068e292077"
+    },
+    {
+      "title": "Economia / agora BDA apresenta novas soluções de financiamento na FILDA ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681290/--bda-apresenta-novas-solu%C3%A7%C3%B5es-de-financiamento-na-filda",
+      "source": "Jornal de Angola",
+      "_key": "283c6c1d755ed708"
+    },
+    {
+      "title": "Economia / Há 22 minutos Feira movimenta 120 milhões em negócios ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681285/feira-movimenta-120-milh%C3%B5es-em-neg%C3%B3cios",
+      "source": "Jornal de Angola",
+      "_key": "61cdae912b5ca2cb"
+    },
+    {
+      "title": "Economia / Há 35 minutos Wiliete Crédito aposta na expansão da carteira de clientes no Huambo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681283/--wiliete-cr%C3%A9dito-aposta-na-expans%C3%A3o-da-carteira-de-clientes-no-huambo",
+      "source": "Jornal de Angola",
+      "_key": "aeaeab450c793376"
+    },
+    {
+      "title": "Destaque CÂMARA DE COMERCIO E INDÚSTRIA, ANGOLA-ARÁBIA SAUDITACâmara de Comércio e Indústria Angola - Arábia Saudita (CCIAAS) Nomeia o Embaixador João Samuel Caholo como Consultor Sénior para os Sectores de Petróleo, Gás e Minas",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/681293/c%C3%A2mara-de-comercio-e-ind%C3%BAstria-angola-ar%C3%A1bia-saudita",
+      "source": "Jornal de Angola",
+      "_key": "960275b332911174"
+    },
+    {
+      "title": "Última hora Angola participa no Africa Foundational Learning Exchange 2026 no Malawi",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681257/angola-participa-no-africa-foundational-learning-exchange-2026-no-malawi",
+      "source": "Jornal de Angola",
+      "_key": "966a693d02df7614"
+    },
+    {
+      "title": "MPLA diz que um telemóvel na mão de um jovem é mais...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/mpla-diz-que-um-telemovel-na-mao-de-um-jovem-e-mais-forte-do-que-mil-megafones-nos-comicios-73374.html",
       "source": "Novo Jornal",
-      "_key": "a5f1ed724c13852b"
+      "_key": "56cf2a8c9daa5b48"
+    },
+    {
+      "title": "António Venâncio diz que os 30.000 militantes que apoiaram...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/antonio-venancio-diz-que-os-30000-militantes-que-apoiaram-candidaturas-de-joao-lourenco-e-higino-carneiro-ficam-na-historia-do-mpla-73371.html",
+      "source": "Novo Jornal",
+      "_key": "afe6bb4d204d8561"
+    },
+    {
+      "title": "Polícias que aguardavam pagamento dos prémios de \"melhores...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policias-que-aguardavam-pagamento-dos-premios-de-melhores-agentes-de-2025-ja-foram-pagos-73378.html",
+      "source": "Novo Jornal",
+      "_key": "04d61e5c6c83d067"
+    },
+    {
+      "title": "Bombeiros assinalam 25 mortes e 31 incêndios no fim-de-semana...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bombeiros-assinalam-25-mortes-e-31-incendios-no-fim-de-semana-em-angola-73375.html",
+      "source": "Novo Jornal",
+      "_key": "59ab6590193cf15f"
+    },
+    {
+      "title": "Luanda regista oito mortos e 51 feridos no fim-de-semana",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-regista-oito-mortos-e-51-feridos-no-fim-de-semana-73372.html",
+      "source": "Novo Jornal",
+      "_key": "356774c4cfaa55e5"
+    },
+    {
+      "title": "Ébola/RDC: A epidemia mais veloz de sempre já fez 930...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-a-epidemia-mais-veloz-de-sempre-ja-fez-930-mortos-em-mais-de-2300-casos-registados-73379.html",
+      "source": "Novo Jornal",
+      "_key": "be49071752412233"
+    },
+    {
+      "title": "Médio Oriente: A paz morreu \"engasgada\" no Estreito...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-a-paz-morreu-engasgada-no-estreito-de-ormuz-e-a-guerra-navega-no-vasto-oceano-da-economia-global-73376.html",
+      "source": "Novo Jornal",
+      "_key": "b7c03a13c0e938e3"
+    },
+    {
+      "title": "Mundial 2026: Espanha chumba Argentina no exame final...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/mundial-2026-espanha-chumba-argentina-no-exame-final-e-ergue-segundo-mundial-73364.html",
+      "source": "Novo Jornal",
+      "_key": "136af2d7c2a0e0ea"
+    },
+    {
+      "title": "A arquitectura como infra-estrutura estratégica para...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-arquitectura-como-infra-estrutura-estrategica-para-o-conhecimento-de-angola-73366.html",
+      "source": "Novo Jornal",
+      "_key": "4fb722521200bf1c"
+    },
+    {
+      "title": "PONTO & CONTRAPONTO  ",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=73363",
+      "source": "Novo Jornal",
+      "_key": "3deced3e24b7b23e"
+    },
+    {
+      "title": "ROCK MARGINAL: SOLTA A ALMA.  ",
+      "url": "https://marginal.co.ao/programas/rock-marginal?ep=73369",
+      "source": "Novo Jornal",
+      "_key": "1cc5a7b35310b833"
+    },
+    {
+      "title": "CONVERSAS À SOMBRA DA MULEMBA.  ",
+      "url": "https://marginal.co.ao/programas/conversas-a-sombra-da-mulemba-na-marginal?ep=73368",
+      "source": "Novo Jornal",
+      "_key": "5617f450477954fb"
+    },
+    {
+      "title": "DOMINGO NA MARGINAL  ",
+      "url": "https://marginal.co.ao/programas/domingo-na-marginal?ep=73362",
+      "source": "Novo Jornal",
+      "_key": "27f1bb04368f176c"
+    },
+    {
+      "title": "MAKKAS NA SANZALA.  ",
+      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=73365",
+      "source": "Novo Jornal",
+      "_key": "e1cdf98020a602bc"
+    },
+    {
+      "title": "BILLBOARD 25 + OUVIDAS.  ",
+      "url": "https://marginal.co.ao/programas/billboard-25-ouvidas?ep=73370",
+      "source": "Novo Jornal",
+      "_key": "b97390429d03f441"
+    },
+    {
+      "title": "Governos provinciais agilizam concurso público de Educação – Em Luanda já há mais de 10 mil candidatos às 942 vagas disponíveis na província",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/governos-provinciais-agilizam-concurso-publico-de-educacao-em-luanda-ja-ha-mais-de-10-mil-candidatos-as-942-vagas-disponiveis-na-provincia-73373.html",
+      "source": "Novo Jornal",
+      "_key": "8c95b1f96ad662b0"
+    },
+    {
+      "title": "FILDA arranca amanhã e economistas falam em mais impulso para o investimento, produção nacional e emprego",
+      "url": "https://www.opais.ao/economia/filda-arranca-amanha-e-economistas-falam-em-mais-impulso-para-o-investimento-producao-nacional-e-emprego/",
+      "source": "O País",
+      "_key": "560ec7f231364dce"
+    },
+    {
+      "title": "Recursos Minerais e Petróleo investiu 509 milhões de dólares em projectos sociais em 2025",
+      "url": "https://www.opais.ao/politica/recursos-minerais-e-petroleo-investiu-509-milhoes-de-dolares-em-projectos-sociais-em-2025/",
+      "source": "O País",
+      "_key": "904a9cbdd03aaf18"
+    },
+    {
+      "title": "Espanha destrona a Argentina e conquista o segundo título mundial",
+      "url": "https://www.opais.ao/desporto/espanha-destrona-a-argentina-e-conquista-o-segundo-titulo-mundial/",
+      "source": "O País",
+      "_key": "be577629fd2b0068"
+    },
+    {
+      "title": "Bebé de três meses encontrado morto no interior de um táxi incendiado no Lubango",
+      "url": "https://www.opais.ao/ultima_hora/bebe-de-tres-meses-encontrado-morto-no-interior-de-um-taxi-incendiado-no-lubango/",
+      "source": "O País",
+      "_key": "cdf13ead1dd340b6"
+    },
+    {
+      "title": "Prémio de Estudos Parlamentares avaliado em cinco milhões de kwanzas",
+      "url": "https://www.opais.ao/politica/premio-de-estudos-parlamentares-avaliado-em-cinco-milhoes-de-kwanzas/",
+      "source": "O País",
+      "_key": "2f1b6fe42c6e41d7"
+    },
+    {
+      "title": "Quadrilha suspeita de roubar 85 milhões de kwanzas a carro-forte está ligada a mais 13 assaltos em Luanda",
+      "url": "https://www.opais.ao/economia/quadrilha-suspeita-de-roubar-85-milhoes-de-kwanzas-a-carro-forte-esta-ligada-a-mais-13-assaltos-em-luanda/",
+      "source": "O País",
+      "_key": "abbb85d5cbc87c1f"
+    },
+    {
+      "title": "Espanha conquista Mundial 2026 após vencer a Argentina no prolongamento",
+      "url": "https://www.opais.ao/mundo/espanha-conquista-mundial-2026-apos-vencer-a-argentina-no-prolongamento/",
+      "source": "O País",
+      "_key": "1d833f4eadaffaea"
+    },
+    {
+      "title": "Desmantelada associação criminosa que se fazia passar por efectivos do SIC e PNA no Zango 4",
+      "url": "https://www.opais.ao/ultima_hora/desmantelada-associacao-criminosa-que-se-fazia-passar-por-efectivos-do-sic-e-pna-no-zango-4/",
+      "source": "O País",
+      "_key": "4ac97199cd751c68"
+    },
+    {
+      "title": "Estudantes angolanos concluem ano lectivo com distinção na Nigéria",
+      "url": "https://www.opais.ao/mundo/estudantes-angolanos-concluem-ano-lectivo-com-distincao-na-nigeria/",
+      "source": "O País",
+      "_key": "b344ace056738496"
+    },
+    {
+      "title": "Cunene regista 12 casos de mortes por suicídio de Janeiro a Junho de 2026",
+      "url": "https://www.opais.ao/ultima_hora/cunene-regista-12-casos-de-mortes-por-suicidio-de-janeiro-a-junho-de-2026/",
+      "source": "O País",
+      "_key": "0870ff79954adc40"
+    },
+    {
+      "title": "Autoridades no Cunene registam 24 crimes de homicídio no primeiro semestre deste ano",
+      "url": "https://www.opais.ao/ultima_hora/autoridades-no-cunene-registam-24-crimes-de-homicidio-no-primeiro-semestre-deste-ano/",
+      "source": "O País",
+      "_key": "caf953dadb2c2272"
+    },
+    {
+      "title": "Mais de dois mil cidadãos participam na corrida em prol da união entre os munícipes",
+      "url": "https://www.opais.ao/ultima_hora/mais-de-dois-mil-cidadaos-participam-na-corrida-em-prol-da-uniao-entre-os-municipes/",
+      "source": "O País",
+      "_key": "420911f4e8ec00b1"
+    },
+    {
+      "title": "Angola lidera incumprimentos na lusofonia por contractos pagos e não...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-lidera-incumprimentos-na-lusofonia-por-contractos-pagos-e-nao-cumpridos",
+      "source": "Valor Económico",
+      "_key": "9fedf20be3f1122e"
+    },
+    {
+      "title": "Assembleia Nacional vai desembolsar 9,5 milhões de kwanzas no novo...",
+      "url": "https://valoreconomico.co.ao/artigo/assembleia-nacional-vai-desembolsar-9-5-milhoes-de-kwanzas-no-novo-premio-26-de-novembro",
+      "source": "Valor Económico",
+      "_key": "7462df77aad14b1c"
     }
   ]
 }
