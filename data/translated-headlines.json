@@ -1,144 +1,472 @@
 {
-  "date": "2026-07-20",
-  "total_new": 50,
-  "total_filtered": 17,
+  "date": "2026-07-21",
+  "total_new": 127,
+  "total_filtered": 58,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Chinesa Huatong Angola vai investir 900 milhões de dólares para modernizar terminal portuário",
-      "url": "https://jornaloguardiao.com/2026/07/20/chinesa-huatong-angola-vai-investir-900-milhoes-de-dolares-para-modernizar-terminal-portuario/",
-      "source": "Jornal O Guardião",
-      "_key": "a87895d74e3717b0",
-      "score": 10,
-      "title_cn": "中国华通安哥拉公司将投资9亿美元改造港口码头"
-    },
-    {
-      "title": " Chinesa Huatong Angola vai investir 900 milhões de dólares para modernizar terminal portuário ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d89f72e9079644",
-      "score": 10,
-      "title_cn": "中国华通安哥拉公司将投资9亿美元改造港口码头"
-    },
-    {
-      "title": "Deputados fiscalizam funcionamento do Serviço de Migração e Estrangeiros em Luanda",
-      "url": "https://www.opais.ao/politica/deputados-fiscalizam-funcionamento-do-servico-de-migracao-e-estrangeiros-em-luanda/",
-      "source": "O País",
-      "_key": "5aca18920f874345",
-      "score": 9,
-      "title_cn": "罗安达议员视察移民和外国人事务局运作"
-    },
-    {
-      "title": "Terminal Portuário da SDBD prevê movimentar 20 milhões de toneladas de carga anualmente",
-      "url": "https://forbesafricalusofona.com/terminal-portuario-da-sdbd-preve-movimentar-20-milhoes-de-toneladas-de-carga-anualmente/",
-      "source": "Forbes África",
-      "_key": "095bcaf9059d3f86",
-      "score": 8,
-      "title_cn": "SDBD港口码头预计年处理货物2000万吨"
-    },
-    {
-      "title": "Angolan government authorizes controlled import of Non-GMO corn",
-      "url": "https://www.angop.ao/en/noticias/agricultura/governo-angolano-autoriza-importacao-controlada-de-milho-sem-alteracao-genetica/",
+      "title": "Angola reaffirms plan to settle debt to China by 2028",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reitera-liquidacao-da-divida-com-a-china-ate-2028/",
       "source": "ANGOP",
-      "_key": "4a0418c06d040447",
-      "score": 7,
-      "title_cn": "安哥拉政府批准有条件进口非转基因玉米"
+      "_key": "545516c75b630fd1",
+      "score": 10,
+      "title_cn": "安哥拉重申2028年前偿清对华债务计划"
     },
     {
-      "title": "Dívida angolana sobe 9,12 por cento no primeiro semestre para 72 mil milhões de dólares",
-      "url": "https://angola24horas.com/component/k2/item/34718-divida-angolana-sobe-9-12-por-cento-no-primeiro-semestre-para-72-mil-milhoes-de-dolares",
+      "title": "Corredor do Lobito ganha força com apoio do Banco Mundial e parceiros regionais",
+      "url": "https://correiokianda.info/corredor-do-lobito-ganha-forca-com-apoio-do-banco-mundial-e-parceiros-regionais/",
+      "source": "Correio Kianda",
+      "_key": "2ae259b30ed97d6b",
+      "score": 9,
+      "title_cn": "洛比托走廊获世行及区域伙伴支持，发展势头强劲"
+    },
+    {
+      "title": "Dois passos decisivos aproximam o Corredor do Lobito dos objectivos",
+      "url": "https://expansao.co.ao/economia/detalhe/dois-passos-decisivos-aproximam-o-corredor-do-lobito-dos-objectivos-73299.html",
+      "source": "Expansão",
+      "_key": "28e887a184345f26",
+      "score": 9,
+      "title_cn": "两项决定性举措助洛比托走廊接近目标"
+    },
+    {
+      "title": "Acordo tripartido injecta 900 milhões de dólares no Terminal Portuário da Barra do Dande",
+      "url": "https://www.opais.ao/politica/acordo-tripartido-injecta-900-milhoes-de-dolares-no-terminal-portuario-da-barra-do-dande/",
+      "source": "O País",
+      "_key": "eb5d8eba9f52086e",
+      "score": 9,
+      "title_cn": "三方协议向丹德巴拉港口码头注资9亿美元"
+    },
+    {
+      "title": "Alta do crude acelera plano de Angola para liquidar 6,8...",
+      "url": "https://valoreconomico.co.ao/artigo/alta-do-crude-acelera-plano-de-angola-para-liquidar-6-8-mil-milhoes-a-china",
+      "source": "Valor Económico",
+      "_key": "e79ef2cedf6be67f",
+      "score": 9,
+      "title_cn": "油价上涨加速安哥拉68亿债务清算计划"
+    },
+    {
+      "title": "Barra do Dande Terminal to generate 21,000 Jobs",
+      "url": "https://www.angop.ao/en/noticias/economia/terminal-da-barra-do-dande-vai-gerar-21-mil-empregos/",
+      "source": "ANGOP",
+      "_key": "c921ba5056bf78cc",
+      "score": 8,
+      "title_cn": "丹德巴拉码头将创造2.1万个就业岗位"
+    },
+    {
+      "title": "FILDA 2026 - Angola's largest business trade fair opens",
+      "url": "https://www.angop.ao/en/noticias/economia/filda2026-inicia-hoje-41a-edicao-da-maior-bolsa-de-negocios-de-angola/",
+      "source": "ANGOP",
+      "_key": "28f6a0dec157c6a6",
+      "score": 8,
+      "title_cn": "2026年安哥拉国际贸易博览会（FILDA）开幕"
+    },
+    {
+      "title": "FILDA arranca esta terça-feira com perspectivas de dinamização económica",
+      "url": "https://correiokianda.info/filda-arranca-esta-terca-feira-com-perspectivas-de-dinamizacao-economica/",
+      "source": "Correio Kianda",
+      "_key": "24cb9acd142feeab",
+      "score": 8,
+      "title_cn": "FILDA周二开幕，有望提振经济活力"
+    },
+    {
+      "title": "FILDA arranca hoje com mais de dois mil expositores de 22 países",
+      "url": "https://expansao.co.ao/empresas/detalhe/filda-arranca-hoje-com-mais-de-dois-mil-expositores-de-22-paises-73400.html",
+      "source": "Expansão",
+      "_key": "f254dfa7f431bb12",
+      "score": 8,
+      "title_cn": "FILDA今日开幕，22国逾2000家展商参展"
+    },
+    {
+      "title": "A Internacionalização da Banca e o Regresso dos Correspondentes: Desafios e Oportunidades",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_371936ff29cac9",
+      "score": 8,
+      "title_cn": "银行业国际化与代理行回归：挑战与机遇"
+    },
+    {
+      "title": "A Internacionalização da Banca e o Regresso dos Correspondentes: Desafios e OportunidadesA mesa-redonda da 16.ª edição do Fórum Banca do Expansão, realizada a 19 de Julho, reuniu Juvelino Domingos, administrador executivo do BAI, Catarina Souza, do Banco Atlântico, Luís Gonçalves, presidente da Comissão Executiva do BFA, Eduardo Clemente, administrador executivo do Standard Bank Angola, Ricardo Cortez, administrador executivo do BIC, e Odyle Cardoso dos Santos, administrador executivo do BCS. A ",
+      "url": "https://expansao.co.ao/multimedia/detalhe/a-internacionalizacao-da-banca-e-o-regresso-dos-correspondentes-desafios-e-oportunidades-73393.html",
+      "source": "Expansão",
+      "_key": "ab036aafa1118f16",
+      "score": 8,
+      "title_cn": "银行业国际化与代理行回归：挑战与机遇"
+    },
+    {
+      "title": "Agriculture Minister encourages expansion of industrial parks",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-da-agricultura-incentiva-expansao-de-parques-industriais/",
+      "source": "ANGOP",
+      "_key": "0c8368fea0a4b499",
+      "score": 7,
+      "title_cn": "农业部长鼓励扩大工业园区"
+    },
+    {
+      "title": "Angola’s public debt stock set at 65.8 trillion Kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/stock-da-divida-publica-fixado-em-kz-65-8-bilioes/",
+      "source": "ANGOP",
+      "_key": "60c6dc46dbf52c19",
+      "score": 7,
+      "title_cn": "安哥拉公共债务存量达65.8万亿宽扎"
+    },
+    {
+      "title": "AGT desmente abertura de concurso público e alerta para falsas ofertas de emprego nas redes sociais",
+      "url": "https://angola24horas.com/sociedade/item/34721-agt-desmente-abertura-de-concurso-publico-e-alerta-para-falsas-ofertas-de-emprego-nas-redes-sociais",
       "source": "Angola 24 Horas",
-      "_key": "4b127bb6b4a559ad",
+      "_key": "058594548f939642",
       "score": 7,
-      "title_cn": "安哥拉上半年债务增长9.12%至720亿美元"
+      "title_cn": "AGT否认公开招聘，警惕社交媒体虚假招聘信息"
     },
     {
-      "title": "Especialistas debatem esta semana em Luanda tema voltado à promoção do investimento no sector extractivo",
-      "url": "https://correiokianda.info/especialistas-debatem-esta-semana-em-luanda-tema-voltado-a-promocao-do-investimento-no-sector-extractivo/",
+      "title": "Stock da dívida atinge 65,8 biliões de kwanzas e corresponde 51,24% do PIB",
+      "url": "https://correiokianda.info/stock-da-divida-fixa-se-nos-658-bilioes-de-kwanzas-e-corresponde-5124-do-pib/",
       "source": "Correio Kianda",
-      "_key": "60a7aeb1b4d5d5f2",
+      "_key": "9bb11a8d3ff9f7be",
       "score": 7,
-      "title_cn": "专家本周在罗安达讨论促进采掘业投资"
+      "title_cn": "债务存量达65.8万亿宽扎，占GDP的51.24%"
     },
     {
-      "title": "Dívida angolana sobe 9,12% no primeiro semestre para 72 mil milhões de dólares",
-      "url": "https://jornaloguardiao.com/2026/07/20/divida-angolana-sobe-912-no-primeiro-semestre-para-72-mil-milhoes-de-dolares/",
+      "title": "AGT nega abertura de concurso e avisa sobre falsas vagas de emprego",
+      "url": "https://correiokianda.info/agt-nega-abertura-de-concurso-e-avisa-sobre-falsas-vagas-de-emprego/",
+      "source": "Correio Kianda",
+      "_key": "8592dbe99da9763a",
+      "score": 7,
+      "title_cn": "AGT否认招聘，警告虚假就业信息"
+    },
+    {
+      "title": "Presidente da República mexe na Defesa Nacional e nomeia novo embaixador",
+      "url": "https://diariodosnegocios.com/presidente-da-republica-mexe-na-defesa-nacional-e-nomeia-novo-embaixador/",
+      "source": "Diário dos Negócios",
+      "_key": "c1295d885faab47c",
+      "score": 7,
+      "title_cn": "总统调整国防部领导层，任命新大使"
+    },
+    {
+      "title": " Presidente da República mexe na Defesa Nacional e nomeia novo embaixador ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_ccca985ca6ca4c",
+      "score": 7,
+      "title_cn": "总统调整国防部领导层，任命新大使"
+    },
+    {
+      "title": "Falta de transparência e má execução orçamental condicionam crescimento",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c2e8c10394460f",
+      "score": 7,
+      "title_cn": "缺乏透明度和预算执行不力制约经济增长"
+    },
+    {
+      "title": "Angola quer transformar 40 milhões USD gastos na importação de material de pesca em oportunidades de investimento",
+      "url": "https://forbesafricalusofona.com/angola-quer-transformar-40-milhoes-usd-gastos-na-importacao-de-material-de-pesca-em-oportunidades-de-investimento/",
+      "source": "Forbes África",
+      "_key": "e1651ec7befc389a",
+      "score": 7,
+      "title_cn": "安哥拉拟将4000万美元渔业物资进口转为投资机会"
+    },
+    {
+      "title": "O Jacaré Bangão e o peso dos impostos…",
+      "url": "https://holdonangola.com/o-jacare-bangao-e-o-peso-dos-impostos-da-agt/",
+      "source": "Hold On Angola",
+      "_key": "4f86feacdf97b6fa",
+      "score": 7,
+      "title_cn": "鳄鱼邦高（Jacaré Bangão）与税收重负"
+    },
+    {
+      "title": "Empresas portuguesas não temem concorrência em Angola – secretário de Estado da Economia",
+      "url": "https://jornaloguardiao.com/2026/07/21/empresas-portuguesas-nao-temem-concorrencia-em-angola-secretario-de-estado-da-economia/",
       "source": "Jornal O Guardião",
-      "_key": "5d041c0b3a03a459",
+      "_key": "1b658c772cb55568",
       "score": 7,
-      "title_cn": "安哥拉上半年债务增长9.12%至720亿美元"
+      "title_cn": "葡萄牙企业不惧安哥拉竞争——经济国务秘书"
     },
     {
-      "title": "Dívidas atrasadas do Estado angolano caem 6% no primeiro semestre",
-      "url": "https://jornaloguardiao.com/2026/07/20/dividas-atrasadas-do-estado-angolano-caem-6-no-primeiro-semestre/",
-      "source": "Jornal O Guardião",
-      "_key": "e87b53333fbc3816",
-      "score": 7,
-      "title_cn": "安哥拉国家逾期债务上半年下降6%"
-    },
-    {
-      "title": " Dívida angolana sobe 9,12% no primeiro semestre para 72 mil milhões de dólares ",
+      "title": " Empresas portuguesas não temem concorrência em Angola – secretário de Estado da Economia ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_d34f9c7b324c2b",
+      "_key": "t_df1744b973e503",
       "score": 7,
-      "title_cn": "安哥拉上半年债务增长9.12%至720亿美元"
+      "title_cn": "葡萄牙企业不惧安哥拉竞争——经济国务秘书"
     },
     {
-      "title": " Dívidas atrasadas do Estado angolano caem 6% no primeiro semestre ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d636b04120be78",
+      "title": "Destaque Presidente da República faz ajustes na liderança do Ministério da DefesaO Presidente da República, João Lourenço, procedeu, esta segunda-feira, a alterações na liderança do Ministério da Defesa Nacional, Antigos Combatentes e Veteranos da Pátria, ao exonerar e nomear secretários de Estado, por conveniência de serviço, nos termos da Constituição.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681333/presidente-da-rep%C3%BAblica-faz-ajustes-na-lideran%C3%A7a-do-minist%C3%A9rio-da-defesa",
+      "source": "Jornal de Angola",
+      "_key": "d1614bb99091dc7f",
       "score": 7,
-      "title_cn": "安哥拉国家逾期债务上半年下降6%"
+      "title_cn": "总统若昂·洛伦索（João Lourenço）调整国防部领导层"
     },
     {
-      "title": "Stock da dívida angolana atinge 72 mil milhões USD...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/stock-da-divida-angolana-atinge-72-mil-milhoes-usd-e-corresponde-a-5124-do-pib---governo-73386.html",
+      "title": "Destaque Angola destaca papel estratégico da aviação civil no desenvolvimento económicoA aviação civil constitui um dos mais poderosos instrumentos de desenvolvimento económico e social, ao ligar pessoas, mercados e regiões, facilitar o investimento, impulsionar o turismo, estimular o comércio, aproximar culturas e reforçar a integração entre os países.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681348/angola-destaca-papel-estrat%C3%A9gico-da-avia%C3%A7%C3%A3o-civil-no-desenvolvimento-econ%C3%B3mico",
+      "source": "Jornal de Angola",
+      "_key": "64b95ac59b4c1c14",
+      "score": 7,
+      "title_cn": "安哥拉强调民航在经济发展中的战略作用"
+    },
+    {
+      "title": "Milho importado: seis navios, 123 mil toneladas e uma...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/milho-importado-seis-navios-123-mil-toneladas-e-uma-sentenca-contra-a-producao-nacional-73394.html",
       "source": "Novo Jornal",
-      "_key": "42cef42f1edb990d",
+      "_key": "05b82390be9473ab",
       "score": 7,
-      "title_cn": "安哥拉债务存量达720亿美元"
+      "title_cn": "进口玉米：六艘船载12.3万吨"
     },
     {
-      "title": "Dívida pública atinge 65,8 biliões de kwanzas com sector externo...",
-      "url": "https://valoreconomico.co.ao/artigo/divida-publica-atinge-65-8-bilioes-de-kwanzas-com-sector-externo-a-pesar-46-5-bilioes",
-      "source": "Valor Económico",
-      "_key": "943365eb71e8ca2a",
+      "title": "SIC desmantela grupo que alugava carros para cometer assaltos em Luanda",
+      "url": "https://www.opais.ao/destaque/sic-desmantela-grupo-que-alugava-carros-para-cometer-assaltos-em-luanda/",
+      "source": "O País",
+      "_key": "7462223f76ab035a",
       "score": 7,
-      "title_cn": "安哥拉公共债务达65.8万亿宽扎"
+      "title_cn": "刑事调查局捣毁罗安达租车抢劫团伙"
     },
     {
-      "title": "Angola lidera na lusofonia com maior registo de incumprimento em contratos públicos",
-      "url": "https://correiokianda.info/angola-lidera-na-lusofonia-com-maior-registo-de-incumprimento-em-contratos-publicos/",
+      "title": "Licença de publicidade deixa de ser obrigatória para identificar estabelecimentos comerciais em Luanda",
+      "url": "https://www.opais.ao/ultima_hora/licenca-de-publicidade-deixa-de-ser-obrigatoria-para-identificar-estabelecimentos-comerciais-em-luanda/",
+      "source": "O País",
+      "_key": "a8f9587f8f583e46",
+      "score": 7,
+      "title_cn": "罗安达商业场所识别不再强制广告许可证"
+    },
+    {
+      "title": "Minister of Industry and Commerce opens glass container factory",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-da-industria-e-comercio-inaugura-fabrica-de-recipientes-de-vidro/",
+      "source": "ANGOP",
+      "_key": "8e623511c9e7f1db",
+      "score": 6,
+      "title_cn": "工贸部长主持玻璃容器厂开业"
+    },
+    {
+      "title": "Produção nacional",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=114113",
+      "source": "ANGOP",
+      "_key": "e83941126caf6441",
+      "score": 6,
+      "title_cn": "国内生产"
+    },
+    {
+      "title": "FILDA becomes a major revenue source for set design and stand construction companies",
+      "url": "https://www.angop.ao/en/noticias/economia/filda-torna-se-numa-das-principais-fontes-de-receitas-para-empresas-de-cenografia/",
+      "source": "ANGOP",
+      "_key": "56cab50ad2c212e6",
+      "score": 6,
+      "title_cn": "FILDA成为展台设计搭建公司主要收入来源"
+    },
+    {
+      "title": "Canadian entrepreneurs seek to invest in agriculture in Zaire Province",
+      "url": "https://www.angop.ao/en/noticias/agricultura/empresarios-canadianos-querem-investir-na-agricultura-no-zaire/",
+      "source": "ANGOP",
+      "_key": "0d4700739182e169",
+      "score": 6,
+      "title_cn": "加拿大企业家寻求投资扎伊尔省农业"
+    },
+    {
+      "title": "Huíla produces over 300,000 kg of beef in first semester",
+      "url": "https://www.angop.ao/en/noticias/economia/huila-produz-mais-de-300-mil-kg-de-carne-bovina-no-semestre/",
+      "source": "ANGOP",
+      "_key": "f9a8887b7969a20c",
+      "score": 6,
+      "title_cn": "威拉省上半年生产逾30万公斤牛肉"
+    },
+    {
+      "title": "FILDA 2026 – Oceano Máquinas company displays various pieces of equipment",
+      "url": "https://www.angop.ao/en/noticias/economia/oceano-maquinas-expoe-diversos-equipamentos-na-filda-2026/",
+      "source": "ANGOP",
+      "_key": "b1b43a09598cb242",
+      "score": 6,
+      "title_cn": "2026年FILDA：Oceano Máquinas公司展示多种设备"
+    },
+    {
+      "title": "Executivo incentiva empresas portuguesas a usar Angola como plataforma para África",
+      "url": "https://correiokianda.info/executivo-incentiva-empresas-portuguesas-a-usar-angola-como-plataforma-para-africa/",
       "source": "Correio Kianda",
-      "_key": "6028ab38608f8b30",
+      "_key": "79d1f6186656a703",
       "score": 6,
-      "title_cn": "安哥拉在葡语国家中公共合同违约记录最多"
+      "title_cn": "安哥拉政府鼓励葡企以安哥拉为平台拓展非洲"
     },
     {
-      "title": "Angola conclui operação de troca de dívida por educação para financiar 30 escolas",
-      "url": "https://jornaloguardiao.com/2026/07/20/angola-conclui-operacao-de-troca-de-divida-por-educacao-para-financiar-30-escolas/",
+      "title": "Economia azul: África quer transformar potencial marítimo em crescimento económico ",
+      "url": "https://correiokianda.info/economia-azul-africa-quer-transformar-potencial-maritimo-em-crescimento-economico/",
+      "source": "Correio Kianda",
+      "_key": "a98c5f62448af535",
+      "score": 6,
+      "title_cn": "蓝色经济：非洲欲将海洋潜力转化为经济增长"
+    },
+    {
+      "title": "Só 1 em cada 10 licenciados tiram cursos de engenharia, universidades desalinhadas com a economia",
+      "url": "https://expansao.co.ao/angola/detalhe/so-1-em-cada-10-licenciados-tiram-cursos-de-engenharia-universidades-desalinhadas-com-a-economia-73392.html",
+      "source": "Expansão",
+      "_key": "a5ab26b827583875",
+      "score": 6,
+      "title_cn": "每十名毕业生仅一人学工程，大学与经济脱节"
+    },
+    {
+      "title": "Sinprof admite nova greve no arranque do ano lectivo e acusa Governo de incumprir acordos",
+      "url": "https://forbesafricalusofona.com/sinprof-admite-nova-greve-no-arranque-do-ano-lectivo-e-acusa-governo-de-incumprir-acordos/",
+      "source": "Forbes África",
+      "_key": "704016ff9f2cd3f8",
+      "score": 6,
+      "title_cn": "教师工会承认新学年将罢工，指责政府不履行协议"
+    },
+    {
+      "title": "Angola defende nova etapa de cooperação com Portugal centrada no investimento produtivo",
+      "url": "https://jornaloguardiao.com/2026/07/21/angola-defende-nova-etapa-de-cooperacao-com-portugal-centrada-no-investimento-produtivo/",
       "source": "Jornal O Guardião",
-      "_key": "39f1ca235a75f017",
+      "_key": "cc5b0888435d7036",
       "score": 6,
-      "title_cn": "安哥拉完成“债务换教育”操作，为30所学校融资"
+      "title_cn": "安哥拉倡导与葡萄牙开展以生产性投资为中心的新合作"
     },
     {
-      "title": " Angola conclui operação de troca de dívida por educação para financiar 30 escolas ",
+      "title": " Angola defende nova etapa de cooperação com Portugal centrada no investimento produtivo ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_f2f421bd83b487",
+      "_key": "t_609fbb050b1f88",
       "score": 6,
-      "title_cn": "安哥拉完成“债务换教育”操作，为30所学校融资"
+      "title_cn": "安哥拉倡导与葡萄牙开展以生产性投资为中心的新合作"
     },
     {
-      "title": "Informalidade da economia trava crescimento da banca em Angola",
-      "url": "https://valoreconomico.co.ao/artigo/informalidade-da-economia-trava-crescimento-da-banca-em-angola",
-      "source": "Valor Económico",
-      "_key": "731a8e166ea78185",
+      "title": "Mais de 2.300 expositores participam na FILDA, que...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/mais-de-2300-expositores-participam-na-filda-que-abre-hoje-ao-publico-na-zee-73395.html",
+      "source": "Novo Jornal",
+      "_key": "8ca76a1ce32e4789",
       "score": 6,
-      "title_cn": "安哥拉非正规经济阻碍银行业增长"
+      "title_cn": "逾2300家参展商参加FILDA"
+    },
+    {
+      "title": "Expositores expectantes por novos negócios na FILDA 2026",
+      "url": "https://www.opais.ao/economia/expositores-expectantes-por-novos-negocios-na-filda-2026/",
+      "source": "O País",
+      "_key": "d693124a5a4ff937",
+      "score": 6,
+      "title_cn": "2026年FILDA参展商期待新商机"
+    },
+    {
+      "title": "BCS leva EasyPay à FILDA para reforçar apoio às pequenas e médias empresas",
+      "url": "https://www.opais.ao/destaque/bcs-leva-easypay-a-filda-para-reforcar-apoio-as-pequenas-e-medias-empresas/",
+      "source": "O País",
+      "_key": "5d1e06a4639f7b41",
+      "score": 6,
+      "title_cn": "BCS携EasyPay亮相FILDA，加强对中小企业支持"
+    },
+    {
+      "title": " ANGOTIC SPECIAL 2026",
+      "url": "https://www.angop.ao/en/angola/noticias/?vtab=segundo-destaque&vtabid=1195/",
+      "source": "ANGOP",
+      "_key": "23970fcc64fbd188",
+      "score": 5,
+      "title_cn": "2026年安哥拉信息技术特别展"
+    },
+    {
+      "title": "Emprego",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37147",
+      "source": "ANGOP",
+      "_key": "57b9870de2e81336",
+      "score": 5,
+      "title_cn": "就业"
+    },
+    {
+      "title": "Incentivo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=58493",
+      "source": "ANGOP",
+      "_key": "ce4b2ebf83f6d04d",
+      "score": 5,
+      "title_cn": "激励"
+    },
+    {
+      "title": "BAI reinforces commitment to technological innovation at ANGOTIC 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/bai-reforca-compromisso-com-inovacao-tecnologica-no-angotic-2026/",
+      "source": "ANGOP",
+      "_key": "7c73e2779a4c7c7e",
+      "score": 5,
+      "title_cn": "BAI在2026年ANGOTIC展上重申技术创新承诺"
+    },
+    {
+      "title": "ANGOTIC 2026 ends with over 34,000 visitors",
+      "url": "https://www.angop.ao/en/noticias/economia/angotic-2026-encerra-com-mais-de-34-mil-visitantes-ministro/",
+      "source": "ANGOP",
+      "_key": "caf9701e3ddbb931",
+      "score": 5,
+      "title_cn": "2026年ANGOTIC展落幕，吸引逾3.4万参观者"
+    },
+    {
+      "title": "Angola launches single social registry for managing social programs",
+      "url": "https://www.angop.ao/en/noticias/sociedade/angola-lanca-cadastro-social-unico-para-gestao-de-accoes-sociais/",
+      "source": "ANGOP",
+      "_key": "96a05ec8fd087a15",
+      "score": 5,
+      "title_cn": "安哥拉推出单一社会登记系统管理社会项目"
+    },
+    {
+      "title": "Militares que conduzam apenas com passe de serviço arriscam sanções criminais e disciplinares",
+      "url": "https://angola24horas.com/sociedade/item/34719-militares-que-conduzam-apenas-com-passe-de-servico-arriscam-sancoes-criminais-e-disciplinares",
+      "source": "Angola 24 Horas",
+      "_key": "71b13d5cfe4332b7",
+      "score": 5,
+      "title_cn": "仅持公务通行证驾车军人将面临刑事纪律处分"
+    },
+    {
+      "title": "Condução sem carta por efectivos das forças de segurança pode resultar em processo criminal",
+      "url": "https://correiokianda.info/conducao-sem-carta-por-efectivos-das-forcas-de-seguranca-pode-resultar-em-processo-criminal/",
+      "source": "Correio Kianda",
+      "_key": "d1d82e2fd5ec3608",
+      "score": 5,
+      "title_cn": "安全部队人员无证驾驶或面临刑事诉讼"
+    },
+    {
+      "title": "Kwenda beneficia milhões, mas especialistas defendem políticas além das transferências sociais",
+      "url": "https://correiokianda.info/kwenda-beneficia-milhoes-mas-especialistas-defendem-politicas-alem-das-transferencias-sociais/",
+      "source": "Correio Kianda",
+      "_key": "731f07d41f063089",
+      "score": 5,
+      "title_cn": "Kwenda项目惠及数百万人，专家呼吁超越社保转移支付"
+    },
+    {
+      "title": "Concursos Públicos: a saúde salva vidas, a educação forma gerações e a segurança protege o desenvolvimento",
+      "url": "https://correiokianda.info/concursos-publicos-a-saude-salva-vidas-a-educacao-forma-geracoes-e-a-seguranca-protege-o-desenvolvimento/",
+      "source": "Correio Kianda",
+      "_key": "a0b855904e43a871",
+      "score": 5,
+      "title_cn": "公开招聘：健康救生命，教育育世代，安全护发展"
+    },
+    {
+      "title": "RDCongo eleva para 967 o número de mortos e para 2.423 casos confirmados de ébola",
+      "url": "https://jornaloguardiao.com/2026/07/21/rdcongo-eleva-para-967-o-numero-de-mortos-e-para-2-423-casos-confirmados-de-ebola/",
+      "source": "Jornal O Guardião",
+      "_key": "5f7d747109b8f66f",
+      "score": 5,
+      "title_cn": "刚果（金）埃博拉死亡病例升至967例，确诊2423例"
+    },
+    {
+      "title": " RDCongo eleva para 967 o número de mortos e para 2.423 casos confirmados de ébola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7d0b3e7b918497",
+      "score": 5,
+      "title_cn": "刚果（金）埃博拉死亡病例升至967例，确诊2423例"
+    },
+    {
+      "title": "Executivo reafirma compromisso nacional de inclusão e redução de desigualdadesO ministro de Estado para a Coordenação Económica, José de Lima Massano, reafirmou ontem, em Luanda, o compromisso do Executivo em posicionar o cidadão no centro das políticas públicas. A estratégia governamental foca-se na promoção do desenvolvimento humano, no combate à pobreza, na redução das desigualdades e no reforço da inclusão social em todo o território nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681335/executivo-reafirma-compromisso-nacional-de-inclus%C3%A3o-e-redu%C3%A7%C3%A3o-de-desigualdades",
+      "source": "Jornal de Angola",
+      "_key": "e1cf2ab444c9421d",
+      "score": 5,
+      "title_cn": "安哥拉政府重申包容和减少不平等的国家承诺"
+    },
+    {
+      "title": "40 países discutem em Luanda futuro da economia azul",
+      "url": "https://www.opais.ao/economia/40-paises-discutem-em-luanda-futuro-da-economia-azul/",
+      "source": "O País",
+      "_key": "517d878ecd3d1188",
+      "score": 5,
+      "title_cn": "40国齐聚罗安达共商蓝色经济未来"
+    },
+    {
+      "title": "FIXIND apresenta mobiliário 100% angolano e aposta na inovação durante a FILDA 2026",
+      "url": "https://www.opais.ao/economia/fixind-apresenta-mobiliario-100-angolano-e-aposta-na-inovacao-durante-a-filda-2026/",
+      "source": "O País",
+      "_key": "725dcff0206b7702",
+      "score": 5,
+      "title_cn": "FIXIND在2026年FILDA展出安哥拉家具并注重创新"
     }
   ]
 }
