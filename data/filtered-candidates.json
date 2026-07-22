@@ -1,189 +1,105 @@
 {
   "date": "2026-07-22",
-  "total_new": 42,
-  "total_filtered": 26,
+  "total_new": 27,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Barril de Brent sobe 4,41% e ultrapassa os 95 dólares em quase seis semanas",
-      "url": "https://jornaloguardiao.com/2026/07/22/barril-de-brent-sobe-441-e-ultrapassa-os-95-dolares-em-quase-seis-semanas/",
-      "source": "Jornal O Guardião",
-      "_key": "969eb3fa6d480ca6",
-      "score": 9
+      "title": "BDA lança cinco novos produtos financeiros na FILDA 2026",
+      "url": "https://www.opais.ao/economia/bda-lanca-cinco-novos-produtos-financeiros-na-filda-2026/",
+      "source": "O País",
+      "_key": "3c23de0636de034a",
+      "score": 8
     },
     {
-      "title": " Barril de Brent sobe 4,41% e ultrapassa os 95 dólares em quase seis semanas ",
+      "title": " Epidemia por Ébola já matou 999 pessoas na RDCongo ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_ffe0ecdd0b090a",
-      "score": 9
-    },
-    {
-      "title": "Investimento português na ZEE atinge USD 330 milhões com foco na indústria e emprego jovem",
-      "url": "https://diariodosnegocios.com/investimento-portugues-na-zee-atinge-usd-330-milhoes-com-foco-na-industria-e-emprego-jovem/",
-      "source": "Diário dos Negócios",
-      "_key": "98ba31f93a7c9ce9",
+      "_key": "t_792e813480028b",
       "score": 7
     },
     {
-      "title": "Trafigura abandona projecto de exportação de excedente eléctrico de Angola para a RDC",
-      "url": "https://diariodosnegocios.com/trafigura-abandona-projecto-de-exportacao-de-excedente-electrico-de-angola-para-a-rdc/",
-      "source": "Diário dos Negócios",
-      "_key": "7bc2aa944e1c84a6",
-      "score": 7
-    },
-    {
-      "title": " Investimento português na ZEE atinge USD 330 milhões com foco na indústria e emprego jovem ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_f3ea89a7d2da22",
-      "score": 7
-    },
-    {
-      "title": " Trafigura abandona projecto de exportação de excedente eléctrico de Angola para a RDC ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7012a9a9fca319",
-      "score": 7
-    },
-    {
-      "title": "AIA defende incentivos fiscais e acesso ao crédito para fortalecer as PME",
-      "url": "https://jornaloguardiao.com/2026/07/22/aia-defende-incentivos-fiscais-e-acesso-ao-credito-para-fortalecer-as-pme/",
-      "source": "Jornal O Guardião",
-      "_key": "fec0e132c9241c8e",
-      "score": 7
-    },
-    {
-      "title": " AIA defende incentivos fiscais e acesso ao crédito para fortalecer as PME ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ce8c0039345b8b",
-      "score": 7
-    },
-    {
-      "title": "Destaque Comércio e Finanças marcam segundo dia da FILDA 2026As conferências dedicadas aos sectores do Comércio e das Finanças dominam, esta terça-feira, o segundo dia da 41.ª edição da Feira Internacional de Angola (FILDA), que decorre na Zona Económica Especial (ZEE), na província do Icolo e Bengo.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681487/com%C3%A9rcio-e-finan%C3%A7as-marcam-segundo-dia-da-filda-2026",
+      "title": "Destaque FILDA 2026: BNA quer incluir 65% dos adultos no sistema financeiro até 2027O Banco Nacional de Angola (BNA) informou, esta quarta-feira, que pretende integrar pelo menos 65% da população adulta no sistema financeiro formal até 2027.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681490/filda-2026:-bna-quer-incluir-65%25-dos-adultos-no-sistema-financeiro-at%C3%A9-2027",
       "source": "Jornal de Angola",
-      "_key": "b571688e979663ff",
+      "_key": "b7a2b83c289c628c",
       "score": 7
     },
     {
-      "title": "Economia Banco espanhol disponibiliza 30 milhões de euros para empresas angolanas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681418/banco-espanhol-disponibiliza-30-milh%C3%B5es--de-euros-para-empresas-angolanas",
+      "title": "Economia FILDA 2026: Volume de transacções da BODIVA ronda 4,7 mil milhões de kwanzas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681494/filda-2026:-volume-de-transac%C3%A7%C3%B5es-da-bodiva-ronda-47-mil-milh%C3%B5es-de-kwanzas",
       "source": "Jornal de Angola",
-      "_key": "2f580344010d48ef",
+      "_key": "1ef635e4e8d8cc8e",
       "score": 7
     },
     {
-      "title": "FILDA 2026 - Cimangola focuses on environmental innovation",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-cimangola-aposta-na-inovacao-ambiental/",
+      "title": "Ébola/RDC: Epidemia já matou mil pessoas na RDC - Rapidez...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-epidemia-ja-matou-mil-pessoas-na-rdc---rapidez-de-expansao-da-infeccao-leva-paises-vizinhos-a-apertar-controlo-nas-fronteiras-73440.html",
+      "source": "Novo Jornal",
+      "_key": "4980bae6f0d6ddbc",
+      "score": 7
+    },
+    {
+      "title": "MINJUSDH e Polícia Nacional promovem conferência sobre Segurança Pública e Direitos Humanos",
+      "url": "https://www.opais.ao/ultima_hora/minjusdh-e-policia-nacional-promovem-conferencia-sobre-seguranca-publica-e-direitos-humanos/",
+      "source": "O País",
+      "_key": "6606c76ef0cc686e",
+      "score": 7
+    },
+    {
+      "title": "Luanda hosts Angola Investment Summit on Tourism",
+      "url": "https://www.angop.ao/en/noticias/turismo/luanda-acolhe-cimeira-angola-investment-summit-sobre-turismo/",
       "source": "ANGOP",
-      "_key": "ba6a8232e44da336",
+      "_key": "90bcd259aaf1b84f",
       "score": 6
     },
     {
-      "title": "Ex-ministra Victória de Barros Neto condenada a três anos de prisão por peculato, com pena suspensa",
-      "url": "https://angola24horas.com/component/k2/item/34733-ex-ministra-victoria-de-barros-neto-condenada-a-tres-anos-de-prisao-por-peculato-com-pena-suspensa",
-      "source": "Angola 24 Horas",
-      "_key": "48e4c1ead27ebf47",
+      "title": "Angola strengthens National Waters Security",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-seguranca-nas-aguas-nacionais/",
+      "source": "ANGOP",
+      "_key": "f662fa47819b8296",
       "score": 6
     },
     {
-      "title": "Tribunal Supremo lê hoje acórdão do julgamento da ex-ministra Victória de Barros Neto",
-      "url": "https://angola24horas.com/sociedade/item/34732-tribunal-supremo-le-hoje-acordao-do-julgamento-da-ex-ministra-victoria-de-barros-neto",
-      "source": "Angola 24 Horas",
-      "_key": "117070ca2377f3d0",
-      "score": 6
-    },
-    {
-      "title": "Antiga ministra das Pescas arrisca-se a pena de 5 à 14 anos de prisão por desvio de 300 milhões de kz",
-      "url": "https://correiokianda.info/antiga-ministra-das-pescas-arrisca-se-a-pena-de-prisao-entre-5-a-14-anos-por-desvio-de-300-milhoes-de-kz/",
-      "source": "Correio Kianda",
-      "_key": "7511a2d3f612aed5",
-      "score": 6
-    },
-    {
-      "title": "Justiça angolana condena antiga ministra das Pescas a três anos de prisão com pena suspensa, mas obrigada a restituir 34 milhões kwanzas",
-      "url": "https://forbesafricalusofona.com/justica-angolana-condena-antiga-ministra-das-pescas-a-tres-anos-de-prisao-em-pena-suspensa/",
-      "source": "Forbes África",
-      "_key": "e8a540e909a9501f",
-      "score": 6
-    },
-    {
-      "title": "Ex-ministra das Pescas responde em tribunal por alegado crime de peculato",
-      "url": "https://jornaloguardiao.com/2026/07/22/ex-ministra-das-pescas-responde-em-tribunal-por-alegado-crime-de-peculato/",
-      "source": "Jornal O Guardião",
-      "_key": "5dbd981b90271628",
-      "score": 6
-    },
-    {
-      "title": " Ex-ministra das Pescas responde em tribunal por alegado crime de peculato ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_770d75ea7813a8",
-      "score": 6
-    },
-    {
-      "title": "Destaque Ex-ministra das Pescas condenada a três anos de prisão em pena suspensaVictória de Barros Neto, ex-ministra das Pescas e do Mar, foi condenada, hoje, a três anos de prisão pela prática do crime de peculato, no exercício das suas funções, entre 2012 e 2019.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681488/ex-ministra-das-pescas-condenada-a-tr%C3%AAs-anos-de-pris%C3%A3o-em-pena-suspensa",
+      "title": "Destaque Téte António em Nova Iorque para debate de alto nível do Conselho de Segurança da ONUO ministro das Relações Exteriores, Téte António, encontra-se, desde terça-feira, em Nova Iorque, Estados Unidos, para participar no debate aberto do Conselho de Segurança das Nações Unidas dedicado ao tema “Governança de Recursos Naturais: a Base da Paz, da Segurança e da Prosperidade”.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681491/t%C3%A9te-ant%C3%B3nio-em-nova-iorque-para-debate-de-alto-n%C3%ADvel-do-conselho-de-seguran%C3%A7a-da-onu",
       "source": "Jornal de Angola",
-      "_key": "7bd29742fb6c9aab",
+      "_key": "2f56f5951c78826f",
       "score": 6
     },
     {
-      "title": "Ex-ministra das Pescas e do Mar Victória de Barros...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ex-ministra-das-pescas-e-do-mar-victoria-de-barros-neto-condenada-a-tres-anos-de-prisao-com-pena-suspensa-73437.html",
-      "source": "Novo Jornal",
-      "_key": "adfac6b84a61c624",
+      "title": "Destaque Huíla promove turismo de aventura e procura investimentos na FILDAA província da Huíla participa na 41.ª edição da Feira Internacional de Luanda (FILDA) com o objectivo de promover o turismo de aventura e captar investimentos para o sector.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681492/hu%C3%ADla-promove-turismo-de-aventura-e-procura-investimentos-na-filda",
+      "source": "Jornal de Angola",
+      "_key": "990a51d3c18b8cc2",
       "score": 6
     },
     {
-      "title": "Pena suspensa: Ex-ministra das Pescas condenada a três anos de...",
-      "url": "https://valoreconomico.co.ao/artigo/pena-suspensa-ex-ministra-das-pescas-condenada-a-tres-anos-de-prisao-e-a-pagar-34-milhoes",
-      "source": "Valor Económico",
-      "_key": "fd57b8ad43ac8bde",
-      "score": 6
-    },
-    {
-      "title": "Tribunal de Luanda condena dois russos por espionagem e terrorismo a 11 e oito anos de prisão",
-      "url": "https://angola24horas.com/sociedade/item/34731-tribunal-de-luanda-condena-dois-russos-por-espionagem-e-terrorismo-a-11-e-oito-anos-de-prisao",
-      "source": "Angola 24 Horas",
-      "_key": "4f1c6e84fe54885a",
-      "score": 5
-    },
-    {
-      "title": "Tribunal de Luanda condena cidadãos russos a penas de prisão de 11 e oito anos",
-      "url": "https://jornaloguardiao.com/2026/07/22/tribunal-de-luanda-condena-cidadaos-russos-a-penas-de-prisao-de-11-e-oito-anos/",
-      "source": "Jornal O Guardião",
-      "_key": "438e5b23e363791f",
-      "score": 5
-    },
-    {
-      "title": " Tribunal de Luanda condena cidadãos russos a penas de prisão de 11 e oito anos ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_e6df9acb7357ac",
-      "score": 5
-    },
-    {
-      "title": "Lunda-Norte: Detidos dois jovens acusados de sequestrar...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/lunda-norte-detidos-dois-jovens-acusados-de-sequestrar-crianca-73436.html",
-      "source": "Novo Jornal",
-      "_key": "89ca6e2db21206f6",
-      "score": 5
-    },
-    {
-      "title": "Surto de Ébola mata mais de cem crianças na RDC",
-      "url": "https://www.opais.ao/sociedade/surto-de-ebola-mata-mais-de-cem-criancas-na-rdc/",
+      "title": "Presidente da República nomeia novos secretários de Estado do Ministério da Defesa Nacional",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-nomeia-novos-secretarios-de-estado-do-ministerio-da-defesa-nacional/",
       "source": "O País",
-      "_key": "4d5759215639a5dd",
+      "_key": "016e356b4ac971a9",
+      "score": 6
+    },
+    {
+      "title": "SIC Cabinda arrests 8 citizens accused of vandalizing vehicles",
+      "url": "https://www.angop.ao/en/noticias/sociedade/detidos-em-cabinda-oito-individuos-acusados-de-vandalizacao-de-viaturas/",
+      "source": "ANGOP",
+      "_key": "e32318466638e75e",
       "score": 5
     },
     {
-      "title": "Angola participa na reunião de alto nível das Nações Unidas em Nova Iorque",
-      "url": "https://www.opais.ao/politica/angola-participa-na-reuniao-de-alto-nivel-das-nacoes-unidas-em-nova-iorque/",
+      "title": "Destaque Presidente da Assembleia de Portugal em Luanda para XV AP-CPLPO presidente da Assembleia da República de Portugal, José Pedro Aguiar-Branco, chegou, esta quarta-feira, Luanda, para participar na XV Sessão Intercalar da Assembleia Parlamentar da Comunidade dos Países de Língua Portuguesa (AP-CPLP), que decorre na capital angolana até sexta-feira.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681493/presidente-da-assembleia-de-portugal-em-luanda-para-xv-ap-cplp",
+      "source": "Jornal de Angola",
+      "_key": "8a538ee1f4bf48cc",
+      "score": 5
+    },
+    {
+      "title": "Pré-cadastro para adesão ao Conecta Angola Premium + TVWS já disponível",
+      "url": "https://www.opais.ao/ultima_hora/pre-cadastro-para-adesao-ao-conecta-angola-premium-tvws-ja-disponivel/",
       "source": "O País",
-      "_key": "3722fb78dfb2e3dc",
+      "_key": "0b94380f3177d9ea",
       "score": 5
     }
   ]
