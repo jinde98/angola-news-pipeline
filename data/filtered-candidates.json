@@ -1,511 +1,189 @@
 {
   "date": "2026-07-22",
-  "total_new": 151,
-  "total_filtered": 72,
+  "total_new": 42,
+  "total_filtered": 26,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Corredor do Lobito é crucial para inverter empobrecimento de Angola – Banco Mundial",
-      "url": "https://angola24horas.com/sociedade/item/34726-corredor-do-lobito-e-crucial-para-inverter-empobrecimento-de-angola-banco-mundial",
+      "title": "Barril de Brent sobe 4,41% e ultrapassa os 95 dólares em quase seis semanas",
+      "url": "https://jornaloguardiao.com/2026/07/22/barril-de-brent-sobe-441-e-ultrapassa-os-95-dolares-em-quase-seis-semanas/",
+      "source": "Jornal O Guardião",
+      "_key": "969eb3fa6d480ca6",
+      "score": 9
+    },
+    {
+      "title": " Barril de Brent sobe 4,41% e ultrapassa os 95 dólares em quase seis semanas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_ffe0ecdd0b090a",
+      "score": 9
+    },
+    {
+      "title": "Investimento português na ZEE atinge USD 330 milhões com foco na indústria e emprego jovem",
+      "url": "https://diariodosnegocios.com/investimento-portugues-na-zee-atinge-usd-330-milhoes-com-foco-na-industria-e-emprego-jovem/",
+      "source": "Diário dos Negócios",
+      "_key": "98ba31f93a7c9ce9",
+      "score": 7
+    },
+    {
+      "title": "Trafigura abandona projecto de exportação de excedente eléctrico de Angola para a RDC",
+      "url": "https://diariodosnegocios.com/trafigura-abandona-projecto-de-exportacao-de-excedente-electrico-de-angola-para-a-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "7bc2aa944e1c84a6",
+      "score": 7
+    },
+    {
+      "title": " Investimento português na ZEE atinge USD 330 milhões com foco na indústria e emprego jovem ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_f3ea89a7d2da22",
+      "score": 7
+    },
+    {
+      "title": " Trafigura abandona projecto de exportação de excedente eléctrico de Angola para a RDC ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7012a9a9fca319",
+      "score": 7
+    },
+    {
+      "title": "AIA defende incentivos fiscais e acesso ao crédito para fortalecer as PME",
+      "url": "https://jornaloguardiao.com/2026/07/22/aia-defende-incentivos-fiscais-e-acesso-ao-credito-para-fortalecer-as-pme/",
+      "source": "Jornal O Guardião",
+      "_key": "fec0e132c9241c8e",
+      "score": 7
+    },
+    {
+      "title": " AIA defende incentivos fiscais e acesso ao crédito para fortalecer as PME ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_ce8c0039345b8b",
+      "score": 7
+    },
+    {
+      "title": "Destaque Comércio e Finanças marcam segundo dia da FILDA 2026As conferências dedicadas aos sectores do Comércio e das Finanças dominam, esta terça-feira, o segundo dia da 41.ª edição da Feira Internacional de Angola (FILDA), que decorre na Zona Económica Especial (ZEE), na província do Icolo e Bengo.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681487/com%C3%A9rcio-e-finan%C3%A7as-marcam-segundo-dia-da-filda-2026",
+      "source": "Jornal de Angola",
+      "_key": "b571688e979663ff",
+      "score": 7
+    },
+    {
+      "title": "Economia Banco espanhol disponibiliza 30 milhões de euros para empresas angolanas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681418/banco-espanhol-disponibiliza-30-milh%C3%B5es--de-euros-para-empresas-angolanas",
+      "source": "Jornal de Angola",
+      "_key": "2f580344010d48ef",
+      "score": 7
+    },
+    {
+      "title": "FILDA 2026 - Cimangola focuses on environmental innovation",
+      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-cimangola-aposta-na-inovacao-ambiental/",
+      "source": "ANGOP",
+      "_key": "ba6a8232e44da336",
+      "score": 6
+    },
+    {
+      "title": "Ex-ministra Victória de Barros Neto condenada a três anos de prisão por peculato, com pena suspensa",
+      "url": "https://angola24horas.com/component/k2/item/34733-ex-ministra-victoria-de-barros-neto-condenada-a-tres-anos-de-prisao-por-peculato-com-pena-suspensa",
       "source": "Angola 24 Horas",
-      "_key": "33469440849b4dda",
-      "score": 10
+      "_key": "48e4c1ead27ebf47",
+      "score": 6
     },
     {
-      "title": "Petróleo volta a subir e já negoceia acima dos 93 dólares",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-subir-e-ja-negoceia-acima-dos-93-dolares-73426.html",
-      "source": "Expansão",
-      "_key": "6aea12fc88278e23",
-      "score": 10
-    },
-    {
-      "title": "Porto do Lobito reafirma consolidação e reforça liderança no Corredor do Lobito na 41.ª edição da FILDA",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-reafirma-consolidacao-e-reforca-lideranca-no-corredor-do-lobito-na-41-a-edicao-da-filda/",
-      "source": "O País",
-      "_key": "7aa5ffc38a6d2bc2",
-      "score": 10
-    },
-    {
-      "title": "Petróleo: O barril volta a atacar os 100 USD usando...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-o-barril-volta-a-atacar-os-100-usd-usando-a-guerra-como-combustivel-73431.html",
-      "source": "Novo Jornal",
-      "_key": "37b97c26c2ade9df",
-      "score": 9
-    },
-    {
-      "title": "Porto do Lobito reforça compromisso com a modernização e inclusão durante a Cimeira da ICAO",
-      "url": "https://www.opais.ao/economia/porto-do-lobito-reforca-compromisso-com-a-modernizacao-e-inclusao-durante-a-cimeira-da-icao/",
-      "source": "O País",
-      "_key": "ebaaffe3bbf5c142",
-      "score": 9
-    },
-    {
-      "title": "Remessas para o estrangeiro superam os 292 milhões de dólares,...",
-      "url": "https://valoreconomico.co.ao/artigo/remessas-para-o-estrangeiro-superam-os-292-milhoes-de-dolares-enquanto-angolano-recebe-apenas-13-5-milhoes",
-      "source": "Valor Económico",
-      "_key": "53c90cdf0a62956b",
-      "score": 9
-    },
-    {
-      "title": "“O ambiente de negócios para investidores estrangeiros continua desfavorável”",
-      "url": "https://valoreconomico.co.ao/artigo/o-ambiente-de-negocios-para-investidores-estrangeiros-continua-desfavoravel",
-      "source": "Valor Económico",
-      "_key": "436d966626362f39",
-      "score": 9
-    },
-    {
-      "title": "BFA desce inflação média de Angola este ano para 10,2%",
-      "url": "https://angola24horas.com/economia/item/34730-bfa-desce-inflacao-media-de-angola-este-ano-para-10-2",
+      "title": "Tribunal Supremo lê hoje acórdão do julgamento da ex-ministra Victória de Barros Neto",
+      "url": "https://angola24horas.com/sociedade/item/34732-tribunal-supremo-le-hoje-acordao-do-julgamento-da-ex-ministra-victoria-de-barros-neto",
       "source": "Angola 24 Horas",
-      "_key": "355c45485a003ce3",
-      "score": 8
+      "_key": "117070ca2377f3d0",
+      "score": 6
     },
     {
-      "title": "Jetour Angola apresenta novos modelos e descontos especiais durante a FILDA 2026",
-      "url": "https://correiokianda.info/jetour-angola-apresenta-novos-modelos-e-descontos-especiais-durante-a-filda-2026/",
+      "title": "Antiga ministra das Pescas arrisca-se a pena de 5 à 14 anos de prisão por desvio de 300 milhões de kz",
+      "url": "https://correiokianda.info/antiga-ministra-das-pescas-arrisca-se-a-pena-de-prisao-entre-5-a-14-anos-por-desvio-de-300-milhoes-de-kz/",
       "source": "Correio Kianda",
-      "_key": "9582bbe4af0b3122",
-      "score": 8
+      "_key": "7511a2d3f612aed5",
+      "score": 6
     },
     {
-      "title": "O modelo chinês: a administração pública que Angola deve estudar (mas não copiar)",
-      "url": "https://correiokianda.info/o-modelo-chines-a-administracao-publica-que-angola-deve-estudar-mas-nao-copiar/",
-      "source": "Correio Kianda",
-      "_key": "6fb95a102010c585",
-      "score": 8
-    },
-    {
-      "title": "BNA abre inquérito a bancos que cobram 6 mil kwanzas pela renovação do Multicaixa",
-      "url": "https://diariodosnegocios.com/bna-abre-inquerito-a-bancos-que-cobram-6-mil-kwanzas-pela-renovacao-do-multicaixa/",
-      "source": "Diário dos Negócios",
-      "_key": "d658c8977cdc66f9",
-      "score": 8
-    },
-    {
-      "title": " BNA abre inquérito a bancos que cobram 6 mil kwanzas pela renovação do Multicaixa ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_52bb13c308a6ae",
-      "score": 8
-    },
-    {
-      "title": "Angola reforça industrialização com fábrica de vidro na Barra do Dande",
-      "url": "https://forbesafricalusofona.com/angola-reforca-industrializacao-com-fabrica-de-vidro-na-barra-do-dande/",
+      "title": "Justiça angolana condena antiga ministra das Pescas a três anos de prisão com pena suspensa, mas obrigada a restituir 34 milhões kwanzas",
+      "url": "https://forbesafricalusofona.com/justica-angolana-condena-antiga-ministra-das-pescas-a-tres-anos-de-prisao-em-pena-suspensa/",
       "source": "Forbes África",
-      "_key": "f17b14781be129c6",
-      "score": 8
+      "_key": "e8a540e909a9501f",
+      "score": 6
     },
     {
-      "title": "BFA desce inflação média deste ano para 10,2%",
-      "url": "https://jornaloguardiao.com/2026/07/21/bfa-desce-inflacao-media-deste-ano-para-102/",
+      "title": "Ex-ministra das Pescas responde em tribunal por alegado crime de peculato",
+      "url": "https://jornaloguardiao.com/2026/07/22/ex-ministra-das-pescas-responde-em-tribunal-por-alegado-crime-de-peculato/",
       "source": "Jornal O Guardião",
-      "_key": "eec471ec6055e58e",
-      "score": 8
+      "_key": "5dbd981b90271628",
+      "score": 6
     },
     {
-      "title": " BFA desce inflação média deste ano para 10,2% ",
+      "title": " Ex-ministra das Pescas responde em tribunal por alegado crime de peculato ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_79f70d6afb275e",
-      "score": 8
+      "_key": "t_770d75ea7813a8",
+      "score": 6
     },
     {
-      "title": "09:44 / 22 jul. 2026 Congresso discute modernização do sistema tributário angolano ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681431/congresso-discute-moderniza%C3%A7%C3%A3o-do-sistema-tribut%C3%A1rio-angolano",
+      "title": "Destaque Ex-ministra das Pescas condenada a três anos de prisão em pena suspensaVictória de Barros Neto, ex-ministra das Pescas e do Mar, foi condenada, hoje, a três anos de prisão pela prática do crime de peculato, no exercício das suas funções, entre 2012 e 2019.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681488/ex-ministra-das-pescas-condenada-a-tr%C3%AAs-anos-de-pris%C3%A3o-em-pena-suspensa",
       "source": "Jornal de Angola",
-      "_key": "5a46ee0889411413",
-      "score": 8
+      "_key": "7bd29742fb6c9aab",
+      "score": 6
     },
     {
-      "title": "08:59 / 22 jul. 2026 Angola está pronta para entrar no mercado livre continental ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681421/angola-est%C3%A1-pronta-para-entrar-no-mercado-livre-continental",
-      "source": "Jornal de Angola",
-      "_key": "133ecd76babf6cb1",
-      "score": 8
+      "title": "Ex-ministra das Pescas e do Mar Victória de Barros...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ex-ministra-das-pescas-e-do-mar-victoria-de-barros-neto-condenada-a-tres-anos-de-prisao-com-pena-suspensa-73437.html",
+      "source": "Novo Jornal",
+      "_key": "adfac6b84a61c624",
+      "score": 6
     },
     {
-      "title": "Businessman points to taxes, bureaucracy and poor infrastructure as obstacles to honey production",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10163",
-      "source": "Negócios de Angola",
-      "_key": "e9ff09d16251d0cc",
-      "score": 8
+      "title": "Pena suspensa: Ex-ministra das Pescas condenada a três anos de...",
+      "url": "https://valoreconomico.co.ao/artigo/pena-suspensa-ex-ministra-das-pescas-condenada-a-tres-anos-de-prisao-e-a-pagar-34-milhoes",
+      "source": "Valor Económico",
+      "_key": "fd57b8ad43ac8bde",
+      "score": 6
     },
     {
-      "title": "Angola Central Bank launches new digital platforms at FILDA 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/bna-lanca-novas-plataformas-digitais-na-filda-2026/",
-      "source": "ANGOP",
-      "_key": "1a922ec2edc498b2",
-      "score": 7
-    },
-    {
-      "title": "Portuguese investment in ZEE reaches USD 330 million",
-      "url": "https://www.angop.ao/en/noticias/economia/investimento-portugues-na-zee-atinge-usd-330-milhoes/",
-      "source": "ANGOP",
-      "_key": "860fa30604158f89",
-      "score": 7
-    },
-    {
-      "title": "FILDA2026 - MINIT mobilizes 700 personnel to ensure event's security",
-      "url": "https://www.angop.ao/en/noticias/economia/minint-mobiliza-700-efectivos-para-o-asseguramento-da-filda-2026/",
-      "source": "ANGOP",
-      "_key": "34a91d13e01c352e",
-      "score": 7
-    },
-    {
-      "title": "FILDA/2026: Arena Eventos deems business exchange as the largest investment platform",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-arena-eventos-considera-bolsa-de-negocios-como-maior-plataforma-de-investimento/",
-      "source": "ANGOP",
-      "_key": "4215e85e59716209",
-      "score": 7
-    },
-    {
-      "title": "Governor invites business leaders to invest in Lunda-Sul",
-      "url": "https://www.angop.ao/en/noticias/economia/governador-convida-empresarios-a-investirem-na-lunda-sul/",
-      "source": "ANGOP",
-      "_key": "396cb01b27f5c082",
-      "score": 7
-    },
-    {
-      "title": "Sector privado gerou 95% dos 774 mil empregos formais criados em Angola desde 2023",
-      "url": "https://angola24horas.com/sociedade/item/34727-sector-privado-gerou-95-dos-774-mil-empregos-formais-criados-em-angola-desde-2023",
+      "title": "Tribunal de Luanda condena dois russos por espionagem e terrorismo a 11 e oito anos de prisão",
+      "url": "https://angola24horas.com/sociedade/item/34731-tribunal-de-luanda-condena-dois-russos-por-espionagem-e-terrorismo-a-11-e-oito-anos-de-prisao",
       "source": "Angola 24 Horas",
-      "_key": "c36ebbc6d541fab8",
-      "score": 7
-    },
-    {
-      "title": "BDA lança oficialmente cinco novos produtos financeiros na FILDA 2026",
-      "url": "https://correiokianda.info/producao-alimentar-recebe-financiamento-de-150-mil-milhoes-de-kwanzas-do-bda/",
-      "source": "Correio Kianda",
-      "_key": "40c10503021da3ca",
-      "score": 7
-    },
-    {
-      "title": "Caimbambo regista restrições “graves de energia” devido escassez de combustível em Benguela",
-      "url": "https://correiokianda.info/caimbambo-regista-restricoes-graves-de-energia-devido-escassez-de-combustivel-em-benguela/",
-      "source": "Correio Kianda",
-      "_key": "33167e3b6303194c",
-      "score": 7
-    },
-    {
-      "title": "        África13 horas atrás  RDC quer identificar desafios e melhorar implementação do acordo com a China A República Democrática do Congo iniciou uma avaliação do acordo de cooperação firmado com a China, conhecido como “infra-estruturas contra minas”, com o objectivo de identificar...   ",
-      "url": "https://correiokianda.info/rdc-quer-identificar-desafios-e-melhorar-implementacao-do-acordo-com-a-china/",
-      "source": "Correio Kianda",
-      "_key": "dd5631e5602f5a05",
-      "score": 7
-    },
-    {
-      "title": "Sector primário garantiu 95% dos 774 mil novos empregos formais em Angola",
-      "url": "https://diariodosnegocios.com/sector-primario-garantiu-95-dos-774-mil-novos-empregos-formais-em-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "4834947e300ce932",
-      "score": 7
-    },
-    {
-      "title": " Sector primário garantiu 95% dos 774 mil novos empregos formais em Angola ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_8a18cbb75fb046",
-      "score": 7
-    },
-    {
-      "title": "Combate à corrupção perde força apesar das melhorias desde 2016",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d7a0401dc2ff95",
-      "score": 7
-    },
-    {
-      "title": "\"A banca não é uma alternativa. Pelo contrário, é a porta de entrada para o mercado de capitais\"A presidente da Comissão Executiva (PCE) da BODIVA, Cristina Lourenço, defendeu esta sexta-feira que a banca não deve ser encarada apenas como uma alternativa ao mercado de capitais, mas sim como a uma porta de entrada para este segmento do sistema financeiro angolano. Ao intervir no XVI Fórum Banca do Expansão, durante a apresentação subordinada ao tema \"A Participação da Banca no Mercado de Capitais",
-      "url": "https://expansao.co.ao/multimedia/detalhe/a-banca-nao-e-uma-alternativa-pelo-contrario-e-a-porta-de-entrada-para-o-mercado-de-capitais-73427.html",
-      "source": "Expansão",
-      "_key": "3966b13619e02096",
-      "score": 7
-    },
-    {
-      "title": "Governo angolano anuncia construção de centro de convenções e exposições",
-      "url": "https://forbesafricalusofona.com/governo-angolano-anuncia-construcao-de-centro-de-convencoes-e-exposicoes/",
-      "source": "Forbes África",
-      "_key": "d6b608152ccd3d73",
-      "score": 7
-    },
-    {
-      "title": "Sector privado gerou 95% dos 774 mil empregos formais criados em Angola desde 2023",
-      "url": "https://forbesafricalusofona.com/sector-privado-gerou-95-dos-774-mil-empregos-formais-criados-em-angola-desde-2023/",
-      "source": "Forbes África",
-      "_key": "a21784ae78f2aba4",
-      "score": 7
-    },
-    {
-      "title": "Presença de 2.384 expositores na FILDA mostra confiança na economia angolanaO Presidente da República, João Lourenço, destacou a Feira Internacional de Luanda (FILDA) como uma das mais importantes manifestações da vitalidade do sector privado angolano e da crescente capacidade do país para se afirmar como uma economia diversificada, competitiva e integrada no mercado global.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681420/presen%C3%A7a-de-2.384-expositores-na-filda-mostra-confian%C3%A7a-na-economia-angolana",
-      "source": "Jornal de Angola",
-      "_key": "8fef94b04469d914",
-      "score": 7
-    },
-    {
-      "title": "Sociedade Banco espanhol disponibiliza 30 milhões de euros para empresas angolanas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681418/banco-espanhol-disponibiliza-30-milh%C3%B5es--de-euros-para-empresas-angolanas",
-      "source": "Jornal de Angola",
-      "_key": "f5c4d04192736627",
-      "score": 7
-    },
-    {
-      "title": "09:42 / 22 jul. 2026 Investimento Directo Estrangeiro atinge USD 47,1 mil milhões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681430/investimento-directo-estrangeiro-atinge-usd-471-mil-milh%C3%B5es",
-      "source": "Jornal de Angola",
-      "_key": "c0a021a6f8d1bbcd",
-      "score": 7
-    },
-    {
-      "title": "09:11 / 22 jul. 2026 Icolo e Bengo flexibiliza processo de acesso à terra ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681424/icolo-e-bengo-flexibiliza-processo-de-acesso-%C3%A0-terra",
-      "source": "Jornal de Angola",
-      "_key": "28302daf884cec9a",
-      "score": 7
-    },
-    {
-      "title": "Governador da Huíla apela ao investimento na província durante a FILDA 2026",
-      "url": "https://www.opais.ao/ultima_hora/governador-da-huila-apela-ao-investimento-na-provincia-durante-a-filda-2026/",
-      "source": "O País",
-      "_key": "d239ebb82d0a1961",
-      "score": 7
-    },
-    {
-      "title": "Cedesa afirma que Angola vive um bloqueio político que ameaça...",
-      "url": "https://valoreconomico.co.ao/artigo/cedesa-afirma-que-angola-vive-um-bloqueio-politico-que-ameaca-a-estabilidade",
-      "source": "Valor Económico",
-      "_key": "28a4489d268853b7",
-      "score": 7
-    },
-    {
-      "title": "Russos acusados de terrorismo condenadosaté 11 anos",
-      "url": "https://valoreconomico.co.ao/artigo/russos-acusados-de-terrorismo-condenadosate-11-anos",
-      "source": "Valor Económico",
-      "_key": "6354a07503354e04",
-      "score": 7
-    },
-    {
-      "title": "Governo desafia empresas a conquistar mercados internacionais na abertura da...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-desafia-empresas-a-conquistar-mercados-internacionais-na-abertura-da-filda",
-      "source": "Valor Económico",
-      "_key": "64a2bff28d6d8c84",
-      "score": 7
-    },
-    {
-      "title": "FILDA promotes intra-African trade within the Free Trade Area",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-promove-comercio-intra-africano-na-zona-de-comercio-livre/",
-      "source": "ANGOP",
-      "_key": "8ac8143604eef81f",
-      "score": 6
-    },
-    {
-      "title": "President João Lourenço sends message of encouragement to FILDA 2026 exhibitors",
-      "url": "https://www.angop.ao/en/noticias/economia/joao-lourenco-envia-mensagem-de-incentivo-aos-expositores-da-filda-2026/",
-      "source": "ANGOP",
-      "_key": "c343e0292b114b68",
-      "score": 6
-    },
-    {
-      "title": "Former minister to learn of embezzlement case sentence on Wednesday",
-      "url": "https://www.angop.ao/en/noticias/politica/ex-ministra-das-pescas-e-do-mar-conhece-hoje-decisao-do-ts/",
-      "source": "ANGOP",
-      "_key": "b97ec8ddf3afd3be",
-      "score": 6
-    },
-    {
-      "title": "“Angola quer transformar crescimento económico em mais oportunidades para as famílias”, diz José Massano",
-      "url": "https://correiokianda.info/angola-quer-transformar-crescimento-economico-em-mais-oportunidades-para-as-familias-diz-jose-massano/",
-      "source": "Correio Kianda",
-      "_key": "8ab137c6587ef374",
-      "score": 6
-    },
-    {
-      "title": "Jovem de 26 anos encontrado morto por disparos no Eco Campo em Cacuaco",
-      "url": "https://correiokianda.info/jovem-de-26-anos-encontrado-morto-por-disparos-no-eco-campo-em-cacuaco/",
-      "source": "Correio Kianda",
-      "_key": "3148137b5dd3eb3c",
-      "score": 6
-    },
-    {
-      "title": "FILDA 2026: ENSA e Pumangol lançam solução integrada para protecção e abastecimento de frotas",
-      "url": "https://diariodosnegocios.com/filda-2026-ensa-e-pumangol-lancam-solucao-integrada-para-proteccao-e-abastecimento-de-frotas/",
-      "source": "Diário dos Negócios",
-      "_key": "38df8cb0d7375509",
-      "score": 6
-    },
-    {
-      "title": " FILDA 2026: ENSA e Pumangol lançam solução integrada para protecção e abastecimento de frotas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_08ae983d7112f7",
-      "score": 6
-    },
-    {
-      "title": "Desconhecimento trava expansão do seguro agrícola em Angola",
-      "url": "https://expansao.co.ao/angola/detalhe/desconhecimento-trava-expansao-do-seguro-agricola-em-angola-73355.html",
-      "source": "Expansão",
-      "_key": "d537d4f5741ecb4a",
-      "score": 6
-    },
-    {
-      "title": "“Aviação é estratégica para o crescimento económico e competitividade de Angola”, defende Ricardo D’Abreu",
-      "url": "https://forbesafricalusofona.com/aviacao-e-estrategica-para-o-crescimento-economico-e-competitividade-de-angola-defende-ricardo-dabreu/",
-      "source": "Forbes África",
-      "_key": "55fbe61162d1cfaf",
-      "score": 6
-    },
-    {
-      "title": "Destaque Presidente da República dirige mensagem de incentivo aos participantes da FILDAO Presidente da República, João Lourenço, dirigiu, hoje, uma mensagem de confiança e de incentivo aos participantes da 41.ª edição da Feira Internacional de Angola (FILDA).",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681416/presidente-da-rep%C3%BAblica-dirige-mensagem-de-incentivo-aos-participantes-da-filda",
-      "source": "Jornal de Angola",
-      "_key": "b06e73c95443cfe9",
-      "score": 6
-    },
-    {
-      "title": "Economia Reino Unido abre primeiro pavilhão na FILDA com presença do embaixador José Patrício ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681417/reino-unido-abre-primeiro-pavilh%C3%A3o-na-filda-com-presen%C3%A7a-do-embaixador-jos%C3%A9-patr%C3%ADcio-",
-      "source": "Jornal de Angola",
-      "_key": "8e406b44152cbcb9",
-      "score": 6
-    },
-    {
-      "title": "Economia BNA investiga cobranças na renovação do cartão multicaixa ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681415/bna-investiga-cobran%C3%A7as-na-renova%C3%A7%C3%A3o-do-cart%C3%A3o-multicaixa",
-      "source": "Jornal de Angola",
-      "_key": "8d35517bf39257b0",
-      "score": 6
-    },
-    {
-      "title": "BNA Investigates Charges for Multicaixa Card Renewal22/07/2026",
-      "url": "https://www.negociosdeangola.com/en/bna-investigates-charges-for-multicaixa-card-renewal/",
-      "source": "Negócios de Angola",
-      "_key": "6fc031a4fd7d4987",
-      "score": 6
-    },
-    {
-      "title": "Angola criou mais de 700 mil empregos formais desde Janeiro de 2023",
-      "url": "https://www.opais.ao/economia/angola-criou-mais-de-700-mil-empregos-formais-desde-janeiro-de-2023/",
-      "source": "O País",
-      "_key": "dab5fc5b8246c5d1",
-      "score": 6
-    },
-    {
-      "title": "RDC repatria 121 cidadãos devido à violência xenófoba na África do Sul",
-      "url": "https://www.opais.ao/mundo/rdc-repatria-121-cidadaos-devido-a-violencia-xenofoba-na-africa-do-sul/",
-      "source": "O País",
-      "_key": "bedc7e04c28f30ab",
-      "score": 6
-    },
-    {
-      "title": "Quatro em cada 10 dos angolanos continuarão na pobreza 2027",
-      "url": "https://valoreconomico.co.ao/artigo/quatro-em-cada-10-dos-angolanos-continuarao-na-pobreza-2027",
-      "source": "Valor Económico",
-      "_key": "c663109e62b29899",
-      "score": 6
-    },
-    {
-      "title": "Mel angolano chega ao mercado internacional com selo da Zâmbia",
-      "url": "https://valoreconomico.co.ao/artigo/mel-angolano-chega-ao-mercado-internacional-com-selo-da-zambia",
-      "source": "Valor Económico",
-      "_key": "3a25d2d52dab0e32",
-      "score": 6
-    },
-    {
-      "title": "Investimento dos bancos em títulos supera em mais de 1...",
-      "url": "https://valoreconomico.co.ao/artigo/investimento-dos-bancos-em-titulos-supera-em-mais-de-1-biliao-kz-o-credito-concedido",
-      "source": "Valor Económico",
-      "_key": "fa5767cb73b547ee",
-      "score": 6
-    },
-    {
-      "title": "Portugal highlights alignment to Angolan economy diversification",
-      "url": "https://www.angop.ao/en/noticias/economia/portugal-realca-alinhamento-a-diversificacao-da-economia-angolana/",
-      "source": "ANGOP",
-      "_key": "081fbe8c67683c83",
+      "_key": "4f1c6e84fe54885a",
       "score": 5
     },
     {
-      "title": "Brazilian Supreme Court President highlights strengthening cooperation with Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-do-stf-do-brasil-destaca-fortalecimento-da-cooperacao-com-angola/",
-      "source": "ANGOP",
-      "_key": "32b53a2b432a4556",
-      "score": 5
-    },
-    {
-      "title": "Estados Unidos e China retomam diálogo durante encontro ministerial da ASEAN",
-      "url": "https://correiokianda.info/estados-unidos-e-china-retomam-dialogo-durante-encontro-ministerial-da-asean/",
-      "source": "Correio Kianda",
-      "_key": "37da6aca10b6d098",
-      "score": 5
-    },
-    {
-      "title": "        África3 horas atrás  Casos de Ébola na RDC sobem para 967 mortos O número de mortes provocadas pelo surto de Ébola na República Democrática do Congo (RDC) subiu para 967, segundo o mais recente boletim epidemiológico divulgado esta...   ",
-      "url": "https://correiokianda.info/casos-de-ebola-na-rdc-sobem-para-967-mortos/",
-      "source": "Correio Kianda",
-      "_key": "0c8e9c4a696080bd",
-      "score": 5
-    },
-    {
-      "title": "Pelo menos 189 crianças morreram no surto de ébola na República Democrática do Congo",
-      "url": "https://jornaloguardiao.com/2026/07/22/pelo-menos-189-criancas-morreram-no-surto-de-ebola-na-republica-democratica-do-congo/",
+      "title": "Tribunal de Luanda condena cidadãos russos a penas de prisão de 11 e oito anos",
+      "url": "https://jornaloguardiao.com/2026/07/22/tribunal-de-luanda-condena-cidadaos-russos-a-penas-de-prisao-de-11-e-oito-anos/",
       "source": "Jornal O Guardião",
-      "_key": "1758baeaf7ea0745",
+      "_key": "438e5b23e363791f",
       "score": 5
     },
     {
-      "title": "Angola e Brasil têm responsabilidade comum de construir instituições plurais — Supremo Tribunal Federal",
-      "url": "https://jornaloguardiao.com/2026/07/22/angola-e-brasil-tem-responsabilidade-comum-de-construir-instituicoes-plurais-supremo-tribunal-federal/",
-      "source": "Jornal O Guardião",
-      "_key": "12208fd9a894b42a",
-      "score": 5
-    },
-    {
-      "title": " Pelo menos 189 crianças morreram no surto de ébola na República Democrática do Congo ",
+      "title": " Tribunal de Luanda condena cidadãos russos a penas de prisão de 11 e oito anos ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_1a1ef4be802650",
+      "_key": "t_e6df9acb7357ac",
       "score": 5
     },
     {
-      "title": " Angola e Brasil têm responsabilidade comum de construir instituições plurais — Supremo Tribunal Federal ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_563b44e486379d",
-      "score": 5
-    },
-    {
-      "title": "Economia Banco Sol eleva resultado líquido para 12,3 mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681413/banco-sol-eleva-resultado-l%C3%ADquido-para-123-mil-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "9cefcc657f609221",
-      "score": 5
-    },
-    {
-      "title": "Supremo dita hoje acórdão do julgamento da ex-ministra...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/supremo-dita-hoje-acordao-do-julgamento-da-ex-ministra-das-pescas-victoria-de-barros-neto-73428.html",
+      "title": "Lunda-Norte: Detidos dois jovens acusados de sequestrar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/lunda-norte-detidos-dois-jovens-acusados-de-sequestrar-crianca-73436.html",
       "source": "Novo Jornal",
-      "_key": "4e09d08fa03e6694",
+      "_key": "89ca6e2db21206f6",
       "score": 5
     },
     {
-      "title": "Caso russos: Tribunal condena dupla russa a penas entre...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/caso-russos-tribunal-condena-dupla-russa-a-penas-entre-8-e-11-anos-de-prisao-amor-tome-recebe-dois-anos-com-pena-suspensa-e-buka-tanda-e-absolvido-73419.html",
-      "source": "Novo Jornal",
-      "_key": "df7eb2d3a4fe39d3",
-      "score": 5
-    },
-    {
-      "title": "Detidos cinco dos 17 suspeitos de agressão física a dois indivíduos no Morro Bento",
-      "url": "https://www.opais.ao/ultima_hora/detidos-cinco-dos-17-suspeitos-de-agressao-fisica-a-dois-individuos-no-morro-bento/",
+      "title": "Surto de Ébola mata mais de cem crianças na RDC",
+      "url": "https://www.opais.ao/sociedade/surto-de-ebola-mata-mais-de-cem-criancas-na-rdc/",
       "source": "O País",
-      "_key": "d90a1b224553fa2d",
+      "_key": "4d5759215639a5dd",
       "score": 5
     },
     {
-      "title": "filda2026",
-      "url": "https://www.opais.ao/categoria/filda2026/",
+      "title": "Angola participa na reunião de alto nível das Nações Unidas em Nova Iorque",
+      "url": "https://www.opais.ao/politica/angola-participa-na-reuniao-de-alto-nivel-das-nacoes-unidas-em-nova-iorque/",
       "source": "O País",
-      "_key": "ea45639c95c9a466",
+      "_key": "3722fb78dfb2e3dc",
       "score": 5
     }
   ]
