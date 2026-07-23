@@ -1,105 +1,385 @@
 {
-  "date": "2026-07-22",
-  "total_new": 27,
-  "total_filtered": 14,
+  "date": "2026-07-23",
+  "total_new": 141,
+  "total_filtered": 54,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BDA lança cinco novos produtos financeiros na FILDA 2026",
-      "url": "https://www.opais.ao/economia/bda-lanca-cinco-novos-produtos-financeiros-na-filda-2026/",
+      "title": "Petróleo continua a subir e já negoceia nos 97 dólares",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-continua-a-subir-e-ja-negoceia-nos-97-dolares-73456.html",
+      "source": "Expansão",
+      "_key": "9be6a06532c6af66",
+      "score": 10
+    },
+    {
+      "title": "Destaque BNA apresenta balanço e perspectivas da política monetária e cambial na FILDAO Banco Nacional de Angola (BNA) realiza, esta quinta-feira, na 41.ª edição da Feira Internacional de Angola (FILDA), uma sessão de apresentação do Balanço e das Perspectivas da Política Monetária e Cambial, referente ao primeiro semestre de 2026.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681499/bna-apresenta-balan%C3%A7o-e-perspectivas-da-pol%C3%ADtica-monet%C3%A1ria-e-cambial-na-filda",
+      "source": "Jornal de Angola",
+      "_key": "d334778d1860457a",
+      "score": 10
+    },
+    {
+      "title": "Banco ATLANTICO lança na FILDA o primeiro cartão de débito em kwanzas para uso internacional",
+      "url": "https://diariodosnegocios.com/banco-atlantico-lanca-na-filda-o-primeiro-cartao-de-debito-em-kwanzas-para-uso-internacional/",
+      "source": "Diário dos Negócios",
+      "_key": "451e7e1dcae11144",
+      "score": 9
+    },
+    {
+      "title": " Banco ATLANTICO lança na FILDA o primeiro cartão de débito em kwanzas para uso internacional ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_98e016b01c7dee",
+      "score": 9
+    },
+    {
+      "title": " Barra do Dande: Acordo de 900 Milhões de Dólares vai Modernizar Terminal Portuário ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_667e9f4ef21b03",
+      "score": 9
+    },
+    {
+      "title": "Petróleo: Barril sobe há cinco dias sem parar e atinge...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-sobe-ha-cinco-dias-sem-parar-e-atinge-valor-maximo-de-dois-meses-tensoes-crescentes-no-medio-oriente-deixam-a-vista-fasquia-dos-100-usd-73446.html",
+      "source": "Novo Jornal",
+      "_key": "71694b0c98a6ffcc",
+      "score": 9
+    },
+    {
+      "title": "Câmara de Comércio quer aproximar investidores dos sectores do petróleo, gás e mineração",
+      "url": "https://www.opais.ao/economia/camara-de-comercio-quer-aproximar-investidores-dos-sectores-do-petroleo-gas-e-mineracao/",
       "source": "O País",
-      "_key": "3c23de0636de034a",
+      "_key": "4a50111f49ea1b55",
+      "score": 9
+    },
+    {
+      "title": "Porto do Lobito participa na Conferência Africana sobre Economia Azul",
+      "url": "https://www.opais.ao/economia/porto-do-lobito-participa-na-conferencia-africana-sobre-economia-azul/",
+      "source": "O País",
+      "_key": "937e2e043103a1d6",
+      "score": 9
+    },
+    {
+      "title": "Investimento Directo Estrangeiro em Angola ultrapassa 47 mil milhões de dólares",
+      "url": "https://www.opais.ao/economia/investimento-directo-estrangeiro-em-angola-ultrapassa-47-mil-milhoes-de-dolares/",
+      "source": "O País",
+      "_key": "f63a496c23b80c4d",
+      "score": 9
+    },
+    {
+      "title": "O EXPLICADOR FISCAL: Imposto predial - Dação em cumprimento",
+      "url": "https://expansao.co.ao/gestao/detalhe/o-explicador-fiscal-imposto-predial---dacao-em-cumprimento-73352.html",
+      "source": "Expansão",
+      "_key": "c9fd3f5473e2564c",
       "score": 8
     },
     {
-      "title": " Epidemia por Ébola já matou 999 pessoas na RDCongo ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_792e813480028b",
-      "score": 7
-    },
-    {
-      "title": "Destaque FILDA 2026: BNA quer incluir 65% dos adultos no sistema financeiro até 2027O Banco Nacional de Angola (BNA) informou, esta quarta-feira, que pretende integrar pelo menos 65% da população adulta no sistema financeiro formal até 2027.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681490/filda-2026:-bna-quer-incluir-65%25-dos-adultos-no-sistema-financeiro-at%C3%A9-2027",
+      "title": "Destaque Comissão Económica do Conselho de Ministros reunidaA Comissão Económica do Conselho de Ministros está, neste momento, reunida, na Cidade Alta, na sua 2° Sessão Ordinária, sob orientação do Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681582/comiss%C3%A3o-econ%C3%B3mica-do-conselho-de-ministros-reunida",
       "source": "Jornal de Angola",
-      "_key": "b7a2b83c289c628c",
-      "score": 7
+      "_key": "87e8e5b3b347840e",
+      "score": 8
     },
     {
-      "title": "Economia FILDA 2026: Volume de transacções da BODIVA ronda 4,7 mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681494/filda-2026:-volume-de-transac%C3%A7%C3%B5es-da-bodiva-ronda-47-mil-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "1ef635e4e8d8cc8e",
-      "score": 7
-    },
-    {
-      "title": "Ébola/RDC: Epidemia já matou mil pessoas na RDC - Rapidez...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-epidemia-ja-matou-mil-pessoas-na-rdc---rapidez-de-expansao-da-infeccao-leva-paises-vizinhos-a-apertar-controlo-nas-fronteiras-73440.html",
+      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS. Sabemos que o acesso ao crédito tradicional não tem sido fácil. Por isso, hoje trazemos alternativas reais. Já ouviu falar do Leasing ou do Factoring? Sabe como a banca nacional pode ajudar as pequenas e médias empresas através destas soluções financeiras? Acompanhe.",
+      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=73441",
       "source": "Novo Jornal",
-      "_key": "4980bae6f0d6ddbc",
+      "_key": "1d2caeea35834f14",
+      "score": 8
+    },
+    {
+      "title": "Porto do Soyo apresenta-se na FILDA com crescimento operacional e contributo para a economia nacional",
+      "url": "https://www.opais.ao/economia/porto-do-soyo-apresenta-se-na-filda-com-crescimento-operacional-e-contributo-para-a-economia-nacional/",
+      "source": "O País",
+      "_key": "4fef9d6789d6dad0",
+      "score": 8
+    },
+    {
+      "title": "Angola aposta na economia azul como motor de crescimento económico",
+      "url": "https://www.opais.ao/economia/angola-aposta-na-economia-azul-como-motor-de-crescimento-economico/",
+      "source": "O País",
+      "_key": "d5f563e9a4107dce",
+      "score": 8
+    },
+    {
+      "title": "Angola persiste entre os países africanos com inflação e...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-persiste-entre-os-paises-africanos-com-inflacao-e-taxas-de-juro-mais-elevadas",
+      "source": "Valor Económico",
+      "_key": "bb2bde69f8c59019",
+      "score": 8
+    },
+    {
+      "title": "National industrialization takes center stage on day three of FILDA 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/industrializacao-nacional-domina-terceiro-dia-da-filda-2026/",
+      "source": "ANGOP",
+      "_key": "b2da5b3a153df29c",
       "score": 7
     },
     {
-      "title": "MINJUSDH e Polícia Nacional promovem conferência sobre Segurança Pública e Direitos Humanos",
-      "url": "https://www.opais.ao/ultima_hora/minjusdh-e-policia-nacional-promovem-conferencia-sobre-seguranca-publica-e-direitos-humanos/",
-      "source": "O País",
-      "_key": "6606c76ef0cc686e",
+      "title": "Moradores do Kilamba Kiaxi e Belas pedem reforço da segurança devido ao aumento de assaltos",
+      "url": "https://correiokianda.info/moradores-do-kilamba-kiaxi-e-belas-pedem-reforco-da-seguranca-devido-ao-aumento-de-assaltos/",
+      "source": "Correio Kianda",
+      "_key": "1271a9be49caac61",
       "score": 7
     },
     {
-      "title": "Luanda hosts Angola Investment Summit on Tourism",
-      "url": "https://www.angop.ao/en/noticias/turismo/luanda-acolhe-cimeira-angola-investment-summit-sobre-turismo/",
-      "source": "ANGOP",
-      "_key": "90bcd259aaf1b84f",
-      "score": 6
+      "title": "Tribunal Supremo condena ex-ministra das Pescas a três anos de prisão com pena suspensa e ordena restituição de 34 milhões de kwanzas ao Estado",
+      "url": "https://diariodosnegocios.com/tribunal-supremo-condena-ex-ministra-das-pescas-a-tres-anos-de-prisao-com-pena-suspensa-e-ordena-restituicao-de-34-milhoes-de-kwanzas-ao-estado/",
+      "source": "Diário dos Negócios",
+      "_key": "77d343b9ae3e3adf",
+      "score": 7
     },
     {
-      "title": "Angola strengthens National Waters Security",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-seguranca-nas-aguas-nacionais/",
-      "source": "ANGOP",
-      "_key": "f662fa47819b8296",
-      "score": 6
+      "title": " Tribunal Supremo condena ex-ministra das Pescas a três anos de prisão com pena suspensa e ordena restituição de 34 milhões de kwanzas ao Estado ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_e367d8b465f536",
+      "score": 7
     },
     {
-      "title": "Destaque Téte António em Nova Iorque para debate de alto nível do Conselho de Segurança da ONUO ministro das Relações Exteriores, Téte António, encontra-se, desde terça-feira, em Nova Iorque, Estados Unidos, para participar no debate aberto do Conselho de Segurança das Nações Unidas dedicado ao tema “Governança de Recursos Naturais: a Base da Paz, da Segurança e da Prosperidade”.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681491/t%C3%A9te-ant%C3%B3nio-em-nova-iorque-para-debate-de-alto-n%C3%ADvel-do-conselho-de-seguran%C3%A7a-da-onu",
+      "title": "FILDA arranca hoje com mais de dois mil expositores de 22 países",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_d9b5579d1dc5fa",
+      "score": 7
+    },
+    {
+      "title": "Dubai Chambers abre escritório em Luanda para acelerar comércio e investimento",
+      "url": "https://forbesafricalusofona.com/dubai-chambers-abre-escritorio-em-luanda-para-acelerar-comercio-e-investimento/",
+      "source": "Forbes África",
+      "_key": "41d656bbdd537a9c",
+      "score": 7
+    },
+    {
+      "title": "Reino Unido anuncia dois mil milhões de libras para apoiar sectores estratégicosO Reino Unido destacou na Feira Internacional de Luanda (FILDA) 2026 uma carteira de investimentos e financiamentos avaliada em quase dois mil milhões de libras. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681500/reino-unido-anuncia-dois-mil-milh%C3%B5es--de-libras-para-apoiar-sectores-estrat%C3%A9gicos",
       "source": "Jornal de Angola",
-      "_key": "2f56f5951c78826f",
-      "score": 6
+      "_key": "28bd5930aa3cf9e1",
+      "score": 7
     },
     {
-      "title": "Destaque Huíla promove turismo de aventura e procura investimentos na FILDAA província da Huíla participa na 41.ª edição da Feira Internacional de Luanda (FILDA) com o objectivo de promover o turismo de aventura e captar investimentos para o sector.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681492/hu%C3%ADla-promove-turismo-de-aventura-e-procura-investimentos-na-filda",
+      "title": "Política Ex-ministra das Pescas condenada a três anos de prisão com pena suspensa ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681518/ex-ministra--das-pescas-condenada-a-tr%C3%AAs-anos-de-pris%C3%A3o-com-pena-suspensa",
       "source": "Jornal de Angola",
-      "_key": "990a51d3c18b8cc2",
-      "score": 6
+      "_key": "dff33fcb73f12020",
+      "score": 7
     },
     {
-      "title": "Presidente da República nomeia novos secretários de Estado do Ministério da Defesa Nacional",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-nomeia-novos-secretarios-de-estado-do-ministerio-da-defesa-nacional/",
+      "title": "Economia Huíla aproveita FILDA para atrair investimento e reforçar ligação ao mundo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681497/hu%C3%ADla-aproveita-filda-para-atrair-investimento-e-refor%C3%A7ar-liga%C3%A7%C3%A3o-ao-mundo",
+      "source": "Jornal de Angola",
+      "_key": "3b69111d389f49a2",
+      "score": 7
+    },
+    {
+      "title": "FILDA 2026: A diversificação económica ganha palco e confiança",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/681555/filda-2026:-a-diversifica%C3%A7%C3%A3o-econ%C3%B3mica-ganha-palco-e-confian%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "06c659bf2d3f8be7",
+      "score": 7
+    },
+    {
+      "title": "Ex-ministra das Pescas condenada a três anos de prisão por defraudar 300 milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/ex-ministra-das-pescas-condenada-a-tres-anos-de-prisao-por-defraudar-300-milhoes-de-kwanzas/",
       "source": "O País",
-      "_key": "016e356b4ac971a9",
+      "_key": "fdbea73feda3e3bf",
+      "score": 7
+    },
+    {
+      "title": "Luanda Railway train derails on Malanje/Lucala line section",
+      "url": "https://www.angop.ao/en/noticias/transporte/comboio-do-cfl-descarrila-no-troco-malanje-lucala/",
+      "source": "ANGOP",
+      "_key": "6518f76ee8f0c03f",
       "score": 6
     },
     {
-      "title": "SIC Cabinda arrests 8 citizens accused of vandalizing vehicles",
-      "url": "https://www.angop.ao/en/noticias/sociedade/detidos-em-cabinda-oito-individuos-acusados-de-vandalizacao-de-viaturas/",
+      "title": "João Lourenço exige competência e patriotismo aos novos quadros do Executivo",
+      "url": "https://diariodosnegocios.com/joao-lourenco-exige-competencia-e-patriotismo-aos-novos-quadros-do-executivo/",
+      "source": "Diário dos Negócios",
+      "_key": "437ee90e02595a34",
+      "score": 6
+    },
+    {
+      "title": " João Lourenço exige competência e patriotismo aos novos quadros do Executivo ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_7f421bd5024172",
+      "score": 6
+    },
+    {
+      "title": "Destaque Comboio de mercadorias descarrila no Cuanza-Norte sem causar vítimas Um comboio de transporte de mercadorias descarrilou, na quarta-feira, no troço entre as estações de Quinzenza, na província de Malanje, e do Luacala, no Cuanza-Norte, sem provocar vítimas humanas, informou o Caminho de Ferro de Luanda (CFL), em comunicado.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681567/comboio-de-mercadorias-descarrila-no-cuanza-norte-sem-causar-v%C3%ADtimas",
+      "source": "Jornal de Angola",
+      "_key": "e28356e40af09398",
+      "score": 6
+    },
+    {
+      "title": "Destaque João Lourenço confere posse a novos secretários de Estado e ao embaixador no SenegalO Chefe de Estado, João Lourenço, conferiu, esta quinta-feira, no Palácio Presidencial da Cidade Alta, em Luanda, posse aos novos secretários de Estado do Ministério da Defesa Nacional, Antigos Combatentes e Veteranos da Pátria, e ao novo embaixador de Angola no Senegal, recentemente nomeados.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681578/jo%C3%A3o-louren%C3%A7o-confere-posse-a-novos-secret%C3%A1rios-de-estado-e-ao-embaixador-no-senegal",
+      "source": "Jornal de Angola",
+      "_key": "57746acc3b664f58",
+      "score": 6
+    },
+    {
+      "title": "Sociedade Deputados preocupados com o atraso das obras ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681537/deputados-preocupados-com-o-atraso-das-obras-",
+      "source": "Jornal de Angola",
+      "_key": "34f092350fb44fb9",
+      "score": 6
+    },
+    {
+      "title": "Regiões Forças Navais apreendem 23 embarcações no Soyo ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681531/for%C3%A7as-navais-apreendem--23-embarca%C3%A7%C3%B5es-no-soyo-",
+      "source": "Jornal de Angola",
+      "_key": "eb608979474aa4e9",
+      "score": 6
+    },
+    {
+      "title": "Política Angola defende gestão responsável dos recursos naturais ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681515/angola-defende-gest%C3%A3o-respons%C3%A1vel-dos-recursos-naturais",
+      "source": "Jornal de Angola",
+      "_key": "00c5f89b9a8b2b65",
+      "score": 6
+    },
+    {
+      "title": "09:19 / 23 jul. 2026 Espanha abre crédito de 30 milhões de euros ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681552/espanha-abre-cr%C3%A9dito-de-30-milh%C3%B5es-de-euros",
+      "source": "Jornal de Angola",
+      "_key": "4c8a5af30d4cc6b6",
+      "score": 6
+    },
+    {
+      "title": "Comboio de mercadorias descarrila entre Malanje e Cuanza-Norte sem vítimas",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/comboio-de-mercadorias-descarrila-entre-malanje-e-cuanza-norte-sem-vitimas-73447.html",
+      "source": "Novo Jornal",
+      "_key": "eaf4c5e864cdbba2",
+      "score": 6
+    },
+    {
+      "title": "Tribunal de Luanda condena dois cidadãos russos acusados de terrorismo",
+      "url": "https://www.opais.ao/ultima_hora/tribunal-de-luanda-condena-dois-cidadaos-russos-acusados-de-terrorismo/",
+      "source": "O País",
+      "_key": "ad16d03a829f1ea1",
+      "score": 6
+    },
+    {
+      "title": "President João Lourenço appoints new provincial police commander for Cuanza-Sul",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-nomeia-novo-comandante-provincial-da-policia-no-cuanza-sul/",
       "source": "ANGOP",
-      "_key": "e32318466638e75e",
+      "_key": "ed35181ac3a5e2f5",
       "score": 5
     },
     {
-      "title": "Destaque Presidente da Assembleia de Portugal em Luanda para XV AP-CPLPO presidente da Assembleia da República de Portugal, José Pedro Aguiar-Branco, chegou, esta quarta-feira, Luanda, para participar na XV Sessão Intercalar da Assembleia Parlamentar da Comunidade dos Países de Língua Portuguesa (AP-CPLP), que decorre na capital angolana até sexta-feira.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681493/presidente-da-assembleia-de-portugal-em-luanda-para-xv-ap-cplp",
-      "source": "Jornal de Angola",
-      "_key": "8a538ee1f4bf48cc",
+      "title": "AfCFTA forecasts USD 230 billion in trade transactions by 2027",
+      "url": "https://www.angop.ao/en/noticias/economia/zclca-preve-transaccoes-de-usd-230-mil-milhoes-em-2027/",
+      "source": "ANGOP",
+      "_key": "e096b5d2d3a2ba06",
       "score": 5
     },
     {
-      "title": "Pré-cadastro para adesão ao Conecta Angola Premium + TVWS já disponível",
-      "url": "https://www.opais.ao/ultima_hora/pre-cadastro-para-adesao-ao-conecta-angola-premium-tvws-ja-disponivel/",
+      "title": "National Bank seeks private sector participation in financial inclusion",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-quer-participacao-do-sector-privado-na-inclusao-financeira/",
+      "source": "ANGOP",
+      "_key": "abcf836827373f4a",
+      "score": 5
+    },
+    {
+      "title": "FAO warns about pests impairing Angola’s agricultural production",
+      "url": "https://www.angop.ao/en/noticias/agricultura/fao-alerta-sobre-pragas-que-comprometem-producao-agricola-em-angola/",
+      "source": "ANGOP",
+      "_key": "98e1fb8b47e60111",
+      "score": 5
+    },
+    {
+      "title": "Angola leva agenda de conectividade e segurança digital à União Africana das Telecomunicações",
+      "url": "https://correiokianda.info/angola-leva-agenda-de-conectividade-e-seguranca-digital-a-uniao-africana-das-telecomunicacoes/",
+      "source": "Correio Kianda",
+      "_key": "6c144ed18c61b1e6",
+      "score": 5
+    },
+    {
+      "title": "Gabriel Tito João ascende a Comissário e passa a comandar a Polícia Nacional no Cuanza Sul",
+      "url": "https://correiokianda.info/gabriel-tito-joao-ascende-a-comissario-e-passa-a-comandar-a-policia-nacional-no-cuanza-sul/",
+      "source": "Correio Kianda",
+      "_key": "2282d80bdd416a04",
+      "score": 5
+    },
+    {
+      "title": "Cabinda volta a diagnosticar 35 casos suspeitos de varíola dos macacos e põe autoridades sob alerta",
+      "url": "https://correiokianda.info/cabinda-volta-a-diagnosticar-35-casos-suspeitos-de-variola-dos-macacos/",
+      "source": "Correio Kianda",
+      "_key": "cf1e1be6800dda89",
+      "score": 5
+    },
+    {
+      "title": "Cuanza Sul: Gabriel Tito João é o novo Comandante Provincial da Polícia e Angola define equipa para a Expo Belgrado 2027",
+      "url": "https://diariodosnegocios.com/cuanza-sul-gabriel-tito-joao-e-o-novo-comandante-provincial-da-policia-e-angola-define-equipa-para-a-expo-belgrado-2027/",
+      "source": "Diário dos Negócios",
+      "_key": "93a2704cf375ad99",
+      "score": 5
+    },
+    {
+      "title": "Barra do Dande: Acordo de 900 Milhões de Dólares vai Modernizar Terminal Portuário",
+      "url": "https://diariodosnegocios.com/barra-do-dande-acordo-de-900-milhoes-de-dolares-vai-modernizar-terminal-portuario/",
+      "source": "Diário dos Negócios",
+      "_key": "a94c1fb97955c298",
+      "score": 5
+    },
+    {
+      "title": " Cuanza Sul: Gabriel Tito João é o novo Comandante Provincial da Polícia e Angola define equipa para a Expo Belgrado 2027 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_21ae08739a547b",
+      "score": 5
+    },
+    {
+      "title": "Desconhecimento trava expansão do seguro agrícola em Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8a9bd27adb4fe9",
+      "score": 5
+    },
+    {
+      "title": "Visit Angola leva à FILDA estratégia para captar investimento e posicionar turismo nacional",
+      "url": "https://forbesafricalusofona.com/visit-angola-leva-a-filda-estrategia-para-captar-investimento-e-posicionar-turismo-nacional/",
+      "source": "Forbes África",
+      "_key": "cd44d5f9b69ba41d",
+      "score": 5
+    },
+    {
+      "title": "Regiões Cuanza-Sul tem novo comandante da Polícia ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681559/cuanza-sul-tem-novo-comandante-da-pol%C3%ADcia",
+      "source": "Jornal de Angola",
+      "_key": "7666cd0e2b5d6c78",
+      "score": 5
+    },
+    {
+      "title": "Sociedade Cabinda identifica mais 31 novos casos positivos da Mpox ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681541/cabinda-identifica-mais-31-novos--casos-positivos-da-mpox",
+      "source": "Jornal de Angola",
+      "_key": "cc56a484127bef52",
+      "score": 5
+    },
+    {
+      "title": "Última hora Chefe de Estado nomeia novo comandante da Polícia no Cuanza-Sul e comissárias para Expo Belgrado 2027",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681498/chefe-de-estado-nomeia-novo-comandante-da-pol%C3%ADcia-no-cuanza-sul-e-comiss%C3%A1rias-para-expo-belgrado-2027",
+      "source": "Jornal de Angola",
+      "_key": "f5f1f56a986651e0",
+      "score": 5
+    },
+    {
+      "title": "Angola marca presença no debate do Conselho de Segurança da ONU",
+      "url": "https://www.opais.ao/politica/angola-marca-presenca-no-debate-do-conselho-de-seguranca-da-onu/",
       "source": "O País",
-      "_key": "0b94380f3177d9ea",
+      "_key": "adc580465ee1d626",
+      "score": 5
+    },
+    {
+      "title": "PR nomeia novo comandante provincial da Polícia Nacional no Cuanza Sul",
+      "url": "https://www.opais.ao/ultima_hora/pr-nomeia-novo-comandante-provincial-da-policia-nacional-no-cuanza-sul/",
+      "source": "O País",
+      "_key": "faf79492ffaf5862",
       "score": 5
     }
   ]
