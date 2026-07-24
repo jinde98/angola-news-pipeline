@@ -1,208 +1,128 @@
 {
   "date": "2026-07-24",
-  "total_new": 49,
-  "total_filtered": 25,
+  "total_new": 42,
+  "total_filtered": 15,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Escalada militar entre EUA e Irão leva petróleo a superar os US$ 100 por barril.",
-      "url": "https://angola24horas.com/economia/item/34742-escalada-militar-entre-eua-e-irao-leva-petroleo-a-superar-os-us-100-por-barril",
-      "source": "Angola 24 Horas",
-      "_key": "7541b8c687f204cd",
-      "score": 9,
-      "title_cn": "美伊军事升级，油价突破每桶100美元。"
-    },
-    {
-      "title": "Preço do barril de petróleo desce abaixo dos 100 dólares",
-      "url": "https://jornaloguardiao.com/2026/07/24/preco-do-barril-de-petroleo-desce-abaixo-dos-100-dolares/",
-      "source": "Jornal O Guardião",
-      "_key": "8029c6e3a05b1e4f",
-      "score": 9,
-      "title_cn": "油价跌破每桶100美元。"
-    },
-    {
-      "title": " Preço do barril de petróleo desce abaixo dos 100 dólares ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_8d9b66ce2b91e1",
-      "score": 9,
-      "title_cn": "油价跌破每桶100美元。"
-    },
-    {
-      "title": "Destaque Debate sobre Corredor do Lobito e o investimento nos direitos da criança marcam quinto dia da FILDA 2026A conferência sobre o investimento nos direitos da criança, organizada pelo Fundo das Nações Unidas para a Infância (UNICEF), e o debate sobre o Corredor do Lobito destacam-se no programa de actividades do quinto dia da Feira Internacional de Luanda (FILDA 2026).",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681667/debate-sobre-corredor-do-lobito-e-o-investimento-nos-direitos-da-crian%C3%A7a-marcam-quinto-dia-da-filda-2026",
+      "title": "Destaque Debates sobre Corredor do Lobito e o investimento nos direitos da criança marcam quinto dia da FILDA 2026A conferência sobre o investimento nos direitos da criança, organizada pelo Fundo das Nações Unidas para a Infância (UNICEF), e o debate sobre o Corredor do Lobito destacam-se no programa de actividades do quinto dia da Feira Internacional de Luanda (FILDA 2026).",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681667/debates-sobre-corredor-do-lobito-e-o-investimento-nos-direitos-da-crian%C3%A7a-marcam-quinto-dia-da-filda-2026",
       "source": "Jornal de Angola",
-      "_key": "6e46d725d9a160f7",
-      "score": 9,
-      "title_cn": "2026年罗安达国际博览会：聚焦洛比托走廊与儿童权利投资。"
+      "_key": "d5858f5c62f26e72",
+      "score": 10,
+      "title_cn": "洛比托走廊与儿童权利投资成FILDA 2026第五天焦点"
     },
     {
-      "title": "Proposta de Lei que autoriza PR a legislar sobre taxas...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-que-autoriza-pr-a-legislar-sobre-taxas-preferenciais-aplicaveis-as-mercadorias-da-sadc-a-caminho-do-parlamento-73488.html",
-      "source": "Novo Jornal",
-      "_key": "9e4adc7ec005ca71",
+      "title": "Mercury investe 20 milhões de dólares e expande rede 5G empresarial em Angola",
+      "url": "https://forbesafricalusofona.com/mercury-investe-20-milhoes-de-dolares-e-expande-rede-5g-empresarial-em-angola/",
+      "source": "Forbes África",
+      "_key": "70aa890a97bc905d",
       "score": 8,
-      "title_cn": "授权总统就税收立法的法案。"
+      "title_cn": "Mercury公司投资2000万美元，在安哥拉扩展企业5G网络"
     },
     {
-      "title": "Angola entre países africanos afectados por novas tarifas dos EUA sobre exportações",
-      "url": "https://correiokianda.info/angola-entre-paises-africanos-afectados-por-novas-tarifas-dos-eua-sobre-exportacoes/",
+      "title": "Central Bank reaffirms policies to improve access to credit",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-reafirma-politicas-de-melhoria-de-acesso-ao-credito/",
+      "source": "ANGOP",
+      "_key": "46aefde0f406fc90",
+      "score": 7,
+      "title_cn": "央行重申政策，旨在改善信贷获取"
+    },
+    {
+      "title": "Desmantelada rede criminosa que preparava fraude milionária no sistema bancário angolano",
+      "url": "https://correiokianda.info/desmantelada-rede-criminosa-que-preparava-fraude-milionaria-no-sistema-bancario-angolano/",
       "source": "Correio Kianda",
-      "_key": "1849bb5ac4f3b6cb",
+      "_key": "261748b95c19e41a",
       "score": 7,
-      "title_cn": "安哥拉等非洲国家受美国出口新关税影响。"
+      "title_cn": "安哥拉捣毁预谋银行系统数百万美元欺诈的犯罪网络"
     },
     {
-      "title": "BOSCH reforça aposta no mercado nacional com lançamento de novas áreas de negócios",
-      "url": "https://www.opais.ao/ultima_hora/https-www-opais-ao-ultima_hora-bosch-reforca-aposta-no-mercado-nacional-com-lancamento-de-novas-areas-de-negocios/",
+      "title": "Angola explora apenas 5% das terras aráveis, revela Governo",
+      "url": "https://forbesafricalusofona.com/angola-explora-apenas-5-das-terras-araveis-revela-governo/",
+      "source": "Forbes África",
+      "_key": "7047ed40e64f6010",
+      "score": 7,
+      "title_cn": "安哥拉政府透露：仅开发5%可耕地"
+    },
+    {
+      "title": "Angolan president briefed on DRC security situation",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-recebe-mensagem-de-homologo-da-rdc-sobre-situacao-de-seguranca/",
+      "source": "ANGOP",
+      "_key": "2d0ccdb28d448de1",
+      "score": 6,
+      "title_cn": "安哥拉总统听取刚果（金）安全局势汇报"
+    },
+    {
+      "title": "Tshisekedi envia representante a Luanda para aprofundar cooperação com Angola",
+      "url": "https://correiokianda.info/tshisekedi-envia-representante-a-luanda-para-aprofundar-cooperacao-com-angola/",
+      "source": "Correio Kianda",
+      "_key": "a981066fd782f1cb",
+      "score": 6,
+      "title_cn": "齐塞克迪（Tshisekedi）派代表赴罗安达深化与安哥拉合作"
+    },
+    {
+      "title": "PR recebe em audiência enviado especial de Félix Tshisekedi",
+      "url": "https://www.opais.ao/politica/pr-recebe-em-audiencia-enviado-especial-de-felix-tshisekedi/",
       "source": "O País",
-      "_key": "4cc0ed911051a303",
-      "score": 7,
-      "title_cn": "博世（BOSCH）加强对安哥拉市场投入，推出新业务领域。"
+      "_key": "9e445162625d219c",
+      "score": 6,
+      "title_cn": "总统接见费利克斯·齐塞克迪（Félix Tshisekedi）特使"
     },
     {
-      "title": "Hacker brasileiro e sete cidadãos angolanos planeavam furtar 10 mil milhões de dólares",
-      "url": "https://www.opais.ao/economia/hacker-brasileiro-e-sete-cidadaos-angolanos-planeavam-furtar-10-mil-milhoes-de-dolares/",
-      "source": "O País",
-      "_key": "bb913bc2e1e4e2cd",
-      "score": 7,
-      "title_cn": "巴西黑客与七名安哥拉公民计划盗窃100亿美元。"
-    },
-    {
-      "title": "Governador do BNA prevê desaceleração da inflação para 8,6% e...",
-      "url": "https://valoreconomico.co.ao/artigo/governador-do-bna-preve-desaceleracao-da-inflacao-para-8-6-e-alivio-no-poder-de-compra",
+      "title": "Agricultura e Pescas mantêm-se como os ‘parentes pobres’ do crédito...",
+      "url": "https://valoreconomico.co.ao/artigo/agricultura-e-pescas-mantem-se-como-os-parentes-pobres-do-credito-bancario",
       "source": "Valor Económico",
-      "_key": "db1cd326ff89ab91",
-      "score": 7,
-      "title_cn": "安哥拉国家银行行长预测通胀将放缓至8.6%。"
+      "_key": "b6328fd1b10eb2ef",
+      "score": 6,
+      "title_cn": "农业和渔业仍是信贷领域的“穷亲戚”"
     },
     {
-      "title": "FILDA 2026 - SPCB registers over 50 incidents in three days",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-servico-de-proteccao-civil-e-bombeiros-regista-mais-de-50-ocorrencia-em-tres-dias/",
+      "title": "Visa e Millennium Atlântico lançam cartão de débito com cobertura...",
+      "url": "https://valoreconomico.co.ao/artigo/visa-e-millennium-atlantico-lancam-cartao-de-debito-com-cobertura-nacional-e-internacional",
+      "source": "Valor Económico",
+      "_key": "1b787a311b1fb9f1",
+      "score": 6,
+      "title_cn": "维萨（Visa）与千禧大西洋银行推出借记卡"
+    },
+    {
+      "title": "FILDA 2026 – Fair's fourth day focuses on human sustainability",
+      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-entra-no-quarto-dia-com-foco-na-sustentabilidade-humana/",
       "source": "ANGOP",
-      "_key": "384af83321c93298",
-      "score": 6,
-      "title_cn": "2026年罗安达国际博览会：民防局三天内记录超50起事件。"
-    },
-    {
-      "title": "FILDA 2026 - Prodel bets in renewable energy",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-prodel-investe-em-energia-renovavel/",
-      "source": "ANGOP",
-      "_key": "b9d41009b305f6a0",
-      "score": 6,
-      "title_cn": "2026年罗安达国际博览会：Prodel投资可再生能源。"
-    },
-    {
-      "title": "Admnistração Trump muda de estratégia legal em novas tarifas contra mais de 80 países",
-      "url": "https://jornaloguardiao.com/2026/07/24/admnistracao-trump-muda-de-estrategia-legal-em-novas-tarifas-contra-mais-de-80-paises/",
-      "source": "Jornal O Guardião",
-      "_key": "8d2282e03a6f0cb6",
-      "score": 6,
-      "title_cn": "特朗普政府改变法律策略，对80多国征收新关税。"
-    },
-    {
-      "title": " Admnistração Trump muda de estratégia legal em novas tarifas contra mais de 80 países ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_e82a67016bb506",
-      "score": 6,
-      "title_cn": "特朗普政府改变法律策略，对80多国征收新关税。"
-    },
-    {
-      "title": "Destaque Enviado especial de Félix Tshisekedi entrega mensagem a João LourençoO Presidente da República, João Lourenço, recebeu, esta sexta-feira, no Palácio Presidencial da Cidade Alta, em Luanda, o enviado especial do seu homólogo da República Democrática do Congo (RDC), Félix Tshisekedi, que procedeu à entrega de uma mensagem do Chefe de Estado congolês.",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/681665/enviado-especial-de-f%C3%A9lix-tshisekedi-entrega-mensagem-a-jo%C3%A3o-louren%C3%A7o",
-      "source": "Jornal de Angola",
-      "_key": "d57a00a0bab5583c",
-      "score": 6,
-      "title_cn": "费利克斯·齐塞克迪（Félix Tshisekedi）特使向若昂·洛伦索（João Lourenço）总统递交信息。"
-    },
-    {
-      "title": "Destaque Angolanos passam a ter acesso a cartão de débito Visa-MulticaixaA Visa, a Empresa Interbancária de Serviços (EMIS) e o Banco Millennium Atlântico apresentaram, esta sexta-feira, na Feira Internacional de Angola (FILDA), na Zona Económica Especial, em Icolo e Bengo, o primeiro cartão de débito Visa em Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681666/angolanos-passam-a-ter-acesso-a-cart%C3%A3o-de-d%C3%A9bito-visa-multicaixa",
-      "source": "Jornal de Angola",
-      "_key": "aa6a29bc01324015",
-      "score": 6,
-      "title_cn": "安哥拉人可使用Visa-Multicaixa借记卡。"
-    },
-    {
-      "title": "Buraco financeiro na Empresa de Águas de Benguela sufoca...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/buraco-financeiro-na-empresa-de-aguas-de-benguela-sufoca-mais-de-900-trabalhadores-73487.html",
-      "source": "Novo Jornal",
-      "_key": "70d90538fd88ca44",
-      "score": 6,
-      "title_cn": "本格拉水务公司的财务缺口窒息......"
-    },
-    {
-      "title": "Apresentado primeiro cartão de débito Visa em Angola",
-      "url": "https://www.opais.ao/economia/apresentado-primeiro-cartao-de-debito-visa-em-angola/",
-      "source": "O País",
-      "_key": "044c8917c5c81b80",
-      "score": 6,
-      "title_cn": "安哥拉推出首张Visa借记卡。"
-    },
-    {
-      "title": "Expansão da rede e combate ao vandalismo marcam presença da RNT na FILDA 2026",
-      "url": "https://www.opais.ao/economia/expansao-da-rede-e-combate-ao-vandalismo-marcam-presenca-da-rnt-na-filda-2026/",
-      "source": "O País",
-      "_key": "dadd3b36792e249a",
-      "score": 6,
-      "title_cn": "2026年罗安达国际博览会：RNT聚焦网络扩张与打击破坏。"
-    },
-    {
-      "title": "Police arrests 132 citizens in Ambriz during operation “Golden Thread 2”",
-      "url": "https://www.angop.ao/en/noticias/sociedade/policia-detem-132-cidadaos-no-ambriz-durante-operacao-fio-de-ouro-2/",
-      "source": "ANGOP",
-      "_key": "c08bee83e430a687",
+      "_key": "45664424ca3984fa",
       "score": 5,
-      "title_cn": "警方在“金线2”行动中逮捕安布里兹132名市民"
+      "title_cn": "FILDA 2026展会第四天聚焦人类可持续发展"
     },
     {
-      "title": "SIC detém quatro efectivos das forças de segurança por alegado homicídio de agente da PIR",
-      "url": "https://angola24horas.com/sociedade/item/34750-sic-detem-quatro-efectivos-das-forcas-de-seguranca-por-alegado-homicidio-de-agente-da-pir",
+      "title": "Adalberto Costa Júnior promete transformar o Kilamba em motor de um novo modelo habitacional",
+      "url": "https://angola24horas.com/politica/item/34751-adalberto-costa-junior-promete-transformar-o-kilamba-em-motor-de-um-novo-modelo-habitacional",
       "source": "Angola 24 Horas",
-      "_key": "58ee384524071249",
+      "_key": "8bfd6ca59e04e41b",
       "score": 5,
-      "title_cn": "刑事调查局拘留四名安全部队人员，涉嫌谋杀PIR特工。"
+      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）承诺将基兰巴（Kilamba）打造成新住房模式引擎"
     },
     {
-      "title": "Política Angola e Burundi reforçam laços de cooperação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681662/angola-e-burundi-refor%C3%A7am-la%C3%A7os-de-coopera%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "267b9f7880896aa5",
+      "title": "SIC detém quatro efectivos por alegado homicídio de agente da PIR em Viana",
+      "url": "https://angola24horas.com/sociedade/item/34750-sic-detem-quatro-efectivos-por-alegado-homicidio-de-agente-da-pir-em-viana",
+      "source": "Angola 24 Horas",
+      "_key": "b9ce8fb891af6844",
       "score": 5,
-      "title_cn": "政治 安哥拉和布隆迪加强合作关系"
+      "title_cn": "刑事调查局（SIC）逮捕四名涉嫌在维亚纳（Viana）谋杀PIR特工人员"
     },
     {
-      "title": "Oficial superior da Polícia condenado a três anos de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/oficial-superior-da-policia-condenado-a-tres-anos-de-prisao-por-alugar-arma-de-fogo-a-grupo-de-marginais-para-assaltos-por-15-mil-kz-73491.html",
-      "source": "Novo Jornal",
-      "_key": "17219a2f6c68e25c",
+      "title": "MPLA reforça preparação para as eleições de 2027 em encontro regional em Benguela",
+      "url": "https://correiokianda.info/mpla-reforca-preparacao-para-as-eleicoes-de-2027-em-encontro-regional-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "2ddf9306720b6375",
       "score": 5,
-      "title_cn": "高级警官被判处三年监禁......"
+      "title_cn": "安哥拉人民解放运动（MPLA）在本格拉（Benguela）区域会议上加强2027年选举准备"
     },
     {
-      "title": "Detidos três efectivos da PN e um do SIC acusados de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidos-tres-efectivos-da-pn-e-um-do-sic-acusados-de-assassinar-agente-da-pir-e-motoqueiro-em-viana-73489.html",
-      "source": "Novo Jornal",
-      "_key": "95e85e00d112f553",
-      "score": 5,
-      "title_cn": "三名国家警察和一名刑事调查局人员被拘留。"
-    },
-    {
-      "title": "Presidente da República recebe líderes parlamentares da CPLP",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-recebe-lideres-parlamentares-da-cplp/",
-      "source": "O País",
-      "_key": "2ccab94f3932d32b",
-      "score": 5,
-      "title_cn": "总统接见葡语国家共同体议会领导人。"
-    },
-    {
-      "title": "UNITA aponta “fracasso” na gestão do Kilamba e exige esclarecimentos...",
-      "url": "https://valoreconomico.co.ao/artigo/unita-aponta-fracasso-na-gestao-do-kilamba-e-exige-esclarecimentos-sobre-receitas-habitacionais",
+      "title": "Aprovada verba de 158,7 milhões de kwanzas para novo...",
+      "url": "https://valoreconomico.co.ao/artigo/aprovada-verba-de-158-7-milhoes-de-kwanzas-para-novo-plano-de-comunicacao-da-anpg",
       "source": "Valor Económico",
-      "_key": "e02de09b0713000c",
+      "_key": "c24cd81f840f8b8a",
       "score": 5,
-      "title_cn": "安盟指出基兰巴管理“失败”，要求澄清。"
+      "title_cn": "批准拨款1.587亿宽扎（Kwanza）用于新项目"
     }
   ]
 }
