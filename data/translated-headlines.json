@@ -1,120 +1,528 @@
 {
-  "date": "2026-07-23",
-  "total_new": 42,
-  "total_filtered": 14,
+  "date": "2026-07-24",
+  "total_new": 144,
+  "total_filtered": 65,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo de referência para Angola sobe mais 10 dólares na semana após novos ataques dos EUA ao Irão",
-      "url": "https://correiokianda.info/petroleo-de-referencia-para-angola-sobe-mais-10-dolares-na-semana-apos-novos-ataques-paea-eua-ao-irao/",
-      "source": "Correio Kianda",
-      "_key": "a27097cbdb9992d3",
-      "score": 10,
-      "title_cn": "美国再袭伊朗后，安哥拉基准油价本周上涨超10美元"
-    },
-    {
-      "title": "Escalada militar entre EUA e Irão faz petróleo acelerar rumo aos 100 dólares por barril",
-      "url": "https://angola24horas.com/economia/item/34742-escalada-militar-entre-eua-e-irao-faz-petroleo-acelerar-rumo-aos-100-dolares-por-barril",
+      "title": "Escalada militar entre EUA e Irão faz petróleo supera US$ 100 por barril",
+      "url": "https://angola24horas.com/economia/item/34742-escalada-militar-entre-eua-e-irao-faz-petroleo-supera-us-100-por-barril",
       "source": "Angola 24 Horas",
-      "_key": "cb8cea36d4cc609a",
+      "_key": "4b5bb5bf6c50704f",
+      "score": 10,
+      "title_cn": "美伊军事升级致油价突破每桶100美元"
+    },
+    {
+      "title": "Preço do barril de petróleo ultrapassa os 100 dólares",
+      "url": "https://jornaloguardiao.com/2026/07/23/preco-do-barril-de-petroleo-ultrapassa-os-100-dolares/",
+      "source": "Jornal O Guardião",
+      "_key": "aa0a0f10c5139ce8",
+      "score": 10,
+      "title_cn": "国际油价突破每桶100美元"
+    },
+    {
+      "title": " Preço do barril de petróleo ultrapassa os 100 dólares ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7c82831e3f4f6f",
+      "score": 10,
+      "title_cn": "国际油价突破每桶100美元"
+    },
+    {
+      "title": "Angola/China cooperation remains strong, says ambassador",
+      "url": "https://www.angop.ao/en/noticias/economia/cooperacao-angola-e-china-continua-forte-embaixador/",
+      "source": "ANGOP",
+      "_key": "a738559ebe7fc99c",
       "score": 9,
-      "title_cn": "美伊军事升级，油价加速逼近每桶100美元"
+      "title_cn": "大使称安哥拉与中国合作保持强劲"
     },
     {
-      "title": "Investidores estrangeiros procuram Câmara para projectos de petróleo, gás e mineiros em Angola",
-      "url": "https://correiokianda.info/investidores-estrangeiros-procuram-camara-para-projectos-de-petroleo-gas-e-mineiros-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "6d8c3de1d0911700",
+      "title": "Governo analisa aumento das tarifas da electricidade para grandes consumidores",
+      "url": "https://angola24horas.com/sociedade/item/34743-governo-analisa-aumento-das-tarifas-da-electricidade-para-grandes-consumidores",
+      "source": "Angola 24 Horas",
+      "_key": "3c6273b805b812d6",
+      "score": 9,
+      "title_cn": "政府研究上调大用户电价"
+    },
+    {
+      "title": "Novo porto na Barra do Dande custa 900 milhões USD",
+      "url": "https://expansao.co.ao/angola/detalhe/novo-porto-na-barra-do-dande-custa-900-milhoes-usd-73465.html",
+      "source": "Expansão",
+      "_key": "56ca2f241b54b0e2",
+      "score": 9,
+      "title_cn": "丹德巴拉新港口耗资9亿美元"
+    },
+    {
+      "title": "Honório Salakiako: “A construção de mais barragens no país é também um convite para quem quer investir no sector industrial em Angola”",
+      "url": "https://www.opais.ao/entrevista/honorio-salakiako-a-construcao-de-mais-barragens-no-pais-e-tambem-um-convite-para-quem-quer-investir-no-sector-industrial-em-angola/",
+      "source": "O País",
+      "_key": "038437809342389d",
+      "score": 9,
+      "title_cn": "Honório Salakiako（奥诺里奥·萨拉基亚科）：安哥拉兴建更多水坝是吸引工业投资的邀请"
+    },
+    {
+      "title": "MIREMPET abre concurso público de ingresso externo",
+      "url": "https://www.opais.ao/ultima_hora/mirempet-abre-concurso-publico-de-ingresso-externo/",
+      "source": "O País",
+      "_key": "6a83e13075de95ae",
+      "score": 9,
+      "title_cn": "矿产石油和天然气部（MIREMPET）启动外部招聘公开竞标"
+    },
+    {
+      "title": "Trump anuncia tarifa de 12,5% a Angola e outros 59 países por trabalho escravo",
+      "url": "https://angola24horas.com/economia/item/34747-trump-anuncia-tarifa-de-12-5-a-angola-e-outros-59-paises-por-trabalho-escravo",
+      "source": "Angola 24 Horas",
+      "_key": "507f465a9d6e31bd",
       "score": 8,
-      "title_cn": "外国投资者寻求与安哥拉政府合作油气矿业项目"
+      "title_cn": "特朗普宣布对安哥拉等60国征收12.5%“奴役劳工”关税"
     },
     {
-      "title": "Gestão da Zona Marítima de Interesse Comum: Angola e RDC assinam acordo de partilha de produção do Bloco 14/23",
-      "url": "https://forbesafricalusofona.com/gestao-da-zona-maritima-de-interesse-comum-angola-e-rdc-assinam-acordo-de-partilha-de-producao-do-bloco-14-23/",
+      "title": "DIIP desmantela rede que preparava desvio de 10 mil milhões de dólares da banca",
+      "url": "https://angola24horas.com/sociedade/item/34744-diip-desmantela-rede-que-preparava-desvio-de-10-mil-milhoes-de-dolares-da-banca",
+      "source": "Angola 24 Horas",
+      "_key": "0d0f4f26126cb1d6",
+      "score": 8,
+      "title_cn": "DIIP捣毁企图从银行挪用100亿美元的犯罪网络"
+    },
+    {
+      "title": "Presidente João Lourenço preside Comissão Económica e analisa redução da dívida pública para 46,94%",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-preside-comissao-economica-e-analisa-reducao-da-divida-publica-para-4694/",
+      "source": "Diário dos Negócios",
+      "_key": "dbbd87b409c8353b",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统主持经济委员会会议，分析将公共债务降至46.94%"
+    },
+    {
+      "title": "Angola e RDC assinam adenda ao contrato de partilha de produção do Bloco 14/23",
+      "url": "https://diariodosnegocios.com/angola-e-rdc-assinam-adenda-ao-contrato-de-partilha-de-producao-do-bloco-14-23/",
+      "source": "Diário dos Negócios",
+      "_key": "458fce54fec1ef86",
+      "score": 8,
+      "title_cn": "安哥拉与刚果民主共和国签署14/23区块生产分成合同补充协议"
+    },
+    {
+      "title": " Presidente João Lourenço preside Comissão Económica e analisa redução da dívida pública para 46,94% ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_56cfbdf0cc3d1c",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统主持经济委员会会议，分析将公共债务降至46.94%"
+    },
+    {
+      "title": " Angola e RDC assinam adenda ao contrato de partilha de produção do Bloco 14/23 ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_fe20dc23ddfadb",
+      "score": 8,
+      "title_cn": "安哥拉与刚果民主共和国签署14/23区块生产分成合同补充协议"
+    },
+    {
+      "title": "Conclusão do programa obriga à venda de quase dois activos por mês até ao final do ano",
+      "url": "https://expansao.co.ao/empresas/detalhe/conclusao-do-programa-obriga-a-venda-de-quase-dois-activos-por-mes-ate-ao-final-do-ano-73471.html",
+      "source": "Expansão",
+      "_key": "d26748cc435f3098",
+      "score": 8,
+      "title_cn": "为完成计划，年底前每月需出售近两项资产"
+    },
+    {
+      "title": "O EXPLICADOR FISCAL: Imposto predial - Dação em cumprimento",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_73d18a31b235b7",
+      "score": 8,
+      "title_cn": "税务解读：房地产税——以物抵债"
+    },
+    {
+      "title": "Stock da dívida de Angola garantida por receitas petrolíferas reduz para 6,83 mil milhões USD no 1° semestre",
+      "url": "https://forbesafricalusofona.com/stock-da-divida-de-angola-garantida-por-receitas-petroliferas-reduz-para-683-mil-milhoes-usd-no-1-semestre/",
       "source": "Forbes África",
-      "_key": "647515a794aeedfd",
+      "_key": "63cb89c0b656d775",
       "score": 8,
-      "title_cn": "安哥拉与刚果（金）签署共同海域管理协议，共享14/23区块产量"
+      "title_cn": "安哥拉石油收入担保债务上半年降至68.3亿美元"
     },
     {
-      "title": "        África1 hora atrás  Exportadores africanos apreensivos com aproximação do prazo para novas tarifas dos EUA A aproximação do prazo limite de 31 de Julho para a tomada de decisão sobre as tarifas alfandegárias por parte dos Estados Unidos da América está...   ",
-      "url": "https://correiokianda.info/exportadores-africanos-apreensivos-com-aproximacao-do-prazo-para-novas-tarifas-dos-eua/",
-      "source": "Correio Kianda",
-      "_key": "1ffd16fb42c19f13",
-      "score": 7,
-      "title_cn": "7月31日临近，非洲出口商担忧美国新关税"
+      "title": "Gestão da Zona Marítima de Interesse Comum: Angola e RDC assinam adenda ao contrato de partilha",
+      "url": "https://forbesafricalusofona.com/gestao-da-zona-maritima-de-interesse-comum-angola-e-rdc-assinam-adenda-ao-contrato-de-partilha/",
+      "source": "Forbes África",
+      "_key": "c33726130014e1a3",
+      "score": 8,
+      "title_cn": "安哥拉与刚果民主共和国签署共同海域管理分成合同补充协议"
     },
     {
-      "title": "Destaque Esperança da Costa visita FILDA 2026A Vice-Presidente da República, Esperança da Costa, visita, neste momento, a Feira Internacional de Angola (FILDA 2026), que decorre na Zona Económica Especial (ZEE), na província do Icolo e Bengo.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681591/esperan%C3%A7a-da-costa-visita-filda-2026",
+      "title": "Destaque SIC desmantela grupo que tentava desviar 10 mil milhões de dólares de bancos nacionaisO Serviço de Investigação Criminal (SIC), deteve, em Luanda, oito indivíduos, sete dos quais angolanos e um brasileiro, suspeitos de integrarem uma associação criminosa que preparava uma transferência bancária fraudulenta avaliada em 10 mil milhões de dólares, visando instituições financeiras angolanas.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681605/sic-desmantela-grupo-que-tentava-desviar-10-mil-milh%C3%B5es-de-d%C3%B3lares-de-bancos-nacionais",
       "source": "Jornal de Angola",
-      "_key": "cfcb24f274407f1f",
-      "score": 7,
-      "title_cn": "副总统埃斯佩兰萨·达科斯塔（Esperança da Costa）参观2026年安哥拉国际博览会"
+      "_key": "a9286e881581cbbb",
+      "score": 8,
+      "title_cn": "刑事调查局（SIC）在罗安达捣毁企图从国家银行挪用100亿美元的团伙"
     },
     {
-      "title": "FÓRUM MARGINAL: UM ESPAÇO PARA OUVIR E QUESTIONAR. No programa de hoje, debatemos dois temas que preocupam a sociedade: os limites da atuação policial nas abordagens aos cidadãos, incluindo as revistas a viaturas sem autorização, e o aumento das rixas entre gangues, procurando compreender as causas e os fatores que alimentam este fenómeno.",
-      "url": "https://marginal.co.ao/programas/forum-marginal?ep=73464",
-      "source": "Novo Jornal",
-      "_key": "5ac00074558ee0f6",
-      "score": 7,
-      "title_cn": "边缘论坛：探讨警方执法界限及公民权利"
+      "title": "Contratação pública com reforço nos mecanismos para travar corrupção e favorecimento",
+      "url": "https://www.opais.ao/politica/contratacao-publica-com-reforco-nos-mecanismos-para-travar-corrupcao-e-favorecimento/",
+      "source": "O País",
+      "_key": "3bd1be5d368c75ad",
+      "score": 8,
+      "title_cn": "公共采购加强机制以遏制腐败和裙带关系"
     },
     {
-      "title": "Economic Commission revises SADC preferential rates draft law",
-      "url": "https://www.angop.ao/en/noticias/politica/comissao-economica-aprecia-proposta-de-lei-sobre-taxas-preferenciais-da-sadc/",
-      "source": "ANGOP",
-      "_key": "fcf654e39445c9d2",
-      "score": 6,
-      "title_cn": "经济委员会修订南部非洲发展共同体优惠税率法草案"
+      "title": "DIIP desmantela grupo que preparava fraude bancária de 10 mil milhões de dólares",
+      "url": "https://www.opais.ao/ultima_hora/diip-desmantela-grupo-que-preparava-fraude-bancaria-de-10-mil-milhoes-de-dolares/",
+      "source": "O País",
+      "_key": "05d5dfa2fcbcc57f",
+      "score": 8,
+      "title_cn": "DIIP捣毁企图实施100亿美元银行欺诈的团伙"
     },
     {
-      "title": "Executivo anuncia reabilitação da estrada Catengue–Ganda após anos de reclamações sobre degradação",
-      "url": "https://correiokianda.info/executivo-anuncia-reabilitacao-da-estrada-catengue-ganda-apos-anos-de-reclamacoes-sobre-degradacao/",
+      "title": "Sector público e empresas do Estado obrigados a cumprir novos padrões de transparência financeira",
+      "url": "https://correiokianda.info/sector-publico-e-empresas-do-estado-obrigados-a-cumprir-novos-padroes-de-transparencia-financeira/",
       "source": "Correio Kianda",
-      "_key": "2ac87aa8cb0833cd",
-      "score": 6,
-      "title_cn": "政府宣布修复卡滕格-甘达公路，回应多年投诉"
+      "_key": "a903222b86f96b08",
+      "score": 7,
+      "title_cn": "公共部门和国有企业须遵守新的财务透明标准"
     },
     {
-      "title": "PONTO AO: TECNOLOGIA E EMPREENDEDORISMO DIGITAL. Mais internet, mais riscos? Angola está preparada para os desafios da Cibersegurança?.",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=73469",
-      "source": "Novo Jornal",
-      "_key": "1ee2ef093222426d",
-      "score": 6,
-      "title_cn": "科技与数字创业：安哥拉如何应对网络安全挑战？"
-    },
-    {
-      "title": "Angola-Portugal discuss evolution of bilateral relation",
-      "url": "https://www.angop.ao/en/noticias/politica/relacoes-angola-portugal-em-destaque-na-audiencia-de-joao-lourenco-a-aguiar-branco/",
-      "source": "ANGOP",
-      "_key": "e67e632cba7bdbe8",
-      "score": 5,
-      "title_cn": "安哥拉与葡萄牙讨论双边关系发展"
-    },
-    {
-      "title": "Angola and Democratic Republic of Congo sign ZIC agreement",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-e-rdc-reforcam-cooperacao-para-melhorar-gestao-da-zona-de-interesse-comum/",
-      "source": "ANGOP",
-      "_key": "d7e490e41ee3db07",
-      "score": 5,
-      "title_cn": "安哥拉与刚果（金）签署共同利益区协议"
-    },
-    {
-      "title": "Presidente da República orienta novos responsáveis a priorizar interesses nacionais",
-      "url": "https://correiokianda.info/presidente-da-republica-orienta-novos-responsaveis-a-priorizar-interesses-nacionais/",
+      "title": "EUA responsabilizam Teerão por ofensiva contra petroleiros e ameaçam “punição militar”",
+      "url": "https://correiokianda.info/eua-responsabilizam-teerao-por-ofensiva-contra-petroleiros-e-ameacam-punicao-militar/",
       "source": "Correio Kianda",
-      "_key": "e655d51aca1f3c82",
-      "score": 5,
-      "title_cn": "总统指示新任官员优先考虑国家利益"
+      "_key": "7636ab11ab62e00b",
+      "score": 7,
+      "title_cn": "美国指责德黑兰袭击油轮，威胁“军事惩罚”"
     },
     {
-      "title": "Política Angola e República Democrática do Congo reforçam cooperação bilateral ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681590/angola-e-rep%C3%BAblica-democr%C3%A1tica-do-congo-refor%C3%A7am-coopera%C3%A7%C3%A3o-bilateral",
+      "title": "O crescimento da agricultura não compensa o recuo da indústria transformadora",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c5f33e05e4c407",
+      "score": 7,
+      "title_cn": "农业增长未能弥补制造业的衰退"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaO crescimento da agricultura não compensa o recuo da indústria transformadora",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-crescimento-da-agricultura-nao-compensa-o-recuo-da-industria-transformadora-73398.html",
+      "source": "Expansão",
+      "_key": "424dfa29bf5f0d63",
+      "score": 7,
+      "title_cn": "Fernandes Wanda（费尔南德斯·万达）：农业增长未能弥补制造业的衰退"
+    },
+    {
+      "title": "“As infra-estruturas digitais são tão estratégicas quanto estradas e portosˮ – Américo Muchanga",
+      "url": "https://forbesafricalusofona.com/as-infra-estruturas-digitais-sao-tao-estrategicas-quanto-estradas-e-portos%cb%ae-americo-muchanga/",
+      "source": "Forbes África",
+      "_key": "c06803c4a26d86c2",
+      "score": 7,
+      "title_cn": "Américo Muchanga（阿梅里科·穆昌加）：数字基础设施与公路港口同等重要"
+    },
+    {
+      "title": "Última hora FILDA 2026: Vice-Presidente destaca protagonismo da juventude e inovação na economia",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681602/filda-2026:-vice-presidente-destaca-protagonismo-da-juventude-e-inova%C3%A7%C3%A3o-na-economia",
       "source": "Jornal de Angola",
-      "_key": "f15caa9d711ca99c",
+      "_key": "a2d085fffbe1eef9",
+      "score": 7,
+      "title_cn": "2026年安哥拉国际博览会（FILDA）：副总统强调青年和创新在经济中的作用"
+    },
+    {
+      "title": "Desmantelada rede de estrangeiros e nacionais que invadia...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/desmantelada-rede-de-estrangeiros-e-nacionais-que-invadia-sistemas-bancarios-e-estava-prestes-a-roubar-10-mil-milhoes-de-dolares-73474.html",
+      "source": "Novo Jornal",
+      "_key": "c25094651fdd6f29",
+      "score": 7,
+      "title_cn": "捣毁由外国人和本国人组成的入侵网络"
+    },
+    {
+      "title": "Vice-Presidente da República visita stand do BDA na FILDA",
+      "url": "https://www.opais.ao/politica/vice-presidente-da-republica-visita-stand-do-bda-na-filda/",
+      "source": "O País",
+      "_key": "24ca4fc2520e8210",
+      "score": 7,
+      "title_cn": "共和国副总统参观安哥拉发展银行（BDA）在安哥拉国际博览会（FILDA）的展位"
+    },
+    {
+      "title": "ICAO confirma Luanda como sede do GISS 2027 e reforça apoio à afirmação de Angola como hub regional",
+      "url": "https://www.opais.ao/politica/icao-confirma-luanda-como-sede-do-giss-2027-e-reforca-apoio-a-afirmacao-de-angola-como-hub-regional/",
+      "source": "O País",
+      "_key": "c31cbdc16994f591",
+      "score": 7,
+      "title_cn": "国际民航组织（ICAO）确认罗安达为2027年全球航空安全研讨会（GISS）主办地，支持安哥拉成为区域航空枢纽"
+    },
+    {
+      "title": "BCS defende prosperidade das PME como principal indicador de sucesso da banca",
+      "url": "https://www.opais.ao/economia/bcs-defende-prosperidade-das-pme-como-principal-indicador-de-sucesso-da-banca/",
+      "source": "O País",
+      "_key": "f2752e91837730d0",
+      "score": 7,
+      "title_cn": "BCS认为中小企业繁荣是银行成功的关键指标"
+    },
+    {
+      "title": "Vice-Presidente da República visita stands da FILDA 2026",
+      "url": "https://www.opais.ao/politica/vice-presidente-da-republica-visita-stands-da-filda-2026/",
+      "source": "O País",
+      "_key": "f1339cff75d25ab7",
+      "score": 7,
+      "title_cn": "共和国副总统参观2026年安哥拉国际博览会（FILDA）展位"
+    },
+    {
+      "title": "Angola e RDC reforçam cooperação na exploração conjunta de hidrocarbonetos",
+      "url": "https://www.opais.ao/politica/angola-e-rdc-reforcam-cooperacao-na-exploracao-conjunta-de-hidrocarbonetos/",
+      "source": "O País",
+      "_key": "8ff19f70a05c97fa",
+      "score": 7,
+      "title_cn": "安哥拉与刚果民主共和国加强碳氢化合物联合勘探合作"
+    },
+    {
+      "title": "ICAO highlights Angola's ambition of establishing itself as regional aviation hub",
+      "url": "https://www.angop.ao/en/noticias/politica/oaci-reconhece-avancos-de-angola-na-conectividade-aerea/",
+      "source": "ANGOP",
+      "_key": "f2fe0a5e6475dfbb",
+      "score": 6,
+      "title_cn": "国际民航组织（ICAO）强调安哥拉成为区域航空枢纽的雄心"
+    },
+    {
+      "title": "FILDA’s 3rd day marked by visit of the Angolan Vice President",
+      "url": "https://www.angop.ao/en/noticias/economia/terceiro-dia-da-filda-marcado-pela-visita-da-vice-presidente-da-republica/",
+      "source": "ANGOP",
+      "_key": "09e5cdc64658b874",
+      "score": 6,
+      "title_cn": "安哥拉国际博览会（FILDA）第三天迎来副总统参观"
+    },
+    {
+      "title": "FILDA 2026",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=430401",
+      "source": "ANGOP",
+      "_key": "fa35dbbf1be0c472",
+      "score": 6,
+      "title_cn": "2026年安哥拉国际博览会（FILDA）"
+    },
+    {
+      "title": "FILDA 2026 - TAAG presents innovative solutions for economic operators",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-apresenta-na-filda-solucoes-inovadoras-para-operadores-economicos/",
+      "source": "ANGOP",
+      "_key": "63f0c32e520a500a",
+      "score": 6,
+      "title_cn": "2026年安哥拉国际博览会（FILDA）：安哥拉航空（TAAG）为经济运营商展示创新方案"
+    },
+    {
+      "title": "IMF praises modernization of Angola’s public finance statistics",
+      "url": "https://www.angop.ao/en/noticias/economia/fmi-enaltece-modernizacao-das-estatisticas-das-financas-publicas-de-angola/",
+      "source": "ANGOP",
+      "_key": "96aa68f1631fb3ef",
+      "score": 6,
+      "title_cn": "国际货币基金组织赞扬安哥拉公共财政统计的现代化"
+    },
+    {
+      "title": "Angola quer reforçar cooperação com a RDC na exploração conjunta de petróleo",
+      "url": "https://correiokianda.info/angola-quer-reforcar-cooperacao-com-a-rdc-na-exploracao-conjunta-de-petroleo/",
+      "source": "Correio Kianda",
+      "_key": "3a558a673c0edf48",
+      "score": 6,
+      "title_cn": "安哥拉希望加强与刚果民主共和国在石油联合勘探方面的合作"
+    },
+    {
+      "title": "Vice-Presidente da República visita stand do BDA na FILDA",
+      "url": "https://correiokianda.info/vice-presidente-da-republica-visita-stand-do-bda-na-filda/",
+      "source": "Correio Kianda",
+      "_key": "ac272a0d5a41aaf9",
+      "score": 6,
+      "title_cn": "共和国副总统参观安哥拉发展银行（BDA）在安哥拉国际博览会（FILDA）的展位"
+    },
+    {
+      "title": "Vice-Presidente conhece novas soluções financeiras do BDA na FILDA",
+      "url": "https://correiokianda.info/vice-presidente-conhece-novas-solucoes-financeiras-do-bda-na-filda/",
+      "source": "Correio Kianda",
+      "_key": "c3ee167919c76813",
+      "score": 6,
+      "title_cn": "副总统在安哥拉国际博览会（FILDA）了解安哥拉发展银行（BDA）的新金融方案"
+    },
+    {
+      "title": "Angola no radar dos mercados | Dados, algoritmos e resultados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_195bf740e92a80",
+      "score": 6,
+      "title_cn": "安哥拉在市场雷达上：数据、算法与成果"
+    },
+    {
+      "title": "Produzir e inovar localmente, vencer globalmente | O paradoxo competitivo de Angola (Parte I)",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_758694cce48ff5",
+      "score": 6,
+      "title_cn": "本地生产与创新，全球制胜：安哥拉的竞争悖论（上）"
+    },
+    {
+      "title": "CONVIDADOJoão MachadoAngola no radar dos mercados | Dados, algoritmos e resultados",
+      "url": "https://expansao.co.ao/opiniao/detalhe/angola-no-radar-dos-mercados-dados-algoritmos-e-resultados-73467.html",
+      "source": "Expansão",
+      "_key": "840e2648d61ebc4b",
+      "score": 6,
+      "title_cn": "特邀嘉宾若昂·马查多（João Machado）：安哥拉在市场雷达上：数据、算法与成果"
+    },
+    {
+      "title": "CONVIDADASandra Camelo Produzir e inovar localmente, vencer globalmente | O paradoxo competitivo de Angola (Parte I)",
+      "url": "https://expansao.co.ao/opiniao/detalhe/produzir-e-inovar-localmente-vencer-globalmente-o-paradoxo-competitivo-de-angola-parte-i-73461.html",
+      "source": "Expansão",
+      "_key": "4bcf41f61d16f0a2",
+      "score": 6,
+      "title_cn": "特邀嘉宾桑德拉·卡梅洛（Sandra Camelo）：本地生产与创新，全球制胜：安哥拉的竞争悖论（上）"
+    },
+    {
+      "title": "Sociedade Detidos suspeitos da morte de efectivo da Polícia de Intervenção Rápida em Viana ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681661/detidos-suspeitos-da-morte-de-efectivo-da-pol%C3%ADcia-de-interven%C3%A7%C3%A3o-r%C3%A1pida-em-viana",
+      "source": "Jornal de Angola",
+      "_key": "f30e1ed95f0f382d",
+      "score": 6,
+      "title_cn": "维亚纳快速干预警察部队成员死亡案嫌疑人被捕"
+    },
+    {
+      "title": "Política Aviação Internacional reconhece progressos de Angola no sector ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681643/avia%C3%A7%C3%A3o-internacional-reconhece-progressos-de-angola-no-sector",
+      "source": "Jornal de Angola",
+      "_key": "d320c74c0fe4ca31",
+      "score": 6,
+      "title_cn": "国际航空界认可安哥拉航空业的进步"
+    },
+    {
+      "title": "Economia FMI reconhece progressos do país nas Finanças Públicas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681617/fmi-reconhece-progressos--do-pa%C3%ADs-nas-finan%C3%A7as-p%C3%BAblicas",
+      "source": "Jornal de Angola",
+      "_key": "f7926ef651f8d65b",
+      "score": 6,
+      "title_cn": "国际货币基金组织（IMF）认可安哥拉公共财政进展"
+    },
+    {
+      "title": "A corrida para a digitalização da economia angolana",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/681626/a-corrida-para-a-digitaliza%C3%A7%C3%A3o-da-economia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "9610385d9cb425d1",
+      "score": 6,
+      "title_cn": "安哥拉经济数字化竞赛"
+    },
+    {
+      "title": "Última hora FILDA 2026: Huíla atrai visitantes com produtos da terra",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681601/filda-2026:-hu%C3%ADla-atrai-visitantes-com-produtos-da-terra",
+      "source": "Jornal de Angola",
+      "_key": "1a1b0577b1a4164e",
+      "score": 6,
+      "title_cn": "2026年安哥拉国际博览会（FILDA）：威拉省以当地产品吸引游客"
+    },
+    {
+      "title": "/ TAAG Linhas Aéreas de Angola",
+      "url": "https://www.novojornal.co.ao/patrocinado/detalhe/guangzhou-a-porta-de-entrada-para-uma-das-regioes-mais-dinamicas-do-mundo-73477.html",
+      "source": "Novo Jornal",
+      "_key": "072404f2e9c039e1",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）"
+    },
+    {
+      "title": "Agente do SIC e três efectivos da Polícia Nacional detidos por alegado homicídio em Viana",
+      "url": "https://www.opais.ao/ultima_hora/agente-do-sic-e-tres-efectivos-da-policia-nacional-detidos-por-alegado-homicidio-em-viana/",
+      "source": "O País",
+      "_key": "5e1e30c636f26152",
+      "score": 6,
+      "title_cn": "维亚纳一刑事调查局（SIC）特工和三名国家警察因涉嫌谋杀被捕"
+    },
+    {
+      "title": "Hacker brasileiro e sete cidadãos angolanos planeavam roubar 10 mil milhões de dólares",
+      "url": "https://www.opais.ao/economia/hacker-brasileiro-e-sete-cidadaos-angolanos-planeavam-roubar-10-mil-milhoes-de-dolares/",
+      "source": "O País",
+      "_key": "090a5fafe02fb1aa",
+      "score": 6,
+      "title_cn": "巴西黑客与七名安哥拉公民计划窃取100亿美元"
+    },
+    {
+      "title": "Angola defende governação responsável dos recursos naturais como base para a paz e o desenvolvimento",
+      "url": "https://www.opais.ao/politica/angola-defende-governacao-responsavel-dos-recursos-naturais-como-base-para-a-paz-e-o-desenvolvimento/",
+      "source": "O País",
+      "_key": "11ac025b1a2d421c",
+      "score": 6,
+      "title_cn": "安哥拉倡导负责任的自然资源治理，作为和平与发展的基础"
+    },
+    {
+      "title": "Protection of new seed varieties strengthens agricultural sector",
+      "url": "https://www.angop.ao/en/noticias/politica/proteccao-de-novas-variedades-de-sementes-reforca-sector-agro-pecuario/",
+      "source": "ANGOP",
+      "_key": "73c06277e278dde7",
       "score": 5,
-      "title_cn": "安哥拉与刚果（金）加强双边合作"
+      "title_cn": "保护新品种种子，加强农业部门发展"
+    },
+    {
+      "title": "Angolan Vice-President highlights growth and diversity of local production",
+      "url": "https://www.angop.ao/en/noticias/economia/vice-pr-destaca-crescimento-e-diversidade-da-producao-nacional-na-filda-2026/",
+      "source": "ANGOP",
+      "_key": "25ebb3a674f11fd2",
+      "score": 5,
+      "title_cn": "安哥拉副总统强调本地生产的增长与多样性"
+    },
+    {
+      "title": "Finanças Públicas",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=86112",
+      "source": "ANGOP",
+      "_key": "f61463e857d5ba16",
+      "score": 5,
+      "title_cn": "公共财政"
+    },
+    {
+      "title": "CFAO Toyota apresenta novos SUV e reforça aposta na mobilidade segura na FILDA 2026",
+      "url": "https://correiokianda.info/cfao-toyota-apresenta-novos-suv-e-reforca-aposta-na-mobilidade-segura-na-filda-2026/",
+      "source": "Correio Kianda",
+      "_key": "a5bbb71b8effe421",
+      "score": 5,
+      "title_cn": "CFAO丰田在2026年安哥拉国际博览会（FILDA）展示新款SUV，加强安全出行投入"
+    },
+    {
+      "title": "FILDA 2026: Hotel Sivam apresenta experiência de hospitalidade e bem-estar",
+      "url": "https://correiokianda.info/filda-2026-hotel-sivam-apresenta-experiencia-de-hospitalidade-e-bem-estar/",
+      "source": "Correio Kianda",
+      "_key": "5be0a5df155f71e3",
+      "score": 5,
+      "title_cn": "2026年安哥拉国际博览会（FILDA）：Sivam酒店展示热情好客与健康体验"
+    },
+    {
+      "title": "Mabor prepara a despedida com a alienação da fábrica",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_86dbf3a4ceceaa",
+      "score": 5,
+      "title_cn": "Mabor准备通过出售工厂告别市场"
+    },
+    {
+      "title": "Destaque Famílias aproveitam férias escolares para visitar FILDA 2026Várias famílias estão aproveitar as férias escolares para visitar a Feira Internacional de Angola (FILDA 2026), cujo certame decorre na Zona Económica Especial, na província do Icolo e Bengo. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681603/fam%C3%ADlias-aproveitam-f%C3%A9rias-escolares-para-visitar-filda-2026",
+      "source": "Jornal de Angola",
+      "_key": "a094278f4adf93ed",
+      "score": 5,
+      "title_cn": "家庭利用学校假期参观2026年安哥拉国际博览会（FILDA）"
+    },
+    {
+      "title": "João Lourenço destaca nomeações como resultado da dedicação à pátria O Presidente da República, João Lourenço, afirmou, quinta-feira, em Luanda, que a nomeação dos novos secretários de Estado e do embaixador de Angola no Senegal reconhece um percurso de dedicação à Pátria ao longo dos anos, com forte actuação nas Forças Armadas e na diplomacia nacional. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681608/jo%C3%A3o-louren%C3%A7o--destaca-nomea%C3%A7%C3%B5es-como-resultado--da-dedica%C3%A7%C3%A3o-%C3%A0-p%C3%A1tria",
+      "source": "Jornal de Angola",
+      "_key": "5dc2ae0a5b1765b0",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统强调，任命是奉献祖国的结果"
+    },
+    {
+      "title": "Executivo quer sementes de qualidade para o reforço da segurança alimentar A protecção dos direitos de propriedade intelectual para produtores de sementes e investigadores vai garantir que Angola disponha de sementes de qualidade com regularidade, além de reforçar a segurança alimentar. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681606/executivo-quer-sementes-de-qualidade-para-o-refor%C3%A7o-da-seguran%C3%A7a-alimentar",
+      "source": "Jornal de Angola",
+      "_key": "09f17b5ce12b1c29",
+      "score": 5,
+      "title_cn": "政府寻求优质种子以加强粮食安全，保护知识产权"
+    },
+    {
+      "title": "Economia Fundo Global investe cinco milhões de dólares para Economia Azul em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681623/fundo-global-investe-cinco-milh%C3%B5es-de-d%C3%B3lares-para-economia-azul-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "d07517d0e717d9ff",
+      "score": 5,
+      "title_cn": "全球基金投资500万美元用于非洲蓝色经济"
+    },
+    {
+      "title": "É de hoje…. A paixão dos ‘hackers’por Angola",
+      "url": "https://www.opais.ao/opiniao/e-de-hoje-a-paixao-dos-hackerspor-angola/",
+      "source": "O País",
+      "_key": "e39ec46fce403717",
+      "score": 5,
+      "title_cn": "今日焦点：黑客对安哥拉的“热情”"
     }
   ]
 }
