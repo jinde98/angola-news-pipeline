@@ -1,144 +1,56 @@
 {
   "date": "2026-07-25",
-  "total_new": 55,
-  "total_filtered": 17,
+  "total_new": 19,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Novo porto na Barra do Dande custa 900 milhões USD",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_ab1a243e467a58",
-      "score": 9,
-      "title_cn": "丹德巴拉新港耗资9亿美元"
-    },
-    {
-      "title": "Município da Camama distinguido com Diploma Vermelho na China",
-      "url": "https://www.opais.ao/sociedade/municipio-da-camama-distinguido-com-diploma-vermelho-na-china/",
-      "source": "O País",
-      "_key": "bfcae5f2f67b9412",
-      "score": 8,
-      "title_cn": "卡马马市在中国获“红牌”表彰"
-    },
-    {
-      "title": "ENDE regista dívida de cerca de 300 mil milhões de kwanzas no país",
-      "url": "https://www.opais.ao/sociedade/ende-regista-divida-de-cerca-de-300-mil-milhoes-de-kwanzas-no-pais/",
-      "source": "O País",
-      "_key": "a42cd5ad31ed4565",
-      "score": 8,
-      "title_cn": "ENDE全国负债约3000亿宽扎"
-    },
-    {
-      "title": "Especialista defende que receitas extra do petróleo devem financiar carreiras...",
-      "url": "https://valoreconomico.co.ao/artigo/especialista-defende-que-receitas-extra-do-petroleo-devem-financiar-carreiras-da-saude-e-educacao",
-      "source": "Valor Económico",
-      "_key": "1194f7b54815fc0b",
-      "score": 8,
-      "title_cn": "专家建议石油额外收入应资助职业发展"
-    },
-    {
-      "title": "Angola highlights blue economy as instrument for economic diversification",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-destaca-economia-azul-como-instrumento-de-diversificacao-economica/",
+      "title": "Transport minister seeks consolidation of investments in the maritime sector",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-dos-transportes-quer-consolidacao-de-investimentos-no-sector-maritimo/",
       "source": "ANGOP",
-      "_key": "26e56684306c1734",
+      "_key": "25287b1af8145be9",
       "score": 7,
-      "title_cn": "安哥拉强调蓝色经济是经济多元化工具"
+      "title_cn": "交通部长寻求巩固海事领域投资"
     },
     {
-      "title": "Conclusão do programa obriga à venda de quase dois activos por mês até ao final do ano",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_67f7b7aef6834f",
-      "score": 7,
-      "title_cn": "为完成计划，年底前须每月出售近两项资产"
-    },
-    {
-      "title": "CE Business processa mais de 50 vistos por mês e quer alavancar o turismo em Angola",
-      "url": "https://www.opais.ao/economia/ce-business-processa-mais-de-50-vistos-por-mes-e-quer-alavancar-o-turismo-em-angola/",
-      "source": "O País",
-      "_key": "ab30f0f71d29ae57",
-      "score": 7,
-      "title_cn": "CE Business每月处理超50份签证，旨在推动安哥拉旅游业"
-    },
-    {
-      "title": "African blue economy could generate USD 650 billion by 2063",
-      "url": "https://www.angop.ao/en/noticias/economia/economia-azul-africana-pode-render-usd-650-mil-milhoes-em-2063/",
-      "source": "ANGOP",
-      "_key": "88aa2d6798cb95b1",
-      "score": 6,
-      "title_cn": "非洲蓝色经济到2063年或创收6500亿美元"
-    },
-    {
-      "title": "Issuance of blue bonds hinges on approval of maritime planning law",
-      "url": "https://www.angop.ao/en/noticias/economia/emissao-de-titulos-azuis-condicionada-a-aprovacao-da-lei-do-ordenamento-maritimo/",
-      "source": "ANGOP",
-      "_key": "a99321339dcebe12",
-      "score": 6,
-      "title_cn": "蓝色债券发行取决于海洋规划法获批"
-    },
-    {
-      "title": "70% das facturas submetidas ao sorteio da Factura Premiada excluídas pela AGT",
-      "url": "https://expansao.co.ao/angola/detalhe/70-das-facturas-submetidas-ao-sorteio-da-factura-premiada-excluidas-pela-agt-73496.html",
-      "source": "Expansão",
-      "_key": "4cddd4f25af3500e",
-      "score": 6,
-      "title_cn": "提交“中奖发票”抽奖的70%发票被AGT排除"
-    },
-    {
-      "title": "Chefe de Estado informado sobre situação de segurança na vizinha RDCA situação de segurança prevalecente no Leste da República Democrática do Congo (RDC) e a realização do Diálogo Inter-congolês para a Paz estiveram no centro de uma audiência que o Chefe de Estado, João Lourenço, concedeu, ontem, em Luanda, ao enviado especial do Presidente Félix Tshisekedi.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681684/chefe-de-estado-informado-sobre--situa%C3%A7%C3%A3o-de-seguran%C3%A7a-na-vizinha-rdc",
+      "title": "Economia País prepara condições para melhorar gestão dos espaços marinhos e costeiros ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681693/pa%C3%ADs-prepara-condi%C3%A7%C3%B5es-para-melhorar-gest%C3%A3o-dos-espa%C3%A7os-marinhos-e-costeiros-",
       "source": "Jornal de Angola",
-      "_key": "c73186a299f39242",
+      "_key": "24c6c6dbc3a9513a",
       "score": 6,
-      "title_cn": "国家元首听取邻国刚果（金）安全局势汇报"
+      "title_cn": "国家经济为改善海洋和沿海空间管理创造条件"
     },
     {
-      "title": "Esperança da Costa considera domínio marítimo africano como pilar para o desenvolvimento do continente",
-      "url": "https://www.opais.ao/politica/esperanca-da-costa-considera-dominio-maritimo-africano-como-pilar-para-o-desenvolvimento-do-continente/",
-      "source": "O País",
-      "_key": "27afab612a9043a7",
+      "title": "Pobreza multidimensional de Angola: O \"futuro incerto\"...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pobreza-multidimensional-de-angola-o-futuro-incerto-das-criancas-angolanas-nas-ruas-de-windhoek-73506.html",
+      "source": "Novo Jornal",
+      "_key": "3725d3dfac61c30f",
       "score": 6,
-      "title_cn": "埃斯佩兰萨·达·科斯塔（Esperança da Costa）认为非洲海洋领域是非洲大陆发展支柱"
+      "title_cn": "安哥拉多维度贫困：“不确定的未来”"
     },
     {
-      "title": "At least two sisters killed in artisanal gold mine collapse in Huambo",
-      "url": "https://www.angop.ao/en/noticias/sociedade/soterramento-em-mina-artesanal-mata-duas-irmas-no-chinjenje/",
-      "source": "ANGOP",
-      "_key": "ce064b581ff7a6e2",
+      "title": "Pumangol prevê converter 15 postos de abastecimento de combustíveis para modelo de negócio híbrido de franquia",
+      "url": "https://forbesafricalusofona.com/pumangol-preve-converter-15-postos-de-abastecimento-de-combustiveis-para-modelo-de-negocio-hibrido-de-franquia/",
+      "source": "Forbes África",
+      "_key": "5e431c500f1b8537",
       "score": 5,
-      "title_cn": "万博省手工金矿坍塌致至少两姐妹遇难"
+      "title_cn": "Pumangol计划将15个加油站改造为混合特许经营模式"
     },
     {
-      "title": "Angolan salt producers and dealers call for legislation review",
-      "url": "https://www.angop.ao/en/noticias/economia/operadores-propoem-modernizacao-da-legislacao-do-sector-salineiro/",
-      "source": "ANGOP",
-      "_key": "80fb90853e089433",
-      "score": 5,
-      "title_cn": "安哥拉食盐生产商和经销商呼吁审查立法"
-    },
-    {
-      "title": "Ouro é activo de \"elevado risco\", alerta FMI aos bancos centrais",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_da092d397cbe1b",
-      "score": 5,
-      "title_cn": "国际货币基金组织警告各国央行：黄金是“高风险”资产"
-    },
-    {
-      "title": "Política Angola defende cumprimento dos estatutos na reestruturação da CEEAC ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681675/angola-defende-cumprimento-dos-estatutos-na-reestrutura%C3%A7%C3%A3o-da-ceeac",
+      "title": "Economia Montra de negócios confirma potencialidades do mercado ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681718/montra-de-neg%C3%B3cios-confirma-potencialidades-do-mercado",
       "source": "Jornal de Angola",
-      "_key": "6beea328b06124d3",
+      "_key": "3da57bae93800e29",
       "score": 5,
-      "title_cn": "安哥拉主张中非经共体改革应遵守章程"
+      "title_cn": "商业展会证实市场潜力"
     },
     {
-      "title": "Sector marítimo emprega mais de 49 milhões de africanos",
-      "url": "https://www.opais.ao/politica/sector-maritimo-emprega-mais-de-49-milhoes-de-africanos/",
+      "title": "Angola reafirma compromisso com a Agenda de Desenvolvimento Sustentável",
+      "url": "https://www.opais.ao/politica/angola-reafirma-compromisso-com-a-agenda-de-desenvolvimento-sustentavel/",
       "source": "O País",
-      "_key": "58ce39d6b97d8108",
+      "_key": "22c0444017eddfa8",
       "score": 5,
-      "title_cn": "海洋部门雇佣超4900万非洲人"
+      "title_cn": "安哥拉重申对可持续发展议程的承诺"
     }
   ]
 }
