@@ -1,435 +1,85 @@
 {
   "date": "2026-07-28",
-  "total_new": 154,
-  "total_filtered": 61,
+  "total_new": 29,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Banco Atlântico integra sistema internacional de pagamentos da China",
-      "url": "https://angola24horas.com/economia/item/34765-banco-atlantico-integra-sistema-internacional-de-pagamentos-da-china",
-      "source": "Angola 24 Horas",
-      "_key": "dc42ea284653db68",
-      "score": 10
-    },
-    {
-      "title": "Empresários chineses vão ter solução para dificuldades com vistos de trabalho",
-      "url": "https://correiokianda.info/empresarios-chineses-vao-ter-solucao-para-dificuldades-com-vistos-de-trabalho/",
-      "source": "Correio Kianda",
-      "_key": "089de34f5e0043b6",
-      "score": 10
-    },
-    {
-      "title": "Banco Atlântico integra sistema internacional de pagamentos da China e reforça posição de Angola nas finanças globais",
-      "url": "https://jornaloguardiao.com/2026/07/28/banco-atlantico-integra-sistema-internacional-de-pagamentos-da-china-e-reforca-posicao-de-angola-nas-financas-globais/",
-      "source": "Jornal O Guardião",
-      "_key": "5f6bb137bedd024d",
-      "score": 10
-    },
-    {
-      "title": " Banco Atlântico integra sistema internacional de pagamentos da China e reforça posição de Angola nas finanças globais ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d7642eb13f5503",
-      "score": 10
-    },
-    {
-      "title": "Lobito Corridor motivates creation of Lagos-Dakar link",
-      "url": "https://www.angop.ao/en/noticias/economia/corredor-do-lobito-motiva-criacao-da-ligacao-lagos-dakar/",
-      "source": "ANGOP",
-      "_key": "075869b0e9fa489f",
-      "score": 9
-    },
-    {
-      "title": "Estados Unidos preparam reforço de programas para contrariar influência da China",
-      "url": "https://jornaloguardiao.com/2026/07/28/estados-unidos-preparam-reforco-de-programas-para-contrariar-influencia-da-china/",
-      "source": "Jornal O Guardião",
-      "_key": "5433d2992601b685",
-      "score": 9
-    },
-    {
-      "title": " Estados Unidos preparam reforço de programas para contrariar influência da China ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_09b3b465606753",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 1 hora Preço médio do Brent fixado nos USD 81,30 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681928/pre%C3%A7o-m%C3%A9dio-do-brent-fixado-nos-usd-8130",
-      "source": "Jornal de Angola",
-      "_key": "ed04d1ef6766e4ff",
-      "score": 9
-    },
-    {
-      "title": "Última hora Angola investe 21 milhões de dólares em estudos para a futura autoestrada Oeste-Leste",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681911/angola-investe-21-milh%C3%B5es-de-d%C3%B3lares-em-estudos-para-a-futura-autoestrada-oeste-leste",
-      "source": "Jornal de Angola",
-      "_key": "37bdfddfec39a5e1",
-      "score": 9
-    },
-    {
-      "title": "Porto do Lobito marca presença no acto de assinatura do memorando para estudos da futura Autoestrada Oeste-Leste",
-      "url": "https://www.opais.ao/mundo/porto-do-lobito-marca-presenca-no-acto-de-assinatura-do-memorando-para-estudos-da-futura-autoestrada-oeste-leste/",
+      "title": "MIREMPET apresenta balanço do segundo trimestre e perspectivas do mercado petrolífero",
+      "url": "https://www.opais.ao/economia/mirempet-apresenta-balanco-do-segundo-trimestre-e-perspectivas-do-mercado-petrolifero/",
       "source": "O País",
-      "_key": "b0286874940c9f84",
+      "_key": "c0ade0334c60ed39",
       "score": 9
     },
     {
-      "title": "Angola’s West-East Highway construction to create over a 1,000 Jobs",
-      "url": "https://www.angop.ao/en/noticias/economia/auto-estrada-oeste-leste-vai-criar-mais-de-mil-empregos-construtora/",
-      "source": "ANGOP",
-      "_key": "93a55299ec518c98",
-      "score": 8
-    },
-    {
-      "title": "INEA and GAV Construções sign agreement to build West-East Highway",
-      "url": "https://www.angop.ao/en/noticias/economia/inea-e-gav-construcoes-assinam-acordo-para-construir-auto-estrada-oeste-leste/",
-      "source": "ANGOP",
-      "_key": "a69ecbd20c509b59",
-      "score": 8
-    },
-    {
-      "title": "Galp estuda regresso à exploração e produção de petróleo em Angola",
-      "url": "https://correiokianda.info/galp-estuda-regresso-a-exploracao-e-producao-de-petroleo-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "32addb7bb34605cf",
-      "score": 8
-    },
-    {
-      "title": "Angola inicia estudos para a futura Autoestrada Oeste-Leste",
-      "url": "https://jornaloguardiao.com/2026/07/28/angola-inicia-estudos-para-a-futura-autoestrada-oeste-leste/",
-      "source": "Jornal O Guardião",
-      "_key": "e0df507de509b6bc",
-      "score": 8
-    },
-    {
-      "title": " Angola inicia estudos para a futura Autoestrada Oeste-Leste ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b426c5bde121bf",
-      "score": 8
-    },
-    {
-      "title": "Assinado memorando para estrada Benguela-Moxico LesteO Governo e o Grupo GAV rubricaram, segunda feira, em Luanda, um memorando de entendimento para a elaboração de estudos e projectos direccionados à construção da auto-estrada Oeste-Leste, infraestrutura que ligará as províncias de Benguela e do Moxico. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681916/assinado-memorando-para--estrada-benguela-moxico-leste",
-      "source": "Jornal de Angola",
-      "_key": "851cd79ecb11a952",
-      "score": 8
-    },
-    {
-      "title": "Economia Kwanza já está integrado no Sistema de pagamentos dos países da SADC ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681926/kwanza-j%C3%A1-est%C3%A1-integrado-no-sistema-de-pagamentos-dos-pa%C3%ADses-da-sadc",
-      "source": "Jornal de Angola",
-      "_key": "dd4be034ca0c578e",
-      "score": 8
-    },
-    {
-      "title": "08:36 / 28 jul. 2026 Preços dos bens de consumo caem 2,60 pontos percentuais ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681923/pre%C3%A7os-dos-bens-de-consumo-caem-260-pontos-percentuais",
-      "source": "Jornal de Angola",
-      "_key": "9224be806a74b1fa",
-      "score": 8
-    },
-    {
-      "title": "South Africa Adds the Angolan Kwanza to Regional Cross-Border Payment System28/07/2026",
-      "url": "https://www.negociosdeangola.com/en/south-africa-adds-the-angolan-kwanza-to-regional-cross-border-payment-system/",
-      "source": "Negócios de Angola",
-      "_key": "2a26eb5db7abe393",
-      "score": 8
-    },
-    {
-      "title": "UNITEL: Ataque cibernético tira maior operadora de...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-ataque-cibernetico-tira-maior-operadora-de-telecomuniucacoes-angolana-do-ar-73558.html",
-      "source": "Novo Jornal",
-      "_key": "b630414ccad2bb6f",
-      "score": 8
-    },
-    {
-      "title": "UNITEL está fora de serviço desde a madrugada &ndash...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-esta-fora-de-servico-desde-a-madrugada-operadora-ainda-nao-fez-qualquer-comunicado-oficial-73551.html",
-      "source": "Novo Jornal",
-      "_key": "1d1cc4ff2615f3ce",
-      "score": 8
-    },
-    {
-      "title": "Ataque cibernético condiciona serviços da UNITEL em todo o país",
-      "url": "https://www.opais.ao/sociedade/ataque-cibernetico-condiciona-servicos-da-unitel-em-todo-o-pais/",
-      "source": "O País",
-      "_key": "23448a356ab5b895",
-      "score": 8
-    },
-    {
-      "title": "Falha na rede da UNITEL deixa clientes sem serviços desde a madrugada",
-      "url": "https://www.opais.ao/sociedade/falha-na-rede-da-unitel-deixa-clientes-sem-servicos-desde-a-madrugada/",
-      "source": "O País",
-      "_key": "c2b40b5916b437f3",
-      "score": 8
-    },
-    {
-      "title": "Rede da Unitel vai abaixo no dia seguinte ao sucesso...",
-      "url": "https://valoreconomico.co.ao/artigo/rede-da-unitel-vai-abaixo-no-dia-seguinte-ao-sucesso-da-entrada-em-bolsa",
+      "title": "Queda de sinal na Unitel inviabiliza pagamentos por TPA e...",
+      "url": "https://valoreconomico.co.ao/artigo/queda-de-sinal-na-unitel-inviabiliza-pagamentos-por-tpa-e-condiciona-comercio-em-luanda",
       "source": "Valor Económico",
-      "_key": "2a892ad189cc61ab",
+      "_key": "ae1089ad616c0e33",
       "score": 8
     },
     {
-      "title": "Estado arrecada 318 milhões de dólares com venda de 15% da Unitel, abaixo da avaliação de 2020",
-      "url": "https://angola24horas.com/component/k2/item/34768-estado-arrecada-318-milhoes-de-dolares-com-venda-de-15-da-unitel-abaixo-da-avaliacao-de-2020",
+      "title": "Ataque cibernético deixa clientes da Unitel sem voz, dados móveis e Internet em todo o país",
+      "url": "https://angola24horas.com/sociedade/item/34774-ataque-cibernetico-deixa-clientes-da-unitel-sem-voz-dados-moveis-e-internet-em-todo-o-pais",
       "source": "Angola 24 Horas",
-      "_key": "32160e022794ba4f",
+      "_key": "8a86b0ead68c52df",
       "score": 7
     },
     {
-      "title": "Kwanza dá passo histórico e integra sistema regional de pagamentos da SADC",
-      "url": "https://correiokianda.info/kwanza-integra-se-no-sistema-de-pagamentos-da-sadc-para-facilitar-transacoes-regionais/",
+      "title": "UNITEL atribui falha nacional da rede a ataque cibernético",
+      "url": "https://correiokianda.info/unitel-atribui-falha-nacional-da-rede-a-ataque-cibernetico/",
       "source": "Correio Kianda",
-      "_key": "8f022a0a5f7c15c3",
+      "_key": "c9ba6c8fc3109334",
       "score": 7
     },
     {
-      "title": "Unitel regista falha geral de rede e utilizadores pedem esclarecimentos",
-      "url": "https://correiokianda.info/unitel-regista-falha-geral-de-rede-e-utilizadores-pedem-esclarecimentos/",
-      "source": "Correio Kianda",
-      "_key": "b259bf0628d26ed9",
+      "title": "Ciberataque à UNITEL rompe o silêncio e expõe anos de vulnerabilidade digital em Angola",
+      "url": "https://diariodosnegocios.com/ciberataque-a-unitel-rompe-o-silencio-e-expoe-anos-de-vulnerabilidade-digital-em-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "16c726d43e55abec",
       "score": 7
     },
     {
-      "title": "Venda de 15% das acções Unitel rendem 318 milhões USD ao Estado angolano",
-      "url": "https://forbesafricalusofona.com/venda-de-15-das-accoes-unitel-rendem-318-milhoes-usd-ao-estado-angolano/",
-      "source": "Forbes África",
-      "_key": "8afaa059ac3581f6",
-      "score": 7
-    },
-    {
-      "title": "Kwanza é segunda moeda integrada no sistema de pagamentos transfronteiriços da SADC",
-      "url": "https://jornaloguardiao.com/2026/07/28/kwanza-e-segunda-moeda-integrada-no-sistema-de-pagamentos-transfronteiricos-da-sadc/",
-      "source": "Jornal O Guardião",
-      "_key": "002fbacbf9192d81",
-      "score": 7
-    },
-    {
-      "title": "Procura de ações da Unitel supera oferta em 120% e Estado encaixa quase 300,3 mil milhões de kwanzas",
-      "url": "https://jornaloguardiao.com/2026/07/27/procura-de-acoes-da-unitel-supera-oferta-em-120-e-estado-encaixa-quase-300-mil-milhoes-de-kwanzas/",
-      "source": "Jornal O Guardião",
-      "_key": "a85b9b35ee3732d3",
-      "score": 7
-    },
-    {
-      "title": " Kwanza é segunda moeda integrada no sistema de pagamentos transfronteiriços da SADC ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_66be7e32a99e5a",
-      "score": 7
-    },
-    {
-      "title": " Procura de ações da Unitel supera oferta em 120% e Estado encaixa quase 300,3 mil milhões de kwanzas ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_e98831df5b4455",
-      "score": 7
-    },
-    {
-      "title": "Destaque UNITEL sofre ataque cibernético e regista falhas nos serviços em todo o paísA Unitel informou, esta terça-feira, que foi alvo de um ataque cibernético à sua infraestrutura tecnológica, provocando falhas nos serviços de voz, dados móveis e acesso à Internet em todo o território nacional.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681963/unitel-sofre-ataque-cibern%C3%A9tico-e-regista-falhas-nos-servi%C3%A7os-em-todo-o-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "4f8d559dbb500b7f",
-      "score": 7
-    },
-    {
-      "title": "ANAVI denuncia importação de rabinho de bovino e restos de frango quase um ano após proibição do Governo",
-      "url": "https://www.opais.ao/politica/anavi-denuncia-importacao-de-rabinho-de-bovino-e-restos-de-frango-quase-um-ano-apos-proibicao-do-governo/",
-      "source": "O País",
-      "_key": "0aff66f4b2ae4f36",
-      "score": 7
-    },
-    {
-      "title": "Angola's trade balance registers positive balance of AKZ 1.16trillion",
-      "url": "https://www.angop.ao/en/noticias/economia/balanca-comercial-de-angola-regista-saldo-positivo-de-1x16-bilioes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "8a80706e94d7cd0f",
-      "score": 6
-    },
-    {
-      "title": "Balança Comercial",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=77576",
-      "source": "ANGOP",
-      "_key": "ef7df748e98e17ad",
-      "score": 6
-    },
-    {
-      "title": "Angola projects production of 45 million tons of various products for the upcoming agricultural year",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-projecta-producao-de-45-milhoes-de-toneladas-de-produtos-diversos-no-proximo-ano-agricola/",
-      "source": "ANGOP",
-      "_key": "d5029a5a1a34743a",
-      "score": 6
-    },
-    {
-      "title": "Angola exports 3,338 tons of coffee",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-exporta-tres-mil-338-toneladas-de-cafe/",
-      "source": "ANGOP",
-      "_key": "e2846db7e2679096",
-      "score": 6
-    },
-    {
-      "title": "Sector agrícola pode receber reforço de verbas no próximo OGE",
-      "url": "https://correiokianda.info/sector-agricola-pode-receber-reforco-de-verbas-no-proximo-oge/",
-      "source": "Correio Kianda",
-      "_key": "7d491a27b68c8a2d",
-      "score": 6
-    },
-    {
-      "title": "Angolanos na África do Sul podem ser evacuados: Governo activa estratégia de emergência face à onda de ataques xenófobos",
-      "url": "https://correiokianda.info/angolanos-na-africa-do-sul-podem-ser-evacuados-governo-activa-estrategia-de-emergencia-face-a-onda-de-ataques-xenofobos/",
-      "source": "Correio Kianda",
-      "_key": "0f28d358c5a21ec7",
-      "score": 6
-    },
-    {
-      "title": "Acções da Unitel esgotam com procura acima da oferta",
-      "url": "https://correiokianda.info/accoes-da-unitel-esgotam-com-procura-acima-da-oferta/",
-      "source": "Correio Kianda",
-      "_key": "f9addcbc5996c273",
-      "score": 6
-    },
-    {
-      "title": "Agricultura angolana é praticada apenas em 17,7% dos 35 milhões de hectares aráveis",
-      "url": "https://jornaloguardiao.com/2026/07/28/agricultura-angolana-e-praticada-apenas-em-177-dos-35-milhoes-de-hectares-araveis/",
-      "source": "Jornal O Guardião",
-      "_key": "52c8396ffba2951b",
-      "score": 6
-    },
-    {
-      "title": " Agricultura angolana é praticada apenas em 17,7% dos 35 milhões de hectares aráveis ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_74a36fc896b1db",
-      "score": 6
-    },
-    {
-      "title": "Processo de Luanda para paz na RDC é realçado no Conselho de Segurança O Processo de Luanda para a paz na República Democrática do Congo (RDC) foi enaltecido pela França no Conselho de Segurança das Nações Unidas. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681915/processo-de-luanda-para-paz-na-rdc-%C3%A9-real%C3%A7ado-no-conselho-de-seguran%C3%A7a-",
-      "source": "Jornal de Angola",
-      "_key": "69f08a3ab4f47f77",
-      "score": 6
-    },
-    {
-      "title": "Economia Acções da Unitel admitidas na Bolsa de Valores ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681927/ac%C3%A7%C3%B5es-da-unitel-admitidas-na-bolsa-de-valores",
-      "source": "Jornal de Angola",
-      "_key": "e7eb7de2dd9f02ac",
-      "score": 6
-    },
-    {
-      "title": "Government Conceals Names of Companies Awarded Direct Contracts, Raising Transparency Concerns",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10170",
-      "source": "Negócios de Angola",
-      "_key": "9c6a96ccb85f8c61",
-      "score": 6
-    },
-    {
-      "title": "Estado encaixa mais de 300 milhões de kwanzas com OPV da Unitel",
-      "url": "https://www.opais.ao/economia/estado-encaixa-mais-de-300-milhoes-de-kwanzas-com-opv-da-unitel/",
-      "source": "O País",
-      "_key": "94437770f37d1f29",
-      "score": 6
-    },
-    {
-      "title": "Vice-presidente da República exige combate à pesca ilegal e poluição...",
-      "url": "https://valoreconomico.co.ao/artigo/vice-presidente-da-republica-exige-combate-a-pesca-ilegal-e-poluicao-para-salvar-oceanos-africanos",
-      "source": "Valor Económico",
-      "_key": "9065b5eef26441a4",
-      "score": 6
-    },
-    {
-      "title": "Mais de 11 mil novos accionistas entram na Unitel e...",
-      "url": "https://valoreconomico.co.ao/artigo/mais-de-11-mil-novos-accionistas-entram-na-unitel-e-estado-encaixa-288-4-milhoes",
-      "source": "Valor Económico",
-      "_key": "4880ec8c08f0c81a",
-      "score": 6
-    },
-    {
-      "title": "Netherlands increases investments in infrastructures in central Huambo",
-      "url": "https://www.angop.ao/en/noticias/economia/paises-baixos-reforcam-investimentos-estruturantes-no-huambo/",
-      "source": "ANGOP",
-      "_key": "8f7e2925839c4bab",
-      "score": 5
-    },
-    {
-      "title": "Police detain over 600 DRC citizens for illegal entry in Angola",
-      "url": "https://www.angop.ao/en/noticias/sociedade/policia-detem-mais-de-600-cidadaos-da-rdc-por-entrada-ilegal-na-lunda-norte/",
-      "source": "ANGOP",
-      "_key": "9fe9f03b8626b81f",
-      "score": 5
-    },
-    {
-      "title": "Angola and African Union assess preparations for Luanda summit",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-ua-avaliam-preparativos-da-cimeira-de-luanda/",
-      "source": "ANGOP",
-      "_key": "6643bc7a8650232c",
-      "score": 5
-    },
-    {
-      "title": "Authorities reinforce appeal for investment in Mbanza Kongo",
-      "url": "https://www.angop.ao/en/noticias/economia/responsavel-reforca-apelo-ao-investimento-no-sector-hoteleiro-de-mbanza-kongo/",
-      "source": "ANGOP",
-      "_key": "f5f84668ab2c345a",
-      "score": 5
-    },
-    {
-      "title": "Governo prepara plano para repatriar angolanos residentes na África do Sul devido à violência xenófoba",
-      "url": "https://angola24horas.com/component/k2/item/34769-governo-prepara-plano-para-repatriar-angolanos-residentes-na-africa-do-sul-devido-a-violencia-xenofoba",
-      "source": "Angola 24 Horas",
-      "_key": "8e06e2d51b14d170",
-      "score": 5
-    },
-    {
-      "title": "Criadores de frango em Angola dizem que falta apoio financeiro para aumentar produção",
-      "url": "https://correiokianda.info/criadores-de-frango-em-angola-dizem-que-falta-apoio-financeiro-para-aumentar-producao/",
-      "source": "Correio Kianda",
-      "_key": "f07c4b767ffe78d9",
-      "score": 5
-    },
-    {
-      "title": " O filho do PCA e Os Negócios que Crescem à Sombra das Perguntas ",
+      "title": " Ciberataque à UNITEL rompe o silêncio e expõe anos de vulnerabilidade digital em Angola ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_fe5cc00a482c8e",
-      "score": 5
+      "_key": "t_9de2c40b57de74",
+      "score": 7
     },
     {
-      "title": "Movicel a definhar perdeu cerca de 25 mil subscritores/mês desde 2019",
-      "url": "https://expansao.co.ao/empresas/detalhe/movicel-a-definhar-perdeu-cerca-de-25-mil-subscritoresmes-desde-2019-73550.html",
-      "source": "Expansão",
-      "_key": "ee48e754deac7e1d",
-      "score": 5
+      "title": "Unitel sofre ataque cibernético após anúncio dos resultados da Oferta Pública de Venda das acções",
+      "url": "https://forbesafricalusofona.com/unitel-sofre-ataque-cibernetico-apos-anuncio-dos-resultados-da-oferta-publica-de-venda-das-accoes/",
+      "source": "Forbes África",
+      "_key": "1fad398d16bff1fa",
+      "score": 7
     },
     {
-      "title": "União Africana garante total apoio para êxito da Cimeira de Luanda O ministro das Relações Exteriores, Téte António, e o presidente da Comissão da União Africana, Mahmoud Ali Youssouf, avaliaram, ontem, em Adis Abeba, Etiópia, a preparação da Sessão Extraordinária da Conferência dos Chefes de Estado e de Governo da União Africana sobre o Reforço dos Mecanismos de Prevenção e Resolução dos Conflitos em África, que acontece no dia 30 do próximo mês, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681913/uni%C3%A3o-africana-garante-total-apoio--para-%C3%AAxito-da-cimeira-de-luanda-",
+      "title": "Destaque UNITEL sofre ataque cibernético e regista falhas nos serviços em todo o paísA operadora de telefonia móvel UNITEL encontra-se com os seus serviços condicionados desde a madrugada desta terça-feira, 28, na sequência de um ataque cibernético à sua infra-estrutura tecnológica, situação que está a causar preocupação entre milhares de clientes em todo o país.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681963/unitel-sofre-ataque-cibern%C3%A9tico-e-regista-falhas-nos-servi%C3%A7os-em-todo-o-pa%C3%ADs",
       "source": "Jornal de Angola",
-      "_key": "69582645b606fe52",
-      "score": 5
+      "_key": "2e29dd7029098e37",
+      "score": 7
     },
     {
-      "title": "Política Executivo garante fertilizantes e sementes para Ano Agrícola ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681917/executivo-garante-fertilizantes--e-sementes-para-ano-agr%C3%ADcola-",
-      "source": "Jornal de Angola",
-      "_key": "3a54bf3edbcfef48",
-      "score": 5
+      "title": "Ataque cibernético com efeitos significativos devido à ineficácia da UNITEL",
+      "url": "https://www.opais.ao/sociedade/ataque-cibernetico-com-efeitos-significativos-devido-a-ineficacia-da-unitel/",
+      "source": "O País",
+      "_key": "504a712669acb9f1",
+      "score": 7
     },
     {
-      "title": "Economia / Há 1 hora Huíla confirma acordos no âmbito da FILDA/2026 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681925/hu%C3%ADla-confirma-acordos-no-%C3%A2mbito-da-filda2026",
-      "source": "Jornal de Angola",
-      "_key": "0c2b463a4d16fac4",
-      "score": 5
+      "title": "Comunicações da Unitel condicionadas há mais de 10 horas após...",
+      "url": "https://valoreconomico.co.ao/artigo/comunicacoes-da-unitel-condicionadas-ha-mais-de-10-horas-apos-ataque-cibernetico",
+      "source": "Valor Económico",
+      "_key": "cde8ba43e4206133",
+      "score": 7
     },
     {
-      "title": "Economia / Há 1 hora Inclusão financeira sobe de 49,75 para 51,73% ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681924/inclus%C3%A3o-financeira-sobe-de-4975-para-5173%25",
-      "source": "Jornal de Angola",
-      "_key": "b02b4d5ba5a2f618",
-      "score": 5
+      "title": "Governo acaba com distribuição gratuita de insumos...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-acaba-com-distribuicao-gratuita-de-insumos-agricolas-73560.html",
+      "source": "Novo Jornal",
+      "_key": "bfba843303429e66",
+      "score": 6
     }
   ]
 }
