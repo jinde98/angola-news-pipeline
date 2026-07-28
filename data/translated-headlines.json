@@ -1,240 +1,496 @@
 {
-  "date": "2026-07-27",
-  "total_new": 56,
-  "total_filtered": 29,
+  "date": "2026-07-28",
+  "total_new": 154,
+  "total_filtered": 61,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Governo promete resolver entraves na emissão de vistos para empresários chineses O ministro do Interior, Manuel Homem, assegurou, esta segunda-feira, que os constrangimentos enfrentados pelos empresários chineses na emissão e renovação de vistos de trabalho serão solucionados em breve, no âmbito de um esforço conjunto entre as instituições angolanas e a Embaixada da China em Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681905/governo-promete-resolver-entraves-na-emiss%C3%A3o-de-vistos-para-empres%C3%A1rios-chineses-",
-      "source": "Jornal de Angola",
-      "_key": "deeb3ff50907c4a3",
+      "title": "Banco Atlântico integra sistema internacional de pagamentos da China",
+      "url": "https://angola24horas.com/economia/item/34765-banco-atlantico-integra-sistema-internacional-de-pagamentos-da-china",
+      "source": "Angola 24 Horas",
+      "_key": "dc42ea284653db68",
       "score": 10,
-      "title_cn": "安哥拉政府承诺解决中国商人签证障碍，内政部长曼努埃尔·奥门（Manuel Homem）表态。"
+      "title_cn": "大西洋银行接入中国国际支付系统"
     },
     {
-      "title": "MININT e Câmara de Comércio Angola-China reforçam cooperação em matéria de segurança",
-      "url": "https://www.opais.ao/politica/minint-e-camara-de-comercio-angola-china-reforcam-cooperacao-em-materia-de-seguranca/",
-      "source": "O País",
-      "_key": "4d432ab088da5032",
-      "score": 10,
-      "title_cn": "安哥拉内政部与安中商会加强安全领域合作。"
-    },
-    {
-      "title": "Mercado petrolífero reage ao alívio geopolítico e Brent recua para 88 dólares",
-      "url": "https://correiokianda.info/mercado-petrolifero-reage-ao-alivio-geopolitico-e-brent-recua-para-88-dolares/",
+      "title": "Empresários chineses vão ter solução para dificuldades com vistos de trabalho",
+      "url": "https://correiokianda.info/empresarios-chineses-vao-ter-solucao-para-dificuldades-com-vistos-de-trabalho/",
       "source": "Correio Kianda",
-      "_key": "5d641428751a2eb5",
-      "score": 9,
-      "title_cn": "地缘政治局势缓解，石油市场反应，布伦特原油跌至88美元。"
+      "_key": "089de34f5e0043b6",
+      "score": 10,
+      "title_cn": "中国企业家工作签证难题将获解决"
     },
     {
-      "title": "MINOPUH e GAV assinam hoje memorando para elaboração de estudos da futura Autoestrada Oeste-Leste",
-      "url": "https://www.opais.ao/ultima_hora/minopuh-e-gav-assinam-hoje-memorando-para-elaboracao-de-estudos-da-futura-autoestrada-oeste-leste/",
+      "title": "Banco Atlântico integra sistema internacional de pagamentos da China e reforça posição de Angola nas finanças globais",
+      "url": "https://jornaloguardiao.com/2026/07/28/banco-atlantico-integra-sistema-internacional-de-pagamentos-da-china-e-reforca-posicao-de-angola-nas-financas-globais/",
+      "source": "Jornal O Guardião",
+      "_key": "5f6bb137bedd024d",
+      "score": 10,
+      "title_cn": "大西洋银行接入中国支付系统，巩固安哥拉全球金融地位"
+    },
+    {
+      "title": " Banco Atlântico integra sistema internacional de pagamentos da China e reforça posição de Angola nas finanças globais ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d7642eb13f5503",
+      "score": 10,
+      "title_cn": "大西洋银行接入中国支付系统，巩固安哥拉全球金融地位"
+    },
+    {
+      "title": "Lobito Corridor motivates creation of Lagos-Dakar link",
+      "url": "https://www.angop.ao/en/noticias/economia/corredor-do-lobito-motiva-criacao-da-ligacao-lagos-dakar/",
+      "source": "ANGOP",
+      "_key": "075869b0e9fa489f",
+      "score": 9,
+      "title_cn": "洛比托走廊推动拉各斯-达喀尔互联互通建设"
+    },
+    {
+      "title": "Estados Unidos preparam reforço de programas para contrariar influência da China",
+      "url": "https://jornaloguardiao.com/2026/07/28/estados-unidos-preparam-reforco-de-programas-para-contrariar-influencia-da-china/",
+      "source": "Jornal O Guardião",
+      "_key": "5433d2992601b685",
+      "score": 9,
+      "title_cn": "美国准备加强项目以对抗中国影响力"
+    },
+    {
+      "title": " Estados Unidos preparam reforço de programas para contrariar influência da China ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_09b3b465606753",
+      "score": 9,
+      "title_cn": "美国准备加强项目以对抗中国影响力"
+    },
+    {
+      "title": "Economia / Há 1 hora Preço médio do Brent fixado nos USD 81,30 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681928/pre%C3%A7o-m%C3%A9dio-do-brent-fixado-nos-usd-8130",
+      "source": "Jornal de Angola",
+      "_key": "ed04d1ef6766e4ff",
+      "score": 9,
+      "title_cn": "布伦特原油均价定为81.30美元"
+    },
+    {
+      "title": "Última hora Angola investe 21 milhões de dólares em estudos para a futura autoestrada Oeste-Leste",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681911/angola-investe-21-milh%C3%B5es-de-d%C3%B3lares-em-estudos-para-a-futura-autoestrada-oeste-leste",
+      "source": "Jornal de Angola",
+      "_key": "37bdfddfec39a5e1",
+      "score": 9,
+      "title_cn": "安哥拉投资2100万美元用于东西高速公路研究"
+    },
+    {
+      "title": "Porto do Lobito marca presença no acto de assinatura do memorando para estudos da futura Autoestrada Oeste-Leste",
+      "url": "https://www.opais.ao/mundo/porto-do-lobito-marca-presenca-no-acto-de-assinatura-do-memorando-para-estudos-da-futura-autoestrada-oeste-leste/",
       "source": "O País",
-      "_key": "25ee4dd3d5d10996",
+      "_key": "b0286874940c9f84",
       "score": 9,
-      "title_cn": "公共工程部与GAV签署备忘录，研究未来东西向高速公路。"
+      "title_cn": "洛比托港出席东西高速公路研究备忘录签署仪式"
     },
     {
-      "title": "Endividamento do sector privado em Angola aumenta 13,7% para 899,6 mil milhões kz – BNA",
-      "url": "https://forbesafricalusofona.com/endividamento-do-sector-privado-em-angola-aumenta-137-para-8996-mil-milhoes-kz-bna/",
-      "source": "Forbes África",
-      "_key": "0d2805cfb9489e76",
+      "title": "Angola’s West-East Highway construction to create over a 1,000 Jobs",
+      "url": "https://www.angop.ao/en/noticias/economia/auto-estrada-oeste-leste-vai-criar-mais-de-mil-empregos-construtora/",
+      "source": "ANGOP",
+      "_key": "93a55299ec518c98",
       "score": 8,
-      "title_cn": "安哥拉私营部门债务增13.7%至8996亿宽扎——安哥拉国家银行。"
+      "title_cn": "安哥拉东西高速公路建设将创造逾千个就业岗位"
     },
     {
-      "title": "EXPANSÃO EM DIRECTO: MUITO LONGE DOS OBJECTIVOS DO PROGRAMA APRESENTADO EM 2019. Conclusão do PROPRIV obriga à venda de dois activos/mês até ao final do ano.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=73538",
+      "title": "INEA and GAV Construções sign agreement to build West-East Highway",
+      "url": "https://www.angop.ao/en/noticias/economia/inea-e-gav-construcoes-assinam-acordo-para-construir-auto-estrada-oeste-leste/",
+      "source": "ANGOP",
+      "_key": "a69ecbd20c509b59",
+      "score": 8,
+      "title_cn": "安哥拉国家公路局与GAV建筑公司签署东西高速公路建设协议"
+    },
+    {
+      "title": "Galp estuda regresso à exploração e produção de petróleo em Angola",
+      "url": "https://correiokianda.info/galp-estuda-regresso-a-exploracao-e-producao-de-petroleo-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "32addb7bb34605cf",
+      "score": 8,
+      "title_cn": "高浦能源(Galp)研究重返安哥拉石油勘探生产"
+    },
+    {
+      "title": "Angola inicia estudos para a futura Autoestrada Oeste-Leste",
+      "url": "https://jornaloguardiao.com/2026/07/28/angola-inicia-estudos-para-a-futura-autoestrada-oeste-leste/",
+      "source": "Jornal O Guardião",
+      "_key": "e0df507de509b6bc",
+      "score": 8,
+      "title_cn": "安哥拉启动未来东西高速公路研究"
+    },
+    {
+      "title": " Angola inicia estudos para a futura Autoestrada Oeste-Leste ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_b426c5bde121bf",
+      "score": 8,
+      "title_cn": "安哥拉启动未来东西高速公路研究"
+    },
+    {
+      "title": "Assinado memorando para estrada Benguela-Moxico LesteO Governo e o Grupo GAV rubricaram, segunda feira, em Luanda, um memorando de entendimento para a elaboração de estudos e projectos direccionados à construção da auto-estrada Oeste-Leste, infraestrutura que ligará as províncias de Benguela e do Moxico. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681916/assinado-memorando-para--estrada-benguela-moxico-leste",
+      "source": "Jornal de Angola",
+      "_key": "851cd79ecb11a952",
+      "score": 8,
+      "title_cn": "安哥拉政府与GAV集团签署本格拉-莫希科东部公路研究备忘录"
+    },
+    {
+      "title": "Economia Kwanza já está integrado no Sistema de pagamentos dos países da SADC ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681926/kwanza-j%C3%A1-est%C3%A1-integrado-no-sistema-de-pagamentos-dos-pa%C3%ADses-da-sadc",
+      "source": "Jornal de Angola",
+      "_key": "dd4be034ca0c578e",
+      "score": 8,
+      "title_cn": "宽扎已纳入南部非洲发展共同体支付系统"
+    },
+    {
+      "title": "08:36 / 28 jul. 2026 Preços dos bens de consumo caem 2,60 pontos percentuais ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681923/pre%C3%A7os-dos-bens-de-consumo-caem-260-pontos-percentuais",
+      "source": "Jornal de Angola",
+      "_key": "9224be806a74b1fa",
+      "score": 8,
+      "title_cn": "消费品价格下跌2.60个百分点"
+    },
+    {
+      "title": "South Africa Adds the Angolan Kwanza to Regional Cross-Border Payment System28/07/2026",
+      "url": "https://www.negociosdeangola.com/en/south-africa-adds-the-angolan-kwanza-to-regional-cross-border-payment-system/",
+      "source": "Negócios de Angola",
+      "_key": "2a26eb5db7abe393",
+      "score": 8,
+      "title_cn": "南非将安哥拉宽扎纳入区域跨境支付系统"
+    },
+    {
+      "title": "UNITEL: Ataque cibernético tira maior operadora de...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-ataque-cibernetico-tira-maior-operadora-de-telecomuniucacoes-angolana-do-ar-73558.html",
       "source": "Novo Jornal",
-      "_key": "2aac1166af7451a9",
+      "_key": "b630414ccad2bb6f",
       "score": 8,
-      "title_cn": "2019年计划目标远未实现，PROPRIV要求年底前每月出售两项资产。"
+      "title_cn": "安哥拉联合电信(UNITEL)遭网络攻击，最大运营商受影响"
     },
     {
-      "title": "OPI da Unitel: IGAPE Justifica Selecção de Intermediários com Eficiência...",
-      "url": "https://valoreconomico.co.ao/artigo/opi-da-unitel-igape-justifica-seleccao-de-intermediarios-com-eficiencia-e-integridade",
+      "title": "UNITEL está fora de serviço desde a madrugada &ndash...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-esta-fora-de-servico-desde-a-madrugada-operadora-ainda-nao-fez-qualquer-comunicado-oficial-73551.html",
+      "source": "Novo Jornal",
+      "_key": "1d1cc4ff2615f3ce",
+      "score": 8,
+      "title_cn": "安哥拉联合电信(UNITEL)自凌晨起服务中断"
+    },
+    {
+      "title": "Ataque cibernético condiciona serviços da UNITEL em todo o país",
+      "url": "https://www.opais.ao/sociedade/ataque-cibernetico-condiciona-servicos-da-unitel-em-todo-o-pais/",
+      "source": "O País",
+      "_key": "23448a356ab5b895",
+      "score": 8,
+      "title_cn": "网络攻击影响安哥拉联合电信(UNITEL)全国服务"
+    },
+    {
+      "title": "Falha na rede da UNITEL deixa clientes sem serviços desde a madrugada",
+      "url": "https://www.opais.ao/sociedade/falha-na-rede-da-unitel-deixa-clientes-sem-servicos-desde-a-madrugada/",
+      "source": "O País",
+      "_key": "c2b40b5916b437f3",
+      "score": 8,
+      "title_cn": "安哥拉联合电信(UNITEL)网络故障，客户自凌晨起无服务"
+    },
+    {
+      "title": "Rede da Unitel vai abaixo no dia seguinte ao sucesso...",
+      "url": "https://valoreconomico.co.ao/artigo/rede-da-unitel-vai-abaixo-no-dia-seguinte-ao-sucesso-da-entrada-em-bolsa",
       "source": "Valor Económico",
-      "_key": "f81d8b0819e641d9",
+      "_key": "2a892ad189cc61ab",
       "score": 8,
-      "title_cn": "Unitel首次公开募股：IGAPE以效率为由解释中介机构选择。"
+      "title_cn": "安哥拉联合电信(Unitel)网络在成功后次日瘫痪"
     },
     {
-      "title": "Migration",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6716",
-      "source": "ANGOP",
-      "_key": "1b0bc695119855aa",
-      "score": 7,
-      "title_cn": "Migration"
-    },
-    {
-      "title": "Os negócios de Gianni Martins: A ascensão do filho do PCA da Sonangol nos sectores estratégicos",
-      "url": "https://diariodosnegocios.com/os-negocios-de-gianni-martins-a-ascensao-do-filho-do-pca-da-sonangol-nos-sectores-estrategicos/",
-      "source": "Diário dos Negócios",
-      "_key": "131cac2ccef3bb20",
-      "score": 7,
-      "title_cn": "詹尼·马丁斯（Gianni Martins）的商业：Sonangol董事长之子在战略部门崛起。"
-    },
-    {
-      "title": "Inspector da IGAE e ex-governador do Zaire acusados de validar dívida pública de 43,7 mil milhões de kwanzas",
-      "url": "https://diariodosnegocios.com/inspector-da-igae-e-ex-governador-do-zaire-acusados-de-validar-divida-publica-de-437-mil-milhoes-de-kwanzas/",
-      "source": "Diário dos Negócios",
-      "_key": "4394fd9f5c384c0c",
-      "score": 7,
-      "title_cn": "IGAE检查员与扎伊尔省前省长被控批准437亿宽扎公共债务。"
-    },
-    {
-      "title": " Os negócios de Gianni Martins: A ascensão do filho do PCA da Sonangol nos sectores estratégicos ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_ceaa2a2c6b5cd6",
-      "score": 7,
-      "title_cn": "詹尼·马丁斯（Gianni Martins）的商业：Sonangol董事长之子在战略部门崛起。"
-    },
-    {
-      "title": " Inspector da IGAE e ex-governador do Zaire acusados de validar dívida pública de 43,7 mil milhões de kwanzas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_d814d8a13de07c",
-      "score": 7,
-      "title_cn": "IGAE检查员与扎伊尔省前省长被控批准437亿宽扎公共债务。"
-    },
-    {
-      "title": "Dubai vê em Angola uma porta de entrada para expandir negócios em África",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_f3d6c38ea13567",
-      "score": 7,
-      "title_cn": "迪拜视安哥拉为拓展非洲业务的门户。"
-    },
-    {
-      "title": "Dubai vê em Angola uma porta de entrada para expandir negócios em ÁfricaO Dubai continua a reforçar a sua estratégia de expansão em África com a abertura de um escritório da Dubai International Chamber em Luanda, numa altura em que as relações económicas com Angola aceleram e o comércio não petrolífero entre os dois mercados regista níveis históricos, ultrapassando os 11,6 mil milhões de dirhams (AED) em 2025, (cerca de 3 mil milhões USD), um aumento de 47,5% face ao ano anterior.",
-      "url": "https://expansao.co.ao/empresas/detalhe/dubai-ve-em-angola-uma-porta-de-entrada-para-expandir-negocios-em-africa-73540.html",
-      "source": "Expansão",
-      "_key": "c96b38ec36b3f5b0",
-      "score": 7,
-      "title_cn": "迪拜视安哥拉为拓展非洲业务门户，迪拜国际商会开设办事处加强扩张战略。"
-    },
-    {
-      "title": "Destaque Instituto Regulador da Construção e Obras Públicas visita Edições NovembroUma delegação do Instituto Regulador da Construção e Obras Públicas (IRCOP) realizou, esta segunda-feira, uma visita de constatação às instalações da Edições Novembro, empresa proprietária do Jornal de Angola e de outros títulos.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681904/instituto-regulador-da-constru%C3%A7%C3%A3o-e-obras-p%C3%BAblicas-visita-edi%C3%A7%C3%B5es-novembro",
-      "source": "Jornal de Angola",
-      "_key": "c7f0a6c00f54f36e",
-      "score": 7,
-      "title_cn": "安哥拉建筑和公共工程监管局访问十一月出版社。"
-    },
-    {
-      "title": "LUANDA DOWNTOWN: DO MAR PARA O CRESCIMENTO DE ANGOLA. A importância da pesca para a economia nacional.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=73539",
-      "source": "Novo Jornal",
-      "_key": "bdb90c949cb77269",
-      "score": 7,
-      "title_cn": "罗安达市中心：从海洋到安哥拉增长。渔业对国民经济至关重要。"
-    },
-    {
-      "title": "PNAE generates over 2,000 direct jobs",
-      "url": "https://www.angop.ao/en/noticias/educacao/pnae-gera-mais-de-dois-mil-postos-de-trabalho-directos/",
-      "source": "ANGOP",
-      "_key": "2f7d5c4a858548e4",
-      "score": 6,
-      "title_cn": "PNAE创造了超过2000个直接就业岗位"
-    },
-    {
-      "title": "Over 50 DRC citizens repatriated for irregular migratory status in Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/sme-no-zaire-repatria-54-cidadaos-da-rdc-em-situacao-migratoria-irregular/",
-      "source": "ANGOP",
-      "_key": "87d01bccea857732",
-      "score": 6,
-      "title_cn": "逾50名刚果（金）公民因非法移民身份在安哥拉被遣返。"
-    },
-    {
-      "title": "Ministério dos Recursos Minerais recruta 21 técnicos e motoristas por concurso público",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34763-ministerio-dos-recursos-minerais-recruta-21-tecnicos-e-motoristas-por-concurso-publico",
+      "title": "Estado arrecada 318 milhões de dólares com venda de 15% da Unitel, abaixo da avaliação de 2020",
+      "url": "https://angola24horas.com/component/k2/item/34768-estado-arrecada-318-milhoes-de-dolares-com-venda-de-15-da-unitel-abaixo-da-avaliacao-de-2020",
       "source": "Angola 24 Horas",
-      "_key": "9bbe67eb088aa39a",
-      "score": 6,
-      "title_cn": "矿产资源部公开招聘21名技术员和司机。"
+      "_key": "32160e022794ba4f",
+      "score": 7,
+      "title_cn": "安哥拉政府出售15%联合电信股份获3.18亿美元，低于2020年估值"
     },
     {
-      "title": "Economia azul rende 290 mil milhões de dólares ao Produto Interno Bruto africano por ano",
-      "url": "https://forbesafricalusofona.com/economia-azul-rende-290-mil-milhoes-de-dolares-ao-produto-interno-bruto-africano-por-ano/",
-      "source": "Forbes África",
-      "_key": "0932c77214d1f827",
-      "score": 6,
-      "title_cn": "蓝色经济每年为非洲国内生产总值贡献2900亿美元。"
-    },
-    {
-      "title": "Luanda regista 12 mortos e 14 feridos em 21 acidentes rodoviários no fim-de-semana",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-regista-12-mortos-e-14-feridos-em-21-acidentes-rodoviarios-no-fim-de-semana-73517.html",
-      "source": "Novo Jornal",
-      "_key": "e996d4ef3748c3c3",
-      "score": 6,
-      "title_cn": "罗安达周末发生21起交通事故，致12人死亡14人受伤。"
-    },
-    {
-      "title": "PNAE no Huambo cria mais de dois mil empregos directos",
-      "url": "https://www.opais.ao/sociedade/pnae-no-huambo-cria-mais-de-dois-mil-empregos-directos/",
-      "source": "O País",
-      "_key": "3eddfd72ad9b05ed",
-      "score": 6,
-      "title_cn": "国家就业计划（PNAE）在万博省创造逾2000个直接就业岗位。"
-    },
-    {
-      "title": "FILDA 2026 - Fire service reports 124 incidents over Event's 6 days",
-      "url": "https://www.angop.ao/en/noticias/economia/filda-2026-bombeiros-registam-124-ocorrencias-em-seis-dias/",
-      "source": "ANGOP",
-      "_key": "d5a943b5185da575",
-      "score": 5,
-      "title_cn": "2026年罗安达国际博览会：消防部门报告6天内发生124起事件。"
-    },
-    {
-      "title": "Um ano depois dos tumultos em Luanda, empresário diz ter virado mendigo e aguarda indemnização",
-      "url": "https://angola24horas.com/sociedade/item/34759-um-ano-depois-dos-tumultos-em-luanda-empresario-diz-ter-virado-mendigo-e-aguarda-indemnizacao",
-      "source": "Angola 24 Horas",
-      "_key": "4dc42e7ca726d8e5",
-      "score": 5,
-      "title_cn": "罗安达骚乱一年后，商人称沦为乞丐并等待赔偿。"
-    },
-    {
-      "title": "Empresa condenada a pagar quase 15 mil euros por vigiar funcionária com GPS",
-      "url": "https://correiokianda.info/empresa-condenada-a-pagar-quase-15-mil-euros-por-vigiar-funcionaria-com-gps/",
+      "title": "Kwanza dá passo histórico e integra sistema regional de pagamentos da SADC",
+      "url": "https://correiokianda.info/kwanza-integra-se-no-sistema-de-pagamentos-da-sadc-para-facilitar-transacoes-regionais/",
       "source": "Correio Kianda",
-      "_key": "dcb039c42457a841",
-      "score": 5,
-      "title_cn": "公司因GPS监视女员工被判支付近1.5万欧元罚款。"
+      "_key": "8f022a0a5f7c15c3",
+      "score": 7,
+      "title_cn": "宽扎迈出历史性一步，融入南部非洲发展共同体区域支付系统"
     },
     {
-      "title": "Destaque SIC destrói duas toneladas de arroz impróprio para consumo em BenguelaO Serviço de Investigação Criminal (SIC) em Benguela procedeu, na sexta-feira, à destruição de duas toneladas de arroz impróprio para o consumo humano, apreendido no âmbito de um processo-crime que decorre sob tramitação legal.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/681906/sic-destr%C3%B3i-duas-toneladas-de-arroz-impr%C3%B3prio-para-consumo-em-benguela",
+      "title": "Unitel regista falha geral de rede e utilizadores pedem esclarecimentos",
+      "url": "https://correiokianda.info/unitel-regista-falha-geral-de-rede-e-utilizadores-pedem-esclarecimentos/",
+      "source": "Correio Kianda",
+      "_key": "b259bf0628d26ed9",
+      "score": 7,
+      "title_cn": "安哥拉联合电信(Unitel)网络全面故障，用户要求澄清"
+    },
+    {
+      "title": "Venda de 15% das acções Unitel rendem 318 milhões USD ao Estado angolano",
+      "url": "https://forbesafricalusofona.com/venda-de-15-das-accoes-unitel-rendem-318-milhoes-usd-ao-estado-angolano/",
+      "source": "Forbes África",
+      "_key": "8afaa059ac3581f6",
+      "score": 7,
+      "title_cn": "出售15%安哥拉联合电信股份为安哥拉政府带来3.18亿美元"
+    },
+    {
+      "title": "Kwanza é segunda moeda integrada no sistema de pagamentos transfronteiriços da SADC",
+      "url": "https://jornaloguardiao.com/2026/07/28/kwanza-e-segunda-moeda-integrada-no-sistema-de-pagamentos-transfronteiricos-da-sadc/",
+      "source": "Jornal O Guardião",
+      "_key": "002fbacbf9192d81",
+      "score": 7,
+      "title_cn": "宽扎成为南部非洲发展共同体跨境支付系统第二种集成货币"
+    },
+    {
+      "title": "Procura de ações da Unitel supera oferta em 120% e Estado encaixa quase 300,3 mil milhões de kwanzas",
+      "url": "https://jornaloguardiao.com/2026/07/27/procura-de-acoes-da-unitel-supera-oferta-em-120-e-estado-encaixa-quase-300-mil-milhoes-de-kwanzas/",
+      "source": "Jornal O Guardião",
+      "_key": "a85b9b35ee3732d3",
+      "score": 7,
+      "title_cn": "安哥拉联合电信(Unitel)股票需求超供应120%，政府获近3003亿宽扎"
+    },
+    {
+      "title": " Kwanza é segunda moeda integrada no sistema de pagamentos transfronteiriços da SADC ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_66be7e32a99e5a",
+      "score": 7,
+      "title_cn": "宽扎成为南部非洲发展共同体跨境支付系统第二种集成货币"
+    },
+    {
+      "title": " Procura de ações da Unitel supera oferta em 120% e Estado encaixa quase 300,3 mil milhões de kwanzas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e98831df5b4455",
+      "score": 7,
+      "title_cn": "安哥拉联合电信(Unitel)股票需求超供应120%，政府获近3003亿宽扎"
+    },
+    {
+      "title": "Destaque UNITEL sofre ataque cibernético e regista falhas nos serviços em todo o paísA Unitel informou, esta terça-feira, que foi alvo de um ataque cibernético à sua infraestrutura tecnológica, provocando falhas nos serviços de voz, dados móveis e acesso à Internet em todo o território nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681963/unitel-sofre-ataque-cibern%C3%A9tico-e-regista-falhas-nos-servi%C3%A7os-em-todo-o-pa%C3%ADs",
       "source": "Jornal de Angola",
-      "_key": "173752a12e48954c",
-      "score": 5,
-      "title_cn": "本格拉刑事调查局销毁两吨不宜食用大米。"
+      "_key": "4f8d559dbb500b7f",
+      "score": 7,
+      "title_cn": "安哥拉联合电信(UNITEL)遭网络攻击，全国服务中断"
     },
     {
-      "title": "Téte António e Mahmoud Ali Youssouf abordam preparativos da cimeira em Luanda  O ministro das Relações Exteriores, Téte António, reuniu-se, hoje, em Adis Abeba, com o presidente da Comissão da União Africana, Mahmoud Ali Youssouf, para analisar temas ligados à paz e segurança no continente e preparativos da sessão extraordinária da organização que terá lugar no próximo dia 30, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681909/t%C3%A9te-ant%C3%B3nio-e-mahmoud-ali-youssouf-abordam-preparativos-da-cimeira-em-luanda-",
-      "source": "Jornal de Angola",
-      "_key": "9b137e31fe583740",
-      "score": 5,
-      "title_cn": "特特·安东尼奥（Téte António）与马哈茂德·阿里·优素福（Mahmoud Ali Youssouf）讨论罗安达峰会筹备。"
-    },
-    {
-      "title": "Destaque Empresas angolanas participam na Semana Industrial da SADCQuatro empresas angolanas estão a representar o país na Semana Industrial da Comunidade de Desenvolvimento da África Austral (SADC), que decorre até 31 de Julho, na cidade de Durban, África do Sul.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681908/empresas-angolanas-participam-na-semana-industrial-da-sadc",
-      "source": "Jornal de Angola",
-      "_key": "461a91994ecd54f1",
-      "score": 5,
-      "title_cn": "四家安哥拉公司参加南部非洲发展共同体（SADC）工业周。"
-    },
-    {
-      "title": "Mais de 100 ocorrências registadas durante a FILDA 2026",
-      "url": "https://www.opais.ao/sociedade/mais-de-100-ocorrencias-registadas-durante-a-filda-2026/",
+      "title": "ANAVI denuncia importação de rabinho de bovino e restos de frango quase um ano após proibição do Governo",
+      "url": "https://www.opais.ao/politica/anavi-denuncia-importacao-de-rabinho-de-bovino-e-restos-de-frango-quase-um-ano-apos-proibicao-do-governo/",
       "source": "O País",
-      "_key": "9e63b08aa95d6dc2",
+      "_key": "0aff66f4b2ae4f36",
+      "score": 7,
+      "title_cn": "安哥拉国家肉类协会谴责政府禁令近一年后仍进口牛尾鸡肉残渣"
+    },
+    {
+      "title": "Angola's trade balance registers positive balance of AKZ 1.16trillion",
+      "url": "https://www.angop.ao/en/noticias/economia/balanca-comercial-de-angola-regista-saldo-positivo-de-1x16-bilioes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "8a80706e94d7cd0f",
+      "score": 6,
+      "title_cn": "安哥拉贸易顺差达1.16万亿宽扎"
+    },
+    {
+      "title": "Balança Comercial",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=77576",
+      "source": "ANGOP",
+      "_key": "ef7df748e98e17ad",
+      "score": 6,
+      "title_cn": "贸易平衡"
+    },
+    {
+      "title": "Angola projects production of 45 million tons of various products for the upcoming agricultural year",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-projecta-producao-de-45-milhoes-de-toneladas-de-produtos-diversos-no-proximo-ano-agricola/",
+      "source": "ANGOP",
+      "_key": "d5029a5a1a34743a",
+      "score": 6,
+      "title_cn": "安哥拉预计下个农业年度将生产4500万吨各类产品"
+    },
+    {
+      "title": "Angola exports 3,338 tons of coffee",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-exporta-tres-mil-338-toneladas-de-cafe/",
+      "source": "ANGOP",
+      "_key": "e2846db7e2679096",
+      "score": 6,
+      "title_cn": "安哥拉出口咖啡3338吨"
+    },
+    {
+      "title": "Sector agrícola pode receber reforço de verbas no próximo OGE",
+      "url": "https://correiokianda.info/sector-agricola-pode-receber-reforco-de-verbas-no-proximo-oge/",
+      "source": "Correio Kianda",
+      "_key": "7d491a27b68c8a2d",
+      "score": 6,
+      "title_cn": "农业部门有望在下个国家总预算中获得更多资金"
+    },
+    {
+      "title": "Angolanos na África do Sul podem ser evacuados: Governo activa estratégia de emergência face à onda de ataques xenófobos",
+      "url": "https://correiokianda.info/angolanos-na-africa-do-sul-podem-ser-evacuados-governo-activa-estrategia-de-emergencia-face-a-onda-de-ataques-xenofobos/",
+      "source": "Correio Kianda",
+      "_key": "0f28d358c5a21ec7",
+      "score": 6,
+      "title_cn": "安哥拉政府启动紧急战略，或撤离南非安哥拉侨民以应对排外袭击"
+    },
+    {
+      "title": "Acções da Unitel esgotam com procura acima da oferta",
+      "url": "https://correiokianda.info/accoes-da-unitel-esgotam-com-procura-acima-da-oferta/",
+      "source": "Correio Kianda",
+      "_key": "f9addcbc5996c273",
+      "score": 6,
+      "title_cn": "Unitel股价按需高于供给"
+    },
+    {
+      "title": "Agricultura angolana é praticada apenas em 17,7% dos 35 milhões de hectares aráveis",
+      "url": "https://jornaloguardiao.com/2026/07/28/agricultura-angolana-e-praticada-apenas-em-177-dos-35-milhoes-de-hectares-araveis/",
+      "source": "Jornal O Guardião",
+      "_key": "52c8396ffba2951b",
+      "score": 6,
+      "title_cn": "安哥拉农业仅在3500万公顷可耕地中的17.7%上进行"
+    },
+    {
+      "title": " Agricultura angolana é praticada apenas em 17,7% dos 35 milhões de hectares aráveis ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_74a36fc896b1db",
+      "score": 6,
+      "title_cn": "安哥拉农业仅在3500万公顷可耕地中的17.7%上进行"
+    },
+    {
+      "title": "Processo de Luanda para paz na RDC é realçado no Conselho de Segurança O Processo de Luanda para a paz na República Democrática do Congo (RDC) foi enaltecido pela França no Conselho de Segurança das Nações Unidas. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681915/processo-de-luanda-para-paz-na-rdc-%C3%A9-real%C3%A7ado-no-conselho-de-seguran%C3%A7a-",
+      "source": "Jornal de Angola",
+      "_key": "69f08a3ab4f47f77",
+      "score": 6,
+      "title_cn": "罗安达进程在安理会获强调，旨在刚果民主共和国实现和平"
+    },
+    {
+      "title": "Economia Acções da Unitel admitidas na Bolsa de Valores ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681927/ac%C3%A7%C3%B5es-da-unitel-admitidas-na-bolsa-de-valores",
+      "source": "Jornal de Angola",
+      "_key": "e7eb7de2dd9f02ac",
+      "score": 6,
+      "title_cn": "安哥拉联合电信(Unitel)股票获准在证券交易所上市"
+    },
+    {
+      "title": "Government Conceals Names of Companies Awarded Direct Contracts, Raising Transparency Concerns",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10170",
+      "source": "Negócios de Angola",
+      "_key": "9c6a96ccb85f8c61",
+      "score": 6,
+      "title_cn": "政府隐瞒直接合同公司名称，引发透明度担忧"
+    },
+    {
+      "title": "Estado encaixa mais de 300 milhões de kwanzas com OPV da Unitel",
+      "url": "https://www.opais.ao/economia/estado-encaixa-mais-de-300-milhoes-de-kwanzas-com-opv-da-unitel/",
+      "source": "O País",
+      "_key": "94437770f37d1f29",
+      "score": 6,
+      "title_cn": "安哥拉政府通过联合电信首次公开募股获逾3亿宽扎"
+    },
+    {
+      "title": "Vice-presidente da República exige combate à pesca ilegal e poluição...",
+      "url": "https://valoreconomico.co.ao/artigo/vice-presidente-da-republica-exige-combate-a-pesca-ilegal-e-poluicao-para-salvar-oceanos-africanos",
+      "source": "Valor Económico",
+      "_key": "9065b5eef26441a4",
+      "score": 6,
+      "title_cn": "副总统要求打击非法捕鱼和污染"
+    },
+    {
+      "title": "Mais de 11 mil novos accionistas entram na Unitel e...",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-11-mil-novos-accionistas-entram-na-unitel-e-estado-encaixa-288-4-milhoes",
+      "source": "Valor Económico",
+      "_key": "4880ec8c08f0c81a",
+      "score": 6,
+      "title_cn": "逾1.1万新股东入股安哥拉联合电信(Unitel)"
+    },
+    {
+      "title": "Netherlands increases investments in infrastructures in central Huambo",
+      "url": "https://www.angop.ao/en/noticias/economia/paises-baixos-reforcam-investimentos-estruturantes-no-huambo/",
+      "source": "ANGOP",
+      "_key": "8f7e2925839c4bab",
       "score": 5,
-      "title_cn": "2026年罗安达国际博览会期间记录逾100起事件。"
+      "title_cn": "荷兰加大对中华姆博基础设施的投资"
+    },
+    {
+      "title": "Police detain over 600 DRC citizens for illegal entry in Angola",
+      "url": "https://www.angop.ao/en/noticias/sociedade/policia-detem-mais-de-600-cidadaos-da-rdc-por-entrada-ilegal-na-lunda-norte/",
+      "source": "ANGOP",
+      "_key": "9fe9f03b8626b81f",
+      "score": 5,
+      "title_cn": "安哥拉警方拘留600多名非法入境的刚果民主共和国公民"
+    },
+    {
+      "title": "Angola and African Union assess preparations for Luanda summit",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-ua-avaliam-preparativos-da-cimeira-de-luanda/",
+      "source": "ANGOP",
+      "_key": "6643bc7a8650232c",
+      "score": 5,
+      "title_cn": "安哥拉与非盟评估罗安达峰会筹备工作"
+    },
+    {
+      "title": "Authorities reinforce appeal for investment in Mbanza Kongo",
+      "url": "https://www.angop.ao/en/noticias/economia/responsavel-reforca-apelo-ao-investimento-no-sector-hoteleiro-de-mbanza-kongo/",
+      "source": "ANGOP",
+      "_key": "f5f84668ab2c345a",
+      "score": 5,
+      "title_cn": "当局加强呼吁对姆班扎刚果投资"
+    },
+    {
+      "title": "Governo prepara plano para repatriar angolanos residentes na África do Sul devido à violência xenófoba",
+      "url": "https://angola24horas.com/component/k2/item/34769-governo-prepara-plano-para-repatriar-angolanos-residentes-na-africa-do-sul-devido-a-violencia-xenofoba",
+      "source": "Angola 24 Horas",
+      "_key": "8e06e2d51b14d170",
+      "score": 5,
+      "title_cn": "安哥拉政府准备计划，遣返因排外暴力滞留南非的安哥拉人"
+    },
+    {
+      "title": "Criadores de frango em Angola dizem que falta apoio financeiro para aumentar produção",
+      "url": "https://correiokianda.info/criadores-de-frango-em-angola-dizem-que-falta-apoio-financeiro-para-aumentar-producao/",
+      "source": "Correio Kianda",
+      "_key": "f07c4b767ffe78d9",
+      "score": 5,
+      "title_cn": "安哥拉养鸡户称缺乏资金支持以提高产量"
+    },
+    {
+      "title": " O filho do PCA e Os Negócios que Crescem à Sombra das Perguntas ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_fe5cc00a482c8e",
+      "score": 5,
+      "title_cn": "董事长之子：在质疑阴影下成长的商业帝国"
+    },
+    {
+      "title": "Movicel a definhar perdeu cerca de 25 mil subscritores/mês desde 2019",
+      "url": "https://expansao.co.ao/empresas/detalhe/movicel-a-definhar-perdeu-cerca-de-25-mil-subscritoresmes-desde-2019-73550.html",
+      "source": "Expansão",
+      "_key": "ee48e754deac7e1d",
+      "score": 5,
+      "title_cn": "安哥拉移动通信公司(Movicel)衰落，自2019年起每月流失2.5万用户"
+    },
+    {
+      "title": "União Africana garante total apoio para êxito da Cimeira de Luanda O ministro das Relações Exteriores, Téte António, e o presidente da Comissão da União Africana, Mahmoud Ali Youssouf, avaliaram, ontem, em Adis Abeba, Etiópia, a preparação da Sessão Extraordinária da Conferência dos Chefes de Estado e de Governo da União Africana sobre o Reforço dos Mecanismos de Prevenção e Resolução dos Conflitos em África, que acontece no dia 30 do próximo mês, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681913/uni%C3%A3o-africana-garante-total-apoio--para-%C3%AAxito-da-cimeira-de-luanda-",
+      "source": "Jornal de Angola",
+      "_key": "69582645b606fe52",
+      "score": 5,
+      "title_cn": "非盟承诺全力支持罗安达峰会取得成功"
+    },
+    {
+      "title": "Política Executivo garante fertilizantes e sementes para Ano Agrícola ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681917/executivo-garante-fertilizantes--e-sementes-para-ano-agr%C3%ADcola-",
+      "source": "Jornal de Angola",
+      "_key": "3a54bf3edbcfef48",
+      "score": 5,
+      "title_cn": "安哥拉政府确保农业年度化肥和种子供应"
+    },
+    {
+      "title": "Economia / Há 1 hora Huíla confirma acordos no âmbito da FILDA/2026 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681925/hu%C3%ADla-confirma-acordos-no-%C3%A2mbito-da-filda2026",
+      "source": "Jornal de Angola",
+      "_key": "0c2b463a4d16fac4",
+      "score": 5,
+      "title_cn": "威拉省确认2026年罗安达国际博览会框架内协议"
+    },
+    {
+      "title": "Economia / Há 1 hora Inclusão financeira sobe de 49,75 para 51,73% ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681924/inclus%C3%A3o-financeira-sobe-de-4975-para-5173%25",
+      "source": "Jornal de Angola",
+      "_key": "b02b4d5ba5a2f618",
+      "score": 5,
+      "title_cn": "金融普惠率从49.75%升至51.73%"
     }
   ]
 }
