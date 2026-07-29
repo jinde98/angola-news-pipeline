@@ -1,80 +1,416 @@
 {
-  "date": "2026-07-28",
-  "total_new": 28,
-  "total_filtered": 9,
+  "date": "2026-07-29",
+  "total_new": 117,
+  "total_filtered": 51,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Futura Autoestrada Oeste–Leste prevê criação de mais de mil postos de trabalho",
-      "url": "https://www.opais.ao/ultima_hora/futura-autoestrada-oeste-leste-preve-criacao-de-mais-de-mil-postos-de-trabalho/",
-      "source": "O País",
-      "_key": "6cb64e3dcaeb6398",
-      "score": 9,
-      "title_cn": "未来东西高速公路项目预计创造逾千个就业岗位"
-    },
-    {
-      "title": "UNITEL suffers cyberattack",
-      "url": "https://www.angop.ao/en/noticias/economia/unitel-sofre-ataque-cibernetico/",
-      "source": "ANGOP",
-      "_key": "bbd2543b18bfe373",
-      "score": 8,
-      "title_cn": "UNITEL公司遭受网络攻击"
-    },
-    {
-      "title": "Desempenho do sector logístico nacional continua ao nível dos piores do mundo",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_138638d566960f",
-      "score": 8,
-      "title_cn": "安哥拉国家物流业表现仍处于世界最差水平"
-    },
-    {
-      "title": "Ataque cibernético deixa Unitel sem rede na véspera da estreia em bolsa",
-      "url": "https://expansao.co.ao/empresas/detalhe/ataque-cibernetico-deixa-unitel-sem-rede-na-vespera-da-estreia-em-bolsa-73567.html",
-      "source": "Expansão",
-      "_key": "34c2aaadb6601d36",
-      "score": 8,
-      "title_cn": "上市前夕，网络攻击致Unitel网络中断"
-    },
-    {
-      "title": "Angolan govt reaffirms goal to integrate global economy",
-      "url": "https://www.angop.ao/en/noticias/economia/executivo-reafirma-integracao-de-angola-na-economia-mundial/",
-      "source": "ANGOP",
-      "_key": "420cede0bb17746a",
-      "score": 7,
-      "title_cn": "安哥拉政府重申融入全球经济目标"
-    },
-    {
-      "title": "Conecta Angola Comercial leva internet via ANGOSAT-2 ao maior polo produtor de arroz do país",
-      "url": "https://www.opais.ao/destaque/conecta-angola-comercial-leva-internet-via-angosat-2-ao-maior-polo-produtor-de-arroz-do-pais/",
-      "source": "O País",
-      "_key": "a322cdefafd434d4",
-      "score": 7,
-      "title_cn": "Conecta Angola Comercial通过ANGOSAT-2卫星为该国最大水稻产区提供互联网服务"
-    },
-    {
-      "title": "Greve dos taxistas: Um ano após os tumultos, taxistas...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/um-ano-apos-a-greve-taxistas-garantem-que-detencoes-nao-os-amedrontaram-nem-travaram-a-luta-para-exigir-respeito-e-direitos-73565.html",
-      "source": "Novo Jornal",
-      "_key": "780990efdae57a27",
-      "score": 6,
-      "title_cn": "出租车司机罢工：骚乱一年后，司机们..."
-    },
-    {
-      "title": "Política Angola participa na 49.ª Sessão Extraordinária do Conselho Executivo da União Africana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681977/angola-participa-na-49.%C2%AA-sess%C3%A3o-extraordin%C3%A1ria-do-conselho-executivo-da-uni%C3%A3o-africana",
+      "title": "Economia Milhões de clientes da Unitel sem rede e constrangimentos na banca e serviços ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681989/milh%C3%B5es-de-clientes-da-unitel%E2%80%88sem-rede--e-constrangimentos-na-banca-e-servi%C3%A7os",
       "source": "Jornal de Angola",
-      "_key": "e8b3be706819341b",
-      "score": 5,
-      "title_cn": "政治 安哥拉参加非洲联盟执行委员会第49届特别会议"
+      "_key": "d90a1759dd4ef0d9",
+      "score": 10,
+      "title_cn": "数百万Unitel客户网络中断，银行及服务受阻"
     },
     {
-      "title": "Um ano depois: Putin nomeia embaixador da Rússia em Angola",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/um-ano-depois-putin-nomeia-embaixador-da-russia-em-angola-73566.html",
+      "title": "10:14 / 29 jul. 2026 Cooperação entre China e Angola é promissora ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682019/coopera%C3%A7%C3%A3o-entre-china-e-angola-%C3%A9-promissora",
+      "source": "Jornal de Angola",
+      "_key": "eff87d6a1a66e5bf",
+      "score": 10,
+      "title_cn": "中安合作前景广阔"
+    },
+    {
+      "title": "Porto do Lobito reforça posição de referência no Sector Empresarial Público",
+      "url": "https://www.opais.ao/economia/porto-do-lobito-reforca-posicao-de-referencia-no-sector-empresarial-publico/",
+      "source": "O País",
+      "_key": "9e1081e2fc14f1bd",
+      "score": 10,
+      "title_cn": "洛比托港巩固公共企业部门标杆地位"
+    },
+    {
+      "title": "Apagão da Unitel afecta comunicações,condiciona pagamentos e expõe dependência de...",
+      "url": "https://valoreconomico.co.ao/artigo/apagao-da-unitel-afecta-comunicacoes-condiciona-pagamentos-e-expoe-dependencia-de-um-mercado-concentrado",
+      "source": "Valor Económico",
+      "_key": "4837fe970a9bee57",
+      "score": 10,
+      "title_cn": "Unitel网络中断影响通信和支付，暴露数字依赖性"
+    },
+    {
+      "title": "        País12 horas atrás  Ataque à UNITEL continua sem autor conhecido e expõe fragilidade da Dependência Digital em Angola O ataque cibernético que atingiu a UNITEL continua envolto em incertezas quanto à sua origem. Até ao momento, não existe qualquer evidência pública que permita associar...   ",
+      "url": "https://correiokianda.info/ataque-a-unitel-continua-sem-autor-conhecido-e-expoe-fragilidade-da-dependencia-digital-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "8a162ffa11694c79",
+      "score": 9,
+      "title_cn": "Unitel网络攻击者不明，暴露安哥拉数字依赖脆弱性"
+    },
+    {
+      "title": "Produção de petróleo estagna e mantém-se abaixo da meta do OGE",
+      "url": "https://expansao.co.ao/economia/detalhe/producao-de-petroleo-estagna-e-mantem-se-abaixo-da-meta-do-oge-73574.html",
+      "source": "Expansão",
+      "_key": "73306cea028f7c5a",
+      "score": 9,
+      "title_cn": "石油生产停滞，低于国家总预算目标"
+    },
+    {
+      "title": "Ataque informático deixa milhões de clientes da angolana Unitel sem rede na véspera da estreia em bolsa",
+      "url": "https://jornaloguardiao.com/2026/07/28/ataque-informatico-deixa-milhoes-de-clientes-da-angolana-unitel-sem-rede-na-vespera-da-estreia-em-bolsa/",
+      "source": "Jornal O Guardião",
+      "_key": "588ee8f8876065e4",
+      "score": 9,
+      "title_cn": "Unitel上市前夕遭网络攻击，数百万客户断网"
+    },
+    {
+      "title": " Ataque informático deixa milhões de clientes da angolana Unitel sem rede na véspera da estreia em bolsa ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7ab3ac9433ec0e",
+      "score": 9,
+      "title_cn": "Unitel上市前夕遭网络攻击，数百万客户断网"
+    },
+    {
+      "title": "Destaque Mais de 21 milhões de clientes da UNITEL continuam sem rede 24 horas após ataque cibernéticoMais de 21 milhões de clientes da UNITEL continuam com os serviços de voz, dados móveis e internet afectados, 24 horas após o ataque cibernético que atingiu a infra-estrutura tecnológica da operadora na madrugada de terça-feira. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681988/mais-de-21-milh%C3%B5es-de-clientes-da-unitel-continuam-sem-rede-24-horas-ap%C3%B3s-ataque-cibern%C3%A9tico",
+      "source": "Jornal de Angola",
+      "_key": "1bb094655bb4a651",
+      "score": 9,
+      "title_cn": "Unitel遭网络攻击24小时后，逾2100万客户仍无网络"
+    },
+    {
+      "title": "Quando as comunicações falham o país inteiro paga a factura",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682009/quando-as-comunica%C3%A7%C3%B5es-falham-o-pa%C3%ADs-inteiro-paga-a-factura",
+      "source": "Jornal de Angola",
+      "_key": "b6fdcc730e09ff0f",
+      "score": 9,
+      "title_cn": "通信中断，全国为此买单"
+    },
+    {
+      "title": "UNITEL está a investigar origem do ataque cibernético...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-esta-a-investigar-origem-do-ataque-cibernetico-e-a-colaborar-com-as-autoridades-para-descobrir-os-seus-responsaveis-pca-73582.html",
       "source": "Novo Jornal",
-      "_key": "567e85bf07cd88c7",
+      "_key": "36fc333813672275",
+      "score": 9,
+      "title_cn": "Unitel正调查网络攻击来源"
+    },
+    {
+      "title": "UNITEL \"on\" na bolsa angolana de valores e \"off\" na...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-on-na-bolsa-angolana-de-valores-e-off-na-prestacao-de-servicos-aos-clientes-73570.html",
+      "source": "Novo Jornal",
+      "_key": "740cd241cb54c410",
+      "score": 9,
+      "title_cn": "Unitel在安哥拉股市“上线”，网络却“下线”"
+    },
+    {
+      "title": "Ataque à rede da UNITEL inviabiliza pagamentos com cartões Multicaixa em estabelecimentos comerciais",
+      "url": "https://www.opais.ao/ultima_hora/ataque-a-rede-da-unitel-inviabiliza-pagamentos-com-cartoes-multicaixa-em-estabelecimentos-comerciais/",
+      "source": "O País",
+      "_key": "289959978ad826ae",
+      "score": 9,
+      "title_cn": "Unitel网络遭攻击，Multicaixa卡商业支付受阻"
+    },
+    {
+      "title": "É de hoje… O ‘apagão’ da UNITEL",
+      "url": "https://www.opais.ao/opiniao/e-de-hoje-o-apagao-da-unitel/",
+      "source": "O País",
+      "_key": "df6da9d6a3f1492f",
+      "score": 9,
+      "title_cn": "今日Unitel“大停电”"
+    },
+    {
+      "title": "A MONSTRUOSIDADE DA UNITEL",
+      "url": "https://valoreconomico.co.ao/artigo/a-monstruosidade-da-unitel",
+      "source": "Valor Económico",
+      "_key": "782dbd074dd08944",
+      "score": 9,
+      "title_cn": "Unitel的“怪兽”行径"
+    },
+    {
+      "title": "Falha na rede da Unitel gera prejuízos económicos e leva especialistas a exigir intervenção do Estado",
+      "url": "https://correiokianda.info/falha-na-rede-da-unitel-gera-prejuizos-economicos-e-leva-especialistas-a-exigir-intervencao-do-estado/",
+      "source": "Correio Kianda",
+      "_key": "a692f718b0bf6f7e",
+      "score": 8,
+      "title_cn": "Unitel网络故障致经济损失，专家呼吁国家干预"
+    },
+    {
+      "title": "“Ataque à Unitel mostra que infra-estrutura digital é crítica como energia e água”, dizem especialistas",
+      "url": "https://correiokianda.info/ataque-a-unitel-mostra-que-infra-estrutura-digital-e-critica-como-energia-e-agua-dizem-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "97e605bd5dae23c1",
+      "score": 8,
+      "title_cn": "专家：Unitel遇袭表明数字基础设施如水电般关键"
+    },
+    {
+      "title": "        TRANSPORTES13 horas atrás  Angola entra na corrida para se tornar Hub Aéreo de África O Presidente da República, João Lourenço, autorizou a criação da Comissão Nacional para o Acompanhamento da Implementação da Decisão de Yamoussoukro, um passo considerado estratégico para...   ",
+      "url": "https://correiokianda.info/angola-entra-na-corrida-para-se-tornar-hub-aereo-de-africa/",
+      "source": "Correio Kianda",
+      "_key": "153984ea8afd3477",
+      "score": 8,
+      "title_cn": "安哥拉总统若昂·洛伦索授权成立委员会，竞逐非洲航空枢纽"
+    },
+    {
+      "title": "Concessionários criticam falta de dados sobre importação de viaturas",
+      "url": "https://valoreconomico.co.ao/artigo/concessionarios-criticam-falta-de-dados-sobre-importacao-de-viaturas",
+      "source": "Valor Económico",
+      "_key": "273495a9678379d0",
+      "score": 8,
+      "title_cn": "经销商批评汽车进口数据缺失"
+    },
+    {
+      "title": "“Quando os custos tornam o produto nacional menos competitivo, acaba por abrir-se...",
+      "url": "https://valoreconomico.co.ao/artigo/quando-os-custos-tornam-o-produto-nacional-menos-competitivo-acaba-por-abrir-se-espaco-para-a-importacao",
+      "source": "Valor Económico",
+      "_key": "87aca79427bc8bad",
+      "score": 8,
+      "title_cn": "“当成本使国货竞争力下降时，市场便会开放…”"
+    },
+    {
+      "title": "State collects Kz 300.3 bln from Unitel 15% stake sale",
+      "url": "https://www.angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/",
+      "source": "ANGOP",
+      "_key": "6b123c6e33391484",
+      "score": 7,
+      "title_cn": "国家通过出售Unitel 15%股份获3003亿宽扎"
+    },
+    {
+      "title": "Da Ucrânia a Angola: Os Maiores Ciberataques que Abalaram Operadoras de Telecomunicações no Mundo",
+      "url": "https://correiokianda.info/da-ucrania-a-angola-os-maiores-ciberataques-que-abalaram-operadoras-de-telecomunicacoes-no-mundo/",
+      "source": "Correio Kianda",
+      "_key": "a4ad16a1fa5a5852",
+      "score": 7,
+      "title_cn": "从乌克兰到安哥拉：全球电信运营商遭遇的最大网络攻击"
+    },
+    {
+      "title": "Odebrecht Confirma Entrada de Sócio Estratégico e Mota-Engil Surge como Principal Candidata",
+      "url": "https://correiokianda.info/odebrecht-confirma-entrada-de-socio-estrategico-e-mota-engil-surge-como-principal-candidata/",
+      "source": "Correio Kianda",
+      "_key": "4e179227d77dd7e4",
+      "score": 7,
+      "title_cn": "奥德布雷希特（Odebrecht）确认战略伙伴加入，莫塔-恩吉尔（Mota-Engil）成主要候选"
+    },
+    {
+      "title": "Afreximbank conclui a sua maior emissão de obrigações de sempre de 1.5 mil milhões de dólares",
+      "url": "https://jornaloguardiao.com/2026/07/29/afreximbank-conclui-a-sua-maior-emissao-de-obrigacoes-de-sempre-de-1-5-mil-milhoes-de-dolares/",
+      "source": "Jornal O Guardião",
+      "_key": "dab9f2df12b77e98",
+      "score": 7,
+      "title_cn": "非洲进出口银行（Afreximbank）完成史上最大规模15亿美元债券发行"
+    },
+    {
+      "title": " Afreximbank conclui a sua maior emissão de obrigações de sempre de 1.5 mil milhões de dólares ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_4e4e1b7f68199d",
+      "score": 7,
+      "title_cn": "非洲进出口银行（Afreximbank）完成史上最大规模15亿美元债券发行"
+    },
+    {
+      "title": "Destaque João Lourenço orienta 6.ª reunião ordinária do Conselho de MinistrosO Presidente da República, João Lourenço, orienta, neste momento, a 6.ª reunião ordinária do Conselho de Ministros, no Palácio Presidencial da Cidade Alta, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682022/jo%C3%A3o-louren%C3%A7o-orienta-6.%C2%AA-reuni%C3%A3o-ordin%C3%A1ria-do-conselho-de-ministros",
+      "source": "Jornal de Angola",
+      "_key": "c00c545e3b9aa77f",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统主持第六次部长理事会例会"
+    },
+    {
+      "title": "10:26 / 29 jul. 2026 Alteração de lei é votada amanhã na generalidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682021/altera%C3%A7%C3%A3o-de-lei-%C3%A9-votada-amanh%C3%A3-na-generalidade",
+      "source": "Jornal de Angola",
+      "_key": "0ea63b12baba7e2a",
+      "score": 7,
+      "title_cn": "法律修订案明日进行全体投票"
+    },
+    {
+      "title": "Polícia de Guarda Fronteiras detém 133 congoleses no...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-de-guarda-fronteiras-detem-133-congoleses-no-zaire-por-entrada-ilegal-73579.html",
+      "source": "Novo Jornal",
+      "_key": "9bd3e8ec1b537bfa",
+      "score": 7,
+      "title_cn": "边防警察逮捕133名刚果人"
+    },
+    {
+      "title": "Será que vemos um país diferente em relação aos compatriotas...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/sera-que-vemos-um-pais-diferente-em-relacao-aos-compatriotas-que-ocupam-cargos-governamentais-em-que-para-uns-o-pais-definha-e-para-os-outros-caminhamos-para-o-paraiso-73573.html",
+      "source": "Novo Jornal",
+      "_key": "f8b6ab9265d7d55a",
+      "score": 7,
+      "title_cn": "我们能否看到一个对同胞不同的国家？"
+    },
+    {
+      "title": "Estado ultrapassa meta anual de endividamento líquido no I semestre",
+      "url": "https://valoreconomico.co.ao/artigo/estado-ultrapassa-meta-anual-de-endividamento-liquido-no-i-semestre",
+      "source": "Valor Económico",
+      "_key": "74008660efbe5108",
+      "score": 7,
+      "title_cn": "国家上半年净负债超年度目标"
+    },
+    {
+      "title": "Vera Daves exige maior transparência e solidez aos gestores das...",
+      "url": "https://valoreconomico.co.ao/artigo/vera-daves-exige-maior-transparencia-e-solidez-aos-gestores-das-empresas-publicas",
+      "source": "Valor Económico",
+      "_key": "1922db6ebdffe640",
+      "score": 7,
+      "title_cn": "维拉·达维斯（Vera Daves）要求管理者提高透明度和稳健性"
+    },
+    {
+      "title": "State collects 75.6 billion kwanzas from Public Enterprise Sector in 2025",
+      "url": "https://www.angop.ao/en/noticias/economia/estado-recebe-kz-75-6-mil-milhoes-do-sep-em-2025/",
+      "source": "ANGOP",
+      "_key": "ab47159b40f69cbf",
+      "score": 6,
+      "title_cn": "国家预计2025年从公共企业部门征收756亿宽扎"
+    },
+    {
+      "title": "South African investors satisfied with opportunities offered by FILDA",
+      "url": "https://www.angop.ao/en/noticias/economia/investidores-sul-africanos-satisfeitos-com-oportunidades-oferecidas-pela-filda/",
+      "source": "ANGOP",
+      "_key": "b13d05103706d648",
+      "score": 6,
+      "title_cn": "南非投资者对罗安达国际博览会（FILDA）提供的机遇感到满意"
+    },
+    {
+      "title": "Tax Police in Zaire Registers 551 Customs Infractions",
+      "url": "https://www.angop.ao/en/noticias/economia/policia-fiscal-no-zaire-regista-551-infraccoes-aduaneiras/",
+      "source": "ANGOP",
+      "_key": "d0f3b4e6f94c04be",
+      "score": 6,
+      "title_cn": "扎伊尔（Zaire）税务警察登记551起海关违规行为"
+    },
+    {
+      "title": "“Restrições na internet não afectam funcionamento dos BUAP”, assegura MAT",
+      "url": "https://correiokianda.info/restricoes-na-internet-nao-afectam-funcionamento-dos-buap-assegura-mat/",
+      "source": "Correio Kianda",
+      "_key": "9cdfa574abc86476",
+      "score": 6,
+      "title_cn": "公共行政部（MAT）：互联网限制不影响单一窗口服务台（BUAP）运作"
+    },
+    {
+      "title": "“Mercado das telecomunicações precisa de mais operadores para evitar crises”, defende economista",
+      "url": "https://correiokianda.info/mercado-das-telecomunicacoes-precisa-de-mais-operadores-para-evitar-crises-defende-economista/",
+      "source": "Correio Kianda",
+      "_key": "7bd44751c420c55e",
+      "score": 6,
+      "title_cn": "经济学家：电信市场需更多运营商以避免危机"
+    },
+    {
+      "title": "Sector empresarial público rende 75,6 mil milhões de kwanzas para o Estado em 2025",
+      "url": "https://correiokianda.info/sector-empresarial-publico-rende-756-mil-milhoes-de-kwanzas-para-o-estado-em-2025/",
+      "source": "Correio Kianda",
+      "_key": "dc20d7f91a8e6444",
+      "score": 6,
+      "title_cn": "公共企业部门预计2025年为国家创收756亿宽扎"
+    },
+    {
+      "title": "        África13 horas atrás  “Agenda anti-imigração na África do Sul é movida por interesses políticos”, afirma Secretário-Geral do ANC O Secretário-Geral do Congresso Nacional Africano (ANC), Fikile Mbalula, considerou que a recente vaga de discursos e acções contra a imigração na África do Sul é...   ",
+      "url": "https://correiokianda.info/secretario-gera-do-anc-afirma-que-agenda-anti-imigracao-na-africa-do-sul-e-movida-por-interesses-politicos/",
+      "source": "Correio Kianda",
+      "_key": "b57a5d0dec6dbb74",
+      "score": 6,
+      "title_cn": "非国大秘书长菲基莱·姆巴卢拉（Fikile Mbalula）：南非反移民议程受政治利益驱动"
+    },
+    {
+      "title": "Destaque Angola e Estados Unidos da América discutem segurança marítimaAngola e os Estados Unidos da América analisaram, em Rabat, Marrocos, questões ligadas à segurança marítia e à modernização naval. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681987/angola-e-estados-unidos-da-am%C3%A9rica-discutem-seguran%C3%A7a-mar%C3%ADtima",
+      "source": "Jornal de Angola",
+      "_key": "e270939e910e3784",
+      "score": 6,
+      "title_cn": "安哥拉与美国讨论海上安全及海军现代化"
+    },
+    {
+      "title": "Economia Empresas angolanas reforçam cooperação energética na Assembleia da ASEA ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/681981/empresas-angolanas-refor%C3%A7am-coopera%C3%A7%C3%A3o-energ%C3%A9tica-na-assembleia-da-asea",
+      "source": "Jornal de Angola",
+      "_key": "1b7f30fd2fdccf5c",
+      "score": 6,
+      "title_cn": "安哥拉企业在非洲能源协会（ASEA）大会上加强能源合作"
+    },
+    {
+      "title": "Serviço de tratamento de BI ao domicílio custa 250...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/servico-de-tratamento-de-bi-ao-domicilio-custa-250-mil-kwanzas-73572.html",
+      "source": "Novo Jornal",
+      "_key": "fdbc127e004f22f5",
+      "score": 6,
+      "title_cn": "身份证上门办理服务收费25万宽扎"
+    },
+    {
+      "title": "Responsável de empresa de segurança detido em posse de sete armas de guerra no Bengo",
+      "url": "https://www.opais.ao/politica/responsavel-de-empresa-de-seguranca-detido-em-posse-de-sete-armas-de-guerra-no-bengo/",
+      "source": "O País",
+      "_key": "201a9eaae59a9ca2",
+      "score": 6,
+      "title_cn": "本戈（Bengo）省一安保公司负责人因持有七支战时武器被捕"
+    },
+    {
+      "title": "Angola’s Ministry of Justice launches at-home ID Card processing service",
+      "url": "https://www.angop.ao/en/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/",
+      "source": "ANGOP",
+      "_key": "5e48047e2344141c",
       "score": 5,
-      "title_cn": "一年后：普京任命俄罗斯驻安哥拉大使"
+      "title_cn": "安哥拉司法部推出身份证上门办理服务"
+    },
+    {
+      "title": "Angola reaffirms its commitment to modernizing information technologies",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-compromisso-com-a-modernizacao-das-tecnologias-de-informacao/",
+      "source": "ANGOP",
+      "_key": "d074de8360d406b3",
+      "score": 5,
+      "title_cn": "安哥拉重申致力于信息技术现代化"
+    },
+    {
+      "title": "Detido no Bengo responsável de empresa de segurança privada em posse de sete armas de guerra",
+      "url": "https://correiokianda.info/detido-no-bengo-responsavel-de-empresa-de-seguranca-privada-em-posse-de-sete-armas-de-guerra/",
+      "source": "Correio Kianda",
+      "_key": "db507253d7e5752d",
+      "score": 5,
+      "title_cn": "本戈（Bengo）省一私营安保公司负责人因持有七支战时武器被捕"
+    },
+    {
+      "title": "Bilhete de Identidade ao Domicílio: Modernizar o Estado Não é Cobrar Mais, é Servir Melhor",
+      "url": "https://correiokianda.info/bilhete-de-identidade-ao-domicilio-modernizar-o-estado-nao-e-cobrar-mais-e-servir-melhor/",
+      "source": "Correio Kianda",
+      "_key": "be68600e84a04724",
+      "score": 5,
+      "title_cn": "身份证上门办理：国家现代化应更好服务而非多收费"
+    },
+    {
+      "title": "Agência de Protecção de Dados já aplicou multas de 2,5 milhões USD desde 2022",
+      "url": "https://expansao.co.ao/empresas/detalhe/agencia-de-proteccao-de-dados-ja-aplicou-multas-de-25-milhoes-usd-desde-2022-73575.html",
+      "source": "Expansão",
+      "_key": "9d48184978a15d38",
+      "score": 5,
+      "title_cn": "数据保护局自2022年起已开出250万美元罚单"
+    },
+    {
+      "title": "Destaque Cidadãos passam a contar com tratamento e entrega do Bilhete de Identidade ao domicílioO Ministério da Justiça e dos Direitos Humanos lançou, esta terça-feira, os serviços de Tratamento do Bilhete de Identidade ao Domicílio e Entrega do Bilhete de Identidade ao Domicílio, com o objetivo de aproximar os serviços de identificação civil dos cidadãos e facilitar o acesso ao documento.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/681984/cidad%C3%A3os-passam-a-contar-com-tratamento-e-entrega-do-bilhete-de-identidade-ao-domic%C3%ADlio",
+      "source": "Jornal de Angola",
+      "_key": "18cfbbbb01ede88e",
+      "score": 5,
+      "title_cn": "司法部推出身份证上门办理和送达服务"
+    },
+    {
+      "title": "Parceria com a ONU gera empregos e mais acesso aos serviços públicosAngola e as Nações Unidas destacaram, terça-feira, os progressos significativos alcançados na cooperação bilateral nos sectores económico e social, no âmbito da implementação do Quadro de Cooperação para o Desenvolvimento Sustentável 2024-2028.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/681990/parceria-com-a-onu-gera-empregos-e-mais-acesso-aos-servi%C3%A7os-p%C3%BAblicos",
+      "source": "Jornal de Angola",
+      "_key": "534f83a41a8fc3d1",
+      "score": 5,
+      "title_cn": "安哥拉与联合国合作创造就业，提升公共服务可及性"
+    },
+    {
+      "title": "Angola marca presença na 60ª Assembleia Geral Ordinária da ASEA",
+      "url": "https://www.opais.ao/politica/angola-marca-presenca-na-60a-assembleia-geral-ordinaria-da-asea/",
+      "source": "O País",
+      "_key": "9594a8c4d7d87ddb",
+      "score": 5,
+      "title_cn": "安哥拉出席非洲能源协会（ASEA）第60届常务大会"
+    },
+    {
+      "title": "BI em casa vai custar 260 mil kwanzas: o equivalente...",
+      "url": "https://valoreconomico.co.ao/artigo/bi-em-casa-vai-custar-260-mil-kwanzas-o-equivalente-a-mais-de-dois-salarios-minimos",
+      "source": "Valor Económico",
+      "_key": "7c0804077a332fbc",
+      "score": 5,
+      "title_cn": "身份证上门办理将花费26万宽扎"
     }
   ]
 }
