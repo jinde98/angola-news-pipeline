@@ -1,96 +1,176 @@
 {
   "date": "2026-07-29",
-  "total_new": 29,
-  "total_filtered": 11,
+  "total_new": 53,
+  "total_filtered": 21,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Grupo chinês prevê investir 10 mil milhões de dólares em...",
-      "url": "https://valoreconomico.co.ao/artigo/grupo-chines-preve-investir-10-mil-milhoes-de-dolares-em-polo-industrial-em-angola",
-      "source": "Valor Económico",
-      "_key": "1354959eca34afd2",
-      "score": 10,
-      "title_cn": "中国集团计划投资100亿美元......"
-    },
-    {
-      "title": "China steps up defence cooperation with Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/china-incrementa-cooperacao-no-dominio-da-defesa-com-angola/",
-      "source": "ANGOP",
-      "_key": "b8fd3e63789df7b2",
+      "title": "Executivo quer tornar atractiva exploração petrolífera nos blocos 34 e 35",
+      "url": "https://correiokianda.info/executivo-quer-tornar-atractiva-exploracao-petrolifera-nos-blocos-34-e-35/",
+      "source": "Correio Kianda",
+      "_key": "b5d65ab1780d44da",
       "score": 9,
-      "title_cn": "中国加强与安哥拉的防务合作"
+      "title_cn": "政府旨在提升34和35区块石油勘探吸引力"
     },
     {
-      "title": "Apagão na Unitel prolonga-se sem previsão de reposição e paralisa empresas, banca e serviços públicos",
-      "url": "https://angola24horas.com/sociedade/item/34777-apagao-na-unitel-prolonga-se-sem-previsao-de-reposicao-e-paralisa-empresas-banca-e-servicos-publicos",
-      "source": "Angola 24 Horas",
-      "_key": "a7aa6fba0fdb9051",
-      "score": 9,
-      "title_cn": "Unitel服务中断持续，企业、银行和公共服务瘫痪"
-    },
-    {
-      "title": "UNITEL retoma serviços",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/unitel-retoma-servicos-73584.html",
+      "title": "Lei que autoriza PR a legislar sobre incentivos fiscais...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/lei-que-autoriza-pr-a-legislar-sobre-incentivos-fiscais-adicionais-para-sector-petrolifero-a-caminho-do-parlamento-73590.html",
       "source": "Novo Jornal",
-      "_key": "36d23b752430614f",
+      "_key": "a59500e6a1a4f92c",
       "score": 9,
-      "title_cn": "Unitel恢复服务"
+      "title_cn": "授权总统就税收优惠立法的法律"
     },
     {
-      "title": "UNITEL inicia restabelecimento gradual dos serviços após ataque cibernético",
-      "url": "https://correiokianda.info/unitel-inicia-restabelecimento-gradual-dos-servicos-apos-ataque-cibernetico/",
-      "source": "Correio Kianda",
-      "_key": "51ca474e12121371",
-      "score": 8,
-      "title_cn": "Unitel在网络攻击后逐步恢复服务"
-    },
-    {
-      "title": "Unitel foi hoje admitida em bolsa e retoma serviços de forma gradual após ataque cibernético",
-      "url": "https://expansao.co.ao/empresas/detalhe/unitel-foi-hoje-admitida-em-bolsa-e-retoma-servicos-de-forma-gradual-apos-ataque-cibernetico-73586.html",
-      "source": "Expansão",
-      "_key": "e9d1a021ad3d8eae",
-      "score": 8,
-      "title_cn": "Unitel今日上市，网络攻击后逐步恢复服务"
-    },
-    {
-      "title": "Moeda angolana kwanza já está integrada no sistema de pagamentos dos países da SADC",
-      "url": "https://forbesafricalusofona.com/moeda-angolana-kwanza-ja-esta-integrada-no-sistema-de-pagamentos-dos-paises-da-sadc/",
-      "source": "Forbes África",
-      "_key": "5a35ccd4541caac0",
-      "score": 8,
-      "title_cn": "安哥拉货币宽扎已纳入南部非洲发展共同体国家支付系统"
-    },
-    {
-      "title": "Unitel restabelece rede parcialmente, mas interior do país continua sem comunicações",
-      "url": "https://angola24horas.com/component/k2/item/34778-unitel-restabelece-rede-parcialmente-mas-interior-do-pais-continua-sem-comunicacoes",
-      "source": "Angola 24 Horas",
-      "_key": "ebf3f62fb1c8deab",
-      "score": 7,
-      "title_cn": "Unitel部分恢复网络，但内陆地区仍无通讯"
-    },
-    {
-      "title": "PGR e Polícia Nacional reforçam cooperação no combate à criminalidade",
-      "url": "https://www.opais.ao/sociedade/pgr-e-policia-nacional-reforcam-cooperacao-no-combate-a-criminalidade/",
+      "title": "Chip da Africell dispara para até 1000 kwanzas em Luanda após ataque cibernético à Unitel",
+      "url": "https://www.opais.ao/sociedade/chip-da-africell-dispara-para-ate-1000-kwanzas-em-luanda-apos-ataque-cibernetico-a-unitel/",
       "source": "O País",
-      "_key": "695158c0f8eca232",
-      "score": 7,
-      "title_cn": "总检察院与国家警察加强合作打击犯罪"
+      "_key": "24a94fb57536b856",
+      "score": 9,
+      "title_cn": "Unitel遭网络攻击后，罗安达Africell SIM卡飙升至1000宽扎"
     },
     {
-      "title": "Taxistas por aplicativo queixam-se de prejuízos devido à interrupção dos serviços da Unitel",
-      "url": "https://correiokianda.info/taxistas-por-aplicativo-queixam-se-de-prejuizos-devido-a-interrupcao-dos-servicos-da-unitel/",
+      "title": "BAD identifica dívida e inflação como principais entraves ao desenvolvimento...",
+      "url": "https://valoreconomico.co.ao/artigo/bad-identifica-divida-e-inflacao-como-principais-entraves-ao-desenvolvimento-da-africa-oriental",
+      "source": "Valor Económico",
+      "_key": "65d37c88b012db6e",
+      "score": 9,
+      "title_cn": "非洲开发银行：债务与通胀是发展主要障碍"
+    },
+    {
+      "title": "Camionistas pedem mais iluminação e melhores estradas para escoamento da produção",
+      "url": "https://correiokianda.info/camionistas-pedem-mais-iluminacao-e-melhores-estradas-para-escoamento-da-producao/",
       "source": "Correio Kianda",
-      "_key": "fe8b97d9ef36aa00",
-      "score": 6,
-      "title_cn": "网约车司机抱怨因Unitel服务中断蒙受损失"
+      "_key": "f0952b44df2ce131",
+      "score": 8,
+      "title_cn": "卡车司机呼吁改善照明和道路，以利产品运输"
     },
     {
-      "title": "Tratamento do Bilhete de Identidade ao domicílio custa 250 mil kwanzas e entrega 10 mil",
-      "url": "https://angola24horas.com/sociedade/item/34776-tratamento-do-bilhete-de-identidade-ao-domicilio-custa-250-mil-kwanzas-e-entrega-10-mil",
+      "title": "Unitel comunicou ataque às autoridades e trabalha com parceiros internacionais para apurar origem",
+      "url": "https://jornaloguardiao.com/2026/07/29/unitel-comunicou-ataque-as-autoridades-e-trabalha-com-parceiros-internacionais-para-apurar-origem/",
+      "source": "Jornal O Guardião",
+      "_key": "635e9a44a2e0488b",
+      "score": 8,
+      "title_cn": "Unitel向当局通报攻击，并与国际伙伴合作查明来源"
+    },
+    {
+      "title": " Unitel comunicou ataque às autoridades e trabalha com parceiros internacionais para apurar origem ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5432aa9255307d",
+      "score": 8,
+      "title_cn": "Unitel向当局通报攻击，并与国际伙伴合作查明来源"
+    },
+    {
+      "title": "Destaque Conselho de Ministros aprecia diplomas para reforçar saúde e fiscalização económicaO Conselho de Ministros apreciou, esta quarta-feira, um conjunto de projectos de diplomas legais destinados a reforçar a implementação das políticas públicas e a melhorar a actuação de diferentes órgãos do Estado, durante a 6.ª Sessão Ordinária, orientada pelo Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682054/conselho-de-ministros-aprecia-diplomas-para-refor%C3%A7ar-sa%C3%BAde-e-fiscaliza%C3%A7%C3%A3o-econ%C3%B3mica",
+      "source": "Jornal de Angola",
+      "_key": "1b8135ce0312ca08",
+      "score": 8,
+      "title_cn": "部长会议审议法案，旨在加强卫生与经济监管"
+    },
+    {
+      "title": "Unitel prevê reposição parcial dos serviços ainda hoje, anuncia presidente",
+      "url": "https://angola24horas.com/sociedade/item/34781-unitel-preve-reposicao-parcial-dos-servicos-ainda-hoje-anuncia-presidente",
       "source": "Angola 24 Horas",
-      "_key": "370ca80e173c28d4",
+      "_key": "512f5c595fed5d80",
+      "score": 7,
+      "title_cn": "Unitel总裁宣布：预计今日部分恢复服务"
+    },
+    {
+      "title": "Conselho de Ministros cria Secretaria de Estado para o Turismo e reorganiza fiscalização económica",
+      "url": "https://correiokianda.info/conselho-de-ministros-cria-secretaria-de-estado-para-o-turismo-e-reorganiza-fiscalizacao-economica/",
+      "source": "Correio Kianda",
+      "_key": "acbb35cc3d0cee86",
+      "score": 7,
+      "title_cn": "部长会议设立旅游国务秘书处，重组经济监管"
+    },
+    {
+      "title": "Economista defende estudo de viabilidade social antes da construção da autoestrada Oeste-Leste",
+      "url": "https://correiokianda.info/economista-defende-estudo-de-viabilidade-social-antes-da-construcao-da-autoestrada-oeste-leste/",
+      "source": "Correio Kianda",
+      "_key": "8d2122af22096524",
+      "score": 7,
+      "title_cn": "经济学家主张东西高速公路建设前进行社会可行性研究"
+    },
+    {
+      "title": "Serviços da Unitel devem ser restabelecidos ainda hoje, diz presidente",
+      "url": "https://jornaloguardiao.com/2026/07/29/servicos-da-unitel-devem-ser-restabelecidos-ainda-hoje-diz-presidente/",
+      "source": "Jornal O Guardião",
+      "_key": "eee99787c4656029",
+      "score": 7,
+      "title_cn": "Unitel总裁称：服务应于今日恢复"
+    },
+    {
+      "title": " Serviços da Unitel devem ser restabelecidos ainda hoje, diz presidente ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8d8eec337c831e",
+      "score": 7,
+      "title_cn": "Unitel总裁称：服务应于今日恢复"
+    },
+    {
+      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS. Nesta edição do Valor do Kumbu, analisámos duas questões centrais para a segurança financeira e a proteção dos trabalhadores.",
+      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=73589",
+      "source": "Novo Jornal",
+      "_key": "aad28d4d4f0dbad9",
+      "score": 7,
+      "title_cn": "《Kumbu的价值》：银行与保险世界"
+    },
+    {
+      "title": "Sociedade civil promove reflexão sobre os “tumultos” de Julho de 2025",
+      "url": "https://valoreconomico.co.ao/artigo/sociedade-civil-promove-reflexao-sobre-os-tumultos-de-julho-de-2025",
+      "source": "Valor Económico",
+      "_key": "1d89dc0d10b0c2b2",
+      "score": 7,
+      "title_cn": "公民社会推动反思2025年7月“骚乱”"
+    },
+    {
+      "title": "Executivo reorganiza sectores estratégicos para melhorar resposta aos cidadãos",
+      "url": "https://correiokianda.info/executivo-reorganiza-sectores-estrategicos-para-melhorar-resposta-aos-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "1b4065adf39877d4",
+      "score": 6,
+      "title_cn": "政府重组战略部门，以改善对公民的响应"
+    },
+    {
+      "title": "BAI Directo passa a disponibilizar código de confirmação através do WhatsApp",
+      "url": "https://correiokianda.info/bai-directo-passa-a-disponibilizar-codigo-de-confirmacao-atraves-do-whatsapp/",
+      "source": "Correio Kianda",
+      "_key": "b3ff4a4a5a3f66d1",
+      "score": 6,
+      "title_cn": "BAI Directo将通过WhatsApp提供确认码"
+    },
+    {
+      "title": "KWIK regista crescimento de 322,04 mil milhões de kwanzas no 2.º semestre em Angola",
+      "url": "https://forbesafricalusofona.com/kwik-regista-crescimento-de-32204-mil-milhoes-de-kwanzas-no-2-o-semestre-em-angola/",
+      "source": "Forbes África",
+      "_key": "91df844b5266744f",
+      "score": 6,
+      "title_cn": "KWIK在安哥拉下半年录得3220.4亿宽扎增长"
+    },
+    {
+      "title": "Destaque Presidente da República aborda cooperação bilateral com Primeiro-Ministro portuguêsO Chefe de Estado, João Lourenço, manteve, esta quarta-feira, uma conversa telefónica com o primeiro-ministro de Portugal, Luís Montenegro.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682052/presidente-da-rep%C3%BAblica-aborda-coopera%C3%A7%C3%A3o-bilateral-com-primeiro-ministro-portugu%C3%AAs",
+      "source": "Jornal de Angola",
+      "_key": "208ac5de883009ab",
+      "score": 6,
+      "title_cn": "总统若昂·洛伦索（João Lourenço）与葡萄牙总理讨论双边合作"
+    },
+    {
+      "title": "Angola and Vietnam reinforce partnership in agricultural sector",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-e-vietname-aprofundam-parceria-no-sector-agricola/",
+      "source": "ANGOP",
+      "_key": "e5b2923f047be991",
       "score": 5,
-      "title_cn": "上门办理身份证25万宽扎，送证1万宽扎"
+      "title_cn": "安哥拉与越南加强农业领域伙伴关系"
+    },
+    {
+      "title": "Tratamento do Bilhete de Identidade ao domicílio vai custar 250 mil kwanzas",
+      "url": "https://www.opais.ao/politica/tratamento-do-bilhete-de-identidade-ao-domicilio-vai-custar-250-mil-kwanzas/",
+      "source": "O País",
+      "_key": "3ba0fd6f10af7e03",
+      "score": 5,
+      "title_cn": "上门办理身份证将花费25万宽扎"
     }
   ]
 }
