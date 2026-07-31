@@ -1,120 +1,400 @@
 {
-  "date": "2026-07-30",
-  "total_new": 30,
-  "total_filtered": 14,
+  "date": "2026-07-31",
+  "total_new": 120,
+  "total_filtered": 49,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "A inclusão do Yuan reforça uma parceria estratégica que continua a transformar Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682113/a-inclus%C3%A3o-do-yuan-refor%C3%A7a-uma-parceria-estrat%C3%A9gica-que-continua-a-transformar-angola",
-      "source": "Jornal de Angola",
-      "_key": "df3bf821ceeedf59",
-      "score": 10,
-      "title_cn": "人民币纳入安哥拉战略伙伴关系，助力安哥拉转型发展"
-    },
-    {
-      "title": "Economia Exportações de petróleo e gás geram cerca de 10,16 mil milhões de dólares no segundo trimestre ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682118/exporta%C3%A7%C3%B5es-de-petr%C3%B3leo-e-g%C3%A1s-geram-cerca-de-1016-mil-milh%C3%B5es-de-d%C3%B3lares-no-segundo-trimestre",
-      "source": "Jornal de Angola",
-      "_key": "c37ca649f4617c05",
-      "score": 9,
-      "title_cn": "安哥拉第二季度油气出口创收约101.6亿美元"
-    },
-    {
-      "title": "Angola exporta 88,12 milhões de barris de petróleo no segundo trimestre de 2026",
-      "url": "https://www.opais.ao/economia/angola-exporta-8812-milhoes-de-barris-de-petroleo-no-segundo-trimestre-de-2026/",
-      "source": "O País",
-      "_key": "24b40994c59e9d37",
-      "score": 9,
-      "title_cn": "安哥拉2026年第二季度出口石油8812万桶"
-    },
-    {
-      "title": "Angola entre os países com desempenho logístico mais baixos do mundo",
-      "url": "https://correiokianda.info/angola-entre-os-paises-com-desempenho-logistico-mais-baixos-do-mundo/",
-      "source": "Correio Kianda",
-      "_key": "ced8855f04c15618",
-      "score": 8,
-      "title_cn": "安哥拉位列全球物流绩效最低国家之一"
-    },
-    {
-      "title": "PONTO AO: TECNOLÓGIA E CIBERSEGURANÇA. Dependência da internet para o normal funcionamento das instituições: a necessidade de formação especializada nos sistemas de segurança cibernética e a necessidade de descentralização.",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=73622",
-      "source": "Novo Jornal",
-      "_key": "5ef839856b9d6f86",
-      "score": 8,
-      "title_cn": "技术与网络安全：机构运作依赖互联网，需加强网络安全系统专业培训"
-    },
-    {
-      "title": "BODIVA descarta desvalorização das acções da Unitel na bolsa após ataque cibernético",
-      "url": "https://correiokianda.info/bodiva-descarta-desvalorizacao-das-accoes-da-unitel-na-bolsa-apos-ataque-cibernetico/",
-      "source": "Correio Kianda",
-      "_key": "030cc02b7de4bfc8",
-      "score": 7,
-      "title_cn": "网络攻击后，安哥拉证券交易所排除Unitel股票贬值可能"
-    },
-    {
-      "title": "Acções da Unitel caem 13% no segundo dia de bolsa",
-      "url": "https://valoreconomico.co.ao/artigo/accoes-da-unitel-caem-13-no-segundo-dia-de-bolsa",
-      "source": "Valor Económico",
-      "_key": "2b6b2d5270301e0d",
-      "score": 7,
-      "title_cn": "Unitel股价在股市第二天下跌了13%"
-    },
-    {
-      "title": "Mérito ao Presidente João Lourenço por ter acabado com o monopólio nas telecomunicações",
-      "url": "https://angola24horas.com/opiniao/item/34793-merito-ao-presidente-joao-lourenco-por-ter-acabado-com-o-monopolio-nas-telecomunicacoes",
-      "source": "Angola 24 Horas",
-      "_key": "4e273d1ea2ff14af",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统因打破电信垄断获赞"
-    },
-    {
-      "title": "UNITA reage ao ataque à Unitel e exige do governo e da empresa “postura de absoluta transparência”",
-      "url": "https://correiokianda.info/unita-reage-ao-ataque-a-unitel-e-exige-do-governo-e-da-empresa-postura-de-absoluta-transparencia/",
-      "source": "Correio Kianda",
-      "_key": "2954e584484e9d19",
-      "score": 6,
-      "title_cn": "安盟回应Unitel遇袭事件，要求政府和公司保持绝对透明"
-    },
-    {
-      "title": "Regiões Circulação ferroviária entre Cuanza Norte e Malanje retomada ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/682116/circula%C3%A7%C3%A3o-ferrovi%C3%A1ria-entre-cuanza-norte-e-malanje-retomada",
-      "source": "Jornal de Angola",
-      "_key": "6a7e7063f99239b2",
-      "score": 6,
-      "title_cn": "北宽扎与马兰热之间铁路运输恢复"
-    },
-    {
-      "title": "Retomada circulação ferroviária entre Cuanza Norte e Malanje",
-      "url": "https://www.opais.ao/ultima_hora/retomada-circulacao-ferroviaria-entre-cuanza-norte-e-malanje/",
-      "source": "O País",
-      "_key": "60c9c9c3f21b0e16",
-      "score": 6,
-      "title_cn": "北宽扎至马兰热铁路运输恢复"
-    },
-    {
-      "title": "BIC Seguros reforça aposta na inovação com parceria estratégica e lança novas soluções digitaisO BIC Seguros anunciou, durante a Feira Internacional de Angola (FILDA) 2026, uma parceria estratégica com a Innovation Makers, num passo que reforça a aposta da seguradora na inovação e na transformação digital como pilares do seu crescimento e da modernização do sector segurador em Angola.",
-      "url": "https://expansao.co.ao/empresas/detalhe/bic-seguros-reforca-aposta-na-inovacao-com-parceria-estrategica-e-lanca-novas-solucoes-digitais-73620.html",
+      "title": "Cobrança tributária coerciva em Angola | O outro lado da cobrança tributária persuasiva",
+      "url": "",
       "source": "Expansão",
-      "_key": "3d3d6d563241bdbb",
-      "score": 5,
-      "title_cn": "BIC保险加强创新，与战略伙伴合作推出新数字解决方案"
+      "_key": "t_5ce7f55a6d2cf3",
+      "score": 9,
+      "title_cn": "安哥拉强制性税收征管：劝导性征管的另一面"
     },
     {
-      "title": "Aprovada por unanimidade lei que agrava pena para violência...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-contra-a-violencia-domestica-e-aprovada-por-unanimidade-na-assembleia-nacional-73624.html",
+      "title": "Corredores de Desenvolvimento | A nova fronteira da integração económica Africana e o papel estratégico de Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1cc4998a4b2fdf",
+      "score": 9,
+      "title_cn": "发展走廊：非洲经济一体化新前沿与安哥拉的战略作用"
+    },
+    {
+      "title": "CONVIDADOAntónio Feliciano BraçaCobrança tributária coerciva em Angola | O outro lado da cobrança tributária persuasiva",
+      "url": "https://expansao.co.ao/opiniao/detalhe/cobranca-tributaria-coerciva-em-angola-o-outro-lado-da-cobranca-tributaria-persuasiva-73526.html",
+      "source": "Expansão",
+      "_key": "e44909be706ba251",
+      "score": 9,
+      "title_cn": "嘉宾安东尼奥·费利西亚诺·布拉萨：安哥拉强制性税收征管的另一面"
+    },
+    {
+      "title": "CONVIDADAPaula Bartolomeu Corredores de Desenvolvimento | A nova fronteira da integração económica Africana e o papel estratégico de Angola",
+      "url": "https://expansao.co.ao/opiniao/detalhe/corredores-de-desenvolvimento-a-nova-fronteira-da-integracao-economica-africana-e-o-papel-estrategico-de-angola-73595.html",
+      "source": "Expansão",
+      "_key": "365da19cc980b6f1",
+      "score": 9,
+      "title_cn": "嘉宾保拉·巴托洛梅乌：发展走廊与安哥拉的战略作用"
+    },
+    {
+      "title": "Executivo angolano cria incentivos fiscais para viabilizar exploração nos blocos 34 e 35",
+      "url": "https://forbesafricalusofona.com/executivo-angolano-cria-incentivos-fiscais-para-viabilizar-exploracao-nos-blocos-34-e-35/",
+      "source": "Forbes África",
+      "_key": "0570e997189aa47d",
+      "score": 9,
+      "title_cn": "安哥拉政府出台税收优惠，促进34和35区块勘探"
+    },
+    {
+      "title": "Angola earns US$8.91 billion from oil sales in the 2nd quarter",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-arrecada-usd-8x91-mil-milhoes-com-a-venda-de-petroleo-no-2-trimestre/",
+      "source": "ANGOP",
+      "_key": "e6a0ccf799d50fd4",
+      "score": 8,
+      "title_cn": "安哥拉第二季度石油销售收入达89.1亿美元"
+    },
+    {
+      "title": "Receitas do petróleo sobem 55% e rendem 8,9 mil milhões de dólares a Angola entre Abril e Junho",
+      "url": "https://angola24horas.com/economia/item/34794-receitas-do-petroleo-sobem-55-e-rendem-8-9-mil-milhoes-de-dolares-a-angola-entre-abril-e-junho",
+      "source": "Angola 24 Horas",
+      "_key": "9c89fe4fae25259a",
+      "score": 8,
+      "title_cn": "安哥拉4-6月石油收入增长55%，达89亿美元"
+    },
+    {
+      "title": "Angola encaixa quase 9 mil milhões de USD com exportação de petróleo no 2º trimestre de 2026",
+      "url": "https://correiokianda.info/angola-encaixou-quase-9-mil-milhoes-de-dolares-com-exportacao-de-petroleo-bruto-no-2o-trimestre-de-2026/",
+      "source": "Correio Kianda",
+      "_key": "3d6f8ac7b87dd10a",
+      "score": 8,
+      "title_cn": "安哥拉2026年第二季度石油出口收入近90亿美元"
+    },
+    {
+      "title": "O petróleo abriu uma janela para reformas |Estará a governação a desperdiçá-la?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c39bb3566e542f",
+      "score": 8,
+      "title_cn": "石油为改革打开窗口，政府是否正在浪费机遇？"
+    },
+    {
+      "title": "Angola e o Leviatã Regulatório | Quando a norma deixa de proteger e começa a asfixiar",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3fe67242a6c4eb",
+      "score": 8,
+      "title_cn": "安哥拉与监管利维坦：当规范不再保护而开始扼杀"
+    },
+    {
+      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaO petróleo abriu uma janela para reformas |Estará a governação a desperdiçá-la?",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-petroleo-abriu-uma-janela-para-reformas-estara-a-governacao-a-desperdica-la-73611.html",
+      "source": "Expansão",
+      "_key": "3240bfb820aa282b",
+      "score": 8,
+      "title_cn": "费尔南德斯·万达：石油为改革打开窗口，政府是否正在浪费？"
+    },
+    {
+      "title": "OpiniãoFrancisco Xavier PedroAngola e o Leviatã Regulatório | Quando a norma deixa de proteger e começa a asfixiar",
+      "url": "https://expansao.co.ao/opiniao/detalhe/angola-e-o-leviata-regulatorio-quando-a-norma-deixa-de-proteger-e-comeca-a-asfixiar-73580.html",
+      "source": "Expansão",
+      "_key": "b15b9f2ab6b2d6bc",
+      "score": 8,
+      "title_cn": "弗朗西斯科·哈维尔·佩德罗：安哥拉与监管利维坦"
+    },
+    {
+      "title": "Angola exporta 88,12 milhões de barris de petróleo bruto no 2.º semestre de 2026",
+      "url": "https://forbesafricalusofona.com/angola-exporta-8812-milhoes-de-barris-de-petroleo-bruto-no-2-o-semestre-de-2026/",
+      "source": "Forbes África",
+      "_key": "5edd4adefcdc9407",
+      "score": 8,
+      "title_cn": "安哥拉2026年下半年出口原油8812万桶"
+    },
+    {
+      "title": "Sociedade UNITEL anuncia início da recuperação gradual dos serviços ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682132/unitel-anuncia-in%C3%ADcio--da-recupera%C3%A7%C3%A3o-gradual-dos-servi%C3%A7os",
+      "source": "Jornal de Angola",
+      "_key": "6018b6974cda8dec",
+      "score": 8,
+      "title_cn": "UNITEL公司宣布逐步恢复服务"
+    },
+    {
+      "title": "Finanças inicia auscultação pública e diz que contributos já influenciaram...",
+      "url": "https://valoreconomico.co.ao/artigo/financas-inicia-auscultacao-publica-e-diz-que-contributos-ja-influenciaram-dotacoes-para-saude-e-educacao",
+      "source": "Valor Económico",
+      "_key": "8ab0745bdd33dac0",
+      "score": 8,
+      "title_cn": "财政部启动公众咨询，称已采纳部分意见"
+    },
+    {
+      "title": "Secretary of State reaffirms consolidation of Angola’s capital market",
+      "url": "https://www.angop.ao/en/noticias/economia/secretario-de-estado-reafirma-consolidacao-do-mercado-de-capitais-em-angola/",
+      "source": "ANGOP",
+      "_key": "5cdb324449b808e9",
+      "score": 7,
+      "title_cn": "国务秘书重申巩固安哥拉资本市场"
+    },
+    {
+      "title": "Ações da Unitel caem quase 13% no segundo dia de negociação em bolsa",
+      "url": "https://angola24horas.com/economia/item/34799-acoes-da-unitel-caem-quase-13-no-segundo-dia-de-negociacao-em-bolsa",
+      "source": "Angola 24 Horas",
+      "_key": "08fb3ccd24aab508",
+      "score": 7,
+      "title_cn": "Unitel股价在上市第二天暴跌近13%"
+    },
+    {
+      "title": "CFL anuncia retoma das operações ferroviárias no corredor Malanje–Cuanza-Norte",
+      "url": "https://correiokianda.info/cfl-anuncia-retoma-das-operacoes-ferroviarias-no-corredor-malanje-cuanza-norte/",
+      "source": "Correio Kianda",
+      "_key": "6e6b86903f262720",
+      "score": 7,
+      "title_cn": "CFL宣布恢复马兰热-宽扎北走廊铁路运营"
+    },
+    {
+      "title": "“É cedo para se garantir estabilidade aos accionistas”, diz jurista após venda das acções da Unitel em bolsa",
+      "url": "https://correiokianda.info/e-cedo-para-se-garantir-estabilidade-aos-accionistas-diz-jurista-apos-venda-das-accoes-da-unitel-em-bolsa/",
+      "source": "Correio Kianda",
+      "_key": "b117463aa91f03dd",
+      "score": 7,
+      "title_cn": "法学家：Unitel股票上市后，股东稳定为时尚早"
+    },
+    {
+      "title": "Carbono pode abrir uma nova economia de milhares de milhões USD para Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_37641e9aa87cd6",
+      "score": 7,
+      "title_cn": "碳经济有望为安哥拉带来数十亿美元新机遇"
+    },
+    {
+      "title": "OPV da Unitel tem um \"brinde especial\" de 570 mil milhões Kz",
+      "url": "https://expansao.co.ao/empresas/detalhe/opv-da-unitel-tem-um-brinde-especial-de-570-mil-milhoes-kz-73615.html",
+      "source": "Expansão",
+      "_key": "04531e56d917780d",
+      "score": 7,
+      "title_cn": "Unitel首次公开募股附带5700亿宽扎“特别赠礼”"
+    },
+    {
+      "title": "Angola aumenta para 15 anos pena máxima de prisão contra violência doméstica, mas UNITA alerta para agravamento do custo de vida",
+      "url": "https://forbesafricalusofona.com/angola-aumenta-para-15-anos-pena-maxima-de-prisao-contra-violencia-domestica-mas-unita-alerta-para-agravamento-do-custo-de-vida/",
+      "source": "Forbes África",
+      "_key": "d2621ad2b16e87df",
+      "score": 7,
+      "title_cn": "安哥拉将家暴最高刑期增至15年，安盟警告生活成本将恶化"
+    },
+    {
+      "title": "Alojamento e restauração geram 500 mil milhões kz em volume de negócios em Angola",
+      "url": "https://forbesafricalusofona.com/alojamento-e-restauracao-geram-500-mil-milhoes-kz-em-volume-de-negocios-em-angola/",
+      "source": "Forbes África",
+      "_key": "37814baaf8e6f012",
+      "score": 7,
+      "title_cn": "安哥拉住宿餐饮业营业额达5000亿宽扎"
+    },
+    {
+      "title": "Angola estrutura turismo como indústria estratégica de investimento e criação de activos",
+      "url": "https://forbesafricalusofona.com/angola-estrutura-turismo-como-industria-estrategica-de-investimento-e-criacao-de-activos/",
+      "source": "Forbes África",
+      "_key": "d68c268b72f21b5b",
+      "score": 7,
+      "title_cn": "安哥拉将旅游业定位为战略投资和资产创造产业"
+    },
+    {
+      "title": "Destaque TAAG inaugura rota de carga para Lusaka A TAAG, Linhas Aéreas de Angola inaugurou uma nova rota dedicada ao transporte de carga para Lusaka, capital da Zâmbia, reforçando a sua estratégia de expansão no segmento de mercadorias em África e consolidando o seu posicionamento como facilitadora do comércio internacional, soube, esta sexta-feira, o JA Online. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682145/taag-inaugura-rota-de-carga-para-lusaka-",
+      "source": "Jornal de Angola",
+      "_key": "b1a83ea8402138c4",
+      "score": 7,
+      "title_cn": "安哥拉航空（TAAG）开通卢萨卡货运新航线"
+    },
+    {
+      "title": "Sociedade Expansão da rede eléctrica beneficia dez municípios em Malanje ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682137/expans%C3%A3o-da-rede-el%C3%A9ctrica-beneficia--dez-munic%C3%ADpios-em-malanje",
+      "source": "Jornal de Angola",
+      "_key": "9129d24ef867568a",
+      "score": 7,
+      "title_cn": "马兰热省十个市受益于电网扩建"
+    },
+    {
+      "title": "Reposta circulação ferroviária entre Malanje e Cuanza-Norte",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/reposta-circulacao-ferroviaria-entre-cuanza-norte-e-malanje-73625.html",
       "source": "Novo Jornal",
-      "_key": "8c661b99adecdbd0",
-      "score": 5,
-      "title_cn": "安哥拉一致通过法律，加重暴力犯罪刑罚"
+      "_key": "1f7ae37f8cddb62f",
+      "score": 7,
+      "title_cn": "马兰热至宽扎北铁路恢复通车"
     },
     {
-      "title": "Mais de cem novos licenciados reforçam quadros da Polícia Nacional de Angola",
-      "url": "https://www.opais.ao/sociedade/mais-de-cem-novos-licenciados-reforcam-quadros-da-policia-nacional-de-angola/",
+      "title": "UNITEL diz desconhecer alegado pedido de resgate por hackers de 300 mil milhões de kwanzas",
+      "url": "https://www.opais.ao/economia/unitel-diz-desconhecer-alegado-pedido-de-resgate-por-hackers-de-300-mil-milhoes-de-kwanzas/",
       "source": "O País",
-      "_key": "0c3ec82e50457d57",
+      "_key": "5afb5d377648466c",
+      "score": 7,
+      "title_cn": "UNITEL称不知晓黑客索要3000亿宽扎赎金"
+    },
+    {
+      "title": "C.E Business promove turismo e agricultura de Angola na Semana de Industrialização da SADC",
+      "url": "https://www.opais.ao/economia/c-e-business-promove-turismo-e-agricultura-de-angola-na-semana-de-industrializacao-da-sadc/",
+      "source": "O País",
+      "_key": "f503953170666fd3",
+      "score": 7,
+      "title_cn": "C.E Business在南部非洲发展共同体工业化周推广安哥拉旅游农业"
+    },
+    {
+      "title": "Parlamento aprova autorização legislativa sobre assinatura electrónica com 166 votos a favor",
+      "url": "https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/",
+      "source": "O País",
+      "_key": "9a57f13ea2eff594",
+      "score": 7,
+      "title_cn": "议会以166票赞成通过了电子签名立法授权"
+    },
+    {
+      "title": "É de hoje… A UNITEL e os dias de penumbra",
+      "url": "https://www.opais.ao/opiniao/e-de-hoje-a-unitel-e-os-dias-de-penumbra/",
+      "source": "O País",
+      "_key": "a4bf66aa12f0e6b0",
+      "score": 7,
+      "title_cn": "今日聚焦：UNITEL及其至暗时刻"
+    },
+    {
+      "title": "Clientes da UNITEL podem avançar para tribunal após falhas provocadas...",
+      "url": "https://valoreconomico.co.ao/artigo/clientes-da-unitel-podem-avancar-para-tribunal-apos-falhas-provocadas-por-ataque-cibernetico-defende-aadic",
+      "source": "Valor Económico",
+      "_key": "dbff87cf1b3220ba",
+      "score": 7,
+      "title_cn": "UNITEL客户因故障可提起诉讼"
+    },
+    {
+      "title": "Cabinet assesses transformation of Customs Warehouse into a joint-stock company",
+      "url": "https://www.angop.ao/en/noticias/politica/cm-aprecia-transformacao-do-entreposto-aduaneiro-em-sociedade-anonima/",
+      "source": "ANGOP",
+      "_key": "c06dffc98ce56baf",
+      "score": 6,
+      "title_cn": "内阁评估海关仓库转变为股份公司"
+    },
+    {
+      "title": "Hackers exigiram resgate de 300 mil milhões de kwanzas após ataque à UNITEL, revela revista",
+      "url": "https://angola24horas.com/component/k2/item/34797-hackers-exigiram-resgate-de-300-mil-milhoes-de-kwanzas-apos-ataque-a-unitel-revela-revista",
+      "source": "Angola 24 Horas",
+      "_key": "81394cee99c0c8a0",
+      "score": 6,
+      "title_cn": "杂志披露：UNITEL遭攻击后，黑客索要3000亿宽扎赎金"
+    },
+    {
+      "title": "Ordem lança seguro para contabilistas por causa de erros no sistema da AGT",
+      "url": "https://expansao.co.ao/angola/detalhe/ordem-lanca-seguro-para-contabilistas-por-causa-de-erros-no-sistema-da-agt-73618.html",
+      "source": "Expansão",
+      "_key": "5a45f3a42187fe2c",
+      "score": 6,
+      "title_cn": "因AGT系统错误，会计师协会推出会计师保险"
+    },
+    {
+      "title": "Profissão de risco",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_100e6e43548763",
+      "score": 6,
+      "title_cn": "高风险职业"
+    },
+    {
+      "title": "Os débitos entre sede e a sucursal",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_4f76fa04b9e538",
+      "score": 6,
+      "title_cn": "总部与分公司之间的债务"
+    },
+    {
+      "title": "EDITORIALJoão ArmandoProfissão de riscoTemos um seguro específico para contabilistas. É uma inovação curiosa. Durante anos seguraram carros, casas, fábricas e até colheitas agrícolas. Agora chegou a vez de segurar... profissionais.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/profissao-de-risco-73609.html",
+      "source": "Expansão",
+      "_key": "8762e6c6c02a0f72",
+      "score": 6,
+      "title_cn": "社论：若昂·阿曼多（João Armando）谈会计师的高风险职业"
+    },
+    {
+      "title": "Destaque Presidente do Fórum Mundial do Turismo regressa a Angola para dar continuidade aos projectosO presidente do Instituto Fórum Mundial do Turismo, Bulut Bagci, anunciou, hoje, que estará em Angola na próxima semana para dar continuidade, no terreno, aos projectos da organização.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682128/presidente-do-f%C3%B3rum-mundial-do-turismo-regressa-a-angola-para-dar-continuidade-aos-projectos",
+      "source": "Jornal de Angola",
+      "_key": "21985110ac6b2b04",
+      "score": 6,
+      "title_cn": "世界旅游论坛主席布鲁特·巴格奇（Bulut Bagci）重返安哥拉推进项目"
+    },
+    {
+      "title": "FAA admitem preocupação com ciber-ataques e defendem...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/faa-admitem-preocupacao-com-ciber-ataques-e-defendem-reforco-do-segredo-militar-73636.html",
+      "source": "Novo Jornal",
+      "_key": "901df7f66231e8a9",
+      "score": 6,
+      "title_cn": "安哥拉武装部队（FAA）承认担忧网络攻击并主张防御"
+    },
+    {
+      "title": "Operação em mercados angolanos empurra venda ilegal...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/operacao-em-mercados-angolanos-empurra-venda-ilegal-de-medicamentos-para-cabinda-73642.html",
+      "source": "Novo Jornal",
+      "_key": "8ade074554db544c",
+      "score": 6,
+      "title_cn": "安哥拉市场行动打击非法销售"
+    },
+    {
+      "title": "Entre Pangloss e a Economia Real: a Estabilidade não...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/entre-pangloss-e-a-economia-real-a-estabilidade-nao-e-transformacao-73606.html",
+      "source": "Novo Jornal",
+      "_key": "89ec9d804f6a3f77",
+      "score": 6,
+      "title_cn": "潘格罗斯与实体经济之间：稳定并非易事"
+    },
+    {
+      "title": "Termina amanhã em Durban a 9.ª Semana de Industrialização da SADC com delegação empresarial angolana",
+      "url": "https://www.opais.ao/economia/termina-amanha-em-durban-a-9-a-semana-de-industrializacao-da-sadc-com-delegacao-empresarial-angolana/",
+      "source": "O País",
+      "_key": "22ed0cfe03307b0a",
+      "score": 6,
+      "title_cn": "第九届南部非洲发展共同体工业化周在德班闭幕，安哥拉代表团出席"
+    },
+    {
+      "title": "Angola takes peace and security issues very seriously-president",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-leva-muito-a-serio-questoes-de-paz-e-seguranca-pr/",
+      "source": "ANGOP",
+      "_key": "f0c001215c75028d",
       "score": 5,
-      "title_cn": "安哥拉国家警察迎来百余名新毕业生充实警队"
+      "title_cn": "总统：安哥拉高度重视和平与安全问题"
+    },
+    {
+      "title": "US and Angola strengthen cooperation on maritime security",
+      "url": "https://www.angop.ao/en/noticias/politica/eua-e-angola-reforcam-cooperacao-na-seguranca-maritima/",
+      "source": "ANGOP",
+      "_key": "77d3934637f029c9",
+      "score": 5,
+      "title_cn": "美安两国加强海上安全合作"
+    },
+    {
+      "title": "Adalberto Costa Júnior exige transparência e auditoria após apagão da UNITEL",
+      "url": "https://angola24horas.com/politica/item/34798-adalberto-costa-junior-exige-transparencia-e-auditoria-apos-apagao-da-unitel",
+      "source": "Angola 24 Horas",
+      "_key": "2f6d015d21b63908",
+      "score": 5,
+      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）要求UNITEL停电后透明审计"
+    },
+    {
+      "title": "Angola passa a contar com novo quadro jurídico para fortalecer a protecção social",
+      "url": "https://correiokianda.info/angola-passa-a-contar-com-novo-quadro-juridico-para-fortalecer-a-proteccao-social/",
+      "source": "Correio Kianda",
+      "_key": "b04b02466faf634d",
+      "score": 5,
+      "title_cn": "安哥拉将出台新法律框架以加强社会保障"
+    },
+    {
+      "title": "Economia Passageiros da TAAG passam a beneficiar de planos de dados móveis internacionais em mais de 190 destinos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682126/passageiros-da-taag-passam-a-beneficiar-de-planos-de-dados-m%C3%B3veis-internacionais-em-mais-de-190-destinos",
+      "source": "Jornal de Angola",
+      "_key": "d6e9a3ab5424d6c7",
+      "score": 5,
+      "title_cn": "安哥拉航空（TAAG）乘客可在190多个目的地享国际移动数据套餐"
+    },
+    {
+      "title": "Francisco Pinto Leite: “A primeira responsabilidade na cibersegurança é a protecção das nossas redes”",
+      "url": "https://www.opais.ao/entrevista/francisco-pinto-leite-a-primeira-responsabilidade-na-ciberseguranca-e-a-proteccao-das-nossas-redes/",
+      "source": "O País",
+      "_key": "919b48b4636a615a",
+      "score": 5,
+      "title_cn": "弗朗西斯科·平托·莱特（Francisco Pinto Leite）：网络安全首要责任是保护网络"
     }
   ]
 }
