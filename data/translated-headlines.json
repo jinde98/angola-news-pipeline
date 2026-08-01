@@ -1,152 +1,168 @@
 {
-  "date": "2026-07-31",
-  "total_new": 45,
-  "total_filtered": 18,
+  "date": "2026-08-01",
+  "total_new": 53,
+  "total_filtered": 20,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Receita de Angola com venda de petróleo cresce 54,71% no 2.º trimestre",
-      "url": "https://jornaloguardiao.com/2026/07/31/receita-de-angola-com-venda-de-petroleo-cresce-5471-no-2-o-trimestre/",
-      "source": "Jornal O Guardião",
-      "_key": "cf43d31d2a0c5bc4",
+      "title": "Kwanza",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4867",
+      "source": "ANGOP",
+      "_key": "2476f9c4ccaf1c3c",
       "score": 9,
-      "title_cn": "安哥拉第二季度石油销售收入增长54.71%"
+      "title_cn": "宽扎"
     },
     {
-      "title": " Receita de Angola com venda de petróleo cresce 54,71% no 2.º trimestre ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_846f642980e891",
+      "title": "Integração do kwanza na SADC elimina intermediários e reduz custos nas transações regionais, diz BNA",
+      "url": "https://angola24horas.com/economia/item/34801-integracao-do-kwanza-na-sadc-elimina-intermediarios-e-reduz-custos-nas-transacoes-regionais-diz-bna",
+      "source": "Angola 24 Horas",
+      "_key": "67072d3892030f3b",
       "score": 9,
-      "title_cn": "安哥拉第二季度石油销售收入增长54.71%"
+      "title_cn": "安哥拉国家银行：宽扎融入南部非洲发展共同体可消除中间商，降低区域交易成本"
     },
     {
-      "title": "Primeira fase da construçao da autoestrada Oeste–Leste de Angola consome 21 milhões USD",
-      "url": "https://forbesafricalusofona.com/primeira-fase-da-construcao-da-autoestrada-oeste-leste-de-angola-consome-21-milhoes-usd/",
+      "title": "Angola diz que integração do kwanza no sistema de pagamentos da SADC não representa ameaça às reservas internacionais",
+      "url": "https://forbesafricalusofona.com/angola-diz-que-integracao-do-kwanza-no-sistema-de-pagamentos-da-sadc-nao-representa-ameaca-as-reservas-internacionais/",
       "source": "Forbes África",
-      "_key": "b4db8bd20e546a95",
+      "_key": "f75fd5f5b89b5a88",
+      "score": 9,
+      "title_cn": "安哥拉：宽扎融入南部非洲发展共同体支付系统不会威胁国际储备"
+    },
+    {
+      "title": "Arlindo Rangel: “Queremos atrair melhor investimento, não apenas mais investimento”",
+      "url": "https://forbesafricalusofona.com/arlindo-rangel-queremos-atrair-melhor-investimento-nao-apenas-mais-investimento/",
+      "source": "Forbes África",
+      "_key": "896af7079f4be92c",
+      "score": 9,
+      "title_cn": "阿林多·兰热尔（Arlindo Rangel）：我们希望吸引更好的投资，而非仅仅更多投资"
+    },
+    {
+      "title": "Banco central angolano destaca fim de intermediários já com o kwanza nos pagamentos da SADC",
+      "url": "https://jornaloguardiao.com/2026/07/31/banco-central-angolano-destaca-fim-de-intermediarios-ja-com-o-kwanza-nos-pagamentos-da-sadc/",
+      "source": "Jornal O Guardião",
+      "_key": "03b83bd49d2e18e5",
+      "score": 9,
+      "title_cn": "安哥拉央行：宽扎用于南部非洲发展共同体支付已消除中间商"
+    },
+    {
+      "title": " Banco central angolano destaca fim de intermediários já com o kwanza nos pagamentos da SADC ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_201aceddcc9973",
+      "score": 9,
+      "title_cn": "安哥拉央行：宽扎用于南部非洲发展共同体支付已消除中间商"
+    },
+    {
+      "title": "Stock de crédito só cresceu 1% no primeiro semestre para 8.987 mil milhões Kz",
+      "url": "https://expansao.co.ao/economia/detalhe/stock-de-credito-so-cresceu-1-no-primeiro-semestre-para-8987-mil-milhoes-kz-73657.html",
+      "source": "Expansão",
+      "_key": "55c1abd4eebea03a",
       "score": 8,
-      "title_cn": "安哥拉东西高速公路一期工程耗资2100万美元"
+      "title_cn": "上半年信贷存量仅增长1%，达8.987万亿宽扎"
     },
     {
-      "title": "Angola's Digital Acceleration Project aims to Reach 10 million people",
-      "url": "https://www.angop.ao/en/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/",
-      "source": "ANGOP",
-      "_key": "bed608132d42d9cd",
+      "title": "Detidos mais de mil imigrantes ilegais",
+      "url": "https://www.opais.ao/manchete/detidos-mais-de-mil-imigrantes-ilegais/",
+      "source": "O País",
+      "_key": "635aefc80c7a4f8e",
+      "score": 8,
+      "title_cn": "逾千名非法移民被捕"
+    },
+    {
+      "title": "Ministro da Justiça apela ao reforço da celeridade nos postos de identificação",
+      "url": "https://www.opais.ao/sociedade/ministro-da-justica-apela-ao-reforco-da-celeridade-nos-postos-de-identificacao/",
+      "source": "O País",
+      "_key": "590ac7fa12a10fbd",
+      "score": 8,
+      "title_cn": "司法部长呼吁加快身份识别站工作效率"
+    },
+    {
+      "title": "Unitel foi hoje admitida em bolsa e retoma serviços de forma gradual após ataque cibernético",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1a883aae05563d",
       "score": 7,
-      "title_cn": "安哥拉数字加速项目旨在覆盖1000万人"
+      "title_cn": "Unitel今日上市，网络攻击后逐步恢复服务"
     },
     {
-      "title": "Ministry of Finance consults with social partners on the 2027 State Budget",
-      "url": "https://www.angop.ao/en/noticias/economia/ministerio-das-financas-ausculta-parceiros-sociais-sobre-oge-2027/",
-      "source": "ANGOP",
-      "_key": "39c95cafc4cd3955",
-      "score": 7,
-      "title_cn": "财政部与社会伙伴就2027年国家预算进行磋商"
-    },
-    {
-      "title": "Ciberataque à Unitel mantém impacto nos pagamentos e provoca corrida aos ATM em Luanda",
-      "url": "https://jornaloguardiao.com/2026/07/31/ciberataque-a-unitel-mantem-impacto-nos-pagamentos-e-provoca-corrida-aos-atm-em-luanda/",
+      "title": "Africell enfrenta pressão na rede após aumento da procura provocado pela crise da Unitel",
+      "url": "https://jornaloguardiao.com/2026/07/31/africell-enfrenta-pressao-na-rede-apos-aumento-da-procura-provocado-pela-crise-da-unitel/",
       "source": "Jornal O Guardião",
-      "_key": "a0b8bdb6c78ab45c",
+      "_key": "3a1eab48ec8f097c",
       "score": 7,
-      "title_cn": "Unitel遭网络攻击影响支付，罗安达ATM出现挤兑"
+      "title_cn": "Unitel危机致需求激增，Africell面临网络压力"
     },
     {
-      "title": " Ciberataque à Unitel mantém impacto nos pagamentos e provoca corrida aos ATM em Luanda ",
+      "title": " Africell enfrenta pressão na rede após aumento da procura provocado pela crise da Unitel ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_825ae15b1f8f52",
+      "_key": "t_8d3405ac9ca8cb",
       "score": 7,
-      "title_cn": "Unitel遭网络攻击影响支付，罗安达ATM出现挤兑"
+      "title_cn": "Unitel危机致需求激增，Africell面临网络压力"
     },
     {
-      "title": "Venda do Standard Bank entra na recta final com prospecto...",
-      "url": "https://valoreconomico.co.ao/artigo/venda-do-standard-bank-entra-na-recta-final-com-prospecto-em-fase-de-conclusao",
+      "title": "Presidente da República autoriza construção de 200 habitações no Moxico Leste",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-autoriza-construcao-de-200-habitacoes-no-moxico-leste/",
+      "source": "O País",
+      "_key": "053b61c3ccc74deb",
+      "score": 7,
+      "title_cn": "总统授权在东莫希科省建造200套住房"
+    },
+    {
+      "title": "Polícia Nacional apreende mais de 80 armas de fogo em posse de marginais",
+      "url": "https://www.opais.ao/ultima_hora/policia-nacional-apreende-mais-de-80-armas-de-fogo-em-posse-de-marginais/",
+      "source": "O País",
+      "_key": "2b84f137d7e5a072",
+      "score": 7,
+      "title_cn": "国家警察查获犯罪分子持有的80多支枪支"
+    },
+    {
+      "title": "Finanças autoriza 160 milhões de Kwanzas para reabilitar um ...",
+      "url": "https://valoreconomico.co.ao/artigo/financas-autoriza-160-milhoes-de-kwanzas-para-reabilitar-um-piso-do-edificio-dipanda",
       "source": "Valor Económico",
-      "_key": "6c3367304a76894e",
+      "_key": "f879be99466e1611",
       "score": 7,
-      "title_cn": "标准银行出售进入最后阶段，附带招股说明书"
+      "title_cn": "财政部批准1.6亿宽扎用于修复项目"
     },
     {
-      "title": "Angola’s Army Academy construction work to resume in the coming days",
-      "url": "https://www.angop.ao/en/noticias/politica/obras-da-academia-do-exercito-retomam-nos-proximos-dias/",
+      "title": "Angolan investment bank reinforces role in tourism financing during global forum",
+      "url": "https://www.angop.ao/en/noticias/economia/bai-reforca-papel-no-financiamento-do-turismo-durante-forum-global/",
       "source": "ANGOP",
-      "_key": "849ba9aa3fb12a43",
+      "_key": "91097243687ad71b",
       "score": 6,
-      "title_cn": "安哥拉陆军学院建设工程将于近日复工"
+      "title_cn": "安哥拉投资银行在全球论坛上加强旅游融资作用"
     },
     {
-      "title": "TAAG - Angola Airlines opens cargo route to Lusaka",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-abre-rota-de-carga-para-lusaka/",
-      "source": "ANGOP",
-      "_key": "3547c5cc23788759",
-      "score": 6,
-      "title_cn": "安哥拉航空开通卢萨卡货运航线"
-    },
-    {
-      "title": "Angolan Parliament approves Terrestrial Digital Television Development Agreement",
-      "url": "https://www.angop.ao/en/noticias/sociedade/an-aprova-acordo-de-desenvolvimento-de-televisao-digital-terrestre/",
-      "source": "ANGOP",
-      "_key": "46e5a94903d0f68a",
-      "score": 6,
-      "title_cn": "安哥拉议会批准地面数字电视发展协议"
-    },
-    {
-      "title": "Segurança Social recupera 35 mil milhões de kwanzas de dívida dos contribuintes em dois anos",
-      "url": "https://correiokianda.info/seguranca-social-recupera-35-mil-milhoes-de-kwanzas-de-divida-dos-contribuintes-em-dois-anos/",
-      "source": "Correio Kianda",
-      "_key": "6f3190395ee9ec15",
-      "score": 6,
-      "title_cn": "安哥拉社保两年内追回350亿宽扎欠款"
-    },
-    {
-      "title": "Dívidas à Segurança Social ultrapassam 58 mil milhões de kwanzas",
-      "url": "https://jornaloguardiao.com/2026/07/31/dividas-a-seguranca-social-ultrapassam-58-mil-milhoes-de-kwanzas/",
-      "source": "Jornal O Guardião",
-      "_key": "90a10965a3a6c717",
-      "score": 6,
-      "title_cn": "安哥拉社保欠款超580亿宽扎"
-    },
-    {
-      "title": " Dívidas à Segurança Social ultrapassam 58 mil milhões de kwanzas ",
+      "title": "Ordem lança seguro para contabilistas por causa de erros no sistema da AGT",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d0e83ff9e93502",
+      "source": "Expansão",
+      "_key": "t_e85bb34930714c",
       "score": 6,
-      "title_cn": "安哥拉社保欠款超580亿宽扎"
+      "title_cn": "会计师协会为会计师推出保险，应对税务总局系统错误"
     },
     {
-      "title": "Obras Públicas",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57907",
+      "title": "Election",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=15713",
       "source": "ANGOP",
-      "_key": "48ba4488b32be2ac",
+      "_key": "fc51c347322c20a6",
       "score": 5,
-      "title_cn": "公共工程"
+      "title_cn": "选举"
     },
     {
-      "title": "Legislation",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=6100",
-      "source": "ANGOP",
-      "_key": "64356a4107c1c1db",
+      "title": "\"Fazer a simbiose entre a arte e o turismo é o que atrai investidores e turistas\"",
+      "url": "https://expansao.co.ao/weekend/lifestyle/detalhe/fazer-a-simbiose-entre-a-arte-e-o-turismo-e-o-que-atrai-investidores-e-turistas-73656.html",
+      "source": "Expansão",
+      "_key": "c45c99e45e9518bf",
       "score": 5,
-      "title_cn": "立法"
+      "title_cn": "“艺术与旅游融合是吸引投资者和游客的关键”"
     },
     {
-      "title": "Auscultação",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=46533",
-      "source": "ANGOP",
-      "_key": "f3da570efde684ff",
+      "title": "INEFOP disponibiliza mais de 400 vagas de estágios profissionais remunerados no Namibe",
+      "url": "https://www.opais.ao/ultima_hora/inefop-disponibiliza-mais-de-400-vagas-de-estagios-profissionais-remunerados-no-namibe/",
+      "source": "O País",
+      "_key": "3368ae6172ff7bb2",
       "score": 5,
-      "title_cn": "听证会"
-    },
-    {
-      "title": "Surto de Ébola na RDC já é o segundo maior da história",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/surto-de-ebola-na-rdc-ja-e-o-segundo-maior-da-historia-e-o-que-evoluiu-mais-rapido-de-sempre-73649.html",
-      "source": "Novo Jornal",
-      "_key": "46757b29e11080b5",
-      "score": 5,
-      "title_cn": "刚果民主共和国埃博拉疫情已成史上第二大"
+      "title_cn": "国家就业和职业培训学院在纳米贝省提供400多个带薪实习岗位"
     }
   ]
 }
