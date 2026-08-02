@@ -1,104 +1,386 @@
 {
-  "date": "2026-08-01",
-  "total_extracted": 1503,
-  "total_new": 16,
-  "total_existing": 1487,
+  "date": "2026-08-02",
+  "total_extracted": 1682,
+  "total_new": 63,
+  "total_existing": 1619,
   "articles": [
     {
-      "title": "GGPN creates startup network to expand internet access using ANGOSAT-2",
-      "url": "https://www.angop.ao/en/noticias/economia/ggpn-cria-rede-de-startups-para-massificar-internet-com-angosat-2/",
+      "title": "President João Lourenço congratulates Beninese counterpart",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-felicita-homologo-beninense/",
       "source": "ANGOP",
-      "_key": "3756e42399c0cce7"
+      "_key": "78ecb72f68f5b68f"
     },
     {
-      "title": "President João Lourenço attends OAFLAD gala in Luanda",
-      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-prestigia-gala-da-oaflad-em-luanda/",
+      "title": "Angola immortalizes the friendship between Neto and Nyerere",
+      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/angola-eterniza-amizade-entre-neto-e-nyerere/",
       "source": "ANGOP",
-      "_key": "5b42999a2610813a"
+      "_key": "87e8721cc18a0620"
     },
     {
-      "title": "Tanzania expresses gratitude for tribute to Julius Nyerere",
-      "url": "https://www.angop.ao/en/noticias/politica/tanzania-agradece-homenagem-a-julius-nyerere/",
+      "title": "Angolan Head of State highlights Julius Nyerere’s courage",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-realca-coragem-de-julius-nyerere/",
       "source": "ANGOP",
-      "_key": "1b61d580d5027248"
+      "_key": "7c8c935716df6c2d"
     },
     {
-      "title": "Government invests in specialists training for new Burns Hospital",
-      "url": "https://www.angop.ao/en/noticias/saude/governo-aposta-na-formacao-de-especialistas-para-o-novo-hospital-dos-queimados/",
+      "title": "Attorney General office reaffirms commitment to magistrate training",
+      "url": "https://www.angop.ao/en/noticias/politica/pgr-reafirma-compromisso-com-formacao-dos-magistrados/",
       "source": "ANGOP",
-      "_key": "9e0133ee46723027"
+      "_key": "1c0c75e5fd9ebec3"
     },
     {
-      "title": "Rei do Bailundo desmente apoio a Higino Carneiro e reafirma neutralidade política do Reino",
-      "url": "https://angola24horas.com/politica/item/34806-rei-do-bailundo-desmente-apoio-a-higino-carneiro-e-reafirma-neutralidade-politica-do-reino",
+      "title": "Over 4,000 ID cards awaiting collection in Bengo",
+      "url": "https://www.angop.ao/en/noticias/politica/mais-de-quatro-mil-bilhetes-de-identidade-por-levantar-no-bengo/",
+      "source": "ANGOP",
+      "_key": "b93c7be827d6e2fc"
+    },
+    {
+      "title": "UNITEL restores messaging and electronic top-up services",
+      "url": "https://www.angop.ao/en/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/",
+      "source": "ANGOP",
+      "_key": "a05ba9becf7ab154"
+    },
+    {
+      "title": "IGCA urged to accelerate land management modernization",
+      "url": "https://www.angop.ao/en/noticias/sociedade/secretario-de-estado-desafia-igca-a-acelerar-modernizacao-da-gestao-de-terras/",
+      "source": "ANGOP",
+      "_key": "9947cd3233493c5f"
+    },
+    {
+      "title": "Security Institute recovers over AKZ 30 billion from 2023 to 2025",
+      "url": "https://www.angop.ao/en/noticias/sociedade/inss-recupera-35-mil-milhoes-de-kwanzas-de-2023-a-2025/",
+      "source": "ANGOP",
+      "_key": "59241b7987caa035"
+    },
+    {
+      "title": "MAPTSS",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37687",
+      "source": "ANGOP",
+      "_key": "36bad82fd83fa8f5"
+    },
+    {
+      "title": "Musical show marks third day of cinefest in Viana",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/show-musical-marca-terceiro-dia-do-cinefest-em-viana/",
+      "source": "ANGOP",
+      "_key": "a7fce64e470477c6"
+    },
+    {
+      "title": "Ministério da Justiça",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=249313",
+      "source": "ANGOP",
+      "_key": "17b3c65c2d52784b"
+    },
+    {
+      "title": "Cabinda international motocross grand prix with 19 pilots confirmed",
+      "url": "https://www.angop.ao/en/noticias/desporto/dezanove-pilotos-disputam-premio-internacional-de-motocross-de-cabinda/",
+      "source": "ANGOP",
+      "_key": "86da47a4fadf9c66"
+    },
+    {
+      "title": "Football: national team’s coach calls up 27 players for FIFA friendly games",
+      "url": "https://www.angop.ao/en/noticias/desporto/futebol-mabilson-amorzinho-e-fernando-no-destaque-da-convocatoria-de-aliou-cisse/",
+      "source": "ANGOP",
+      "_key": "29fe22706e8f4955"
+    },
+    {
+      "title": "Semba and nostalgia mark an afternoon of Muzonguê at Kilamba Cultural Centre",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/semba-e-nostalgia-marcam-tarde-de-muzongue-no-kilamba/",
+      "source": "ANGOP",
+      "_key": "bc1033532af92011"
+    },
+    {
+      "title": "Empresas Próximas do Poder: Quem Herdará os Grandes Contratos Após 2027?",
+      "url": "https://angola24horas.com/component/k2/item/34807-empresas-proximas-do-poder-quem-herdara-os-grandes-contratos-apos-2027",
       "source": "Angola 24 Horas",
-      "_key": "e20d6ba0877e8441"
+      "_key": "3fb20a8d2e61c4c9"
     },
     {
-      "title": "Unitel anuncia reposição dos serviços ao quarto dia após ataque cibernético",
-      "url": "https://angola24horas.com/sociedade/item/34805-unitel-anuncia-reposicao-dos-servicos-ao-quarto-dia-apos-ataque-cibernetico",
-      "source": "Angola 24 Horas",
-      "_key": "8dcfc1b43260d7dd"
-    },
-    {
-      "title": "PR autoriza despesa de 10 mil milhões de kwanzas para construção de infra-estruturas sociais no Moxico-Leste",
-      "url": "https://correiokianda.info/pr-autotiza-despesa-de-10-mil-milhoes-de-kwanzas-para-construcao-de-infra-estruturas-sociais-no-moxico-leste/",
+      "title": "Deputados aprovam relatório do OGE e exigem mais eficiência na gestão das finanças públicas",
+      "url": "https://correiokianda.info/deputados-aprovam-relatorio-do-oge-e-exigem-mais-eficiencia-na-gestao-das-financas-publicas/",
       "source": "Correio Kianda",
-      "_key": "6663d7679d4ef930"
+      "_key": "b49e70f3808fe4b8"
     },
     {
-      "title": "Huíla tem “grande potencial hídrico” subterrâneo e água de categoria A1, afirma engenheiro",
-      "url": "https://correiokianda.info/huila-tem-grande-potencial-hidrico-subterraneo-e-agua-de-categoria-a1-afirma-engenheiro/",
+      "title": "Executivo quer tornar Angola menos vulnerável aos ataques de hackers",
+      "url": "https://correiokianda.info/executivo-quer-tornar-angola-menos-vulneravel-aos-ataques-de-hackers/",
       "source": "Correio Kianda",
-      "_key": "2522b7eee5b14c19"
+      "_key": "2ab0ff9a95337fd9"
     },
     {
-      "title": "Trump ameaça novos ataques, enquanto Teerão promete resposta contra interesses dos EUA e de Israel",
-      "url": "https://correiokianda.info/trump-ameaca-novos-ataques-ao-irao-enquanto-teerao-promete-resposta-contra-interesses-dos-eua-e-de-israel/",
+      "title": "UNITA recorda legado de Jonas Savimbi em conferência sobre percurso político do fundador",
+      "url": "https://correiokianda.info/unita-recorda-legado-de-jonas-savimbi-em-conferencia-sobre-percurso-politico-do-fundador/",
       "source": "Correio Kianda",
-      "_key": "a34fc741f76ebe24"
+      "_key": "7bf844a5f65b910c"
+    },
+    {
+      "title": "Analistas defendem respeito aos estatutos para ultrapassar crise na FNLA",
+      "url": "https://correiokianda.info/analistas-defendem-respeito-aos-estatutos-para-ultrapassar-crise-na-fnla/",
+      "source": "Correio Kianda",
+      "_key": "d684e2923d186ae3"
+    },
+    {
+      "title": "Tribunal Constitucional dá oito dias ao MPLA para contestar providência cautelar de Higino Carneiro",
+      "url": "https://correiokianda.info/tribunal-constitucional-aceita-providencia-de-higino-carneiro-e-notifica-mpla/",
+      "source": "Correio Kianda",
+      "_key": "335d2586c629c933"
+    },
+    {
+      "title": "“Ataque cibernético à Unitel deve ser investigado com rigor”, defendem especialistas",
+      "url": "https://correiokianda.info/ataque-cibernetico-a-unitel-deve-ser-investigado-com-rigor-defendem-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "91b9ac8737585749"
+    },
+    {
+      "title": "Colector de drenagem obriga a alterações na circulação rodoviária no Palanca",
+      "url": "https://correiokianda.info/colector-de-drenagem-obriga-a-alteracoes-na-circulacao-rodoviaria-no-palanca/",
+      "source": "Correio Kianda",
+      "_key": "c70c0475b9792165"
+    },
+    {
+      "title": "Ministério da Educação exige cumprimento de prazos na construção de escolas do PAT no Cuchi",
+      "url": "https://correiokianda.info/ministerio-da-educacao-exige-cumprimento-de-prazos-na-construcao-de-escolas-do-pat-no-cuchi/",
+      "source": "Correio Kianda",
+      "_key": "6fa74d20f0411092"
+    },
+    {
+      "title": "“Aleitamento materno reduz doenças e fortalece ligação entre mãe e filho”, dizem especialistas",
+      "url": "https://correiokianda.info/aleitamento-materno-reduz-doencas-e-fortalece-ligacao-entre-mae-e-filho-dizem-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "46e3728a97f91df0"
+    },
+    {
+      "title": "Falta de resposta a reivindicações leva sindicato a convocar greve na refinaria da Sonangol",
+      "url": "https://correiokianda.info/falta-de-resposta-a-reivindicacoes-leva-sindicato-a-convocar-greve-na-refinaria-da-sonangol/",
+      "source": "Correio Kianda",
+      "_key": "46f2f8ba313553cb"
+    },
+    {
+      "title": "Primeira votação na ONU afunda candidatura de Macky Sall",
+      "url": "https://correiokianda.info/primeira-votacao-na-onu-afunda-candidatura-de-macky-sall/",
+      "source": "Correio Kianda",
+      "_key": "ac4fcc3a4b350e7f"
+    },
+    {
+      "title": "        Sociedade10 horas atrás  Agricultores em Benguela aprendem técnicas internacionais para aumentar rendimento do tomate Agricultores da província de Benguela estão a receber formação sobre novas técnicas internacionais de produção de tomate em grande escala, numa iniciativa destinada a aumentar a...   ",
+      "url": "https://correiokianda.info/agricultores-em-benguela-aprendem-tecnicas-internacionais-para-aumentar-rendimento-do-tomate/",
+      "source": "Correio Kianda",
+      "_key": "cde4a7dea46037ba"
+    },
+    {
+      "title": "        Sociedade11 horas atrás  Angola passa a contar com hospital especializado com 252 camas para tratamento de queimaduras Angola passa a dispor de uma unidade hospitalar especializada no tratamento de grandes queimados e feridas complexas, com a inauguração do Hospital dos Queimados Presidente Julius...   ",
+      "url": "https://correiokianda.info/angola-passa-a-contar-com-hospital-especializado-com-252-camas-para-tratamento-de-queimaduras/",
+      "source": "Correio Kianda",
+      "_key": "cb8cd3d3e981b4c3"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260802-0102-44b3-99ba-a00fab01534f&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260802-1959-0735-917f-8399854d446a&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "89f20e234d83a352"
+      "_key": "89bc544c8f038b78"
     },
     {
-      "title": "Destaque Moxico Leste recebe investimentos para sectores da habitação e saúde A província do Moxico Leste vai beneficiar de um conjunto de investimentos públicos destinados a melhoria do acesso da população aos serviços públicos, fortalecer o sistema de saúde, ampliar a oferta habitacional e criar melhores condições de mobilidade urbana na província.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682227/moxico-leste-recebe-investimentos-para-sectores-da-habita%C3%A7%C3%A3o-e-sa%C3%BAde-",
-      "source": "Jornal de Angola",
-      "_key": "b152f906e5a4b4d5"
+      "title": "Ciberatacaque à Unitel leva AGT a adiar prazos para cumprimento de obrigações fiscais",
+      "url": "https://forbesafricalusofona.com/ciberatacaque-a-unitel-leva-agt-a-adiar-prazos-para-cumprimento-de-obrigacoes-fiscais/",
+      "source": "Forbes África",
+      "_key": "b2c967cf8a418d37"
     },
     {
-      "title": "Destaque Samia Suluhu Hassan agradece homenagem de Angola a Julius NyerereA Presidente da República Unida da Tanzânia, Samia Suluhu Hassan, agradeceu, hoje, ao seu homólogo João Lourenço, pela homenagem prestada ao antigo Chefe de Estado tanzaniano Julius Kambarage Nyerere, pela atribuição do seu nome ao Hospital dos Queimados, inaugurado hoje, na Centralidade do Kilamba.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682239/samia-suluhu-hassan-agradece-homenagem-de-angola-a-julius-nyerere",
-      "source": "Jornal de Angola",
-      "_key": "bb4478133a90eb1a"
+      "title": "Exclusivo: RDC aprova contrato de concessão do Corredor do Lobito à Mota-Engil",
+      "url": "https://forbesafricalusofona.com/exclusivo-rdc-aprova-contrato-de-concessao-do-corredor-do-lobito-a-mota-engil/",
+      "source": "Forbes África",
+      "_key": "83cbd69c4995e79d"
     },
     {
-      "title": "Destaque Hospital dos Queimados Presidente Julius Nyerere entra em funcionamentoO Hospital dos Queimados Presidente Julius Nyerere, localizado na Centralidade do Kilamba, em Luanda, entrou hoje em funcionamento, após ser inaugurado pelo Presidente da República, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682229/hospital-dos-queimados-presidente-julius-nyerere-entra-em-funcionamento",
-      "source": "Jornal de Angola",
-      "_key": "cf51977cb4f1e591"
+      "title": "TC aceita providência de Higino e notifica MPLA para apresentar contestação",
+      "url": "https://jornaloguardiao.com/2026/08/01/tc-angolano-aceita-providencia-de-higino-e-notifica-mpla-para-apresentar-contestacao/",
+      "source": "Jornal O Guardião",
+      "_key": "e6b8c526d1b3e4e9"
     },
     {
-      "title": "Política Adão de Almeida convida ao país homólogo do Benin ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682238/ad%C3%A3o-de-almeida-convida-ao-pa%C3%ADs-hom%C3%B3logo-do-benin",
-      "source": "Jornal de Angola",
-      "_key": "e3aa6452b1e3f393"
+      "title": "Angolana Unitel anuncia restabelecimento de serviços ao quarto dia do ataque cibernético",
+      "url": "https://jornaloguardiao.com/2026/08/01/angolana-unitel-anuncia-restabelecimento-de-servicos-ao-quarto-dia-do-ataque-cibernetico/",
+      "source": "Jornal O Guardião",
+      "_key": "60c0e3b0d950ee6e"
     },
     {
-      "title": "Política Primeiras-Damas africanas visitam exposição de artes ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682235/primeiras-damas-africanas-visitam-exposi%C3%A7%C3%A3o-de-artes",
-      "source": "Jornal de Angola",
-      "_key": "d5cafb731c807143"
+      "title": "PR homenageia Julius Nyerere com inauguração de hospital especializado em queimados",
+      "url": "https://jornaloguardiao.com/2026/08/01/pr-homenageia-julius-nyerere-com-inauguracao-de-hospital-especializado-em-queimados/",
+      "source": "Jornal O Guardião",
+      "_key": "c084c0eda87bdccd"
     },
     {
-      "title": "14:52 / 1 ago. 2026 TC e Provedoria traçam reforço da cooperação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682236/tc-e-provedoria-tra%C3%A7am--refor%C3%A7o-da-coopera%C3%A7%C3%A3o",
+      "title": "RDC eleva número de mortos para 1.587 e confirma 3.605 casos de Ébola",
+      "url": "https://jornaloguardiao.com/2026/08/01/rdc-eleva-numero-de-mortos-para-1-587-e-confirma-3-605-casos-de-ebola/",
+      "source": "Jornal O Guardião",
+      "_key": "f3f365c4de3ff58f"
+    },
+    {
+      "title": "Domingo, 2 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_828f0c7a277c11"
+    },
+    {
+      "title": " TC aceita providência de Higino e notifica MPLA para apresentar contestação ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_af67c2a0da03ff"
+    },
+    {
+      "title": " Angolana Unitel anuncia restabelecimento de serviços ao quarto dia do ataque cibernético ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8a5e664838b3be"
+    },
+    {
+      "title": " PR homenageia Julius Nyerere com inauguração de hospital especializado em queimados ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_618c8f0458f1bc"
+    },
+    {
+      "title": " RDC eleva número de mortos para 1.587 e confirma 3.605 casos de Ébola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_ada50dfa444dc0"
+    },
+    {
+      "title": "Chefe de Estado destaca importância da nova unidade sanitária para o país O Presidente da República, João Lourenço, afirmou, sábado, em Luanda, que a entrada em funcionamento do novo Hospital dos Queimados “Presidente Julius Nyerere” representa um passo importante no reforço das capacidades do Sistema Nacional de Saúde.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682248/chefe-de-estado-destaca-import%C3%A2ncia-da-nova-unidade-sanit%C3%A1ria-para-o-pa%C3%ADs-",
       "source": "Jornal de Angola",
-      "_key": "f661e668539530a0"
+      "_key": "13859da64111ed42"
+    },
+    {
+      "title": "Novo Hospital dos Queimados vai tratar de casos complexos de feridas crónicasO novo Hospital dos Queimados, inaugurado sábado pelo Presidente da República, João Lourenço, na Centralidade do Kilamba, em Luanda, está dotado de tecnologia de última geração para o tratamento de casos complexos decirurgia reconstrutiva e reabilitação de feridas crónicas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682244/novo-hospital-dos-queimados-vai-tratar-de-casos-complexos-de-feridas-cr%C3%B3nicas",
+      "source": "Jornal de Angola",
+      "_key": "e3a8f31042e639d5"
+    },
+    {
+      "title": "Destaque Hospital dos Queimados inicia acolhimento dos primeiros pacientesO Hospital Especializado em Queimados Presidente Julius Nyerere inicia, este sábado, o acolhimento dos primeiros pacientes com queimaduras graves e feridas complexas, referenciados por outras unidades sanitárias da província de Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682242/hospital-dos-queimados-inicia-acolhimento-dos-primeiros-pacientes",
+      "source": "Jornal de Angola",
+      "_key": "ff784ed80c5564f2"
+    },
+    {
+      "title": "Reconhecido empenho da mulher parlamentar O presidente da Assembleia Nacional, Adão de Almeida, reconheceu publicamente, sexta-feira, o contributo decisivo das mulheres no Parlamento, numa homenagem que assinalou as celebrações do Dia da Mulher Africana. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682250/reconhecido-empenho-da-mulher-parlamentar-",
+      "source": "Jornal de Angola",
+      "_key": "672d770c3009afd9"
+    },
+    {
+      "title": "Angola enaltece a iniciativa da ONU sobre Diálogo Global voltado para IA Angola enalteceu, em Nova Iorque, o trabalho desenvolvido pelo Órgão Consultivo de Alto Nível das Nações Unidas sobre Inteligência Artificial (IA) e o Diálogo Global focado na Governação desta ferramenta, dada a sua relevância na edificação de um modelo internacional de gestão responsável e inclusivo.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682249/angola-enaltece-a-iniciativa-da-onu-sobre-di%C3%A1logo-global-voltado-para-ia--",
+      "source": "Jornal de Angola",
+      "_key": "3d91a2582910a702"
+    },
+    {
+      "title": "Política Família Nyerere agradece gesto do Estado angolano ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682247/fam%C3%ADlia-nyerere-agradece-gesto-do-estado-angolano",
+      "source": "Jornal de Angola",
+      "_key": "33d2877860c09a07"
+    },
+    {
+      "title": "Política Julius Nyerere ajudou o país a alcançar a Independência ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682245/julius-nyerere-ajudou-o-pa%C3%ADs--a-alcan%C3%A7ar-a-independ%C3%AAncia",
+      "source": "Jornal de Angola",
+      "_key": "79d4216a757266e5"
+    },
+    {
+      "title": "Política Balbina da Silva destaca papel da mulher africana no desenvolvimento inclusivo do continente ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682243/balbina-da-silva-destaca-papel-da-mulher-africana-no-desenvolvimento-inclusivo-do-continente",
+      "source": "Jornal de Angola",
+      "_key": "6346ef0287f5eeef"
+    },
+    {
+      "title": "10:02 / 2 ago. 2026 Samia Hassan realça valor do hospital para a soberania sanitária angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682246/samia-hassan-real%C3%A7a-valor-do-hospital-para-a-soberania-sanit%C3%A1ria-angolana--",
+      "source": "Jornal de Angola",
+      "_key": "c87932f211043954"
+    },
+    {
+      "title": "20:04 / 1 ago. 2026 João Lourenço: Hospital dos Queimados responde a uma lacuna histórica na saúde nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682241/jo%C3%A3o-louren%C3%A7o:-hospital-dos-queimados-responde-a-uma-lacuna-hist%C3%B3rica-na-sa%C3%BAde-nacional",
+      "source": "Jornal de Angola",
+      "_key": "35988e43c3fa7057"
+    },
+    {
+      "title": "Os desdobramentos de mais um caso de profanação de cadáver ",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682253/os-desdobramentos-de-mais-um-caso-de-profana%C3%A7%C3%A3o-de-cad%C3%A1ver-",
+      "source": "Jornal de Angola",
+      "_key": "3887dbe2a73f3991"
+    },
+    {
+      "title": "Última hora João Lourenço felicita Presidente do Benim pelos 66 anos da Independência",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682240/jo%C3%A3o-louren%C3%A7o-felicita-presidente-do-benim-pelos-66-anos-da-independ%C3%AAncia",
+      "source": "Jornal de Angola",
+      "_key": "22c213236587d7e6"
+    },
+    {
+      "title": "PONTO & CONTRAPONTO: DEBATE SEMANAL. Longevidade e Desgaste dos Partidos no poder na África Astral.",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=73662",
+      "source": "Novo Jornal",
+      "_key": "d46be42792844406"
+    },
+    {
+      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. HIGINO CARNEIRO VAI À LUTA E PROCURA EVITAR ANULAÇÃO DA SUA CANDIDATURA PELO SEU PARTIDO NO TRIBUNAL CONSTITUCIONAL. ",
+      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=73660",
+      "source": "Novo Jornal",
+      "_key": "9f2d44ceeab15460"
+    },
+    {
+      "title": "AGT prorroga prazo para pagamento do IVA e IRT até 7 de Agosto",
+      "url": "https://www.opais.ao/economia/agt-prorroga-prazo-para-pagamento-do-iva-e-irt-ate-7-de-agosto/",
+      "source": "O País",
+      "_key": "64d26bf1e845c0bc"
+    },
+    {
+      "title": "Cabinda regista 109 casos positivos da varíola dos macacos",
+      "url": "https://www.opais.ao/ultima_hora/cabinda-regista-109-casos-positivos-da-variola-dos-macacos/",
+      "source": "O País",
+      "_key": "01a86d00ddc51564"
+    },
+    {
+      "title": "Promovidos mais de 100 efectivos da Polícia Nacional na Huíla",
+      "url": "https://www.opais.ao/sociedade/promovidos-mais-de-100-efectivos-da-policia-nacional-na-huila/",
+      "source": "O País",
+      "_key": "e8863633abd72862"
+    },
+    {
+      "title": "Governador da Huíla apela ao civismo e à moderação durante as Festas da Nossa Senhora do Monte",
+      "url": "https://www.opais.ao/destaque/governador-da-huila-apela-ao-civismo-e-a-moderacao-durante-as-festas-da-nossa-senhora-do-monte/",
+      "source": "O País",
+      "_key": "7e759720a08dcd8a"
+    },
+    {
+      "title": "Presidente da República felicita Benin pelos 66 anos da Independência",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-felicita-benin-pelos-66-anos-da-independencia/",
+      "source": "O País",
+      "_key": "a8a2633b8d96b112"
+    },
+    {
+      "title": "João Diogo Gaspar formaliza recandidatura à liderança do MPLA no Cuanza-Norte",
+      "url": "https://www.opais.ao/politica/joao-diogo-gaspar-formaliza-recandidatura-a-lideranca-do-mpla-no-cuanza-norte/",
+      "source": "O País",
+      "_key": "becd96c071753690"
+    },
+    {
+      "title": "Presidente da Tanzânia deixa Angola após visita oficial de dois dias",
+      "url": "https://www.opais.ao/politica/presidente-da-tanzania-deixa-angola-apos-visita-oficial-de-dois-dias/",
+      "source": "O País",
+      "_key": "2e24784f720363dd"
+    },
+    {
+      "title": "Novo Hospital vai reforçar atendimento à queimaduras complexas",
+      "url": "https://www.opais.ao/ultima_hora/novo-hospital-vai-reforcar-atendimento-a-queimaduras-complexas/",
+      "source": "O País",
+      "_key": "1d3da151992cf3cd"
+    },
+    {
+      "title": "Banco Yetu e PrefiraSeguros unem-se para reforçar a oferta de crédito e seguros",
+      "url": "https://www.opais.ao/economia/banco-yetu-e-prefiraseguros-unem-se-para-reforcar-a-oferta-de-credito-e-seguros/",
+      "source": "O País",
+      "_key": "9b21b939d0a1fbbb"
     }
   ]
 }
