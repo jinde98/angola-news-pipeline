@@ -1,7 +1,197 @@
 {
-  "date": "2026-08-02",
-  "total_new": 8,
-  "total_filtered": 0,
+  "date": "2026-08-03",
+  "total_new": 95,
+  "total_filtered": 27,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "Ciberataque à Unitel leva AGT a adiar prazos para cumprimento de obrigações fiscais",
+      "url": "https://forbesafricalusofona.com/ciberataque-a-unitel-leva-agt-a-adiar-prazos-para-cumprimento-de-obrigacoes-fiscais/",
+      "source": "Forbes África",
+      "_key": "f6249d2e7fd850ec",
+      "score": 9
+    },
+    {
+      "title": "Destaque OPEP aumenta produção de petróleo em 188 mil barris diários em Setembro A Organização dos Países Exportadores de Petróleo, no formato alargado OPEP+, decidiu hoje aumentar em 188 mil barris diários a oferta para Setembro.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682344/opep-aumenta-produ%C3%A7%C3%A3o-de-petr%C3%B3leo-em-188-mil-barris-di%C3%A1rios-em-setembro-",
+      "source": "Jornal de Angola",
+      "_key": "2f3c59531072751a",
+      "score": 9
+    },
+    {
+      "title": "Economia / Há 51 minutos Standard Bank Angola efectua operações na China ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682342/standard-bank-angola-efectua-opera%C3%A7%C3%B5es-na-china",
+      "source": "Jornal de Angola",
+      "_key": "49f85dbce346b9e0",
+      "score": 9
+    },
+    {
+      "title": "Petróleo: Barril começa a semana e o mês a cair com...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-comeca-a-semana-e-o-mes-a-cair-com-estrondo-a-mentira-que-tem-suportado-a-materia-prima-em-valores-minimos-73681.html",
+      "source": "Novo Jornal",
+      "_key": "2d608be71b6d8ae5",
+      "score": 9
+    },
+    {
+      "title": "AGT adia prazo dos impostos após falhas nos pagamentos electrónicos",
+      "url": "https://correiokianda.info/agt-adia-prazo-dos-impostos-apos-falhas-nos-pagamentos-electronicos/",
+      "source": "Correio Kianda",
+      "_key": "fe27a36b7a6da011",
+      "score": 8
+    },
+    {
+      "title": "Especialistas pedem fiscalização rigorosa da nova lei de cobrança da Segurança Social",
+      "url": "https://correiokianda.info/especialistas-pedem-fiscalizacao-rigorosa-da-nova-lei-de-cobranca-da-seguranca-social/",
+      "source": "Correio Kianda",
+      "_key": "fff896914cf630b1",
+      "score": 8
+    },
+    {
+      "title": "Política Dívidas à Segurança Social : Código de Pagamento passa na generalidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682323/d%C3%ADvidas-%C3%A0-seguran%C3%A7a-social-:-c%C3%B3digo-de-pagamento--passa-na-generalidade",
+      "source": "Jornal de Angola",
+      "_key": "20baeec1afa88807",
+      "score": 8
+    },
+    {
+      "title": "Economia / Há 57 minutos Especialistas valorizam instalações portuárias ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682336/especialistas-valorizam-instala%C3%A7%C3%B5es-portu%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "f5001199b31a283e",
+      "score": 8
+    },
+    {
+      "title": "Negociações entre privados e governo para gestão do novo aeroporto ainda sem fim à vista",
+      "url": "https://expansao.co.ao/angola/detalhe/negociacoes-entre-privados-e-governo-para-gestao-do-novo-aeroporto-ainda-sem-fim-a-vista-73668.html",
+      "source": "Expansão",
+      "_key": "11fe31acdd279b62",
+      "score": 7
+    },
+    {
+      "title": "Destaque Proposta de Lei da Cibersegurança regressa às comissões do Parlamento Os deputados à Assembleia Nacional retomam, esta segunda-feira, nas comissões especializadas, a discussão na especialidade da Proposta de Lei da Cibersegurança, diploma de iniciativa do Executivo que integra o processo legislativo em curso.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682338/proposta-de-lei-da-ciberseguran%C3%A7a-regressa-%C3%A0s-comiss%C3%B5es-do-parlamento-",
+      "source": "Jornal de Angola",
+      "_key": "ca55cbf9c0df64f3",
+      "score": 7
+    },
+    {
+      "title": "Sociedade Unitel continua a ter falhas nos serviços ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682316/unitel-continua-a-ter-falhas-nos-servi%C3%A7os",
+      "source": "Jornal de Angola",
+      "_key": "874c519d3aa30d6a",
+      "score": 7
+    },
+    {
+      "title": "Ministro de Estado avalia construção da EN-190 no Moxico Leste",
+      "url": "https://www.opais.ao/politica/ministro-de-estado-avalia-construcao-da-en-190-no-moxico-leste/",
+      "source": "O País",
+      "_key": "19c0a86f4e0dd844",
+      "score": 7
+    },
+    {
+      "title": "Parlamento retoma Lei da Cibersegurança enquanto país ainda sofre com...",
+      "url": "https://valoreconomico.co.ao/artigo/parlamento-retoma-lei-da-ciberseguranca-enquanto-pais-ainda-sofre-com-ataque-a-unitel",
+      "source": "Valor Económico",
+      "_key": "4de794bbb49b1097",
+      "score": 7
+    },
+    {
+      "title": "INE quer saber quanto a actividade informal movimenta todos os dias em Angola",
+      "url": "https://correiokianda.info/ine-quer-saber-quanto-a-actividade-informal-movimenta-todos-os-dias-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "8e9ea4a10b8e1aff",
+      "score": 6
+    },
+    {
+      "title": "Empresas públicas custaram 352 milhões USD ao País e só renderam 83 milhões em 2025",
+      "url": "https://expansao.co.ao/empresas/detalhe/empresas-publicas-custaram-352-milhoes-usd-ao-pais-e-so-renderam-83-milhoes-em-2025-73666.html",
+      "source": "Expansão",
+      "_key": "225e1b14c76334fe",
+      "score": 6
+    },
+    {
+      "title": "Sonangol e Unitel \"safam\" sector empresarial público de prejuízos ainda maiores",
+      "url": "https://expansao.co.ao/empresas/detalhe/sonangol-e-unitel-safam-sector-empresarial-publico-de-prejuizos-ainda-maiores-73667.html",
+      "source": "Expansão",
+      "_key": "5abc4e63fc1bc739",
+      "score": 6
+    },
+    {
+      "title": "Ministra das Finanças de Angola reconhece desafios no domínio da qualidade da prestação dos serviços públicos",
+      "url": "https://forbesafricalusofona.com/ministra-das-financas-de-angola-reconhece-desafios-no-dominio-da-qualidade-da-prestacao-dos-servicos-publicos/",
+      "source": "Forbes África",
+      "_key": "d89535c8eb8c6047",
+      "score": 6
+    },
+    {
+      "title": "Filas nos ATM persistem em Luanda dias depois do restabelecimento da Unitel",
+      "url": "https://jornaloguardiao.com/2026/08/03/filas-nos-atm-persistem-em-luanda-dias-depois-do-restabelecimento-da-unitel/",
+      "source": "Jornal O Guardião",
+      "_key": "b77bcb42b0dcd2ad",
+      "score": 6
+    },
+    {
+      "title": " Filas nos ATM persistem em Luanda dias depois do restabelecimento da Unitel ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_bfa127836eed37",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 55 minutos Prodesi absorve acima de Kzs 70 mil milhões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682339/prodesi-absorve-acima--de-kzs-70-mil-milh%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "03e50bdc9d3624fc",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 56 minutos Huambo: Defendido maior acesso ao crédito no Cuima ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682337/huambo:-defendido-maior-acesso-ao-cr%C3%A9dito-no-cuima",
+      "source": "Jornal de Angola",
+      "_key": "e1b0644a55ea024d",
+      "score": 6
+    },
+    {
+      "title": "Ministro da Justiça reforça monitoria do programa de universalização do Bilhete de Identidade",
+      "url": "https://www.opais.ao/ultima_hora/ministro-da-justica-reforca-monitoria-do-programa-de-universalizacao-do-bilhete-de-identidade/",
+      "source": "O País",
+      "_key": "b3da3d085ac3fe45",
+      "score": 6
+    },
+    {
+      "title": "Access Bank reforça presença em Angola com visita institucional de alto nível",
+      "url": "https://www.opais.ao/economia/access-bank-reforca-presenca-em-angola-com-visita-institucional-de-alto-nivel/",
+      "source": "O País",
+      "_key": "16ffb8f94c6de39a",
+      "score": 6
+    },
+    {
+      "title": "Angola acolhe encontro da SADC para preparar conferência mundial das telecomunicações",
+      "url": "https://correiokianda.info/angola-acolhe-encontro-da-sadc-para-preparar-conferencia-mundial-das-telecomunicacoes/",
+      "source": "Correio Kianda",
+      "_key": "e96217408e6d7c98",
+      "score": 5
+    },
+    {
+      "title": "Informais foram os mais afectados mas estavam à partida excluídos de apoio",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_12721d27449d9f",
+      "score": 5
+    },
+    {
+      "title": "CE-CPLP lança fundo de 200 milhões de euros para financiar projectos estratégicos na lusofonia",
+      "url": "https://forbesafricalusofona.com/ce-cplp-lanca-fundo-de-200-milhoes-de-euros-para-financiar-projectos-estrategicos-na-lusofonia/",
+      "source": "Forbes África",
+      "_key": "a760474b9543a951",
+      "score": 5
+    },
+    {
+      "title": "Destaque Decorre Reunião Preparatória da SADC para Conferência de Radiocomunicações 2027A 3.ª Reunião Preparatória da Comunidade de Desenvolvimento da África Austral (SADC) para a Conferência Mundial de Radiocomunicações (CMR-2027) decorre, neste momento, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682347/decorre-reuni%C3%A3o-preparat%C3%B3ria-da-sadc-para-confer%C3%AAncia-de-radiocomunica%C3%A7%C3%B5es-2027",
+      "source": "Jornal de Angola",
+      "_key": "3ea33cb3bec6a038",
+      "score": 5
+    }
+  ]
 }
