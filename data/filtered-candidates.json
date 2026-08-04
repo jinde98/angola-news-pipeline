@@ -1,301 +1,70 @@
 {
   "date": "2026-08-04",
-  "total_new": 129,
-  "total_filtered": 42,
+  "total_new": 25,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola e China reforçam cooperação parlamentar e económica",
-      "url": "https://www.opais.ao/politica/angola-e-china-reforcam-cooperacao-parlamentar-e-economica/",
-      "source": "O País",
-      "_key": "17a76d860b7a4a22",
+      "title": "Trade between Angola and China reaches USD 10.8 billion",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-china-registam-10-8-mil-milhoes-de-dolares-em-trocas-comerciais/",
+      "source": "ANGOP",
+      "_key": "888b47c08c89e87e",
       "score": 10
     },
     {
-      "title": "BNA e Ministério do Interior traçam estratégias para acabar com fenómeno conhecido como \"kinguila\"",
-      "url": "https://angola24horas.com/sociedade/item/34813-bna-e-ministerio-do-interior-tracam-estrategias-para-acabar-com-fenomeno-conhecido-como-kinguila",
-      "source": "Angola 24 Horas",
-      "_key": "23e16204f1c7072b",
-      "score": 9
-    },
-    {
-      "title": "Executivo quer proteger cidadãos dos riscos associados ao câmbio ilegal",
-      "url": "https://correiokianda.info/executivo-quer-proteger-cidadaos-dos-riscos-associados-ao-cambio-ilegal/",
-      "source": "Correio Kianda",
-      "_key": "25caa371fdebee98",
-      "score": 9
-    },
-    {
-      "title": "Angola gastou mais a importar combustíveis do que ganhou com o aumento das exportações de crude",
-      "url": "https://expansao.co.ao/economia/detalhe/angola-gastou-mais-a-importar-combustiveis-do-que-ganhou-com-o-aumento-das-exportacoes-de-crude-73696.html",
-      "source": "Expansão",
-      "_key": "7abd6ab86c37ffab",
-      "score": 9
-    },
-    {
-      "title": "Política Parlamentares informados sobre desafios do Corredor ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682380/parlamentares-informados--sobre-desafios-do-corredor----",
-      "source": "Jornal de Angola",
-      "_key": "17d9a17e67711e9f",
-      "score": 9
-    },
-    {
-      "title": "Sociedade MININT e BNA assinam protocolo para reforçar combate à actividade financeira não autorizada ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682368/minint-e-bna-assinam-protocolo-para-refor%C3%A7ar-combate-%C3%A0-actividade-financeira-n%C3%A3o-autorizada",
-      "source": "Jornal de Angola",
-      "_key": "fc19bcd6a02b78f1",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 59 minutos Obras do Porto de Águas Profundas do Amboim arrancam no próximo ano ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682412/--obras-do-porto-de-%C3%A1guas-profundas-do-amboim-arrancam-no-pr%C3%B3ximo-ano",
-      "source": "Jornal de Angola",
-      "_key": "7e9d91392052f940",
-      "score": 9
-    },
-    {
-      "title": "Polícia Nacional apreende mais de 24 mil dólares no AIAAN",
-      "url": "https://www.opais.ao/economia/policia-nacional-apreende-mais-de-24-mil-dolares-no-aiaan/",
-      "source": "O País",
-      "_key": "8a9127475bfe7c95",
-      "score": 9
-    },
-    {
-      "title": "Conclusão da EN-190 no Moxico Leste prevista para 2027",
-      "url": "https://www.opais.ao/ultima_hora/conclusao-da-en-190-no-moxico-leste-prevista-para-2027/",
-      "source": "O País",
-      "_key": "64f3bf162aaa67a1",
-      "score": 9
-    },
-    {
-      "title": "China propõe mais contacto entre deputados angolanos e chineses",
-      "url": "https://correiokianda.info/china-propoe-mais-contacto-entre-deputados-angolanos-e-chineses/",
-      "source": "Correio Kianda",
-      "_key": "e14e9a3ef719030b",
-      "score": 8
-    },
-    {
-      "title": "China quer aprofundar cooperação parlamentarA Assembleia Popular da China pretende aprofundar a cooperação com as comissões especializadas da Assembleia Nacional, bem como intensificar as visitas de alto nível entre os líderes parlamentares. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682381/china-quer-aprofundar-coopera%C3%A7%C3%A3o-parlamentar",
-      "source": "Jornal de Angola",
-      "_key": "9d3f815cdf32dff5",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 55 minutos Instituições combatem actos financeiros ilícitos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682414/institui%C3%A7%C3%B5es-combatem--actos-financeiros-il%C3%ADcitos",
-      "source": "Jornal de Angola",
-      "_key": "8bc3b68abdb40889",
-      "score": 8
-    },
-    {
-      "title": "COPAA denuncia violação da venda do carapau proibida por cidadãos estrangeiros",
-      "url": "https://www.opais.ao/economia/copaa-denuncia-violacao-da-venda-do-carapau-proibida-por-cidadaos-estrangeiros/",
-      "source": "O País",
-      "_key": "722f10f9959d7f66",
-      "score": 8
-    },
-    {
-      "title": "Detido suposto soba acusado de liderar grupo de tráfico de minerais estratégicos no Huambo",
-      "url": "https://www.opais.ao/ultima_hora/detido-suposto-soba-acusado-de-liderar-grupo-de-trafico-de-minerais-estrategicos-no-huambo/",
-      "source": "O País",
-      "_key": "8f468d887ac181ee",
-      "score": 8
-    },
-    {
-      "title": "Angola na nova geopolítica digital: Inteligência artificial, Smart Cities e instituições fortes",
-      "url": "https://forbesafricalusofona.com/angola-na-nova-geopolitica-digital-inteligencia-artificial-smart-cities-e-instituicoes-fortes/",
-      "source": "Forbes África",
-      "_key": "7411bfc74a0608ea",
-      "score": 7
-    },
-    {
-      "title": "Venda de acções da Unitel na mira após ataque cibernético e jurista levanta suspeitas de simulação",
-      "url": "https://holdonangola.com/venda-de-accoes-da-unitel-na-mira-apos-ataque-cibernetico-e-jurista-levanta-suspeitas-de-simulacao/",
-      "source": "Hold On Angola",
-      "_key": "c4fae0eaea70c72d",
-      "score": 7
-    },
-    {
-      "title": "Mundo Quase 400 mil pessoas retiradas no centro da China devido à chuva ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682418/quase-400-mil-pessoas-retiradas-no-centro-da-china-devido-%C3%A0-chuva",
-      "source": "Jornal de Angola",
-      "_key": "6ea0383af87f37de",
-      "score": 7
-    },
-    {
-      "title": "Cibersegurança e soberania digital, um novo pilar para o desenvolvimento sustentável de Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682402/ciberseguran%C3%A7a-e-soberania-digital-um-novo-pilar--para-o-desenvolvimento-sustent%C3%A1vel-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "b00453125c346205",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 50 minutos TAAG reforça logística regional com rota de carga para Lusaka ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682416/taag-refor%C3%A7a-log%C3%ADstica-regional-com-rota-de-carga-para-lusaka",
-      "source": "Jornal de Angola",
-      "_key": "f651d092d0129871",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 57 minutos Preço do óleo preocupa consumidores no Bengo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682413/pre%C3%A7o-do-%C3%B3leo-preocupa-consumidores-no-bengo",
-      "source": "Jornal de Angola",
-      "_key": "03f1579d0db852f9",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 1 hora Exportações de Angola para Nigéria atingem 96,6 milhões de dólares ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682410/exporta%C3%A7%C3%B5es-de-angola-para-nig%C3%A9ria--atingem-966-milh%C3%B5es-de-d%C3%B3lares",
-      "source": "Jornal de Angola",
-      "_key": "c887aa50f6d9be2d",
-      "score": 7
-    },
-    {
-      "title": "STANDARDBANK A abertura de contas bancárias, tanto para particulares como para empresas, para impulsionar o crescimento dos negócios, foi um dos serviços apresentados pelo Standard Bank na FILDA. “STANDARDBANK A abertura de contas bancárias, tanto para particulares como para empresas, para impulsionar o crescimento dos negócios, foi um dos serviços apresentados pelo Standard Bank na FILDA. “Este ano trouxemos uma novidade. Não tivemos apenas o nosso stand, tivemos também o Stand de Sustentabilid",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682431/standardbank-a-abertura-de-contas-banc%C3%A1rias-tanto-para-particulares-como-para-empresas-para-impulsionar-o-crescimento-dos-neg%C3%B3cios-foi-um-dos-servi%C3%A7os-apresentados-pelo-standard-bank-na-filda.-%E2%80%9C",
-      "source": "Jornal de Angola",
-      "_key": "34180a7a3a101fcf",
-      "score": 7
-    },
-    {
-      "title": "Administração de Viana reforça comando da Polícia com entrega de novos meios",
-      "url": "https://www.opais.ao/ultima_hora/administracao-de-viana-reforca-comando-da-policia-com-entrega-de-novos-meios/",
-      "source": "O País",
-      "_key": "d2ccfc629cc0390e",
-      "score": 7
-    },
-    {
-      "title": "Agricultura contribui com mais de 590 mil milhões de kwanzas no PIB",
-      "url": "https://www.opais.ao/economia/agricultura-contribui-com-mais-de-590-mil-milhoes-de-kwanzas-no-pib/",
-      "source": "O País",
-      "_key": "8fdad6839eb1370b",
-      "score": 7
-    },
-    {
-      "title": "Belas acolhe cerimónia de apresentação do Projecto de Intervenção de Luanda",
-      "url": "https://www.opais.ao/politica/belas-acolhe-cerimonia-de-apresentacao-do-projecto-de-intervencao-de-luanda/",
-      "source": "O País",
-      "_key": "5a7b3ddd5da1f246",
-      "score": 7
-    },
-    {
-      "title": "Angola’s Industrial Production Index shows 1.36% monthly change in June",
-      "url": "https://www.angop.ao/en/noticias/economia/indice-de-producao-industrial-com-variacao-mensal-de-1-36-em-junho/",
-      "source": "ANGOP",
-      "_key": "bc42950afd65f8fc",
-      "score": 6
-    },
-    {
-      "title": "Expert highlights potential for agricultural growth in Angola",
-      "url": "https://www.angop.ao/en/noticias/agricultura/especialista-sinaliza-potencial-de-crescimento-da-agricultura-em-angola/",
-      "source": "ANGOP",
-      "_key": "d9bb459425c3b498",
-      "score": 6
-    },
-    {
-      "title": "Suspeito de roubo é morto por populares após alegada tentativa de assalto no Patriota",
-      "url": "https://correiokianda.info/suspeito-de-roubo-e-morto-por-populares-apos-alegada-tentativa-de-assalto-no-patriota/",
-      "source": "Correio Kianda",
-      "_key": "111a7aeadaca06ed",
-      "score": 6
-    },
-    {
-      "title": "Escassez de dados \"trava\" seguros em África e deixa Angola em alerta",
-      "url": "https://expansao.co.ao/empresas/detalhe/escassez-de-dados-trava-seguros-em-africa-e-deixa-angola-em-alerta-73698.html",
-      "source": "Expansão",
-      "_key": "e7372a081d2069ed",
-      "score": 6
-    },
-    {
-      "title": "Coordenação reforçada é crucial para resposta a ataques cibernéticos O ministro das Telecomunicações, Tecnologias de informação e Comunicação Social, Mário Oliveira, defendeu ontem, na Assembleia Nacional, o reforço da coordenação nacional em resposta a incidentes cibernéticos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682379/coordena%C3%A7%C3%A3o-refor%C3%A7ada-%C3%A9-crucial--para-resposta-a-ataques-cibern%C3%A9ticos-",
-      "source": "Jornal de Angola",
-      "_key": "dbf2df71ba023efe",
-      "score": 6
-    },
-    {
-      "title": " / Há 1 hora Uma Nova Etapa para a Mecanização Agrícola em Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682415/uma-nova-etapa-para-a-mecaniza%C3%A7%C3%A3o-agr%C3%ADcola-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "6714cc908e1d298b",
-      "score": 6
-    },
-    {
-      "title": "LUANDA DOWNTOWN: FINANCIAMENTO DA AGRICULTURA. Como financiar a agricultura em tempos de crise: mecanismos práticos.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=73691",
+      "title": "DIIP detém 97 nacionais e estrangeiros por falsificação...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-detem-97-nacionais-e-estrangeiros-por-falsificacao-de-documentos-73705.html",
       "source": "Novo Jornal",
-      "_key": "173f82001fd64af5",
-      "score": 6
+      "_key": "0ad572d7210c98cf",
+      "score": 9
     },
     {
-      "title": "Comissão de Protecção Civil determina aceleração da construção dos diques em Benguela",
-      "url": "https://www.opais.ao/ultima_hora/comissao-de-proteccao-civil-determina-aceleracao-da-construcao-dos-diques-em-benguela/",
-      "source": "O País",
-      "_key": "8545f259ce473896",
-      "score": 6
+      "title": "Sociedade ENDE anuncia corte de energia esta terça-feira em Luanda e Icolo e Bengo ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682436/ende-anuncia-corte-de-energia-esta-ter%C3%A7a-feira-em-luanda-e-icolo-e-bengo",
+      "source": "Jornal de Angola",
+      "_key": "e4e2556f5ebf8554",
+      "score": 8
     },
     {
-      "title": "Expo Lunda-Norte generates over 800 million Kwanzas in business",
-      "url": "https://www.angop.ao/en/noticias/economia/expo-lunda-norte-movimenta-mais-de-800-milhoes-de-kwanzas/",
+      "title": "Expo Lunda-Norte strengthens business partnerships",
+      "url": "https://www.angop.ao/en/noticias/economia/expo-lunda-norte-fortalece-parcerias-empresariais-expositores/",
       "source": "ANGOP",
-      "_key": "218525241c81f848",
-      "score": 5
+      "_key": "aaed89ebf474f98c",
+      "score": 7
     },
     {
-      "title": "TPA lidera lista de subsídios do Estado ao SEP com 33 mil milhões Kz em três anos",
-      "url": "https://diariodosnegocios.com/tpa-lidera-lista-de-subsidios-do-estado-ao-sep-com-33-mil-milhoes-kz-em-tres-anos/",
-      "source": "Diário dos Negócios",
-      "_key": "971dd2d10bc3ac4b",
-      "score": 5
+      "title": "Ébola/RDC: Mercado transfronteiriço São Pedro em Cabinda...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/mercado-transfronteirico-sao-pedro-em-cabinda-preocupa-autoridades-devido-ao-risco-de-ebola-73708.html",
+      "source": "Novo Jornal",
+      "_key": "37709ed772e764e9",
+      "score": 7
     },
     {
-      "title": " TPA lidera lista de subsídios do Estado ao SEP com 33 mil milhões Kz em três anos ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_4bc2c54d96ee87",
-      "score": 5
-    },
-    {
-      "title": "\"Não é admissível que os níveis de fraude superem a qualidade do serviço que se quer prestar\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0d8306b55505e3",
-      "score": 5
-    },
-    {
-      "title": "\"Não é admissível que os níveis de fraude superem a qualidade do serviço que se quer prestar\"A evolução do sistema de pagamentos foi o mote para a conversa com o gestor, que vê nestes instrumentos mecanismos de inclusão e digitalização financeira, mas alerta para a necessidade de maior controlo por parte dos prestadores e utilizadores, para evitar fraudes e contribuir para a normalização da economia.",
-      "url": "https://expansao.co.ao/multimedia/detalhe/nao-e-admissivel-que-os-niveis-de-fraude-superem-a-qualidade-do-servico-que-se-quer-prestar-73699.html",
-      "source": "Expansão",
-      "_key": "5eeee37ba6ac2e1c",
-      "score": 5
-    },
-    {
-      "title": "Projecto de satélite partilhado promove desenvolvimento tecnológico da SADCO Projecto de Satélite Partilhado, um programa de infra-estruturas espaciais, representa uma estratégia essencial de integração regional e desenvolvimento das capacidades técnico-científicas. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682382/projecto-de-sat%C3%A9lite-partilhado-promove--desenvolvimento-tecnol%C3%B3gico-da-sadc",
+      "title": "Mundo Ébola já matou mais de 1.700 pessoas no leste da RDC ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682450/%C3%A9bola-j%C3%A1-matou-mais-de-1.700-pessoas-no-leste-da-rdc",
       "source": "Jornal de Angola",
-      "_key": "ac27ed531c38d35b",
+      "_key": "3d08c3e3f42ed95e",
+      "score": 6
+    },
+    {
+      "title": "SIC detém responsáveis municipais do Bié por desvio de 30...",
+      "url": "https://valoreconomico.co.ao/artigo/sic-detem-responsaveis-municipais-do-bie-por-desvio-de-30-milhoes-do-programa-de-merenda-escolar",
+      "source": "Valor Económico",
+      "_key": "156f6fdf39c7b564",
+      "score": 6
+    },
+    {
+      "title": "Jurista defende fim da justiça pelas próprias mãos em Angola",
+      "url": "https://correiokianda.info/jurista-defende-fim-da-justica-pelas-proprias-maos-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "c6c1ed3cf14d03a3",
       "score": 5
     },
     {
-      "title": "Economia Expo Lunda-Norte com volume de negócios acima de 800 milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682377/expo-lunda-norte-com-volume-de-neg%C3%B3cios-acima-de-800-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "11210fa06c93ef1a",
-      "score": 5
-    },
-    {
-      "title": "DIIP apreende mais de 15 toneladas de fármacos contrafeitos postos a circular em todo o país",
-      "url": "https://www.opais.ao/saude/diip-apreende-mais-de-15-toneladas-de-farmacos-contrafeitos-postos-a-circular-em-todo-o-pais/",
-      "source": "O País",
-      "_key": "77c1f53657fc3a23",
-      "score": 5
-    },
-    {
-      "title": "Angola e África do Sul avaliam estado da relação de cooperação",
-      "url": "https://www.opais.ao/politica/angola-e-africa-do-sul-avaliam-estado-da-relacao-de-cooperacao/",
-      "source": "O País",
-      "_key": "e11db9f2dab972be",
+      "title": "NJ ÀS TERÇAS: CENTRAIS DE PRODUÇÃO DE BETÃO EM ZONAS URBANAS DE LUANDA. Inimigos do meio ambiente!",
+      "url": "https://marginal.co.ao/programas/nj-as-tercas?ep=73709",
+      "source": "Novo Jornal",
+      "_key": "ab765305c380ce5b",
       "score": 5
     }
   ]
