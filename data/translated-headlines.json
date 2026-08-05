@@ -1,48 +1,72 @@
 {
   "date": "2026-08-05",
-  "total_new": 101,
-  "total_filtered": 5,
-  "scored_by": "keyword",
+  "total_new": 24,
+  "total_filtered": 8,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BODIVA trading volume reaches 494.72 billion kwanzas in June",
-      "url": "https://www.angop.ao/en/noticias/economia/negociacoes-na-bodiva-atingem-kz-494x72-mil-milhoes-em-junho/",
-      "source": "ANGOP",
-      "_key": "46673df96a8adc0e",
-      "score": 5,
-      "title_cn": "BODIVA 6月交易量达4947.2亿宽扎"
-    },
-    {
-      "title": "Petróleo recua após Trump sinalizar reabertura do estreito de Ormuz",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apos-trump-sinalizar-reabertura-do-estreito-de-ormuz-73727.html",
-      "source": "Expansão",
-      "_key": "0b612eeeffff9385",
-      "score": 5,
-      "title_cn": "特朗普暗示霍尔木兹海峡重开，油价回落"
-    },
-    {
-      "title": "Última hora Preço do petróleo cai mais de 4% com esperança de reabertura de Ormuz",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682457/pre%C3%A7o-do-petr%C3%B3leo-cai-mais-de-4%25-com-esperan%C3%A7a-de-reabertura-de-ormuz",
+      "title": "Mundo05/08/2026Acordo para reabrir Ormuz pode ser alcançado até hoje",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682490/acordo-para-reabrir-ormuz-pode-ser-alcan%C3%A7ado-at%C3%A9-hoje",
       "source": "Jornal de Angola",
-      "_key": "95abbd9203d6df13",
-      "score": 5,
-      "title_cn": "快讯：霍尔木兹海峡有望重开，油价下跌超4%"
+      "_key": "fc0ca269aed6f5d0",
+      "score": 9,
+      "title_cn": "重新开放霍尔木兹协议有望今日达成"
     },
     {
-      "title": "Tragédia no Kwanza-Sul: SIC recolhe amostras de DNA...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tragedia-no-kwanza-sul-sic-recolhe-amostras-de-dna-de-17-familias-para-identificar-corpos-carbonizados-entre-as-vitimas-ha-casais-criancas-e-um-recem-nascido-73726.html",
-      "source": "Novo Jornal",
-      "_key": "6f87e2d07c567c13",
-      "score": 5,
-      "title_cn": "南宽扎悲剧：刑事调查局采集DNA样本"
+      "title": "Governo Provincial e Porto de Luanda firmam parceria para impulsionar desenvolvimento da capitalO Governo Provincial de Luanda (GPL) e a Empresa Portuária de Luanda assinaram, na manhã desta quarta-feira, um memorando de entendimento destinado a reforçar a cooperação institucional e promover o desenvolvimento integrado da capital do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682487/governo-provincial-e-porto-de-luanda-firmam-parceria-para-impulsionar-desenvolvimento-da-capital",
+      "source": "Jornal de Angola",
+      "_key": "030601445a7c9c26",
+      "score": 8,
+      "title_cn": "罗安达省政府与罗安达港建立伙伴关系，推动首都发展"
     },
     {
-      "title": "Petróleo: Os mercados petrolíferos apostam tudo na...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-os-mercados-petroliferos-apostam-tudo-na-paz-mas-a-realidade-mostra-aguas-turvas-nos-estreitos-de-ormuz-e-bab-al-mandab-73723.html",
+      "title": "Jovem detido com quase 25 mil USD no AIAAN por violar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/jovem-detido-com-quase-25-mil-usd-no-aiaan-por-violar-limite-de-divisas-73733.html",
       "source": "Novo Jornal",
-      "_key": "c680440359b5696f",
+      "_key": "d84e19add1cf50f3",
+      "score": 7,
+      "title_cn": "青年在安哥拉国际机场因违规携带近2.5万美元被捕"
+    },
+    {
+      "title": "Destaque Angola reforça papel estratégico na Parceria África-ÁrabeAngola participa, desde terça-feira, na 21.ª Reunião dos Altos Funcionários do Comité de Coordenação da Parceria África-Árabe, que decorre na cidade do Cairo, República Árabe do Egipto, na qualidade de membro da Mesa da Conferência da União Africana (UA) e exercendo as funções de relator.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682485/angola-refor%C3%A7a-papel-estrat%C3%A9gico-na-parceria-%C3%A1frica-%C3%A1rabe",
+      "source": "Jornal de Angola",
+      "_key": "ed79b1595d61887a",
+      "score": 6,
+      "title_cn": "安哥拉加强在非阿伙伴关系中的战略作用"
+    },
+    {
+      "title": "Luanda afina os detalhes técnicos para a Cimeira da União Africana Integrantes do Governo e da Comissão da União Africana (CUA) avaliaram terça-feira, no Ministério das Relações Exteriores (MIREX), os preparativos técnicos e logísticos da missão avançada para a Cimeira Extraordinária de Chefes de Estado e de Governo da organização continental.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682459/luanda-afina-os-detalhes-t%C3%A9cnicos--para-a-cimeira-da-uni%C3%A3o-africana-",
+      "source": "Jornal de Angola",
+      "_key": "cd7fa175ce84c815",
+      "score": 6,
+      "title_cn": "罗安达敲定非洲联盟峰会技术细节"
+    },
+    {
+      "title": "Longas filas em postos de abastecimento evidenciam escassez de combustíveis em Moçambique, mas Governo estuda as causas",
+      "url": "https://forbesafricalusofona.com/longas-filas-em-postos-de-abastecimento-evidenciam-escassez-de-combustiveis-em-mocambique-mas-governo-estuda-as-causas/",
+      "source": "Forbes África",
+      "_key": "26f35bf0dd52cb46",
       "score": 5,
-      "title_cn": "石油市场：各方全力押注..."
+      "title_cn": "莫桑比克加油站排长队凸显燃料短缺，政府正研究原因"
+    },
+    {
+      "title": "Política Encontro de Luanda pode reforçar a inclusão digital efectiva da região ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682463/encontro-de-luanda-pode-refor%C3%A7ar-a-inclus%C3%A3o-digital-efectiva-da-regi%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "a488c337671b026e",
+      "score": 5,
+      "title_cn": "罗安达政策会议可以加强该地区有效的数字包容"
+    },
+    {
+      "title": "Política Lei de Combate ao Terrorismo deve ser ajustada à realidade jurídica internacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682462/lei-de-combate-ao-terrorismo-deve-ser-ajustada-%C3%A0-realidade-jur%C3%ADdica-internacional",
+      "source": "Jornal de Angola",
+      "_key": "fd33d596414268c9",
+      "score": 5,
+      "title_cn": "反恐法应调整以适应国际法律现实"
     }
   ]
 }
