@@ -1,70 +1,42 @@
 {
-  "date": "2026-08-04",
-  "total_new": 29,
-  "total_filtered": 9,
-  "scored_by": "gemini-flash",
+  "date": "2026-08-05",
+  "total_new": 101,
+  "total_filtered": 5,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "China investe 900 milhões de dólares no Porto da Barra do Dande e consolida vantagem sobre os EUA",
-      "url": "https://angola24horas.com/component/k2/item/34816-china-investe-900-milhoes-de-dolares-no-porto-da-barra-do-dande-e-consolida-vantagem-sobre-os-eua",
-      "source": "Angola 24 Horas",
-      "_key": "008f216bed5a3ba6",
-      "score": 10
+      "title": "BODIVA trading volume reaches 494.72 billion kwanzas in June",
+      "url": "https://www.angop.ao/en/noticias/economia/negociacoes-na-bodiva-atingem-kz-494x72-mil-milhoes-em-junho/",
+      "source": "ANGOP",
+      "_key": "46673df96a8adc0e",
+      "score": 5
     },
     {
-      "title": "OPSA condiciona efectividade do pacto BNA-MININT à redução real dos...",
-      "url": "https://valoreconomico.co.ao/artigo/opsa-condiciona-efectividade-do-pacto-bna-minint-a-reducao-real-dos-ilicitos-financeiros",
-      "source": "Valor Económico",
-      "_key": "91fcff2d190dabc5",
-      "score": 7
+      "title": "Petróleo recua após Trump sinalizar reabertura do estreito de Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apos-trump-sinalizar-reabertura-do-estreito-de-ormuz-73727.html",
+      "source": "Expansão",
+      "_key": "0b612eeeffff9385",
+      "score": 5
     },
     {
-      "title": "Estado angolano injecta 321 mil milhões de Kwanzas para empresas públicas em 2025",
-      "url": "https://forbesafricalusofona.com/estado-angolano-injecta-321-mil-milhoes-de-kwanzas-para-empresas-publicas-em-2025/",
-      "source": "Forbes África",
-      "_key": "0f592023e7783bc1",
-      "score": 6
-    },
-    {
-      "title": "Luanda acolhe Sessão Extraordinária dos Chefes de Estado sobre Resolução de Conflitos em África",
-      "url": "https://www.opais.ao/politica/luanda-acolhe-sessao-extraordinaria-dos-chefes-de-estado-sobre-resolucao-de-conflitos-em-africa/",
-      "source": "O País",
-      "_key": "9361f9e7520d9f4b",
-      "score": 6
-    },
-    {
-      "title": "Autoridades desmantelam esquema de garimpo ilegal e contrabando de combustível no Huambo",
-      "url": "https://www.opais.ao/ultima_hora/autoridades-desmantelam-esquema-de-garimpo-ilegal-e-contrabando-de-combustivel-no-huambo/",
-      "source": "O País",
-      "_key": "0096a62ab22350f6",
-      "score": 6
-    },
-    {
-      "title": "Sociedade EPAL anuncia interrupção temporária do abastecimento de água no Kilamba ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682452/epal-anuncia-interrup%C3%A7%C3%A3o-tempor%C3%A1ria-do-abastecimento-de-%C3%A1gua-no-kilamba",
+      "title": "Última hora Preço do petróleo cai mais de 4% com esperança de reabertura de Ormuz",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682457/pre%C3%A7o-do-petr%C3%B3leo-cai-mais-de-4%25-com-esperan%C3%A7a-de-reabertura-de-ormuz",
       "source": "Jornal de Angola",
-      "_key": "681c9b4a83be9083",
+      "_key": "95abbd9203d6df13",
       "score": 5
     },
     {
-      "title": "Kilamba e KK vão ficar temporariamente sem água a 06...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/kilamba-e-kk-vao-ficar-temporariamente-sem-agua-a-6-de-agosto-73714.html",
+      "title": "Tragédia no Kwanza-Sul: SIC recolhe amostras de DNA...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tragedia-no-kwanza-sul-sic-recolhe-amostras-de-dna-de-17-familias-para-identificar-corpos-carbonizados-entre-as-vitimas-ha-casais-criancas-e-um-recem-nascido-73726.html",
       "source": "Novo Jornal",
-      "_key": "68518e15d97307d7",
+      "_key": "6f87e2d07c567c13",
       "score": 5
     },
     {
-      "title": "Ministra das Pescas afere condições do sector na província do Zaire",
-      "url": "https://www.opais.ao/sociedade/ministra-das-pescas-afere-condicoes-do-sector-na-provincia-do-zaire/",
-      "source": "O País",
-      "_key": "9832273e8e5ebfc9",
-      "score": 5
-    },
-    {
-      "title": "Provedoria de Justiça e Tribunal Supremo reforçam cooperação institucional",
-      "url": "https://www.opais.ao/politica/provedoria-de-justica-e-tribunal-supremo-reforcam-cooperacao-institucional/",
-      "source": "O País",
-      "_key": "a783a9cdb81ff0ef",
+      "title": "Petróleo: Os mercados petrolíferos apostam tudo na...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-os-mercados-petroliferos-apostam-tudo-na-paz-mas-a-realidade-mostra-aguas-turvas-nos-estreitos-de-ormuz-e-bab-al-mandab-73723.html",
+      "source": "Novo Jornal",
+      "_key": "c680440359b5696f",
       "score": 5
     }
   ]

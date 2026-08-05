@@ -1,80 +1,48 @@
 {
-  "date": "2026-08-04",
-  "total_new": 29,
-  "total_filtered": 9,
-  "scored_by": "gemini-flash",
+  "date": "2026-08-05",
+  "total_new": 101,
+  "total_filtered": 5,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "China investe 900 milhões de dólares no Porto da Barra do Dande e consolida vantagem sobre os EUA",
-      "url": "https://angola24horas.com/component/k2/item/34816-china-investe-900-milhoes-de-dolares-no-porto-da-barra-do-dande-e-consolida-vantagem-sobre-os-eua",
-      "source": "Angola 24 Horas",
-      "_key": "008f216bed5a3ba6",
-      "score": 10,
-      "title_cn": "中国投资9亿美元于丹德巴拉港，巩固对美优势"
+      "title": "BODIVA trading volume reaches 494.72 billion kwanzas in June",
+      "url": "https://www.angop.ao/en/noticias/economia/negociacoes-na-bodiva-atingem-kz-494x72-mil-milhoes-em-junho/",
+      "source": "ANGOP",
+      "_key": "46673df96a8adc0e",
+      "score": 5,
+      "title_cn": "BODIVA 6月交易量达4947.2亿宽扎"
     },
     {
-      "title": "OPSA condiciona efectividade do pacto BNA-MININT à redução real dos...",
-      "url": "https://valoreconomico.co.ao/artigo/opsa-condiciona-efectividade-do-pacto-bna-minint-a-reducao-real-dos-ilicitos-financeiros",
-      "source": "Valor Económico",
-      "_key": "91fcff2d190dabc5",
-      "score": 7,
-      "title_cn": "OPSA：BNA-MININT协议生效取决于实际削减..."
+      "title": "Petróleo recua após Trump sinalizar reabertura do estreito de Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-recua-apos-trump-sinalizar-reabertura-do-estreito-de-ormuz-73727.html",
+      "source": "Expansão",
+      "_key": "0b612eeeffff9385",
+      "score": 5,
+      "title_cn": "特朗普暗示霍尔木兹海峡重开，油价回落"
     },
     {
-      "title": "Estado angolano injecta 321 mil milhões de Kwanzas para empresas públicas em 2025",
-      "url": "https://forbesafricalusofona.com/estado-angolano-injecta-321-mil-milhoes-de-kwanzas-para-empresas-publicas-em-2025/",
-      "source": "Forbes África",
-      "_key": "0f592023e7783bc1",
-      "score": 6,
-      "title_cn": "安哥拉政府2025年向国企注资3210亿宽扎"
-    },
-    {
-      "title": "Luanda acolhe Sessão Extraordinária dos Chefes de Estado sobre Resolução de Conflitos em África",
-      "url": "https://www.opais.ao/politica/luanda-acolhe-sessao-extraordinaria-dos-chefes-de-estado-sobre-resolucao-de-conflitos-em-africa/",
-      "source": "O País",
-      "_key": "9361f9e7520d9f4b",
-      "score": 6,
-      "title_cn": "罗安达将举行非洲冲突解决问题国家元首特别会议"
-    },
-    {
-      "title": "Autoridades desmantelam esquema de garimpo ilegal e contrabando de combustível no Huambo",
-      "url": "https://www.opais.ao/ultima_hora/autoridades-desmantelam-esquema-de-garimpo-ilegal-e-contrabando-de-combustivel-no-huambo/",
-      "source": "O País",
-      "_key": "0096a62ab22350f6",
-      "score": 6,
-      "title_cn": "当局在万博省破获非法采矿和燃料走私网络"
-    },
-    {
-      "title": "Sociedade EPAL anuncia interrupção temporária do abastecimento de água no Kilamba ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682452/epal-anuncia-interrup%C3%A7%C3%A3o-tempor%C3%A1ria-do-abastecimento-de-%C3%A1gua-no-kilamba",
+      "title": "Última hora Preço do petróleo cai mais de 4% com esperança de reabertura de Ormuz",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682457/pre%C3%A7o-do-petr%C3%B3leo-cai-mais-de-4%25-com-esperan%C3%A7a-de-reabertura-de-ormuz",
       "source": "Jornal de Angola",
-      "_key": "681c9b4a83be9083",
+      "_key": "95abbd9203d6df13",
       "score": 5,
-      "title_cn": "EPAL公司宣布基兰巴区将暂停供水"
+      "title_cn": "快讯：霍尔木兹海峡有望重开，油价下跌超4%"
     },
     {
-      "title": "Kilamba e KK vão ficar temporariamente sem água a 06...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/kilamba-e-kk-vao-ficar-temporariamente-sem-agua-a-6-de-agosto-73714.html",
+      "title": "Tragédia no Kwanza-Sul: SIC recolhe amostras de DNA...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tragedia-no-kwanza-sul-sic-recolhe-amostras-de-dna-de-17-familias-para-identificar-corpos-carbonizados-entre-as-vitimas-ha-casais-criancas-e-um-recem-nascido-73726.html",
       "source": "Novo Jornal",
-      "_key": "68518e15d97307d7",
+      "_key": "6f87e2d07c567c13",
       "score": 5,
-      "title_cn": "基兰巴和KK区将于6日暂时停水"
+      "title_cn": "南宽扎悲剧：刑事调查局采集DNA样本"
     },
     {
-      "title": "Ministra das Pescas afere condições do sector na província do Zaire",
-      "url": "https://www.opais.ao/sociedade/ministra-das-pescas-afere-condicoes-do-sector-na-provincia-do-zaire/",
-      "source": "O País",
-      "_key": "9832273e8e5ebfc9",
+      "title": "Petróleo: Os mercados petrolíferos apostam tudo na...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-os-mercados-petroliferos-apostam-tudo-na-paz-mas-a-realidade-mostra-aguas-turvas-nos-estreitos-de-ormuz-e-bab-al-mandab-73723.html",
+      "source": "Novo Jornal",
+      "_key": "c680440359b5696f",
       "score": 5,
-      "title_cn": "渔业部长评估扎伊尔省渔业部门状况"
-    },
-    {
-      "title": "Provedoria de Justiça e Tribunal Supremo reforçam cooperação institucional",
-      "url": "https://www.opais.ao/politica/provedoria-de-justica-e-tribunal-supremo-reforcam-cooperacao-institucional/",
-      "source": "O País",
-      "_key": "a783a9cdb81ff0ef",
-      "score": 5,
-      "title_cn": "监察专员办公室与最高法院加强机构合作"
+      "title_cn": "石油市场：各方全力押注..."
     }
   ]
 }
