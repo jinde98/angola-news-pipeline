@@ -1,378 +1,175 @@
 {
   "date": "2026-08-06",
-  "total_new": 143,
-  "total_filtered": 53,
+  "total_new": 41,
+  "total_filtered": 24,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "O VALOR DO KUMBU: O MUNDO DA BANCA E DOS SEGUROS. Analisamos a entrada da banca angolana no sistema de pagamentos chinês e os impactos desta integração para o setor financeiro. Explicamos ainda o que é a análise de riscos em seguros e a sua importância na proteção de pessoas, empresas e patrimónios.",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=73747",
+      "title": "Angola anunciou existência de reservatórios de gás de boa qualidade no poço Katambi-2",
+      "url": "https://jornaloguardiao.com/2026/08/06/angola-anunciou-existencia-de-reservatorios-de-gas-de-boa-qualidade-no-poco-katambi-2/",
+      "source": "Jornal O Guardião",
+      "_key": "7cacaad48bb502ae",
+      "score": 9
+    },
+    {
+      "title": " Angola anunciou existência de reservatórios de gás de boa qualidade no poço Katambi-2 ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_fb753ed1011224",
+      "score": 9
+    },
+    {
+      "title": "FÓRUM MARGINAL: INFORMAR PARA TRANSFORMAR. Debatemos os alegados erros de parametrização do sistema da AGT, que deixaram milhares de facturas fora do concurso \"Factura Premiada\". Analisamos ainda o aumento do custo da emissão célere do Bilhete de Identidade e os seus impactos no acesso dos cidadãos ao serviço.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=73771",
       "source": "Novo Jornal",
-      "_key": "df901b1b70fa611f",
-      "score": 10
-    },
-    {
-      "title": "Chinese Embassy launches Technology Innovation Award for various countries",
-      "url": "https://www.angop.ao/en/noticias/economia/embaixada-da-china-apresenta-premio-de-inovacao-tecnologica-para-diferentes-paises/",
-      "source": "ANGOP",
-      "_key": "299266fe37b958d7",
+      "_key": "f72f038f4e2ba045",
       "score": 9
     },
     {
-      "title": "Presidente da República autoriza 218 milhões de dólares para levar água potável a Icolo e Bengo",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-218-milhoes-de-dolares-para-levar-agua-potavel-a-icolo-e-bengo/",
-      "source": "Correio Kianda",
-      "_key": "abe337eed3d84dbf",
-      "score": 9
-    },
-    {
-      "title": "Especialistas apontam dificuldades económicas como motor do câmbio ilegal em Angola",
-      "url": "https://correiokianda.info/especialistas-apontam-dificuldades-economicas-como-motor-do-cambio-ilegal-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "e612007c856a1903",
-      "score": 9
-    },
-    {
-      "title": "Petróleo mantém ganhos moderados, mas continua abaixo dos 80 dólares por barril",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-mantem-ganhos-moderados-mas-continua-abaixo-dos-80-dolares-por-barril-73752.html",
-      "source": "Expansão",
-      "_key": "6ec8db8757ebdcb5",
-      "score": 9
-    },
-    {
-      "title": "Sonangol e ANPG confirmam existência de petróleo na bacia marítima de Benguela",
-      "url": "https://forbesafricalusofona.com/sonangol-e-anpg-confirmam-existencia-de-petroleo-na-bacia-maritima-de-benguela/",
-      "source": "Forbes África",
-      "_key": "1bce67018c92d647",
-      "score": 9
-    },
-    {
-      "title": "Destaque ANPG e Sonangol concluem com sucesso perfuração do poço Katambi-2 no Bloco 24A Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG) e a Sonangol Exploração & Produção anunciaram a conclusão, com sucesso e em segurança, das operações de perfuração e teste do poço de avaliação Katambi-2, localizado no Bloco 24, na Bacia de Benguela.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682537/anpg-e-sonangol-concluem-com-sucesso-perfura%C3%A7%C3%A3o-do-po%C3%A7o-katambi-2-no-bloco-24",
-      "source": "Jornal de Angola",
-      "_key": "d2eec8ce01452256",
-      "score": 9
-    },
-    {
-      "title": "Destaque João Baptista Borges constata andamento das obras do Projecto Quilonga GrandeO ministro da Energia e Águas, João Baptista Borges, realiza, esta quinta-feira, uma visita de constatação às obras do Projecto Quilonga Grande, para avaliar o grau de execução da empreitada e acompanhar o cumprimento do cronograma dos diferentes lotes da infraestrutura.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682585/jo%C3%A3o-baptista-borges-constata-andamento-das-obras-do-projecto-quilonga-grande",
-      "source": "Jornal de Angola",
-      "_key": "18bfebb2ca86d7d2",
-      "score": 9
-    },
-    {
-      "title": "Katambi-2 tem reservatórios de gás de boa qualidade",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/katambi-2-tem-reservatorios-de-gas-de-boa-qualidade-73769.html",
-      "source": "Novo Jornal",
-      "_key": "561c0a4f09b811fb",
-      "score": 9
-    },
-    {
-      "title": "Governo autoriza mais de 200 milhões de dólares para levar água a Cabo Ledo e Sangano",
-      "url": "https://www.opais.ao/economia/governo-autoriza-mais-de-200-milhoes-de-dolares-para-levar-agua-a-cabo-ledo-e-sangano/",
-      "source": "O País",
-      "_key": "24c7dfbd9d1e21eb",
-      "score": 9
-    },
-    {
-      "title": "João Lourença autoriza empréstimo de mil milhões de euros destinado...",
-      "url": "https://valoreconomico.co.ao/artigo/joao-lourenca-autoriza-emprestimo-de-mil-milhoes-de-euros-destinado-ao-programa-de-investimento-publico",
+      "title": "ANPG e Sonangol anunciam sucesso na perfuração e testes do...",
+      "url": "https://valoreconomico.co.ao/artigo/anpg-e-sonangol-anunciam-sucesso-na-perfuracao-e-testes-do-poco-katambi-2",
       "source": "Valor Económico",
-      "_key": "748bcc2ba2f2bcee",
+      "_key": "2a6662c4260487ec",
       "score": 9
     },
     {
-      "title": "Estreito de Ormuz vai reabrir “muito em breve” – Trump",
-      "url": "https://jornaloguardiao.com/2026/08/05/estreito-de-ormuz-vai-reabrir-muito-em-breve-trump/",
-      "source": "Jornal O Guardião",
-      "_key": "4663871903342372",
+      "title": "PR João Lourenço ajusta equipas no MIREX e na governação do Cuanza Sul",
+      "url": "https://diariodosnegocios.com/pr-joao-lourenco-ajusta-equipas-no-mirex-e-na-governacao-do-cuanza-sul/",
+      "source": "Diário dos Negócios",
+      "_key": "a9d76e076bd723dd",
       "score": 8
     },
     {
-      "title": " Estreito de Ormuz vai reabrir “muito em breve” – Trump ",
+      "title": " PR João Lourenço ajusta equipas no MIREX e na governação do Cuanza Sul ",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_8c6a3d9039fc03",
+      "source": "Diário dos Negócios",
+      "_key": "t_7be3427baee232",
       "score": 8
     },
     {
-      "title": "Médio Oriente: Estreito de Ormuz pode reabrir a qualquer...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-estreito-de-ormuz-pode-reabrir-a-qualquer-momento-afinal-bastou-tirar-os-eua-da-sala-para-se-fazer-luz-73748.html",
-      "source": "Novo Jornal",
-      "_key": "584961d48e131c9f",
-      "score": 8
-    },
-    {
-      "title": "GPL e Porto de Luanda assinam memorando para o desenvolvimento da cidade",
-      "url": "https://www.opais.ao/ultima_hora/gpl-e-porto-de-luanda-assinam-memorando-para-o-desenvolvimento-da-cidade/",
-      "source": "O País",
-      "_key": "911c9188cfe56e06",
-      "score": 8
-    },
-    {
-      "title": "UIF obriga entidades a reforçar controlo contra branqueamento de capitais",
-      "url": "https://www.opais.ao/economia/uif-obriga-entidades-a-reforcar-controlo-contra-branqueamento-de-capitais/",
-      "source": "O País",
-      "_key": "a3e54385310e43ff",
-      "score": 8
-    },
-    {
-      "title": "Angolan president appoints new secretary of state for foreign affairs ministry",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-nomeia-novo-secretario-de-estado-do-mirex/",
-      "source": "ANGOP",
-      "_key": "dc756bf448c4b1d1",
-      "score": 7
-    },
-    {
-      "title": "Insurance and pension fund market manages 2.25 trillion kwanzas in assets",
-      "url": "https://www.angop.ao/en/noticias/economia/mercado-de-seguros-e-fundos-de-pensoes-gere-kz-2x25-bilioes-em-activos/",
-      "source": "ANGOP",
-      "_key": "b30a5131404acf05",
-      "score": 7
-    },
-    {
-      "title": "Presidente João Lourenço e nomeia quadros da Administração Central do Estado",
-      "url": "https://jornaloguardiao.com/2026/08/05/presidente-joao-lourenco-e-nomeia-quadros-da-administracao-central-do-estado/",
-      "source": "Jornal O Guardião",
-      "_key": "47d68e6c86a012d9",
-      "score": 7
-    },
-    {
-      "title": "China lança ofensiva global no mercado automóvel e gigantes alemães procuram resistir",
-      "url": "https://jornaloguardiao.com/2026/08/05/china-lanca-ofensiva-global-no-mercado-automovel-e-gigantes-alemaes-procuram-resistir/",
-      "source": "Jornal O Guardião",
-      "_key": "a176f4eeaa22b4d9",
-      "score": 7
-    },
-    {
-      "title": " Presidente João Lourenço e nomeia quadros da Administração Central do Estado ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b89af37db61c6a",
-      "score": 7
-    },
-    {
-      "title": " China lança ofensiva global no mercado automóvel e gigantes alemães procuram resistir ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_1f1d5cfb5fe30e",
-      "score": 7
-    },
-    {
-      "title": "Destaque José de Lima Massano trabalha na Huíla para acompanhar projectos de impacto económicoO ministro de Estado para a Coordenação Económica, José de Lima Massano, cumpre, esta quinta-feira, uma agenda de trabalho na província da Huíla, com foco no acompanhamento de projectos estruturantes inseridos nos programas de desenvolvimento promovidos pelo Executivo.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/682595/jos%C3%A9-de-lima-massano-trabalha-na-hu%C3%ADla-para-acompanhar-projectos-de-impacto-econ%C3%B3mico",
-      "source": "Jornal de Angola",
-      "_key": "34b4712f2a5a8958",
-      "score": 7
-    },
-    {
-      "title": "Economia Indústria Transformadora recebe 60 mil milhões de kwanzas em financiamentos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682563/ind%C3%BAstria-transformadora--recebe-60-mil-milh%C3%B5es-de-kwanzas-em-financiamentos",
-      "source": "Jornal de Angola",
-      "_key": "0127c69cf565a15b",
-      "score": 7
-    },
-    {
-      "title": "Política Relações Exteriores e Turismo têm novos secretários de Estado ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682540/rela%C3%A7%C3%B5es-exteriores-e-turismo--t%C3%AAm-novos-secret%C3%A1rios-de-estado",
-      "source": "Jornal de Angola",
-      "_key": "68316a8074a8cce2",
-      "score": 7
-    },
-    {
-      "title": "Política José Paulino Cunha da Silva é o novo secretário de Estado para Administração, Finanças e Património do MIREX ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682536/jos%C3%A9-paulino-cunha-da-silva-%C3%A9-o-novo-secret%C3%A1rio-de-estado-para-administra%C3%A7%C3%A3o-finan%C3%A7as-e-patrim%C3%B3nio-do-mirex",
-      "source": "Jornal de Angola",
-      "_key": "bdbdf5dc5d95dc92",
-      "score": 7
-    },
-    {
-      "title": "SIC detém dez pessoas por alegada exploração ilegal...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-detem-dez-pessoas-por-alegada-exploracao-ilegal-de-ouro-no-uige-73746.html",
-      "source": "Novo Jornal",
-      "_key": "81e06b1e8a37bd20",
-      "score": 7
-    },
-    {
-      "title": "Presidente da República nomeia novos secretários de Estado e vice-governador do Cuanza-Sul",
-      "url": "https://www.opais.ao/politica/presidente-da-republica-nomeia-novos-secretarios-de-estado-e-vice-governador-do-cuanza-sul/",
-      "source": "O País",
-      "_key": "88813b33e91a3b18",
-      "score": 7
-    },
-    {
-      "title": "Ébola: Epidemia já matou mais de 1.700 pessoas no Leste da República Democrática do Congo",
-      "url": "https://www.opais.ao/mundo/ebola-epidemia-ja-matou-mais-de-1-700-pessoas-no-leste-da-republica-democratica-do-congo/",
-      "source": "O País",
-      "_key": "1136e00798629e01",
-      "score": 7
-    },
-    {
-      "title": "Tourism services installment payments begin this Thursday",
-      "url": "https://www.angop.ao/en/noticias/economia/pagamento-parcelado-aos-servicos-turisticos-inicia-esta-quinta-feira/",
-      "source": "ANGOP",
-      "_key": "113ffb75b2adaf13",
-      "score": 6
-    },
-    {
-      "title": "Engenheiro propõe criação de Ministério das Infra-estruturas para melhorar ordenamento do território",
-      "url": "https://correiokianda.info/engenheiro-propoe-criacao-de-ministerio-das-infra-estruturas-para-melhorar-ordenamento-do-territorio/",
-      "source": "Correio Kianda",
-      "_key": "284164732ac7d2fb",
-      "score": 6
-    },
-    {
-      "title": "Escassez de dados \"trava\" seguros em África e deixa Angola em alerta",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_09d3b5639444c4",
-      "score": 6
-    },
-    {
-      "title": "Operadores em Angola começam a receber pagamento parcelado para serviços turísticos",
-      "url": "https://forbesafricalusofona.com/operadores-em-angola-comecam-a-receber-pagamento-parcelado-para-servicos-turisticos/",
+      "title": "“Queremos que cada vez mais jovens mulheres angolanas olhem para uma plataforma petrolífera” – Diamantino Azevedo",
+      "url": "https://forbesafricalusofona.com/queremos-que-cada-vez-mais-jovens-mulheres-angolanas-olhem-para-uma-plataforma-petrolifera-diamantino-azevedo/",
       "source": "Forbes África",
-      "_key": "3080b4bfea6840a4",
-      "score": 6
+      "_key": "1a03d481701b5ee2",
+      "score": 8
     },
     {
-      "title": "Epidemia de Ébola já matou mais de 1.700 pessoas no leste da RDCongo",
-      "url": "https://jornaloguardiao.com/2026/08/05/epidemia-de-ebola-ja-matou-mais-de-1-700-pessoas-no-leste-da-rdcongo/",
-      "source": "Jornal O Guardião",
-      "_key": "253445b4f00bccc3",
-      "score": 6
+      "title": "PR autoriza empréstimo de mil milhões de euros com Société Générale para o PIP",
+      "url": "https://diariodosnegocios.com/pr-autoriza-emprestimo-de-mil-milhoes-de-euros-com-societe-generale-para-o-pip/",
+      "source": "Diário dos Negócios",
+      "_key": "0cca7ec1ddb42305",
+      "score": 7
     },
     {
-      "title": " Epidemia de Ébola já matou mais de 1.700 pessoas no leste da RDCongo ",
+      "title": "Presidente aprova 137,6 mil milhões de kwanzas para melhorar água em três províncias",
+      "url": "https://diariodosnegocios.com/presidente-aprova-1376-mil-milhoes-de-kwanzas-para-melhorar-agua-em-tres-provincias/",
+      "source": "Diário dos Negócios",
+      "_key": "0dcf0371c0fb87a4",
+      "score": 7
+    },
+    {
+      "title": "Angola investiu mais de 3 mil milhões de dólares em aeroportos que operam abaixo da capacidade",
+      "url": "https://diariodosnegocios.com/angola-investiu-mais-de-3-mil-milhoes-de-dolares-em-aeroportos-que-operam-abaixo-da-capacidade/",
+      "source": "Diário dos Negócios",
+      "_key": "91f3d6fbb525f0c4",
+      "score": 7
+    },
+    {
+      "title": " PR autoriza empréstimo de mil milhões de euros com Société Générale para o PIP ",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f0b2e02dae7f15",
-      "score": 6
+      "source": "Diário dos Negócios",
+      "_key": "t_4df9340c6b509b",
+      "score": 7
     },
     {
-      "title": "Mundo Pelo menos 24 milhões de africanos podem ser afectados pelo El Niño ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682534/pelo-menos-24-milh%C3%B5es-de-africanos-podem-ser-afectados-pelo-el-ni%C3%B1o",
-      "source": "Jornal de Angola",
-      "_key": "eee2dbff3e5deb91",
-      "score": 6
-    },
-    {
-      "title": "Publicada em Diário da República a lei que pune a disseminação...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html",
-      "source": "Novo Jornal",
-      "_key": "6c8b838ca24d1797",
-      "score": 6
-    },
-    {
-      "title": "Clima: Super \"El Niño\" ameaça directamente o sul de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/clima-super-el-nino-ameaca-directamente-o-sul-de-angola-continente-africano-e-dos-mais-vulneraveis-a-este-raro-fenomeno-climatico-73745.html",
-      "source": "Novo Jornal",
-      "_key": "9d31e9585b2dd325",
-      "score": 6
-    },
-    {
-      "title": "MINTUR disponibiliza serviço de pagamento parcelado para viagens e hotéis",
-      "url": "https://www.opais.ao/economia/mintur-disponibiliza-servico-de-pagamento-parcelado-para-viagens-e-hoteis/",
-      "source": "O País",
-      "_key": "065be575160a5e9d",
-      "score": 6
-    },
-    {
-      "title": "SIC desmantela grupos de exploração ilegal de diamantes e detém 12 pessoas na Lunda-Norte",
-      "url": "https://www.opais.ao/ultima_hora/sic-desmantela-grupos-de-exploracao-ilegal-de-diamantes-e-detem-12-pessoas-na-lunda-norte/",
-      "source": "O País",
-      "_key": "4264c8eb8183df20",
-      "score": 6
-    },
-    {
-      "title": "Acções da Unitel estabilizam nos 40 mil kwanzas após estreia na BODIVA",
-      "url": "https://www.opais.ao/economia/accoes-da-unitel-estabilizam-nos-40-mil-kwanzas-apos-estreia-na-bodiva/",
-      "source": "O País",
-      "_key": "56f2530280acded9",
-      "score": 6
-    },
-    {
-      "title": "Luena regista dez casos positivos de Varíola dos Macacos",
-      "url": "https://www.opais.ao/ultima_hora/luena-regista-dez-casos-positivos-de-variola-dos-macacos/",
-      "source": "O País",
-      "_key": "2ecb91690b50183a",
-      "score": 6
-    },
-    {
-      "title": "WAS-AC seeks to collaborate with Angola to boost aquaculture",
-      "url": "https://www.angop.ao/en/noticias/politica/was-ac-quer-trabalhar-com-angola-para-impulsionar-aquicultura/",
-      "source": "ANGOP",
-      "_key": "f4b0894afc822e4d",
-      "score": 5
-    },
-    {
-      "title": "Província de Cabinda com 109 casos confirmados de mpox",
-      "url": "https://jornaloguardiao.com/2026/08/05/provincia-de-cabinda-com-109-casos-confirmados-de-mpox/",
-      "source": "Jornal O Guardião",
-      "_key": "3f488c2d1da9aaaf",
-      "score": 5
-    },
-    {
-      "title": " Província de Cabinda com 109 casos confirmados de mpox ",
+      "title": " Presidente aprova 137,6 mil milhões de kwanzas para melhorar água em três províncias ",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_93b487607d494f",
-      "score": 5
+      "source": "Diário dos Negócios",
+      "_key": "t_6560561ba3cfb4",
+      "score": 7
     },
     {
-      "title": "Líder do Parlamento pede fácil acesso das mulheres ao crédito e à formaçãoO presidente da Assembleia Nacional, Adão de Almeida, disse, quarta-feira, em Luanda, que o empoderamento financeiro das mulheres continua a exigir políticas públicas mais robustas, que facilitem o acesso ao financiamento, ao empreendedorismo, à propriedade produtiva, à formação técnico-profissional e à inserção em todos os sectores da economia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682538/l%C3%ADder-do-parlamento-pede-f%C3%A1cil-acesso--das-mulheres-ao-cr%C3%A9dito-e-%C3%A0-forma%C3%A7%C3%A3o",
+      "title": " Angola investiu mais de 3 mil milhões de dólares em aeroportos que operam abaixo da capacidade ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_1ec72c390c3ed3",
+      "score": 7
+    },
+    {
+      "title": "Destaque UNITEL anuncia reposição dos principais serviços após ataque cibernéticoA operradora de telefónia móvel, UNITEL informou, esta quinta-feira, que concluiu, no dia 5 de Agosto de 2026, a reposição dos principais serviços móveis de voz, mensagens, dados, acesso à Internet e de serviços de terceiros que operam sobre a sua rede, afectados pelo ataque cibernético registado na madrugada de 28 de Julho.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682598/unitel-anuncia-reposi%C3%A7%C3%A3o-dos-principais-servi%C3%A7os-ap%C3%B3s-ataque-cibern%C3%A9tico",
       "source": "Jornal de Angola",
-      "_key": "1ee3ae0c21a349be",
-      "score": 5
+      "_key": "d271c98082860365",
+      "score": 7
     },
     {
-      "title": "Sociedade Mais de 250 projectos dos 305 inscritos foram concluídos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682554/mais-de-250-projectos-dos-305-inscritos-foram-conclu%C3%ADdos",
-      "source": "Jornal de Angola",
-      "_key": "ea4b62bc899e1e3a",
-      "score": 5
+      "title": "Arranca primeira fase do programa de pagamento parcelado...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/arranca-primeira-fase-do-programa-de-pagamento-parcelado-para-servicos-turisticos-73770.html",
+      "source": "Novo Jornal",
+      "_key": "f0367e065bbaab86",
+      "score": 7
     },
     {
-      "title": "Sociedade Cabinda vai receber mais 30 mil doses de vacinas contra Mbox ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682553/cabinda-vai-receber-mais-30-mil-doses-de-vacinas-contra-mbox",
-      "source": "Jornal de Angola",
-      "_key": "274fab184c8449bb",
-      "score": 5
-    },
-    {
-      "title": "Funcionários da Pumangol detidos no Uíge por alegada especulação do preço da gasolina",
-      "url": "https://www.opais.ao/ultima_hora/funcionarios-da-pumangol-detidos-no-uige-por-alegada-especulacao-do-preco-da-gasolina/",
-      "source": "O País",
-      "_key": "e6c72fa5f2a32d89",
-      "score": 5
-    },
-    {
-      "title": "Esperança da Costa recebe em audiência responsáveis da WIMÁFRICA e da UA",
-      "url": "https://www.opais.ao/politica/esperanca-da-costa-recebe-em-audiencia-responsaveis-da-wimafrica-e-da-ua/",
-      "source": "O País",
-      "_key": "94fa8e9086ed1ed0",
-      "score": 5
-    },
-    {
-      "title": "Mais de 200 mil dólares investidos pelo sector petrolífero no Programa de Bolsas de Estudo Chevening",
-      "url": "https://www.opais.ao/economia/mais-de-200-mil-dolares-investidos-pelo-sector-petrolifero-no-programa-de-bolsas-de-estudo-chevening/",
-      "source": "O País",
-      "_key": "218724b410eded4b",
-      "score": 5
-    },
-    {
-      "title": "Governo autoriza USD 25 milhões para construção do Estádio Nacional de Futebol do Zaire",
-      "url": "https://www.opais.ao/desporto/governo-autoriza-usd-25-milhoes-para-construcao-do-estadio-nacional-de-futebol-do-zaire/",
-      "source": "O País",
-      "_key": "0196689a04ceb784",
-      "score": 5
-    },
-    {
-      "title": "MAPTSS reserva 10 mil vagas de estágio para o sector...",
-      "url": "https://valoreconomico.co.ao/artigo/maptss-reserva-10-mil-vagas-de-estagio-para-o-sector-informal-atraves-do-programa-jovem",
+      "title": "Finanças cortam acesso ao sistema de controlo da despesa para...",
+      "url": "https://valoreconomico.co.ao/artigo/financas-cortam-acesso-ao-sistema-de-controlo-da-despesa-para-actualizar-plataforma",
       "source": "Valor Económico",
-      "_key": "b88736f99c22959f",
+      "_key": "f923cd010dddb571",
+      "score": 7
+    },
+    {
+      "title": "Mercons: O império de Silvestre Tulumba que soma mais de mil milhões de dólares em adjudicações directas",
+      "url": "https://diariodosnegocios.com/mercons-o-imperio-de-silvestre-tulumba-que-soma-mais-de-mil-milhoes-de-dolares-em-adjudicacoes-directas/",
+      "source": "Diário dos Negócios",
+      "_key": "484904d167f7d215",
+      "score": 6
+    },
+    {
+      "title": "Vitória de Isabel dos Santos em Lisboa não encerra litígio da ENDE com bancos portugueses",
+      "url": "https://diariodosnegocios.com/vitoria-de-isabel-dos-santos-em-lisboa-nao-encerra-litigio-da-ende-com-bancos-portugueses/",
+      "source": "Diário dos Negócios",
+      "_key": "17b55388f51fdf4d",
+      "score": 6
+    },
+    {
+      "title": "Tribunal Supremo do Chipre mantém congeladas contas alegadamente ligadas a Isabel dos Santos",
+      "url": "https://diariodosnegocios.com/tribunal-supremo-do-chipre-mantem-congeladas-contas-alegadamente-ligadas-a-isabel-dos-santos/",
+      "source": "Diário dos Negócios",
+      "_key": "15eaec8ad3846a4e",
+      "score": 6
+    },
+    {
+      "title": " Mercons: O império de Silvestre Tulumba que soma mais de mil milhões de dólares em adjudicações directas ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_e1dc23fa63fed2",
+      "score": 6
+    },
+    {
+      "title": " Vitória de Isabel dos Santos em Lisboa não encerra litígio da ENDE com bancos portugueses ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_377f957ba11428",
+      "score": 6
+    },
+    {
+      "title": " Tribunal Supremo do Chipre mantém congeladas contas alegadamente ligadas a Isabel dos Santos ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_c94c17b5919b54",
+      "score": 6
+    },
+    {
+      "title": "Tragédia no Kwanza Sul: Ânimos exaltados no arranque...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tragedia-no-kwanza-sul-animos-exaltados-no-arranque-da-recolha-de-amostras-de-familiares-das-vitimas-do-acidente-no-cuanza-sul-73772.html",
+      "source": "Novo Jornal",
+      "_key": "0e35771f72af7412",
+      "score": 6
+    },
+    {
+      "title": "Regiões Instituto de Segurança Social reabre serviços no Zaire após obras de requalificação ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/682597/instituto-de-seguran%C3%A7a-social-reabre-servi%C3%A7os-no-zaire-ap%C3%B3s-obras-de-requalifica%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "bb0f1a4a706c66f4",
       "score": 5
     }
   ]
