@@ -1,480 +1,96 @@
 {
   "date": "2026-08-07",
-  "total_new": 118,
-  "total_filtered": 59,
+  "total_new": 40,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "DRC railway line incompatibility reduces operability of Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/incompatibilidade-da-linha-ferrea-da-rdc-reduz-operacionalidade-do-corredor-do-lobito/",
-      "source": "ANGOP",
-      "_key": "6da6f10e402a4fdc",
-      "score": 10,
-      "title_cn": "刚果（金）铁路不兼容，影响洛比托走廊运营效率"
-    },
-    {
-      "title": "SIC arrests Chinese citizens accused of illegal gold mining",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-chineses-acusados-de-exploracao-ilegal-de-ouro-no-uige/",
-      "source": "ANGOP",
-      "_key": "6a945fba813c4c32",
-      "score": 10,
-      "title_cn": "安哥拉刑事调查局逮捕涉嫌非法采金的中国公民"
-    },
-    {
-      "title": "Reservas Internacionais encolhem 822 milhões USD",
-      "url": "https://expansao.co.ao/economia/detalhe/reservas-internacionais-encolhem-822-milhoes-usd-73784.html",
-      "source": "Expansão",
-      "_key": "e6e533d549aa5dab",
-      "score": 10,
-      "title_cn": "安哥拉国际储备缩减8.22亿美元"
-    },
-    {
-      "title": "ANPG and Sonangol confirm oil existence in Benguela Basin",
-      "url": "https://www.angop.ao/en/noticias/economia/anpg-e-sonangol-confirmam-petroleo-na-bacia-de-benguela/",
-      "source": "ANGOP",
-      "_key": "d8b59315d65ce140",
-      "score": 9,
-      "title_cn": "安哥拉国家石油局与索南戈尔确认本格拉盆地有石油"
-    },
-    {
-      "title": "Ministro admite admite escassez de combustível e dificuldades financeiras da Sonangol",
-      "url": "https://angola24horas.com/sociedade/item/34828-ministro-admite-admite-escassez-de-combustivel-e-dificuldades-financeiras-da-sonangol",
-      "source": "Angola 24 Horas",
-      "_key": "f2385525a98dc1f1",
-      "score": 9,
-      "title_cn": "部长承认燃料短缺，索南戈尔面临财政困难"
-    },
-    {
-      "title": "Executivo admite dificuldades no abastecimento de combustíveis em Angola",
-      "url": "https://correiokianda.info/executivo-admite-dificuldades-no-abastecimento-de-combustiveis-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "0ed12bbd7e65cc4d",
-      "score": 9,
-      "title_cn": "安哥拉政府承认燃料供应面临困难"
-    },
-    {
-      "title": "Angola descobre nova zona com petróleo em Benguela",
-      "url": "https://correiokianda.info/angola-descobre-nova-zona-com-petroleo-em-benguela/",
-      "source": "Correio Kianda",
-      "_key": "c1a327a238805b48",
-      "score": 9,
-      "title_cn": "安哥拉在本格拉发现新油区"
-    },
-    {
-      "title": "Energia fica mais cara em até 20% para empresas e similares",
-      "url": "https://expansao.co.ao/angola/detalhe/energia-fica-mais-cara-em-ate-20-para-empresas-e-similares-73786.html",
-      "source": "Expansão",
-      "_key": "c585b34cf2941046",
-      "score": 9,
-      "title_cn": "安哥拉企业及类似机构电价上涨高达20%"
-    },
-    {
-      "title": "Governo angolano admite crise de combustível em todo o país com a Sonangol a enfrentar dificuldades financeiras para o abastecimento",
-      "url": "https://forbesafricalusofona.com/governo-angolano-admite-crise-de-combustivel-em-todo-o-pais-com-a-sonangol-a-enfrentar-dificuldades-financeiras-para-o-abastecimento/",
+      "title": "Washington mobiliza mais de mil milhões USD em financiamento para o Corredor do Lobito",
+      "url": "https://forbesafricalusofona.com/washington-mobiliza-mais-de-mil-milhoes-usd-em-financiamento-para-o-corredor-do-lobito/",
       "source": "Forbes África",
-      "_key": "fdd2202abb172670",
+      "_key": "c5a1e5aeb5c7e6e1",
       "score": 9,
-      "title_cn": "安哥拉政府承认全国燃料危机，索南戈尔供应面临财政困难"
+      "title_cn": "华盛顿为洛比托走廊筹集逾10亿美元资金"
     },
     {
-      "title": "Government admits Sonangol’s financial troubles are holding back fuel supply08/06/2026",
-      "url": "https://www.negociosdeangola.com/en/government-admits-sonangols-financial-troubles-are-holding-back-fuel-supply/",
-      "source": "Negócios de Angola",
-      "_key": "d75a94ab0305b3ce",
-      "score": 9,
-      "title_cn": "政府承认索南戈尔财政困境阻碍燃料供应"
-    },
-    {
-      "title": "ANPG e Sonangol confirmam existência de petróleo e gás na Bacia Marítima de Benguela",
-      "url": "https://www.opais.ao/economia/anpg-e-sonangol-confirmam-existencia-de-petroleo-e-gas-na-bacia-maritima-de-benguela/",
+      "title": "Divisas da diáspora: investir ou sobreviver?",
+      "url": "https://www.opais.ao/opiniao/divisas-da-diaspora-investir-ou-sobreviver/",
       "source": "O País",
-      "_key": "326a5e5fd957b58a",
-      "score": 9,
-      "title_cn": "安哥拉国家石油局与索南戈尔确认本格拉海盆有油气"
-    },
-    {
-      "title": "Angolan lawmakers approve tax incentives for six oil blocks",
-      "url": "https://www.angop.ao/en/noticias/economia/deputados-aprovam-atribuicao-de-incentivos-fiscais-a-seis-blocos-petroliferos/",
-      "source": "ANGOP",
-      "_key": "a34cf9ef9dde068c",
+      "_key": "5b441f9aac1a379d",
       "score": 8,
-      "title_cn": "安哥拉议员批准六个油田区块的税收优惠"
+      "title_cn": "侨民汇款：投资还是生存？"
     },
     {
-      "title": "Angolan economy has overcome long contraction – Minister Massano",
-      "url": "https://www.angop.ao/en/noticias/economia/economia-angolana-venceu-longa-contraccao-ministro-massano/",
-      "source": "ANGOP",
-      "_key": "c78551978703933d",
-      "score": 8,
-      "title_cn": "马萨诺（Massano）部长：安哥拉经济已克服长期萎缩"
+      "title": "Depois de a Sonangol negar escassez, Governo admite...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/depois-de-a-sonangol-negar-escassez-governo-admite-falta-de-combustivel-e-culpa-preco-internacional-73798.html",
+      "source": "Novo Jornal",
+      "_key": "85a1e0db4b53352e",
+      "score": 7,
+      "title_cn": "索南戈尔否认短缺后，政府承认..."
     },
     {
-      "title": "Lei contra as fake news entra em vigor e abrange conteúdos produzidos no estrangeiro",
-      "url": "https://angola24horas.com/component/k2/item/34830-lei-contra-as-fake-news-entra-em-vigor-e-abrange-conteudos-produzidos-no-estrangeiro",
-      "source": "Angola 24 Horas",
-      "_key": "14ca19f94dfeb7b5",
-      "score": 8,
-      "title_cn": "安哥拉反虚假信息法生效，涵盖境外内容"
+      "title": "Executivo acelera Quilonga Grande para responder à falta de água em Luanda",
+      "url": "https://correiokianda.info/executivo-acelera-quilonga-grande-para-responder-a-falta-de-agua-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "be010f57046bade7",
+      "score": 6,
+      "title_cn": "政府加速推进Quilonga Grande项目，应对罗安达缺水"
     },
     {
-      "title": "Lei contra informações falsas já está em vigor: Penas podem chegar aos 10 anos de prisão",
-      "url": "https://diariodosnegocios.com/lei-contra-informacoes-falsas-ja-esta-em-vigor-penas-podem-chegar-aos-10-anos-de-prisao/",
-      "source": "Diário dos Negócios",
-      "_key": "b6daeeaca73a2cf0",
-      "score": 8,
-      "title_cn": "安哥拉反虚假信息法生效：最高可判10年监禁"
+      "title": "Presidente da República confere posse aos três novos membros do Executivo",
+      "url": "https://www.opais.ao/politica/presidente-da-republica-confere-posse-aos-tres-novos-membros-do-executivo/",
+      "source": "O País",
+      "_key": "00ec401d4af75221",
+      "score": 6,
+      "title_cn": "总统任命三名新政府成员"
     },
     {
-      "title": " Lei contra informações falsas já está em vigor: Penas podem chegar aos 10 anos de prisão ",
+      "title": "UNACA acusa beneficiários de créditos agrícolas de desviarem fundos para...",
+      "url": "https://valoreconomico.co.ao/artigo/unaca-acusa-beneficiarios-de-creditos-agricolas-de-desviarem-fundos-para-outros-fins",
+      "source": "Valor Económico",
+      "_key": "0916e850b3411040",
+      "score": 6,
+      "title_cn": "UNACA指控农业贷款受益人挪用资金..."
+    },
+    {
+      "title": "Angola e Nações Unidas fecham compromisso para acelerar implementação das prioridades nacionais e dos ODS",
+      "url": "https://forbesafricalusofona.com/angola-e-nacoes-unidas-fecham-compromisso-para-acelerar-implementacao-das-prioridades-nacionais-e-dos-ods/",
+      "source": "Forbes África",
+      "_key": "bb0d927f7537d9e1",
+      "score": 5,
+      "title_cn": "安哥拉与联合国承诺加速落实国家优先事项和可持续发展目标"
+    },
+    {
+      "title": "Ébola: ACNUR alerta para avanço rápido em campos de deslocados na RDCongo",
+      "url": "https://jornaloguardiao.com/2026/08/07/ebola-acnur-alerta-para-avanco-rapido-em-campos-de-deslocados-na-rdcongo/",
+      "source": "Jornal O Guardião",
+      "_key": "00555d3b2a213fbe",
+      "score": 5,
+      "title_cn": "埃博拉：难民署警告在刚果（金）流离失所者营地迅速蔓延"
+    },
+    {
+      "title": " Ébola: ACNUR alerta para avanço rápido em campos de deslocados na RDCongo ",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_bf00ba02999389",
-      "score": 8,
-      "title_cn": "安哥拉反虚假信息法生效：最高可判10年监禁"
-    },
-    {
-      "title": "Publicada em Diário da República a lei que pune a disseminação de informações falsas na internet com até 10 anos…",
-      "url": "https://holdonangola.com/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao/",
-      "source": "Hold On Angola",
-      "_key": "8450c51b8d57376e",
-      "score": 8,
-      "title_cn": "共和国公报公布：互联网散布虚假信息最高判10年"
-    },
-    {
-      "title": "Produção agrícola está a impulsionar o crescimento económico de AngolaO ministro de Estado para a Coordenação Económica destacou o crescimento da economia nacional, impulsionado pelo agro-negócio e pelos investimentos públicos. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682617/produ%C3%A7%C3%A3o-agr%C3%ADcola-est%C3%A1-a-impulsionar-o-crescimento-econ%C3%B3mico-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "1f440fe5b5bed063",
-      "score": 8,
-      "title_cn": "农业生产推动安哥拉经济增长，农业综合企业是主要动力"
-    },
-    {
-      "title": "Visa Strengthens Cross-Border Payments in Angola with Visa Direct Expansion",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10180",
-      "source": "Negócios de Angola",
-      "_key": "af05aec6cd5da21e",
-      "score": 8,
-      "title_cn": "维萨（Visa）通过Visa Direct扩展加强安哥拉跨境支付"
-    },
-    {
-      "title": "Um ano após proibição ainda se importam restos de frango no país",
-      "url": "https://www.opais.ao/economia/um-ano-apos-proibicao-ainda-se-importam-restos-de-frango-no-pais/",
-      "source": "O País",
-      "_key": "02ecf6b674ef162d",
-      "score": 8,
-      "title_cn": "安哥拉禁令一年后仍进口鸡肉残余"
-    },
-    {
-      "title": "Executivo reitera aposta na produção nacional para diversificação económica",
-      "url": "https://www.opais.ao/economia/executivo-reitera-aposta-na-producao-nacional-para-diversificacao-economica/",
-      "source": "O País",
-      "_key": "da692f0e664087a4",
-      "score": 8,
-      "title_cn": "安哥拉政府重申致力于国内生产以实现经济多元化"
-    },
-    {
-      "title": "Angola criminalizes false information on the Internet",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-criminaliza-informacoes-falsas-na-internet/",
-      "source": "ANGOP",
-      "_key": "458fc17447d9f82c",
-      "score": 7,
-      "title_cn": "安哥拉将互联网虚假信息定为犯罪"
-    },
-    {
-      "title": "PR autoriza despesa e contratação simplificada para Ministério das Finanças",
-      "url": "https://correiokianda.info/pr-autoriza-despesa-e-contratacao-simplificada-para-o-ministerio-das-financas/",
-      "source": "Correio Kianda",
-      "_key": "24bde0c84ee0dd45",
-      "score": 7,
-      "title_cn": "安哥拉总统授权财政部简化开支和采购"
-    },
-    {
-      "title": "Soba detido no Huambo por suspeita de liderar grupo ligado à exploração ilegal de minerais",
-      "url": "https://correiokianda.info/soba-detido-no-huambo-por-suspeita-de-liderar-grupo-ligado-a-exploracao-ilegal-de-minerais/",
-      "source": "Correio Kianda",
-      "_key": "af19d4be4338d472",
-      "score": 7,
-      "title_cn": "万博（Huambo）部落首领因涉嫌领导非法采矿团伙被捕"
-    },
-    {
-      "title": "Irão e EUA aproximam posições, mas reabertura do Estreito de Ormuz continua dependente de acordo",
-      "url": "https://correiokianda.info/irao-e-eua-aproximam-posicoes-mas-reabertura-do-estreito-de-ormuz-continua-dependente-de-acordo/",
-      "source": "Correio Kianda",
-      "_key": "62ec9b8e1dcdfeea",
-      "score": 7,
-      "title_cn": "伊朗与美国立场趋近，霍尔木兹海峡重开仍取决于协议"
-    },
-    {
-      "title": "E-commerce cresce 72% para 110 mil milhões Kz à boleia da expansão digital",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_7b9c1c7e202fbc",
-      "score": 7,
-      "title_cn": "数字化扩张推动安哥拉电子商务增长72%至1100亿宽扎"
-    },
-    {
-      "title": " Aposta no Turismo e Infra-estruturas resulta em mais receitas no Namibe ",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682644/aposta-no-turismo-e-infra-estruturas-resulta-em-mais-receitas-no-namibe",
-      "source": "Jornal de Angola",
-      "_key": "2956d66d1a36f8e5",
-      "score": 7,
-      "title_cn": "投资旅游和基础设施为纳米贝（Namibe）带来更多收入"
-    },
-    {
-      "title": "Política Aprovada Conta Geral do Estado referente ao exercício económico de 2024 ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682625/aprovada-conta-geral-do-estado-referente-ao-exerc%C3%ADcio-econ%C3%B3mico-de-2024",
-      "source": "Jornal de Angola",
-      "_key": "1c45043a90b6be1a",
-      "score": 7,
-      "title_cn": "安哥拉2024财年国家总账获批"
-    },
-    {
-      "title": "Liberdade de expressão e responsabilidade digital: um equilíbrio para fortalecer o Estado de Direito em Angola",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682624/liberdade-de-express%C3%A3o--e-responsabilidade-digital:--um-equil%C3%ADbrio-para-fortalecer--o-estado-de-direito-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "cdee6df8273a23ce",
-      "score": 7,
-      "title_cn": "言论自由与数字责任：安哥拉加强法治的平衡"
-    },
-    {
-      "title": "É precisar analisar bem o que partilhar na Internet",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682623/%C3%A9-precisar-analisar-bem-o-que-partilhar-na-internet",
-      "source": "Jornal de Angola",
-      "_key": "4ff2d587dd8ea9fe",
-      "score": 7,
-      "title_cn": "它需要仔细分析在互联网上分享什么"
-    },
-    {
-      "title": "Memorandum with IDA secures rice from five thousand smallholder farmers for new Camanongue plant08/06/2026",
-      "url": "https://www.negociosdeangola.com/en/memorandum-with-ida-secures-rice-from-five-thousand-smallholder-farmers-for-new-camanongue-plant/",
-      "source": "Negócios de Angola",
-      "_key": "7c4a6702c2712880",
-      "score": 7,
-      "title_cn": "与IDA签署备忘录，为卡马农格新厂确保5000小农户大米供应"
-    },
-    {
-      "title": "BNA Investigates Charges for Multicaixa Card Renewal",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10194",
-      "source": "Negócios de Angola",
-      "_key": "af58b07fe609a5fd",
-      "score": 7,
-      "title_cn": "安哥拉国家银行调查Multicaixa卡续期收费问题"
-    },
-    {
-      "title": "Especialistas defendem combate à desinformação, mas alertam para os riscos na aplicação da lei",
-      "url": "https://www.opais.ao/justica/especialistas-defendem-combate-a-desinformacao-mas-alertam-para-os-riscos-na-aplicacao-da-lei/",
-      "source": "O País",
-      "_key": "332dea32cc3a6b8c",
-      "score": 7,
-      "title_cn": "专家支持打击虚假信息，但警告法律实施风险"
-    },
-    {
-      "title": "Ministro da Energia e Águas constata andamento das obras do Projecto Quilonga Grande",
-      "url": "https://www.opais.ao/ultima_hora/ministro-da-energia-e-aguas-constata-andamento-das-obras-do-projecto-quilonga-grande/",
-      "source": "O País",
-      "_key": "113197088056762d",
-      "score": 7,
-      "title_cn": "能源水利部长视察大基隆加（Quilonga Grande）项目工程进展"
-    },
-    {
-      "title": "UNITEL completes restoration of mobile services",
-      "url": "https://www.angop.ao/en/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/",
-      "source": "ANGOP",
-      "_key": "208d9fed46c60d4c",
-      "score": 6,
-      "title_cn": "安哥拉电信公司Unitel完成移动服务恢复"
-    },
-    {
-      "title": "Unitel anuncia reposição total dos serviços uma semana após ciberataque",
-      "url": "https://angola24horas.com/sociedade/item/34827-unitel-anuncia-reposicao-total-dos-servicos-uma-semana-apos-ciberataque",
-      "source": "Angola 24 Horas",
-      "_key": "f07a25302ff9d750",
-      "score": 6,
-      "title_cn": "Unitel宣布网络攻击一周后服务全面恢复"
-    },
-    {
-      "title": "Deputados discutem contas públicas e diplomas estratégicos na reta final da Legislatura",
-      "url": "https://correiokianda.info/deputados-discutem-contas-publicas-e-diplomas-estrategicos-na-reta-final-da-legislatura/",
-      "source": "Correio Kianda",
-      "_key": "4a51495a378c3d49",
-      "score": 6,
-      "title_cn": "议员在本届立法期末讨论公共账目和战略法案"
-    },
-    {
-      "title": "Burladores usam falso apoio técnico para roubar informações de clientes UNITEL",
-      "url": "https://correiokianda.info/burladores-usam-falso-apoio-tecnico-para-roubar-informacoes-de-clientes-unitel/",
-      "source": "Correio Kianda",
-      "_key": "fa3cebfeeedcf845",
-      "score": 6,
-      "title_cn": "诈骗者利用虚假技术支持窃取Unitel客户信息"
-    },
-    {
-      "title": "A ilusão da autossuficiência | O caminho real para a segurança alimentar em Angola",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_14a76b75ccd517",
-      "score": 6,
-      "title_cn": "自给自足的幻想：安哥拉粮食安全的真正途径"
-    },
-    {
-      "title": "CONVIDADOJosé Carlos Bettencourt A ilusão da autossuficiência | O caminho real para a segurança alimentar em Angola",
-      "url": "https://expansao.co.ao/opiniao/detalhe/a-ilusao-da-autossuficiencia-o-caminho-real-para-a-seguranca-alimentar-em-angola-73783.html",
-      "source": "Expansão",
-      "_key": "f7b8e924fc59c44e",
-      "score": 6,
-      "title_cn": "嘉宾若泽·卡洛斯·贝滕库尔特：自给自足的幻想与安哥拉粮食安全"
-    },
-    {
-      "title": "Fábrica de Processamento de Arroz da Food Life impulsiona agricultura familiar no Leste",
-      "url": "https://holdonangola.com/fabrica-de-processamento-de-arroz-da-food-life-impulsiona-agricultura-familiar-no-leste/",
-      "source": "Hold On Angola",
-      "_key": "e4c138fec0a37946",
-      "score": 6,
-      "title_cn": "Food Life大米加工厂推动安哥拉东部家庭农业发展"
-    },
-    {
-      "title": "BayQi lança primeiro cofre digital em Angola e…",
-      "url": "https://holdonangola.com/bayqi-lanca-primeiro-cofre-digital-em-angola-e-desafia-cidadaos-a-poupar-250-milhoes-de-kwanzas-ate-final-de-2026/",
-      "source": "Hold On Angola",
-      "_key": "ba799760d0284b1c",
-      "score": 6,
-      "title_cn": "BayQi在安哥拉推出首个数字保险箱"
-    },
-    {
-      "title": "Destaque MINTTICS entrega primeira infra-estrutura espacial para gestão inteligente de resíduosO Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS), através do Gabinete de Gestão do Programa Espacial Nacional (GGPEN), entrega hoje, em Luanda, o primeiro Contentor Tecnológico Observa+ à Empresa de Limpeza e Saneamento de Luanda (ELISAL).",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682659/minttics-entrega-primeira-infra-estrutura-espacial-para-gest%C3%A3o-inteligente-de-res%C3%ADduos",
-      "source": "Jornal de Angola",
-      "_key": "30156b2ea61e03a0",
-      "score": 6,
-      "title_cn": "通信部交付首个智能废物管理空间基础设施"
-    },
-    {
-      "title": "20:53 / 6 ago. 2026 José de Lima Massano visita projecto de conservação de frutas na Huíla ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682615/jos%C3%A9-de-lima-massano-visita-projecto-de-conserva%C3%A7%C3%A3o-de-frutas-na-hu%C3%ADla",
-      "source": "Jornal de Angola",
-      "_key": "a9619e7d74a0fea1",
-      "score": 6,
-      "title_cn": "若泽·德·利马·马萨诺（José de Lima Massano）参观威拉水果保鲜项目"
-    },
-    {
-      "title": "O espaço digital e as nossas defesas",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682622/o-espa%C3%A7o-digital-e-as-nossas-defesas",
-      "source": "Jornal de Angola",
-      "_key": "b51f94008bca6022",
-      "score": 6,
-      "title_cn": "数字空间与我们的防御"
-    },
-    {
-      "title": "Ministro de Estado para a Coordenação Económica avalia obras de impacto social na Huíla",
-      "url": "https://www.opais.ao/politica/ministro-de-estado-para-a-coordenacao-economica-avalia-obras-de-impacto-social-na-huila/",
-      "source": "O País",
-      "_key": "6baa204d6ad35ad2",
-      "score": 6,
-      "title_cn": "经济协调国务部长评估威拉社会影响工程"
-    },
-    {
-      "title": "É de hoje…Atenção, a Lei das Fake News está aí…",
-      "url": "https://www.opais.ao/opiniao/e-de-hojeatencao-a-lei-das-fake-news-esta-ai/",
-      "source": "O País",
-      "_key": "bd7f5afd36c6e541",
-      "score": 6,
-      "title_cn": "注意：虚假新闻法已生效"
-    },
-    {
-      "title": "Acidentes envolvendo transportadoras interprovinciais fazem mais de 100 mortos e 187 feridos",
-      "url": "https://www.opais.ao/reportagem/acidentes-envolvendo-transportadoras-interprovinciais-fazem-mais-de-100-mortos-e-187-feridos/",
-      "source": "O País",
-      "_key": "ecbd0d49e4721b1c",
-      "score": 6,
-      "title_cn": "安哥拉省际运输事故致100余人死亡187人受伤"
-    },
-    {
-      "title": "Angola and the US strengthen defense cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-eua-reforcam-cooperacao-no-dominio-da-defesa/",
-      "source": "ANGOP",
-      "_key": "e4dc19fbbde2f325",
+      "source": "Jornal O Guardião",
+      "_key": "t_d91b147477b2ee",
       "score": 5,
-      "title_cn": "安哥拉与美国加强防务合作"
+      "title_cn": "埃博拉：难民署警告在刚果（金）流离失所者营地迅速蔓延"
     },
     {
-      "title": "Região angolana do Okavango terá novas redes técnicas e equipamentos de apoio turístico",
-      "url": "https://correiokianda.info/regiao-angolana-do-okavango-tera-novas-redes-tecnicas-e-equipamentos-de-apoio-turistico/",
-      "source": "Correio Kianda",
-      "_key": "65b95f5cac587c49",
-      "score": 5,
-      "title_cn": "安哥拉奥卡万戈地区将建新技术网络和旅游支持设备"
-    },
-    {
-      "title": "        África10 horas atrás  Saída de trabalhadores migrantes agrava crise na indústria têxtil sul-africana A saída de trabalhadores migrantes, na sequência dos protestos contra a imigração na África do Sul, está a agravar a crise na indústria têxtil de Newcastle,...   ",
-      "url": "https://correiokianda.info/saida-de-trabalhadores-migrantes-agrava-crise-na-industria-textil-sul-africana/",
-      "source": "Correio Kianda",
-      "_key": "b3236c8bde72aa3a",
-      "score": 5,
-      "title_cn": "移民工人离开加剧南非纺织业危机，源于反移民抗议"
-    },
-    {
-      "title": "Entre os números e a realidade Quando o crescimento económico não resolve o social dos angolanos",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_14bf973ba3e490",
-      "score": 5,
-      "title_cn": "数字与现实：经济增长未能解决安哥拉社会问题"
-    },
-    {
-      "title": "Nigéria retalia se África do Sul não travar violência xenófoba",
-      "url": "https://expansao.co.ao/mundo/africa/detalhe/nigeria-retalia-se-africa-do-sul-nao-travar-violencia-xenofoba-73787.html",
-      "source": "Expansão",
-      "_key": "1c7b24a08e542d06",
-      "score": 5,
-      "title_cn": "尼日利亚警告：若南非不阻止排外暴力将报复"
-    },
-    {
-      "title": "CONVIDADOEduardo Nkossi NgoEntre os números e a realidade Quando o crescimento económico não resolve o social dos angolanos",
-      "url": "https://expansao.co.ao/opiniao/detalhe/entre-os-numeros-e-a-realidade-quando-o-crescimento-economico-nao-resolve-o-social-dos-angolanos-73758.html",
-      "source": "Expansão",
-      "_key": "be77aea4beac6414",
-      "score": 5,
-      "title_cn": "嘉宾爱德华多·恩科西·恩戈：经济增长未能解决安哥拉社会问题"
-    },
-    {
-      "title": "Destaque Moxico regista dez casos de varíola de macaco importados de Cabinda e Moxico-LesteA província do Moxico registou dez casos de varíola de macaco (mpox), todos associados a cidadãos provenientes das províncias de Cabinda e do Moxico-Leste.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/682616/moxico-regista-dez-casos-de-var%C3%ADola-de-macaco-importados-de-cabinda-e-moxico-leste",
+      "title": "Mundo ACNUR alerta para avanço rápido de Ébola em campos de deslocados na RDC ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682672/acnur-alerta-para-avan%C3%A7o-r%C3%A1pido-de-%C3%A9bola-em-campos-de-deslocados-na-rdc",
       "source": "Jornal de Angola",
-      "_key": "214f4ee7601e30a6",
+      "_key": "8e76a2a1c2963171",
       "score": 5,
-      "title_cn": "莫希科（Moxico）省记录十例猴痘病例，均从卡宾达等地输入"
+      "title_cn": "难民署警告埃博拉疫情在刚果（金）流离失所者营地迅速蔓延"
     },
     {
-      "title": "Sociedade Hospital Pediátrico do Huambo fica concluído este ano ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682628/-hospital-pedi%C3%A1trico--do-huambo-fica-conclu%C3%ADdo-este-ano",
-      "source": "Jornal de Angola",
-      "_key": "cb4fd039583cd3f3",
+      "title": "PR autoriza 19 milhões de dólares para licenças da Microsoft...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-19-milhoes-de-dolares-para-licencas-da-microsoft-nas-financas",
+      "source": "Valor Económico",
+      "_key": "f8bcdd164ce74fa3",
       "score": 5,
-      "title_cn": "万博（Huambo）儿科医院将于今年竣工"
-    },
-    {
-      "title": "Destaque Angola e Estados Unidos reiteram reforço da cooperação na DefesaAngola e os Estados Unidos da América reafirmaram o compromisso de aprofundar a cooperação bilateral no domínio da Defesa, durante a 2.ª Reunião do Comité Conjunto de Cooperação de Defesa Angola–Estados Unidos da América, realizada nos dias 5 e 6 de Agosto, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682613/angola-e-estados-unidos-reiteram-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-na-defesa",
-      "source": "Jornal de Angola",
-      "_key": "edb6181f830ed691",
-      "score": 5,
-      "title_cn": "安哥拉与美国重申加强防务合作"
-    },
-    {
-      "title": "UNITEL conclui reposição dos principais serviços",
-      "url": "https://www.opais.ao/sociedade/unitel-conclui-reposicao-dos-principais-servicos/",
-      "source": "O País",
-      "_key": "60372de597700525",
-      "score": 5,
-      "title_cn": "安哥拉电信公司Unitel完成主要服务恢复"
-    },
-    {
-      "title": "Jardins da Yoba inaugura amanhã fábrica de processamento de sementes no Lubango",
-      "url": "https://www.opais.ao/ultima_hora/jardins-da-yoba-inaugura-amanha-fabrica-de-processamento-de-sementes-no-lubango/",
-      "source": "O País",
-      "_key": "e0f7ae1bd815201b",
-      "score": 5,
-      "title_cn": "约巴花园（Jardins da Yoba）明日在卢班戈启用种子加工厂"
+      "title_cn": "总统批准1900万美元用于微软许可..."
     }
   ]
 }
