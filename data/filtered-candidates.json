@@ -1,77 +1,105 @@
 {
   "date": "2026-08-07",
-  "total_new": 21,
-  "total_filtered": 10,
+  "total_new": 25,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Minister admits fuel crisis in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-admite-crise-de-combustivel-em-angola/",
+      "title": "Angola Investment Summit 2026 set to kicks off",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-investment-summit-inicia-se-hoje-com-foco-na-mobilizacao-de-financiamentos/",
       "source": "ANGOP",
-      "_key": "60cadddfe6429210",
+      "_key": "2e4b14c3257cd89f",
       "score": 9
     },
     {
-      "title": "Economista defende mudanças estruturais para evitar novas crises de combustíveis em Angola",
-      "url": "https://correiokianda.info/economista-defende-mudancas-estruturais-para-evitar-novas-crises-de-combustiveis-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "41662326c336bdaa",
-      "score": 8
-    },
-    {
-      "title": "Governo autoriza 73 milhões de dólares para infra-estruturas turísticas",
-      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-73-milhoes-de-dolares-para-infra-estruturas-turisticas",
-      "source": "Valor Económico",
-      "_key": "3916431005dbf151",
-      "score": 8
-    },
-    {
-      "title": "Proposta de Lei da Cibersegurança segue para votação final a 12 de AgostoA Proposta de Lei da Cibersegurança foi aprovada, hoje, na especialidade, pelas comissões especializadas da Assembleia Nacional, com 23 votos a favor, nenhum contra e 10 abstenções, ficando agora pronta para a votação final global em Plenário, marcada para o próximo dia 12 de Agosto.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682679/proposta-de-lei-da-ciberseguran%C3%A7a-segue-para-vota%C3%A7%C3%A3o-final-a-12-de-agosto",
-      "source": "Jornal de Angola",
-      "_key": "3e705dab2bab939e",
-      "score": 7
-    },
-    {
-      "title": "13:14 / 7 ago. 2026 Inaugurada primeira fábrica de processamento de sementes do país ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682676/inaugurada-primeira-f%C3%A1brica-de-processamento-de-sementes-do-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "833b92de1e88172a",
-      "score": 7
-    },
-    {
-      "title": "Proposta de Lei da Cibersegurança aprovada na especialidade",
-      "url": "https://www.opais.ao/politica/proposta-de-lei-da-ciberseguranca-aprovada-na-especialidade/",
-      "source": "O País",
-      "_key": "25f23d53f8768f86",
-      "score": 7
-    },
-    {
-      "title": "Law against fakenews places Angola among the most comprehensive juridical frameworks",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-entre-regimes-juridicos-mais-abrangentes-de-africa/",
+      "title": "Angola expresses interest in strengthening cultural cooperation with China",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angola-manifesta-interesse-em-fortalecer-cooperacao-cultural-com-a-china/",
       "source": "ANGOP",
-      "_key": "fd870f17a40332e7",
-      "score": 6
+      "_key": "016228e700116f78",
+      "score": 8
     },
     {
-      "title": "Lei angolana contra fake news entra em vigor",
-      "url": "https://forbesafricalusofona.com/lei-angolana-contra-fake-news-entra-em-vigor/",
-      "source": "Forbes África",
-      "_key": "3897884c44561180",
-      "score": 6
-    },
-    {
-      "title": "Destaque Chefe de Estado empossa novos secretários de Estado e vice-governador do Cuanza-SulO Presidente da República, João Lourenço, conferiu posse, na manhã desta sexta-feira, no Palácio Presidencial, na Cidade Alta, em Luanda, aos novos secretários de Estado do Ministério das Relações Exteriores, do Turismo, e ao vice-governador da província do Cuanza-Sul, recentemente nomeados.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682669/chefe-de-estado-empossa-novos-secret%C3%A1rios-de-estado-e-vice-governador-do-cuanza-sul",
+      "title": "Destaque Angola confirma inflação de um dígito 12 anos depois e apura taxa de 9,33% em JulhoA taxa de inflação em Angola recuou para um dígito 12 anos depois ao apurar 9,33 por cento no mês de Julho, segundo dados do Instituto Nacional de Estatística (INE).",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682682/angola-confirma-infla%C3%A7%C3%A3o-de-um-d%C3%ADgito-12-anos-depois-e-apura-taxa-de-933%25-em-julho",
       "source": "Jornal de Angola",
-      "_key": "e39205604d584494",
+      "_key": "ab85d1fb355f7dc9",
+      "score": 8
+    },
+    {
+      "title": "Death toll rises to 29 in mine collapse in Bengo province",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sobe-para-29-numero-de-mortos-do-desabamento-da-mina-no-bengo/",
+      "source": "ANGOP",
+      "_key": "c68c0880a4050032",
+      "score": 7
+    },
+    {
+      "title": "Energia, água e telecomunicações: ligar o projecto à rede sem surpresas",
+      "url": "https://forbesafricalusofona.com/energia-agua-e-telecomunicacoes-ligar-o-projecto-a-rede-sem-surpresas/",
+      "source": "Forbes África",
+      "_key": "0fb02de2d50f8fcf",
+      "score": 7
+    },
+    {
+      "title": "Masssano aponta Huíla como referência económica e defende agronegócio para diversificar a economia",
+      "url": "https://jornaloguardiao.com/2026/08/07/masssano-aponta-huila-como-referencia-economica-e-defende-agronegocio-para-diversificar-a-economia/",
+      "source": "Jornal O Guardião",
+      "_key": "0e5b5eb884671de7",
+      "score": 7
+    },
+    {
+      "title": " Masssano aponta Huíla como referência económica e defende agronegócio para diversificar a economia ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c0b22ff05539d7",
+      "score": 7
+    },
+    {
+      "title": "Ministro de Estado inaugura primeira fábrica de processamento de sementes na Huíla",
+      "url": "https://www.opais.ao/politica/ministro-de-estado-inaugura-primeira-fabrica-de-processamento-de-sementes-na-huila/",
+      "source": "O País",
+      "_key": "371e697abd6c5010",
+      "score": 7
+    },
+    {
+      "title": "Sociedade Angola poderá contar com Centro Nacional de Segurança Cibernética ainda este ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682683/angola-poder%C3%A1-contar-com-centro-nacional-de-seguran%C3%A7a-cibern%C3%A9tica-ainda-este-ano",
+      "source": "Jornal de Angola",
+      "_key": "9c7766b8f8de9164",
+      "score": 6
+    },
+    {
+      "title": "SIC apreende mais de 900 gramas de cocaína e detém rede envolvida em tráfico de drogas e homicídio",
+      "url": "https://www.opais.ao/ultima_hora/sic-apreende-mais-de-900-gramas-de-cocaina-e-detem-rede-envolvida-em-trafico-de-drogas-e-homicidio/",
+      "source": "O País",
+      "_key": "9ae79db5eff55ed8",
+      "score": 6
+    },
+    {
+      "title": "Benguela regista 39 casos de homicídio em seis meses",
+      "url": "https://www.opais.ao/sociedade/benguela-regista-39-casos-de-homicidio-em-seis-meses/",
+      "source": "O País",
+      "_key": "f1fff9cb5a374306",
+      "score": 6
+    },
+    {
+      "title": "Ministério das Finanças prepara transição para novo sistema informático de gestão pública",
+      "url": "https://correiokianda.info/ministerio-das-financas-prepara-transicao-para-novo-sistema-informatico-de-gestao-publica/",
+      "source": "Correio Kianda",
+      "_key": "006f28a2fa354bc6",
       "score": 5
     },
     {
-      "title": "Secretário de Estado para o Interior avalia funcionamento dos órgãos do MININT no Cuanza-Norte",
-      "url": "https://www.opais.ao/politica/secretario-de-estado-para-o-interior-avalia-funcionamento-dos-orgaos-do-minint-no-cuanza-norte/",
-      "source": "O País",
-      "_key": "a768cea141cb400c",
+      "title": "Téte António manifesta preocupação com activos angolanos retidos na SuíçaO ministro das Relações Exteriores, Téte António, manifestou, esta sexta-feira, em Luanda, a preocupação do Governo angolano com os fundos e activos de Angola que permanecem cativos na Confederação Suíça.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682681/t%C3%A9te-ant%C3%B3nio-manifesta-preocupa%C3%A7%C3%A3o-com-activos-angolanos-retidos-na-su%C3%AD%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "66dc0308c36af0b8",
+      "score": 5
+    },
+    {
+      "title": "SIC detém três nacionais por tráfico internacional...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-detem-tres-nacionais-por-trafico-internacional-de-droga-e-morte-de-cidadao-brasileiro-73804.html",
+      "source": "Novo Jornal",
+      "_key": "520650a8ac78ea12",
       "score": 5
     }
   ]
