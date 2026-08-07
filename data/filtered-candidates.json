@@ -1,175 +1,420 @@
 {
-  "date": "2026-08-06",
-  "total_new": 38,
-  "total_filtered": 24,
+  "date": "2026-08-07",
+  "total_new": 118,
+  "total_filtered": 59,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Presidente da República autoriza empréstimos superiores a 800 milhões para projecto ferroviário",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-emprestimos-superiores-a-800-milhoes-para-projecto-ferroviario/",
+      "title": "DRC railway line incompatibility reduces operability of Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/economia/incompatibilidade-da-linha-ferrea-da-rdc-reduz-operacionalidade-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "6da6f10e402a4fdc",
+      "score": 10
+    },
+    {
+      "title": "SIC arrests Chinese citizens accused of illegal gold mining",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-chineses-acusados-de-exploracao-ilegal-de-ouro-no-uige/",
+      "source": "ANGOP",
+      "_key": "6a945fba813c4c32",
+      "score": 10
+    },
+    {
+      "title": "Reservas Internacionais encolhem 822 milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/reservas-internacionais-encolhem-822-milhoes-usd-73784.html",
+      "source": "Expansão",
+      "_key": "e6e533d549aa5dab",
+      "score": 10
+    },
+    {
+      "title": "ANPG and Sonangol confirm oil existence in Benguela Basin",
+      "url": "https://www.angop.ao/en/noticias/economia/anpg-e-sonangol-confirmam-petroleo-na-bacia-de-benguela/",
+      "source": "ANGOP",
+      "_key": "d8b59315d65ce140",
+      "score": 9
+    },
+    {
+      "title": "Ministro admite admite escassez de combustível e dificuldades financeiras da Sonangol",
+      "url": "https://angola24horas.com/sociedade/item/34828-ministro-admite-admite-escassez-de-combustivel-e-dificuldades-financeiras-da-sonangol",
+      "source": "Angola 24 Horas",
+      "_key": "f2385525a98dc1f1",
+      "score": 9
+    },
+    {
+      "title": "Executivo admite dificuldades no abastecimento de combustíveis em Angola",
+      "url": "https://correiokianda.info/executivo-admite-dificuldades-no-abastecimento-de-combustiveis-em-angola/",
       "source": "Correio Kianda",
-      "_key": "e737965dc7a69bc6",
+      "_key": "0ed12bbd7e65cc4d",
       "score": 9
     },
     {
-      "title": "Sonangol confirma sucesso no poço Katambi-2 e antecipa novo ciclo de produção de gás na Bacia de Benguela",
-      "url": "https://diariodosnegocios.com/sonangol-confirma-sucesso-no-poco-katambi-2-e-antecipa-novo-ciclo-de-producao-de-gas-na-bacia-de-benguela/",
+      "title": "Angola descobre nova zona com petróleo em Benguela",
+      "url": "https://correiokianda.info/angola-descobre-nova-zona-com-petroleo-em-benguela/",
+      "source": "Correio Kianda",
+      "_key": "c1a327a238805b48",
+      "score": 9
+    },
+    {
+      "title": "Energia fica mais cara em até 20% para empresas e similares",
+      "url": "https://expansao.co.ao/angola/detalhe/energia-fica-mais-cara-em-ate-20-para-empresas-e-similares-73786.html",
+      "source": "Expansão",
+      "_key": "c585b34cf2941046",
+      "score": 9
+    },
+    {
+      "title": "Governo angolano admite crise de combustível em todo o país com a Sonangol a enfrentar dificuldades financeiras para o abastecimento",
+      "url": "https://forbesafricalusofona.com/governo-angolano-admite-crise-de-combustivel-em-todo-o-pais-com-a-sonangol-a-enfrentar-dificuldades-financeiras-para-o-abastecimento/",
+      "source": "Forbes África",
+      "_key": "fdd2202abb172670",
+      "score": 9
+    },
+    {
+      "title": "Government admits Sonangol’s financial troubles are holding back fuel supply08/06/2026",
+      "url": "https://www.negociosdeangola.com/en/government-admits-sonangols-financial-troubles-are-holding-back-fuel-supply/",
+      "source": "Negócios de Angola",
+      "_key": "d75a94ab0305b3ce",
+      "score": 9
+    },
+    {
+      "title": "ANPG e Sonangol confirmam existência de petróleo e gás na Bacia Marítima de Benguela",
+      "url": "https://www.opais.ao/economia/anpg-e-sonangol-confirmam-existencia-de-petroleo-e-gas-na-bacia-maritima-de-benguela/",
+      "source": "O País",
+      "_key": "326a5e5fd957b58a",
+      "score": 9
+    },
+    {
+      "title": "Angolan lawmakers approve tax incentives for six oil blocks",
+      "url": "https://www.angop.ao/en/noticias/economia/deputados-aprovam-atribuicao-de-incentivos-fiscais-a-seis-blocos-petroliferos/",
+      "source": "ANGOP",
+      "_key": "a34cf9ef9dde068c",
+      "score": 8
+    },
+    {
+      "title": "Angolan economy has overcome long contraction – Minister Massano",
+      "url": "https://www.angop.ao/en/noticias/economia/economia-angolana-venceu-longa-contraccao-ministro-massano/",
+      "source": "ANGOP",
+      "_key": "c78551978703933d",
+      "score": 8
+    },
+    {
+      "title": "Lei contra as fake news entra em vigor e abrange conteúdos produzidos no estrangeiro",
+      "url": "https://angola24horas.com/component/k2/item/34830-lei-contra-as-fake-news-entra-em-vigor-e-abrange-conteudos-produzidos-no-estrangeiro",
+      "source": "Angola 24 Horas",
+      "_key": "14ca19f94dfeb7b5",
+      "score": 8
+    },
+    {
+      "title": "Lei contra informações falsas já está em vigor: Penas podem chegar aos 10 anos de prisão",
+      "url": "https://diariodosnegocios.com/lei-contra-informacoes-falsas-ja-esta-em-vigor-penas-podem-chegar-aos-10-anos-de-prisao/",
       "source": "Diário dos Negócios",
-      "_key": "dcef4f98ffd8792c",
-      "score": 9
+      "_key": "b6daeeaca73a2cf0",
+      "score": 8
     },
     {
-      "title": " Sonangol confirma sucesso no poço Katambi-2 e antecipa novo ciclo de produção de gás na Bacia de Benguela ",
+      "title": " Lei contra informações falsas já está em vigor: Penas podem chegar aos 10 anos de prisão ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_ec96c7adabd7a7",
-      "score": 9
+      "_key": "t_bf00ba02999389",
+      "score": 8
     },
     {
-      "title": "Angola enfrenta situação preocupante de escassez de combustível – ministro",
-      "url": "https://jornaloguardiao.com/2026/08/06/angola-enfrenta-situacao-preocupante-de-escassez-de-combustivel-ministro/",
-      "source": "Jornal O Guardião",
-      "_key": "36d0a0e2091579c7",
-      "score": 9
+      "title": "Publicada em Diário da República a lei que pune a disseminação de informações falsas na internet com até 10 anos…",
+      "url": "https://holdonangola.com/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao/",
+      "source": "Hold On Angola",
+      "_key": "8450c51b8d57376e",
+      "score": 8
     },
     {
-      "title": " Angola enfrenta situação preocupante de escassez de combustível – ministro ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_96ce924676150b",
-      "score": 9
-    },
-    {
-      "title": "Destaque Diamantino Azevedo defende igualdade de oportunidades no sector petrolíferoO ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo, defendeu, hoje, a promoção da igualdade de oportunidades entre homens e mulheres no sector do petróleo e gás, destacando a importância da valorização do talento nacional.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682607/diamantino-azevedo-defende-igualdade-de-oportunidades-no-sector-petrol%C3%ADfero",
+      "title": "Produção agrícola está a impulsionar o crescimento económico de AngolaO ministro de Estado para a Coordenação Económica destacou o crescimento da economia nacional, impulsionado pelo agro-negócio e pelos investimentos públicos. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682617/produ%C3%A7%C3%A3o-agr%C3%ADcola-est%C3%A1-a-impulsionar-o-crescimento-econ%C3%B3mico-de-angola",
       "source": "Jornal de Angola",
-      "_key": "cddaa159e0b0eb2e",
+      "_key": "1f440fe5b5bed063",
       "score": 8
     },
     {
-      "title": "RDC volta a restringir exportações de minerais e metais...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdc-volta-a-restringir-exportacoes-de-minerais-e-metais-estrategicos-para-fomentar-industria-local-73777.html",
-      "source": "Novo Jornal",
-      "_key": "e90156095f4f0c14",
+      "title": "Visa Strengthens Cross-Border Payments in Angola with Visa Direct Expansion",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10180",
+      "source": "Negócios de Angola",
+      "_key": "af05aec6cd5da21e",
       "score": 8
     },
     {
-      "title": "PR autoriza ajuste directo de 25 milhões de dólares para...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-ajuste-directo-de-25-milhoes-de-dolares-para-estadio-no-zaire",
-      "source": "Valor Económico",
-      "_key": "a6be1d6e4afecb36",
+      "title": "Um ano após proibição ainda se importam restos de frango no país",
+      "url": "https://www.opais.ao/economia/um-ano-apos-proibicao-ainda-se-importam-restos-de-frango-no-pais/",
+      "source": "O País",
+      "_key": "02ecf6b674ef162d",
       "score": 8
     },
     {
-      "title": "Angola e EUA manifestam intenção de reforçar cooperação...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-e-eua-manifestam-intencao-de-reforcar-cooperacao-no-dominio-da-defesa-73776.html",
-      "source": "Novo Jornal",
-      "_key": "6f0d3f89898bd821",
+      "title": "Executivo reitera aposta na produção nacional para diversificação económica",
+      "url": "https://www.opais.ao/economia/executivo-reitera-aposta-na-producao-nacional-para-diversificacao-economica/",
+      "source": "O País",
+      "_key": "da692f0e664087a4",
+      "score": 8
+    },
+    {
+      "title": "Angola criminalizes false information on the Internet",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-criminaliza-informacoes-falsas-na-internet/",
+      "source": "ANGOP",
+      "_key": "458fc17447d9f82c",
       "score": 7
     },
     {
-      "title": "UNITEL diz ter restabelecido principais serviços afectados pelo ciberataque",
-      "url": "https://correiokianda.info/unitel-diz-ter-restabelecido-principais-servicos-afectados-pelo-ciberataque/",
+      "title": "PR autoriza despesa e contratação simplificada para Ministério das Finanças",
+      "url": "https://correiokianda.info/pr-autoriza-despesa-e-contratacao-simplificada-para-o-ministerio-das-financas/",
       "source": "Correio Kianda",
-      "_key": "03e30f780e402b8b",
-      "score": 6
+      "_key": "24bde0c84ee0dd45",
+      "score": 7
     },
     {
-      "title": "Unitel garante reposição dos principais serviços e realiza trabalhos internos de optimização",
-      "url": "https://forbesafricalusofona.com/unitel-garante-reposicao-dos-principais-servicos-e-realiza-trabalhos-internos-de-optimizacao/",
-      "source": "Forbes África",
-      "_key": "40e1f3883a334ba3",
-      "score": 6
-    },
-    {
-      "title": "Lei contra informações falsas na internet já está em vigor em Angola",
-      "url": "https://jornaloguardiao.com/2026/08/06/lei-contra-informacoes-falsas-na-internet-ja-esta-em-vigor-em-angola/",
-      "source": "Jornal O Guardião",
-      "_key": "601af55a9e565a92",
-      "score": 6
-    },
-    {
-      "title": "Unitel anuncia reposição dos serviços uma semana depois do ataque informático",
-      "url": "https://jornaloguardiao.com/2026/08/06/unitel-anuncia-reposicao-dos-servicos-uma-semana-depois-do-ataque-informatico/",
-      "source": "Jornal O Guardião",
-      "_key": "858dc548240858f7",
-      "score": 6
-    },
-    {
-      "title": " Lei contra informações falsas na internet já está em vigor em Angola ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_99c4d2740cb39d",
-      "score": 6
-    },
-    {
-      "title": " Unitel anuncia reposição dos serviços uma semana depois do ataque informático ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_eae6b8233c1db9",
-      "score": 6
-    },
-    {
-      "title": "UNITEL assegura conclusão da reposição total dos serviços...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/unitel-assegura-conclusao-da-reposicao-total-dos-servicos-de-voz-mensagens-dados-e-internet-afectados-por-ataque-cibernetico-73775.html",
-      "source": "Novo Jornal",
-      "_key": "0c094c84dbd4fd39",
-      "score": 6
-    },
-    {
-      "title": "PONTO AO: TECNOLOGIA E CIBERSEGURANÇA. Lei da Cibersegurança: proteção ou controlo?",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=73774",
-      "source": "Novo Jornal",
-      "_key": "f50e286b6cf64945",
-      "score": 6
-    },
-    {
-      "title": "Atraso de salários ameaça combate ao Ébola na RDC",
-      "url": "https://correiokianda.info/atraso-de-salarios-ameaca-combate-ao-ebola-na-rdc/",
+      "title": "Soba detido no Huambo por suspeita de liderar grupo ligado à exploração ilegal de minerais",
+      "url": "https://correiokianda.info/soba-detido-no-huambo-por-suspeita-de-liderar-grupo-ligado-a-exploracao-ilegal-de-minerais/",
       "source": "Correio Kianda",
-      "_key": "57e6465350e1e7d5",
-      "score": 5
+      "_key": "af19d4be4338d472",
+      "score": 7
     },
     {
-      "title": "Governo de Cabo Verde aumenta preços dos combustíveis para 6,86%",
-      "url": "https://forbesafricalusofona.com/governo-de-cabo-verde-aumenta-precos-dos-combustiveis-para-686/",
-      "source": "Forbes África",
-      "_key": "8bdefcec10333b32",
-      "score": 5
+      "title": "Irão e EUA aproximam posições, mas reabertura do Estreito de Ormuz continua dependente de acordo",
+      "url": "https://correiokianda.info/irao-e-eua-aproximam-posicoes-mas-reabertura-do-estreito-de-ormuz-continua-dependente-de-acordo/",
+      "source": "Correio Kianda",
+      "_key": "62ec9b8e1dcdfeea",
+      "score": 7
     },
     {
-      "title": "Concluída recolha de amostras das 18 vítimas do acidente no Cuanza-Sul",
-      "url": "https://jornaloguardiao.com/2026/08/06/concluida-recolha-de-amostras-das-18-vitimas-do-acidente-no-cuanza-sul/",
-      "source": "Jornal O Guardião",
-      "_key": "d485f89426c98835",
-      "score": 5
-    },
-    {
-      "title": "Epidemia de Ébola está a propagar-se mais rápido que a resposta – OMS",
-      "url": "https://jornaloguardiao.com/2026/08/06/epidemia-de-ebola-esta-a-propagar-se-mais-rapido-que-a-resposta-oms/",
-      "source": "Jornal O Guardião",
-      "_key": "58631d06701421a0",
-      "score": 5
-    },
-    {
-      "title": " Concluída recolha de amostras das 18 vítimas do acidente no Cuanza-Sul ",
+      "title": "E-commerce cresce 72% para 110 mil milhões Kz à boleia da expansão digital",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b0b0b6352b8e9c",
-      "score": 5
+      "source": "Expansão",
+      "_key": "t_7b9c1c7e202fbc",
+      "score": 7
     },
     {
-      "title": " Epidemia de Ébola está a propagar-se mais rápido que a resposta – OMS ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_449f78e0b80400",
-      "score": 5
-    },
-    {
-      "title": "Mundo Dívida externa de Moçambique caiu 7,5% após adiantamento ao FMI ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682606/d%C3%ADvida-externa-de-mo%C3%A7ambique-caiu-75%25-ap%C3%B3s-adiantamento-ao-fmi",
+      "title": " Aposta no Turismo e Infra-estruturas resulta em mais receitas no Namibe ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/682644/aposta-no-turismo-e-infra-estruturas-resulta-em-mais-receitas-no-namibe",
       "source": "Jornal de Angola",
-      "_key": "6c125ad823470dee",
+      "_key": "2956d66d1a36f8e5",
+      "score": 7
+    },
+    {
+      "title": "Política Aprovada Conta Geral do Estado referente ao exercício económico de 2024 ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682625/aprovada-conta-geral-do-estado-referente-ao-exerc%C3%ADcio-econ%C3%B3mico-de-2024",
+      "source": "Jornal de Angola",
+      "_key": "1c45043a90b6be1a",
+      "score": 7
+    },
+    {
+      "title": "Liberdade de expressão e responsabilidade digital: um equilíbrio para fortalecer o Estado de Direito em Angola",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682624/liberdade-de-express%C3%A3o--e-responsabilidade-digital:--um-equil%C3%ADbrio-para-fortalecer--o-estado-de-direito-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "cdee6df8273a23ce",
+      "score": 7
+    },
+    {
+      "title": "É precisar analisar bem o que partilhar na Internet",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682623/%C3%A9-precisar-analisar-bem-o-que-partilhar-na-internet",
+      "source": "Jornal de Angola",
+      "_key": "4ff2d587dd8ea9fe",
+      "score": 7
+    },
+    {
+      "title": "Memorandum with IDA secures rice from five thousand smallholder farmers for new Camanongue plant08/06/2026",
+      "url": "https://www.negociosdeangola.com/en/memorandum-with-ida-secures-rice-from-five-thousand-smallholder-farmers-for-new-camanongue-plant/",
+      "source": "Negócios de Angola",
+      "_key": "7c4a6702c2712880",
+      "score": 7
+    },
+    {
+      "title": "BNA Investigates Charges for Multicaixa Card Renewal",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10194",
+      "source": "Negócios de Angola",
+      "_key": "af58b07fe609a5fd",
+      "score": 7
+    },
+    {
+      "title": "Especialistas defendem combate à desinformação, mas alertam para os riscos na aplicação da lei",
+      "url": "https://www.opais.ao/justica/especialistas-defendem-combate-a-desinformacao-mas-alertam-para-os-riscos-na-aplicacao-da-lei/",
+      "source": "O País",
+      "_key": "332dea32cc3a6b8c",
+      "score": 7
+    },
+    {
+      "title": "Ministro da Energia e Águas constata andamento das obras do Projecto Quilonga Grande",
+      "url": "https://www.opais.ao/ultima_hora/ministro-da-energia-e-aguas-constata-andamento-das-obras-do-projecto-quilonga-grande/",
+      "source": "O País",
+      "_key": "113197088056762d",
+      "score": 7
+    },
+    {
+      "title": "UNITEL completes restoration of mobile services",
+      "url": "https://www.angop.ao/en/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/",
+      "source": "ANGOP",
+      "_key": "208d9fed46c60d4c",
+      "score": 6
+    },
+    {
+      "title": "Unitel anuncia reposição total dos serviços uma semana após ciberataque",
+      "url": "https://angola24horas.com/sociedade/item/34827-unitel-anuncia-reposicao-total-dos-servicos-uma-semana-apos-ciberataque",
+      "source": "Angola 24 Horas",
+      "_key": "f07a25302ff9d750",
+      "score": 6
+    },
+    {
+      "title": "Deputados discutem contas públicas e diplomas estratégicos na reta final da Legislatura",
+      "url": "https://correiokianda.info/deputados-discutem-contas-publicas-e-diplomas-estrategicos-na-reta-final-da-legislatura/",
+      "source": "Correio Kianda",
+      "_key": "4a51495a378c3d49",
+      "score": 6
+    },
+    {
+      "title": "Burladores usam falso apoio técnico para roubar informações de clientes UNITEL",
+      "url": "https://correiokianda.info/burladores-usam-falso-apoio-tecnico-para-roubar-informacoes-de-clientes-unitel/",
+      "source": "Correio Kianda",
+      "_key": "fa3cebfeeedcf845",
+      "score": 6
+    },
+    {
+      "title": "A ilusão da autossuficiência | O caminho real para a segurança alimentar em Angola",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_14a76b75ccd517",
+      "score": 6
+    },
+    {
+      "title": "CONVIDADOJosé Carlos Bettencourt A ilusão da autossuficiência | O caminho real para a segurança alimentar em Angola",
+      "url": "https://expansao.co.ao/opiniao/detalhe/a-ilusao-da-autossuficiencia-o-caminho-real-para-a-seguranca-alimentar-em-angola-73783.html",
+      "source": "Expansão",
+      "_key": "f7b8e924fc59c44e",
+      "score": 6
+    },
+    {
+      "title": "Fábrica de Processamento de Arroz da Food Life impulsiona agricultura familiar no Leste",
+      "url": "https://holdonangola.com/fabrica-de-processamento-de-arroz-da-food-life-impulsiona-agricultura-familiar-no-leste/",
+      "source": "Hold On Angola",
+      "_key": "e4c138fec0a37946",
+      "score": 6
+    },
+    {
+      "title": "BayQi lança primeiro cofre digital em Angola e…",
+      "url": "https://holdonangola.com/bayqi-lanca-primeiro-cofre-digital-em-angola-e-desafia-cidadaos-a-poupar-250-milhoes-de-kwanzas-ate-final-de-2026/",
+      "source": "Hold On Angola",
+      "_key": "ba799760d0284b1c",
+      "score": 6
+    },
+    {
+      "title": "Destaque MINTTICS entrega primeira infra-estrutura espacial para gestão inteligente de resíduosO Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS), através do Gabinete de Gestão do Programa Espacial Nacional (GGPEN), entrega hoje, em Luanda, o primeiro Contentor Tecnológico Observa+ à Empresa de Limpeza e Saneamento de Luanda (ELISAL).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682659/minttics-entrega-primeira-infra-estrutura-espacial-para-gest%C3%A3o-inteligente-de-res%C3%ADduos",
+      "source": "Jornal de Angola",
+      "_key": "30156b2ea61e03a0",
+      "score": 6
+    },
+    {
+      "title": "20:53 / 6 ago. 2026 José de Lima Massano visita projecto de conservação de frutas na Huíla ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682615/jos%C3%A9-de-lima-massano-visita-projecto-de-conserva%C3%A7%C3%A3o-de-frutas-na-hu%C3%ADla",
+      "source": "Jornal de Angola",
+      "_key": "a9619e7d74a0fea1",
+      "score": 6
+    },
+    {
+      "title": "O espaço digital e as nossas defesas",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682622/o-espa%C3%A7o-digital-e-as-nossas-defesas",
+      "source": "Jornal de Angola",
+      "_key": "b51f94008bca6022",
+      "score": 6
+    },
+    {
+      "title": "Ministro de Estado para a Coordenação Económica avalia obras de impacto social na Huíla",
+      "url": "https://www.opais.ao/politica/ministro-de-estado-para-a-coordenacao-economica-avalia-obras-de-impacto-social-na-huila/",
+      "source": "O País",
+      "_key": "6baa204d6ad35ad2",
+      "score": 6
+    },
+    {
+      "title": "É de hoje…Atenção, a Lei das Fake News está aí…",
+      "url": "https://www.opais.ao/opiniao/e-de-hojeatencao-a-lei-das-fake-news-esta-ai/",
+      "source": "O País",
+      "_key": "bd7f5afd36c6e541",
+      "score": 6
+    },
+    {
+      "title": "Acidentes envolvendo transportadoras interprovinciais fazem mais de 100 mortos e 187 feridos",
+      "url": "https://www.opais.ao/reportagem/acidentes-envolvendo-transportadoras-interprovinciais-fazem-mais-de-100-mortos-e-187-feridos/",
+      "source": "O País",
+      "_key": "ecbd0d49e4721b1c",
+      "score": 6
+    },
+    {
+      "title": "Angola and the US strengthen defense cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-eua-reforcam-cooperacao-no-dominio-da-defesa/",
+      "source": "ANGOP",
+      "_key": "e4dc19fbbde2f325",
+      "score": 5
+    },
+    {
+      "title": "Região angolana do Okavango terá novas redes técnicas e equipamentos de apoio turístico",
+      "url": "https://correiokianda.info/regiao-angolana-do-okavango-tera-novas-redes-tecnicas-e-equipamentos-de-apoio-turistico/",
+      "source": "Correio Kianda",
+      "_key": "65b95f5cac587c49",
+      "score": 5
+    },
+    {
+      "title": "        África10 horas atrás  Saída de trabalhadores migrantes agrava crise na indústria têxtil sul-africana A saída de trabalhadores migrantes, na sequência dos protestos contra a imigração na África do Sul, está a agravar a crise na indústria têxtil de Newcastle,...   ",
+      "url": "https://correiokianda.info/saida-de-trabalhadores-migrantes-agrava-crise-na-industria-textil-sul-africana/",
+      "source": "Correio Kianda",
+      "_key": "b3236c8bde72aa3a",
+      "score": 5
+    },
+    {
+      "title": "Entre os números e a realidade Quando o crescimento económico não resolve o social dos angolanos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_14bf973ba3e490",
+      "score": 5
+    },
+    {
+      "title": "Nigéria retalia se África do Sul não travar violência xenófoba",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/nigeria-retalia-se-africa-do-sul-nao-travar-violencia-xenofoba-73787.html",
+      "source": "Expansão",
+      "_key": "1c7b24a08e542d06",
+      "score": 5
+    },
+    {
+      "title": "CONVIDADOEduardo Nkossi NgoEntre os números e a realidade Quando o crescimento económico não resolve o social dos angolanos",
+      "url": "https://expansao.co.ao/opiniao/detalhe/entre-os-numeros-e-a-realidade-quando-o-crescimento-economico-nao-resolve-o-social-dos-angolanos-73758.html",
+      "source": "Expansão",
+      "_key": "be77aea4beac6414",
+      "score": 5
+    },
+    {
+      "title": "Destaque Moxico regista dez casos de varíola de macaco importados de Cabinda e Moxico-LesteA província do Moxico registou dez casos de varíola de macaco (mpox), todos associados a cidadãos provenientes das províncias de Cabinda e do Moxico-Leste.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/682616/moxico-regista-dez-casos-de-var%C3%ADola-de-macaco-importados-de-cabinda-e-moxico-leste",
+      "source": "Jornal de Angola",
+      "_key": "214f4ee7601e30a6",
+      "score": 5
+    },
+    {
+      "title": "Sociedade Hospital Pediátrico do Huambo fica concluído este ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682628/-hospital-pedi%C3%A1trico--do-huambo-fica-conclu%C3%ADdo-este-ano",
+      "source": "Jornal de Angola",
+      "_key": "cb4fd039583cd3f3",
+      "score": 5
+    },
+    {
+      "title": "Destaque Angola e Estados Unidos reiteram reforço da cooperação na DefesaAngola e os Estados Unidos da América reafirmaram o compromisso de aprofundar a cooperação bilateral no domínio da Defesa, durante a 2.ª Reunião do Comité Conjunto de Cooperação de Defesa Angola–Estados Unidos da América, realizada nos dias 5 e 6 de Agosto, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682613/angola-e-estados-unidos-reiteram-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-na-defesa",
+      "source": "Jornal de Angola",
+      "_key": "edb6181f830ed691",
+      "score": 5
+    },
+    {
+      "title": "UNITEL conclui reposição dos principais serviços",
+      "url": "https://www.opais.ao/sociedade/unitel-conclui-reposicao-dos-principais-servicos/",
+      "source": "O País",
+      "_key": "60372de597700525",
+      "score": 5
+    },
+    {
+      "title": "Jardins da Yoba inaugura amanhã fábrica de processamento de sementes no Lubango",
+      "url": "https://www.opais.ao/ultima_hora/jardins-da-yoba-inaugura-amanha-fabrica-de-processamento-de-sementes-no-lubango/",
+      "source": "O País",
+      "_key": "e0f7ae1bd815201b",
       "score": 5
     }
   ]
