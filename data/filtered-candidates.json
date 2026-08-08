@@ -1,7 +1,43 @@
 {
   "date": "2026-08-08",
-  "total_new": 6,
-  "total_filtered": 0,
+  "total_new": 18,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "Angola contrata consultoria para avaliar potencial petrolífero de novas zonas",
+      "url": "https://jornaloguardiao.com/2026/08/08/angola-contrata-consultoria-para-avaliar-potencial-petrolifero-de-novas-zonas/",
+      "source": "Jornal O Guardião",
+      "_key": "663854fe138a91d8",
+      "score": 9
+    },
+    {
+      "title": " Angola contrata consultoria para avaliar potencial petrolífero de novas zonas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_82cd640ff0bdbf",
+      "score": 9
+    },
+    {
+      "title": "        Análise1 hora atrás  Tensão e diplomacia – quem protege os africanos quando a xenofobia atravessa fronteiras? A recente onda de ataques xenófobos na África do Sul deixou de ser encarada como um problema exclusivamente interno e passou a constituir uma preocupação diplomática...   ",
+      "url": "https://correiokianda.info/tensao-e-diplomacia-quem-protege-os-africanos-quando-a-xenofobia-atravessa-fronteiras/",
+      "source": "Correio Kianda",
+      "_key": "baeb1ba3aab1fbc9",
+      "score": 7
+    },
+    {
+      "title": "Guiné Equatorial abre concurso internacional para sistema de água e saneamento",
+      "url": "https://forbesafricalusofona.com/guine-equatorial-abre-concurso-internacional-para-sistema-de-agua-e-saneamento/",
+      "source": "Forbes África",
+      "_key": "0c21e0ae65ff83aa",
+      "score": 6
+    },
+    {
+      "title": "Economia Inaugurado banco de sementes para produzir 35 mil toneladas/ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682717/inaugurado-banco-de-sementes-para-produzir-35-mil-toneladasano",
+      "source": "Jornal de Angola",
+      "_key": "89d34f6a7671e57a",
+      "score": 5
+    }
+  ]
 }
