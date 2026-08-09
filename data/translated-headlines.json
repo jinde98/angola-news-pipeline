@@ -1,16 +1,56 @@
 {
   "date": "2026-08-09",
-  "total_new": 7,
-  "total_filtered": 1,
+  "total_new": 13,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economia / agora Cuando cria I Unidade para apertar controlo aduaneiro ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682801/cuando-cria--i-unidade-para-apertar-controlo-aduaneiro",
+      "title": "Economia / agora Diferença no câmbio de 100 euros aumenta 52 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682806/diferen%C3%A7a-no-c%C3%A2mbio-de-100-euros-aumenta-52-por-cento",
       "source": "Jornal de Angola",
-      "_key": "03cbddd0637a4add",
-      "score": 8,
-      "title_cn": "宽多设立首个单位加强海关监管"
+      "_key": "d794936f4dc692a4",
+      "score": 9,
+      "title_cn": "100欧元汇率差价上涨52%"
+    },
+    {
+      "title": "Economia / agora AIPEX reforça promoção de projectos em Benguela ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682810/aipex-refor%C3%A7a-promo%C3%A7%C3%A3o--de-projectos-em-benguela",
+      "source": "Jornal de Angola",
+      "_key": "0ce3f6f232e28b72",
+      "score": 7,
+      "title_cn": "AIPEX加强本格拉项目推广"
+    },
+    {
+      "title": "Economia / agora Transforma Aqui impulsiona industrialização no Namibe ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682807/transforma-aqui-impulsiona-industrializa%C3%A7%C3%A3o-no-namibe",
+      "source": "Jornal de Angola",
+      "_key": "91ba992bf3c31ec8",
+      "score": 7,
+      "title_cn": "“Transforma Aqui”项目推动纳米贝工业化"
+    },
+    {
+      "title": "CNN Internacional expõe confrontos no Uíge e questiona fragilidade da democracia em Angola",
+      "url": "https://angola24horas.com/politica/item/34844-cnn-internacional-expoe-confrontos-no-uige-e-questiona-fragilidade-da-democracia-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "59954e620d5625a8",
+      "score": 6,
+      "title_cn": "CNN国际报道威热冲突，质疑安哥拉民主脆弱性"
+    },
+    {
+      "title": "Economia / agora Firmas deixam de operar por incapacidade técnica ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682808/firmas-deixam-de-operar-por-incapacidade-t%C3%A9cnica",
+      "source": "Jornal de Angola",
+      "_key": "b793b23d5fa256a4",
+      "score": 6,
+      "title_cn": "企业因技术能力不足停止运营"
+    },
+    {
+      "title": "Economia / agora Feira de Exposição Local prevê reunir 200 pequenos empresários ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682809/feira-de-exposi%C3%A7%C3%A3o-local-prev%C3%AA-reunir-200-pequenos-empres%C3%A1rios",
+      "source": "Jornal de Angola",
+      "_key": "56943e68e88694f8",
+      "score": 5,
+      "title_cn": "地方展会预计汇集200家小型企业"
     }
   ]
 }
