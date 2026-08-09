@@ -1,32 +1,128 @@
 {
-  "date": "2026-08-08",
-  "total_new": 10,
-  "total_filtered": 3,
+  "date": "2026-08-09",
+  "total_new": 47,
+  "total_filtered": 15,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola vai celebrar financiamento para construção do troço ferroviário Luena-Saurimo",
-      "url": "https://jornaloguardiao.com/2026/08/08/angola-vai-celebrar-financiamento-para-construcao-do-troco-ferroviario-luena-saurimo/",
-      "source": "Jornal O Guardião",
-      "_key": "a1e92126da66cd6a",
+      "title": "Angola avalia potencial petrolífero de novas zonasO Titular do Poder Executivo autorizou uma despesa de 4,35 milhões de dólares para a contratação de serviços de consultoria destinados a avaliar o potencial petrolífero das áreas livres e novas zonas de exploração do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682767/angola-avalia-potencial-petrol%C3%ADfero-de-novas-zonas",
+      "source": "Jornal de Angola",
+      "_key": "8205f5a649b2af37",
       "score": 9,
-      "title_cn": "安哥拉将签署卢埃纳-绍里木铁路段建设融资协议"
+      "title_cn": "安哥拉评估新区域石油潜力，授权435万美元咨询服务"
     },
     {
-      "title": " Angola vai celebrar financiamento para construção do troço ferroviário Luena-Saurimo ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f4a9ff3c5fec45",
-      "score": 9,
-      "title_cn": "安哥拉将签署卢埃纳-绍里木铁路段建设融资协议"
+      "title": "Autorizado acordo de financiamento para a linha férrea Luena-SaurimoO Presidente João Lourenço autorizou a assinatura de um acordo de financiamento entre o Estado angolano e o HSBC BankPlc, acima de mil milhões de euros, para o Projecto de Construção do troço Luena-Saurimo, do Caminho de Ferro de Benguela (CFB).",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682768/autorizado-acordo-de-financiamento-para-a-linha-f%C3%A9rrea-luena-saurimo",
+      "source": "Jornal de Angola",
+      "_key": "d25e703b34f33a98",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统批准卢埃纳-绍里木铁路融资协议"
     },
     {
-      "title": "Polícia Nacional reprime militantes e impede acto político de massa da UNITA no Uíge",
-      "url": "https://holdonangola.com/policia-nacional-reprime-militantes-e-impede-acto-politico-de-massa-da-unita-no-uige/",
+      "title": "Angola's inflation rate drops to single digits",
+      "url": "https://www.angop.ao/en/noticias/economia/taxa-de-inflacao-em-angola-cai-para-um-digito/",
+      "source": "ANGOP",
+      "_key": "97c2256d25561886",
+      "score": 7,
+      "title_cn": "安哥拉通胀率降至个位数"
+    },
+    {
+      "title": "Mau estado das estradas e falta de fiscalização preocupam especialistas em Angola",
+      "url": "https://correiokianda.info/mau-estado-das-estradas-e-falta-de-fiscalizacao-preocupam-especialistas-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "5de69ee561c97d9e",
+      "score": 7,
+      "title_cn": "安哥拉专家担忧道路状况恶劣及监管缺失"
+    },
+    {
+      "title": "Empreendedor pede a João Lourenço plano nacional para reduzir dependência de plataformas e infraestruturas estrangeiras",
+      "url": "https://holdonangola.com/empreendedor-pede-a-joao-lourenco-plano-nacional-para-reduzir-dependencia-de-plataformas-e-infraestruturas-estrangeiras/",
       "source": "Hold On Angola",
-      "_key": "3b764792b28c94d2",
+      "_key": "3e76dfa4e6fd142b",
+      "score": 7,
+      "title_cn": "企业家呼吁若昂·洛伦索（João Lourenço）制定国家计划，减少对外国平台和基础设施的依赖"
+    },
+    {
+      "title": "GGPEN presents solution to boost digitalization in the mining sector",
+      "url": "https://www.angop.ao/en/noticias/economia/ggpen-apresenta-solucao-para-impulsionar-digitalizacao-do-sector-mineiro/",
+      "source": "ANGOP",
+      "_key": "e800ff11093fc2eb",
+      "score": 6,
+      "title_cn": "GGPEN提出方案，助力矿业数字化转型"
+    },
+    {
+      "title": "Novo aeroporto de Luanda terá hotel operado pela Hilton em parceria com o Mangrove Group",
+      "url": "https://angola24horas.com/sociedade/item/34836-novo-aeroporto-de-luanda-tera-hotel-operado-pela-hilton-em-parceria-com-o-mangrove-group",
+      "source": "Angola 24 Horas",
+      "_key": "65a7d4671a2f1d27",
+      "score": 6,
+      "title_cn": "罗安达新机场将设希尔顿酒店，由希尔顿与红树林集团合作运营"
+    },
+    {
+      "title": "Angola intensifica via diplomática para recuperar fundos retidos na Suíça",
+      "url": "https://correiokianda.info/angola-intensifica-via-diplomatica-para-recuperar-fundos-retidos-na-suica/",
+      "source": "Correio Kianda",
+      "_key": "6cf702fccf0624c7",
+      "score": 6,
+      "title_cn": "安哥拉加强外交途径，追回瑞士被扣资金"
+    },
+    {
+      "title": "Economista vê recuperação da Unitel como sinal animador para mercado de capitais",
+      "url": "https://correiokianda.info/economista-ve-recuperacao-da-unitel-como-sinal-animador-para-mercado-de-capitais/",
+      "source": "Correio Kianda",
+      "_key": "efda7912067f712b",
+      "score": 6,
+      "title_cn": "经济学家：Unitel复苏是资本市场的积极信号"
+    },
+    {
+      "title": "Lei da Cibersegurança vai prevenir o país de futuros ataques cibernéticosA Lei da Cibersegurança, cuja aprovação na globalidade pela Assembleia Nacional está prevista para a próxima quarta-feira, vai prevenir o país de futuros ataques cibernéticos, avançou, em Luanda, o investigador angolano Gaspar Micolo, especialista em Direito da Protecção de Dados e Cibersegurança.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682774/lei-da-ciberseguran%C3%A7a-vai-prevenir-o-pa%C3%ADs-de-futuros-ataques-cibern%C3%A9ticos",
+      "source": "Jornal de Angola",
+      "_key": "4a2c74d050c25c41",
+      "score": 6,
+      "title_cn": "网络安全法将预防国家未来遭受网络攻击"
+    },
+    {
+      "title": "Adalberto Costa Júnior denuncia \"estado de guerra\" e adia comício da UNITA no Uíge",
+      "url": "https://angola24horas.com/politica/item/34840-adalberto-costa-junior-denuncia-estado-de-guerra-e-adia-comicio-da-unita-no-uige",
+      "source": "Angola 24 Horas",
+      "_key": "436a7d3fe9752818",
       "score": 5,
-      "title_cn": "安哥拉国家警察在威热省镇压安盟活动分子，阻止其大规模政治集会"
+      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）谴责“战争状态”，推迟威热省安盟集会"
+    },
+    {
+      "title": "Nova Lei da Saúde prevê atendimento de emergência para qualquer cidadão",
+      "url": "https://correiokianda.info/nova-lei-da-saude-preve-atendimento-de-emergencia-para-qualquer-cidadao/",
+      "source": "Correio Kianda",
+      "_key": "2125e1624172073c",
+      "score": 5,
+      "title_cn": "新卫生法规定所有公民均可获得紧急医疗服务"
+    },
+    {
+      "title": "Negócio proibido continua activo e leva ao encerramento de três casas de pesagem em Luanda",
+      "url": "https://correiokianda.info/negocio-proibido-continua-activo-e-leva-ao-encerramento-de-tres-casas-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "a5cd04fd5db95118",
+      "score": 5,
+      "title_cn": "罗安达三家称重站因非法经营被关闭"
+    },
+    {
+      "title": "Embaixadora de Angola em Espanha reforça cooperação económica…",
+      "url": "https://holdonangola.com/embaixadora-de-angola-em-espanha-reforca-cooperacao-economica-com-asturias/",
+      "source": "Hold On Angola",
+      "_key": "562f180402f3cca7",
+      "score": 5,
+      "title_cn": "安哥拉驻西班牙大使加强经济合作"
+    },
+    {
+      "title": "UNITA acusa polícia de atentado contra dirigente e...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/unita-acusa-policia-de-atentado-contra-dirigente-e-de-cercar-sede-do-partido-no-uige-73816.html",
+      "source": "Novo Jornal",
+      "_key": "40e79d33a7a94be1",
+      "score": 5,
+      "title_cn": "安盟指控警方袭击其领导人"
     }
   ]
 }
