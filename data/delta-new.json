@@ -1,368 +1,122 @@
 {
   "date": "2026-08-10",
-  "total_extracted": 1583,
-  "total_new": 60,
-  "total_existing": 1523,
+  "total_extracted": 1502,
+  "total_new": 19,
+  "total_existing": 1483,
   "articles": [
     {
-      "title": "Angolan students win 90 medals at Academic Olympiads",
-      "url": "https://www.angop.ao/en/noticias/educacao/estudantes-angolanos-conquistam-90-medalhas-nas-olimpiadas-academicas/",
+      "title": "Troops called to adopt exemplary behavior in and outside barracks",
+      "url": "https://www.angop.ao/en/noticias/politica/exercito-quer-militares-exemplares-dentro-e-fora-dos-quarteis/",
       "source": "ANGOP",
-      "_key": "d5bbfadb030bc642"
+      "_key": "5c188080c2165cba"
     },
     {
-      "title": "Vice-President of the Republic Travels to Spain for Private Visit",
-      "url": "https://www.angop.ao/en/noticias/politica/vice-presidente-da-republica-viaja-para-espanha-em-visita-privada/",
-      "source": "ANGOP",
-      "_key": "3186096f83050d43"
-    },
-    {
-      "title": "Five Cabo Ledo crash victims in critical condition",
-      "url": "https://www.angop.ao/en/noticias/sociedade/quatro-feridos-do-acidente-de-cabo-ledo-em-estado-grave/",
-      "source": "ANGOP",
-      "_key": "f34e73be52feb9f4"
-    },
-    {
-      "title": "Angola wins gold at Jiu-Jitsu World Championship",
-      "url": "https://www.angop.ao/en/noticias/desporto/angola-conquista-ouro-no-mundial-de-jiu-jitsu/",
-      "source": "ANGOP",
-      "_key": "c72af630fb06cfbc"
-    },
-    {
-      "title": "Bus rollover in Cabo Ledo leaves 30 injured",
-      "url": "https://www.angop.ao/en/noticias/sociedade/capotamento-de-autocarro-em-cabo-lebo-provoca-30-feridos/",
-      "source": "ANGOP",
-      "_key": "db7f453ba5885c05"
-    },
-    {
-      "title": "Angolan President authorizes $73 million investment in the Okavango Tourism Hub",
-      "url": "https://www.angop.ao/en/noticias/turismo/pr-autoriza-investimentos-de-73-milhoes-de-dolares-no-polo-turistico-do-okavango/",
-      "source": "ANGOP",
-      "_key": "96fad7c8726f3f0c"
-    },
-    {
-      "title": "2026 World Jiu-Jitsu Championship - Angola takes bronze",
-      "url": "https://www.angop.ao/en/noticias/desporto/angola-obtem-segundo-lugar-no-mundial-de-jiu-jitsu/",
-      "source": "ANGOP",
-      "_key": "108c5e554f3bf090"
-    },
-    {
-      "title": "viagem",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=260017",
-      "source": "ANGOP",
-      "_key": "10245aeb9daff3fd"
-    },
-    {
-      "title": "Benguela team dominates Nossa Senhora do Monte Cycling Grand Prix",
-      "url": "https://www.angop.ao/en/noticias/desporto/ciclismo-benguela-domina-prova-de-fundo-nossa-senhora-do-monte/",
-      "source": "ANGOP",
-      "_key": "98200ffc638fb205"
-    },
-    {
-      "title": "Cycling",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=11820",
-      "source": "ANGOP",
-      "_key": "27183401bd9bfbb8"
-    },
-    {
-      "title": "Sustentabilidade",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=110761",
-      "source": "ANGOP",
-      "_key": "1fc287faa5fdc33d"
-    },
-    {
-      "title": "Famílias",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=33611",
-      "source": "ANGOP",
-      "_key": "603b72227c9c9cbd"
-    },
-    {
-      "title": "Crescimento",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=32333",
-      "source": "ANGOP",
-      "_key": "53d866e1b3a4691f"
-    },
-    {
-      "title": "Maquis conceds first defeat in national handball championship",
-      "url": "https://www.angop.ao/en/noticias/desporto/maquis-perde-invencibilidade-no-nacional-de-andebol/",
-      "source": "ANGOP",
-      "_key": "12c81c127ee03233"
-    },
-    {
-      "title": "Motorsports: Francisco Maia, founding member of motorsports federation dies",
-      "url": "https://www.angop.ao/en/noticias/desporto/desporto-motorizado-morreu-francisco-maia-membro-fundador-da-fadm/",
-      "source": "ANGOP",
-      "_key": "c80b7d4f44858bb8"
-    },
-    {
-      "title": "'Luzes ao Palco' represents Angola at a theater festival in Portugal",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/luzes-ao-palco-representa-angola-em-festival-de-teatro-em-portugal/",
-      "source": "ANGOP",
-      "_key": "74bfcdd7e8c1a42e"
-    },
-    {
-      "title": "New talent promises to innovate Kizomba in Angola",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/novo-talento-promete-inovar-kizomba-em-angola/",
-      "source": "ANGOP",
-      "_key": "49cb43774c68c817"
-    },
-    {
-      "title": "João Lourenço aprova despesa de 4,35 milhões de dólares para consultoria no setor petrolífero",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34835-joao-lourenco-aprova-despesa-de-4-35-milhoes-de-dolares-para-consultoria-no-setor-petrolifero",
-      "source": "Angola 24 Horas",
-      "_key": "669694083aee200d"
-    },
-    {
-      "title": "Inflação em Angola abaixo dos 10% pela primeira vez desde 2015",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34834-inflacao-em-angola-abaixo-dos-10-pela-primeira-vez-desde-2015",
-      "source": "Angola 24 Horas",
-      "_key": "7d6b4bb332145a50"
-    },
-    {
-      "title": "Pólo de Desenvolvimento Turístico do Okavango vai custar 73 milhões de dólares",
-      "url": "https://correiokianda.info/polo-de-desenvolvimento-turistico-do-okavango-vai-custar-73-milhoes-de-dolares/",
+      "title": "Pólo Industrial da Catumbela será reabilitado através de contratação emergencial",
+      "url": "https://correiokianda.info/polo-industrial-da-catumbela-sera-reabilitado-atraves-de-contratacao-emergencial/",
       "source": "Correio Kianda",
-      "_key": "134c86c675048c89"
+      "_key": "c43b29c203efc04c"
     },
     {
-      "title": "ANIESA alerta consumidores para perigo associado a duas bebidas energéticas",
-      "url": "https://correiokianda.info/aniesa-alerta-consumidores-para-perigo-associado-a-duas-bebidas-energeticas/",
+      "title": "Sacerdote pede tolerância política no período que antecede as eleições",
+      "url": "https://correiokianda.info/sacerdote-pede-tolerancia-politica-no-periodo-que-antecede-as-eleicoes/",
       "source": "Correio Kianda",
-      "_key": "cfac6ac8cb519782"
+      "_key": "13cf935c40915dfc"
     },
     {
-      "title": "BNA vai ter moeda de 50 kwanzas com novo desenho",
-      "url": "https://correiokianda.info/bna-vai-ter-moeda-de-50-kwanzas-com-novo-desenho/",
+      "title": "Presidente da República autoriza nova contratação para responder às dificuldades de apetrechamento das escolas",
+      "url": "https://correiokianda.info/executivo-autoriza-nova-contratacao-para-responder-as-dificuldades-de-apetrechamento-das-escolas/",
       "source": "Correio Kianda",
-      "_key": "2a96d33492bf008f"
+      "_key": "26f54684ed54428c"
     },
     {
-      "title": "Armas de diferentes épocas contam história militar de Angola em feira nacional",
-      "url": "https://correiokianda.info/armas-de-diferentes-epocas-contam-historia-militar-de-angola-em-feira-nacional/",
+      "title": "        Reportagem2 horas atrás  Debaixo da pedonal, o risco que continua a matar em Luanda Peões ignoram passagens aéreas, atravessam entre veículos em movimento e aumentam o risco de atropelamentos na capital Todos os dias, centenas de peões atravessam as principais...   ",
+      "url": "https://correiokianda.info/debaixo-da-pedonal-o-risco-que-continua-a-matar-em-luanda/",
       "source": "Correio Kianda",
-      "_key": "06b0b9eb9fb10d45"
-    },
-    {
-      "title": "Cirurgias estéticas mal feitas deixam 20 pessoas com complicações em Luanda",
-      "url": "https://correiokianda.info/cirurgias-esteticas-mal-feitas-deixam-20-pessoas-com-complicacoes-em-luanda/",
-      "source": "Correio Kianda",
-      "_key": "15e610723e7fbf22"
-    },
-    {
-      "title": "“Há funcionários que continuam a ganhar dois salários do Estado”, denuncia analista",
-      "url": "https://correiokianda.info/ha-funcionarios-que-continuam-a-ganhar-dois-salarios-do-estado-denuncia-analista/",
-      "source": "Correio Kianda",
-      "_key": "cd6975c5ca8c06b8"
-    },
-    {
-      "title": "Sete dos 30 feridos de Cabo Ledo lutam pela vida no Hospital Pedalé",
-      "url": "https://correiokianda.info/sete-dos-30-feridos-de-cabo-ledo-lutam-pela-vida-no-hospital-pedale/",
-      "source": "Correio Kianda",
-      "_key": "4751494dc091637c"
-    },
-    {
-      "title": "Luanda tem diagnosticado mais de 500 casos de anemia falciforme.",
-      "url": "https://correiokianda.info/luanda-tem-diagnosticado-mais-de-500-casos-de-anemia-falciforme/",
-      "source": "Correio Kianda",
-      "_key": "ff16812bbec2fdbc"
-    },
-    {
-      "title": "Leão XIV pede ajuda humanitária urgente para civis no Sudão",
-      "url": "https://correiokianda.info/leao-xiv-pede-ajuda-humanitaria-urgente-para-civis-no-sudao/",
-      "source": "Correio Kianda",
-      "_key": "253d20264a637f6c"
-    },
-    {
-      "title": "Irão exige fim do bloqueio dos EUA para reabrir Estreito de Ormuz",
-      "url": "https://correiokianda.info/irao-exige-fim-do-bloqueio-dos-eua-para-reabrir-estreito-de-ormuz/",
-      "source": "Correio Kianda",
-      "_key": "4032c2f071cecef4"
-    },
-    {
-      "title": "ANCAF destaca profissionalização e inovação na nova era do Girabola",
-      "url": "https://correiokianda.info/ancaf-destaca-profissionalizacao-e-inovacao-na-nova-era-do-girabola/",
-      "source": "Correio Kianda",
-      "_key": "816430ad13750a7a"
-    },
-    {
-      "title": "Angola conquista medalha de ouro no Mundial de Jiu-Jitsu",
-      "url": "https://correiokianda.info/angola-conquista-medalha-de-ouro-no-mundial-de-jiu-jitsu/",
-      "source": "Correio Kianda",
-      "_key": "c76c88a02d8cb177"
-    },
-    {
-      "title": "        África18 minutos atrás  Surto de Ébola mata mais de 300 crianças na RDC Mais de 300 crianças morreram vítimas do surto de Ébola na República Democrática do Congo (RDC), onde a epidemia já ultrapassou os 4 mil casos e...   ",
-      "url": "https://correiokianda.info/surto-de-ebola-mata-mais-de-300-criancas-na-rdc/",
-      "source": "Correio Kianda",
-      "_key": "0846a3293eb4109e"
-    },
-    {
-      "title": "        África10 horas atrás  Drone ataca maior central de dessalinização do oeste da Líbia A central de dessalinização de Zawiya, considerada a maior do oeste da Líbia, foi atacada este domingo, 9, por um drone de origem desconhecida, provocando danos...   ",
-      "url": "https://correiokianda.info/drone-ataca-maior-central-de-dessalinizacao-do-oeste-da-libia/",
-      "source": "Correio Kianda",
-      "_key": "81c6f2047ec2efa8"
-    },
-    {
-      "title": "        África10 horas atrás  Ataque jihadista mata pelo menos 10 militares no centro do Mali Pelo menos 10 militares foram mortos este domingo num ataque contra um acampamento do exército maliano na cidade de San, região de Ségou, no centro do...   ",
-      "url": "https://correiokianda.info/ataque-jihadista-mata-pelo-menos-10-militares-no-centro-do-mali/",
-      "source": "Correio Kianda",
-      "_key": "f953e25e021b87ab"
+      "_key": "20cc1b4c74b13c64"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260810-1923-4767-8db4-8930bded0777&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260810-2109-57c7-a980-e902622bfd40&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "5ef9b531629ca9c6"
+      "_key": "704fccf1688fd19f"
     },
     {
-      "title": "Vagas da UAN caem 19%, menos 920 do que no ano lectivo anterior",
+      "title": "Mercado do Kikolo põe fim a prática de cobrança ilegal do \"carapau\"",
       "url": "",
       "source": "Expansão",
-      "_key": "t_4c3c063da96da4"
+      "_key": "t_a9b1f49d46877d"
     },
     {
-      "title": "Indústria transformadora continua a puxar pela produção nacional",
-      "url": "https://expansao.co.ao/economia/detalhe/industria-transformadora-continua-a-puxar-pela-producao-nacional-73826.html",
-      "source": "Expansão",
-      "_key": "6393258cbcc0dafd"
-    },
-    {
-      "title": "Segunda-feira, 10 de Agosto, 2026",
+      "title": "Receitas fiscais dos jogos crescem à custa das vítimas do azar",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_68a024cd2f2733"
+      "source": "Expansão",
+      "_key": "t_8b1776e8973296"
     },
     {
-      "title": "Pólo Turístico de Okavango vai contar com infra-estruturas integradasO Pólo de Desenvolvimento Turístico do Okavango, localizado na província do Cuando, vai contar em breve com infra-estruturas integradas para impulsionar a diversificação da economia, a criação de emprego e o desenvolvimento sustentável. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682838/p%C3%B3lo-tur%C3%ADstico-de-okavango-vai-contar-com-infra-estruturas-integradas",
-      "source": "Jornal de Angola",
-      "_key": "671130f1088630e5"
+      "title": "Unitel expõe vulnerabilidade digital e abre mercado aos seguros cibernéticos",
+      "url": "https://expansao.co.ao/empresas/detalhe/unitel-expoe-vulnerabilidade-digital-e-abre-mercado-aos-seguros-ciberneticos-73827.html",
+      "source": "Expansão",
+      "_key": "c282e25d54a6371d"
     },
     {
-      "title": "Destaque Assembleia Nacional aprecia nomes propostos pela UNITA para comissões eleitoraisO Parlamento reúne, esta segunda-feira, as Comissões de Trabalho Especializadas para discutir e votar os relatórios-pareceres conjuntos sobre os membros propostos pela UNITA para integrarem as Comissões Provinciais e Municipais Eleitorais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682837/assembleia-nacional-aprecia-nomes-propostos-pela-unita-para-comiss%C3%B5es-eleitorais",
-      "source": "Jornal de Angola",
-      "_key": "c99f59126c86b1ab"
+      "title": "Crédito fica mais barato com Luibor no nível mais baixo em 30 meses",
+      "url": "https://expansao.co.ao/economia/detalhe/credito-fica-mais-barato-com-luibor-no-nivel-mais-baixo-em-30-meses-73829.html",
+      "source": "Expansão",
+      "_key": "f80631a6e956d5ca"
     },
     {
-      "title": "Destaque Embaixadora de Angola no Japão visita Museu da Bomba Atómica de NagasakiA embaixadora de Angola no Japão, Teodolinda Coelho, visitou, no sábado, o Museu da Bomba Atómica de Nagasaki, criado em memória das vítimas e sobreviventes do bombardeamento atómico ocorrido em 1945, durante a Segunda Guerra Mundial.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682836/embaixadora-de-angola-no-jap%C3%A3o-visita-museu-da-bomba-at%C3%B3mica-de-nagasaki",
-      "source": "Jornal de Angola",
-      "_key": "e4c45e8d60063eb8"
+      "title": "Bolsa de Valores de Moçambique regista resultado líquido de 477 mil euros em 2025",
+      "url": "https://forbesafricalusofona.com/bolsa-de-valores-de-mocambique-regista-resultado-liquido-de-477-mil-euros-em-2025/",
+      "source": "Forbes África",
+      "_key": "64e66bc12ca06ebc"
     },
     {
-      "title": "Capotamento de autocarro faz 30 feridos em Cabo LedoUm capotamento de autocarro nas imediações de Cabo Ledo, na província do Icolo e Bengo, deixou 30 pessoas feridas nas primeiras horas de domingo. ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682853/capotamento-de-autocarro-faz-30-feridos-em-cabo-ledo",
-      "source": "Jornal de Angola",
-      "_key": "1077549e0760a126"
-    },
-    {
-      "title": "Exército quer efectivos como “espelho social” O comandante-adjunto para a Educação Patriótica do Exército, tenente-general Mário Gustavo da Silva, apelou, no Huambo, aos militares para que sejam exemplos de civismo, patriotismo, disciplina e responsabilidade, tanto dentro quanto fora dos quartéis.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682839/ex%C3%A9rcito-quer-efectivos-como-%E2%80%9Cespelho-social%E2%80%9D-",
-      "source": "Jornal de Angola",
-      "_key": "e397eec30001ab3f"
-    },
-    {
-      "title": "Economia Volume negociado em bolsa supera total de 2025 em 1,4% ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682870/volume-negociado-em-bolsa--supera-total-de-2025-em-14%25",
-      "source": "Jornal de Angola",
-      "_key": "d8ef1de19ca0a82e"
-    },
-    {
-      "title": "Política Semana do Desenvolvimento Local coloca municípios no centro da agenda nacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682843/semana-do-desenvolvimento-local-coloca--munic%C3%ADpios-no-centro-da-agenda-nacional",
-      "source": "Jornal de Angola",
-      "_key": "75a36b7d5e5223c7"
-    },
-    {
-      "title": "Política Constitucional quer articulação entre Justiça e Poder Legislativo ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682842/constitucional-quer-articula%C3%A7%C3%A3o-entre-justi%C3%A7a-e-poder-legislativo",
-      "source": "Jornal de Angola",
-      "_key": "cf9bd265e025a49b"
-    },
-    {
-      "title": "Política CIVICOP considera crucial parentes de primeiro grau ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682840/civicop-considera-crucial--parentes-de-primeiro-grau-",
-      "source": "Jornal de Angola",
-      "_key": "759dcd80087b411c"
-    },
-    {
-      "title": "21:06 / 9 ago. 2026 Angola conquista segundo lugar por equipas no Campeonato do Mundo de Ju-Jitsu ",
-      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/682835/angola-conquista-segundo-lugar-por-equipas-no-campeonato-do-mundo-de-ju-jitsu",
-      "source": "Jornal de Angola",
-      "_key": "160344eedd6836c9"
-    },
-    {
-      "title": "16:29 / 9 ago. 2026 Acidente em Cabo Ledo: Sete dos 30 feridos estão em estado crítico ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682834/acidente-em-cabo-ledo:-sete-dos-30-feridos-est%C3%A3o-em-estado-cr%C3%ADtico",
-      "source": "Jornal de Angola",
-      "_key": "6901ce280b8562ea"
-    },
-    {
-      "title": "Um pilar essencial da boa governação ",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/682841/um-pilar-essencial--da-boa-governa%C3%A7%C3%A3o-",
-      "source": "Jornal de Angola",
-      "_key": "f50ddba264521396"
-    },
-    {
-      "title": "Economia / agora Fazenda reforça aposta na produção de carne ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682869/fazenda-refor%C3%A7a-aposta-na-produ%C3%A7%C3%A3o-de-carne",
-      "source": "Jornal de Angola",
-      "_key": "cf4b68a9999b0d55"
-    },
-    {
-      "title": "Economia / agora Gambos dá início à época venatória com 40 licenças ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682868/gambos-d%C3%A1-in%C3%ADcio-%C3%A0-%C3%A9poca--venat%C3%B3ria-com-40-licen%C3%A7as",
-      "source": "Jornal de Angola",
-      "_key": "44bbfb3bc2c61956"
-    },
-    {
-      "title": "Economia / agora Agronegócio une Angola e Brasil na aposta pela diversificação ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682867/agroneg%C3%B3cio-une-angola-e-brasil-na-aposta-pela-diversifica%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "c0f03ad3511e6c64"
-    },
-    {
-      "title": "Economia / agora Huíla pede mais voos para fomentar turismo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682866/hu%C3%ADla-pede-mais-voos-para-fomentar-turismo",
-      "source": "Jornal de Angola",
-      "_key": "f8d7085b4fd08b5e"
-    },
-    {
-      "title": "Confrontos com a polícia no Uíge fizeram 31 feridos...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/confrontos-com-a-policia-no-uige-fizeram-31-feridos-dez-graves-73822.html",
+      "title": "Oposição solidária com UNITA após incidentes no Uíge...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/oposicao-solidaria-com-unita-apos-incidentes-no-uige---direccao-do-galo-negro-espera-resposta-a-nota-enviada-ao-pr-mpla-diz-que-pn-foi-desrespeitada-73836.html",
       "source": "Novo Jornal",
-      "_key": "04a1a83b61097d1c"
+      "_key": "4e3065e146d26b21"
     },
     {
-      "title": "Luanda regista quatro mortos e 25 feridos em 16 acidentes...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-regista-quatro-mortos-e-25-feridos-em-16-acidentes-no-fim-de-semana-73824.html",
+      "title": "Clima: Água do mar começa a \"ferver\" já como efeito...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/clima-agua-do-mar-comeca-a-ferver-ja-como-efeito-do-super-el-nino-73838.html",
       "source": "Novo Jornal",
-      "_key": "834df1321a785333"
+      "_key": "1bcd1a93ed56d10b"
     },
     {
-      "title": "Uma Aliança para o Desenvolvimento",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/uma-alianca-para-o-desenvolvimento-73823.html",
+      "title": "SIC detém três marinheiros no Namibe por alegado homicídio...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-detem-tres-marinheiros-no-namibe-por-alegado-homicidio-apos-abandono-do-corpo-de-colega-a-beira-mar-73835.html",
       "source": "Novo Jornal",
-      "_key": "99e673c1f772ad4c"
+      "_key": "0edf81bdfae92d49"
     },
     {
-      "title": "PONTO & CONTRAPONTO: FUGA DE JOVENS AFRICANOS PARA A EUROPA. Triste sina dos filhos de África ou falhaço dos governos africanos?",
-      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=73818",
+      "title": "CSMJ toma medidas disciplinares contra sete juízes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/csmj-toma-medidas-disciplinares-contra-sete-juizes-por-violacao-grave-dos-deveres-profissionais-73833.html",
       "source": "Novo Jornal",
-      "_key": "ffc1357d9cae0f08"
+      "_key": "f8f759b1fa36c122"
     },
     {
-      "title": "ROCK MARGINAL: ONDE A ATITUDE ENCONTRA O SOM.  ",
-      "url": "https://marginal.co.ao/programas/rock-marginal?ep=73821",
+      "title": "Médio Oriente: Israel choca de frente com Trump em...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-israel-choca-de-frente-com-trump-em-gaza-um-acidente-preparado-para-matar-os-planos-que-deveriam-acabar-com-a-guerra-no-golfo-persico-73830.html",
       "source": "Novo Jornal",
-      "_key": "8244773e4f445127"
+      "_key": "fc8dc881fa16aafc"
     },
     {
-      "title": "DOMINGO NA MARGINAL: A TUA COMPANHIA CERTA.  ",
-      "url": "https://marginal.co.ao/programas/domingo-na-marginal?ep=73820",
+      "title": "CONVERSAS À SOMBRA DA MULEMBA.  ",
+      "url": "https://marginal.co.ao/programas/conversas-a-sombra-da-mulemba-na-marginal?ep=73834",
       "source": "Novo Jornal",
-      "_key": "4c29721dddcac32e"
+      "_key": "904f7627b0d0d4e0"
+    },
+    {
+      "title": "Angola limpa mais 55 áreas de minas terrestres em quatro meses",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angola-limpa-mais-55-areas-de-minas-terrestres-em-quatro-meses-73825.html",
+      "source": "Novo Jornal",
+      "_key": "4e5a468cdebbb650"
+    },
+    {
+      "title": "Governo delega gestão de unidade hoteleira do AIAAN ao grupo...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-delega-gestao-de-unidade-hoteleira-do-aiaan-ao-grupo-internacional-hilton",
+      "source": "Valor Económico",
+      "_key": "9fb781df2ccb5059"
     }
   ]
 }
