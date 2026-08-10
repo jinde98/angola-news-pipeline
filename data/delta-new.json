@@ -1,242 +1,128 @@
 {
   "date": "2026-08-10",
-  "total_extracted": 1508,
-  "total_new": 39,
-  "total_existing": 1469,
+  "total_extracted": 1506,
+  "total_new": 20,
+  "total_existing": 1486,
   "articles": [
     {
-      "title": "Health minister works in Moxico Leste Province",
-      "url": "https://www.angop.ao/en/noticias/saude/ministra-da-saude-trabalha-no-moxico-leste/",
+      "title": "Expo-Cunene 2026 turnover amounts to 800 million kwanzas",
+      "url": "https://www.angop.ao/en/noticias/economia/expo-cunene-2026-volume-de-negocio-cifra-se-em-800-milhoes-de-kwanzas/",
       "source": "ANGOP",
-      "_key": "70e4daf6b5ccce6b"
+      "_key": "80aef7d051800681"
     },
     {
-      "title": "Angola participates in ceremony commemorating the bombing of Nagasaki",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-participa-na-cerimonia-alusiva-ao-bombardeamento-de-nagasaki/",
-      "source": "ANGOP",
-      "_key": "efc6d6da412ab690"
-    },
-    {
-      "title": "Angola attends colloquium on Fidel Castro's legacy",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-presente-no-coloquio-sobre-legado-de-fidel-castro/",
-      "source": "ANGOP",
-      "_key": "3c9dbdad9b55421b"
-    },
-    {
-      "title": "Visita de Trabalho",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=36676",
-      "source": "ANGOP",
-      "_key": "c5131d8f43bf1332"
-    },
-    {
-      "title": "Pork project animates Huila’s productive sector",
-      "url": "https://www.angop.ao/en/noticias/economia/investimento-preve-produzir-1-7-milhao-de-quilogramas-de-carne-suina/",
-      "source": "ANGOP",
-      "_key": "fdefaf5f91e954b7"
-    },
-    {
-      "title": "1º de Agosto wins 5th edition of the Friendship Cup",
-      "url": "https://www.angop.ao/en/noticias/desporto/1xo-de-agosto-conquista-5xa-edicao-da-taca-amizade/",
-      "source": "ANGOP",
-      "_key": "a5014d1a6f10c413"
-    },
-    {
-      "title": "Torneio",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=253954",
-      "source": "ANGOP",
-      "_key": "a9b13da7cc16456e"
-    },
-    {
-      "title": "Air Algérie launches direct flights to Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/aiaan-recebe-voo-inaugural-da-air-algeire-e-fortalece-integracao-africana/",
-      "source": "ANGOP",
-      "_key": "cdf59bb18c0157d9"
-    },
-    {
-      "title": "France reaffirms cultural cooperation with Angola",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/franca-reafirma-cooperacao-cultural-com-angola/",
-      "source": "ANGOP",
-      "_key": "e52fc4251c9f358b"
-    },
-    {
-      "title": "Raízes project promotes gastronomic culture of Cuvango region",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/projecto-raizes-valoriza-cultura-do-cuvango-atraves-da-gastronomia/",
-      "source": "ANGOP",
-      "_key": "94ad540bef83aa0f"
-    },
-    {
-      "title": "Caso Higino Carneiro coloca o MPLA perante um teste de transparência e independência judicial",
-      "url": "https://angola24horas.com/component/k2/item/34854-caso-higino-carneiro-coloca-o-mpla-perante-um-teste-de-transparencia-e-independencia-judicial",
-      "source": "Angola 24 Horas",
-      "_key": "188823efd22be2b8"
-    },
-    {
-      "title": "Higino Carneiro chamado ao Tribunal Supremo em processo por alegado peculato",
-      "url": "https://angola24horas.com/politica/item/34852-higino-carneiro-chamado-ao-tribunal-supremo-em-processo-por-alegado-peculato",
-      "source": "Angola 24 Horas",
-      "_key": "08fb7337c34ffe59"
-    },
-    {
-      "title": "“Luta de titãs” no MPLA expõe crise interna e pode testar limites da sucessão em Angola",
-      "url": "https://angola24horas.com/politica/item/34851-luta-de-titas-no-mpla-expoe-crise-interna-e-pode-testar-limites-da-sucessao-em-angola",
-      "source": "Angola 24 Horas",
-      "_key": "94c5f21a57583d44"
-    },
-    {
-      "title": "PRA JA solidariza-se com a UNITA e critica atuação da polícia no Uíge",
-      "url": "https://angola24horas.com/politica/item/34848-pra-ja-solidariza-se-com-a-unita-e-critica-atuacao-da-policia-no-uige",
-      "source": "Angola 24 Horas",
-      "_key": "f1a78e60b46d7d73"
-    },
-    {
-      "title": "PADDA–AP apela ao MPLA e UNITA para travarem “rivalidades” entre militantes",
-      "url": "https://correiokianda.info/padda-ap-apela-ao-mpla-e-unita-para-travarem-rivalidades-entre-militantes/",
+      "title": "Falta de combustível ameaça fornecimento de água e energia no Cuvango",
+      "url": "https://correiokianda.info/falta-de-combustivel-ameaca-fornecimento-de-agua-e-energia-no-cuvango/",
       "source": "Correio Kianda",
-      "_key": "5a22673187635098"
+      "_key": "65df144c903fc308"
     },
     {
-      "title": "Executivo quer descobrir se derivados de frango proibidos são nacionais ou importados",
-      "url": "https://correiokianda.info/executivo-quer-descobrir-se-derivados-de-frango-proibidos-sao-nacionais-ou-importados/",
+      "title": "        Análise57 minutos atrás  A falsificação documental no processo de candidatura de Higino Carneiro e as consequências jurídico-políticas  O presente artigo analisa, sob uma perspectiva jurídico-dogmática, as consequências da comprovação de falsificação documental em sede de contencioso eleitoral interno, tomando como paradigma a rejeição...   ",
+      "url": "https://correiokianda.info/a-falsificacao-documental-no-processo-de-candidatura-de-higino-carneiro-e-as-consequencias-juridico-politicas/",
       "source": "Correio Kianda",
-      "_key": "2a5eb64622fd30a5"
+      "_key": "0fb1db95ec4cb4e8"
     },
     {
-      "title": "Surto de Mpox leva Ministra da Saúde a avaliar situação no Moxico Leste",
-      "url": "https://correiokianda.info/surto-de-mpox-leva-ministra-da-saude-a-avaliar-situacao-no-moxico-leste/",
+      "title": "        África2 horas atrás  Novo partido de Diomaye Faye amplia estruturas e procura novos militantes no Senegal O novo partido do Presidente senegalês, Bassirou Diomaye Faye, iniciou uma campanha de massificação e implantação das suas estruturas em todo o país, com o objectivo...   ",
+      "url": "https://correiokianda.info/novo-partido-de-diomaye-faye-amplia-estruturas-e-procura-novos-militantes-no-senegal/",
       "source": "Correio Kianda",
-      "_key": "b03c8d5bb0a93c72"
-    },
-    {
-      "title": "Colisão frontal entre duas viaturas causa dois mortos no Dande",
-      "url": "https://correiokianda.info/colisao-frontal-entre-duas-viaturas-causa-dois-mortos-no-dande/",
-      "source": "Correio Kianda",
-      "_key": "bf61596be676a9ca"
-    },
-    {
-      "title": "Reparação da ponte do Luconha condiciona circulação entre Luena e Chiume",
-      "url": "https://correiokianda.info/reparacao-da-ponte-do-luconha-condiciona-circulacao-entre-luena-e-chiume/",
-      "source": "Correio Kianda",
-      "_key": "2b56d92913a4ef9c"
-    },
-    {
-      "title": "Caminho-de-Ferro de Benguela: Presidente da República autoriza financiamento de 800 milhões de euros para o troço Luena-Saurimo",
-      "url": "https://diariodosnegocios.com/caminho-de-ferro-de-benguela-presidente-da-republica-autoriza-financiamento-de-800-milhoes-de-euros-para-o-troco-luena-saurimo/",
-      "source": "Diário dos Negócios",
-      "_key": "2a23ee58ada08739"
-    },
-    {
-      "title": "Executivo autoriza investimento de 73 milhões de dólares em infraestruturas turísticas no Okavango",
-      "url": "https://diariodosnegocios.com/executivo-autoriza-investimento-de-73-milhoes-de-dolares-em-infraestruturas-turisticas-no-okavango/",
-      "source": "Diário dos Negócios",
-      "_key": "50f5b5327d30cc78"
-    },
-    {
-      "title": "Parceria Mangrove-Hilton assume gestão hoteleira do Aeroporto Dr. António Agostinho Neto",
-      "url": "https://diariodosnegocios.com/parceria-mangrove-hilton-assume-gestao-hoteleira-do-aeroporto-dr-antonio-agostinho-neto/",
-      "source": "Diário dos Negócios",
-      "_key": "efc22c3d7bc8e1e1"
-    },
-    {
-      "title": "Donald Trump assina decreto para acabar com a cidadania por nascimento nos EUA",
-      "url": "https://diariodosnegocios.com/donald-trump-assina-decreto-para-acabar-com-a-cidadania-por-nascimento-nos-eua/",
-      "source": "Diário dos Negócios",
-      "_key": "945f449d3fda715d"
-    },
-    {
-      "title": " Caminho-de-Ferro de Benguela: Presidente da República autoriza financiamento de 800 milhões de euros para o troço Luena-Saurimo ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_cd66394db63bca"
-    },
-    {
-      "title": " Executivo autoriza investimento de 73 milhões de dólares em infraestruturas turísticas no Okavango ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_42d7adeac12d45"
-    },
-    {
-      "title": " Parceria Mangrove-Hilton assume gestão hoteleira do Aeroporto Dr. António Agostinho Neto ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_d73d113c894c42"
-    },
-    {
-      "title": " Donald Trump assina decreto para acabar com a cidadania por nascimento nos EUA ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_3b75ee6c00bedb"
+      "_key": "f96c6294ee091b95"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260810-2310-5207-a58d-6729b831a4b6&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260811-0059-52eb-800b-12c356112642&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "5495e2bf24b67c93"
+      "_key": "76d0adc49e0d2024"
     },
     {
-      "title": "FT Africa Summit 2026 debate como o continente pode transformar a nova ordem global",
-      "url": "https://forbesafricalusofona.com/ft-africa-summit-2026-debate-como-o-continente-pode-transformar-a-nova-ordem-global/",
+      "title": "Pugilista moçambicano lamenta falta de financiamento",
+      "url": "https://forbesafricalusofona.com/pugilista-mocambicano-lamenta-falta-de-financiamento/",
       "source": "Forbes África",
-      "_key": "358cfa3d506d1846"
+      "_key": "40f98a82a8ecefed"
     },
     {
-      "title": "Milhões de crianças africanas continuam sem água potável; em Angola, estimativa aponta para cerca de 7 milhões",
-      "url": "https://jornaloguardiao.com/2026/08/10/milhoes-de-criancas-africanas-continuam-sem-agua-potavel-em-angola-estimativa-aponta-para-cerca-de-7-milhoes/",
+      "title": "Confrontos com a polícia no Uíge fizeram 31 feridos, dez graves — UNITA",
+      "url": "https://jornaloguardiao.com/2026/08/10/confrontos-com-a-policia-no-uige-fizeram-31-feridos-dez-graves-unita/",
       "source": "Jornal O Guardião",
-      "_key": "f2ee42023c1dd384"
+      "_key": "f81cbb8947e5108d"
     },
     {
-      "title": "Pentágono pressiona indústria de Defesa dos EUA a acelerar produção perante escassez de munições",
-      "url": "https://jornaloguardiao.com/2026/08/10/pentagono-pressiona-industria-de-defesa-dos-eua-a-acelerar-producao-perante-escassez-de-municoes/",
+      "title": "Capotamento de autocarro na EN-100 deixa 30 feridos em Cabo Ledo",
+      "url": "https://jornaloguardiao.com/2026/08/10/capotamento-de-autocarro-na-en-100-deixa-30-feridos-em-cabo-ledo/",
       "source": "Jornal O Guardião",
-      "_key": "826e6c773adcbb17"
+      "_key": "8a4da8062f93bdf3"
     },
     {
-      "title": " Milhões de crianças africanas continuam sem água potável; em Angola, estimativa aponta para cerca de 7 milhões ",
+      "title": "Francisco Teixeira acusa MPLA de intolerância política durante acontecimentos no Uíge",
+      "url": "https://jornaloguardiao.com/2026/08/10/francisco-teixeira-acusa-mpla-de-intolerancia-politica-durante-acontecimentos-no-uige/",
+      "source": "Jornal O Guardião",
+      "_key": "0cabf0c442f85d0f"
+    },
+    {
+      "title": "Ébola: Subiu para 1.887 número de mortos na RDCongo",
+      "url": "https://jornaloguardiao.com/2026/08/10/ebola-subiu-para-1-887-numero-de-mortos-na-rdcongo/",
+      "source": "Jornal O Guardião",
+      "_key": "f571dc943085bfb1"
+    },
+    {
+      "title": "Médio Oriente: Trump disposto a deixar pressão económica abalar o Irão",
+      "url": "https://jornaloguardiao.com/2026/08/10/medio-oriente-trump-disposto-a-deixar-pressao-economica-abalar-o-irao/",
+      "source": "Jornal O Guardião",
+      "_key": "3bd87d6064ee371f"
+    },
+    {
+      "title": " Confrontos com a polícia no Uíge fizeram 31 feridos, dez graves — UNITA ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_6c2aa32661de72"
+      "_key": "t_a1a000176cd63e"
     },
     {
-      "title": " Pentágono pressiona indústria de Defesa dos EUA a acelerar produção perante escassez de munições ",
+      "title": " Capotamento de autocarro na EN-100 deixa 30 feridos em Cabo Ledo ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_1992c441a3769f"
+      "_key": "t_212f9336d7bcf7"
     },
     {
-      "title": "Assembleia Nacional encerra 4ª Sessão Legislativa no...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/assembleia-nacional-encerra-4-sessao-legislativa-no-dia-14-de-agosto-73837.html",
+      "title": " Francisco Teixeira acusa MPLA de intolerância política durante acontecimentos no Uíge ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_c5175c08ae9d01"
+    },
+    {
+      "title": " Ébola: Subiu para 1.887 número de mortos na RDCongo ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_310267cd907fc2"
+    },
+    {
+      "title": " Médio Oriente: Trump disposto a deixar pressão económica abalar o Irão ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_74c157ded97eec"
+    },
+    {
+      "title": "article",
+      "url": "https://jornaloguardiao.com/2026/08/10/123206/",
+      "source": "Jornal O Guardião",
+      "_key": "af530a56f2c3afe9"
+    },
+    {
+      "title": "LUANDA DOWNTOWN: INDÚSTRIA NACIONAL. Como é que o sector industrial pode ajudar no desenvolvimento económico do país, uma vez que 60% da matéria prima é de importação.",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=73844",
       "source": "Novo Jornal",
-      "_key": "1ff9bdef8ce6f559"
+      "_key": "ae973a88385bfeda"
     },
     {
-      "title": "Processo-crime contra Higino Carneiro em marcha &ndash...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/processo-crime-contra-higino-carneiro-em-marcha-pgr-notifica-hc-para-a-primeira-audiencia-de-instrucao-preparatoria-no-supremo-73840.html",
-      "source": "Novo Jornal",
-      "_key": "fa1ce3636419dae0"
-    },
-    {
-      "title": "Talatona anuncia exames para Academias Militares até...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/talatona-anuncia-exames-para-academias-militares-ate-12-agosto-no-kilamba-com-transporte-gratuito-73839.html",
-      "source": "Novo Jornal",
-      "_key": "5662423a151358b8"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: EM 2025. Subsídios à comunicação social pública aumentam 14,5% para 39,2 mil milhões Kz.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=73842",
-      "source": "Novo Jornal",
-      "_key": "0e0d0866050f5ad3"
-    },
-    {
-      "title": "Detidos no Luvo dois falsos agentes do SIC suspeitos de extorquir comerciantes",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidos-no-luvo-dois-falsos-agentes-do-sic-suspeitos-de-extorquir-comerciantes-73843.html",
-      "source": "Novo Jornal",
-      "_key": "c14f0500f7c61b64"
-    },
-    {
-      "title": "TCUL no 'vermelho' e a perder passageiros, mas contratou mais...",
-      "url": "https://valoreconomico.co.ao/artigo/tcul-no-vermelho-e-a-perder-passageiros-mas-contratou-mais-dezenas-de-trabalhadores",
+      "title": "PR autoriza 4,3 milhões de dólares para avaliar potencial petrolífero...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-4-3-milhoes-de-dolares-para-avaliar-potencial-petrolifero-do-pais",
       "source": "Valor Económico",
-      "_key": "e2c45c3d169e40d9"
+      "_key": "27c603e630a3627e"
+    },
+    {
+      "title": "Petróleos, aviação e minas obrigados a aderir a regime especial...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleos-aviacao-e-minas-obrigados-a-aderir-a-regime-especial-de-co-seguro",
+      "source": "Valor Económico",
+      "_key": "47c76169c6c8c80b"
     }
   ]
 }
