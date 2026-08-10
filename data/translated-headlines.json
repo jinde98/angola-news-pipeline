@@ -1,32 +1,120 @@
 {
-  "date": "2026-08-09",
-  "total_new": 9,
-  "total_filtered": 3,
+  "date": "2026-08-10",
+  "total_new": 60,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. Lei que pune a disseminação de informações falsas na Internet com até 10 anos de prisão, publicada em Diário Da República.",
-      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=73814",
-      "source": "Novo Jornal",
-      "_key": "f34a4b7dade9111d",
-      "score": 9,
-      "title_cn": "惩治网络假新闻法颁布，最高可判10年监禁"
-    },
-    {
-      "title": "Xuan Thien Group quer expandir investimentos em Angola nos sectores da agricultura e petróleo",
-      "url": "https://forbesafricalusofona.com/xuan-thien-group-quer-expandir-investimentos-em-angola-nos-sectores-da-agricultura-e-petroleo/",
-      "source": "Forbes África",
-      "_key": "b048ce69ae26c4a8",
+      "title": "João Lourenço aprova despesa de 4,35 milhões de dólares para consultoria no setor petrolífero",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34835-joao-lourenco-aprova-despesa-de-4-35-milhoes-de-dolares-para-consultoria-no-setor-petrolifero",
+      "source": "Angola 24 Horas",
+      "_key": "669694083aee200d",
       "score": 7,
-      "title_cn": "Xuan Thien Group拟扩大在安哥拉农业和石油领域投资"
+      "title_cn": "若昂·洛伦索（João Lourenço）总统批准435万美元用于石油领域咨询服务"
     },
     {
-      "title": "Política Angola e Espanha reforçam cooperação económica ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682833/angola-e-espanha-refor%C3%A7am-coopera%C3%A7%C3%A3o-econ%C3%B3mica",
-      "source": "Jornal de Angola",
-      "_key": "5f20eb222446bde1",
+      "title": "Inflação em Angola abaixo dos 10% pela primeira vez desde 2015",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34834-inflacao-em-angola-abaixo-dos-10-pela-primeira-vez-desde-2015",
+      "source": "Angola 24 Horas",
+      "_key": "7d6b4bb332145a50",
+      "score": 7,
+      "title_cn": "安哥拉通胀率自2015年以来首次降至10%以下"
+    },
+    {
+      "title": "Angolan President authorizes $73 million investment in the Okavango Tourism Hub",
+      "url": "https://www.angop.ao/en/noticias/turismo/pr-autoriza-investimentos-de-73-milhoes-de-dolares-no-polo-turistico-do-okavango/",
+      "source": "ANGOP",
+      "_key": "96fad7c8726f3f0c",
       "score": 6,
-      "title_cn": "安哥拉与西班牙加强经济合作"
+      "title_cn": "安哥拉总统授权向奥卡万戈旅游中心投资7300万美元"
+    },
+    {
+      "title": "Pólo de Desenvolvimento Turístico do Okavango vai custar 73 milhões de dólares",
+      "url": "https://correiokianda.info/polo-de-desenvolvimento-turistico-do-okavango-vai-custar-73-milhoes-de-dolares/",
+      "source": "Correio Kianda",
+      "_key": "134c86c675048c89",
+      "score": 6,
+      "title_cn": "奥卡万戈旅游发展中心项目将耗资7300万美元"
+    },
+    {
+      "title": "Indústria transformadora continua a puxar pela produção nacional",
+      "url": "https://expansao.co.ao/economia/detalhe/industria-transformadora-continua-a-puxar-pela-producao-nacional-73826.html",
+      "source": "Expansão",
+      "_key": "6393258cbcc0dafd",
+      "score": 6,
+      "title_cn": "制造业持续拉动安哥拉国内生产"
+    },
+    {
+      "title": "Pólo Turístico de Okavango vai contar com infra-estruturas integradasO Pólo de Desenvolvimento Turístico do Okavango, localizado na província do Cuando, vai contar em breve com infra-estruturas integradas para impulsionar a diversificação da economia, a criação de emprego e o desenvolvimento sustentável. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682838/p%C3%B3lo-tur%C3%ADstico-de-okavango-vai-contar-com-infra-estruturas-integradas",
+      "source": "Jornal de Angola",
+      "_key": "671130f1088630e5",
+      "score": 6,
+      "title_cn": "奥卡万戈旅游中心将配备综合基础设施"
+    },
+    {
+      "title": "Economia Volume negociado em bolsa supera total de 2025 em 1,4% ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682870/volume-negociado-em-bolsa--supera-total-de-2025-em-14%25",
+      "source": "Jornal de Angola",
+      "_key": "d8ef1de19ca0a82e",
+      "score": 6,
+      "title_cn": "股市交易量已超2025年目标总额1.4%"
+    },
+    {
+      "title": "Economia / agora Fazenda reforça aposta na produção de carne ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682869/fazenda-refor%C3%A7a-aposta-na-produ%C3%A7%C3%A3o-de-carne",
+      "source": "Jornal de Angola",
+      "_key": "cf4b68a9999b0d55",
+      "score": 6,
+      "title_cn": "财政部加大对肉类生产的投入"
+    },
+    {
+      "title": "Economia / agora Huíla pede mais voos para fomentar turismo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682866/hu%C3%ADla-pede-mais-voos-para-fomentar-turismo",
+      "source": "Jornal de Angola",
+      "_key": "f8d7085b4fd08b5e",
+      "score": 6,
+      "title_cn": "威拉省呼吁增加航班以促进旅游业发展"
+    },
+    {
+      "title": "Confrontos com a polícia no Uíge fizeram 31 feridos...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/confrontos-com-a-policia-no-uige-fizeram-31-feridos-dez-graves-73822.html",
+      "source": "Novo Jornal",
+      "_key": "04a1a83b61097d1c",
+      "score": 6,
+      "title_cn": "威热省与警方冲突致31人受伤"
+    },
+    {
+      "title": "Luanda regista quatro mortos e 25 feridos em 16 acidentes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-regista-quatro-mortos-e-25-feridos-em-16-acidentes-no-fim-de-semana-73824.html",
+      "source": "Novo Jornal",
+      "_key": "834df1321a785333",
+      "score": 6,
+      "title_cn": "罗安达16起事故致4死25伤"
+    },
+    {
+      "title": "BNA vai ter moeda de 50 kwanzas com novo desenho",
+      "url": "https://correiokianda.info/bna-vai-ter-moeda-de-50-kwanzas-com-novo-desenho/",
+      "source": "Correio Kianda",
+      "_key": "2a96d33492bf008f",
+      "score": 5,
+      "title_cn": "安哥拉国家银行将发行新版50宽扎纸币"
+    },
+    {
+      "title": "Irão exige fim do bloqueio dos EUA para reabrir Estreito de Ormuz",
+      "url": "https://correiokianda.info/irao-exige-fim-do-bloqueio-dos-eua-para-reabrir-estreito-de-ormuz/",
+      "source": "Correio Kianda",
+      "_key": "4032c2f071cecef4",
+      "score": 5,
+      "title_cn": "伊朗要求美国解除封锁以重开霍尔木兹海峡"
+    },
+    {
+      "title": "Economia / agora Agronegócio une Angola e Brasil na aposta pela diversificação ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682867/agroneg%C3%B3cio-une-angola-e-brasil-na-aposta-pela-diversifica%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "c0f03ad3511e6c64",
+      "score": 5,
+      "title_cn": "农业综合企业促安哥拉与巴西合作实现经济多元化"
     }
   ]
 }
