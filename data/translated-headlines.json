@@ -1,96 +1,40 @@
 {
   "date": "2026-08-11",
-  "total_new": 31,
-  "total_filtered": 11,
+  "total_new": 19,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "SGPS | A nova ferramenta para criar grupos económicos em Angola",
-      "url": "https://expansao.co.ao/empresas/detalhe/sgps-a-nova-ferramenta-para-criar-grupos-economicos-em-angola-73864.html",
-      "source": "Expansão",
-      "_key": "eb206ae0f9207490",
-      "score": 7,
-      "title_cn": "SGPS：安哥拉建立经济集团的新工具"
+      "title": "Destaque Sonangol e parceiros concluem com sucesso perfuração no poço Pacassa A Sonangol E&P e os parceiros do Grupo Empreiteiro do Bloco 3/05 concluíram, com sucesso e em segurança, as operações de perfuração do poço PAC416, localizado no compartimento sudoeste do campo Pacassa (PAC-SW), na Bacia do Baixo Congo.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682987/sonangol-e-parceiros-concluem-com-sucesso-perfura%C3%A7%C3%A3o-no-po%C3%A7o-pacassa-",
+      "source": "Jornal de Angola",
+      "_key": "f23bff00ad9057bc",
+      "score": 9,
+      "title_cn": "安哥拉国家石油公司（Sonangol E&P）及其伙伴成功完成帕卡萨（Pacassa）油井钻探"
     },
     {
-      "title": "PR aprova 135 mil milhões de kwanzas para a compra...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-aprova-135-mil-milhoes-de-kwanzas-para-a-compra-de-carteiras-escolares",
-      "source": "Valor Económico",
-      "_key": "954c9771e890b067",
-      "score": 7,
-      "title_cn": "总统批准1350亿宽扎用于采购..."
-    },
-    {
-      "title": "Angola prepara-se para fabricar drones",
-      "url": "https://valoreconomico.co.ao/artigo/angola-prepara-se-para-fabricar-drones",
-      "source": "Valor Económico",
-      "_key": "14a81608b0b59e4a",
-      "score": 7,
-      "title_cn": "安哥拉准备制造无人机"
-    },
-    {
-      "title": "SIC detém rede que aplicava “pena de morte” por decapitação a acusados de feiticismo",
-      "url": "https://angola24horas.com/sociedade/item/34858-sic-detem-rede-que-aplicava-pena-de-morte-por-decapitacao-a-acusados-de-feiticismo",
+      "title": "Polícia angolana diz ter usado meios não letais para dispersar militantes da UNITA no Uíge",
+      "url": "https://angola24horas.com/politica/item/34857-policia-angolana-diz-ter-usado-meios-nao-letais-para-dispersar-militantes-da-unita-no-uige",
       "source": "Angola 24 Horas",
-      "_key": "28e4bb6a6abe09c8",
+      "_key": "091add7a9c309a39",
       "score": 6,
-      "title_cn": "SIC逮捕一团伙，对被控巫术者实施斩首“死刑”"
+      "title_cn": "安哥拉警方称在威热（Uíge）使用非致命手段驱散安盟（UNITA）激进分子"
     },
     {
-      "title": "Unitel expõe vulnerabilidade digital e abre mercado aos seguros cibernéticos",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_1688af16bc3508",
-      "score": 6,
-      "title_cn": "Unitel暴露数字漏洞，为网络保险打开市场"
+      "title": "O Presidente da UNITA devia ordenar que os militantes atirassem pedras e paus à polícia?",
+      "url": "https://angola24horas.com/opiniao/item/34859-o-presidente-da-unita-devia-ordenar-que-os-militantes-atirassem-pedras-e-paus-a-policia",
+      "source": "Angola 24 Horas",
+      "_key": "1ee4bf1f25bf0c35",
+      "score": 5,
+      "title_cn": "安盟（UNITA）主席难道要命令激进分子向警方投掷石块和棍棒吗？"
     },
     {
-      "title": "Sociedade SIC desmantela rede criminosa ligada a homicídios por decapitação no Moxico-Leste ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682984/sic-desmantela-rede-criminosa-ligada-a-homic%C3%ADdios-por-decapita%C3%A7%C3%A3o-no-moxico-leste",
-      "source": "Jornal de Angola",
-      "_key": "ea7e047ad8bb67d9",
-      "score": 6,
-      "title_cn": "SIC捣毁东莫希科省斩首谋杀犯罪网络"
-    },
-    {
-      "title": "Moxico Leste: SIC desmantela quadrilha que decapitava...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-no-moxico-leste-desmantela-quadrilha-altamente-perigosa-que-confessou-decapitar-pessoas-para-enriquecer-73866.html",
+      "title": "INAC regista mais de 890 queixas de violência contra...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inac-regista-mais-de-890-queixas-de-violencia-contra-criancas-na-ultima-semana-73848.html",
       "source": "Novo Jornal",
-      "_key": "6f7a91c43b0cb506",
-      "score": 6,
-      "title_cn": "东莫希科省：SIC捣毁斩首团伙"
-    },
-    {
-      "title": "Police detain seven citizens for alleged felony",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sete-detidos-no-cuanza-norte-por-suspeita-de-homicidio/",
-      "source": "ANGOP",
-      "_key": "69daab60bd3096c1",
+      "_key": "0d42000106b5af82",
       "score": 5,
-      "title_cn": "警方拘捕七名涉嫌重罪公民"
-    },
-    {
-      "title": "Polícia promete esclarecer acontecimentos que marcaram acto da UNITA no Uíge",
-      "url": "https://correiokianda.info/policia-promete-esclarecer-acontecimentos-que-marcaram-acto-da-unita-no-uige/",
-      "source": "Correio Kianda",
-      "_key": "74fb5fa6d7e2e3d4",
-      "score": 5,
-      "title_cn": "警方承诺澄清安盟在威热省活动相关事件"
-    },
-    {
-      "title": "“Não podemos advogar qualquer tipo de violência e intolerância que ameace a pazˮ – Presidente da CEAST",
-      "url": "https://forbesafricalusofona.com/nao-podemos-advogar-qualquer-tipo-de-violencia-e-intolerancia-que-ameace-a-paz%cb%ae-presidente-da-ceast/",
-      "source": "Forbes África",
-      "_key": "65c395e0dcf2ebfc",
-      "score": 5,
-      "title_cn": "安哥拉天主教主教团主席：不能主张任何威胁和平的暴力"
-    },
-    {
-      "title": "Destaque Adão de Almeida defende reforço de políticas para promover emprego e inclusão da juventudeO presidente da Assembleia Nacional, Adão de Almeida, defendeu, esta terça-feira, em Luanda, a criação e o reforço de políticas públicas voltadas para a juventude, com foco na promoção do desenvolvimento nacional, redução da exclusão social e combate à criminalidade.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682985/ad%C3%A3o-de-almeida-defende-refor%C3%A7o-de-pol%C3%ADticas-para-promover-emprego-e-inclus%C3%A3o-da-juventude",
-      "source": "Jornal de Angola",
-      "_key": "d007e46029e5f0d9",
-      "score": 5,
-      "title_cn": "国民议会主席阿达奥·德·阿尔梅达在罗安达倡导加强政策，促进青年就业和融入"
+      "title_cn": "安哥拉国家消费者保护研究所（INAC）记录逾890起暴力投诉"
     }
   ]
 }
