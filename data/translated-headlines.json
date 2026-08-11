@@ -1,312 +1,128 @@
 {
   "date": "2026-08-11",
-  "total_new": 94,
-  "total_filtered": 38,
+  "total_new": 35,
+  "total_filtered": 15,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Deutsche Bank torna-se primeiro banco europeu a processar transações em yuan",
-      "url": "https://jornaloguardiao.com/2026/08/11/deutsche-bank-torna-se-primeiro-banco-europeu-a-processar-transacoes-em-yuan/",
-      "source": "Jornal O Guardião",
-      "_key": "f3a1a837702fe1b9",
+      "title": "Sonangol gasta 1,16 mil milhões de dólares em importação de produtos petrolíferos no 2.º trimestre",
+      "url": "https://diariodosnegocios.com/sonangol-gasta-116-mil-milhoes-de-dolares-em-importacao-de-produtos-petroliferos-no-2-o-trimestre/",
+      "source": "Diário dos Negócios",
+      "_key": "b19a6f41a61de3fb",
       "score": 9,
-      "title_cn": "德意志银行成首家处理人民币交易的欧洲银行"
+      "title_cn": "安哥拉国家石油公司第二季度进口石油产品花费11.6亿美元"
     },
     {
-      "title": " Deutsche Bank torna-se primeiro banco europeu a processar transações em yuan ",
+      "title": " Sonangol gasta 1,16 mil milhões de dólares em importação de produtos petrolíferos no 2.º trimestre ",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_9c2d128ace7adf",
+      "source": "Diário dos Negócios",
+      "_key": "t_799a3b9ea65e4f",
       "score": 9,
-      "title_cn": "德意志银行成首家处理人民币交易的欧洲银行"
+      "title_cn": "安哥拉国家石油公司第二季度进口石油产品花费11.6亿美元"
     },
     {
-      "title": "PR autoriza ANPG a abrir concurso para serviços de pesquisa em áreas de desenvolvimento",
-      "url": "https://correiokianda.info/pr-autoriza-anpg-a-abrir-concurso-para-servicos-de-pesquisa-em-areas-de-desenvolvimento/",
-      "source": "Correio Kianda",
-      "_key": "7d37e1dd8569cde7",
+      "title": "Minister announces photovoltaic parks in Lunda-Sul Province",
+      "url": "https://www.angop.ao/en/noticias/economia/lunda-sul-vai-ganhar-parques-fotovoltaicos/",
+      "source": "ANGOP",
+      "_key": "cacd2a9cf11443b2",
       "score": 8,
-      "title_cn": "总统授权安哥拉国家石油天然气局（ANPG）就开发区勘探服务招标"
+      "title_cn": "部长宣布将在南隆达省建设光伏电站"
     },
     {
-      "title": "Negociações entre privados e governo para gestão do novo aeroporto ainda sem fim à vista",
+      "title": "IGAPE vai ser transformado em SGPS e olhar para as empresas num modelo mais comercial\"O ProPriv entra na fase final com 9 activos por alienar até ao fim do ano, enquanto o Governo prepara a transformação do IGAPE numa SGPS - Sociedade Gestora de Participações Sociais, com uma gestão mais comercial e focada para resultados. Junta-se a revisão da lei do SEP e a aprovação dos contratos-programa",
+      "url": "https://expansao.co.ao/multimedia/detalhe/igape-vai-ser-transformado-em-sgps-e-olhar-para-as-empresas-num-modelo-mais-comercial-73860.html",
+      "source": "Expansão",
+      "_key": "bc1f9cac338c3354",
+      "score": 8,
+      "title_cn": "安哥拉资产管理所将转型为控股公司，采用更商业化模式"
+    },
+    {
+      "title": "Destaque Angola prepara produção de drones para vários sectores da economiaAngola prepara-se para começar a produzir drones destinados a apoiar actividades nos sectores da Agricultura, Mineração, Petróleo e Gás, investigação, entre outras Áreas da economia nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/682963/angola-prepara-produ%C3%A7%C3%A3o-de-drones-para-v%C3%A1rios-sectores-da-economia",
+      "source": "Jornal de Angola",
+      "_key": "f848b25fbf8e87cc",
+      "score": 8,
+      "title_cn": "安哥拉准备生产无人机，服务多个经济领域"
+    },
+    {
+      "title": "IA sai do laboratório chega à banca, aos petróleos, à saúde e a outros sectores",
+      "url": "https://expansao.co.ao/empresas/detalhe/ia-sai-do-laboratorio-chega-a-banca-aos-petroleos-a-saude-e-a-outros-sectores-73863.html",
+      "source": "Expansão",
+      "_key": "a616b5729ab83d1c",
+      "score": 7,
+      "title_cn": "人工智能走出实验室，应用于银行、石油、医疗等行业"
+    },
+    {
+      "title": "IGAPE vai ser transformado em SGPS e olhar para as empresas num modelo mais comercial\"",
       "url": "",
       "source": "Expansão",
-      "_key": "t_dcc377f6860474",
-      "score": 8,
-      "title_cn": "私营部门与政府就新机场管理谈判仍无定论"
-    },
-    {
-      "title": "Presidente da República revoga anteriores regras e aprova novo modelo para OGE 2027",
-      "url": "https://correiokianda.info/presidente-da-republica-revoga-anteriores-regras-e-aprova-novo-modelo-para-oge-2027/",
-      "source": "Correio Kianda",
-      "_key": "40d3bcbfd9d5d728",
+      "_key": "t_6295e6be0751fa",
       "score": 7,
-      "title_cn": "总统废止旧规，批准2027年国家总预算新模式"
+      "title_cn": "安哥拉资产管理所将转型为控股公司，采用更商业化模式"
     },
     {
-      "title": "João Lourenço Aprova Novas Regras para a Elaboração do Orçamento Geral do Estado 2027",
-      "url": "https://diariodosnegocios.com/joao-lourenco-aprova-novas-regras-para-a-elaboracao-do-orcamento-geral-do-estado-2027/",
-      "source": "Diário dos Negócios",
-      "_key": "033742ec4aac9e84",
+      "title": "\"IGAPE vai ser transformado em SGPS e olhar para as empresas num modelo mais comercial\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/igape-vai-ser-transformado-em-sgps-e-olhar-para-as-empresas-num-modelo-mais-comercial-73862.html",
+      "source": "Expansão",
+      "_key": "4947a03ac52c72bd",
       "score": 7,
-      "title_cn": "若昂·洛伦索（João Lourenço）批准2027年国家总预算编制新规"
+      "title_cn": "安哥拉资产管理所将转型为控股公司，采用更商业化模式"
     },
     {
-      "title": " João Lourenço Aprova Novas Regras para a Elaboração do Orçamento Geral do Estado 2027 ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_12470dfdddc58f",
-      "score": 7,
-      "title_cn": "若昂·洛伦索（João Lourenço）批准2027年国家总预算编制新规"
-    },
-    {
-      "title": "Angola aprova novo regime de taxas do mercado…",
-      "url": "https://holdonangola.com/angola-aprova-novo-regime-de-taxas-do-mercado-de-capitais/",
-      "source": "Hold On Angola",
-      "_key": "f172daea3717c89e",
-      "score": 7,
-      "title_cn": "安哥拉批准新市场收费制度"
-    },
-    {
-      "title": "AIA alerta para excesso de proteção a empresas, enquanto armadores pedem mais financiamento",
-      "url": "https://jornaloguardiao.com/2026/08/11/aia-alerta-para-excesso-de-protecao-a-empresas-enquanto-armadores-pedem-mais-financiamento/",
-      "source": "Jornal O Guardião",
-      "_key": "ddf93d42c4d967e9",
-      "score": 7,
-      "title_cn": "安哥拉工业协会（AIA）警告企业过度保护，船东呼吁更多融资"
-    },
-    {
-      "title": " AIA alerta para excesso de proteção a empresas, enquanto armadores pedem mais financiamento ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_fefb3d90e4f350",
-      "score": 7,
-      "title_cn": "安哥拉工业协会（AIA）警告企业过度保护，船东呼吁更多融资"
-    },
-    {
-      "title": "Mundo10/08/2026Cabo Verde recebe apoio do Governo da China",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/682899/cabo-verde-recebe-apoio-do-governo-da-china",
-      "source": "Jornal de Angola",
-      "_key": "281ce7f3415478f3",
-      "score": 7,
-      "title_cn": "佛得角获得中国政府支持"
-    },
-    {
-      "title": "President João Lourenço changes composition of INACOM Board of Directors",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-altera-composicao-do-ca-do-inacom/",
+      "title": "Angola foresees drone production line",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-prepara-producao-de-drones/",
       "source": "ANGOP",
-      "_key": "3d1e78ddf4ecb656",
+      "_key": "a9c975fc84064cc6",
       "score": 6,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）调整国家通信局（INACOM）董事会组成"
+      "title_cn": "安哥拉预计将建立无人机生产线"
     },
     {
-      "title": "PRODEL announces recovery of 13 generators at Chibodo Power Plant in Cabinda",
-      "url": "https://www.angop.ao/en/noticias/economia/prodel-anuncia-recuperacao-de-13-geradores-na-central-do-chibodo-em-cabinda/",
-      "source": "ANGOP",
-      "_key": "94d4f7dc79373306",
-      "score": 6,
-      "title_cn": "PRODEL宣布卡宾达（Cabinda）奇博多电厂13台发电机恢复运行"
-    },
-    {
-      "title": "Plano de Desenvolvimento",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=265667",
-      "source": "ANGOP",
-      "_key": "ae4ac816816c0058",
-      "score": 6,
-      "title_cn": "发展计划"
-    },
-    {
-      "title": "João Lourenço autoriza conclusão das infra-estruturas administrativas de Talatona e Camama",
-      "url": "https://correiokianda.info/joao-lourenco-autoriza-conclusao-das-infra-estruturas-administrativas-de-talatona-e-camama/",
-      "source": "Correio Kianda",
-      "_key": "8a803df1abdf17f4",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）授权完成塔拉托纳和卡马马行政基础设施建设"
-    },
-    {
-      "title": "Pessoas vulneráveis entre quatro vítimas de homicídios por decapitação no Luau",
-      "url": "https://correiokianda.info/pessoas-vulneraveis-entre-quatro-vitimas-de-homicidios-por-decapitacao-no-luau/",
-      "source": "Correio Kianda",
-      "_key": "a78e28a83953e9d1",
-      "score": 6,
-      "title_cn": "卢奥（Luau）发生四起斩首谋杀案，受害者包括弱势群体"
-    },
-    {
-      "title": "Medicamentos em Angola passam a ser alvo de controlo reforçado",
-      "url": "https://correiokianda.info/medicamentos-em-angola-passam-a-ser-alvo-de-controlo-reforcado/",
-      "source": "Correio Kianda",
-      "_key": "b5aaa2351912187c",
-      "score": 6,
-      "title_cn": "安哥拉药品将受到更严格的管制"
-    },
-    {
-      "title": "Reestruturação no INACOM: Presidente reconduz PCA e renova equipa de administradores",
-      "url": "https://diariodosnegocios.com/reestruturacao-no-inacom-presidente-reconduz-pca-e-renova-equipa-de-administradores/",
-      "source": "Diário dos Negócios",
-      "_key": "3147623ae949113c",
-      "score": 6,
-      "title_cn": "国家通信局（INACOM）重组：总统续任董事长并更新管理团队"
-    },
-    {
-      "title": " Reestruturação no INACOM: Presidente reconduz PCA e renova equipa de administradores ",
+      "title": "Open Banking | Integrar para crescer",
       "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_2a04a4df7aed4c",
+      "source": "Expansão",
+      "_key": "t_3b743deb186f07",
       "score": 6,
-      "title_cn": "INACOM的重组：总裁重新领导PCA并更新管理团队"
+      "title_cn": "开放银行：整合促增长"
     },
     {
-      "title": "Volume de negociações na BODIVA cresce 9,37% em Junho",
-      "url": "https://forbesafricalusofona.com/volume-de-negociacoes-na-bodiva-cresce-937-em-junho/",
-      "source": "Forbes África",
-      "_key": "3c6d5974f3026574",
-      "score": 6,
-      "title_cn": "安哥拉证券交易所（BODIVA）6月交易量增长9.37%"
-    },
-    {
-      "title": "Volume de negociações na BODIVA cresce 9,37% em…",
-      "url": "https://holdonangola.com/bodiva-mercado-de-capitais-cmc-divida-publica-economia-angolana/",
-      "source": "Hold On Angola",
-      "_key": "bb6bb757c69a74d0",
-      "score": 6,
-      "title_cn": "安哥拉证券交易所（BODIVA）交易量增长9.37%"
-    },
-    {
-      "title": "PR determina mudanças na direção do INACOM",
-      "url": "https://jornaloguardiao.com/2026/08/11/pr-determina-mudancas-na-direcao-do-inacom/",
-      "source": "Jornal O Guardião",
-      "_key": "501c7f26fb90dfcb",
-      "score": 6,
-      "title_cn": "总统决定调整国家通信局（INACOM）领导层"
-    },
-    {
-      "title": " PR determina mudanças na direção do INACOM ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d00af9797aa60c",
-      "score": 6,
-      "title_cn": "总统决定调整国家通信局（INACOM）领导层"
-    },
-    {
-      "title": "Destaque Chefe de Estado altera composição do Conselho de Administração do INACOMO Presidente da República, João Lourenço, determinou, por conveniência de serviço, mudanças na composição do Conselho de Administração do Instituto Angolano das Comunicações (INACOM).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682915/chefe-de-estado-altera-composi%C3%A7%C3%A3o-do-conselho-de-administra%C3%A7%C3%A3o-do-inacom",
+      "title": "Gestores debatem desafios e as perspectivas do sectorO município de Porto Amboim, na província do Cuanza-Sul, acolheu recentemente uma mesa-redonda dedicada aos desafios e perspectivas da actividade marítima e portuária nacional, com foco na sustentabilidade e na digitalização. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682954/gestores-debatem-desafios--e-as-perspectivas-do-sector",
       "source": "Jornal de Angola",
-      "_key": "adb3751f2623e7a5",
+      "_key": "f1c3e2b4bcb979a7",
       "score": 6,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）调整国家通信局（INACOM）董事会组成"
+      "title_cn": "管理者在南宽扎省安博因港探讨行业挑战与前景"
     },
     {
-      "title": "Economia / agora Rede Multicaixa regista 6,9 biliões em compras ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682949/rede-multicaixa-regista-69-bili%C3%B5es-em-compras",
+      "title": "Destaque Angola e Reino Unido abordam situação de segurança na Região dos Grandes LagosAngola e o Reino Unido abordaram, segunda-feira, em Luanda, a situação política e de segurança na Região dos Grandes Lagos, com particular atenção aos desafios que afectam a estabilidade e a paz no continente africano.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682966/angola-e-reino-unido-abordam-situa%C3%A7%C3%A3o-de-seguran%C3%A7a-na-regi%C3%A3o-dos-grandes-lagos",
       "source": "Jornal de Angola",
-      "_key": "b6a2be4e6f9644ac",
-      "score": 6,
-      "title_cn": "Multicaixa网络录得69亿（宽扎）购物交易"
+      "_key": "489d27c6bf0a6741",
+      "score": 5,
+      "title_cn": "安哥拉与英国讨论大湖区安全局势"
     },
     {
-      "title": "Economia / Há 22 horas Cimeira aborda trajectória de crescimento de África ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682880/cimeira-aborda-traject%C3%B3ria-de-crescimento-de-%C3%A1frica",
+      "title": "10:57 / 11 ago. 2026 Angola e Reino Unido abordam situação de segurança na Região dos Grandes Lagos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682967/angola-e-reino-unido-abordam-situa%C3%A7%C3%A3o-de-seguran%C3%A7a-na-regi%C3%A3o-dos-grandes-lagos",
       "source": "Jornal de Angola",
-      "_key": "97c9efcec6664fef",
-      "score": 6,
-      "title_cn": "峰会探讨非洲增长轨迹"
-    },
-    {
-      "title": "Police arrests two fake criminal investigation services agents in Luvo",
-      "url": "https://www.angop.ao/en/noticias/sociedade/detidos-falsos-agentes-do-sic-no-luvo/",
-      "source": "ANGOP",
-      "_key": "10d1b680effcb21b",
+      "_key": "5a330ebb4c634df4",
       "score": 5,
-      "title_cn": "警方在卢沃（Luvo）逮捕两名假冒刑侦人员"
+      "title_cn": "安哥拉与英国讨论大湖区安全局势"
     },
     {
-      "title": "CEAST condena intervenção policial na sede da UNITA e alerta para escalada da intolerância política",
-      "url": "https://angola24horas.com/politica/item/34855-ceast-condena-intervencao-policial-na-sede-da-unita-e-alerta-para-escalada-da-intolerancia-politica",
-      "source": "Angola 24 Horas",
-      "_key": "6d19ff38b0a059ff",
-      "score": 5,
-      "title_cn": "安哥拉圣多美主教团（CEAST）谴责警方干预安盟（UNITA）总部，警告政治不容忍升级"
-    },
-    {
-      "title": "MAPTSS abre concurso de 1,18 mil milhões de Kz para aquisição de 11 viaturas",
-      "url": "https://diariodosnegocios.com/maptss-abre-concurso-de-118-mil-milhoes-de-kz-para-aquisicao-de-11-viaturas/",
-      "source": "Diário dos Negócios",
-      "_key": "755f23507ffed278",
-      "score": 5,
-      "title_cn": "劳工社会保障部（MAPTSS）招标11.8亿宽扎采购11辆汽车"
-    },
-    {
-      "title": " MAPTSS abre concurso de 1,18 mil milhões de Kz para aquisição de 11 viaturas ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_7560d2c00e8789",
-      "score": 5,
-      "title_cn": "劳工社会保障部（MAPTSS）招标11.8亿宽扎采购11辆汽车"
-    },
-    {
-      "title": "Polícia Nacional abre inquérito após intervenção em acto da UNITA no Uíge e apela ao respeito pela lei",
-      "url": "https://holdonangola.com/policia-nacional-abre-inquerito-apos-intervencao-em-acto-da-unita-no-uige-e-apela-ao-respeito-pela-lei/",
-      "source": "Hold On Angola",
-      "_key": "a610283e161b7cef",
-      "score": 5,
-      "title_cn": "警方就威热（Uíge）安盟（UNITA）活动干预事件展开调查，呼吁守法"
-    },
-    {
-      "title": "Acto político da UNITA termina com tensão e intervenção no Uíge",
-      "url": "https://jornaloguardiao.com/2026/08/11/acto-politico-da-unita-termina-com-tensao-e-intervencao-no-uige/",
-      "source": "Jornal O Guardião",
-      "_key": "dd558a9284412406",
-      "score": 5,
-      "title_cn": "威热（Uíge）安盟（UNITA）政治活动在紧张和干预中结束"
-    },
-    {
-      "title": "Emprego juvenil domina debate na Assembleia Nacional no dia Internacional da Juventude",
-      "url": "https://jornaloguardiao.com/2026/08/11/emprego-juvenil-domina-debate-na-assembleia-nacional-no-dia-internacional-da-juventude/",
-      "source": "Jornal O Guardião",
-      "_key": "c5c0d2abb1f1f818",
-      "score": 5,
-      "title_cn": "国际青年日：青年就业问题主导国民议会辩论"
-    },
-    {
-      "title": " Acto político da UNITA termina com tensão e intervenção no Uíge ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_7eb5ea3b0b9e6e",
-      "score": 5,
-      "title_cn": "威热（Uíge）安盟（UNITA）政治活动在紧张和干预中结束"
-    },
-    {
-      "title": " Emprego juvenil domina debate na Assembleia Nacional no dia Internacional da Juventude ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_c670103a265de3",
-      "score": 5,
-      "title_cn": "国际青年日：青年就业问题主导国民议会辩论"
-    },
-    {
-      "title": "Noruega anuncia investimentos em sectores além do petrolíferoO Reino da Noruega anunciou, segunda-feira, a intenção de investir em sectores da economia nacional não petrolíferos, com destaque para a agricultura, de modo a impulsionar o processo de diversificação económica em curso no país.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/682918/noruega-anuncia-investimentos-em-sectores-al%C3%A9m-do-petrol%C3%ADfero",
+      "title": "Economia / agora BNA promove educação e inclusão financeira ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/682956/bna-promove-educa%C3%A7%C3%A3o-e-inclus%C3%A3o-financeira",
       "source": "Jornal de Angola",
-      "_key": "50b51b42c64d2155",
+      "_key": "4b3be96c39db9dda",
       "score": 5,
-      "title_cn": "挪威宣布投资安哥拉非石油领域"
+      "title_cn": "安哥拉国家银行推动金融教育与普惠金融"
     },
     {
-      "title": "Angola, Portugal e os processos migratórios",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/angola-portugal-e-os-processos-migratorios-73852.html",
+      "title": "Polícia justifica dispersão de manifestantes da UNITA no Uíge por desacato e diz que houve apenas um ferido ligeiro",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/policia-justifica-dispersao-de-manifestantes-da-unita-no-uige-por-desacato-e-diz-que-houve-apenas-um-ferido-ligeiro-73857.html",
       "source": "Novo Jornal",
-      "_key": "176b6126fa9ed2c8",
+      "_key": "60e4dfefd16d5d6e",
       "score": 5,
-      "title_cn": "安哥拉、葡萄牙与移民进程"
-    },
-    {
-      "title": "MAPTSS abre concurso de 1,18 mil milhões de Kz para...",
-      "url": "https://valoreconomico.co.ao/artigo/maptss-abre-concurso-de-1-18-mil-milhoes-de-kz-para-frota-com-custo-medio-de-107-milhoes-por-viatura",
-      "source": "Valor Económico",
-      "_key": "f85d4fe865169b96",
-      "score": 5,
-      "title_cn": "劳工社会保障部（MAPTSS）招标11.8亿宽扎"
+      "title_cn": "警方称威热省驱散安盟示威者因扰乱秩序，仅一人轻伤"
     }
   ]
 }
