@@ -1,80 +1,56 @@
 {
   "date": "2026-08-12",
-  "total_new": 18,
-  "total_filtered": 9,
+  "total_new": 19,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China prepara reforço do investimento estratégico em Cabo Verde com foco no Norte",
-      "url": "https://forbesafricalusofona.com/china-prepara-reforco-do-investimento-estrategico-em-cabo-verde-com-foco-no-norte/",
-      "source": "Forbes África",
-      "_key": "c67cf4c746c5305e",
-      "score": 7,
-      "title_cn": "中国准备加强对佛得角北部的战略投资"
-    },
-    {
-      "title": "Destaque Autorizada concessão de unidade hoteleira no Aeroporto Dr. António Agostinho Neto O Presidente da República, Lourenço, autorizou a abertura do procedimento de contratação simplificada para a celebração do contrato de concessão da unidade hoteleira do Aeroporto Internacional Dr. António Agostinho Neto (AIAAN), através de uma parceria público-privada entre o Mangrove Group e a Hilton.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683062/autorizada-concess%C3%A3o-de-unidade-hoteleira-no-aeroporto-dr.-ant%C3%B3nio-agostinho-neto-",
-      "source": "Jornal de Angola",
-      "_key": "cae8cebd41b0b29b",
-      "score": 7,
-      "title_cn": "洛伦索（Lourenço）总统授权安东尼奥·阿戈什蒂纽·内图博士机场酒店特许经营权"
-    },
-    {
-      "title": "New rules for the 2027 State Budget published",
-      "url": "https://www.angop.ao/en/noticias/economia/novas-regras-para-oge-2027-ja-em-diario-da-republica/",
-      "source": "ANGOP",
-      "_key": "049307786f00e275",
-      "score": 6,
-      "title_cn": "2027年国家预算新规发布"
-    },
-    {
-      "title": "Cabinda to get USD 294 mln investment in water sector",
-      "url": "https://www.angop.ao/en/noticias/economia/cabinda-beneficia-de-investimento-de-usd-294-milhoes-para-abastecimento-de-agua/",
-      "source": "ANGOP",
-      "_key": "9eea3e09e1369c15",
-      "score": 6,
-      "title_cn": "卡宾达水务领域将获2.94亿美元投资"
-    },
-    {
-      "title": "“Falta de exemplo na agricultura em Angola inibe aposta do sector financeiro que apresenta uma pauta de negaçõesˮ",
-      "url": "https://forbesafricalusofona.com/falta-de-exemplo-na-agricultura-em-angola-inibe-aposta-do-sector-financeiro-que-apresenta-uma-pauta-de-negacoes%cb%ae/",
-      "source": "Forbes África",
-      "_key": "61285b8210761e98",
-      "score": 6,
-      "title_cn": "安哥拉农业缺乏榜样，抑制了金融部门的投资意愿"
-    },
-    {
-      "title": "Destaque Nova lapidadora de diamantes será inaugurada sábado em SaurimoUma nova unidade de lapidação de diamantes, denominada Diarouch, no município de Saurimo, província da Lunda-Sul, será inaugurada, sábado, pelo ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683059/nova-lapidadora-de-diamantes-ser%C3%A1-inaugurada-s%C3%A1bado-em-saurimo",
-      "source": "Jornal de Angola",
-      "_key": "0a95cea73e84555c",
-      "score": 6,
-      "title_cn": "隆达南省绍里穆市新钻石加工厂Diarouch将落成"
-    },
-    {
-      "title": "Falha no sistema das conservatórias condiciona levantamento...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/falha-no-sistema-das-conservatorias-condiciona-levantamento-de-43-cadaveres-no-hospital-dos-cajueiros-73892.html",
+      "title": "China testa projecto-piloto em parque para reduzir...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/china-testa-projecto-piloto-em-parque-para-reduzir-presenca-de-mosquitos-73890.html",
       "source": "Novo Jornal",
-      "_key": "9f55448a3aee6a01",
+      "_key": "d2740d586d2b42ca",
+      "score": 8,
+      "title_cn": "中国在公园测试试点项目"
+    },
+    {
+      "title": "Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias",
+      "url": "https://diariodosnegocios.com/obras-nos-mulenvos-terao-custo-medio-de-700-milhoes-kz-por-quilometro-para-reabilitacao-de-30-km-de-vias/",
+      "source": "Diário dos Negócios",
+      "_key": "ab4df63f3912b824",
       "score": 6,
-      "title_cn": "登记处系统故障影响业务办理"
+      "title_cn": "穆伦沃斯30公里道路修复工程，每公里平均耗资7亿宽扎"
     },
     {
-      "title": "Benfica, Maianga e Viana em Luanda terão reservatórios de água ampliados",
-      "url": "https://correiokianda.info/benfica-maianga-e-viana-em-luanda-terao-reservatorios-de-agua-ampliados/",
-      "source": "Correio Kianda",
-      "_key": "4420b59ba2cd944d",
-      "score": 5,
-      "title_cn": "罗安达的本菲卡、迈安加和维亚纳将扩建水库"
+      "title": "Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros",
+      "url": "https://diariodosnegocios.com/griner-assume-construcao-de-novo-centro-de-abastecimento-de-agua-nos-ramiros/",
+      "source": "Diário dos Negócios",
+      "_key": "8f71505b96ec1583",
+      "score": 6,
+      "title_cn": "格里纳公司承建拉米罗斯新供水中心"
     },
     {
-      "title": "Destaque Câmara de Comércio e Indústria Angola e Marrocos regista avanços Angola e Marrocos deram novos passos para a criação da Câmara de Comércio e Indústria, uma iniciativa comum destinada a estabelecer um canal permanente de ligação entre os sectores empresariais dos dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683038/c%C3%A2mara-de-com%C3%A9rcio-e-ind%C3%BAstria-angola-e-marrocos-regista-avan%C3%A7os-",
+      "title": " Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_530ece221b1e5c",
+      "score": 6,
+      "title_cn": "穆伦沃斯30公里道路修复工程，每公里平均耗资7亿宽扎"
+    },
+    {
+      "title": " Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_f7cb2e1e717943",
+      "score": 6,
+      "title_cn": "格里纳公司承建拉米罗斯新供水中心"
+    },
+    {
+      "title": "Economia Angola e Brasil debatem em Luanda agronegócio como motor da economia ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683069/angola-e-brasil-debatem-em-luanda-agroneg%C3%B3cio-como-motor-da-economia-",
       "source": "Jornal de Angola",
-      "_key": "01788834a2e1d51b",
-      "score": 5,
-      "title_cn": "安哥拉和摩洛哥在建立工商会方面采取了新的步骤，这是一项旨在在两国商业部门之间建立永久联系渠道的联合倡议。"
+      "_key": "3fb24469bb389bf1",
+      "score": 6,
+      "title_cn": "安哥拉与巴西在罗安达探讨农业综合企业作为经济引擎"
     }
   ]
 }
