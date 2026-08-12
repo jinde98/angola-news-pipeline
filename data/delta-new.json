@@ -1,242 +1,116 @@
 {
   "date": "2026-08-12",
-  "total_extracted": 1512,
-  "total_new": 39,
-  "total_existing": 1473,
+  "total_extracted": 1391,
+  "total_new": 18,
+  "total_existing": 1373,
   "articles": [
     {
-      "title": "Minister reiterates confidence in Angolan youth",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-reitera-confianca-nos-jovens-angolanos/",
+      "title": "New rules for the 2027 State Budget published",
+      "url": "https://www.angop.ao/en/noticias/economia/novas-regras-para-oge-2027-ja-em-diario-da-republica/",
       "source": "ANGOP",
-      "_key": "a481a7c456d99531"
+      "_key": "049307786f00e275"
     },
     {
-      "title": "Ten companies affected by Cavaco River floods receive financial support",
-      "url": "https://www.angop.ao/en/noticias/economia/dez-empresas-afectadas-pelas-cheias-do-cavaco-beneficiam-de-apoio-financeiro/",
+      "title": "Cabinda to get USD 294 mln investment in water sector",
+      "url": "https://www.angop.ao/en/noticias/economia/cabinda-beneficia-de-investimento-de-usd-294-milhoes-para-abastecimento-de-agua/",
       "source": "ANGOP",
-      "_key": "f65f6e2657f9e732"
+      "_key": "9eea3e09e1369c15"
     },
     {
-      "title": "Minister Téte António participates in the SADC Council of Ministers meeting",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-participa-na-reuniao-do-conselho-de-ministros-da-sadc/",
+      "title": "IHF W U20 Handball Championship - Angola loses to Egypt",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-angola-perde-frente-ao-egipto/",
       "source": "ANGOP",
-      "_key": "64b0ec0151b285c6"
+      "_key": "2848f90c5995c93a"
     },
     {
-      "title": "Angola and Mozambique Ombuds analyze cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/provedores-de-justica-de-angola-e-mocambique-analisam-cooperacao/",
+      "title": "Huíla Theatre Showcases Portrait of Angolan Culture in Portugal",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/teatro-da-huila-exibe-retrato-da-cultura-angolana-em-portugal/",
       "source": "ANGOP",
-      "_key": "2be5c2eb71310a32"
+      "_key": "6638d3e920888533"
     },
     {
-      "title": "Ambassador Albino Malungo meets with Angolan MPs",
-      "url": "https://www.angop.ao/en/noticias/politica/albino-malungo-reune-com-deputados-observadores-para-as-eleicoes-na-zambia/",
-      "source": "ANGOP",
-      "_key": "98a1de122af7a217"
-    },
-    {
-      "title": "Angola and Morocco to set Chamber of Commerce and Industry",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-marrocos-avancam-na-criacao-de-camara-de-comercio/",
-      "source": "ANGOP",
-      "_key": "8c44aa124a44ebdb"
-    },
-    {
-      "title": "Talentos de Luanda club win Angolan Boxing Cup",
-      "url": "https://www.angop.ao/en/noticias/desporto/talentos-conquistam-taca-de-angola-em-boxe/",
-      "source": "ANGOP",
-      "_key": "df8b4d3e2780c6f7"
-    },
-    {
-      "title": "Sporting de Luanda beat 1º de Agosto in Unitel Basket game",
-      "url": "https://www.angop.ao/en/noticias/desporto/basquetebol-sporting-vence-1o-de-agosto-e-forca-quinto-jogo-no-play-off/",
-      "source": "ANGOP",
-      "_key": "025116defde7ce04"
-    },
-    {
-      "title": "Parliament unanimously approves legal framework for oversight of external audits",
-      "url": "https://www.angop.ao/en/noticias/economia/regime-juridico-da-supervisao-da-auditoria-externa-aprovado-por-unanimidade/",
-      "source": "ANGOP",
-      "_key": "d3bed001b101657f"
-    },
-    {
-      "title": "Specialist defends strategic plan to support people with albinism",
-      "url": "https://www.angop.ao/en/noticias/saude/especialista-defende-plano-estrategico-de-apoio-aos-portadores-de-albinismo/",
-      "source": "ANGOP",
-      "_key": "d2da6cd285b7d7a1"
-    },
-    {
-      "title": "Evangelical leader highlights church's role in social development",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/lider-religioso-no-cuanza-norte-destaca-papel-da-igreja-no-desenvolvimento-e-coesao/",
-      "source": "ANGOP",
-      "_key": "bc630f5e29c438d8"
-    },
-    {
-      "title": "Luanda Carnival Association calls for more public and private incentives",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/aprocal-quer-incentivos-publicos-e-privados-aos-grupos-carnavalescos/",
-      "source": "ANGOP",
-      "_key": "c9ae06a58a1a9820"
-    },
-    {
-      "title": "Adalberto acusa governador do Uíge de perseguição política e alerta para riscos no período eleitoral",
-      "url": "https://angola24horas.com/politica/item/34865-adalberto-acusa-governador-do-uige-de-perseguicao-politica-e-alerta-para-riscos-no-periodo-eleitoral",
-      "source": "Angola 24 Horas",
-      "_key": "3a0c3200bce77f85"
-    },
-    {
-      "title": "Tribunal Supremo adia audiência preliminar de Higino Carneiro para 19 de agosto",
-      "url": "https://angola24horas.com/politica/item/34864-tribunal-supremo-adia-audiencia-preliminar-de-higino-carneiro-para-19-de-agosto",
-      "source": "Angola 24 Horas",
-      "_key": "6d715a430e6514ef"
-    },
-    {
-      "title": "MPLA mobiliza dirigentes e meios públicos para responder à ofensiva de Higino Carneiro",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34849-mpla-mobiliza-dirigentes-e-meios-publicos-para-responder-a-ofensiva-de-higino-carneiro",
-      "source": "Angola 24 Horas",
-      "_key": "585b312aa3685ca2"
-    },
-    {
-      "title": "GPL e UNICEF procuram soluções para aumentar cobertura de vacinação em Luanda",
-      "url": "https://correiokianda.info/gpl-e-unicef-procuram-solucoes-para-aumentar-cobertura-de-vacinacao-em-luanda/",
+      "title": "Oposição questiona prioridades do Executivo na busca pela prosperidade",
+      "url": "https://correiokianda.info/oposicao-questiona-prioridades-do-executivo-na-busca-pela-prosperidade/",
       "source": "Correio Kianda",
-      "_key": "f1d29df16494c3b9"
+      "_key": "d632d968586ab6a9"
     },
     {
-      "title": "SINPROF mantém ameaça de condicionar arranque do ano lectivo 2026/2027",
-      "url": "https://correiokianda.info/sinprof-mantem-ameaca-de-condicionar-arranque-do-ano-lectivo-2026-2027/",
+      "title": "Benfica, Maianga e Viana em Luanda terão reservatórios de água ampliados",
+      "url": "https://correiokianda.info/benfica-maianga-e-viana-em-luanda-terao-reservatorios-de-agua-ampliados/",
       "source": "Correio Kianda",
-      "_key": "478e31856dab3427"
+      "_key": "4420b59ba2cd944d"
     },
     {
-      "title": "Tribunal Supremo adia para dia 19 audiência de Higino Carneiro",
-      "url": "https://correiokianda.info/tribunal-supremo-adia-para-dia-19-audiencia-de-higino-carneiro/",
+      "title": "Deputado da UNITA constituído arguido pela PGR por alegada difamação e calúnia contra Abel Chivukuvuku",
+      "url": "https://correiokianda.info/deputado-da-unita-constituido-arguido-pela-pgr-por-alegada-difamacao-e-calunia-contra-abel-chivukuvuku/",
       "source": "Correio Kianda",
-      "_key": "8e1ce17d497ad1e2"
+      "_key": "f154977b86f5e3cc"
+    },
+    {
+      "title": "Jovem de 18 anos atropela mortalmente agente de Trânsito no Lobito",
+      "url": "https://correiokianda.info/jovem-de-18-anos-atropela-mortalmente-agente-de-transito-no-lobito/",
+      "source": "Correio Kianda",
+      "_key": "b1b2ee0f24c37cf5"
+    },
+    {
+      "title": "Depú regressa ao Petro de Luanda após passagem pelo estrangeiro",
+      "url": "https://correiokianda.info/depu-regressa-ao-petro-de-luanda-apos-passagem-pelo-estrangeiro/",
+      "source": "Correio Kianda",
+      "_key": "e6f553eb5ed4b958"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260812-2101-00a6-9156-487e8011cf51&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260812-2313-0684-8394-28c5e38b7578&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "b5a072dc208a94c4"
+      "_key": "39b037de5cfbaec1"
     },
     {
-      "title": "Propinas subiram 92,76% em 4 anos, mas universidades somam prejuízos",
-      "url": "https://expansao.co.ao/universidade/detalhe/propinas-subiram-9276-em-4-anos-mas-universidades-somam-prejuizos-73879.html",
-      "source": "Expansão",
-      "_key": "b78c60970acad8e7"
+      "title": "China prepara reforço do investimento estratégico em Cabo Verde com foco no Norte",
+      "url": "https://forbesafricalusofona.com/china-prepara-reforco-do-investimento-estrategico-em-cabo-verde-com-foco-no-norte/",
+      "source": "Forbes África",
+      "_key": "c67cf4c746c5305e"
     },
     {
-      "title": "SGPS | A nova ferramenta para criar grupos económicos em Angola",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_fb67f21249ab15"
+      "title": "“Falta de exemplo na agricultura em Angola inibe aposta do sector financeiro que apresenta uma pauta de negaçõesˮ",
+      "url": "https://forbesafricalusofona.com/falta-de-exemplo-na-agricultura-em-angola-inibe-aposta-do-sector-financeiro-que-apresenta-uma-pauta-de-negacoes%cb%ae/",
+      "source": "Forbes África",
+      "_key": "61285b8210761e98"
     },
     {
-      "title": "IA sai do laboratório chega à banca, aos petróleos, à saúde e a outros sectores",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_6a71475f999c95"
+      "title": "Sociedade Moçambicana de Medicamentos vê lucro cair 98,5% e grupo fecha 2025 no prejuízo",
+      "url": "https://forbesafricalusofona.com/sociedade-mocambicana-de-medicamentos-ve-lucro-cair-985-e-grupo-fecha-2025-no-prejuizo/",
+      "source": "Forbes África",
+      "_key": "7c21b096f379d30a"
     },
     {
-      "title": "Brent sobe pela sexta sessão consecutiva e volta a aproxima-se dos 90 dólares",
-      "url": "https://expansao.co.ao/economia/detalhe/brent-sobe-pela-sexta-sessao-consecutiva-e-volta-a-aproxima-se-dos-90-dolares-73886.html",
-      "source": "Expansão",
-      "_key": "bb3d82878a9f2487"
-    },
-    {
-      "title": "Capital de risco | O novo pilar da economia Angolana",
-      "url": "https://expansao.co.ao/analise/detalhe/capital-de-risco-o-novo-pilar-da-economia-angolana-73881.html",
-      "source": "Expansão",
-      "_key": "ff9f69d775b5aa3e"
-    },
-    {
-      "title": "Mercado dos fundos acelera, mas falta transformar poupança em investimento",
-      "url": "https://expansao.co.ao/economia/detalhe/mercado-dos-fundos-acelera-mas-falta-transformar-poupanca-em-investimento-73880.html",
-      "source": "Expansão",
-      "_key": "c65d44b4cf859dfd"
-    },
-    {
-      "title": "Tribunal Supremo angolano adia audiência de Higino Carneiro para 19 de agosto",
-      "url": "https://jornaloguardiao.com/2026/08/12/tribunal-supremo-angolano-adia-audiencia-de-higino-carneiro-para-19-de-agosto/",
-      "source": "Jornal O Guardião",
-      "_key": "e50ff64eb28c39cb"
-    },
-    {
-      "title": "São Tomé/Eleições: Patrice Trovoada apela militantes da ADI a absterem-se nas eleições de setembro",
-      "url": "https://jornaloguardiao.com/2026/08/12/sao-tome-eleicoes-patrice-trovoada-apela-militantes-da-adi-a-absterem-se-nas-eleicoes-de-setembro/",
-      "source": "Jornal O Guardião",
-      "_key": "c845642a18eb882d"
-    },
-    {
-      "title": " Tribunal Supremo angolano adia audiência de Higino Carneiro para 19 de agosto ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_2b445240445874"
-    },
-    {
-      "title": " São Tomé/Eleições: Patrice Trovoada apela militantes da ADI a absterem-se nas eleições de setembro ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b2670251f4a5cf"
-    },
-    {
-      "title": "Téte António participa na reunião do Conselho de Ministros da SADCO ministro das Relações Exteriores, Téte António, participa na Sessão Ordinária do Conselho de Ministros da Comunidade de Desenvolvimento da África Austral (SADC) que decorre, desde manhã desta quarta-feira, na cidade de Durban, na África do Sul.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683048/t%C3%A9te-ant%C3%B3nio-participa-na-reuni%C3%A3o-do-conselho-de-ministros-da-sadc",
+      "title": "Destaque Nova lapidadora de diamantes será inaugurada sábado em SaurimoUma nova unidade de lapidação de diamantes, denominada Diarouch, no município de Saurimo, província da Lunda-Sul, será inaugurada, sábado, pelo ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683059/nova-lapidadora-de-diamantes-ser%C3%A1-inaugurada-s%C3%A1bado-em-saurimo",
       "source": "Jornal de Angola",
-      "_key": "860840535f024865"
+      "_key": "0a95cea73e84555c"
     },
     {
-      "title": "Sociedade SIC reforça capacidade na investigação de ataques de ransomware no Qatar ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683050/sic-refor%C3%A7a-capacidade-na-investiga%C3%A7%C3%A3o-de-ataques-de-ransomware-no-qatar",
+      "title": "Destaque Câmara de Comércio e Indústria Angola e Marrocos regista avanços Angola e Marrocos deram novos passos para a criação da Câmara de Comércio e Indústria, uma iniciativa comum destinada a estabelecer um canal permanente de ligação entre os sectores empresariais dos dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683038/c%C3%A2mara-de-com%C3%A9rcio-e-ind%C3%BAstria-angola-e-marrocos-regista-avan%C3%A7os-",
       "source": "Jornal de Angola",
-      "_key": "e27d0247ebc0592a"
+      "_key": "01788834a2e1d51b"
     },
     {
-      "title": "Sociedade Deputados angolanos integram missão de observação das eleições gerais na Zâmbia ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683045/deputados-angolanos-integram-miss%C3%A3o-de-observa%C3%A7%C3%A3o-das-elei%C3%A7%C3%B5es-gerais-na-z%C3%A2mbia",
+      "title": "Destaque João Lourenço recebe cartas credenciais de novos embaixadoresO Chefe de Estado, João Lourenço, orientou, na manhã desta quarta-feira, no Palácio Presidencial da Cidade Alta, em Luanda, a cerimónia de apresentação de Cartas Credenciais de novos embaixadores acreditados em Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683063/jo%C3%A3o-louren%C3%A7o-recebe-cartas-credenciais-de-novos-embaixadores",
       "source": "Jornal de Angola",
-      "_key": "bc6cc26eef53aa8c"
+      "_key": "97bcd1b5e6349cee"
     },
     {
-      "title": "UNITA avisa que violência não pode ter \"estrada aberta\"...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/unita-avisa-que-violencia-nao-pode-ter-estrada-aberta-e-questiona-duplo-papel-do-governador-73887.html",
-      "source": "Novo Jornal",
-      "_key": "3d6790465cb5abdf"
+      "title": "Destaque Autorizada concessão de unidade hoteleira no Aeroporto Dr. António Agostinho Neto O Presidente da República, Lourenço, autorizou a abertura do procedimento de contratação simplificada para a celebração do contrato de concessão da unidade hoteleira do Aeroporto Internacional Dr. António Agostinho Neto (AIAAN), através de uma parceria público-privada entre o Mangrove Group e a Hilton.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683062/autorizada-concess%C3%A3o-de-unidade-hoteleira-no-aeroporto-dr.-ant%C3%B3nio-agostinho-neto-",
+      "source": "Jornal de Angola",
+      "_key": "cae8cebd41b0b29b"
     },
     {
-      "title": "Cheias do Cavaco: primeiros desembolsos às empresas...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cheias-do-cavaco-primeiros-desembolsos-as-empresas-chegam-quase-quatro-meses-depois-73884.html",
+      "title": "Falha no sistema das conservatórias condiciona levantamento...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/falha-no-sistema-das-conservatorias-condiciona-levantamento-de-43-cadaveres-no-hospital-dos-cajueiros-73892.html",
       "source": "Novo Jornal",
-      "_key": "b5a7a028097f6034"
-    },
-    {
-      "title": "Circuito ilegal \"pesca\" clientes à frente das lojas...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/circuito-ilegal-pesca-clientes-a-frente-das-lojas-unitel-em-saurimo-que-ainda-se-ressente-do-ataque-cibernetico-73871.html",
-      "source": "Novo Jornal",
-      "_key": "2de4f4e9c5f1cf38"
-    },
-    {
-      "title": "Petróleo: Trump diz que o Estreito está aberto, os...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-trump-diz-que-o-estreito-esta-aberto-os-iranianos-garantem-que-ormuz-esta-fechado-e-os-mercados-petroliferos-ja-tiveram-melhores-dias-73889.html",
-      "source": "Novo Jornal",
-      "_key": "ee1bd4a9fd5d2a4e"
-    },
-    {
-      "title": "Rússia/Ucrânia: Sem defesas anti-aéreas, Zelensky avança...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/russiaucrania-sem-defesas-anti-aereas-zelensky-avanca-com-ousada-proposta-de-paz-a-moscovo-via-washington-russos-com-maiores-avancos-em-largos-meses-73882.html",
-      "source": "Novo Jornal",
-      "_key": "2177d0778d00c7ee"
-    },
-    {
-      "title": "CONVERSA ABERTA COM LADISLAU FORTUNATO. Jornalista, realizador de televisão e autor do livro \"figuras e memórias do jornalismo angolano\".",
-      "url": "https://marginal.co.ao/programas/conversa-aberta?ep=73885",
-      "source": "Novo Jornal",
-      "_key": "42fa935de477c4d1"
-    },
-    {
-      "title": "RADAR DIPLOMÁTICO: MEMÓRIA, PAZ E DIPLOMACIA. Hoje, lembramos Hiroshima e Nagasaki, duas cidades marcadas pela distruição, mas que deixaram ao mundo uma mensagem permanente: a paz é uma responsabilidade de todos.",
-      "url": "https://marginal.co.ao/programas/radar-diplomatico?ep=73888",
-      "source": "Novo Jornal",
-      "_key": "e1d96c95bcb14ede"
+      "_key": "9f55448a3aee6a01"
     }
   ]
 }
