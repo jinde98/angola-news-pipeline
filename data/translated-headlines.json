@@ -1,56 +1,272 @@
 {
-  "date": "2026-08-12",
-  "total_new": 19,
-  "total_filtered": 6,
+  "date": "2026-08-13",
+  "total_new": 82,
+  "total_filtered": 33,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China testa projecto-piloto em parque para reduzir...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/china-testa-projecto-piloto-em-parque-para-reduzir-presenca-de-mosquitos-73890.html",
-      "source": "Novo Jornal",
-      "_key": "d2740d586d2b42ca",
+      "title": "Angola proposes meeting on Lobito Refinery financing",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-propoe-reuniao-sobre-financiamento-da-refinaria-do-lobito/",
+      "source": "ANGOP",
+      "_key": "8ab3fd86c10101d1",
       "score": 8,
-      "title_cn": "中国在公园测试试点项目"
+      "title_cn": "安哥拉提议召开洛比托炼油厂融资会议"
     },
     {
-      "title": "Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias",
-      "url": "https://diariodosnegocios.com/obras-nos-mulenvos-terao-custo-medio-de-700-milhoes-kz-por-quilometro-para-reabilitacao-de-30-km-de-vias/",
+      "title": "Novo aeroporto de Luanda prepara estreia de marca internacional de hotelaria",
+      "url": "https://correiokianda.info/novo-aeroporto-de-luanda-prepara-estreia-de-marca-internacional-de-hotelaria/",
+      "source": "Correio Kianda",
+      "_key": "2740c20d9c8fb827",
+      "score": 8,
+      "title_cn": "罗安达新机场准备推出国际酒店品牌"
+    },
+    {
+      "title": "Angola arrecada mais 52 mil milhões de kwanzas com petróleo no segundo trimestre",
+      "url": "https://diariodosnegocios.com/angola-arrecada-mais-52-mil-milhoes-de-kwanzas-com-petroleo-no-segundo-trimestre/",
       "source": "Diário dos Negócios",
-      "_key": "ab4df63f3912b824",
-      "score": 6,
-      "title_cn": "穆伦沃斯30公里道路修复工程，每公里平均耗资7亿宽扎"
+      "_key": "71194f87bbc8660f",
+      "score": 8,
+      "title_cn": "安哥拉第二季度石油收入超520亿宽扎"
     },
     {
-      "title": "Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros",
-      "url": "https://diariodosnegocios.com/griner-assume-construcao-de-novo-centro-de-abastecimento-de-agua-nos-ramiros/",
-      "source": "Diário dos Negócios",
-      "_key": "8f71505b96ec1583",
-      "score": 6,
-      "title_cn": "格里纳公司承建拉米罗斯新供水中心"
-    },
-    {
-      "title": " Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias ",
+      "title": " Angola arrecada mais 52 mil milhões de kwanzas com petróleo no segundo trimestre ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_530ece221b1e5c",
-      "score": 6,
-      "title_cn": "穆伦沃斯30公里道路修复工程，每公里平均耗资7亿宽扎"
+      "_key": "t_5dc9fc20654e51",
+      "score": 8,
+      "title_cn": "安哥拉第二季度石油收入超520亿宽扎"
     },
     {
-      "title": " Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_f7cb2e1e717943",
-      "score": 6,
-      "title_cn": "格里纳公司承建拉米罗斯新供水中心"
+      "title": "Angola’s Central Bank calls for continued efforts to reduce and stabilise inflation rate",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-quer-trabalho-continuo-para-reducao-e-estabilizacao-da-taxa-de-inflacao/",
+      "source": "ANGOP",
+      "_key": "f507f8fe8caa7222",
+      "score": 7,
+      "title_cn": "安哥拉央行呼吁继续努力降低并稳定通胀率"
     },
     {
-      "title": "Economia Angola e Brasil debatem em Luanda agronegócio como motor da economia ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683069/angola-e-brasil-debatem-em-luanda-agroneg%C3%B3cio-como-motor-da-economia-",
+      "title": "Dívida pública angolana superou 56 mil milhões de kwanzas em 2024",
+      "url": "https://correiokianda.info/divida-publica-angolana-superou-56-mil-milhoes-de-kwanzas-em-2024/",
+      "source": "Correio Kianda",
+      "_key": "00256d470fdc2a3e",
+      "score": 7,
+      "title_cn": "2024年安哥拉公共债务超560亿宽扎"
+    },
+    {
+      "title": "Destaque Preços grossistas no mercado confirmam cenário de desaceleraçãoO Índice de Preços Grossista (IPG) registou uma variação mensal de 0,67 por cento entre o mês de Junho a Julho de 2026, sendo 0,11 ponto percentual superior à registada no período anterior e 0,48 ponto percentual inferior em relação ao mesmo mês do ano de 2025.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683083/pre%C3%A7os-grossistas-no-mercado-confirmam-cen%C3%A1rio-de-desacelera%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "3fb24469bb389bf1",
+      "_key": "5b757d274da34179",
+      "score": 7,
+      "title_cn": "批发价格指数确认市场减速趋势"
+    },
+    {
+      "title": "Economia Levantamentos sem cartão ficam indisponíveis das 23 às 6h00 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683081/levantamentos-sem-cart%C3%A3o-ficam-indispon%C3%ADveis-das-23-%C3%A0s-6h00",
+      "source": "Jornal de Angola",
+      "_key": "5d1d34b1d48d4b5c",
+      "score": 7,
+      "title_cn": "Economia无卡取款从23点到6点不可用"
+    },
+    {
+      "title": "Angola adopts cybersecurity law",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/",
+      "source": "ANGOP",
+      "_key": "d08b65e874e60ed9",
       "score": 6,
-      "title_cn": "安哥拉与巴西在罗安达探讨农业综合企业作为经济引擎"
+      "title_cn": "安哥拉通过网络安全法"
+    },
+    {
+      "title": "National Assembly approves 2024 General State Account",
+      "url": "https://www.angop.ao/en/noticias/economia/assembleia-nacional-valida-conta-geral-do-estado-de-2024/",
+      "source": "ANGOP",
+      "_key": "9a0aa521e7a8b47c",
+      "score": 6,
+      "title_cn": "国民议会批准2024年国家总账"
+    },
+    {
+      "title": "Economic performance boosts investor confidence – State Minister",
+      "url": "https://www.angop.ao/en/noticias/economia/desempenho-da-economia-reforca-credibilidade-de-investidores-ministro-de-estado/",
+      "source": "ANGOP",
+      "_key": "0c6c84870c7ae058",
+      "score": 6,
+      "title_cn": "国务部长：经济表现提振投资者信心"
+    },
+    {
+      "title": "Angola strengthens mineral traceability through technology platform",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-rastreabilidade-de-minerios-em-plataforma-tecnologica/",
+      "source": "ANGOP",
+      "_key": "d116f5fd0a9b20da",
+      "score": 6,
+      "title_cn": "安哥拉通过技术平台加强矿产可追溯性"
+    },
+    {
+      "title": "Ministry of Health appeals for operators' collaboration in fiscal stamps implementation",
+      "url": "https://www.angop.ao/en/noticias/saude/agt-assegura-implementacao-gradual-e-transparente-dos-selos-fiscais-nos-medicamentos/",
+      "source": "ANGOP",
+      "_key": "7864d3053d298c22",
+      "score": 6,
+      "title_cn": "卫生部呼吁运营商配合实施印花税"
+    },
+    {
+      "title": "Sogester takes over management of Soyo River Terminal",
+      "url": "https://www.angop.ao/en/noticias/economia/sogester-assume-gestao-do-terminal-fluvial-do-soyo/",
+      "source": "ANGOP",
+      "_key": "b7002c71d1d09335",
+      "score": 6,
+      "title_cn": "Sogester接管索约河码头管理权"
+    },
+    {
+      "title": "Executivo vai gastar 85 milhões de euros para levar luz aos Dembos e Nambuangongo",
+      "url": "https://correiokianda.info/executivo-vai-gastar-85-milhoes-de-euros-para-levar-luz-aos-dembos-e-nambuangongo/",
+      "source": "Correio Kianda",
+      "_key": "07f7060f0d9767c5",
+      "score": 6,
+      "title_cn": "安哥拉政府将斥资8500万欧元为登博斯和南邦贡戈供电"
+    },
+    {
+      "title": "Angola tem 35 milhões de hectares aráveis, mas só 17,7% são cultivados",
+      "url": "https://correiokianda.info/angola-tem-35-milhoes-de-hectares-araveis-mas-so-177-sao-cultivados/",
+      "source": "Correio Kianda",
+      "_key": "024949388c5ea9c5",
+      "score": 6,
+      "title_cn": "安哥拉拥有3500万公顷耕地，仅17.7%被开垦"
+    },
+    {
+      "title": "Sindicalista diz que queda da inflação não chega para melhorar salários",
+      "url": "https://correiokianda.info/sindicalista-diz-que-queda-da-inflacao-nao-chega-para-melhorar-salarios/",
+      "source": "Correio Kianda",
+      "_key": "142b226e989d32a8",
+      "score": 6,
+      "title_cn": "工会人士称通胀下降不足以改善工资"
+    },
+    {
+      "title": "        África13 horas atrás  República Democrática do Congo prepara reforma histórica no sector mineiro para reforçar controlo do Estado A República Democrática do Congo está a estudar aquela que será a primeira grande reforma ao seu código mineiro desde 2018. A proposta do Governo de...   ",
+      "url": "https://correiokianda.info/republica-democratica-do-congo-prepara-reforma-historica-no-sector-mineiro-para-reforcar-controlo-do-estado/",
+      "source": "Correio Kianda",
+      "_key": "756f93e1e2baa473",
+      "score": 6,
+      "title_cn": "刚果民主共和国拟进行矿业改革以加强国家控制"
+    },
+    {
+      "title": "Relatório de 2026 expõe riscos da biometria nas fronteiras de Angola rumo às eleições de 2027",
+      "url": "https://holdonangola.com/relatorio-de-2026-expoe-riscos-da-biometria-nas-fronteiras-de-angola-rumo-as-eleicoes-de-2027/",
+      "source": "Hold On Angola",
+      "_key": "74d4ef6efbf0e347",
+      "score": 6,
+      "title_cn": "报告揭示安哥拉边境生物识别技术在2027年大选前的风险"
+    },
+    {
+      "title": "Destaque Companhia Africana de Aviação inicia operações na rota Kinshasa–LuandaA Companhia Africana de Aviação (CAA) vai iniciar, a partir de 21 de Agosto deste ano, as suas operações em Angola, com a abertura da rota Kinshasa–Luanda–Kinshasa, soube, esta quarta-feira, refere um comunicado de imprensa enviado ao Jornal de Angola Online. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683082/companhia-africana-de-avia%C3%A7%C3%A3o-inicia-opera%C3%A7%C3%B5es-na-rota-kinshasa%E2%80%93luanda",
+      "source": "Jornal de Angola",
+      "_key": "f4b163cefab51e22",
+      "score": 6,
+      "title_cn": "非洲航空公司开通金沙萨—罗安达航线"
+    },
+    {
+      "title": "Destaque Lei da Cibersegurança aprovada na globalidade com 104 votos a favor A Proposta de Lei da Cibersegurança foi aprovada, na quarta-feira, pelo Parlamento com 104 votos a favor, 54 contra e nenhuma abstenção. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683084/lei-da-ciberseguran%C3%A7a-aprovada-na-globalidade-com-104-votos-a-favor-",
+      "source": "Jornal de Angola",
+      "_key": "cb6fd5fcf6fcda39",
+      "score": 6,
+      "title_cn": "安哥拉网络安全法以104票赞成获得通过"
+    },
+    {
+      "title": "Angola and Brazil strengthen dialogue on agribusiness investment",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-brasil-reforcam-dialogo-sobre-investimentos-no-agronegocio/",
+      "source": "ANGOP",
+      "_key": "a571f7ea505227fb",
+      "score": 5,
+      "title_cn": "安哥拉与巴西加强农业综合企业投资对话"
+    },
+    {
+      "title": "Minerais",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=117261",
+      "source": "ANGOP",
+      "_key": "2a6de76fa8be4ec5",
+      "score": 5,
+      "title_cn": "矿产"
+    },
+    {
+      "title": "\"Já não vou ajoelhar-me\": Angola procurará outros parceiros, diz ministro aos empresários brasileiros",
+      "url": "https://angola24horas.com/component/k2/item/34868-ja-nao-vou-ajoelhar-me-angola-procurara-outros-parceiros-diz-ministro-aos-empresarios-brasileiros",
+      "source": "Angola 24 Horas",
+      "_key": "98b593a390d3c7fc",
+      "score": 5,
+      "title_cn": "安哥拉部长对巴西商人称“不再下跪”，将寻求其他伙伴"
+    },
+    {
+      "title": "Universidade Mandume vai receber 149 milhões de euros para obras e equipamentos",
+      "url": "https://correiokianda.info/universidade-mandume-vai-receber-149-milhoes-de-euros-para-obras-e-equipamentos/",
+      "source": "Correio Kianda",
+      "_key": "accd6338b64a6b9b",
+      "score": 5,
+      "title_cn": "曼杜姆大学将获1.49亿欧元用于工程和设备"
+    },
+    {
+      "title": "        África1 hora atrás  OMS alerta que surto de Ébola na RDC avança mais rápido do que anteriores A Organização Mundial da Saúde, OMS, alerta que o actual surto de Ébola na República Democrática do Congo está a avançar a um ritmo considerado preocupante...   ",
+      "url": "https://correiokianda.info/oms-alerta-que-surto-de-ebola-na-rdc-avanca-mais-rapido-do-que-anteriores/",
+      "source": "Correio Kianda",
+      "_key": "dced37db8d3b6930",
+      "score": 5,
+      "title_cn": "世卫组织警告刚果民主共和国埃博拉疫情蔓延加速"
+    },
+    {
+      "title": "IDC-CDI condena violência no Uíge e pede condições para eleições de 2027",
+      "url": "https://holdonangola.com/idc-cdi-condena-violencia-no-uige-e-pede-condicoes-para-eleicoes-de-2027/",
+      "source": "Hold On Angola",
+      "_key": "6a21f81224dfdae1",
+      "score": 5,
+      "title_cn": "IDC-CDI谴责威热省暴力，呼吁为2027年大选创造条件"
+    },
+    {
+      "title": "OMS alerta que epidemia por Ébola na RDCongo pode tornar-se na pior da história",
+      "url": "https://jornaloguardiao.com/2026/08/13/oms-alerta-que-epidemia-por-ebola-na-rdcongo-pode-tornar-se-na-pior-da-historia/",
+      "source": "Jornal O Guardião",
+      "_key": "1e5df95f80923d4f",
+      "score": 5,
+      "title_cn": "世卫组织警告刚果民主共和国埃博拉疫情或成史上最严重"
+    },
+    {
+      "title": "Angola quer empresários brasileiros no país, mas recusa implorar – ministro",
+      "url": "https://jornaloguardiao.com/2026/08/13/angola-quer-empresarios-brasileiros-no-pais-mas-recusa-implorar-ministro/",
+      "source": "Jornal O Guardião",
+      "_key": "d1899f71fa5bdcb6",
+      "score": 5,
+      "title_cn": "安哥拉部长：欢迎巴西商人，但拒绝乞求"
+    },
+    {
+      "title": " OMS alerta que epidemia por Ébola na RDCongo pode tornar-se na pior da história ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f41d675c66760c",
+      "score": 5,
+      "title_cn": "世卫组织警告刚果民主共和国埃博拉疫情或成史上最严重"
+    },
+    {
+      "title": " Angola quer empresários brasileiros no país, mas recusa implorar – ministro ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8f56c934b55d8a",
+      "score": 5,
+      "title_cn": "安哥拉部长：欢迎巴西商人，但拒绝乞求"
+    },
+    {
+      "title": "Destaque José de Lima Massano mantém encontro com delegação empresarial do BrasilO ministro de Estado para a Coordenação Económica, José de Lima Massano, recebeu, quarta-feira, em audiência, uma delegação da missão empresarial brasileira que participou no Fórum do Agronegócio Angola-Brasil.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683085/jos%C3%A9-de-lima-massano-mant%C3%A9m-encontro-com-delega%C3%A7%C3%A3o-empresarial-do-brasil",
+      "source": "Jornal de Angola",
+      "_key": "6fa83469837aa0e4",
+      "score": 5,
+      "title_cn": "若泽·德·利马·马萨诺（José de Lima Massano）会见巴西商业代表团"
+    },
+    {
+      "title": "UNITA diz que nova Lei de Cibersegurança ameaça a transparência...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/unita-diz-que-nova-lei-de-ciberseguranca-diz-que-esta-ameaca-a-transparencia-do-processo-politico-mpla-sublinha-reforco-da-proteccao-de-pessoas-e-bens-73904.html",
+      "source": "Novo Jornal",
+      "_key": "1d157ed3801500d6",
+      "score": 5,
+      "title_cn": "安盟称新网络安全法威胁透明度"
     }
   ]
 }

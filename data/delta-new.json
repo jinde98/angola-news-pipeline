@@ -1,122 +1,500 @@
 {
-  "date": "2026-08-12",
-  "total_extracted": 1580,
-  "total_new": 19,
-  "total_existing": 1561,
+  "date": "2026-08-13",
+  "total_extracted": 1581,
+  "total_new": 82,
+  "total_existing": 1499,
   "articles": [
     {
-      "title": "Gingas do Maculusso to perform a show in Luanda this Saturday",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/gingas-do-maculusso-dao-alma-aos-50-anos-da-dipanda/",
+      "title": "Angola and Brazil strengthen dialogue on agribusiness investment",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-brasil-reforcam-dialogo-sobre-investimentos-no-agronegocio/",
       "source": "ANGOP",
-      "_key": "4e36fcb7948c1fa8"
+      "_key": "a571f7ea505227fb"
     },
     {
-      "title": "Musician Eduardo Paím honored at international kizomba congress",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/eduardo-paim-homenageado-no-congresso-internacional-de-kizomba/",
+      "title": "Angola proposes meeting on Lobito Refinery financing",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-propoe-reuniao-sobre-financiamento-da-refinaria-do-lobito/",
       "source": "ANGOP",
-      "_key": "d0dac6bd186c57e2"
+      "_key": "8ab3fd86c10101d1"
     },
     {
-      "title": "Duas comissões aprofundam divergências na preparação do Congresso da FNLA",
-      "url": "https://correiokianda.info/duas-comissoes-aprofundam-divergencias-na-preparacao-do-congresso-da-fnla/",
+      "title": "Angola adopts cybersecurity law",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/",
+      "source": "ANGOP",
+      "_key": "d08b65e874e60ed9"
+    },
+    {
+      "title": "National Assembly approves 2024 General State Account",
+      "url": "https://www.angop.ao/en/noticias/economia/assembleia-nacional-valida-conta-geral-do-estado-de-2024/",
+      "source": "ANGOP",
+      "_key": "9a0aa521e7a8b47c"
+    },
+    {
+      "title": "Economic performance boosts investor confidence – State Minister",
+      "url": "https://www.angop.ao/en/noticias/economia/desempenho-da-economia-reforca-credibilidade-de-investidores-ministro-de-estado/",
+      "source": "ANGOP",
+      "_key": "0c6c84870c7ae058"
+    },
+    {
+      "title": "President João Lourenço Receives Credentials of Five New Ambassadors",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-recebe-cartas-credenciais-de-cinco-novos-embaixadores/",
+      "source": "ANGOP",
+      "_key": "ff70acb807dfb9b2"
+    },
+    {
+      "title": "SADC reviews regional integration challenges",
+      "url": "https://www.angop.ao/en/noticias/politica/sadc-analisa-desafios-da-integracao-regional/",
+      "source": "ANGOP",
+      "_key": "52522d01d0ed4fa5"
+    },
+    {
+      "title": "Political parties recommend to increase social investment",
+      "url": "https://www.angop.ao/en/noticias/politica/partidos-politicos-defendem-reforco-do-investimento-social/",
+      "source": "ANGOP",
+      "_key": "cbe7b220be4b9fc5"
+    },
+    {
+      "title": "South Africa deems Angola a strategic partner",
+      "url": "https://www.angop.ao/en/noticias/politica/africa-do-sul-considera-angola-parceiro-estrategico/",
+      "source": "ANGOP",
+      "_key": "0abc496871442af5"
+    },
+    {
+      "title": "South Korea Ambassador to Angola highlights ties between the two countries",
+      "url": "https://www.angop.ao/en/noticias/politica/diplomata-ressalta-aproximacao-entre-angola-e-coreia-do-sul/",
+      "source": "ANGOP",
+      "_key": "7d1cc480ee4bbea7"
+    },
+    {
+      "title": "Turkish ambassador wants to increase cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/embaixador-turco-quer-elevar-cooperacao-com-angola/",
+      "source": "ANGOP",
+      "_key": "01307e8c8cc19c93"
+    },
+    {
+      "title": "Angola strengthens mineral traceability through technology platform",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-rastreabilidade-de-minerios-em-plataforma-tecnologica/",
+      "source": "ANGOP",
+      "_key": "d116f5fd0a9b20da"
+    },
+    {
+      "title": "Minerais",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=117261",
+      "source": "ANGOP",
+      "_key": "2a6de76fa8be4ec5"
+    },
+    {
+      "title": "Angola’s Central Bank calls for continued efforts to reduce and stabilise inflation rate",
+      "url": "https://www.angop.ao/en/noticias/economia/bna-quer-trabalho-continuo-para-reducao-e-estabilizacao-da-taxa-de-inflacao/",
+      "source": "ANGOP",
+      "_key": "f507f8fe8caa7222"
+    },
+    {
+      "title": "National Statistics Institute to launch informal sector survey",
+      "url": "https://www.angop.ao/en/noticias/economia/ine-lanca-inquerito-ao-sector-informal/",
+      "source": "ANGOP",
+      "_key": "4639c711121c8b3b"
+    },
+    {
+      "title": "Health Minister praises Huila province on health indicators",
+      "url": "https://www.angop.ao/en/noticias/saude/ministra-lutucuta-realca-huila-pela-melhoria-dos-indicadores-de-saude/",
+      "source": "ANGOP",
+      "_key": "4c4b7571fe33476b"
+    },
+    {
+      "title": "Outbreak – Authorities in Moxico province ensure epidemiological stability over Mpox",
+      "url": "https://www.angop.ao/en/noticias/saude/situacao-epidemiologica-estavel-no-moxico-apesar-de-suspeitas-de-mpox/",
+      "source": "ANGOP",
+      "_key": "c5f3c2d193e282f2"
+    },
+    {
+      "title": "Doença",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=69061",
+      "source": "ANGOP",
+      "_key": "5e2932d45f36f63a"
+    },
+    {
+      "title": "Ministry of Health appeals for operators' collaboration in fiscal stamps implementation",
+      "url": "https://www.angop.ao/en/noticias/saude/agt-assegura-implementacao-gradual-e-transparente-dos-selos-fiscais-nos-medicamentos/",
+      "source": "ANGOP",
+      "_key": "7864d3053d298c22"
+    },
+    {
+      "title": "Sogester takes over management of Soyo River Terminal",
+      "url": "https://www.angop.ao/en/noticias/economia/sogester-assume-gestao-do-terminal-fluvial-do-soyo/",
+      "source": "ANGOP",
+      "_key": "b7002c71d1d09335"
+    },
+    {
+      "title": "Angolan visual artists highlight growth in arts across the country",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/artistas-plasticas-destacam-crescimentos-das-artes-visuais-em-angola/",
+      "source": "ANGOP",
+      "_key": "0c7adda7b86a945a"
+    },
+    {
+      "title": "\"Já não vou ajoelhar-me\": Angola procurará outros parceiros, diz ministro aos empresários brasileiros",
+      "url": "https://angola24horas.com/component/k2/item/34868-ja-nao-vou-ajoelhar-me-angola-procurara-outros-parceiros-diz-ministro-aos-empresarios-brasileiros",
+      "source": "Angola 24 Horas",
+      "_key": "98b593a390d3c7fc"
+    },
+    {
+      "title": "UNITA indica quatro representantes para a CNE, incluindo o jornalista William Tonet",
+      "url": "https://angola24horas.com/politica/item/34869-unita-indica-quatro-representantes-para-a-cne-incluindo-o-jornalista-william-tonet",
+      "source": "Angola 24 Horas",
+      "_key": "6ad2c3bcae1e6de0"
+    },
+    {
+      "title": "Deputados do MPLA chumbam voto de protesto da UNITA sobre incidentes no Uíge",
+      "url": "https://angola24horas.com/politica/item/34867-deputados-do-mpla-chumbam-voto-de-protesto-da-unita-sobre-incidentes-no-uige",
+      "source": "Angola 24 Horas",
+      "_key": "dbe2a0da9885cdcd"
+    },
+    {
+      "title": "Ala de Ngola Kabango aprova cinco e chumba duas candidaturas à liderança da FNLA",
+      "url": "https://correiokianda.info/ala-de-ngola-kabango-aprova-cinco-e-chumba-duas-candidaturas-a-lideranca-da-fnla/",
       "source": "Correio Kianda",
-      "_key": "69b7aac6b1598312"
+      "_key": "aea839696735fce8"
     },
     {
-      "title": "        África2 horas atrás  Moçambique reestrutura Instituto de Transporte Marítimo e actualiza regras do sector O Governo de Moçambique aprovou um conjunto de instrumentos legais para reestruturar o Instituto de Transporte Marítimo (ITRANSMAR) e actualizar as regras que regulam o sector...   ",
-      "url": "https://correiokianda.info/mocambique-reestrutura-instituto-de-transporte-maritimo-e-actualiza-regras-do-sector/",
+      "title": "Novo aeroporto de Luanda prepara estreia de marca internacional de hotelaria",
+      "url": "https://correiokianda.info/novo-aeroporto-de-luanda-prepara-estreia-de-marca-internacional-de-hotelaria/",
       "source": "Correio Kianda",
-      "_key": "7f87d150bb28f7e5"
+      "_key": "2740c20d9c8fb827"
     },
     {
-      "title": "Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias",
-      "url": "https://diariodosnegocios.com/obras-nos-mulenvos-terao-custo-medio-de-700-milhoes-kz-por-quilometro-para-reabilitacao-de-30-km-de-vias/",
+      "title": "Universidade Mandume vai receber 149 milhões de euros para obras e equipamentos",
+      "url": "https://correiokianda.info/universidade-mandume-vai-receber-149-milhoes-de-euros-para-obras-e-equipamentos/",
+      "source": "Correio Kianda",
+      "_key": "accd6338b64a6b9b"
+    },
+    {
+      "title": "Executivo vai gastar 85 milhões de euros para levar luz aos Dembos e Nambuangongo",
+      "url": "https://correiokianda.info/executivo-vai-gastar-85-milhoes-de-euros-para-levar-luz-aos-dembos-e-nambuangongo/",
+      "source": "Correio Kianda",
+      "_key": "07f7060f0d9767c5"
+    },
+    {
+      "title": "William Tonet e mais três nomes indicados pela UNITA integram nova Comissão da CNE",
+      "url": "https://correiokianda.info/william-tonet-e-mais-tres-nomes-indicados-pela-unita-integram-nova-comissao-da-cne/",
+      "source": "Correio Kianda",
+      "_key": "f80e4afcc59baaf5"
+    },
+    {
+      "title": "UNITEL celebra 25 anos com entrega de Jetour X70 a cliente sorteado",
+      "url": "https://correiokianda.info/unitel-celebra-25-anos-com-entrega-de-jetour-x70-a-cliente-sorteado/",
+      "source": "Correio Kianda",
+      "_key": "a42516442c34926b"
+    },
+    {
+      "title": "Dívida pública angolana superou 56 mil milhões de kwanzas em 2024",
+      "url": "https://correiokianda.info/divida-publica-angolana-superou-56-mil-milhoes-de-kwanzas-em-2024/",
+      "source": "Correio Kianda",
+      "_key": "00256d470fdc2a3e"
+    },
+    {
+      "title": "Angola tem 35 milhões de hectares aráveis, mas só 17,7% são cultivados",
+      "url": "https://correiokianda.info/angola-tem-35-milhoes-de-hectares-araveis-mas-so-177-sao-cultivados/",
+      "source": "Correio Kianda",
+      "_key": "024949388c5ea9c5"
+    },
+    {
+      "title": "Sindicalista diz que queda da inflação não chega para melhorar salários",
+      "url": "https://correiokianda.info/sindicalista-diz-que-queda-da-inflacao-nao-chega-para-melhorar-salarios/",
+      "source": "Correio Kianda",
+      "_key": "142b226e989d32a8"
+    },
+    {
+      "title": "Viana facilita registo civil e emissão do BI para mais de 2.500 cidadãos",
+      "url": "https://correiokianda.info/viana-facilita-registo-civil-e-emissao-do-bi-para-mais-de-2-500-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "c419ae6f527cba47"
+    },
+    {
+      "title": "Marcelo Rebelo de Sousa hospitalizado de urgência após desmaio no Algarve",
+      "url": "https://correiokianda.info/marcelo-rebelo-de-sousa-hospitalizado-de-urgencia-apos-desmaio-no-algarve/",
+      "source": "Correio Kianda",
+      "_key": "f9f7362240e93038"
+    },
+    {
+      "title": "Eleições primárias nos EUA revelam divisões no Partido Democrata e testam influência de Donald Trump",
+      "url": "https://correiokianda.info/eleicoes-primarias-nos-eua-revelam-divisoes-no-partido-democrata-e-testam-influencia-de-donald-trump/",
+      "source": "Correio Kianda",
+      "_key": "f841a9297c88aee6"
+    },
+    {
+      "title": "PSG conquista Supertaça Europeia após vencer Aston Villa",
+      "url": "https://correiokianda.info/psg-conquista-supertaca-europeia-apos-vencer-aston-villa/",
+      "source": "Correio Kianda",
+      "_key": "63be3ed62ef89aa4"
+    },
+    {
+      "title": "PSG e Aston Villa disputam Supertaça da UEFA 2026 na Áustria",
+      "url": "https://correiokianda.info/psg-e-aston-villa-disputam-supertaca-da-uefa-2026-na-austria/",
+      "source": "Correio Kianda",
+      "_key": "ecf514954c4c1ba5"
+    },
+    {
+      "title": "Petro de Luanda conquista Campeonato Nacional Sénior Feminino de Futebol",
+      "url": "https://correiokianda.info/petro-de-luanda-conquista-campeonato-nacional-senior-feminino-de-futebol/",
+      "source": "Correio Kianda",
+      "_key": "22d438655f2442af"
+    },
+    {
+      "title": "        África1 hora atrás  OMS alerta que surto de Ébola na RDC avança mais rápido do que anteriores A Organização Mundial da Saúde, OMS, alerta que o actual surto de Ébola na República Democrática do Congo está a avançar a um ritmo considerado preocupante...   ",
+      "url": "https://correiokianda.info/oms-alerta-que-surto-de-ebola-na-rdc-avanca-mais-rapido-do-que-anteriores/",
+      "source": "Correio Kianda",
+      "_key": "dced37db8d3b6930"
+    },
+    {
+      "title": "        África13 horas atrás  República Democrática do Congo prepara reforma histórica no sector mineiro para reforçar controlo do Estado A República Democrática do Congo está a estudar aquela que será a primeira grande reforma ao seu código mineiro desde 2018. A proposta do Governo de...   ",
+      "url": "https://correiokianda.info/republica-democratica-do-congo-prepara-reforma-historica-no-sector-mineiro-para-reforcar-controlo-do-estado/",
+      "source": "Correio Kianda",
+      "_key": "756f93e1e2baa473"
+    },
+    {
+      "title": "Presidente João Lourenço recebe cartas credenciais de cinco novos embaixadores",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-recebe-cartas-credenciais-de-cinco-novos-embaixadores/",
       "source": "Diário dos Negócios",
-      "_key": "ab4df63f3912b824"
+      "_key": "005a4452fa2d68b2"
     },
     {
-      "title": "Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros",
-      "url": "https://diariodosnegocios.com/griner-assume-construcao-de-novo-centro-de-abastecimento-de-agua-nos-ramiros/",
+      "title": "Angola arrecada mais 52 mil milhões de kwanzas com petróleo no segundo trimestre",
+      "url": "https://diariodosnegocios.com/angola-arrecada-mais-52-mil-milhoes-de-kwanzas-com-petroleo-no-segundo-trimestre/",
       "source": "Diário dos Negócios",
-      "_key": "8f71505b96ec1583"
+      "_key": "71194f87bbc8660f"
     },
     {
-      "title": " Obras nos Mulenvos terão custo médio de 700 milhões Kz por quilómetro para reabilitação de 30 km de vias ",
+      "title": " Presidente João Lourenço recebe cartas credenciais de cinco novos embaixadores ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_530ece221b1e5c"
+      "_key": "t_70786b45a04ed2"
     },
     {
-      "title": " Griner assume construção de novo Centro de Abastecimento de Água nos Ramiros ",
+      "title": " Angola arrecada mais 52 mil milhões de kwanzas com petróleo no segundo trimestre ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_f7cb2e1e717943"
+      "_key": "t_5dc9fc20654e51"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260813-0058-5232-b006-da9bbbda5dd8&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260813-1913-4566-b056-8055de286dd4&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "56731ba8fb95c2f5"
+      "_key": "401bdb22b47c14a9"
     },
     {
-      "title": "Expedição expira Bijagós na literatura de viagem para o mundo e Guiné-Bissau",
-      "url": "https://forbesafricalusofona.com/expedicao-expira-bijagos-na-literatura-de-viagem-para-o-mundo-e-guine-bissau/",
+      "title": "Banco Mundial financia programa MozCommunity com 250 milhões de dólares",
+      "url": "https://forbesafricalusofona.com/banco-mundial-financia-programa-mozcommunity-com-250-milhoes-de-dolares/",
       "source": "Forbes África",
-      "_key": "8ebf07ba710b9e1c"
+      "_key": "01b33e0ace29fee7"
     },
     {
-      "title": "Moçambique avança com venda de parte da participação estatal na Tmcel",
-      "url": "https://forbesafricalusofona.com/mocambique-avanca-com-venda-de-parte-da-participacao-estatal-na-tmcel/",
+      "title": "Atlântico estreia novo modelo de atendimento na reinaugurada Agência Mutamba",
+      "url": "https://forbesafricalusofona.com/atlantico-estreia-novo-modelo-de-atendimento-na-reinaugurada-agencia-mutamba/",
       "source": "Forbes África",
-      "_key": "eff5003d927ddc97"
+      "_key": "d80c8511b2593003"
     },
     {
-      "title": "Liga Guineense dos Direitos Humanos exige libertação imediata de cidadãos detidos sem fundamento legal",
-      "url": "https://forbesafricalusofona.com/liga-guineense-dos-direitos-humanos-exige-libertacao-imediata-de-cidadaos-detidos-sem-fundamento-legal/",
-      "source": "Forbes África",
-      "_key": "015c0592f9746b36"
+      "title": "Oposição acusa Governo de falhar na fiscalização e empurrar famílias para a pobreza",
+      "url": "https://holdonangola.com/oposicao-acusa-governo-de-falhar-na-fiscalizacao-e-empurrar-familias-para-a-pobreza/",
+      "source": "Hold On Angola",
+      "_key": "5a8df1c717acb0ba"
     },
     {
-      "title": "Economia Angola e Brasil debatem em Luanda agronegócio como motor da economia ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683069/angola-e-brasil-debatem-em-luanda-agroneg%C3%B3cio-como-motor-da-economia-",
+      "title": "Relatório de 2026 expõe riscos da biometria nas fronteiras de Angola rumo às eleições de 2027",
+      "url": "https://holdonangola.com/relatorio-de-2026-expoe-riscos-da-biometria-nas-fronteiras-de-angola-rumo-as-eleicoes-de-2027/",
+      "source": "Hold On Angola",
+      "_key": "74d4ef6efbf0e347"
+    },
+    {
+      "title": "William Tonet indicado pela UNITA para integrar a…",
+      "url": "https://holdonangola.com/william-tonet-indicado-pela-unita-para-integrar-a-comissao-nacional-eleitoral/",
+      "source": "Hold On Angola",
+      "_key": "a7e6deffb073214c"
+    },
+    {
+      "title": "ISCPC realiza seminário metodológico para formação de gestores estratégicos da Polícia Nacional",
+      "url": "https://holdonangola.com/iscpc-realiza-seminario-metodologico-para-formacao-de-gestores-estrategicos-da-policia-nacional/",
+      "source": "Hold On Angola",
+      "_key": "be775474b327e0f6"
+    },
+    {
+      "title": "FAZEMOS e MUDEI reforçam participação cívica no processo…",
+      "url": "https://holdonangola.com/fazemos-e-mudei-reforcam-participacao-civica-no-processo-eleitoral/",
+      "source": "Hold On Angola",
+      "_key": "f3cd117bcf74d446"
+    },
+    {
+      "title": "IDC-CDI condena violência no Uíge e pede condições para eleições de 2027",
+      "url": "https://holdonangola.com/idc-cdi-condena-violencia-no-uige-e-pede-condicoes-para-eleicoes-de-2027/",
+      "source": "Hold On Angola",
+      "_key": "6a21f81224dfdae1"
+    },
+    {
+      "title": "Moçambique: ANAMOLA reforça articulação institucional…",
+      "url": "https://holdonangola.com/mocambique-anamola-reforca-articulacao-institucional-em-quelimane-no-primeiro-aniversario/",
+      "source": "Hold On Angola",
+      "_key": "93692887f03288c0"
+    },
+    {
+      "title": "As fake news como arma política num Estado…",
+      "url": "https://holdonangola.com/as-fake-news-como-arma-politica-num-estado-autoritario/",
+      "source": "Hold On Angola",
+      "_key": "62e1ff2a4e86b389"
+    },
+    {
+      "title": "Parlamento angolano chumba pedido de voto de protesto sobre incidentes com UNITA",
+      "url": "https://jornaloguardiao.com/2026/08/13/parlamento-angolano-chumba-pedido-de-voto-de-protesto-sobre-incidentes-com-unita/",
+      "source": "Jornal O Guardião",
+      "_key": "2656e925a1fe4eae"
+    },
+    {
+      "title": "OMS alerta que epidemia por Ébola na RDCongo pode tornar-se na pior da história",
+      "url": "https://jornaloguardiao.com/2026/08/13/oms-alerta-que-epidemia-por-ebola-na-rdcongo-pode-tornar-se-na-pior-da-historia/",
+      "source": "Jornal O Guardião",
+      "_key": "1e5df95f80923d4f"
+    },
+    {
+      "title": "Angola quer empresários brasileiros no país, mas recusa implorar – ministro",
+      "url": "https://jornaloguardiao.com/2026/08/13/angola-quer-empresarios-brasileiros-no-pais-mas-recusa-implorar-ministro/",
+      "source": "Jornal O Guardião",
+      "_key": "d1899f71fa5bdcb6"
+    },
+    {
+      "title": "África do Sul quer que os países de origem lhe reembolsem custos de repatriamentos",
+      "url": "https://jornaloguardiao.com/2026/08/12/africa-do-sul-quer-que-os-paises-de-origem-lhe-reembolsem-custos-de-repatriamentos/",
+      "source": "Jornal O Guardião",
+      "_key": "08e41c84c816ba8c"
+    },
+    {
+      "title": "Trump garante que EUA controlam Ormuz embora Teerão mantenha a passagem fechada",
+      "url": "https://jornaloguardiao.com/2026/08/13/trump-garante-que-eua-controlam-ormuz-embora-teerao-mantenha-a-passagem-fechada/",
+      "source": "Jornal O Guardião",
+      "_key": "fca7b3d5f8e391bb"
+    },
+    {
+      "title": "Quinta-feira, 13 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5ba44ef34a9ab2"
+    },
+    {
+      "title": " Parlamento angolano chumba pedido de voto de protesto sobre incidentes com UNITA ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_978543b583121d"
+    },
+    {
+      "title": " OMS alerta que epidemia por Ébola na RDCongo pode tornar-se na pior da história ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f41d675c66760c"
+    },
+    {
+      "title": " Angola quer empresários brasileiros no país, mas recusa implorar – ministro ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_8f56c934b55d8a"
+    },
+    {
+      "title": " África do Sul quer que os países de origem lhe reembolsem custos de repatriamentos ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_423541e25683ad"
+    },
+    {
+      "title": " Trump garante que EUA controlam Ormuz embora Teerão mantenha a passagem fechada ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_27dc3734883a69"
+    },
+    {
+      "title": "Destaque Preços grossistas no mercado confirmam cenário de desaceleraçãoO Índice de Preços Grossista (IPG) registou uma variação mensal de 0,67 por cento entre o mês de Junho a Julho de 2026, sendo 0,11 ponto percentual superior à registada no período anterior e 0,48 ponto percentual inferior em relação ao mesmo mês do ano de 2025.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683083/pre%C3%A7os-grossistas-no-mercado-confirmam-cen%C3%A1rio-de-desacelera%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "3fb24469bb389bf1"
+      "_key": "5b757d274da34179"
     },
     {
-      "title": "Sociedade PFRHS reforça formação de profissionais do Hospital de Queimados Julius Nyerere ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683068/pfrhs-refor%C3%A7a-forma%C3%A7%C3%A3o-de-profissionais-do-hospital-de-queimados-julius-nyerere",
+      "title": "Destaque Companhia Africana de Aviação inicia operações na rota Kinshasa–LuandaA Companhia Africana de Aviação (CAA) vai iniciar, a partir de 21 de Agosto deste ano, as suas operações em Angola, com a abertura da rota Kinshasa–Luanda–Kinshasa, soube, esta quarta-feira, refere um comunicado de imprensa enviado ao Jornal de Angola Online. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683082/companhia-africana-de-avia%C3%A7%C3%A3o-inicia-opera%C3%A7%C3%B5es-na-rota-kinshasa%E2%80%93luanda",
       "source": "Jornal de Angola",
-      "_key": "e616bbe5701dd282"
+      "_key": "f4b163cefab51e22"
     },
     {
-      "title": "Sociedade Enfermeiros angolanos aprofundam conhecimentos em infectologia no Brasil ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683064/enfermeiros-angolanos-aprofundam-conhecimentos-em-infectologia-no-brasil",
+      "title": "Destaque José de Lima Massano mantém encontro com delegação empresarial do BrasilO ministro de Estado para a Coordenação Económica, José de Lima Massano, recebeu, quarta-feira, em audiência, uma delegação da missão empresarial brasileira que participou no Fórum do Agronegócio Angola-Brasil.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683085/jos%C3%A9-de-lima-massano-mant%C3%A9m-encontro-com-delega%C3%A7%C3%A3o-empresarial-do-brasil",
       "source": "Jornal de Angola",
-      "_key": "4c85365feb90d538"
+      "_key": "6fa83469837aa0e4"
     },
     {
-      "title": "Oposição acusa Governo de falhar na fiscalização e...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/oposicao-acusa-governo-de-falhar-na-fiscalizacao-e-empurrar-familias-para-a-pobreza-73893.html",
+      "title": "Destaque Lei da Cibersegurança aprovada na globalidade com 104 votos a favor A Proposta de Lei da Cibersegurança foi aprovada, na quarta-feira, pelo Parlamento com 104 votos a favor, 54 contra e nenhuma abstenção. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683084/lei-da-ciberseguran%C3%A7a-aprovada-na-globalidade-com-104-votos-a-favor-",
+      "source": "Jornal de Angola",
+      "_key": "cb6fd5fcf6fcda39"
+    },
+    {
+      "title": "Mundo Eleitores da Zâmbia votam hoje para eleger Presidente e deputados ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/683087/eleitores-da-z%C3%A2mbia-votam-hoje-para-eleger-presidente-e-deputados",
+      "source": "Jornal de Angola",
+      "_key": "39f3523d0acb6f50"
+    },
+    {
+      "title": "Mundo Pelo menos 265 mortos e decretado estado de emergência na Colômbia ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/683086/pelo-menos-265-mortos-e-decretado-estado-de-emerg%C3%AAncia-na-col%C3%B4mbia",
+      "source": "Jornal de Angola",
+      "_key": "44c39508ab43794a"
+    },
+    {
+      "title": "Economia Levantamentos sem cartão ficam indisponíveis das 23 às 6h00 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683081/levantamentos-sem-cart%C3%A3o-ficam-indispon%C3%ADveis-das-23-%C3%A0s-6h00",
+      "source": "Jornal de Angola",
+      "_key": "5d1d34b1d48d4b5c"
+    },
+    {
+      "title": "Economia Feira Local das Comunidades arranca quinta-feira em Viana ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683080/feira-local-das-comunidades-arranca--quinta-feira-em-viana-",
+      "source": "Jornal de Angola",
+      "_key": "196c217ff1bda112"
+    },
+    {
+      "title": "UNITA diz que nova Lei de Cibersegurança ameaça a transparência...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/unita-diz-que-nova-lei-de-ciberseguranca-diz-que-esta-ameaca-a-transparencia-do-processo-politico-mpla-sublinha-reforco-da-proteccao-de-pessoas-e-bens-73904.html",
       "source": "Novo Jornal",
-      "_key": "67d468b1730d02b5"
+      "_key": "1d157ed3801500d6"
     },
     {
-      "title": "Escolas técnicas profissionais registam enchentes nos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/escolas-tecnicas-profissionais-registam-enchentes-nos-exames-de-admissao-inscricoes-para-os-liceus-que-nao-exigem-exames-abrem-na-proxima-semana-73895.html",
+      "title": "William Tonet indicado pela UNITA para comissário da...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/jornalista-william-tonet-indicado-pela-unita-como-comissario-na-cne-73899.html",
       "source": "Novo Jornal",
-      "_key": "918cfea2698a36e5"
+      "_key": "5ad23802c3452b0c"
     },
     {
-      "title": "China testa projecto-piloto em parque para reduzir...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/china-testa-projecto-piloto-em-parque-para-reduzir-presenca-de-mosquitos-73890.html",
+      "title": "ORAA, das \"ruínas\" da cidade ao abrigo que lhes dá...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/oraa-das-ruinas-da-cidade-ao-abrigo-que-lhes-da-de-de-comer-de-beber-e-um-nome---uma-sociedade-saudavel-trata-bem-os-seus-animais-73894.html",
       "source": "Novo Jornal",
-      "_key": "d2740d586d2b42ca"
+      "_key": "0f869dc92a7e1518"
     },
     {
-      "title": "Encarregados de educação podem gastar em propinas entre os 250...",
-      "url": "https://valoreconomico.co.ao/artigo/encarregados-de-educacao-podem-gastar-em-propinas-entre-os-250-mil-e-os-4-2-milhoes-de-kwanzas-por-ano",
-      "source": "Valor Económico",
-      "_key": "d43c4d2ea68252d0"
+      "title": "Zâmbia vai às urnas para dizer se as reformas económicas...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/zambia-vai-as-urnas-para-dizer-se-as-reformas-economicas-de-hichilema-devem-continuar-no-mesmo-caminho-inflacao-e-desemprego-ameacam-reeleicao-73902.html",
+      "source": "Novo Jornal",
+      "_key": "fe3d73842ceb9761"
+    },
+    {
+      "title": "Angola fecha participação nos Mundiais da JJIF com...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/angola-fecha-participacao-nos-mundiais-da-jjif-com-sete-medalhas-73896.html",
+      "source": "Novo Jornal",
+      "_key": "b8b01305f6964a2c"
+    },
+    {
+      "title": "Réplicas da candidatura do general Higino Carneiro...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/replicas-da-candidatura-do-general-higino-carneiro-a-lideranca-do-mpla-73903.html",
+      "source": "Novo Jornal",
+      "_key": "dcbedadd914210d7"
+    },
+    {
+      "title": "FÓRMULA DE SUCESSO: EMPREGOS FORA DA CAIXA. Universidade, Carreira e Empreendedorismo.",
+      "url": "https://marginal.co.ao/programas/formula-de-sucesso?ep=73897",
+      "source": "Novo Jornal",
+      "_key": "b9c496cdf0208670"
     }
   ]
 }
