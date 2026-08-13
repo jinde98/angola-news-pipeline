@@ -1,91 +1,49 @@
 {
   "date": "2026-08-13",
-  "total_new": 35,
-  "total_filtered": 12,
+  "total_new": 19,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Corredor do Lobito mobiliza 2 mil milhões de euros para projectos em Angola",
-      "url": "https://forbesafricalusofona.com/corredor-do-lobito-mobiliza-2-mil-milhoes-de-euros-para-projectos-em-angola/",
-      "source": "Forbes África",
-      "_key": "d8fe52a41610ed27",
-      "score": 10
-    },
-    {
-      "title": "Falta de combustível paralisa condutores no CuanzaS-ul com esperas superiores...",
-      "url": "https://valoreconomico.co.ao/artigo/falta-de-combustivel-paralisa-condutores-no-cuanzas-ul-com-esperas-superiores-a-tres-horas",
-      "source": "Valor Económico",
-      "_key": "568d09ec3442ca90",
-      "score": 9
-    },
-    {
-      "title": "Namibe Port's new container terminal receives first cargo ship",
-      "url": "https://www.angop.ao/en/noticias/economia/novo-terminal-de-contentores-do-porto-do-namibe-recebe-primeiro-navio-de-carga/",
-      "source": "ANGOP",
-      "_key": "5091773370f8b031",
-      "score": 7
-    },
-    {
-      "title": "FÓRUM MARGINAL: OS TEMAS QUE MOVEM A SOCIEDADE. O programa de hoje, promoveu discussões sobre temas de interesse público, como o abastecimento de combustíveis, a educação, a fiscalização e o comércio informal.",
-      "url": "https://marginal.co.ao/programas/forum-marginal?ep=73927",
+      "title": "PONTO AO: TECNOLÓGIA E INOVAÇÃO. Startups, inovação e investimento: o que falta para transformar boas ideias em grandes negócios?",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=73930",
       "source": "Novo Jornal",
-      "_key": "6331b01239b341a1",
+      "_key": "a3ca4fe1b10320cc",
+      "score": 8
+    },
+    {
+      "title": "Mundo OMS alerta que surto de Ébola poderá tornar-se o mais mortal da história ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/683157/oms-alerta-que-surto-de-%C3%A9bola-poder%C3%A1-tornar-se-o-mais-mortal-da-hist%C3%B3ria-",
+      "source": "Jornal de Angola",
+      "_key": "c7488b211a2f43a8",
       "score": 7
     },
     {
-      "title": "Angola falha requisitos mínimos de transparência fiscal, revela Departamento de...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-falha-requisitos-minimos-de-transparencia-fiscal-revela-departamento-de-estado-dos-eua",
-      "source": "Valor Económico",
-      "_key": "ae0eef840b720942",
-      "score": 7
-    },
-    {
-      "title": "“Os brasileiros disseram que o próprio investidor do agro tem uma resistência psicológica de se deslocarˮ, revela PCA da AIPEX de Angola",
-      "url": "https://forbesafricalusofona.com/os-brasileiros-disseram-que-o-proprio-investidor-do-agro-tem-uma-resistencia-psicologica-de-se-deslocar%cb%ae-revela-pca-da-aipex-de-angola/",
-      "source": "Forbes África",
-      "_key": "a474b81fdf8c3b80",
-      "score": 6
-    },
-    {
-      "title": "Destaque Presidente João Lourenço recebe delegação de empresários brasileiros O Chefe de Estado, João Lourenço, recebeu, na manhã de hoje, uma delegação de empresários brasileiros, encabeçada pelo presidente do Grupo de Líderes Empresariais (LIDE), João Neto, que se encontra no país, no quadro do Fórum do Agronegócio Angola – Brasil.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683141/presidente-jo%C3%A3o-louren%C3%A7o-recebe-delega%C3%A7%C3%A3o-de-empres%C3%A1rios-brasileiros-",
-      "source": "Jornal de Angola",
-      "_key": "f9aa7e498af0b4cd",
-      "score": 6
-    },
-    {
-      "title": "13:30 / 13 ago. 2026 Angola propõe reunião sobre financiamento ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683152/angola-prop%C3%B5e-reuni%C3%A3o--sobre-financiamento",
-      "source": "Jornal de Angola",
-      "_key": "d4ee6935ab86dfca",
-      "score": 6
-    },
-    {
-      "title": "“Chuvas podem falhar no Sul de Angola durante parte da próxima época chuvosa”, diz INAMET",
-      "url": "https://correiokianda.info/chuvas-podem-falhar-no-sul-de-angola-durante-parte-da-proxima-epoca-chuvosa-diz-inamet/",
+      "title": "Brasil quer investir no agronegócio e produção de proteína animal em Angola",
+      "url": "https://correiokianda.info/brasil-quer-investir-no-agronegocio-e-producao-de-proteina-animal-em-angola/",
       "source": "Correio Kianda",
-      "_key": "5719d2c595d6f14e",
+      "_key": "06f9e2ceb090416e",
+      "score": 6
+    },
+    {
+      "title": "Destaque INE apela ao rigor e à responsabilidade no Inquérito ao Sector InformalO presidente do Conselho de Administração do Instituto Nacional de Estatística (INE), Joel Futi, apelou, esta quinta-feira, ao rigor, à ética e à responsabilidade na realização do Inquérito ao Sector Informal (ISI-2026), previsto para arrancar no próximo dia 17 de Agosto.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683154/ine-apela-ao-rigor-e-%C3%A0-responsabilidade-no-inqu%C3%A9rito-ao-sector-informal",
+      "source": "Jornal de Angola",
+      "_key": "10a6ca237e7707e6",
+      "score": 6
+    },
+    {
+      "title": "Governo angolano garante que insegurança alimentar severa reduziu para 11,7%",
+      "url": "https://forbesafricalusofona.com/governo-angolano-garante-que-inseguranca-alimentar-severa-reduziu-para-117/",
+      "source": "Forbes África",
+      "_key": "ca8f6ff473fe24ac",
       "score": 5
     },
     {
-      "title": "Destaque Téte António reitera importância de soluções africanas para paz e segurança no continenteO ministro das Relações Exteriores, Téte António, reiterou, hoje, em Durban, na África do Sul, a importância das soluções africanas para implementação da paz e segurança no continente.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683135/t%C3%A9te-ant%C3%B3nio-reitera-import%C3%A2ncia-de-solu%C3%A7%C3%B5es-africanas-para-paz-e-seguran%C3%A7a-no-continente",
-      "source": "Jornal de Angola",
-      "_key": "b5630a3fe3024a34",
-      "score": 5
-    },
-    {
-      "title": "Sociedade INAMET alerta para fenómenos climáticos durante época chuvosa 2026/2027 ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683153/inamet-alerta-para-fen%C3%B3menos-clim%C3%A1ticos-durante-%C3%A9poca-chuvosa-20262027",
-      "source": "Jornal de Angola",
-      "_key": "49537af0d36c76c7",
-      "score": 5
-    },
-    {
-      "title": "13:30 / 13 ago. 2026 Autorizada concessão de unidade hoteleira ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683151/autorizada-concess%C3%A3o-de-unidade-hoteleira-",
-      "source": "Jornal de Angola",
-      "_key": "c1a19b77bf162c89",
+      "title": "Parlamento aprova por unanimidade alteração à Lei sobre...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-aprova-por-unanimidade-alteracao-a-lei-sobre-a-liberdade-de-religiao-e-de-culto-73929.html",
+      "source": "Novo Jornal",
+      "_key": "3fbfd23552bbe349",
       "score": 5
     }
   ]
