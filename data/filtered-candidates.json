@@ -1,28 +1,56 @@
 {
   "date": "2026-08-14",
-  "total_new": 8,
-  "total_filtered": 3,
-  "scored_by": "gemini-flash",
+  "total_new": 16,
+  "total_filtered": 7,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "Construção de infra-estruturas do pólo de desenvolvimento turístico do Okavango orçado em 73 milhões de dólares",
-      "url": "https://forbesafricalusofona.com/construcao-de-infra-estruturas-do-polo-de-desenvolvimento-turistico-do-okavango-orcado-em-73-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "9349b7c21a1701a4",
-      "score": 8
+      "title": "PNA determina que situação de segurança pública no País é estável: Nos últimos seis meses foram registados 25 mil 747 crimes, menos 2.391que o período homólogo",
+      "url": "https://namiradocrime.info/show/17242",
+      "source": "Na Mira do Crime",
+      "_key": "f0810c079002c44b",
+      "score": 7
     },
     {
-      "title": "Destaque Emprego em Angola aumenta 6,4 por cento A população empregada em Angola, com 15 ou mais anos de idade, aumentou 6,4% no II trimestre de 2026, passando de 9 562 740 para 10 171 244 pessoas, segundo dados do Inquérito sobre o Emprego em Angola (IEA).",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683215/emprego-em-angola-aumenta-64-por-cento-",
+      "title": "PR aprova ajuste directo de 37,4 mil milhões de kwanzas...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-aprova-ajuste-directo-de-37-4-mil-milhoes-de-kwanzas-para-manuais-escolares-e-distribuicao",
+      "source": "Valor Económico",
+      "_key": "08762122005b4332",
+      "score": 7
+    },
+    {
+      "title": "Mundo14/08/2026Acordo sobre mecanismo para eleger um presidente",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/683224/acordo-sobre-mecanismo-para-eleger-um-presidente",
       "source": "Jornal de Angola",
-      "_key": "b97e173d5c814189",
+      "_key": "51db2085b8a26ae7",
       "score": 6
     },
     {
-      "title": "Pilot rice production harvests 17 tonnes in Cuelei",
-      "url": "https://www.angop.ao/en/noticias/agricultura/producao-experimental-de-arroz-colhe-17-toneladas-no-cuelei/",
-      "source": "ANGOP",
-      "_key": "7636b7ab3367cd0c",
+      "title": "Polícia detém 13 suspeitos e apreende armas e outros meios durante operação nos Mulenvos",
+      "url": "https://namiradocrime.info/show/17243",
+      "source": "Na Mira do Crime",
+      "_key": "25c0a428fc7d4255",
+      "score": 6
+    },
+    {
+      "title": "Mais de 10 milhões de angolanos têm emprego, mas maioria trabalha no informal",
+      "url": "https://correiokianda.info/mais-de-10-milhoes-de-angolanos-tem-emprego-mas-maioria-trabalha-no-informal/",
+      "source": "Correio Kianda",
+      "_key": "be5a9c6204ec40a5",
+      "score": 5
+    },
+    {
+      "title": "Mundo14/08/2026África do Sul quer reembolso dos gastos com repatriamentos",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/683223/%C3%A1frica-do-sul-quer-reembolso-dos-gastos-com-repatriamentos",
+      "source": "Jornal de Angola",
+      "_key": "95ea65eeb09a8327",
+      "score": 5
+    },
+    {
+      "title": "TAAG esgota bilhetes Cabinda-Luanda na classe económica...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/taag-esgota-bilhetes-cabinda-luanda-na-classe-economica-bilhetes-agora-so-em-dezembro-ou-em-executiva-73952.html",
+      "source": "Novo Jornal",
+      "_key": "9355571347bd6c8f",
       "score": 5
     }
   ]
