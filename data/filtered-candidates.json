@@ -1,133 +1,98 @@
 {
   "date": "2026-08-15",
-  "total_new": 48,
-  "total_filtered": 18,
+  "total_new": 26,
+  "total_filtered": 13,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Energia fica mais cara em até 20% para empresas e similares",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_6bb9cc54bfb7ae",
+      "title": "Brent fecha a semana em alta de 1,66% para 88,52 dólares",
+      "url": "https://jornaloguardiao.com/2026/08/15/brent-fecha-a-semana-em-alta-de-166-para-8852-dolares/",
+      "source": "Jornal O Guardião",
+      "_key": "5156bd6d6d12c59c",
       "score": 9
     },
     {
-      "title": "Oil and gas continue to play a decisive role in Angola's economy",
-      "url": "https://www.angop.ao/en/noticias/economia/petroleo-e-gas-continuam-a-desempenhar-papel-determinante-na-economia/",
-      "source": "ANGOP",
-      "_key": "c0a101cb515385b5",
-      "score": 8
-    },
-    {
-      "title": "Intimidava população na via pública: Falso agente da polícia detido com meios militares no mercado do Luvo",
-      "url": "https://namiradocrime.info/show/17245",
-      "source": "Na Mira do Crime",
-      "_key": "d50b6f5e949992de",
-      "score": 8
-    },
-    {
-      "title": "Na Cuca: \"Mana Pancha\" morre após ser atacado com vários golpes de faca na região do pescoço após ser acusado de furtar peruca",
-      "url": "https://namiradocrime.info/show/17247",
-      "source": "Na Mira do Crime",
-      "_key": "db95dbaa1cb1ea6d",
-      "score": 7
-    },
-    {
-      "title": "Processo. nº 1007/025-SZ -Família denuncia morosidade no esclarecimento de um caso de homicídio onde o principal suspeito \"Ti Fana\" circula livremente nas ruas do Sambizanga",
-      "url": "https://namiradocrime.info/show/17246",
-      "source": "Na Mira do Crime",
-      "_key": "2ebdbfacbaf509a7",
-      "score": 7
-    },
-    {
-      "title": "BAC captura bandido que disparou duas vezes contra um soba e roubou a sua motorizada - Tiros atingiram o ombro da vítima mas só rasgaram a camisola",
-      "url": "https://namiradocrime.info/show/17244",
-      "source": "Na Mira do Crime",
-      "_key": "38a082bf2f0bb16e",
-      "score": 7
-    },
-    {
-      "title": "Estradas degradadas e escassez de insumos ‘asfixiam’ produção agrícola no...",
-      "url": "https://valoreconomico.co.ao/artigo/estradas-degradadas-e-escassez-de-insumos-asfixiam-producao-agricola-no-cuanza-sul",
-      "source": "Valor Económico",
-      "_key": "15fa4b4428655f7a",
-      "score": 7
-    },
-    {
-      "title": "Employed population in Angola exceeds 10 million in second quarter",
-      "url": "https://www.angop.ao/en/noticias/economia/populacao-empregada-em-angola-atinge-mais-de-10-milhoes-no-2o-trimestre/",
-      "source": "ANGOP",
-      "_key": "5de2db6446475345",
-      "score": 6
-    },
-    {
-      "title": "Angola's National Assembly calls for calm and tolerance in election year",
-      "url": "https://www.angop.ao/en/noticias/politica/an-apela-a-serenidade-e-tolerancia-no-ano-eleitoral/",
-      "source": "ANGOP",
-      "_key": "5ee8310b4477f6b4",
-      "score": 6
-    },
-    {
-      "title": "Desemprego em Angola regista “ligeiro aumento” no segundo trimestre – INE",
-      "url": "https://jornaloguardiao.com/2026/08/14/desemprego-em-angola-regista-ligeiro-aumento-no-segundo-trimestre-ine/",
-      "source": "Jornal O Guardião",
-      "_key": "307c7dd3deabe0a2",
-      "score": 6
-    },
-    {
-      "title": " Desemprego em Angola regista “ligeiro aumento” no segundo trimestre – INE ",
+      "title": " Brent fecha a semana em alta de 1,66% para 88,52 dólares ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_beb19b960f952d",
+      "_key": "t_d38a79a0c4813d",
+      "score": 9
+    },
+    {
+      "title": "Barragem de Capanda vai receber obras para melhorar a produção de energia",
+      "url": "https://correiokianda.info/barragem-de-capanda-vai-receber-obras-para-melhorar-a-producao-de-energia/",
+      "source": "Correio Kianda",
+      "_key": "c10e03a8e77bdd69",
+      "score": 7
+    },
+    {
+      "title": "        África2 horas atrás  SADC aponta industrialização e infra-estruturas como motores da transformação regional A Comunidade de Desenvolvimento da África Austral (SADC) defende a industrialização, o desenvolvimento de infra-estruturas e a transformação das economias produtivas como pilares para acelerar a...   ",
+      "url": "https://correiokianda.info/sadc-aponta-industrializacao-e-infra-estruturas-como-motores-da-transformacao-regional/",
+      "source": "Correio Kianda",
+      "_key": "e19ae3742f352a6a",
+      "score": 7
+    },
+    {
+      "title": "Governador do BNA espera que os bancos comerciais continuem a responder às expectativas dos cidadãos e das empresas",
+      "url": "https://forbesafricalusofona.com/governador-do-bna-espera-que-os-bancos-comerciais-continuem-a-responder-as-expectativas-dos-cidadaos-e-das-empresas/",
+      "source": "Forbes África",
+      "_key": "f785cc910ba3a2c0",
+      "score": 7
+    },
+    {
+      "title": "Omatapalo recorre a empréstimo de 35 milhões de euros para projectos em Angola",
+      "url": "https://forbesafricalusofona.com/omatapalo-recorre-a-emprestimo-de-35-milhoes-de-euros-para-projectos-em-angola/",
+      "source": "Forbes África",
+      "_key": "72186657a250141f",
+      "score": 7
+    },
+    {
+      "title": "EPAL prepara modernização tecnológica e expansão das redes de água no sul de Luanda",
+      "url": "https://correiokianda.info/epal-prepara-modernizacao-tecnologica-e-expansao-das-redes-de-agua-no-sul-de-luanda/",
+      "source": "Correio Kianda",
+      "_key": "1dbc362bd3241966",
       "score": 6
     },
     {
-      "title": "Destaque Cabinda concentra 200 dos 289 casos de Mpox registados em AngolaA província de Cabinda concentra 200 dos 289 casos confirmados de Mpox registados em Angola, segundo dados apresentados sexta-feira, 14 de Agosto, durante uma visita de trabalho da ministra da Saúde, Sílvia Lutucuta.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683243/cabinda-concentra-200-dos-289-casos-de-mpox-registados-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "43a76edc0c646296",
+      "title": "Eleições de 2027 levam Polícia Nacional a reforçar treinamento das forças",
+      "url": "https://correiokianda.info/eleicoes-de-2027-levam-policia-nacional-a-reforcar-treinamento-das-forcas/",
+      "source": "Correio Kianda",
+      "_key": "d0c659250801dd40",
       "score": 6
     },
     {
-      "title": "Economia Emprego em Angola aumenta 6,4 por cento no segundo trimestre ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683215/emprego-em-angola-aumenta-64-por-cento-no-segundo-trimestre-",
-      "source": "Jornal de Angola",
-      "_key": "954646b477091051",
+      "title": "Oficiais de Justiça retomam greve na segunda-feira para pressionar Governo",
+      "url": "https://correiokianda.info/oficiais-de-justica-retomam-greve-na-segunda-feira-para-pressionar-governo/",
+      "source": "Correio Kianda",
+      "_key": "772ba09bee1d16f7",
       "score": 6
     },
     {
-      "title": "Minister challenges municipalities to transform potential into jobs",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-desafia-municipios-a-transformar-potencialidades-em-emprego/",
-      "source": "ANGOP",
-      "_key": "11c20d68174e14d8",
+      "title": "Desemprego entre jovens em Angola reduz 40,5% no 2° trimestre",
+      "url": "https://forbesafricalusofona.com/desemprego-entre-jovens-em-angola-reduz-405-no-2-trimestre/",
+      "source": "Forbes África",
+      "_key": "26f369e07773e582",
+      "score": 6
+    },
+    {
+      "title": "EN100 - Negativo da semana: Uma estrada onde o Estado não pode continuar a contar mortos",
+      "url": "https://namiradocrime.info/show/17248",
+      "source": "Na Mira do Crime",
+      "_key": "d03eba5bb7319a05",
+      "score": 6
+    },
+    {
+      "title": "Angola e Turquia querem elevar cooperação bilateral a novo patamar",
+      "url": "https://correiokianda.info/angola-e-turquia-querem-elevar-cooperacao-bilateral-a-novo-patamar/",
+      "source": "Correio Kianda",
+      "_key": "51544abb550cd10c",
       "score": 5
     },
     {
-      "title": "MPLA afirma que ação da Polícia no Uíge visou garantir a ordem pública",
-      "url": "https://angola24horas.com/component/k2/item/34878-mpla-afirma-que-acao-da-policia-no-uige-visou-garantir-a-ordem-publica",
-      "source": "Angola 24 Horas",
-      "_key": "60c001c13f5bc45b",
-      "score": 5
-    },
-    {
-      "title": "Destaque Ministra da Saúde em Cabinda para avaliar resposta à MpoxA ministra da Saúde, Sílvia Lutucuta, encontra-se, na província de Cabinda, onde avalia a situação epidemiológica da Mpox e acompanha as medidas de resposta adoptadas pelas autoridades sanitárias locais.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683234/ministra-da-sa%C3%BAde-em-cabinda-para-avaliar-resposta-%C3%A0-mpox",
-      "source": "Jornal de Angola",
-      "_key": "f5bdc825ed64ea56",
-      "score": 5
-    },
-    {
-      "title": "Destaque Turismo e aviação reforçam cooperação para aumentar fluxo de visitantesO ministro do Turismo, Márcio Daniel, reuniu-se, esta sexta-feira, com representantes das companhias aéreas que operam em Angola, com o objectivo de reforçar a cooperação, melhorar a conectividade aérea e criar condições para o aumento do fluxo de visitantes e do investimento no sector.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683239/turismo-e-avia%C3%A7%C3%A3o-refor%C3%A7am-coopera%C3%A7%C3%A3o-para-aumentar-fluxo-de-visitantes",
-      "source": "Jornal de Angola",
-      "_key": "fc8daceeaa764304",
-      "score": 5
-    },
-    {
-      "title": "Economia TAAG aponta expansão da rede e fiabilidade operacional como factores-chave para impulsionar turismo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683232/taag-aponta-expans%C3%A3o-da-rede-e-fiabilidade-operacional-como-factores-chave-para-impulsionar-turismo",
-      "source": "Jornal de Angola",
-      "_key": "d1dd0629ddb81987",
+      "title": "        Politica13 horas atrás  Parlamento encerra sessão com balanço de 31 leis e 58 resoluções aprovadas A Assembleia Nacional encerrou a 4.ª Sessão Legislativa da V Legislatura com um balanço de 31 leis e 58 resoluções aprovadas, consideradas importantes para a vida...   ",
+      "url": "https://correiokianda.info/parlamento-encerra-sessao-com-balanco-de-31-leis-e-58-resolucoes-aprovadas/",
+      "source": "Correio Kianda",
+      "_key": "17c2d23e6964f55f",
       "score": 5
     }
   ]
