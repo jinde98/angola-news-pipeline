@@ -1,32 +1,56 @@
 {
   "date": "2026-08-15",
-  "total_new": 10,
-  "total_filtered": 3,
+  "total_new": 15,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Presidente da República autoriza aumento do valor de obras em estradas e ponte de três província",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-aumento-do-valor-de-obras-em-estradas-e-ponte-de-tres-provincia/",
-      "source": "Correio Kianda",
-      "_key": "0571bc67afdded5b",
+      "title": "Política Ramaphosa considera Corredor do Lobito estratégico para África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683248/ramaphosa-considera-corredor--do-lobito-estrat%C3%A9gico-para-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "c1ce760325ce3c31",
       "score": 9,
-      "title_cn": "共和国总统批准增加三省道路桥梁工程预算"
+      "title_cn": "拉马福萨（Ramaphosa）称洛比托走廊对非洲具战略意义"
     },
     {
-      "title": "Deputado de Macau quer criar fórum internacional anual de finanças sino-lusófono",
-      "url": "https://forbesafricalusofona.com/deputado-de-macau-quer-criar-forum-internacional-anual-de-financas-sino-lusofono/",
-      "source": "Forbes África",
-      "_key": "1641fa37dd6c823b",
-      "score": 8,
-      "title_cn": "澳门议员提议设立中葡金融年度国际论坛"
-    },
-    {
-      "title": "Angola com nova fábrica de lapidação de diamantes em...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-com-nova-fabrica-de-lapidacao-de-diamantes-em-saurimo-73968.html",
-      "source": "Novo Jornal",
-      "_key": "fa130c724f145d26",
+      "title": "Serviços de informações angolanos acedem a dados biométricos sem controlo judicial, indica relatório",
+      "url": "https://namiradocrime.info/show/17250",
+      "source": "Na Mira do Crime",
+      "_key": "2786c7e22a305180",
       "score": 7,
-      "title_cn": "安哥拉将设新的钻石切割工厂"
+      "title_cn": "报告：安哥拉情报部门未经司法监督获取生物识别数据"
+    },
+    {
+      "title": "Política MIREX defende maior participação dos cidadãos na Segurança Nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683249/mirex-defende-maior-participa%C3%A7%C3%A3o-dos-cidad%C3%A3os-na-seguran%C3%A7a-nacional-",
+      "source": "Jornal de Angola",
+      "_key": "2c8056b694677b9b",
+      "score": 6,
+      "title_cn": "安哥拉外交部倡导公民更多参与国家安全"
+    },
+    {
+      "title": "Política Angola e África do Sul almejam novas parcerias ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683246/angola-e-%C3%A1frica-do-sul--almejam-novas-parcerias-",
+      "source": "Jornal de Angola",
+      "_key": "b8287ff551da4735",
+      "score": 6,
+      "title_cn": "安哥拉与南非寻求建立新的伙伴关系"
+    },
+    {
+      "title": "Novo Hospital de Oncologia vai estar concluído em Junho de 2027 O Novo Hospital de Oncologia do país, em construção na zona do Palanca, município do Kilamba Kiaxi, província de Luanda, poderá estar concluído entre Junho e Julho do próximo ano.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683247/novo-hospital-de-oncologia-vai-estar-conclu%C3%ADdo-em-junho-de-2027-",
+      "source": "Jornal de Angola",
+      "_key": "804d17f0ba6c5cda",
+      "score": 5,
+      "title_cn": "新肿瘤医院预计2027年6月竣工"
+    },
+    {
+      "title": "Política Executivo valoriza soluções locais na aplicação de políticas públicas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683254/executivo-valoriza-solu%C3%A7%C3%B5es-locais-na-aplica%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas",
+      "source": "Jornal de Angola",
+      "_key": "bd6160d1d465fc88",
+      "score": 5,
+      "title_cn": "行政政策重视公共政策实施中的地方解决方案"
     }
   ]
 }
