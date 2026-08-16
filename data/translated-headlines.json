@@ -1,24 +1,32 @@
 {
   "date": "2026-08-16",
-  "total_new": 14,
-  "total_filtered": 2,
+  "total_new": 9,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Sociedade Falha no sistema dificulta emissão de documentos para os cidadãos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683336/falha-no-sistema-dificulta-emiss%C3%A3o-de-documentos-para-os-cidad%C3%A3os-",
-      "source": "Jornal de Angola",
-      "_key": "e128fa37f6b27dab",
+      "title": "Electricity tariffs for medium- and high-voltage customers updated",
+      "url": "https://www.angop.ao/en/noticias/economia/actualizadas-tarifas-de-electricidade-de-clientes-de-media-e-alta-tensao/",
+      "source": "ANGOP",
+      "_key": "aaf5d2cfd4d82a64",
       "score": 9,
-      "title_cn": "系统故障致公民办证困难"
+      "title_cn": "中高压用户电价调整"
     },
     {
-      "title": "Sociedade SADC avalia avanços no Projecto de Satélite Partilhado ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683350/sadc-avalia-avan%C3%A7os-no-projecto-de-sat%C3%A9lite-partilhado",
-      "source": "Jornal de Angola",
-      "_key": "9d69fb02aa3b4470",
+      "title": "Angola’s Mineral Resources Ministry ensures normalization of fuel supply in the country",
+      "url": "https://www.angop.ao/en/noticias/economia/mirempet-garante-normalizacao-do-abastecimento-de-combustivel-no-pais/",
+      "source": "ANGOP",
+      "_key": "598ce6da3f9215fa",
+      "score": 9,
+      "title_cn": "安哥拉矿产资源部确保全国燃油供应正常化"
+    },
+    {
+      "title": "TAAG announces new Luanda-Dakar-Praia route",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-anuncia-nova-rota-luanda-dakar-praia/",
+      "source": "ANGOP",
+      "_key": "8895a0dc46e45318",
       "score": 6,
-      "title_cn": "SADC评估共享卫星项目进展"
+      "title_cn": "TAAG宣布开通罗安达-达喀尔-普拉亚新航线"
     }
   ]
 }
