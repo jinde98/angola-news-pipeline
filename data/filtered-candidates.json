@@ -1,14 +1,21 @@
 {
   "date": "2026-08-16",
-  "total_new": 15,
-  "total_filtered": 1,
+  "total_new": 14,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Saúde não é mercadoria para pagar dívidas externas:…",
-      "url": "https://holdonangola.com/saude-nao-e-mercadoria-para-pagar-dividas-externas-fora-mpla-fmi-e-banco-mundial-katro-ungila/",
-      "source": "Hold On Angola",
-      "_key": "edf000a33b517169",
+      "title": "Sociedade Falha no sistema dificulta emissão de documentos para os cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683336/falha-no-sistema-dificulta-emiss%C3%A3o-de-documentos-para-os-cidad%C3%A3os-",
+      "source": "Jornal de Angola",
+      "_key": "e128fa37f6b27dab",
+      "score": 9
+    },
+    {
+      "title": "Sociedade SADC avalia avanços no Projecto de Satélite Partilhado ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683350/sadc-avalia-avan%C3%A7os-no-projecto-de-sat%C3%A9lite-partilhado",
+      "source": "Jornal de Angola",
+      "_key": "9d69fb02aa3b4470",
       "score": 6
     }
   ]
