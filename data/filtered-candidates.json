@@ -1,15 +1,22 @@
 {
   "date": "2026-08-16",
-  "total_new": 3,
-  "total_filtered": 1,
+  "total_new": 6,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Health authorities reinforce Ebola prevention measures in Moxico border",
-      "url": "https://www.angop.ao/en/noticias/saude/autoridades-de-saude-reforcam-prevencao-contra-ebola-no-moxico/",
+      "title": "Tourism and Planning Ministers align investment priorities",
+      "url": "https://www.angop.ao/en/noticias/turismo/ministros-do-turismo-e-planeamento-alinham-prioridades-de-investimento/",
       "source": "ANGOP",
-      "_key": "51a4ea6cef8e0721",
-      "score": 8
+      "_key": "7e71fe0a5a293424",
+      "score": 6
+    },
+    {
+      "title": "Destaque Téte António aborda reforço da cooperação entre Angola e AUDA-NEPADO ministro das Relações Exteriores, Téte António, manteve, na tarde deste domingo, em Durban, África do Sul, um encontro de trabalho com a directora executiva da Agência de Desenvolvimento da União Africana (AUDA-NEPAD), Nardos Bekele-Thomas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683363/t%C3%A9te-ant%C3%B3nio-aborda-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-entre-angola-e-auda-nepad",
+      "source": "Jornal de Angola",
+      "_key": "1487bc9ef9850e4c",
+      "score": 5
     }
   ]
 }
