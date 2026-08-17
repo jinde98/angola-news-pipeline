@@ -1,44 +1,344 @@
 {
-  "date": "2026-08-16",
-  "total_extracted": 1680,
-  "total_new": 6,
-  "total_existing": 1674,
+  "date": "2026-08-17",
+  "total_extracted": 1610,
+  "total_new": 56,
+  "total_existing": 1554,
   "articles": [
     {
-      "title": "Tourism and Planning Ministers align investment priorities",
-      "url": "https://www.angop.ao/en/noticias/turismo/ministros-do-turismo-e-planeamento-alinham-prioridades-de-investimento/",
+      "title": "Moçâmedes wins Angola’s Best Municipality Award",
+      "url": "https://www.angop.ao/en/noticias/politica/mocamedes-vence-premio-melhor-municipio-de-angola/",
       "source": "ANGOP",
-      "_key": "7e71fe0a5a293424"
+      "_key": "61b73d321f73de5a"
     },
     {
-      "title": "WB praises Angola's human resources in health training project",
-      "url": "https://www.angop.ao/en/noticias/saude/banco-mundial-enaltece-progressos-do-pfrhs/",
+      "title": "Cabinda accounts for 200 of Angola’s 289 Mpox cases",
+      "url": "https://www.angop.ao/en/noticias/saude/cabinda-tem-200-dos-289-casos-nacionais-de-mpox/",
       "source": "ANGOP",
-      "_key": "b58908aa750c220c"
+      "_key": "22d0d46f485f6e54"
     },
     {
-      "title": "Adriano Sapiñala constituído arguido após queixa de Abel Chivukuvuku por alegada difamação",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34874-adriano-sapinala-constituido-arguido-apos-queixa-de-abel-chivukuvuku-por-alegada-difamacao",
+      "title": "Govt official calls for continuation of International Futsal Friendship Tournament",
+      "url": "https://www.angop.ao/en/noticias/desporto/dirigente-encoraja-continuacao-do-torneio-amizade-em-futsal/",
+      "source": "ANGOP",
+      "_key": "669831ee42ff5c6f"
+    },
+    {
+      "title": "Angola at Zimbabwe Defence Forces celebrations",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-nas-celebracoes-das-forcas-de-defesa-do-zimbabwe/",
+      "source": "ANGOP",
+      "_key": "03ef5981fb1a9ab6"
+    },
+    {
+      "title": "Torneio Internacional",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=283269",
+      "source": "ANGOP",
+      "_key": "13edd1e4bcd468dd"
+    },
+    {
+      "title": "Deputy Governor reaffirms continued appreciation of cooperation with Cuba",
+      "url": "https://www.angop.ao/en/noticias/politica/vice-governador-reafirma-continua-valorizacao-da-cooperacao-com-cuba/",
+      "source": "ANGOP",
+      "_key": "94f4eb64850f8e83"
+    },
+    {
+      "title": "Author explains meaning of his “The Inhabited Time” book",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/autor-considera-livro-o-tempo-habitado-tentativa-de-dialogar/",
+      "source": "ANGOP",
+      "_key": "5d232aac06aa78d1"
+    },
+    {
+      "title": "Literature",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=9309",
+      "source": "ANGOP",
+      "_key": "210938b9d05ed331"
+    },
+    {
+      "title": "Espionagem",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=407438",
+      "source": "ANGOP",
+      "_key": "0ee177a34cc9b740"
+    },
+    {
+      "title": "João Lourenço desloca-se a São Paulo para captar investimento brasileiro em Angola",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34876-joao-lourenco-desloca-se-a-sao-paulo-para-captar-investimento-brasileiro-em-angola",
       "source": "Angola 24 Horas",
-      "_key": "789795cda7bd6a9a"
+      "_key": "98553a6ab2bd88a3"
+    },
+    {
+      "title": "Desemprego em Angola volta a subir e já atinge cinco milhões de pessoas",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34877-desemprego-em-angola-volta-a-subir-e-ja-atinge-cinco-milhoes-de-pessoas",
+      "source": "Angola 24 Horas",
+      "_key": "e7e03caa5ab0c43a"
+    },
+    {
+      "title": "Executivo promete acabar com escassez de combustível nas próximas quatro semanas",
+      "url": "https://correiokianda.info/executivo-promete-acabar-com-escassez-de-combustivel-nas-proximas-quatro-semanas/",
+      "source": "Correio Kianda",
+      "_key": "61296c236acedf4a"
+    },
+    {
+      "title": "Quatro partidos defendem mudanças para tornar Registo Eleitoral mais transparente",
+      "url": "https://correiokianda.info/quatro-partidos-defendem-mudancas-para-tornar-registo-eleitoral-mais-transparente/",
+      "source": "Correio Kianda",
+      "_key": "08491823392712ef"
+    },
+    {
+      "title": "OMA quer ouvir e mobilizar mulheres durante jornada patriótica no Namibe",
+      "url": "https://correiokianda.info/oma-quer-ouvir-e-mobilizar-mulheres-durante-jornada-patriotica-no-namibe/",
+      "source": "Correio Kianda",
+      "_key": "10360890c0c738f1"
+    },
+    {
+      "title": "Novos municípios querem melhores vias para escoar produção e atrair investimentos",
+      "url": "https://correiokianda.info/novos-municipios-querem-melhores-vias-para-escoar-producao-e-atrair-investimentos/",
+      "source": "Correio Kianda",
+      "_key": "da334d38fdaf7771"
+    },
+    {
+      "title": "Analista alerta para transformação da política em instrumento de realização pessoal",
+      "url": "https://correiokianda.info/analista-alerta-para-transformacao-da-politica-em-instrumento-de-realizacao-pessoal/",
+      "source": "Correio Kianda",
+      "_key": "137be10c9a41a2db"
+    },
+    {
+      "title": "Familiar morre ao receber corpo de parente vítima do acidente da EN-100",
+      "url": "https://correiokianda.info/familiar-morre-ao-receber-corpo-de-parente-vitima-do-acidente-da-en-100/",
+      "source": "Correio Kianda",
+      "_key": "f752e1ea48e599e7"
+    },
+    {
+      "title": "Mais de mil mulheres poderão beneficiar de microchips contra gravidez precoce",
+      "url": "https://correiokianda.info/mais-de-mil-mulheres-poderao-beneficiar-de-microchips-contra-gravidez-precoce/",
+      "source": "Correio Kianda",
+      "_key": "4f35efcb8866f984"
+    },
+    {
+      "title": "Angola emprega 10 milhões de cidadãos, mas desemprego sobe para 21,5%",
+      "url": "https://correiokianda.info/angola-emprega-10-milhoes-de-pessoas-mas-desemprego-sobe-para-215/",
+      "source": "Correio Kianda",
+      "_key": "20e4200336d11458"
+    },
+    {
+      "title": "Autoridades sanitárias tranquilizam população sobre surto de Mpox em Cabinda",
+      "url": "https://correiokianda.info/autoridades-sanitarias-tranquilizam-populacao-sobre-surto-de-mpox-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "e69627f45b0a8729"
+    },
+    {
+      "title": "Procura elevada leva Hospital dos Queimados a reforçar atendimento especializado",
+      "url": "https://correiokianda.info/procura-elevada-leva-hospital-dos-queimados-a-reforcar-atendimento-especializado/",
+      "source": "Correio Kianda",
+      "_key": "10b4507fd62cc9ab"
+    },
+    {
+      "title": "Ataques entre Rússia e Ucrânia provocam pelo menos sete mortos",
+      "url": "https://correiokianda.info/ataques-entre-russia-e-ucrania-provocam-pelo-menos-sete-mortos/",
+      "source": "Correio Kianda",
+      "_key": "68d9e99acc182e00"
+    },
+    {
+      "title": "Réplicas dificultam resgate após sismo que matou 53 na Indonésia",
+      "url": "https://correiokianda.info/replicas-dificultam-resgate-apos-sismo-que-matou-53-na-indonesia/",
+      "source": "Correio Kianda",
+      "_key": "c7f011dff6ee1563"
+    },
+    {
+      "title": "Tensão no Médio Oriente agrava-se após ataques israelitas no Líbano",
+      "url": "https://correiokianda.info/tensao-no-medio-oriente-agrava-se-apos-ataques-israelitas-no-libano/",
+      "source": "Correio Kianda",
+      "_key": "c70f37d31ec028d7"
+    },
+    {
+      "title": "Camarões quebra jejum e conquista CAN Feminina pela primeira vez",
+      "url": "https://correiokianda.info/camaroes-quebra-jejum-e-conquista-can-feminina-pela-primeira-vez/",
+      "source": "Correio Kianda",
+      "_key": "133c35c14f038123"
+    },
+    {
+      "title": "Petro de Luanda vence Wiliete e conquista primeiro troféu da época",
+      "url": "https://correiokianda.info/petro-de-luanda-vence-wiliete-e-conquista-primeiro-trofeu-da-epoca/",
+      "source": "Correio Kianda",
+      "_key": "f237f074fe1ea472"
+    },
+    {
+      "title": "Uíge acolhe hoje abertura oficial da época futebolística em Angola",
+      "url": "https://correiokianda.info/uige-acolhe-hoje-abertura-oficial-da-epoca-futebolistica-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "3f6b564c358bf4ec"
+    },
+    {
+      "title": "Angola sobe 15 posições no Ranking Mundial de Ju-Jitsu",
+      "url": "https://correiokianda.info/angola-sobe-15-posicoes-no-ranking-mundial-de-ju-jitsu/",
+      "source": "Correio Kianda",
+      "_key": "d44e02fb2b419efb"
+    },
+    {
+      "title": "O Papa sem exército e a geopolítica da força",
+      "url": "https://correiokianda.info/o-papa-sem-exercito-e-a-geopolitica-da-forca/",
+      "source": "Correio Kianda",
+      "_key": "972a02580002de5c"
+    },
+    {
+      "title": "        Reportagem21 minutos atrás  Magoga: o sabor que acompanha as manhãs apressadas de Luanda Ainda o sol não nasceu por completo e Luanda já está em movimento. Nas paragens de táxi, nos mercados e junto às principais avenidas, trabalhadores procuram...   ",
+      "url": "https://correiokianda.info/magoga-o-sabor-que-acompanha-as-manhas-apressadas-de-luanda/",
+      "source": "Correio Kianda",
+      "_key": "6ca06acfa2961b79"
     },
     {
       "title": "Click here to enter",
-      "url": "http://www.ecosdohenda.info/?tr_uuid=20260817-0024-0698-aaf5-934dc27dea35&fp=-3",
+      "url": "http://www.ecosdohenda.info/?tr_uuid=20260817-1844-40b1-b01b-d27d6dc74f27&fp=-3",
       "source": "Ecos do Henda",
-      "_key": "2b63c5353dd6fe95"
+      "_key": "d02aec663acdf437"
     },
     {
-      "title": "Destaque Téte António aborda reforço da cooperação entre Angola e AUDA-NEPADO ministro das Relações Exteriores, Téte António, manteve, na tarde deste domingo, em Durban, África do Sul, um encontro de trabalho com a directora executiva da Agência de Desenvolvimento da União Africana (AUDA-NEPAD), Nardos Bekele-Thomas.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683363/t%C3%A9te-ant%C3%B3nio-aborda-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-entre-angola-e-auda-nepad",
-      "source": "Jornal de Angola",
-      "_key": "1487bc9ef9850e4c"
+      "title": "Moçambique pretende cortar massa salarial do Estado para 10,7% do PIB até 2029",
+      "url": "https://forbesafricalusofona.com/mocambique-pretende-cortar-massa-salarial-do-estado-para-107-do-pib-ate-2029/",
+      "source": "Forbes África",
+      "_key": "bdd24bc79b7af475"
     },
     {
-      "title": " Viana conquista segundo lugar no Prémio Melhor Município de Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/683362/viana-conquista-segundo-lugar-no-pr%C3%A9mio-melhor-munic%C3%ADpio-de-angola",
+      "title": "Segunda-feira, 17 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5de42bf866f6b2"
+    },
+    {
+      "title": "Chefes de Estado debatem desafios para uma industrialização sustentávelOs Chefes de Estado e de Governo da Comunidade de Desenvolvimento da África Austral (SADC) reúnem-se hoje em Durban, na África do Sul, para debater os desafios de uma industrialização resiliente, sustentável e inclusiva, alinhada com a construção de um mundo justo.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683368/chefes-de-estado-debatem-desafios-para-uma-industrializa%C3%A7%C3%A3o-sustent%C3%A1vel",
       "source": "Jornal de Angola",
-      "_key": "9bba6b83fe4d1d23"
+      "_key": "3a9e7432085d0b07"
+    },
+    {
+      "title": "Destaque Téte António deposita coroa de flores em homenagem a Oliver TamboO ministro das Relações Exteriores, Téte António, representou, este domingo, em Durban, África do Sul, o Chefe de Estado, João Lourenço, na cerimónia de deposição de uma coroa de flores junto à estátua de Oliver Tambo, em homenagem ao seu contributo para a libertação da África do Sul e para a promoção da justiça social.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683367/t%C3%A9te-ant%C3%B3nio-deposita-coroa-de-flores-em-homenagem-a-oliver-tambo",
+      "source": "Jornal de Angola",
+      "_key": "0fbd51ee702495ac"
+    },
+    {
+      "title": "Destaque Supertaça: Petro de Luanda vence Wiliete e conquista primeiro troféu da épocaO Petro de Luanda conquistou, este domingo, a Supertaça de Angola, ao vencer o Wiliete de Benguela por 1-0, no Estádio Vicy António, na província do Uíge, garantindo o primeiro troféu da temporada 2026/27.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/683365/superta%C3%A7a:-petro-de-luanda-vence-wiliete-e-conquista-primeiro-trof%C3%A9u-da-%C3%A9poca",
+      "source": "Jornal de Angola",
+      "_key": "94e61eb4a115ed15"
+    },
+    {
+      "title": "Inquérito ao Sector Informal arranca hojeA recolha de dados do Inquérito ao Sector Informal, iniciativa do Instituto Nacional de Estatística (INE), em o todo o país, arranca hoje, após lançamento oficial do acto, realizado na última quinta-feira, na província do Icolo e Bengo.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683384/inqu%C3%A9rito-ao-sector-informal-arranca-hoje",
+      "source": "Jornal de Angola",
+      "_key": "11ee4971e52a9c21"
+    },
+    {
+      "title": "Destaque Selecção Nacional Juvenil de MMA estreia-se hoje no Mundial de Abu DhabiA Selecção Nacional Juvenil de MMA estreia-se hoje, no 17.º Campeonato Mundial Juvenil de MMA, que decorre de 16 a 23 de Agosto, em Abu Dhabi, nos Emirados Árabes Unidos.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/683373/selec%C3%A7%C3%A3o-nacional-juvenil-de-mma-estreia-se-hoje-no-mundial-de-abu-dhabi",
+      "source": "Jornal de Angola",
+      "_key": "e45cdedfa5a75c56"
+    },
+    {
+      "title": "Economia Contratação pública contabiliza prejuízos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683383/contrata%C3%A7%C3%A3o-p%C3%BAblica-contabiliza-preju%C3%ADzos",
+      "source": "Jornal de Angola",
+      "_key": "74a3850de6c353ab"
+    },
+    {
+      "title": "Economia Cuanza-Sul tem potencial para ser o celeiro nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683381/cuanza-sul-tem-potencial-para-ser-o-celeiro-nacional",
+      "source": "Jornal de Angola",
+      "_key": "c1a95ad8db8113d2"
+    },
+    {
+      "title": "Política Prémio Académico: Constitucional anuncia processo de candidaturas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683371/pr%C3%A9mio-acad%C3%A9mico:-constitucional-anuncia--processo-de-candidaturas",
+      "source": "Jornal de Angola",
+      "_key": "8001a9731b29aad0"
+    },
+    {
+      "title": "Política General “Wala” quer formação em drones e robótica nas instituições de Ensino Militar ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683370/general-%E2%80%9Cwala%E2%80%9D-quer-forma%C3%A7%C3%A3o-em-drones--e-rob%C3%B3tica-nas-institui%C3%A7%C3%B5es-de-ensino-militar",
+      "source": "Jornal de Angola",
+      "_key": "17a0b4ea62b3cab2"
+    },
+    {
+      "title": "Política Zimbabwe: Angola prestigia celebrações dos 46 anos das Forças de Defesa ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683369/zimbabwe:-angola--prestigia-celebra%C3%A7%C3%B5es-dos-46-anos-das-for%C3%A7as-de-defesa-",
+      "source": "Jornal de Angola",
+      "_key": "47ad834e2d9f99e4"
+    },
+    {
+      "title": "Política IDN promove 1.º Curso de Alta Direcção Estratégica do Estado ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683366/idn-promove-1.%C2%BA-curso-de-alta-direc%C3%A7%C3%A3o-estrat%C3%A9gica-do-estado",
+      "source": "Jornal de Angola",
+      "_key": "5ee3f3c115eda81a"
+    },
+    {
+      "title": "08:12 / 17 ago. 2026 Miguel Bembe defende maior aposta em soluções africanas a favor da paz ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683372/miguel-bembe-defende-maior-aposta--em-solu%C3%A7%C3%B5es-africanas-a-favor-da-paz-",
+      "source": "Jornal de Angola",
+      "_key": "80363d7275c46720"
+    },
+    {
+      "title": "Ética e justiça",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/683389/%C3%A9tica-e-justi%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "b02321489f030ff5"
+    },
+    {
+      "title": "Economia / agora Livro “História da Indústria Petrolífera” chega a Malanje ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683386/livro-%E2%80%9Chist%C3%B3ria-da-ind%C3%BAstria-petrol%C3%ADfera%E2%80%9D-chega-a-malanje",
+      "source": "Jornal de Angola",
+      "_key": "f342bd0980221113"
+    },
+    {
+      "title": "Economia / agora Stock da dívida reduz 20,1 por cento até Julho ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683385/stock-da-d%C3%ADvida-reduz-201-por-cento-at%C3%A9-julho",
+      "source": "Jornal de Angola",
+      "_key": "054e90e000e5f1ff"
+    },
+    {
+      "title": "Economia / agora ANPG representa Angola na “Semana de Energia” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683382/anpg-representa-angola-na-%E2%80%9Csemana-de-energia%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "e15b325cb03bf3bc"
+    },
+    {
+      "title": "Economia / agora Preços dos materiais de construção desaceleram 8,59 pontos percentuais ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683380/pre%C3%A7os-dos-materiais-de-constru%C3%A7%C3%A3o-desaceleram-859-pontos-percentuais",
+      "source": "Jornal de Angola",
+      "_key": "cc697b55b3241d1e"
+    },
+    {
+      "title": "Última hora Sílvia Lutucuta inicia missão oficial na Sérvia para reforçar cooperação na saúde",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683364/s%C3%ADlvia-lutucuta-inicia-miss%C3%A3o-oficial-na-s%C3%A9rvia-para-refor%C3%A7ar-coopera%C3%A7%C3%A3o-na-sa%C3%BAde",
+      "source": "Jornal de Angola",
+      "_key": "577a2d9f405ee259"
+    },
+    {
+      "title": "PN assinala 12 acidentes em Luanda com cinco mortos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pn-assinala-12-acidentes-em-luanda-com-cinco-mortos-e-14-feridos-no-fim-de-semana-73978.html",
+      "source": "Novo Jornal",
+      "_key": "3f9bef1427858b30"
+    },
+    {
+      "title": "AtéJazz: Jazz, esse desconhecido",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/atejazz-jazz-esse-desconhecido-73976.html",
+      "source": "Novo Jornal",
+      "_key": "a2dc9c6c22e5af09"
+    },
+    {
+      "title": "DOMINGO NA MARGINAL: ENTRETENIMENTO COM INFORMAÇÃO ÚTIL.  ",
+      "url": "https://marginal.co.ao/programas/domingo-na-marginal?ep=73977",
+      "source": "Novo Jornal",
+      "_key": "24c12110b67ab1a2"
+    },
+    {
+      "title": "ROCK MARGINAL: O SOM QUE NÃO PEDE LICENÇA.  ",
+      "url": "https://marginal.co.ao/programas/rock-marginal?ep=73975",
+      "source": "Novo Jornal",
+      "_key": "cc81b8d522965c6c"
+    },
+    {
+      "title": "CONVERSAS À SOMBRA DA MULEMBA: DA PERFORMANCE AO CINEMA. Mussunda N\"zombo fala sobre a passagem da performance ao cinema, o percurso internacional de Sabes Quem Eu Sou? e a projeção da arte angolana além-fronteiras. À mesa estarão também Thaís Muniz e Larissa Platz, numa conversa sobre arte, identidade, memória e circulação cultural.",
+      "url": "https://marginal.co.ao/programas/conversas-a-sombra-da-mulemba-na-marginal?ep=73974",
+      "source": "Novo Jornal",
+      "_key": "3201829e1ef62672"
     }
   ]
 }
