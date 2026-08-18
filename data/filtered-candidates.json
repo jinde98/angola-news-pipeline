@@ -1,15 +1,267 @@
 {
-  "date": "2026-08-17",
-  "total_new": 8,
-  "total_filtered": 1,
+  "date": "2026-08-18",
+  "total_new": 87,
+  "total_filtered": 37,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Inspector-chefe da PN acusado de matar 2º subchefe...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inspector-chefe-da-pn-acusado-de-matar-2-subchefe-com-disparo-no-cunene-74000.html",
-      "source": "Novo Jornal",
-      "_key": "0be963b8e349d8e7",
+      "title": "Angola descobre nova reserva de petróleo e gás condensado na Bacia do Baixo Congo",
+      "url": "https://angola24horas.com/sociedade/item/34889-angola-descobre-nova-reserva-de-petroleo-e-gas-condensado-na-bacia-do-baixo-congo",
+      "source": "Angola 24 Horas",
+      "_key": "e93bad80d43555d7",
+      "score": 9
+    },
+    {
+      "title": "Brent volta a valorizar com receios sobre oferta global de petróleo",
+      "url": "https://expansao.co.ao/economia/detalhe/rent-volta-a-valorizar-com-receios-sobre-oferta-global-de-petroleo-74008.html",
+      "source": "Expansão",
+      "_key": "f3c4d58bb6d70107",
+      "score": 9
+    },
+    {
+      "title": "S&P mantém ‘rating’ de Angola em B- com perspetiva estável",
+      "url": "https://jornaloguardiao.com/2026/08/18/sp-mantem-rating-de-angola-em-b-com-perspetiva-estavel/",
+      "source": "Jornal O Guardião",
+      "_key": "18c0e9ff84ca8269",
+      "score": 8
+    },
+    {
+      "title": " S&P mantém ‘rating’ de Angola em B- com perspetiva estável ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6bdf936789ec87",
+      "score": 8
+    },
+    {
+      "title": "Economia / agora Preços de exportação sobem 58,29 pontos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683467/pre%C3%A7os-de-exporta%C3%A7%C3%A3o-sobem-5829-pontos",
+      "source": "Jornal de Angola",
+      "_key": "53d33889bb95270d",
+      "score": 8
+    },
+    {
+      "title": "Economia / agora Obras Públicas valem 72,2% nas construções ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683466/obras-p%C3%BAblicas-valem--722%25-nas-constru%C3%A7%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "415252bd48652b64",
+      "score": 8
+    },
+    {
+      "title": "Marginais matam jovem de 32 anos de idade com tiro no peito no Augusto Ngangula - Moradores acusam o \"Banheira\" como principal autor do crime",
+      "url": "https://namiradocrime.info/show/17260",
+      "source": "Na Mira do Crime",
+      "_key": "eedda7375f356d4d",
+      "score": 8
+    },
+    {
+      "title": "SIC-Luanda captura \"Cão Preto\" e \"De Folha\" membros do grupo os \"Mini Mulato\" que abusaram sexualmente e mataram uma cidadã de 45 anos que sofria de perturbações mentais no Cazenga",
+      "url": "https://namiradocrime.info/show/17257",
+      "source": "Na Mira do Crime",
+      "_key": "605000cad25f8ec4",
+      "score": 8
+    },
+    {
+      "title": "Angolan president João Lourenço receives Embraer´s chairman",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-recebe-presidente-da-embraer/",
+      "source": "ANGOP",
+      "_key": "caeaf67b92d6de50",
+      "score": 7
+    },
+    {
+      "title": "Interior Minister calls for greater investment in police personnel",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-do-interior-defende-valorizacao-dos-efectivos/",
+      "source": "ANGOP",
+      "_key": "a8f027bf26fc8680",
+      "score": 7
+    },
+    {
+      "title": "SADC summit discusses regional industrialization",
+      "url": "https://www.angop.ao/en/noticias/politica/cimeira-da-sadc-debate-industrializacao-regional/",
+      "source": "ANGOP",
+      "_key": "19d6b43b62187ea0",
+      "score": 7
+    },
+    {
+      "title": "Saurimo hosts international business forum",
+      "url": "https://www.angop.ao/en/noticias/economia/saurimo-acolhe-forum-empresarial-internacional/",
+      "source": "ANGOP",
+      "_key": "54bccdec0250e964",
+      "score": 7
+    },
+    {
+      "title": "Executivo investe mais de 30 mil milhões Kz na contenção de ravinas em dez províncias",
+      "url": "https://correiokianda.info/executivo-investe-mais-de-30-mil-milhoes-kz-na-contencao-de-ravinas-em-dez-provincias/",
+      "source": "Correio Kianda",
+      "_key": "53d09e0592d5a0fe",
+      "score": 7
+    },
+    {
+      "title": "        Sociedade12 horas atrás  Contrabandistas de combustíveis inovam rotas no Zaire e autoridades apelam ao envolvimento das comunidades Os contrabandistas de combustíveis na província do Zaire estão a adoptar novas técnicas e rotas de actuação para escapar à fiscalização das autoridades e garantir o...   ",
+      "url": "https://correiokianda.info/contrabandistas-de-combustiveis-inovam-rotas-no-zaire-e-autoridades-apelam-ao-envolvimento-das-comunidades/",
+      "source": "Correio Kianda",
+      "_key": "2319316edb530e59",
+      "score": 7
+    },
+    {
+      "title": "Governo obriga seguradoras a partilhar grandes riscos para travar saída de prémios",
+      "url": "https://expansao.co.ao/empresas/detalhe/governo-obriga-seguradoras-a-partilhar-grandes-riscos-para-travar-saida-de-premios-74004.html",
+      "source": "Expansão",
+      "_key": "67c688ca7f8d6c7f",
+      "score": 7
+    },
+    {
+      "title": "Presidente da República recebe líder da EmbraerO Chefe de Estado, João Lourenço, recebeu, segunda-feira, em audiência, no Palácio da Cidade Alta, o presidente do Conselho Executivo da Embraer Defesa e Segurança, Bosco Costa Júnior, com quem abordou assuntos ligados ao sector Aeronáutico. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683462/presidente-da-rep%C3%BAblica-recebe-l%C3%ADder-da-embraer",
+      "source": "Jornal de Angola",
+      "_key": "ab5f7cdb484720c7",
+      "score": 7
+    },
+    {
+      "title": "Economia Banco Árabe e Omatapalo assinam acordo de financiamento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683465/banco-%C3%A1rabe--e-omatapalo-assinam-acordo-de-financiamento",
+      "source": "Jornal de Angola",
+      "_key": "ecf639116c5ea6b4",
+      "score": 7
+    },
+    {
+      "title": "Política Angola apresenta plano de formação e produção local de medicamentos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683460/angola-apresenta-plano-de-forma%C3%A7%C3%A3o--e-produ%C3%A7%C3%A3o-local-de-medicamentos-",
+      "source": "Jornal de Angola",
+      "_key": "dae76557c096a8e9",
+      "score": 7
+    },
+    {
+      "title": "Icolo e Bengo - Polícia desmantela associação criminosa que roubava motorizadas de três rodas no município de Cabiri",
+      "url": "https://namiradocrime.info/show/17259",
+      "source": "Na Mira do Crime",
+      "_key": "37e4320805baf3fb",
+      "score": 7
+    },
+    {
+      "title": "Governo autoriza 30 mil milhões de kwanzas para travar avanço...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-30-mil-milhoes-de-kwanzas-para-travar-avanco-de-26-ravinas-pelo-pais",
+      "source": "Valor Económico",
+      "_key": "cf5e20c815498d5c",
+      "score": 7
+    },
+    {
+      "title": "Seis anos após enxugar o Executivo, João Lourenço alarga estrutura...",
+      "url": "https://valoreconomico.co.ao/artigo/seis-anos-apos-enxugar-o-executivo-joao-lourenco-alarga-estrutura-de-tres-ministerios",
+      "source": "Valor Económico",
+      "_key": "8058f8405113b0fa",
+      "score": 7
+    },
+    {
+      "title": "Road improvement works on Ho Chi Minh Avenue disrupt traffic",
+      "url": "https://www.angop.ao/en/noticias/sociedade/obras-na-avenida-ho-chi-minh-condicionam-circulacao/",
+      "source": "ANGOP",
+      "_key": "9c7a2afc094a75ac",
       "score": 6
+    },
+    {
+      "title": "Malaria Control Program handouts 500,000 mosquito nets in Cuanza-Norte province",
+      "url": "https://www.angop.ao/en/noticias/saude/combate-a-malaria-preve-distribuir-500-mil-mosquiteiros-no-cuanza-norte/",
+      "source": "ANGOP",
+      "_key": "dfb271ca87c1b260",
+      "score": 6
+    },
+    {
+      "title": "Famílias pedem fiscalização após denúncias de fugas em botijas de gás em Luanda",
+      "url": "https://correiokianda.info/familias-pedem-fiscalizacao-apos-denuncias-de-fugas-em-botijas-de-gas-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "bec839b8112e347c",
+      "score": 6
+    },
+    {
+      "title": "        Sociedade12 horas atrás  Atraso nas obras do Hospital Materno-Infantil preocupa Ministério da Saúde O atraso nas obras de construção do Hospital Materno-Infantil da Huíla está a preocupar o Ministério da Saúde, que determinou a revisão do cronograma da empreitada...   ",
+      "url": "https://correiokianda.info/atraso-nas-obras-do-hospital-materno-infantil-preocupa-ministerio-da-saude/",
+      "source": "Correio Kianda",
+      "_key": "83fd8a392365fa4c",
+      "score": 6
+    },
+    {
+      "title": "Rota Luanda – Praia retoma em Outubro, mas com escala em Dacar",
+      "url": "https://forbesafricalusofona.com/rota-luanda-praia-retoma-em-outubro-mas-com-escala-em-dacar/",
+      "source": "Forbes África",
+      "_key": "1ed776d938f972b3",
+      "score": 6
+    },
+    {
+      "title": "Economia / agora Compras com cartões crescem 17,7 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683468/compras-com-cart%C3%B5es-crescem-177-por-cento",
+      "source": "Jornal de Angola",
+      "_key": "9847a85645f7480b",
+      "score": 6
+    },
+    {
+      "title": "Acidente de carro na Sanzala mata pastor e mototaxista de 20 anos de idade - Motorista da viatura Elantra que provocou o acidente está em fuga",
+      "url": "https://namiradocrime.info/show/17262",
+      "source": "Na Mira do Crime",
+      "_key": "e16ed8bc51389acf",
+      "score": 6
+    },
+    {
+      "title": "Marginal invade viatura e furta mochila contendo equipamentos médicos e computador de um estudante de medicina na Ilha de Luanda",
+      "url": "https://namiradocrime.info/show/17261",
+      "source": "Na Mira do Crime",
+      "_key": "2543ec44ba900a53",
+      "score": 6
+    },
+    {
+      "title": "SADC Summit begins with a focus on challenges for well-being",
+      "url": "https://www.angop.ao/en/noticias/politica/cimeira-da-sadc-inicia-com-foco-nos-desafios-do-bem-estar/",
+      "source": "ANGOP",
+      "_key": "d9a924636d80b91a",
+      "score": 5
+    },
+    {
+      "title": "Angolan Minister of Telecommunications calls for modernisation of INACOM",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-defende-modernizacao-do-inacom/",
+      "source": "ANGOP",
+      "_key": "51b5b78c537436dd",
+      "score": 5
+    },
+    {
+      "title": "Futuro das Autarquias continua pendurado nas comissões de especialidade",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7c04b507d72e09",
+      "score": 5
+    },
+    {
+      "title": "Ministro das Telecomunicações quer modernização do INACOM A modernização urgente do Instituto Angolano das Comunicações (INACOM) e a capacitação de quadros mais qualificados para regular o sector, actualmente em rápida transformação, são prioridades do Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social para os próximos meses, anunciou ontem o ministro Mário Oliveira.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683477/ministro-das-telecomunica%C3%A7%C3%B5es--quer-moderniza%C3%A7%C3%A3o-do-inacom-",
+      "source": "Jornal de Angola",
+      "_key": "a5ff68b2ac2c1825",
+      "score": 5
+    },
+    {
+      "title": "Chefes de Estado da SADC reafirmam pacto com o bem-estar dos africanos e da Região A 46.ª Cimeira de Chefes de Estado e de Governo da Comunidade de Desenvolvimento da África Austral (SADC) arrancou,segunda-feira , em Durban, África do Sul, com os líderes do Bloco Regional a manifestarem o seu engajamento em questões impactantes para o futuro da África Austral e do seu povo.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683464/chefes-de-estado-da-sadc-reafirmam-pacto-com-o-bem-estar-dos-africanos-e-da-regi%C3%A3o-",
+      "source": "Jornal de Angola",
+      "_key": "fe6399da1a5d0e87",
+      "score": 5
+    },
+    {
+      "title": "Da rua para o digital: A transformação da economia informal no século XXI (Parte I)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/683473/da-rua-para-o-digital:--a-transforma%C3%A7%C3%A3o--da-economia-informal--no-s%C3%A9culo-xxi-%28parte-i%29",
+      "source": "Jornal de Angola",
+      "_key": "783165f1b8cb93c6",
+      "score": 5
+    },
+    {
+      "title": "Economia / agora Produtores enfrentam problemas para escoar ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683469/produtores-enfrentam--problemas-para-escoar",
+      "source": "Jornal de Angola",
+      "_key": "1fa630aba637a712",
+      "score": 5
+    },
+    {
+      "title": "Controlo pelo Tribunal de Contas: Visão do Presidente...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/controlo-pelo-tribunal-de-contas-visao-do-presidente-vs-pratica-do-tribunal-e-o-papel-deste-na-efectivacao-dos-direitos-economicos-sociais-e-culturais--74009.html",
+      "source": "Novo Jornal",
+      "_key": "f1d0012e2f84b7b5",
+      "score": 5
     }
   ]
 }
