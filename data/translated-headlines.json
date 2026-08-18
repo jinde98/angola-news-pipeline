@@ -1,16 +1,40 @@
 {
   "date": "2026-08-18",
   "total_new": 7,
-  "total_filtered": 1,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "CICA supports law with greater accountability and transparency",
-      "url": "https://www.angop.ao/en/noticias/sociedade/cica-apoia-lei-com-maior-responsabilizacao-e-transparencia/",
-      "source": "ANGOP",
-      "_key": "304a863061629405",
+      "title": "Angola anuncia descoberta nova descoberta de petróleo e gás condensado",
+      "url": "https://forbesafricalusofona.com/angola-anuncia-descoberta-nova-descoberta-de-petroleo-e-gas-condensado/",
+      "source": "Forbes África",
+      "_key": "7789bdde7d789f30",
+      "score": 9,
+      "title_cn": "安哥拉宣布发现新的石油和凝析气田"
+    },
+    {
+      "title": "Política Luanda volta ser palco do sector mundial de Petróleo e Gás ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683524/luanda-volta-ser-palco-do-sector-mundial-de-petr%C3%B3leo-e-g%C3%A1s-",
+      "source": "Jornal de Angola",
+      "_key": "6545e0d7e4be7beb",
+      "score": 7,
+      "title_cn": "罗安达再迎全球油气盛会"
+    },
+    {
+      "title": "Comandantes provinciais passam a poder mobilizar a PIR em situações de alta perigosidade",
+      "url": "https://angola24horas.com/sociedade/item/34892-comandantes-provinciais-passam-a-poder-mobilizar-a-pir-em-situacoes-de-alta-perigosidade",
+      "source": "Angola 24 Horas",
+      "_key": "d25bad34446eb154",
       "score": 6,
-      "title_cn": "CICA支持提高问责和透明度的法律"
+      "title_cn": "省级指挥官获授权在高度危险情况下调动PIR"
+    },
+    {
+      "title": "CECOMA abre concurso de mil milhões de Kwanzas para medicamentos...",
+      "url": "https://valoreconomico.co.ao/artigo/cecoma-abre-concurso-de-mil-milhoes-de-kwanzas-para-medicamentos-e-material-gastavel",
+      "source": "Valor Económico",
+      "_key": "eca294e85dea4c8a",
+      "score": 6,
+      "title_cn": "CECOMA启动10亿宽扎药品采购招标"
     }
   ]
 }
