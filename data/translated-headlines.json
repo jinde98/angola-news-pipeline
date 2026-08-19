@@ -1,80 +1,88 @@
 {
   "date": "2026-08-19",
-  "total_new": 20,
-  "total_filtered": 9,
+  "total_new": 30,
+  "total_filtered": 10,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Hoji-ya-henda: Vendedor denuncia agressão e extorsão por parte de agentes afectos ao posto policial no mercado dos Kwanzas",
-      "url": "https://namiradocrime.info/show/17280",
-      "source": "Na Mira do Crime",
-      "_key": "9dc632a3f0e6ef41",
+      "title": "Angola prepara fórum académico sobre cooperação estratégica com a China",
+      "url": "https://correiokianda.info/angola-prepara-forum-academico-sobre-cooperacao-estrategica-com-a-china/",
+      "source": "Correio Kianda",
+      "_key": "f2b4669dd43bbe9a",
       "score": 9,
-      "title_cn": "Hoji-ya-henda：商贩举报宽扎市场警察施暴勒索"
+      "title_cn": "安哥拉筹备与中国战略合作学术论坛"
     },
     {
-      "title": "Banco Árabe aprova financiamento de 35 milhões de euros à Omatapalo para infraestruturas",
-      "url": "https://angola24horas.com/sociedade/item/34875-banco-arabe-aprova-financiamento-de-35-milhoes-de-euros-a-omatapalo-para-infraestruturas",
-      "source": "Angola 24 Horas",
-      "_key": "a1ebcfc87b296f56",
+      "title": "PR angolano atribui concessão do corredor energético do leste à Somagec Energy Holding e Averi Finance",
+      "url": "https://forbesafricalusofona.com/pr-angolano-atribui-concessao-do-corredor-energetico-do-leste-a-somagec-energy-holding-e-averi-finance/",
+      "source": "Forbes África",
+      "_key": "f8fa236716ce47f1",
       "score": 8,
-      "title_cn": "阿拉伯银行批准向Omatapalo公司提供3500万欧元基础设施融资"
+      "title_cn": "安哥拉总统将东部能源走廊特许权授予Somagec Energy Holding和Averi Finance"
     },
     {
-      "title": "BAD capta 13,46 milhões de dólares para acelerar transportes...",
-      "url": "https://valoreconomico.co.ao/artigo/bad-capta-13-46-milhoes-de-dolares-para-acelerar-transportes-electricos-em-africa",
-      "source": "Valor Económico",
-      "_key": "525cb0a899643fee",
+      "title": "Entreposto Aduaneiro de Angola passa a sociedade anónima com Estado a ceder 15% do capital social à recém criada ZEE, SA",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/entreposto-aduaneiro-de-angola-passa-a-sociedade-anonima-com-estado-a-ceder-15-do-capital-social-a-recem-criada-zee-sa-74050.html",
+      "source": "Novo Jornal",
+      "_key": "0261d05f2b4ebe1e",
       "score": 8,
-      "title_cn": "非洲开发银行筹集1346万美元，加速交通运输发展"
+      "title_cn": "安哥拉海关仓库转为股份公司，国家将15%股本转让给新成立的ZEE公司"
     },
     {
-      "title": "Desemprego em Angola volta a subir e já atinge cinco milhões de pessoas",
-      "url": "https://angola24horas.com/sociedade/item/34877-desemprego-em-angola-volta-a-subir-e-ja-atinge-cinco-milhoes-de-pessoas",
-      "source": "Angola 24 Horas",
-      "_key": "3c38b1df9fca4963",
+      "title": "Governo obriga seguradoras a partilhar grandes riscos para travar saída de prémios",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8edba8b14f8a2b",
       "score": 7,
-      "title_cn": "安哥拉失业率再次上升，已达500万人"
+      "title_cn": "政府要求保险公司分担大额风险，以阻止保费外流"
     },
     {
-      "title": "ARMED e AGT avançam com selos fiscais de alta segurança para travar medicamentos falsificados",
-      "url": "https://angola24horas.com/sociedade/item/34863-armed-e-agt-avancam-com-selos-fiscais-de-alta-seguranca-para-travar-medicamentos-falsificados",
-      "source": "Angola 24 Horas",
-      "_key": "f79567d340dad56c",
-      "score": 7,
-      "title_cn": "ARMED和AGT通过高度安全的收税箱走私假药"
-    },
-    {
-      "title": "Portuguese Consul praises government measures to attract investors",
-      "url": "https://www.angop.ao/en/noticias/economia/consul-portugues-enaltece-medidas-do-executivo-para-atraccao-de-investidores/",
-      "source": "ANGOP",
-      "_key": "2f339b58d04950ea",
-      "score": 6,
-      "title_cn": "葡萄牙领事赞扬政府吸引投资者的措施"
-    },
-    {
-      "title": "Israel eyes Huambo Province for partner in agriculture, education",
-      "url": "https://www.angop.ao/en/noticias/agricultura/israel-identifica-huambo-como-parceiro-na-agricultura-e-educacao/",
-      "source": "ANGOP",
-      "_key": "d5dfb9b1c57e3035",
-      "score": 5,
-      "title_cn": "以色列寻求与安哥拉万博省在农业、教育领域合作"
-    },
-    {
-      "title": "Malanje local authority and Rainha Njinga University ´s projects attract Israeli interest",
-      "url": "https://www.angop.ao/en/noticias/sociedade/projectos-da-administracao-de-malanje-e-da-urnm-atraem-interesse-israelita/",
-      "source": "ANGOP",
-      "_key": "d4900c96373eb218",
-      "score": 5,
-      "title_cn": "马兰热地方当局与恩金加女王大学项目吸引以色列关注"
-    },
-    {
-      "title": "Turismo em Angola mantém trajectória de crescimento no segundo trimestre de 2026O sector do Turismo em Angola manteve uma evolução positiva no segundo trimestre de 2026, impulsionado pelo reforço da confiança das empresas, pela redução das limitações à actividade e pela continuidade do crescimento da procura turística, segundo dados divulgados pelo Instituto Nacional de Estatística (INE).",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683597/turismo-em-angola-mant%C3%A9m-traject%C3%B3ria-de-crescimento-no-segundo-trimestre-de-2026",
+      "title": "Destaque Chefe de Estado orienta reunião ordinária do Conselho de SegurançaO Conselho de Segurança Nacional reuniu, esta quarta-feira, na Cidade Alta, sob orientação do Presidente da República e Comandante-Em-Chefe das Forças Armadas Angolanas, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683599/chefe-de-estado-orienta-reuni%C3%A3o-ordin%C3%A1ria-do-conselho-de-seguran%C3%A7a",
       "source": "Jornal de Angola",
-      "_key": "f0f701f750d5ddeb",
+      "_key": "176a633a5cd4c60b",
+      "score": 7,
+      "title_cn": "国家元首主持国家安全委员会例行会议"
+    },
+    {
+      "title": "Clima económico regressa aos dois dígitos em meio a queixas...",
+      "url": "https://valoreconomico.co.ao/artigo/clima-economico-regressa-aos-dois-digitos-em-meio-a-queixas-dos-empresarios",
+      "source": "Valor Económico",
+      "_key": "f0c4dc7342ffd1c8",
+      "score": 7,
+      "title_cn": "经济景气重回两位数增长，但抱怨声不断"
+    },
+    {
+      "title": "João Lourenço pode deixar a presidência sem completar aprovação das leis do...",
+      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-pode-deixar-a-presidencia-sem-completar-aprovacao-das-leis-do-pacote-autarquico",
+      "source": "Valor Económico",
+      "_key": "1c38defa8063b617",
+      "score": 7,
+      "title_cn": "若昂·洛伦索(João Lourenço)或在未完成法律批准前卸任总统"
+    },
+    {
+      "title": "Recredit de Angola recupera 28,19 mil milhões de kwanzas entre Janeiro e Junho",
+      "url": "https://forbesafricalusofona.com/recredit-de-angola-recupera-2819-mil-milhoes-de-kwanzas-entre-janeiro-e-junho/",
+      "source": "Forbes África",
+      "_key": "7b87081311f16aa8",
+      "score": 6,
+      "title_cn": "安哥拉Recredit公司上半年追回281.9亿宽扎"
+    },
+    {
+      "title": "PR extingue INADEC e transfere pessoal e património para a...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-extingue-inadec-e-transfere-pessoal-e-patrimonio-para-a-aniesa",
+      "source": "Valor Económico",
+      "_key": "98809bae604fab67",
+      "score": 6,
+      "title_cn": "总统解散INADEC，并转移其人员和资产"
+    },
+    {
+      "title": "Pelo menos 100 mortos numa mina artesanal de ouro na...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/pelo-menos-100-mortos-numa-mina-artesanal-de-ouro-na-republica-centro-africana-74053.html",
+      "source": "Novo Jornal",
+      "_key": "96f78b9fc9374f1b",
       "score": 5,
-      "title_cn": "安哥拉旅游业在2026年第二季度保持增长势头"
+      "title_cn": "一手工金矿发生事故，至少100人死亡"
     }
   ]
 }
