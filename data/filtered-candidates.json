@@ -1,357 +1,70 @@
 {
   "date": "2026-08-19",
-  "total_new": 101,
-  "total_filtered": 50,
+  "total_new": 15,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Pesquisa aponta que China e Rússia exploram fragilidades do sistema autoritário em Angola",
-      "url": "https://angola24horas.com/politica/item/34897-pesquisa-aponta-que-china-e-russia-exploram-fragilidades-do-sistema-autoritario-em-angola",
-      "source": "Angola 24 Horas",
-      "_key": "5cf7ab37eb85adec",
-      "score": 9
-    },
-    {
-      "title": "Benefícios fiscais como fonte de eficiência para as empresas",
-      "url": "https://expansao.co.ao/gestao/detalhe/beneficios-fiscais-como-fonte-de-eficiencia-para-as-empresas-74031.html",
-      "source": "Expansão",
-      "_key": "20075a4266f281fa",
-      "score": 9
-    },
-    {
-      "title": "Angola exporta mais, mas continua a gastar 17 vezes mais para importar",
-      "url": "https://expansao.co.ao/economia/detalhe/angola-exporta-mais-mas-continua-a-gastar-17-vezes-mais-para-importar-74029.html",
-      "source": "Expansão",
-      "_key": "acf12bb7b5dd43da",
-      "score": 9
-    },
-    {
-      "title": "Estreito de Ormuz vai continuar fechado até EUA cumprir compromissos – Teerão",
-      "url": "https://jornaloguardiao.com/2026/08/18/estreito-de-ormuz-vai-continuar-fechado-ate-eua-cumprir-compromissos-teerao/",
-      "source": "Jornal O Guardião",
-      "_key": "352ae557b5e46650",
-      "score": 9
-    },
-    {
-      "title": " Estreito de Ormuz vai continuar fechado até EUA cumprir compromissos – Teerão ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_84a929191d9e0f",
-      "score": 9
-    },
-    {
-      "title": "Empresas denunciam ‘submundo’ nos negócios de crédito envolvendo consultoras e...",
-      "url": "https://valoreconomico.co.ao/artigo/empresas-denunciam-submundo-nos-negocios-de-credito-envolvendo-consultoras-e-instituicoes-financeiras-publicas",
-      "source": "Valor Económico",
-      "_key": "15e4900dca8f3779",
-      "score": 9
-    },
-    {
-      "title": "S&P alerta para risco de Angola falhar metas das...",
-      "url": "https://valoreconomico.co.ao/artigo/s-p-alerta-para-risco-de-angola-falhar-metas-das-financas-publicas",
-      "source": "Valor Económico",
-      "_key": "6a261058b1a9fb75",
-      "score": 9
-    },
-    {
-      "title": "Guia para o emprego em Angola: Onde estão as oportunidades?",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34898-guia-para-o-emprego-em-angola-onde-estao-as-oportunidades",
-      "source": "Angola 24 Horas",
-      "_key": "d1bfb5c0e39ed1ce",
-      "score": 8
-    },
-    {
-      "title": "CIPRA reúne quatro ministros para debater futuro da rede rodoviária",
-      "url": "https://correiokianda.info/cipra-reune-quatro-ministros-para-debater-futuro-da-rede-rodoviaria/",
-      "source": "Correio Kianda",
-      "_key": "fa2b6cb0882fc305",
-      "score": 8
-    },
-    {
-      "title": " Presidente norte-americano volta a chamar ao estreito de Ormuz “novo território dos EUA” ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_0054349afaf1a9",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 1 dia Empresas nacionais querem maior participação na indústria petrolífera ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683466/empresas-nacionais-querem-maior-participa%C3%A7%C3%A3o-na-ind%C3%BAstria-petrol%C3%ADfera",
-      "source": "Jornal de Angola",
-      "_key": "b7a61c00ac65102e",
-      "score": 8
-    },
-    {
-      "title": "Enquanto a juventude clama por emprego: INE alega que mais de 10 milhões de angolanos não querem trabalhar",
-      "url": "https://namiradocrime.info/show/17277",
+      "title": "O angolano ganha 110 mil e o estrangeiro quase 2 milhões: Funcionários da TV CABO Angola clamam por salários iguais e condições sociais aceitáveis",
+      "url": "https://namiradocrime.info/show/17278",
       "source": "Na Mira do Crime",
-      "_key": "c42064b15cd7ca8f",
-      "score": 8
+      "_key": "a028feefc53cfb93",
+      "score": 9
     },
     {
-      "title": "Motorista da Refriango assassinado com facadas no pescoço no Cabiri quando regressava de missão de trabalho - Dois outros colegas estão desaparecidos",
-      "url": "https://namiradocrime.info/show/17271",
-      "source": "Na Mira do Crime",
-      "_key": "d8ea4d14ce5fd708",
-      "score": 8
-    },
-    {
-      "title": "INE alega que mais de 10 milhões de angolanos...",
-      "url": "https://valoreconomico.co.ao/artigo/ine-alega-que-mais-de-10-milhoes-de-angolanos-nao-querem-trabalhar",
-      "source": "Valor Económico",
-      "_key": "fd3e101fca0b72ea",
-      "score": 8
-    },
-    {
-      "title": "Gastos com bens e serviços disparam 54,1% e já valem...",
-      "url": "https://valoreconomico.co.ao/artigo/gastos-com-bens-e-servicos-disparam-54-1-e-ja-valem-97-6-da-despesa-anual-orcamentada",
-      "source": "Valor Económico",
-      "_key": "1e7b9655b279df67",
-      "score": 8
-    },
-    {
-      "title": "Com metade das fábricas paradas, Aldeia Nova precisa de 7 milhões ...",
-      "url": "https://valoreconomico.co.ao/artigo/com-metade-das-fabricas-paradas-aldeia-nova-precisa-de-7-milhoes-de-dolares-para-travar-colapso",
-      "source": "Valor Económico",
-      "_key": "d49e8fff5fbf447e",
-      "score": 8
-    },
-    {
-      "title": "Angola’s Mining Chamber seeks to turn mining titles into profitable ventures",
-      "url": "https://www.angop.ao/en/noticias/economia/camara-de-minas-quer-rentabilizar-titulos-mineiros/",
-      "source": "ANGOP",
-      "_key": "688075d1c8ea314c",
-      "score": 7
-    },
-    {
-      "title": "João Lourenço convoca Conselho de Segurança Nacional após confrontos no Uíge",
-      "url": "https://angola24horas.com/component/k2/item/34896-joao-lourenco-convoca-conselho-de-seguranca-nacional-apos-confrontos-no-uige",
-      "source": "Angola 24 Horas",
-      "_key": "8b19abfb4ce334e6",
-      "score": 7
-    },
-    {
-      "title": "Agência de Protecção de Dados de Angola multa Hotel Diamante em 115 mil dólares",
-      "url": "https://forbesafricalusofona.com/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares/",
+      "title": "Macau promete rever programa de quadros qualificados para atrair mais lusófonos",
+      "url": "https://forbesafricalusofona.com/macau-promete-rever-programa-de-quadros-qualificados-para-atrair-mais-lusofonos/",
       "source": "Forbes África",
-      "_key": "cc7b249c08e15356",
+      "_key": "55ef78cc7a633f8e",
       "score": 7
     },
     {
-      "title": "SADC defende aumento na região do comércio de produtos agrícolasA 46.ª Cimeira Ordinária de Chefes de Estado e de Governo da Comunidade de Desenvolvimento da África Austral (SADC) exortou aos Estados-Membros a aumentar o comércio regional de produtos agrícolas através da eliminação de Barreiras Não Tarifárias (BNT), da harmonização das normas e da melhoria da logística transfronteiriça. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683533/sadc-defende-aumento-na-regi%C3%A3o--do-com%C3%A9rcio-de-produtos-agr%C3%ADcolas",
-      "source": "Jornal de Angola",
-      "_key": "e1a1e3abd37e448f",
-      "score": 7
-    },
-    {
-      "title": "Polícia em Benguela captura bandidos \"especialistas\" em roubos de IPhones com recurso à catana e facas",
-      "url": "https://namiradocrime.info/show/17274",
-      "source": "Na Mira do Crime",
-      "_key": "72086672e3f58d3d",
-      "score": 7
-    },
-    {
-      "title": "Jovem de 18 anos morre dentro de Esquadra do Alfa 5 no Cazenga após alegada agressão policial - Autópsia revela asfixia mecânica",
-      "url": "https://namiradocrime.info/show/17269",
-      "source": "Na Mira do Crime",
-      "_key": "0a31f7a949096a6d",
-      "score": 7
-    },
-    {
-      "title": "Biocom mantém-se nos “cuidados intensivos”",
-      "url": "https://valoreconomico.co.ao/artigo/biocom-mantem-se-nos-cuidados-intensivos",
-      "source": "Valor Económico",
-      "_key": "dd7f5b433586037b",
-      "score": 7
-    },
-    {
-      "title": "QUEM CONTROLA O CAMINHO ATÉ AO DINHEIRO?",
-      "url": "https://valoreconomico.co.ao/artigo/quem-controla-o-caminho-ate-ao-dinheiro",
-      "source": "Valor Económico",
-      "_key": "00abb3b70701c46f",
-      "score": 7
-    },
-    {
-      "title": "Entraves no escoamento ‘empurram’ produção agrícola para a RDC e...",
-      "url": "https://valoreconomico.co.ao/artigo/entraves-no-escoamento-empurram-producao-agricola-para-a-rdc-e-zambia-a-precos-baixos",
-      "source": "Valor Económico",
-      "_key": "c3a885d2c7b7964e",
-      "score": 7
-    },
-    {
-      "title": "Mineração",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37459",
-      "source": "ANGOP",
-      "_key": "5953d522b1804ef4",
+      "title": "Presidente João Lourenço saúda Jacarta e defende maior aproximação económica entre os dois países",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-sauda-jacarta-e-defende-maior-aproximacao-economica-entre-os-dois-paises/",
+      "source": "Diário dos Negócios",
+      "_key": "15b51d1effdb3743",
       "score": 6
     },
     {
-      "title": "“Combate à poluição exige união entre Estado, empresas e comunidades”, defende especialista",
-      "url": "https://correiokianda.info/combate-a-poluicao-exige-uniao-entre-estado-empresas-e-comunidades-defende-especialista/",
-      "source": "Correio Kianda",
-      "_key": "093a1f6b7d198029",
-      "score": 6
-    },
-    {
-      "title": "Do drone à soberania tecnológica: por que Angola precisa de uma política nacional de sistemas não tripulados",
-      "url": "https://correiokianda.info/do-drone-a-soberania-tecnologica-por-que-angola-precisa-de-uma-politica-nacional-de-sistemas-nao-tripulados/",
-      "source": "Correio Kianda",
-      "_key": "b3f0391f945ab53f",
-      "score": 6
-    },
-    {
-      "title": "Tanzânia revê mais de mil leis para atrair investimentos em IA",
+      "title": " Presidente João Lourenço saúda Jacarta e defende maior aproximação económica entre os dois países ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_cca624ba240847",
+      "source": "Diário dos Negócios",
+      "_key": "t_8d12767d7499ee",
       "score": 6
     },
     {
-      "title": "Moody’s mantem ‘rating’ da Corporação Financeira Africana em A3",
-      "url": "https://jornaloguardiao.com/2026/08/18/moodys-mantem-rating-da-corporacao-financeira-africana-em-a3/",
-      "source": "Jornal O Guardião",
-      "_key": "00c33a80435e59ca",
-      "score": 6
-    },
-    {
-      "title": " Moody’s mantem ‘rating’ da Corporação Financeira Africana em A3 ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_db1665db9c7a94",
-      "score": 6
-    },
-    {
-      "title": "Política Assembleia Nacional vai concretizar programa de estágio remunerado ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683537/assembleia-nacional-vai-concretizar-programa-de-est%C3%A1gio-remunerado",
-      "source": "Jornal de Angola",
-      "_key": "911fa7d0b21820bd",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Manuel Homem visita infra-estruturas estratégicas do Ministério do Interior ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683525/manuel-homem-visita-infra-estruturas-estrat%C3%A9gicas-do-minist%C3%A9rio-do-interior",
-      "source": "Jornal de Angola",
-      "_key": "0c2ff67851289026",
-      "score": 6
-    },
-    {
-      "title": "\"Pica na Veia\" e \"Leguado: Acusados de assassinar jovem de 21 anos em 2025 com golpes de faca durante assalto conhecem hoje à sentença",
-      "url": "https://namiradocrime.info/show/17276",
+      "title": "Câmaras de vigilâncias registam momentos em que uma cidadã furta uma pasta contendo mercadorias avaliadas em 300 mil kwanzas - Assalto foi na sala de embarque da Macon no Kicolo",
+      "url": "https://namiradocrime.info/show/17279",
       "source": "Na Mira do Crime",
-      "_key": "54d73b3d4e77f573",
+      "_key": "9b199df01ea8d1bb",
       "score": 6
     },
     {
-      "title": "Mais uma festa que termina em tragédia: Jovem de 18 anos morre esfaqueado durante convívio na Gamek - Khalifa é o principal suspeito do crime",
-      "url": "https://namiradocrime.info/show/17275",
-      "source": "Na Mira do Crime",
-      "_key": "3d8e9a090ad0c5ba",
-      "score": 6
-    },
-    {
-      "title": "Mototaxista assassinado com catanada na cabeça no município dos Navegantes durante roubo de motorizada",
-      "url": "https://namiradocrime.info/show/17273",
-      "source": "Na Mira do Crime",
-      "_key": "b806808c6b28cd81",
-      "score": 6
-    },
-    {
-      "title": "Agente da polícia \"desertor\" detido na Camama fardado e com a patente de Intendente - Mentiu que era o 2.°Comandante de Icolo e Bengo",
-      "url": "https://namiradocrime.info/show/17272",
-      "source": "Na Mira do Crime",
-      "_key": "4b7f689d962ffae5",
-      "score": 6
-    },
-    {
-      "title": "Angola propõe acordo à Sérvia para impulsionar produção local de...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-propoe-acordo-a-servia-para-impulsionar-producao-local-de-medicamentos-14730",
-      "source": "Valor Económico",
-      "_key": "25f33cb83b0df2fd",
-      "score": 6
-    },
-    {
-      "title": "“Nenhum ministério assume as suas falhas porque nunca querem sair a perder”",
-      "url": "https://valoreconomico.co.ao/artigo/nenhum-ministerio-assume-as-suas-falhas-porque-nunca-querem-sair-a-perder",
-      "source": "Valor Económico",
-      "_key": "92dd5957d7811dac",
-      "score": 6
-    },
-    {
-      "title": "Angolan President congratulates Hakainde Hichilema on re-election",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-angolano-felicita-hakainde-hichilema-pela-reeleicao/",
-      "source": "ANGOP",
-      "_key": "b2667e8f05fbda66",
-      "score": 5
-    },
-    {
-      "title": "SADC congratulates Angola on hosting the AU Summit",
-      "url": "https://www.angop.ao/en/noticias/politica/sadc-sauda-angola-pela-realizacao-da-cimeira-da-ua/",
-      "source": "ANGOP",
-      "_key": "97aa5417a12d0b5f",
-      "score": 5
-    },
-    {
-      "title": "Higino Carneiro começa hoje a contestar acusação no Tribunal Supremo",
-      "url": "https://correiokianda.info/higino-carneiro-comeca-hoje-a-contestar-acusacao-no-tribunal-supremo/",
-      "source": "Correio Kianda",
-      "_key": "6930736ae94ac1d4",
-      "score": 5
-    },
-    {
-      "title": "Movimento Cívico Mudei e UNITA discutem processo eleitoral e alertam para riscos à transparência em Angola",
-      "url": "https://holdonangola.com/movimento-civico-mudei-e-unita-discutem-processo-eleitoral-e-alertam-para-riscos-a-transparencia-em-angola/",
-      "source": "Hold On Angola",
-      "_key": "234e0e87580c3263",
-      "score": 5
-    },
-    {
-      "title": "Sociedade civil recorre ao Tribunal Constitucional contra decisão da CNE sobre registo eleitoral",
-      "url": "https://holdonangola.com/sociedade-civil-recorre-ao-tribunal-constitucional-contra-decisao-da-cne-sobre-registo-eleitoral/",
-      "source": "Hold On Angola",
-      "_key": "7b037653167147e5",
-      "score": 5
-    },
-    {
-      "title": "Epidemia por Ébola na RDCongo está “longe de estar controlada” – OMS",
-      "url": "https://jornaloguardiao.com/2026/08/18/epidemia-por-ebola-na-rdcongo-esta-longe-de-estar-controlada-oms/",
-      "source": "Jornal O Guardião",
-      "_key": "619e1d92e527bea5",
-      "score": 5
-    },
-    {
-      "title": " Epidemia por Ébola na RDCongo está “longe de estar controlada” – OMS ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ad6d9d3d7b5456",
-      "score": 5
-    },
-    {
-      "title": "Destaque João Lourenço felicita Hakainde Hichilema pela reeleição na ZâmbiaO Presidente da República, João Lourenço, felicitou, hoje, o seu homólogo da Zâmbia, Hakainde Hichilema, pela vitória nas eleições presidenciais realizadas no dia 13 de Agosto de 2026, que lhe garantiram um novo mandato à frente do país.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683529/jo%C3%A3o-louren%C3%A7o-felicita-hakainde-hichilema-pela-reelei%C3%A7%C3%A3o-na-z%C3%A2mbia",
-      "source": "Jornal de Angola",
-      "_key": "182e3e0dad56a90f",
-      "score": 5
-    },
-    {
-      "title": "Economia / Há 1 dia Nova loja de Priscila Araújo cria 20 postos de trabalho ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683469/-nova-loja-de-priscila-ara%C3%BAjo-cria-20-postos-de-trabalho",
-      "source": "Jornal de Angola",
-      "_key": "150c77d255e657a2",
-      "score": 5
-    },
-    {
-      "title": "Manuel Rabelais próximo da cadeia para cumprimento...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/manuel-rabelais-proximo-da-cadeia-para-cumprimento-da-pena---constitucional-rejeitou-o-ultimo-pedido-de-recurso-do-antigo-director-do-grecima-74036.html",
+      "title": "Ébola/RDC: Não há registo de uma epidemia a avançar...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-nao-ha-registo-de-uma-epidemia-a-avancar-tao-depressa-resposta-internacional-de-emergencia-e-precisa-74044.html",
       "source": "Novo Jornal",
-      "_key": "cae5acdea74c408c",
+      "_key": "271102abb94e7d0b",
+      "score": 6
+    },
+    {
+      "title": "Malanje's agricultural potential attracts Brazilian investors",
+      "url": "https://www.angop.ao/en/noticias/agricultura/potencial-agricola-de-malanje-atrai-investidores-brasileiros/",
+      "source": "ANGOP",
+      "_key": "7fd71597ee8a6c6e",
       "score": 5
     },
     {
-      "title": "Higino Carneiro regressa esta quarta-feira ao TS para...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/higino-carneiro-regressa-esta-quarta-feira-ao-ts-para-a-primeira-audiencia-de-instrucao-contraditoria-no-processo-de-peculato-74034.html",
-      "source": "Novo Jornal",
-      "_key": "e261124710df597b",
+      "title": "João Lourenço felicita Hichilema pela reeleição e promete aprofundar cooperação com Lusaka",
+      "url": "https://diariodosnegocios.com/joao-lourenco-felicita-hichilema-pela-reeleicao-e-promete-aprofundar-cooperacao-com-lusaka/",
+      "source": "Diário dos Negócios",
+      "_key": "1a3d5b049d4b3b60",
+      "score": 5
+    },
+    {
+      "title": " João Lourenço felicita Hichilema pela reeleição e promete aprofundar cooperação com Lusaka ",
+      "url": "",
+      "source": "Diário dos Negócios",
+      "_key": "t_af45b202ea64ab",
       "score": 5
     }
   ]
