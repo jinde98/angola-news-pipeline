@@ -1,62 +1,560 @@
 {
-  "date": "2026-08-19",
-  "total_extracted": 1122,
-  "total_new": 9,
-  "total_existing": 1113,
+  "date": "2026-08-20",
+  "total_extracted": 1114,
+  "total_new": 92,
+  "total_existing": 1022,
   "articles": [
     {
+      "title": "Angolan Transport Minister calls for structural logistics transformation to ensure food security",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-advoga-transformacao-estrutural-logistica-para-garantir-seguranca-alimentar/",
+      "source": "ANGOP",
+      "_key": "203c6b747a9f2f81"
+    },
+    {
+      "title": "President João Lourenço chairs National Security Council meeting",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-orienta-reuniao-do-conselho-de-seguranca-nacional-2/",
+      "source": "ANGOP",
+      "_key": "20b9ea8c1c386c94"
+    },
+    {
+      "title": "Constitutional Court judge Vitorino Hossi dies",
+      "url": "https://www.angop.ao/en/noticias/politica/morreu-juiz-do-tribunal-constitucional-vitorino-hossi/",
+      "source": "ANGOP",
+      "_key": "c4140ab46094b48d"
+    },
+    {
+      "title": "Public Works​​​​​​​ Minister considers road network crucial to agricultural development",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-considera-malha-viaria-factor-crucial-para-desenvolver-agricultura/",
+      "source": "ANGOP",
+      "_key": "006308e68a7ea935"
+    },
+    {
+      "title": "Stock market records 2.07 billion kwanzas in trading",
+      "url": "https://www.angop.ao/en/noticias/economia/mercado-bolsista-movimenta-2-07-mil-milhoes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "c938225286d8a202"
+    },
+    {
+      "title": "Africell mobile phone services to reach Angola’s Cabinda province soon",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/",
+      "source": "ANGOP",
+      "_key": "145d89b05d346b89"
+    },
+    {
+      "title": "Electoral Commission building officially designated as National Historical-Cultural Heritage",
+      "url": "https://www.angop.ao/en/noticias/politica/descerrada-placa-de-classificacao-do-edificio-da-cne-como-patrimonio-historico/",
+      "source": "ANGOP",
+      "_key": "58a99d35942376e9"
+    },
+    {
+      "title": "Logística",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=110356",
+      "source": "ANGOP",
+      "_key": "1ec1b3b0ce88d11d"
+    },
+    {
+      "title": "Segurança",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31419",
+      "source": "ANGOP",
+      "_key": "05b36238b77a34c0"
+    },
+    {
+      "title": "Mourning",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5396",
+      "source": "ANGOP",
+      "_key": "a61d745cb2b47061"
+    },
+    {
+      "title": "Rede Móvel",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=33980",
+      "source": "ANGOP",
+      "_key": "30a940c777e67f5d"
+    },
+    {
+      "title": "Government invests in weighbridges to protect roads",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-aposta-na-instalacao-de-balancas-para-preservar-estradas/",
+      "source": "ANGOP",
+      "_key": "15dd29c363cbea3e"
+    },
+    {
+      "title": "Entrepreneur praises professional training project for young people",
+      "url": "https://www.angop.ao/en/noticias/economia/empreendedor-elogia-projecto-de-capacitacao-profissional-dos-jovens/",
+      "source": "ANGOP",
+      "_key": "7a2cf931ce084fa5"
+    },
+    {
+      "title": "Startup Challenge and Acelera Angola sign partnership agreement",
+      "url": "https://www.angop.ao/en/noticias/economia/startup-challenge-e-acelera-angola-estabelecem-parceria/",
+      "source": "ANGOP",
+      "_key": "6319480e42229600"
+    },
+    {
+      "title": "Angolan delegation visits Serbia’s Agency for Medicines and Medical Devices",
+      "url": "https://www.angop.ao/en/noticias/saude/delegacao-angolana-visita-agencia-de-medicamentos-e-dispositivos-medicos-da-servia/",
+      "source": "ANGOP",
+      "_key": "70aa39134e52dbaf"
+    },
+    {
+      "title": "Health Minister pays homage to Angola Founder of the Nation in Belgrade",
+      "url": "https://www.angop.ao/en/noticias/saude/ministra-da-saude-homenageia-fundador-da-nacao-em-belgrado/",
+      "source": "ANGOP",
+      "_key": "c7bad17c4148706b"
+    },
+    {
+      "title": "Geographic institute reaffirms its commitment to territorial management",
+      "url": "https://www.angop.ao/en/noticias/economia/igca-reafirma-compromisso-com-modernizacao-na-gestao-territorial/",
+      "source": "ANGOP",
+      "_key": "b6b482574e7662bc"
+    },
+    {
+      "title": "Higino Carneiro reafirma candidatura à liderança do MPLA e garante: “Não vou desistir”",
+      "url": "https://angola24horas.com/component/k2/item/34910-higino-carneiro-reafirma-candidatura-a-lideranca-do-mpla-e-garante-nao-vou-desistir",
+      "source": "Angola 24 Horas",
+      "_key": "08f43ffb14cf0788"
+    },
+    {
+      "title": "Defesa de Higino Carneiro diz ter esclarecido pontos da acusação e aguarda novas diligências",
+      "url": "https://angola24horas.com/sociedade/item/34908-defesa-de-higino-carneiro-diz-ter-esclarecido-pontos-da-acusacao-e-aguarda-novas-diligencias",
+      "source": "Angola 24 Horas",
+      "_key": "20fa6ea83186ce9b"
+    },
+    {
+      "title": "Higino Carneiro reafirma inocência no Supremo e contesta acusação de peculato",
+      "url": "https://angola24horas.com/component/k2/item/34906-higino-carneiro-reafirma-inocencia-no-supremo-e-contesta-acusacao-de-peculato",
+      "source": "Angola 24 Horas",
+      "_key": "77c5626c214834b0"
+    },
+    {
       "title": "Oposição angolana denuncia restrições à fiscalização do registo eleitoral",
-      "url": "https://angola24horas.com/component/k2/item/34904-oposicao-angolana-denuncia-restricoes-a-fiscalizacao-do-registo-eleitoral",
+      "url": "https://angola24horas.com/politica/item/34904-oposicao-angolana-denuncia-restricoes-a-fiscalizacao-do-registo-eleitoral",
       "source": "Angola 24 Horas",
-      "_key": "bad64e6b01aa7a84"
+      "_key": "12f74c982a6691a7"
     },
     {
-      "title": "TC anula primeira convenção do PHA e manda partido repetir congresso",
-      "url": "https://angola24horas.com/politica/item/34905-tc-anula-primeira-convencao-do-pha-e-manda-partido-repetir-congresso",
+      "title": "Sete partidos condenam violência no Uíge e anunciam nova plataforma de concertação",
+      "url": "https://angola24horas.com/politica/item/34900-sete-partidos-condenam-violencia-no-uige-e-anunciam-nova-plataforma-de-concertacao",
       "source": "Angola 24 Horas",
-      "_key": "e6e729ea1c7a25c4"
+      "_key": "b39d4e544e492169"
     },
     {
-      "title": "TC rejeita adiamento e manda Nimi a Simbi convocar congresso da FNLA",
-      "url": "https://angola24horas.com/politica/item/34903-tc-rejeita-adiamento-e-manda-nimi-a-simbi-convocar-congresso-da-fnla",
-      "source": "Angola 24 Horas",
-      "_key": "8cd55657891319aa"
-    },
-    {
-      "title": "Polícia diz que criminalidade violenta diminuiu no primeiro semestre",
-      "url": "https://correiokianda.info/policia-diz-que-criminalidade-violenta-diminuiu-no-primeiro-semestre/",
+      "title": "Executivo reconhece falhas logísticas que provocam perdas na produção agrícola",
+      "url": "https://correiokianda.info/executivo-reconhece-falhas-logisticas-que-provocam-perdas-na-producao-agricola/",
       "source": "Correio Kianda",
-      "_key": "d8dd0c06ec3b9010"
+      "_key": "210987b7cd12d70c"
     },
     {
-      "title": "Política Esmeralda Mendonça representa Angola na Reunião do Conselho de Ministros da CPLP ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683602/esmeralda-mendon%C3%A7a-representa-angola-na-reuni%C3%A3o-do-conselho-de-ministros-da-cplp-",
+      "title": "Instituto Politécnico Industrial de Luanda vai ser reabilitado e ampliado",
+      "url": "https://correiokianda.info/instituto-politecnico-industrial-de-luanda-vai-ser-reabilitado-e-ampliado/",
+      "source": "Correio Kianda",
+      "_key": "27c5f6bfd87aef9d"
+    },
+    {
+      "title": "Sede da CNE classificado como Património Histórico-Cultural de Angola",
+      "url": "https://correiokianda.info/sede-da-cne-classificado-como-patrimonio-historico-cultural-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "7af020a473d1dbfc"
+    },
+    {
+      "title": "Presidente República autoriza alteração de contratos para obras nas barragens do Namibe",
+      "url": "https://correiokianda.info/presidente-autoriza-alteracao-de-contratos-para-obras-nas-barragens-do-namibe/",
+      "source": "Correio Kianda",
+      "_key": "9704e388b28a454a"
+    },
+    {
+      "title": "Executivo defende coordenação dos sectores para combater ameaça das minas",
+      "url": "https://correiokianda.info/executivo-defende-coordenacao-dos-sectores-para-combater-ameaca-das-minas/",
+      "source": "Correio Kianda",
+      "_key": "69874fa168e9c50f"
+    },
+    {
+      "title": "Empresas devem 24 mil milhões de kwanzas ao INSS em Cabinda",
+      "url": "https://correiokianda.info/empresas-devem-24-mil-milhoes-de-kwanzas-ao-inss-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "6f48ef0a70dccfbc"
+    },
+    {
+      "title": "ANASO pede mais investimento para travar malária, tuberculose e VIH/SIDA",
+      "url": "https://correiokianda.info/anaso-pede-mais-investimento-para-travar-malaria-tuberculose-e-vih-sida/",
+      "source": "Correio Kianda",
+      "_key": "e7bd65b1f841fd96"
+    },
+    {
+      "title": "Executivo prevê mais 54 mil toneladas de fertilizantes até Novembro",
+      "url": "https://correiokianda.info/executivo-preve-mais-54-mil-toneladas-de-fertilizantes-ate-novembro/",
+      "source": "Correio Kianda",
+      "_key": "f1ebdf52ebc2e3f5"
+    },
+    {
+      "title": "Huambo tem quase um milhão de doses para vacinar crianças contra a pólio",
+      "url": "https://correiokianda.info/huambo-tem-quase-um-milhao-de-doses-para-vacinar-criancas-contra-a-polio/",
+      "source": "Correio Kianda",
+      "_key": "af9beb6bc3327d11"
+    },
+    {
+      "title": "Novo Hospital dos Queimados do Kilamba investe 520 milhões de kwanzas na aquisição de novos veículos",
+      "url": "https://correiokianda.info/novo-hospital-dos-queimados-do-kilamba-investe-520-milhoes-de-kwanzas-na-aquisicao-de-novos-veiculos/",
+      "source": "Correio Kianda",
+      "_key": "8858c0fa6d621378"
+    },
+    {
+      "title": "Cuanza Sul endurece regras para compra e transporte de combustível",
+      "url": "https://correiokianda.info/cuanza-sul-endurece-regras-para-compra-e-transporte-de-combustivel/",
+      "source": "Correio Kianda",
+      "_key": "bc237a0b32d2041a"
+    },
+    {
+      "title": "Economia russa cresce 10% em três anos com forte aposta no mercado interno",
+      "url": "https://correiokianda.info/economia-russa-cresce-10-em-tres-anos-com-forte-aposta-no-mercado-interno/",
+      "source": "Correio Kianda",
+      "_key": "4e470259ab94b220"
+    },
+    {
+      "title": "1.º de Agosto vence FC Les Aigles e fecha pré-época com triunfo",
+      "url": "https://correiokianda.info/1-o-de-agosto-vence-fc-les-aigles-e-fecha-pre-epoca-com-triunfo/",
+      "source": "Correio Kianda",
+      "_key": "169c1ac1ea8e8ecd"
+    },
+    {
+      "title": "Angola defronta Bulgária no último teste antes da janela de Dakar",
+      "url": "https://correiokianda.info/angola-defronta-bulgaria-no-ultimo-teste-antes-da-janela-de-dakar/",
+      "source": "Correio Kianda",
+      "_key": "177bce0303f28405"
+    },
+    {
+      "title": "        África2 horas atrás  SADC quer reduzir entraves ao comércio e reforçar integração económica A Comunidade de Desenvolvimento da África Austral (SADC) quer reduzir os obstáculos ao comércio entre os Estados-Membros e aprofundar a integração económica regional, com particular atenção...   ",
+      "url": "https://correiokianda.info/sadc-quer-reduzir-entraves-ao-comercio-e-reforcar-integracao-economica/",
+      "source": "Correio Kianda",
+      "_key": "851b19f97a445f24"
+    },
+    {
+      "title": "        África2 horas atrás  Exército sudanês recebe 318 desertores das forças paramilitares O Exército sudanês recebeu 318 combatentes das Forças de Apoio Rápido (RSF) que desertaram do grupo paramilitar e decidiram integrar as forças armadas do país, segundo...   ",
+      "url": "https://correiokianda.info/exercito-sudanes-recebe-318-desertores-das-forcas-paramilitares/",
+      "source": "Correio Kianda",
+      "_key": "574549749cd31b13"
+    },
+    {
+      "title": "“Hoje as estradas servem, de facto, ao dinamismo do escoamento da produção nacionalˮ",
+      "url": "https://forbesafricalusofona.com/hoje-as-estradas-servem-de-facto-ao-dinamismo-do-escoamento-da-producao-nacional%cb%ae/",
+      "source": "Forbes África",
+      "_key": "0c7ac7c69cc90e78"
+    },
+    {
+      "title": "Higino Carneiro reafirma candidatura à liderança do MPLA após audiência no Tribunal Supremo",
+      "url": "https://holdonangola.com/higino-carneiro-reafirma-candidatura-a-lideranca-do-mpla-apos-audiencia-no-tribunal-supremo/",
+      "source": "Hold On Angola",
+      "_key": "825fa18c61be505f"
+    },
+    {
+      "title": "UNITA faz balanço parlamentar e anuncia novas iniciativas para 2026-2027",
+      "url": "https://holdonangola.com/unita-faz-balanco-parlamentar-e-anuncia-novas-iniciativas-para-2026-2027/",
+      "source": "Hold On Angola",
+      "_key": "604c4baf9aa999b9"
+    },
+    {
+      "title": "Relatório acusa China e Rússia de enfraquecerem democracia em Angola",
+      "url": "https://holdonangola.com/relatorio-acusa-china-e-russia-de-enfraquecerem-democracia-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "360935aa67ebb179"
+    },
+    {
+      "title": "Partidos da oposição condenam violência no Uíge e…",
+      "url": "https://holdonangola.com/partidos-da-oposicao-condenam-violencia-no-uige-e-anunciam-plataforma-conjunta/",
+      "source": "Hold On Angola",
+      "_key": "0d8a51721ef86525"
+    },
+    {
+      "title": "DJ Tura, o lendário produtor de Kuduro, revela segredos e desafios da carreira",
+      "url": "https://holdonangola.com/dj-tura-o-lendario-produtor-de-kuduro-revela-segredos-e-desafios-da-carreira/",
+      "source": "Hold On Angola",
+      "_key": "2b3c143c5ec8c607"
+    },
+    {
+      "title": "Juventude da MEPA realiza excursão cultural à Quilenda…",
+      "url": "https://holdonangola.com/juventude-da-mepa-realiza-excursao-cultural-a-quilenda-e-prepara-concerto-gospel/",
+      "source": "Hold On Angola",
+      "_key": "a8d82fcb50dc25a9"
+    },
+    {
+      "title": "Moçambique: Presidente Venâncio Mondlane relança…",
+      "url": "https://holdonangola.com/mocambique-presidente-venancio-mondlane-relanca-campanha-nacional-e-acusa-a-policia-de-mentir/",
+      "source": "Hold On Angola",
+      "_key": "d2aca7a80a360c5c"
+    },
+    {
+      "title": "Moçambique: ANAMOLA reforça diálogo com…",
+      "url": "https://holdonangola.com/mocambique-anamola-reforca-dialogo-com-alto-comissariado-britanico-sobre-situacao-em-mocambique/",
+      "source": "Hold On Angola",
+      "_key": "3f5b44ad08a1579e"
+    },
+    {
+      "title": "Higino Carneiro diz que não desiste de candidatura ao MPLA",
+      "url": "https://jornaloguardiao.com/2026/08/20/higino-carneiro-diz-que-nao-desiste-de-candidatura-ao-mpla/",
+      "source": "Jornal O Guardião",
+      "_key": "f429da42784dac2b"
+    },
+    {
+      "title": "Conselho de Segurança Nacional reúne-se na Cidade Alta sob orientação de João Lourenço",
+      "url": "https://jornaloguardiao.com/2026/08/19/conselho-de-seguranca-nacional-reune-se-na-cidade-alta-sob-orientacao-de-joao-lourenco/",
+      "source": "Jornal O Guardião",
+      "_key": "5005e2bd6eaf92a8"
+    },
+    {
+      "title": "Autoridades angolanas expulsaram este ano mais de 53 mil estrangeiros ilegais",
+      "url": "https://jornaloguardiao.com/2026/08/20/autoridades-angolanas-expulsaram-este-ano-mais-de-53-mil-estrangeiros-ilegais/",
+      "source": "Jornal O Guardião",
+      "_key": "10be746c9b239d3e"
+    },
+    {
+      "title": "Epidemia por Ébola na RDCongo ultrapassa 5.000 casos com propagação sem precedentes",
+      "url": "https://jornaloguardiao.com/2026/08/19/epidemia-por-ebola-na-rdcongo-ultrapassa-5-000-casos-com-propagacao-sem-precedentes/",
+      "source": "Jornal O Guardião",
+      "_key": "c7d72d21acd764c3"
+    },
+    {
+      "title": "Pelo menos 100 mortos numa mina artesanal de ouro na República Centro-Africana",
+      "url": "https://jornaloguardiao.com/2026/08/19/pelo-menos-100-mortos-numa-mina-artesanal-de-ouro-na-republica-centro-africana/",
+      "source": "Jornal O Guardião",
+      "_key": "bf4d23a2cf2c7472"
+    },
+    {
+      "title": "Técnico Humberto Bettencourt é o novo selecionador de futebol de Cabo Verde",
+      "url": "https://jornaloguardiao.com/2026/08/19/tecnico-humberto-bettencourt-e-o-novo-selecionador-de-futebol-de-cabo-verde/",
+      "source": "Jornal O Guardião",
+      "_key": "981b0b4fb8db7073"
+    },
+    {
+      "title": "País de Gales pede a demissão de Gianni Infantino da presidência da FIFA",
+      "url": "https://jornaloguardiao.com/2026/08/19/pais-de-gales-pede-a-demissao-de-gianni-infantino-da-presidencia-da-fifa/",
+      "source": "Jornal O Guardião",
+      "_key": "4ad5c91198e7b7d9"
+    },
+    {
+      "title": "Ataque israelita a esquadra de polícia mata sete pessoas em Gaza",
+      "url": "https://jornaloguardiao.com/2026/08/19/ataque-israelita-a-esquadra-de-policia-mata-sete-pessoas-em-gaza/",
+      "source": "Jornal O Guardião",
+      "_key": "b71abf23e3b320b4"
+    },
+    {
+      "title": "Alemanha e França condenam apelos de ministro israelita a mortes em Gaza",
+      "url": "https://jornaloguardiao.com/2026/08/19/alemanha-e-franca-condenam-apelos-de-ministro-israelita-a-mortes-em-gaza/",
+      "source": "Jornal O Guardião",
+      "_key": "cc097397fafd58ea"
+    },
+    {
+      "title": "Quinta-feira, 20 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_2e3baec605baa1"
+    },
+    {
+      "title": " Higino Carneiro diz que não desiste de candidatura ao MPLA ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_68b287040fb4e7"
+    },
+    {
+      "title": " Conselho de Segurança Nacional reúne-se na Cidade Alta sob orientação de João Lourenço ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_37b393baaa5f48"
+    },
+    {
+      "title": " Autoridades angolanas expulsaram este ano mais de 53 mil estrangeiros ilegais ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_98bb93417ae420"
+    },
+    {
+      "title": " Epidemia por Ébola na RDCongo ultrapassa 5.000 casos com propagação sem precedentes ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_75227b1c07ded4"
+    },
+    {
+      "title": " Pelo menos 100 mortos numa mina artesanal de ouro na República Centro-Africana ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_de559699fd408c"
+    },
+    {
+      "title": " Técnico Humberto Bettencourt é o novo selecionador de futebol de Cabo Verde ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_2d232a6d1e0115"
+    },
+    {
+      "title": " País de Gales pede a demissão de Gianni Infantino da presidência da FIFA ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_5e8ecb4f521f3e"
+    },
+    {
+      "title": " Ataque israelita a esquadra de polícia mata sete pessoas em Gaza ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_4e0f2eb726d27b"
+    },
+    {
+      "title": " Alemanha e França condenam apelos de ministro israelita a mortes em Gaza ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_16a22e17b9a84e"
+    },
+    {
+      "title": "Destaque Angola e Sérvia avaliam cooperação na saúde com aposta na indústria farmacêuticaA ministra da Saúde, Sílvia Lutucuta, defendeu, esta quarta-feira, em Belgrado, o reforço da cooperação entre Angola e a Sérvia nos domínios da produção de medicamentos, transferência de tecnologia, investigação, inovação e formação de quadros.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683609/angola-e-s%C3%A9rvia-avaliam-coopera%C3%A7%C3%A3o-na-sa%C3%BAde-com-aposta-na-ind%C3%BAstria-farmac%C3%AAutica",
       "source": "Jornal de Angola",
-      "_key": "cf3dedc1d6d2b8e7"
+      "_key": "85490b12826573dd"
     },
     {
-      "title": "Cultura Angélique Kidjo faz história na Calçada da Fama de Hollywood ",
-      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/683601/ang%C3%A9lique-kidjo-faz-hist%C3%B3ria-na-cal%C3%A7ada-da-fama-de-hollywood",
+      "title": "Destaque Ministério do Interior disponibiliza consulta do estado das candidaturas ao concurso públicoO Ministério do Interior disponibilizou, esta quarta-feira, a consulta do estado individual das inscrições dos candidatos ao Concurso Público de Ingresso Externo.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683607/minist%C3%A9rio-do-interior-disponibiliza-consulta-do-estado-das-candidaturas-ao-concurso-p%C3%BAblico",
       "source": "Jornal de Angola",
-      "_key": "92e8eb299988b871"
+      "_key": "994b06b8544d490c"
     },
     {
-      "title": "BDA garante estar a negociar recuperação dos 9,2 mil milhões...",
-      "url": "https://valoreconomico.co.ao/artigo/bda-garante-estar-a-negociar-recuperacao-dos-9-2-mil-milhoes-kz-pagos-a-empreiteira-que-nao-cumpriu-contrato",
-      "source": "Valor Económico",
-      "_key": "4e6f49b1c77c10ee"
+      "title": "Destaque Angola conquista duas medalhas de prata no Mundial Juvenil de MMAA Selecção Nacional Juvenil de MMA conquistou, esta quarta-feira, duas medalhas de prata no terceiro dia de combates do 17.º Campeonato Mundial Juvenil de MMA, que decorre em Abu Dhabi, nos Emirados Árabes Unidos.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/683606/angola-conquista-duas-medalhas-de-prata-no-mundial-juvenil-de-mma",
+      "source": "Jornal de Angola",
+      "_key": "5a319bcb12afb4d6"
     },
     {
-      "title": "Tailândia lidera ranking dos mercados nocturnos com mercado de 15...",
-      "url": "https://valoreconomico.co.ao/artigo/tailandia-lidera-ranking-dos-mercados-nocturnos-com-mercado-de-15-mil-barracas",
-      "source": "Valor Económico",
-      "_key": "e97fe4b256657946"
+      "title": "Destaque Ministério das Relações Exteriores acolhe hoje reunião com embaixadores da CEEAC O ministro das Relações Exteriores, Téte António, preside, esta quinta-feira, em Luanda, a uma reunião com os embaixadores dos países membros da Comunidade Económica dos Estados da África Central (CEEAC).",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/683619/minist%C3%A9rio-das-rela%C3%A7%C3%B5es-exteriores-acolhe-hoje-reuni%C3%A3o-com-embaixadores-da-ceeac-",
+      "source": "Jornal de Angola",
+      "_key": "802769887a411574"
     },
     {
-      "title": "Comerciantes do mercado dos Congolenses resistem a quebra de 70% das receitas",
-      "url": "https://valoreconomico.co.ao/artigo/comerciantes-do-mercado-dos-congolenses-resistem-a-quebra-de-70-das-receitas",
+      "title": "Executivo está a transformar a economia para abastecimento interno e exportação O Executivo está a promover uma transformação estrutural da economia nacional com o propósito de inverter o actual modelo, ainda fortemente dependente das importações, para uma administração (economia) baseada na produção doméstica com capacidade de abastecer o mercado interno e aumentar os níveis de exportação.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683610/executivo-est%C3%A1-a-transformar-a-economia-para-abastecimento-interno-e-exporta%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "fbf95fea83a59322"
+    },
+    {
+      "title": "Economia Sector Mineiro cresce 62,08 por cento em cinco anos ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683622/sector-mineiro-cresce-6208-por-cento--em-cinco-anos",
+      "source": "Jornal de Angola",
+      "_key": "b357788e2170e2bb"
+    },
+    {
+      "title": "Política Situação de segurança no país é estável ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683620/situa%C3%A7%C3%A3o-de-seguran%C3%A7a-no-pa%C3%ADs-%C3%A9-est%C3%A1vel",
+      "source": "Jornal de Angola",
+      "_key": "e12f7ec5b935cb00"
+    },
+    {
+      "title": "Política Josefa Sacko quer mais destaque da SADC na agenda global da FAO ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683617/josefa-sacko-quer-mais-destaque-da-sadc-na-agenda-global-da-fao",
+      "source": "Jornal de Angola",
+      "_key": "825dde25f6469c7d"
+    },
+    {
+      "title": "Política CNE promete combater desinformação eleitoral ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683616/cne-promete-combater-desinforma%C3%A7%C3%A3o-eleitoral-",
+      "source": "Jornal de Angola",
+      "_key": "1cf09c6dde66d4cd"
+    },
+    {
+      "title": "Política Semana do Desenvolvimento encerra com balanço positivo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683615/semana-do-desenvolvimento-encerra-com-balan%C3%A7o-positivo",
+      "source": "Jornal de Angola",
+      "_key": "b513926a00075085"
+    },
+    {
+      "title": "Política Constitucional lamenta morte de Victorino Hossi ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683614/constitucional-lamenta-morte-de-victorino-hossi",
+      "source": "Jornal de Angola",
+      "_key": "07e60ca66476eea5"
+    },
+    {
+      "title": "Política Tribunal Supremo inicia instrução contraditória do processo de Higino Carneiro ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683608/tribunal-supremo-inicia-instru%C3%A7%C3%A3o-contradit%C3%B3ria-do-processo-de-higino-carneiro",
+      "source": "Jornal de Angola",
+      "_key": "446c42292a8beae9"
+    },
+    {
+      "title": "Política Tribunal Constitucional lamenta morte do juiz conselheiro Vitorino Hossi ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683604/tribunal-constitucional-lamenta-morte-do-juiz-conselheiro-vitorino-hossi",
+      "source": "Jornal de Angola",
+      "_key": "5f96fff9ad0443d1"
+    },
+    {
+      "title": "Colegas acusam director provincial do DIIP no Cuanza-Norte de perseguição e abuso de autoridade: Dois agentes estão detidos por suspeita de furto de placas de viaturas",
+      "url": "https://namiradocrime.info/show/17287",
+      "source": "Na Mira do Crime",
+      "_key": "98c46a2f5ed06ec0"
+    },
+    {
+      "title": "No Kilamba: Segurança aplica três injeções ao filho de 02 anos de idade para \"combater\" a febre - Criança morreu quatro horas depois",
+      "url": "https://namiradocrime.info/show/17286",
+      "source": "Na Mira do Crime",
+      "_key": "d49fe5b9c9ef66ab"
+    },
+    {
+      "title": "Na Astra Green Energy no Sequele - Chinês esbofetea motorista angolano durante exercício da condução, questionado diz que estava bêbado quando bateu o seu funcionário",
+      "url": "https://namiradocrime.info/show/17285",
+      "source": "Na Mira do Crime",
+      "_key": "cc8b88811daf4f17"
+    },
+    {
+      "title": "Conheceram-se nas redes sociais - Jovem leva (nova) namorada à sua casa e acaba por perder vários bens avaliados em mais de um milhão de Kwanzas",
+      "url": "https://namiradocrime.info/show/17284",
+      "source": "Na Mira do Crime",
+      "_key": "c0b2d31195036be3"
+    },
+    {
+      "title": "Higino Carneiro aguarda pronunciamento do Tribunal...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/higino-carneiro-aguarda-pronunciamento-do-tribunal-constitucional-para-continuar-luta-judicial-pela-lideranca-do-mpla-74063.html",
+      "source": "Novo Jornal",
+      "_key": "c6d835de8b63ec18"
+    },
+    {
+      "title": "Morreu o juiz conselheiro do Tribunal Constitucional...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/morreu-o-juiz-conselheiro-do-tribunal-constitucional-vitorino-hossi-antigo-ministro-do-comercio-do-gurn-74055.html",
+      "source": "Novo Jornal",
+      "_key": "051252aaeb7ae480"
+    },
+    {
+      "title": "Governo vai abrir concurso público para a construção...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-vai-abrir-concurso-publico-para-a-construcao-de-200-casas-sociais-na-provincia-do-bengo-74054.html",
+      "source": "Novo Jornal",
+      "_key": "f281bc4d0e14c625"
+    },
+    {
+      "title": "Arrancou a instrução contraditória do processo-crime...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/arrancou-a-instrucao-contraditoria-do-processo-crime-de-higino-carneiro-que-se-diz-inocente-74057.html",
+      "source": "Novo Jornal",
+      "_key": "60b188570968f480"
+    },
+    {
+      "title": "\"Quando se trata de levar os produtos importados para...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/quando-se-trata-de-levar-os-produtos-importados-para-o-interior-ja-ninguem-levanta-o-problema-da-falta-das-estradas---ministro-da-industria-e-comercio-74060.html",
+      "source": "Novo Jornal",
+      "_key": "300dc391050c5f51"
+    },
+    {
+      "title": "Tribunais Comunitários em Angola: Entre o Pluralismo...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/tribunais-comunitarios-em-angola-entre-o-pluralismo-juridico-o-direito-costumeiro-e-o-desafio-de-aproximar-a-justica-dos-cidadaos-74062.html",
+      "source": "Novo Jornal",
+      "_key": "507473a2c298ff1d"
+    },
+    {
+      "title": "FÓRMULA DE SUCESSO: DO HOBBY AO NEGÓCIO. Universidade, Carreira e Empreendedorismo.",
+      "url": "https://marginal.co.ao/programas/formula-de-sucesso?ep=74058",
+      "source": "Novo Jornal",
+      "_key": "3b1a16aef4361832"
+    },
+    {
+      "title": "Contratação Simplificada recua, mas ainda é o mecanismo 'preferido' da...",
+      "url": "https://valoreconomico.co.ao/artigo/contratacao-simplificada-recua-mas-ainda-e-o-mecanismo-preferido-da-administracao-publica",
       "source": "Valor Económico",
-      "_key": "6946828e14c1e4aa"
+      "_key": "c1e7db0ae2596c31"
+    },
+    {
+      "title": "“Contribuinte informado é contribuinte preparado”: AGT avisa para riscos de...",
+      "url": "https://valoreconomico.co.ao/artigo/contribuinte-informado-e-contribuinte-preparado-agt-avisa-para-riscos-de-nao-responder-a-notificacoes",
+      "source": "Valor Económico",
+      "_key": "a5448730c9a33aa1"
     }
   ]
 }
