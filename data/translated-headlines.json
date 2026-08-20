@@ -1,24 +1,72 @@
 {
   "date": "2026-08-20",
-  "total_new": 9,
-  "total_filtered": 2,
+  "total_new": 15,
+  "total_filtered": 8,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola records 10% decline in crime",
-      "url": "https://www.angop.ao/en/noticias/politica/criminalidade-em-angola-baixa-10-por-cento/",
-      "source": "ANGOP",
-      "_key": "d9812bbdb0254c26",
-      "score": 7,
-      "title_cn": "安哥拉犯罪率下降10%"
+      "title": "Petróleo sobe pela quinta sessão consecutiva com cerco económico ao Irão",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-sobe-pela-quinta-sessao-consecutiva-com-cerco-economico-ao-irao-74068.html",
+      "source": "Expansão",
+      "_key": "f02486cf0e162359",
+      "score": 10,
+      "title_cn": "油价因伊朗经济制裁连续第五个交易日上涨"
     },
     {
-      "title": "Destaque João Lourenço orienta 3.ª Sessão Ordinária da Comissão Económica do Conselho de MinistrosO Presidente da República, João Lourenço, orienta, neste momento, a 3.ª Sessão Ordinária da Comissão Económica do Conselho de Ministros, em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683632/jo%C3%A3o-louren%C3%A7o-orienta-3.%C2%AA-sess%C3%A3o-ordin%C3%A1ria-da-comiss%C3%A3o-econ%C3%B3mica-do-conselho-de-ministros",
-      "source": "Jornal de Angola",
-      "_key": "8c1a4dc8e900a2cd",
+      "title": "Sindicato dos CFM anuncia greve geral caso aumento de 25% não seja pago",
+      "url": "https://correiokianda.info/sindicato-dos-cfm-anuncia-greve-geral-caso-aumento-de-25-nao-seja-pago/",
+      "source": "Correio Kianda",
+      "_key": "9fb16214b5b2a8d2",
+      "score": 8,
+      "title_cn": "CFM工会宣布，若25%涨薪未兑现将举行大罢工"
+    },
+    {
+      "title": "Luanda acolhe primeira Conferência Nacional sobre Trabalho e Sindicalismo nos dias 26 e 27 de Agosto",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/luanda-acolhe-primeira-conferencia-nacional-sobre-trabalho-e-sindicalismo-nos-dias-26-e-27-de-agosto-74064.html",
+      "source": "Novo Jornal",
+      "_key": "a55234a9a191b4fe",
+      "score": 8,
+      "title_cn": "罗安达将于8月26日至27日举行首届全国劳工与工会会议"
+    },
+    {
+      "title": "Minister advocates more organized trade in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-quer-comercio-mais-organizado-em-angola/",
+      "source": "ANGOP",
+      "_key": "f9aefa5f8a7bb82e",
       "score": 7,
-      "title_cn": "若昂·洛伦索主持部长会议经济委员会第三次常会"
+      "title_cn": "部长倡导安哥拉贸易更加规范有序"
+    },
+    {
+      "title": "MININT abre portal para candidatos consultarem inscrição...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/minint-abre-portal-para-candidatos-consultarem-inscricao-e-apresentarem-reclamacoes-do-tao-aguardado-concurso-publico-74065.html",
+      "source": "Novo Jornal",
+      "_key": "790b67c79f988851",
+      "score": 7,
+      "title_cn": "内政部开通门户网站供申请人查询报名信息"
+    },
+    {
+      "title": "Logistics value chains impact agricultural production of families - minister",
+      "url": "https://www.angop.ao/en/noticias/economia/cadeias-de-valores-logisticas-impactam-na-producao-agricola-ministro/",
+      "source": "ANGOP",
+      "_key": "cc836a11d370f3ec",
+      "score": 6,
+      "title_cn": "部长：物流价值链影响家庭农业生产"
+    },
+    {
+      "title": "Destaque Polícia Nacional esclarece resposta policial durante incidentes no UígeA Polícia Nacional esclareceu, esta quinta-feira, em Luanda, que a resposta policial registada na província do Uíge, no âmbito da manutenção da ordem pública, obedeceu aos níveis de intervenção previamente definidos.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683638/pol%C3%ADcia-nacional-esclarece-resposta-policial-durante-incidentes-no-u%C3%ADge",
+      "source": "Jornal de Angola",
+      "_key": "e91c2f790749188e",
+      "score": 6,
+      "title_cn": "国家警察澄清威热省事件中的警方应对"
+    },
+    {
+      "title": "ARC promotes international debate on digital market regulation",
+      "url": "https://www.angop.ao/en/noticias/economia/arc-promove-debate-internacional-de-regulacao-dos-mercados-digitais/",
+      "source": "ANGOP",
+      "_key": "bbe0264ece74f4f0",
+      "score": 5,
+      "title_cn": "ARC推动关于数字市场监管的国际辩论"
     }
   ]
 }
