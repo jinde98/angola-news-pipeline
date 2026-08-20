@@ -1,36 +1,71 @@
 {
   "date": "2026-08-20",
-  "total_new": 11,
-  "total_filtered": 4,
+  "total_new": 22,
+  "total_filtered": 9,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Managers analyze the situation of the diamond market in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/gestores-analisam-situacao-do-mercado-de-diamantes-em-angola/",
+      "title": "Destaque Petróleo Brent sobe para 91,62 dólares devido ao impasse EUA-IrãoA cotação do barril de petróleo Brent para entrega em Outubro, terminou, hoje, em alta de 0,66%, para 91,62 dólares, perante a falta de progressos diplomáticos entre Estados Unidos América (EUA) e Irão e o aumento das tensões no Médio Oriente.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683653/petr%C3%B3leo-brent-sobe-para-9162-d%C3%B3lares-devido-ao-impasse-eua-ir%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "9ef87fe3c773e445",
+      "score": 9
+    },
+    {
+      "title": "Benefícios fiscais como fonte de eficiência para as empresas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_06673a913cb948",
+      "score": 8
+    },
+    {
+      "title": "Angolan government guarantees plots of land for guided private construction",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-angolano-garante-lotes-para-auto-construcao-dirigida/",
       "source": "ANGOP",
-      "_key": "296621bb0acaa3d8",
+      "_key": "5a5e0bfd1950f0d7",
       "score": 7
     },
     {
-      "title": "Angola highlights efforts in public administration modernization",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-apresenta-avancos-na-modernizacao-da-administracao-publica/",
+      "title": "Destaque Executivo reforça incentivo à produção nacional de milho A Comissão Económica do Conselho de Ministros apreciou, hoje, uma proposta que estabelece novas medidas de incentivo à produção nacional de milho, com o objectivo de fortalecer a agricultura local e garantir maior escoamento da produção interna.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683667/executivo-refor%C3%A7a-incentivo-%C3%A0-produ%C3%A7%C3%A3o-nacional-de-milho-",
+      "source": "Jornal de Angola",
+      "_key": "746a6c78070c958d",
+      "score": 7
+    },
+    {
+      "title": "Destaque Angola prioriza investimento privado para dinamizar sector do TurismoO Executivo pretende reforçar a atracção de investimento privado para o sector do turismo, com foco na dinamização de áreas consideradas estratégicas para o desenvolvimento da actividade turística nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683659/angola-prioriza-investimento-privado-para-dinamizar-sector-do-turismo",
+      "source": "Jornal de Angola",
+      "_key": "d6f2f18817cc9f07",
+      "score": 7
+    },
+    {
+      "title": "Garimpeiros executam colega e abandonam cadáver num...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/garimpeiros-executam-colega-e-abandonam-cadaver-num-matagal-por-ocultar-dinheiro-da-venda-de-diamante-74069.html",
+      "source": "Novo Jornal",
+      "_key": "3a9c1f8b6fd7c030",
+      "score": 7
+    },
+    {
+      "title": "Construção",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=57769",
       "source": "ANGOP",
-      "_key": "f946fbaf283da872",
+      "_key": "aeeb0eaa5cc3a9e1",
       "score": 6
     },
     {
-      "title": "Polícia no Cuanza-Sul \"chama\" 100 efectivos para formação e reforço das equipas anti-choque",
-      "url": "https://namiradocrime.info/show/17291",
-      "source": "Na Mira do Crime",
-      "_key": "dda2d2dc205c9890",
-      "score": 6
-    },
-    {
-      "title": "Moody’s mantem ‘rating’ da Corporação Financeira Africana em A3",
-      "url": "https://forbesafricalusofona.com/moodys-mantem-rating-da-corporacao-financeira-africana-em-a3/",
+      "title": "Sultanato de Omã quer explorar oportunidades de investimento em Angola no sector das infra-estruturas",
+      "url": "https://forbesafricalusofona.com/sultanato-de-oma-quer-explorar-oportunidades-de-investimento-em-angola-no-sector-das-infra-estruturas/",
       "source": "Forbes África",
-      "_key": "1500aadc4e5cacd8",
-      "score": 5
+      "_key": "c541ef4b37d652c9",
+      "score": 6
+    },
+    {
+      "title": "Reabilitação, ampliação e apetrechamento do Instituto...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/reabilitacao-ampliacao-e-apetrechamento-do-instituto-politecnico-industrial-de-luanda-aprovada-por-ajuste-directo-de-1096-mil-milhoes-kz-74074.html",
+      "source": "Novo Jornal",
+      "_key": "fa75f8fb81c7abc7",
+      "score": 6
     }
   ]
 }
