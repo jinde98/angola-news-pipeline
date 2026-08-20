@@ -1,72 +1,40 @@
 {
   "date": "2026-08-20",
-  "total_new": 15,
-  "total_filtered": 8,
+  "total_new": 11,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo sobe pela quinta sessão consecutiva com cerco económico ao Irão",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-sobe-pela-quinta-sessao-consecutiva-com-cerco-economico-ao-irao-74068.html",
-      "source": "Expansão",
-      "_key": "f02486cf0e162359",
-      "score": 10,
-      "title_cn": "油价因伊朗经济制裁连续第五个交易日上涨"
-    },
-    {
-      "title": "Sindicato dos CFM anuncia greve geral caso aumento de 25% não seja pago",
-      "url": "https://correiokianda.info/sindicato-dos-cfm-anuncia-greve-geral-caso-aumento-de-25-nao-seja-pago/",
-      "source": "Correio Kianda",
-      "_key": "9fb16214b5b2a8d2",
-      "score": 8,
-      "title_cn": "CFM工会宣布，若25%涨薪未兑现将举行大罢工"
-    },
-    {
-      "title": "Luanda acolhe primeira Conferência Nacional sobre Trabalho e Sindicalismo nos dias 26 e 27 de Agosto",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/luanda-acolhe-primeira-conferencia-nacional-sobre-trabalho-e-sindicalismo-nos-dias-26-e-27-de-agosto-74064.html",
-      "source": "Novo Jornal",
-      "_key": "a55234a9a191b4fe",
-      "score": 8,
-      "title_cn": "罗安达将于8月26日至27日举行首届全国劳工与工会会议"
-    },
-    {
-      "title": "Minister advocates more organized trade in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-quer-comercio-mais-organizado-em-angola/",
+      "title": "Managers analyze the situation of the diamond market in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/gestores-analisam-situacao-do-mercado-de-diamantes-em-angola/",
       "source": "ANGOP",
-      "_key": "f9aefa5f8a7bb82e",
+      "_key": "296621bb0acaa3d8",
       "score": 7,
-      "title_cn": "部长倡导安哥拉贸易更加规范有序"
+      "title_cn": "安哥拉钻石市场现状分析"
     },
     {
-      "title": "MININT abre portal para candidatos consultarem inscrição...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/minint-abre-portal-para-candidatos-consultarem-inscricao-e-apresentarem-reclamacoes-do-tao-aguardado-concurso-publico-74065.html",
-      "source": "Novo Jornal",
-      "_key": "790b67c79f988851",
-      "score": 7,
-      "title_cn": "内政部开通门户网站供申请人查询报名信息"
-    },
-    {
-      "title": "Logistics value chains impact agricultural production of families - minister",
-      "url": "https://www.angop.ao/en/noticias/economia/cadeias-de-valores-logisticas-impactam-na-producao-agricola-ministro/",
+      "title": "Angola highlights efforts in public administration modernization",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-apresenta-avancos-na-modernizacao-da-administracao-publica/",
       "source": "ANGOP",
-      "_key": "cc836a11d370f3ec",
+      "_key": "f946fbaf283da872",
       "score": 6,
-      "title_cn": "部长：物流价值链影响家庭农业生产"
+      "title_cn": "安哥拉强调公共行政现代化努力"
     },
     {
-      "title": "Destaque Polícia Nacional esclarece resposta policial durante incidentes no UígeA Polícia Nacional esclareceu, esta quinta-feira, em Luanda, que a resposta policial registada na província do Uíge, no âmbito da manutenção da ordem pública, obedeceu aos níveis de intervenção previamente definidos.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683638/pol%C3%ADcia-nacional-esclarece-resposta-policial-durante-incidentes-no-u%C3%ADge",
-      "source": "Jornal de Angola",
-      "_key": "e91c2f790749188e",
+      "title": "Polícia no Cuanza-Sul \"chama\" 100 efectivos para formação e reforço das equipas anti-choque",
+      "url": "https://namiradocrime.info/show/17291",
+      "source": "Na Mira do Crime",
+      "_key": "dda2d2dc205c9890",
       "score": 6,
-      "title_cn": "国家警察澄清威热省事件中的警方应对"
+      "title_cn": "宽扎南省警方招募百名警员加强防暴队培训"
     },
     {
-      "title": "ARC promotes international debate on digital market regulation",
-      "url": "https://www.angop.ao/en/noticias/economia/arc-promove-debate-internacional-de-regulacao-dos-mercados-digitais/",
-      "source": "ANGOP",
-      "_key": "bbe0264ece74f4f0",
+      "title": "Moody’s mantem ‘rating’ da Corporação Financeira Africana em A3",
+      "url": "https://forbesafricalusofona.com/moodys-mantem-rating-da-corporacao-financeira-africana-em-a3/",
+      "source": "Forbes África",
+      "_key": "1500aadc4e5cacd8",
       "score": 5,
-      "title_cn": "ARC推动关于数字市场监管的国际辩论"
+      "title_cn": "穆迪维持非洲金融公司A3评级"
     }
   ]
 }
