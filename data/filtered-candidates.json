@@ -1,35 +1,42 @@
 {
   "date": "2026-08-21",
-  "total_new": 13,
-  "total_filtered": 4,
+  "total_new": 16,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Four mining projects under prospecting phase in Moxico Leste",
-      "url": "https://www.angop.ao/en/noticias/economia/quatro-projectos-mineiros-realizam-prospeccao-no-moxico-leste/",
+      "title": "Angola and Huawei analyze digital transformation projects",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-huawei-analisam-projectos-de-transformacao-digital/",
       "source": "ANGOP",
-      "_key": "88c3f279e5ce6818",
+      "_key": "4b45edc4f73dd344",
+      "score": 9
+    },
+    {
+      "title": "APASIL quer alívio fiscal, combustível dedicado e menos burocracia nos...",
+      "url": "https://valoreconomico.co.ao/artigo/apasil-quer-alivio-fiscal-combustivel-dedicado-e-menos-burocracia-nos-vistos",
+      "source": "Valor Económico",
+      "_key": "5c60a318deb34856",
       "score": 8
     },
     {
-      "title": "Economia Guiché Único formaliza mais de 37 mil empresas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683705/guich%C3%A9-%C3%BAnico-formaliza-mais-de-37-mil-empresas",
-      "source": "Jornal de Angola",
-      "_key": "532c7662a2dd8766",
-      "score": 7
-    },
-    {
-      "title": "Angolan Government approves measures to boost tourism and attract visitors",
-      "url": "https://www.angop.ao/en/noticias/economia/executivo-cria-medidas-para-aumento-do-fluxo-de-turistas-em-angola/",
-      "source": "ANGOP",
-      "_key": "4820e35d61917867",
+      "title": "Polícia detém dois efectivos suspeitos de envolvimento na morte de jovem de 18 anos na Esquadra do Alfa 5",
+      "url": "https://namiradocrime.info/show/17294",
+      "source": "Na Mira do Crime",
+      "_key": "2daa3eb99c928a2b",
       "score": 6
     },
     {
-      "title": "Government bets on promoting silviculture to develop the forestry sector",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-aposta-no-fomento-da-silvicultura-para-desenvolver-sector-florestal/",
-      "source": "ANGOP",
-      "_key": "b3dfc810f14862a0",
+      "title": "\"Um dos maiores activos de qualquer economia hoje são as empresas tecnológicas\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_6099d8cd4ffb72",
+      "score": 5
+    },
+    {
+      "title": "\"Um dos maiores activos de qualquer economia hoje são as empresas tecnológicas\"Willian Oliveira reconhece o potencial das tecnologias para o desenvolvimento das organizações e da economia, mas alerta para a necessidade de capacitação das pessoas e os desafios que o mercado angolano ainda apresenta à expansão dos serviços.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/um-dos-maiores-activos-de-qualquer-economia-hoje-sao-as-empresas-tecnologicas-74100.html",
+      "source": "Expansão",
+      "_key": "a8d64da0f67b9ac0",
       "score": 5
     }
   ]
