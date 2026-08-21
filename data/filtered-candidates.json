@@ -1,36 +1,22 @@
 {
   "date": "2026-08-21",
-  "total_new": 17,
-  "total_filtered": 4,
+  "total_new": 9,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Ministro dos Transportes de Angola alerta para perdas agrícolas provocadas pela insuficiência de estruturas logísticas adequadas",
-      "url": "https://forbesafricalusofona.com/ministro-dos-transportes-de-angola-alerta-para-perdas-agricolas-provocadas-pela-insuficiencia-de-estruturas-logisticas-adequadas/",
-      "source": "Forbes África",
-      "_key": "4f4934aad98c7aa8",
-      "score": 7
-    },
-    {
-      "title": "Milho entra na lista de bens de amplo consumo em Angola",
-      "url": "https://forbesafricalusofona.com/milho-entra-na-lista-de-bens-de-amplo-consumo-em-angola/",
-      "source": "Forbes África",
-      "_key": "110a19eb8fd65aa2",
-      "score": 6
-    },
-    {
-      "title": "Ébola/RDC: Número de mortos sobe para 2.516",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebolardc-numero-de-mortos-sobe-para-2516-74104.html",
-      "source": "Novo Jornal",
-      "_key": "70fa4513f0f766a1",
-      "score": 5
-    },
-    {
-      "title": "Escassez de jet fuel na Namíbia força aviões com destino...",
-      "url": "https://valoreconomico.co.ao/artigo/escassez-de-jet-fuel-na-namibia-forca-avioes-com-destino-a-europa-a-reabastecer-em-angola",
+      "title": "ZEE soma prejuízo de 6,5 mil milhões e aumenta custos...",
+      "url": "https://valoreconomico.co.ao/artigo/zee-soma-prejuizo-de-6-5-mil-milhoes-e-aumenta-custos-com-pessoal-apesar-da-quebra-nas-receitas",
       "source": "Valor Económico",
-      "_key": "582da0ac038a3a87",
-      "score": 5
+      "_key": "51238e6921cefe11",
+      "score": 8
+    },
+    {
+      "title": "Reabilitação do antigo Macarenco vai custar mais de 118 milhões...",
+      "url": "https://valoreconomico.co.ao/artigo/reabilitacao-do-antigo-macarenco-vai-custar-mais-de-118-milhoes-de-dolares",
+      "source": "Valor Económico",
+      "_key": "47030723bd291a06",
+      "score": 6
     }
   ]
 }
