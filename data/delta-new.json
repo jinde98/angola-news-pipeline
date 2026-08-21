@@ -1,50 +1,554 @@
 {
-  "date": "2026-08-20",
-  "total_extracted": 1030,
-  "total_new": 7,
-  "total_existing": 1023,
+  "date": "2026-08-21",
+  "total_extracted": 1123,
+  "total_new": 91,
+  "total_existing": 1032,
   "articles": [
     {
-      "title": "Humberto Bettencourt assume comando da selecção cabo-verdiana",
-      "url": "https://forbesafricalusofona.com/humberto-bettencourt-assume-comando-da-seleccao-cabo-verdiana/",
-      "source": "Forbes África",
-      "_key": "aced71546f09fe98"
+      "title": "Mozambique Telecom begins ANGOSAT-2 trials",
+      "url": "https://www.angop.ao/en/noticias/economia/mocambique-telecom-inicia-testes-atraves-do-angosat-2/",
+      "source": "ANGOP",
+      "_key": "b5e4fe503fde99e6"
     },
     {
-      "title": "Exploração ilícita de diamantes obriga Angola expulsar 53 mil estrangeiros",
-      "url": "https://forbesafricalusofona.com/exploracao-ilicita-de-diamantes-obriga-angola-expulsar-53-mil-estrangeiros/",
-      "source": "Forbes África",
-      "_key": "10d53294eb9b4d6e"
+      "title": "Angola and United Nations review environmental cooperation",
+      "url": "https://www.angop.ao/en/noticias/ambiente/angola-e-nacoes-unidas-analisam-cooperacao-ambiental/",
+      "source": "ANGOP",
+      "_key": "1fe450bbbb74fa1f"
     },
     {
-      "title": "Uni-CV e IMPA avançam para candidatura conjunta ao Programa ProÁfrica 2026",
-      "url": "https://forbesafricalusofona.com/uni-cv-e-impa-avancam-para-candidatura-conjunta-ao-programa-proafrica-2026/",
-      "source": "Forbes África",
-      "_key": "2c4660c9a5546418"
+      "title": "Angolan Government seeks more sustainable and inclusive social protection",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-quer-proteccao-social-mais-sustentavel-e-inclusiva/",
+      "source": "ANGOP",
+      "_key": "682c4e680fecb66c"
     },
     {
-      "title": "Destaque Téte António defende reforço da cooperação entre SADC e CEEACO ministro das Relações Exteriores, Téte António, defendeu, hoje, em Luanda, o reforço da cooperação entre a Comunidade de Desenvolvimento da África Austral (SADC) e a Comunidade Económica dos Estados da África Central (CEEAC), com vista à criação de mecanismos que tornem as duas organizações regionais mais robustas.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683675/t%C3%A9te-ant%C3%B3nio-defende-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-entre-sadc-e-ceeac",
+      "title": "Angolan Government approves measures to boost tourism and attract visitors",
+      "url": "https://www.angop.ao/en/noticias/economia/executivo-aprova-medidas-para-aumento-do-fluxo-de-turistas-em-angola/",
+      "source": "ANGOP",
+      "_key": "647b93e3b17c479b"
+    },
+    {
+      "title": "Foreign Minister calls for stronger engagement in regional cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-defende-maior-engajamento-no-dominio-da-cooperacao-regional/",
+      "source": "ANGOP",
+      "_key": "c1783f0d2cfdddca"
+    },
+    {
+      "title": "Maize to be added to Angola's list of regulated consumer goods imports",
+      "url": "https://www.angop.ao/en/noticias/economia/milho-entra-na-lista-de-importacao-de-bens-de-amplo-consumo/",
+      "source": "ANGOP",
+      "_key": "bcf80c104b97eb7a"
+    },
+    {
+      "title": "Angosat-2",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=132073",
+      "source": "ANGOP",
+      "_key": "6be421fd1dc5036e"
+    },
+    {
+      "title": "Mutualismo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=41667",
+      "source": "ANGOP",
+      "_key": "5f624d21cd7ed24b"
+    },
+    {
+      "title": "Importação",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=38515",
+      "source": "ANGOP",
+      "_key": "b96f0a39483d1f58"
+    },
+    {
+      "title": "ANGOSAT-2 strengthens connectivity for communities in Bié province",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/angosat-2-reforca-conectividade-das-comunidades-no-bie/",
+      "source": "ANGOP",
+      "_key": "f869e7765753ddf8"
+    },
+    {
+      "title": "Fábrica",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=24696",
+      "source": "ANGOP",
+      "_key": "a9606905acb0d65d"
+    },
+    {
+      "title": "Distinction",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5918",
+      "source": "ANGOP",
+      "_key": "c202bcb74e6e232a"
+    },
+    {
+      "title": "Sporting and 1º de Agosto face off in the Liga Azule final",
+      "url": "https://www.angop.ao/en/noticias/desporto/sporting-e-1o-de-agosto-disputam-final-da-liga-azule/",
+      "source": "ANGOP",
+      "_key": "f27e1f361a67abe1"
+    },
+    {
+      "title": "Motorcycle taxi drivers formalization may improve urban transport service",
+      "url": "https://www.angop.ao/en/noticias/economia/formalizacao-de-mototaxistas-pode-melhorar-servico-de-transporte-urbano/",
+      "source": "ANGOP",
+      "_key": "6352b9ded874506b"
+    },
+    {
+      "title": "Lunda-Sul province records over 1,000 cases of HIV/AIDS in six months",
+      "url": "https://www.angop.ao/en/noticias/saude/lunda-sul-regista-mais-de-mil-e-900-novos-casos-de-hiv-sida-em-seis-meses/",
+      "source": "ANGOP",
+      "_key": "098819de49ded9e2"
+    },
+    {
+      "title": "UNITA apresenta queixa-crime contra chefias policiais e governador do Uíje",
+      "url": "https://angola24horas.com/component/k2/item/34912-unita-apresenta-queixa-crime-contra-chefias-policiais-e-governador-do-uije",
+      "source": "Angola 24 Horas",
+      "_key": "7eec3accbfb57d55"
+    },
+    {
+      "title": "Polícia Nacional acusa UNITA de transformar caso do Uíge em disputa política",
+      "url": "https://angola24horas.com/politica/item/34913-policia-nacional-acusa-unita-de-transformar-caso-do-uige-em-disputa-politica",
+      "source": "Angola 24 Horas",
+      "_key": "8efa24e335335b47"
+    },
+    {
+      "title": "AJPD denuncia condições degradantes de Carlos Manuel de São Vicente e pede liberdade condicional",
+      "url": "https://angola24horas.com/sociedade/item/34914-ajpd-denuncia-condicoes-degradantes-de-carlos-manuel-de-sao-vicente-e-pede-liberdade-condicional",
+      "source": "Angola 24 Horas",
+      "_key": "22c7d2eb0a921f47"
+    },
+    {
+      "title": "“CNE deve comunicar mais e esclarecer dúvidas sobre Eleições”, defende AJPD",
+      "url": "https://correiokianda.info/cne-deve-comunicar-mais-e-esclarecer-duvidas-sobre-eleicoes-defende-ajpd/",
+      "source": "Correio Kianda",
+      "_key": "dcc5adcd17f74b6e"
+    },
+    {
+      "title": "Ala da actual liderança da FNLA diz que Tribunal Constitucional não afastou Nimi a Simbi da presidência",
+      "url": "https://correiokianda.info/ala-da-actual-lideranca-da-fnla-diz-que-tribunal-constitucional-nao-afastou-nimi-a-simbi-da-presidencia/",
+      "source": "Correio Kianda",
+      "_key": "a0b6f7f522dc1fd2"
+    },
+    {
+      "title": "Nigéria quer descriminalizar tentativas de suicídio e reforçar resposta à saúde mental",
+      "url": "https://correiokianda.info/nigeria-quer-descriminalizar-tentativas-de-suicidio-e-reforcar-resposta-a-saude-mental/",
+      "source": "Correio Kianda",
+      "_key": "18d92c852c85ace3"
+    },
+    {
+      "title": "CNE promete travar desinformação nas redes sociais sobre eleições de 2027",
+      "url": "https://correiokianda.info/cne-promete-travar-desinformacao-nas-redes-sociais-sobre-eleicoes-de-2027/",
+      "source": "Correio Kianda",
+      "_key": "bf12723920292193"
+    },
+    {
+      "title": "Executivo propõe que importadores de milho comprem 30% da produção nacional",
+      "url": "https://correiokianda.info/executivo-propoe-que-importadores-de-milho-comprem-30-da-producao-nacional/",
+      "source": "Correio Kianda",
+      "_key": "64aaa4df0946df2a"
+    },
+    {
+      "title": "UNITEL vai compensar clientes após interrupção provocada por ataque cibernético",
+      "url": "https://correiokianda.info/unitel-vai-compensar-clientes-apos-interrupcao-provocada-por-ataque-cibernetico/",
+      "source": "Correio Kianda",
+      "_key": "30448fe05996b73a"
+    },
+    {
+      "title": "ExpoHuíla 2026. Encontro do PCE do BAI e governador da Huíla marca arranque do banco na feira",
+      "url": "https://correiokianda.info/expohuila-2026-encontro-do-pce-do-bai-e-governador-da-huila-marca-arranque-do-banco-na-feira/",
+      "source": "Correio Kianda",
+      "_key": "ed68abfcedc49b04"
+    },
+    {
+      "title": "Rádio Correio da Kianda leva emissão especial ao Lubango e promove debates sobre desafios da Huíla",
+      "url": "https://correiokianda.info/radio-correio-da-kianda-leva-emissao-especial-ao-lubango-e-promove-debates-sobre-desafios-da-huila/",
+      "source": "Correio Kianda",
+      "_key": "677ee0682dddaab9"
+    },
+    {
+      "title": "MININT aperta regras contra ofertas e vantagens a funcionários",
+      "url": "https://correiokianda.info/minint-aperta-regras-contra-ofertas-e-vantagens-a-funcionarios/",
+      "source": "Correio Kianda",
+      "_key": "98bf5e08adad38fa"
+    },
+    {
+      "title": "Tribunal Supremo nega interferência da Presidência no processo de Higino Carneiro",
+      "url": "https://correiokianda.info/tribunal-supremo-nega-interferencia-da-presidencia-no-processo-de-higino-carneiro/",
+      "source": "Correio Kianda",
+      "_key": "3a2cd47b7d52684c"
+    },
+    {
+      "title": "SIC esclarece caso de docente espancado e nega que suspeitos sejam agentes",
+      "url": "https://correiokianda.info/sic-esclarece-caso-de-docente-espancado-e-nega-que-suspeitos-sejam-agentes/",
+      "source": "Correio Kianda",
+      "_key": "fb57c66b0c5012f8"
+    },
+    {
+      "title": "AIA defende apoio às famílias camponesas para Angola alcançar auto-suficiência em milho",
+      "url": "https://correiokianda.info/aia-defende-apoio-as-familias-camponesas-para-angola-alcancar-auto-suficiencia-em-milho/",
+      "source": "Correio Kianda",
+      "_key": "dc84655fd34026e3"
+    },
+    {
+      "title": "Papa Leão XIV pede que recursos da guerra sejam usados para combater a pobreza",
+      "url": "https://correiokianda.info/papa-leao-xiv-pede-que-recursos-da-guerra-sejam-usados-para-combater-a-pobreza/",
+      "source": "Correio Kianda",
+      "_key": "2a848e799e6e3573"
+    },
+    {
+      "title": "Coreia do Norte pode ter mais do dobro das bombas nucleares estimadas por Trump",
+      "url": "https://correiokianda.info/coreia-do-norte-pode-ter-mais-do-dobro-das-bombas-nucleares-estimadas-por-trump/",
+      "source": "Correio Kianda",
+      "_key": "151ed259726d59a1"
+    },
+    {
+      "title": "Angola participa no Exercício Felino 2026 e reforça cooperação militar no seio da CPLP",
+      "url": "https://correiokianda.info/angola-participa-no-exercicio-felino-2026-e-reforca-cooperacao-militar-no-seio-da-cplp/",
+      "source": "Correio Kianda",
+      "_key": "e7b11fbfff5bec85"
+    },
+    {
+      "title": "Petro de Luanda ambiciona vitória diante dos lundas no arranque do Girabola",
+      "url": "https://correiokianda.info/petro-de-luanda-ambiciona-vitoria-diante-dos-lundas-no-arranque-do-girabola/",
+      "source": "Correio Kianda",
+      "_key": "960613e9f0bd1b18"
+    },
+    {
+      "title": "FIFA escolhe Maracanã para abrir e encerrar Mundial Feminino de 2027",
+      "url": "https://correiokianda.info/fifa-escolhe-maracana-para-abrir-e-encerrar-mundial-feminino-de-2027/",
+      "source": "Correio Kianda",
+      "_key": "b6b80ea2cd02dd35"
+    },
+    {
+      "title": "        África8 horas atrás  Oposição zambiana ameaça contestar resultados presidenciais em tribunal. O líder da oposição da Zâmbia disse esta quarta-feira, 19, que irá ao tribunal para contestar os resultados da eleição presidencial de 13 de Agosto, que...   ",
+      "url": "https://correiokianda.info/oposicao-zambiana-ameaca-contestar-resultados-presidenciais-em-tribunal/",
+      "source": "Correio Kianda",
+      "_key": "2e167ac73098999e"
+    },
+    {
+      "title": "        Sociedade12 horas atrás  Associação Justiça, Paz e Democracia questiona recusa de liberdade a Carlos São Vicente A Associação Justiça, Paz e Democracia (AJPD) questiona a recusa da liberdade condicional ao empresário Carlos Manuel de São Vicente, actualmente recluso no Estabelecimento Penitenciário de...   ",
+      "url": "https://correiokianda.info/associacao-justica-paz-e-democracia-questiona-recusa-de-liberdade-a-carlos-sao-vicente/",
+      "source": "Correio Kianda",
+      "_key": "966d67ad1d9f57a3"
+    },
+    {
+      "title": "        Sociedade2 semanas atrás  Morre o “homem da Brinde”: Luís Godinho Evaristo, a figura temida da fiscalização interna da UNITA    ",
+      "url": "https://correiokianda.info/morre-o-homem-da-brinde-luis-godinho-evaristo-a-figura-temida-da-fiscalizacao-interna-da-unita/",
+      "source": "Correio Kianda",
+      "_key": "c310ff215b84a0df"
+    },
+    {
+      "title": "Só 7 em cada 100 angolanos que ficaram economicamente activos conseguiram emprego formal",
+      "url": "https://expansao.co.ao/angola/detalhe/so-7-em-cada-100-angolanos-que-ficaram-economicamente-activos-conseguiram-emprego-formal-74078.html",
+      "source": "Expansão",
+      "_key": "3e2700957e8c5652"
+    },
+    {
+      "title": "Entreposto Aduaneiro passa a sociedade anónima com capital de 57 mil milhões Kz",
+      "url": "https://expansao.co.ao/angola/detalhe/entreposto-aduaneiro-passa-a-sociedade-anonima-com-capital-de-57-mil-milhoes-kz-74082.html",
+      "source": "Expansão",
+      "_key": "bcdf608770e1ae71"
+    },
+    {
+      "title": "Défice fiscal",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7581fbaa450230"
+    },
+    {
+      "title": "Produzir e inovar localmente, vencer globalmente | O paradoxo competitivo de Angola (Parte II)",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_f14b66949c9397"
+    },
+    {
+      "title": "TAAG factura 437 milhões USD, mas tem 738 milhões em contas por pagar",
+      "url": "https://expansao.co.ao/empresas/detalhe/taag-factura-437-milhoes-usd-mas-tem-738-milhoes-em-contas-por-pagar-74077.html",
+      "source": "Expansão",
+      "_key": "415a0b0cd6462ac1"
+    },
+    {
+      "title": "SADC lança UniVisa em Durban com 5 países na fase de testes",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/sadc-lanca-univisa-em-durban-com-5-paises-na-fase-de-testes-74083.html",
+      "source": "Expansão",
+      "_key": "4903d70d7e178c2a"
+    },
+    {
+      "title": "APD multa proprietária do Hotel Diamante em 115 mil dólares por incumprimento na protecção de dados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_dbc9c6bfea9aaf"
+    },
+    {
+      "title": "Nem todos estão no mesmo barco",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_721089f45ea129"
+    },
+    {
+      "title": "Caixa Angola lança cartão Pré-Pago Visa Empresas em cocktail com clientes na Huíla",
+      "url": "https://expansao.co.ao/weekend/lifestyle/patrocinado/detalhe/caixa-angola-lanca-cartao-pre-pago-visa-empresas-em-cocktail-com-clientes-na-huila-74088.html",
+      "source": "Expansão",
+      "_key": "7b6fc15a5f07add4"
+    },
+    {
+      "title": "EDITORIALJoão ArmandoDéfice fiscalFormalizar não é apenas mandar fiscais, suspender NIF, aplicar multas ou instalar mais software. É fazer com que entrar no sistema seja mais vantajoso do que permanecer fora dele.",
+      "url": "https://expansao.co.ao/opiniao/detalhe/defice-fiscal-74080.html",
+      "source": "Expansão",
+      "_key": "feea719a3f1cf3bc"
+    },
+    {
+      "title": "CONVIDADASandra Camelo Produzir e inovar localmente, vencer globalmente | O paradoxo competitivo de Angola (Parte II)",
+      "url": "https://expansao.co.ao/opiniao/detalhe/produzir-e-inovar-localmente-vencer-globalmente-o-paradoxo-competitivo-de-angola-parte-ii-74084.html",
+      "source": "Expansão",
+      "_key": "ca30cc6dc6c6e2e5"
+    },
+    {
+      "title": "Angola aprova “Investe Turismo” para mobilizar capital privado",
+      "url": "https://forbesafricalusofona.com/angola-aprova-investe-turismo-para-mobilizar-capital-privado/",
+      "source": "Forbes África",
+      "_key": "a23c1ddf837fe0c0"
+    },
+    {
+      "title": "BAI lança cartão multimarca que une rede Multicaixa e Mastercard",
+      "url": "https://forbesafricalusofona.com/bai-lanca-cartao-multimarca-que-une-rede-multicaixa-e-mastercard/",
+      "source": "Forbes África",
+      "_key": "7db757f46f8e5a90"
+    },
+    {
+      "title": "CPLP homenagea sete personalidades dos Estados-Membros pelo contributo prestado às causas da Comunidade",
+      "url": "https://forbesafricalusofona.com/cplp-homenagea-sete-personalidades-dos-estados-membros-pelo-contributo-prestado-as-causas-da-comunidade/",
+      "source": "Forbes África",
+      "_key": "d59ec27c26f7026b"
+    },
+    {
+      "title": "Grandes obras públicas em Moçambique devem reservar 20% dos trabalhos para PME",
+      "url": "https://forbesafricalusofona.com/grandes-obras-publicas-em-mocambique-devem-reservar-20-dos-trabalhos-para-pme/",
+      "source": "Forbes África",
+      "_key": "ca9cc6f039bc5e1d"
+    },
+    {
+      "title": "Arquivo Nacional de Angola recebe acervo documental e fotográfico sobre um dos mais importantes locais arqueológicos do país",
+      "url": "https://forbesafricalusofona.com/arquivo-nacional-de-angola-recebe-acervo-documental-e-fotografico-sobre-um-dos-mais-importantes-locais-arqueologicos-do-pais/",
+      "source": "Forbes África",
+      "_key": "996be0f391be7a2c"
+    },
+    {
+      "title": "Unitel anuncia retoma global de comunicações três semanas após apagão em Angola",
+      "url": "https://jornaloguardiao.com/2026/08/21/unitel-anuncia-retoma-global-de-comunicacoes-tres-semanas-apos-apagao-em-angola/",
+      "source": "Jornal O Guardião",
+      "_key": "80985555639e09c1"
+    },
+    {
+      "title": "UNITA apresenta queixa-crime contra Polícia e governador do Uíge",
+      "url": "https://jornaloguardiao.com/2026/08/20/unita-apresenta-queixa-crime-contra-policia-e-governador-do-uige/",
+      "source": "Jornal O Guardião",
+      "_key": "88d79f82dcb86975"
+    },
+    {
+      "title": "Mpox: Unicef diz que precisa de mais de 150 mil dólares para ajudar Guiné-Bissau",
+      "url": "https://jornaloguardiao.com/2026/08/20/mpox-unicef-diz-que-precisa-de-mais-de-150-mil-dolares-para-ajudar-guine-bissau/",
+      "source": "Jornal O Guardião",
+      "_key": "85aecb151b8688f9"
+    },
+    {
+      "title": "Irão: Guarda Revolucionária avisa que usará armas mais destrutivas se a guerra recomeçar",
+      "url": "https://jornaloguardiao.com/2026/08/20/irao-guarda-revolucionaria-avisa-que-usara-armas-mais-destrutivas-se-a-guerra-recomecar/",
+      "source": "Jornal O Guardião",
+      "_key": "5148cf3e79e334d9"
+    },
+    {
+      "title": "EUA enviam porta-aviões para mar Arábico e substituem o Lincoln",
+      "url": "https://jornaloguardiao.com/2026/08/20/eua-enviam-porta-avioes-para-mar-arabico-e-substituem-o-lincoln/",
+      "source": "Jornal O Guardião",
+      "_key": "79e5e3997a405f0a"
+    },
+    {
+      "title": "Sexta-feira, 21 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_bc69f4e725dd88"
+    },
+    {
+      "title": " Unitel anuncia retoma global de comunicações três semanas após apagão em Angola ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_fc06e2bdc70c3c"
+    },
+    {
+      "title": " UNITA apresenta queixa-crime contra Polícia e governador do Uíge ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_e19ef0ab26f851"
+    },
+    {
+      "title": " Mpox: Unicef diz que precisa de mais de 150 mil dólares para ajudar Guiné-Bissau ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9b5ad3950909f9"
+    },
+    {
+      "title": " Irão: Guarda Revolucionária avisa que usará armas mais destrutivas se a guerra recomeçar ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_932bcb5bdb0437"
+    },
+    {
+      "title": " EUA enviam porta-aviões para mar Arábico e substituem o Lincoln ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d7ed2114ce9c5c"
+    },
+    {
+      "title": "Destaque Angola conquista duas medalhas de bronze no Mundial Juvenil de MMAA Selecção Nacional Juvenil de MMA conquistou, esta quinta-feira, duas medalhas de bronze no quarto dia de combates do 17.º Campeonato Mundial Juvenil de MMA, que decorre em Abu Dhabi, nos Emirados Árabes Unidos.",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/683681/angola-conquista-duas-medalhas-de-bronze-no-mundial-juvenil-de-mma",
       "source": "Jornal de Angola",
-      "_key": "0722bca077579a81"
+      "_key": "de9843124c5e219b"
     },
     {
-      "title": "Política Embaixadores reflectem em Luanda sobre integração económica da África Central ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683674/embaixadores-reflectem-em-luanda-sobre-integra%C3%A7%C3%A3o-econ%C3%B3mica-da-%C3%A1frica-central",
+      "title": "Destaque UNITEL repõe serviços e anuncia compensações aos clientesA UNITEL anunciou, hoje, a reposição dos serviços móveis de voz, mensagens, dados e acesso à Internet em todo o território nacional, na sequência do ataque cibernético de grande magnitude que afectou a operadora na madrugada de 28 de Julho de 2026.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683680/unitel-rep%C3%B5e-servi%C3%A7os-e-anuncia-compensa%C3%A7%C3%B5es-aos-clientes",
       "source": "Jornal de Angola",
-      "_key": "dbec7aa7ee59432f"
+      "_key": "0f36b1bdefd64971"
     },
     {
-      "title": "Polícia Nacional \"usará sempre que for necessário a...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-nacional-usara-sempre-que-for-necessario-a-forca-para-repor-a-ordem-e-afasta-se-de-disputas-politicas-74085.html",
-      "source": "Novo Jornal",
-      "_key": "9c544f78ddc97e43"
+      "title": "Destaque Aeroporto António Agostinho Neto reforça conectividade regional com entrada da CAAO Aeroporto Internacional Dr. António Agostinho Neto recebe, na sexta-feira, 21, o primeiro voo da CAA (Compagnie Africaine d’Aviation), companhia aérea regional da República Democrática do Congo (RDC), assinalando o início de uma nova ligação aérea entre Angola e o país vizinho.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683679/aeroporto-ant%C3%B3nio-agostinho-neto-refor%C3%A7a-conectividade-regional-com-entrada-da-caa",
+      "source": "Jornal de Angola",
+      "_key": "5a03dc92e5044447"
     },
     {
-      "title": "PONTO AO: TECNOLOGIA E INOVAÇÃO. Do clique à porta de casa: Como a tecnologia pode melhorar as entregas das compras online em Angola?",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=74081",
+      "title": "Destaque Angola realiza primeira eritrocitaférese e reforça tratamento de doenças hematológicasO país realizou, pela primeira vez, um procedimento de eritrocitaférese, no âmbito do II Workshop Internacional sobre Hemofilia, realizado de 17 a 20 deste mês, em Luanda, marcando um novo avanço na assistência especializada às doenças hematológicas no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683699/angola-realiza-primeira-eritrocitaf%C3%A9rese-e-refor%C3%A7a-tratamento-de-doen%C3%A7as-hematol%C3%B3gicas",
+      "source": "Jornal de Angola",
+      "_key": "11ab0182f7304a4d"
+    },
+    {
+      "title": "Milho entra para a lista de produtos de aquisição obrigatória em AngolaO milho passa a integrar a lista de produtos de amplo consumo de aquisição obrigatória no país, devendo os operadores económicos licenciados para a sua importação adquirir no mercado interno uma quantidade correspondente, no mínimo, a 30 por cento do total a importar.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683682/milho-entra-para-a-lista-de-produtos-de-aquisi%C3%A7%C3%A3o-obrigat%C3%B3ria-em-angola",
+      "source": "Jornal de Angola",
+      "_key": "d1a61b835d12f099"
+    },
+    {
+      "title": "Sociedade Campanha prevê vacinar mais de nove milhões de crianças contra a pólio ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683704/campanha-prev%C3%AA-vacinar-mais-de-nove-milh%C3%B5es-de-crian%C3%A7as-contra-a-p%C3%B3lio",
+      "source": "Jornal de Angola",
+      "_key": "ed5069106e5599c6"
+    },
+    {
+      "title": "Política “A nossa missão é servir o Estado e proteger os cidadãos, garantindo a ordem e a tranquilidade” ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683687/%E2%80%9Ca-nossa-miss%C3%A3o-%C3%A9-servir-o-estado-e-proteger-os-cidad%C3%A3os-garantindo-a-ordem-e-a-tranquilidade%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "edea31f0aa383024"
+    },
+    {
+      "title": "Sociedade Colisão entre duas viaturas deixa um morto e oito feridos na Camama ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683677/colis%C3%A3o-entre-duas-viaturas-deixa-um-morto-e-oito-feridos-na-camama",
+      "source": "Jornal de Angola",
+      "_key": "4b0351349bcc35a3"
+    },
+    {
+      "title": "22:11 / 20 ago. 2026 Terceira ronda da campanha de vacinação contra a poliomielite arranca hoje ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683678/terceira-ronda-da-campanha-de-vacina%C3%A7%C3%A3o-contra-a-poliomielite-arranca-hoje-",
+      "source": "Jornal de Angola",
+      "_key": "03de534ba1365ccb"
+    },
+    {
+      "title": "Violência digital contra o género",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/683686/viol%C3%AAncia-digital-contra--o-g%C3%A9nero",
+      "source": "Jornal de Angola",
+      "_key": "e42e70b40bc07521"
+    },
+    {
+      "title": "Expo-Huíla e as grandes oportunidades de negócio",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/683685/expo-hu%C3%ADla-e-as-grandes-oportunidades-de-neg%C3%B3cio",
+      "source": "Jornal de Angola",
+      "_key": "e107ff60c8ed6d0c"
+    },
+    {
+      "title": "O combate às “fake news”e a formação da cidadania",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/683684/o-combate-%C3%A0s--%E2%80%9Cfake-news%E2%80%9De-a-forma%C3%A7%C3%A3o-da-cidadania",
+      "source": "Jornal de Angola",
+      "_key": "8b95ec1b49b37058"
+    },
+    {
+      "title": "Denunciados pelo Na Mira: \"Pica na Veia\" e \"Leguado\" condenados a 12 e 6 anos de prisão por assassinato do jovem de 21 anos de idade em assalto em Cacuaco",
+      "url": "https://namiradocrime.info/show/17292",
+      "source": "Na Mira do Crime",
+      "_key": "fc76d41864bb5e16"
+    },
+    {
+      "title": "UNITEL vai compensar clientes automaticamente e sem...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/unitel-vai-compensar-clientes-automaticamente-e-sem-pedido-apos-ataque-cibernetico-de-julho-74095.html",
       "source": "Novo Jornal",
-      "_key": "0d3ffafa2f1dbe57"
+      "_key": "0ec2c9efe15fa9dd"
+    },
+    {
+      "title": "Operadores licenciados para a importação de milho passam...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/operadores-licenciados-para-a-importacao-de-milho-passam-a-estar-obrigados-a-comprar-30-no-mercado-interno-74086.html",
+      "source": "Novo Jornal",
+      "_key": "bc36756b28bf76af"
+    },
+    {
+      "title": "Tunda Mu Njila: Angola entra no roteiro pró-reparações...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/tunda-mu-njila-angola-entra-no-roteiro-pro-reparacoes-historicas-74093.html",
+      "source": "Novo Jornal",
+      "_key": "ca7dfd880a462d09"
+    },
+    {
+      "title": "Quem cuida da Polícia?",
+      "url": "https://www.novojornal.co.ao/opiniao/editorial/detalhe/quem-cuida-da-policia-74091.html",
+      "source": "Novo Jornal",
+      "_key": "65fe3238d5a6d06f"
+    },
+    {
+      "title": "«Estão a destruir as raízes que lançámos no nosso próprio País», Irene Neto, filha do primeiro Presidente de Angola?",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/estao-a-destruir-as-raizes-que-lancamos-no-nosso-proprio-pais-irene-neto-filha-do-primeiro-presidente-de-angola-74094.html",
+      "source": "Novo Jornal",
+      "_key": "5c7fdf952a598758"
+    },
+    {
+      "title": "MUTAMBA: Talento Made In Angola. Quem sabe faz ao vivo.",
+      "url": "https://marginal.co.ao/programas/mutamba?ep=74089",
+      "source": "Novo Jornal",
+      "_key": "b64b7d067254b736"
+    },
+    {
+      "title": "Governo impõe compra de 30% de milho local para autorizar...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-impoe-compra-de-30-de-milho-local-para-autorizar-importacoes",
+      "source": "Valor Económico",
+      "_key": "23af147ac60a4781"
+    },
+    {
+      "title": "Ministro defende estradas mais económicas para dinamizar a produção nacional",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-defende-estradas-mais-economicas-para-dinamizar-a-producao-nacional",
+      "source": "Valor Económico",
+      "_key": "719775e89768aa44"
+    },
+    {
+      "title": "Investimento no futuro Museu do Cinema em Luanda sobe para...",
+      "url": "https://valoreconomico.co.ao/artigo/investimento-no-futuro-museu-do-cinema-em-luanda-sobe-para-3-45-mil-milhoes-kwanzas",
+      "source": "Valor Económico",
+      "_key": "002e30d4e113e522"
+    },
+    {
+      "title": "Lucros da MADANG despencam 80% em 2025 e agravam ‘saúde’...",
+      "url": "https://valoreconomico.co.ao/artigo/lucros-da-madang-despencam-80-em-2025-e-agravam-saude-financeira-da-empresa",
+      "source": "Valor Económico",
+      "_key": "2a452e0dbedb3feb"
+    },
+    {
+      "title": "Congo quer acelerar acesso das empresas ao mercado africano",
+      "url": "https://valoreconomico.co.ao/artigo/congo-quer-acelerar-acesso-das-empresas-ao-mercado-africano",
+      "source": "Valor Económico",
+      "_key": "0e8489f00d5da9dc"
+    },
+    {
+      "title": "Dívida dos EUA supera 40 biliões de dólares e pressiona...",
+      "url": "https://valoreconomico.co.ao/artigo/divida-dos-eua-supera-40-bilioes-de-dolares-e-pressiona-contas-publicas",
+      "source": "Valor Económico",
+      "_key": "6744460f9e649781"
+    },
+    {
+      "title": "Ministro apela ao fim do consumo de \"carros sucata\" para...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-apela-ao-fim-do-consumo-de-carros-sucata-para-incentivar-industria-automovel-local",
+      "source": "Valor Económico",
+      "_key": "66d821a47a1dd00d"
     }
   ]
 }
