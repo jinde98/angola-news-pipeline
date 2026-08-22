@@ -1,7 +1,22 @@
 {
   "date": "2026-08-22",
-  "total_new": 9,
-  "total_filtered": 0,
+  "total_new": 6,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
-  "articles": []
+  "articles": [
+    {
+      "title": "Concluídas barragens de Ndue e CalucuveAs obras de construção das Barragens do Ndue e do Calucuve, na província do Cunene, estão concluídas, anunciou, ontem, por meio de um comunicado, o Ministério da Energia e Águas (MINEA).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683752/conclu%C3%ADdas-barragens-de-ndue-e-calucuve",
+      "source": "Jornal de Angola",
+      "_key": "81c4f4d1b90dc479",
+      "score": 8
+    },
+    {
+      "title": "Política Angola no Fórum sobre Cooperação China-África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683758/angola-no-f%C3%B3rum-sobre-coopera%C3%A7%C3%A3o-china-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "6de82ad53547f3fa",
+      "score": 7
+    }
+  ]
 }
