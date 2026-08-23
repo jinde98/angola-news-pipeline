@@ -1,16 +1,24 @@
 {
   "date": "2026-08-23",
-  "total_new": 2,
-  "total_filtered": 1,
+  "total_new": 6,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Técnicos nacionais colocam estação do ANGOSAT-2 em funcionamento no Moxico",
-      "url": "https://correiokianda.info/tecnicos-nacionais-colocam-estacao-do-angosat-2-em-funcionamento-no-moxico/",
-      "source": "Correio Kianda",
-      "_key": "a91dbec5d12bea87",
-      "score": 9,
-      "title_cn": "安哥拉技术人员在莫希科省启用安哥拉卫星2号地面站"
+      "title": "Angola’s Defence minister calls for swift restoration of military infrastructure",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-da-defesa-recomenda-rapida-recuperacao-de-infra-estruturas-militares/",
+      "source": "ANGOP",
+      "_key": "b44eccb99aff0d83",
+      "score": 6,
+      "title_cn": "安哥拉国防部长呼吁迅速恢复军事基础设施"
+    },
+    {
+      "title": "Diaspora's role in Angola's development recognised by ambassador",
+      "url": "https://www.angop.ao/en/noticias/politica/embaixador-reconhece-contributo-da-diaspora-no-desenvolvimento-de-angola/",
+      "source": "ANGOP",
+      "_key": "1281cfe203aa9811",
+      "score": 5,
+      "title_cn": "大使肯定侨民在安哥拉发展中的作用"
     }
   ]
 }
