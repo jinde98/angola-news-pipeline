@@ -1,24 +1,32 @@
 {
   "date": "2026-08-23",
-  "total_new": 6,
-  "total_filtered": 2,
+  "total_new": 8,
+  "total_filtered": 3,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola’s Defence minister calls for swift restoration of military infrastructure",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-da-defesa-recomenda-rapida-recuperacao-de-infra-estruturas-militares/",
+      "title": "Ndue and Calucuve dams’ construction completed",
+      "url": "https://www.angop.ao/en/noticias/economia/barragens-do-ndue-e-calucuve-concluidas/",
       "source": "ANGOP",
-      "_key": "b44eccb99aff0d83",
-      "score": 6,
-      "title_cn": "安哥拉国防部长呼吁迅速恢复军事基础设施"
+      "_key": "1c53a58d916c9c6c",
+      "score": 8,
+      "title_cn": "恩杜埃和卡卢库韦大坝竣工"
     },
     {
-      "title": "Diaspora's role in Angola's development recognised by ambassador",
-      "url": "https://www.angop.ao/en/noticias/politica/embaixador-reconhece-contributo-da-diaspora-no-desenvolvimento-de-angola/",
+      "title": "Technicians complete ANGOSAT-2 station migration in Moxico province",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/tecnicos-asseguram-migracao-de-estacao-do-angosat-2-no-moxico/",
       "source": "ANGOP",
-      "_key": "1281cfe203aa9811",
+      "_key": "c740a963acc2cfc4",
+      "score": 6,
+      "title_cn": "技术人员完成莫希科省安哥拉卫星-2号地面站迁移"
+    },
+    {
+      "title": "Gabon calls for stronger economic cooperation with Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/gabao-defende-reforco-da-cooperacao-economica-com-angola/",
+      "source": "ANGOP",
+      "_key": "a17b398a2346c417",
       "score": 5,
-      "title_cn": "大使肯定侨民在安哥拉发展中的作用"
+      "title_cn": "加蓬呼吁加强与安哥拉的经济合作"
     }
   ]
 }
