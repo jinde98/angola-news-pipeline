@@ -1,72 +1,56 @@
 {
   "date": "2026-08-24",
-  "total_new": 30,
-  "total_filtered": 8,
+  "total_new": 16,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Défice fiscal dispara 259% para 3,9 biliões Kz no I semestre",
-      "url": "https://expansao.co.ao/economia/detalhe/defice-fiscal-dispara-259-para-39-bilioes-kz-no-i-semestre-74119.html",
-      "source": "Expansão",
-      "_key": "4a0144322469d1a1",
-      "score": 8,
-      "title_cn": "上半年财政赤字飙升259%至3.9万亿宽扎"
-    },
-    {
-      "title": "Capanda precisa de 500 milhões USD para manter o funcionamento pleno",
-      "url": "https://expansao.co.ao/economia/detalhe/capanda-precisa-de-500-milhoes-usd-para-manter-o-funcionamento-pleno-74120.html",
-      "source": "Expansão",
-      "_key": "3687df65d4b4a186",
-      "score": 8,
-      "title_cn": "卡潘达需5亿美元维持全面运营"
-    },
-    {
-      "title": "Indicadores melhoram, mas empresários continuam a sentir os mesmos problemas",
-      "url": "https://expansao.co.ao/empresas/detalhe/indicadores-melhoram-mas-empresarios-continuam-a-sentir-os-mesmos-problemas-74124.html",
-      "source": "Expansão",
-      "_key": "3aa7bbfb5ca4952a",
-      "score": 7,
-      "title_cn": "指标改善，但企业家仍面临同样问题"
-    },
-    {
-      "title": "Moody\"s mantém rating da AFC em A3, o segundo melhor de ÁfricaO rating melhora a capacidade da Africa Finance Corporation \"para aceder aos mercados de capitais globais\", reage a instituição que concorre à concessão do Corredor do Namibe.",
-      "url": "https://expansao.co.ao/mundo/africa/detalhe/moodys-mantem-rating-da-afc-em-a3-o-segundo-melhor-de-africa-74121.html",
-      "source": "Expansão",
-      "_key": "0023d96e316fd4c1",
-      "score": 7,
-      "title_cn": "穆迪维持非洲金融公司(AFC) A3评级，为非洲第二高"
-    },
-    {
-      "title": "Centro de Convenções da Chicala abre portas hoje: espaço para 3 mil pessoas e investimento de 290 mil milhões Kz",
-      "url": "https://diariodosnegocios.com/centro-de-convencoes-da-chicala-abre-portas-hoje-espaco-para-3-mil-pessoas-e-investimento-de-290-mil-milhoes-kz/",
+      "title": "Estado formaliza extinção da CIMANGOLA-U.E.E. e fixa 12 meses para liquidação",
+      "url": "https://diariodosnegocios.com/estado-formaliza-extincao-da-cimangola-u-e-e-e-fixa-12-meses-para-liquidacao/",
       "source": "Diário dos Negócios",
-      "_key": "654fb94dd4e09f95",
-      "score": 6,
-      "title_cn": "希卡拉会议中心今日开放：可容纳3千人，投资2900亿宽扎"
+      "_key": "348263ade56373a8",
+      "score": 7,
+      "title_cn": "国家正式解散CIMANGOLA-U.E.E.，设定12个月清算期"
     },
     {
-      "title": " Centro de Convenções da Chicala abre portas hoje: espaço para 3 mil pessoas e investimento de 290 mil milhões Kz ",
+      "title": " Estado formaliza extinção da CIMANGOLA-U.E.E. e fixa 12 meses para liquidação ",
       "url": "",
       "source": "Diário dos Negócios",
-      "_key": "t_d66501e607970b",
-      "score": 6,
-      "title_cn": "希卡拉会议中心今日开放：可容纳3千人，投资2900亿宽扎"
+      "_key": "t_a825692c36e41d",
+      "score": 7,
+      "title_cn": "国家正式解散CIMANGOLA-U.E.E.，设定12个月清算期"
     },
     {
-      "title": "Moody\"s mantém rating da AFC em A3, o segundo melhor de África",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0fd73cd80bd6a1",
+      "title": "Pais, filhos e netos de titulares de cargos públicos passam a estar abrangidos pela lei do branqueamento",
+      "url": "https://angola24horas.com/politica/item/34917-pais-filhos-e-netos-de-titulares-de-cargos-publicos-passam-a-estar-abrangidos-pela-lei-do-branqueamento",
+      "source": "Angola 24 Horas",
+      "_key": "ae9d77f4f6ce577b",
       "score": 6,
-      "title_cn": "穆迪维持非洲金融公司(AFC) A3评级，为非洲第二高"
+      "title_cn": "公职人员的父母、子女和孙辈将受洗钱法管辖"
     },
     {
-      "title": "13 milhões USD para recuperar sede do INE inaugurada há 12 anos",
-      "url": "https://expansao.co.ao/angola/detalhe/13-milhoes-usd-para-recuperar-sede-do-ine-inaugurada-ha-12-anos-74150.html",
-      "source": "Expansão",
-      "_key": "abd5f4b6c32fe14c",
+      "title": "Destaque Presidente da República inaugura Centro de Convenções de LuandaO Chefe de Estado, João Lourenço, inaugura na manhã desta segunda-feira, em Luanda, o novo Centro de Convenções de Luanda, localizado na zona da Chicala.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683914/presidente-da-rep%C3%BAblica-inaugura-centro-de-conven%C3%A7%C3%B5es-de-luanda",
+      "source": "Jornal de Angola",
+      "_key": "fcbffc872bf2321c",
+      "score": 6,
+      "title_cn": "共和国总统若昂·洛伦索（João Lourenço）启用罗安达会议中心"
+    },
+    {
+      "title": "Sociedade Empresa moçambicana de telecomunicações inicia testes com o ANGOSAT-2 ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683915/empresa-mo%C3%A7ambicana-de-telecomunica%C3%A7%C3%B5es-inicia-testes-com-o-angosat-2",
+      "source": "Jornal de Angola",
+      "_key": "12a09d283e968794",
+      "score": 6,
+      "title_cn": "莫桑比克电信公司启动ANGOSAT-2卫星测试"
+    },
+    {
+      "title": "Acúmulo de funções na ANIESA pode comprometer defesa do consumidor,...",
+      "url": "https://valoreconomico.co.ao/artigo/acumulo-de-funcoes-na-aniesa-pode-comprometer-defesa-do-consumidor-alertam-especialistas",
+      "source": "Valor Económico",
+      "_key": "930b0b4b25a75461",
       "score": 5,
-      "title_cn": "1300万美元修复国家统计局(INE)总部，该总部已启用12年"
+      "title_cn": "ANIESA职能重叠可能损害消费者权益"
     }
   ]
 }
