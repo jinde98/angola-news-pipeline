@@ -1,56 +1,64 @@
 {
   "date": "2026-08-24",
   "total_new": 16,
-  "total_filtered": 6,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Estado formaliza extinção da CIMANGOLA-U.E.E. e fixa 12 meses para liquidação",
-      "url": "https://diariodosnegocios.com/estado-formaliza-extincao-da-cimangola-u-e-e-e-fixa-12-meses-para-liquidacao/",
-      "source": "Diário dos Negócios",
-      "_key": "348263ade56373a8",
-      "score": 7,
-      "title_cn": "国家正式解散CIMANGOLA-U.E.E.，设定12个月清算期"
-    },
-    {
-      "title": " Estado formaliza extinção da CIMANGOLA-U.E.E. e fixa 12 meses para liquidação ",
-      "url": "",
-      "source": "Diário dos Negócios",
-      "_key": "t_a825692c36e41d",
-      "score": 7,
-      "title_cn": "国家正式解散CIMANGOLA-U.E.E.，设定12个月清算期"
-    },
-    {
-      "title": "Pais, filhos e netos de titulares de cargos públicos passam a estar abrangidos pela lei do branqueamento",
-      "url": "https://angola24horas.com/politica/item/34917-pais-filhos-e-netos-de-titulares-de-cargos-publicos-passam-a-estar-abrangidos-pela-lei-do-branqueamento",
-      "source": "Angola 24 Horas",
-      "_key": "ae9d77f4f6ce577b",
-      "score": 6,
-      "title_cn": "公职人员的父母、子女和孙辈将受洗钱法管辖"
-    },
-    {
-      "title": "Destaque Presidente da República inaugura Centro de Convenções de LuandaO Chefe de Estado, João Lourenço, inaugura na manhã desta segunda-feira, em Luanda, o novo Centro de Convenções de Luanda, localizado na zona da Chicala.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/683914/presidente-da-rep%C3%BAblica-inaugura-centro-de-conven%C3%A7%C3%B5es-de-luanda",
-      "source": "Jornal de Angola",
-      "_key": "fcbffc872bf2321c",
-      "score": 6,
-      "title_cn": "共和国总统若昂·洛伦索（João Lourenço）启用罗安达会议中心"
-    },
-    {
-      "title": "Sociedade Empresa moçambicana de telecomunicações inicia testes com o ANGOSAT-2 ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/683915/empresa-mo%C3%A7ambicana-de-telecomunica%C3%A7%C3%B5es-inicia-testes-com-o-angosat-2",
-      "source": "Jornal de Angola",
-      "_key": "12a09d283e968794",
-      "score": 6,
-      "title_cn": "莫桑比克电信公司启动ANGOSAT-2卫星测试"
-    },
-    {
-      "title": "Acúmulo de funções na ANIESA pode comprometer defesa do consumidor,...",
-      "url": "https://valoreconomico.co.ao/artigo/acumulo-de-funcoes-na-aniesa-pode-comprometer-defesa-do-consumidor-alertam-especialistas",
+      "title": "Exportações de petróleo caem para 932 mil barris diários em...",
+      "url": "https://valoreconomico.co.ao/artigo/exportacoes-de-petroleo-caem-para-932-mil-barris-diarios-em-outubro",
       "source": "Valor Económico",
-      "_key": "930b0b4b25a75461",
+      "_key": "a1bf747e1dc6f65b",
+      "score": 10,
+      "title_cn": "安哥拉石油出口降至日均93.2万桶"
+    },
+    {
+      "title": "Port of Luanda strengthens regional integration with new major projects",
+      "url": "https://www.angop.ao/en/noticias/economia/porto-de-luanda-reforca-integracao-regional-com-novos-projectos-estruturantes/",
+      "source": "ANGOP",
+      "_key": "20797815511a091e",
+      "score": 9,
+      "title_cn": "罗安达港通过新项目加强区域一体化"
+    },
+    {
+      "title": "Amufert regista avanços do projecto de construção da futura fábrica de amónia de Angola",
+      "url": "https://forbesafricalusofona.com/amufert-regista-avancos-do-projecto-de-construcao-da-futura-fabrica-de-amonia-de-angola/",
+      "source": "Forbes África",
+      "_key": "a4ac776a090f04d8",
+      "score": 8,
+      "title_cn": "Amufert公司安哥拉未来氨厂项目取得进展"
+    },
+    {
+      "title": "Head of State inaugurates Luanda Convention Palace",
+      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-inaugura-palacio-de-convencoes-de-luanda/",
+      "source": "ANGOP",
+      "_key": "d4db1ac687527130",
+      "score": 6,
+      "title_cn": "安哥拉国家元首主持罗安达会议宫落成典礼"
+    },
+    {
+      "title": "Governo extingue juridicamente antiga Cimangola, mas actividade mantém-se",
+      "url": "https://forbesafricalusofona.com/governo-extingue-juridicamente-antiga-cimangola-mas-actividade-mantem-se/",
+      "source": "Forbes África",
+      "_key": "07707956186fe26e",
+      "score": 6,
+      "title_cn": "安哥拉政府依法解散前Cimangola公司，但业务持续"
+    },
+    {
+      "title": "Combustível contaminado na Namíbia obriga voos a reabastecer em LuandaA escassez temporária de combustível de aviação na Namíbia obrigou aeronaves da Discover Airlines a efectuar escalas técnicas em Luanda para reabastecimento, garantindo as ligações entre Windhoek e cidades europeias, como Frankfurt e Munique.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683917/combust%C3%ADvel-contaminado-na-nam%C3%ADbia-obriga-voos-a-reabastecer-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "376f511f09e858e9",
       "score": 5,
-      "title_cn": "ANIESA职能重叠可能损害消费者权益"
+      "title_cn": "纳米比亚燃油污染，航班被迫改道罗安达加油"
+    },
+    {
+      "title": "MININT aperta regras para todos os efectivos em serviço...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/chega-de-anonimato-e-presentes-minint-aperta-regras-para-todos-os-efectivos-em-servico-74154.html",
+      "source": "Novo Jornal",
+      "_key": "2d008dc54e060cb3",
+      "score": 5,
+      "title_cn": "安哥拉内政部收紧所有在职人员管理规定"
     }
   ]
 }
