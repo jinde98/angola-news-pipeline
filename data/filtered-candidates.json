@@ -1,50 +1,36 @@
 {
   "date": "2026-08-24",
-  "total_new": 16,
-  "total_filtered": 6,
+  "total_new": 6,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola quer empresários brasileiros a investirem no país e não só para exportações",
-      "url": "https://jornaloguardiao.com/2026/08/24/angola-quer-empresarios-brasileiros-a-investirem-no-pais-e-nao-so-para-exportacoes/",
-      "source": "Jornal O Guardião",
-      "_key": "903d1dfe5c7c3b9e",
+      "title": "Combate à corrupção e isenção de vistos colocam Angola no radar do turismo internacional",
+      "url": "https://angola24horas.com/component/k2/item/34920-combate-a-corrupcao-e-isencao-de-vistos-colocam-angola-no-radar-do-turismo-internacional",
+      "source": "Angola 24 Horas",
+      "_key": "eafeae3c6279c48f",
+      "score": 9
+    },
+    {
+      "title": "João Lourenço aprova extinção formal da Cimangola - UEE",
+      "url": "https://angola24horas.com/politica/item/34919-joao-lourenco-aprova-extincao-formal-da-cimangola-uee",
+      "source": "Angola 24 Horas",
+      "_key": "9bb6795aad598cf2",
       "score": 7
     },
     {
-      "title": " Angola quer empresários brasileiros a investirem no país e não só para exportações ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ec55c48af15428",
-      "score": 7
-    },
-    {
-      "title": "Criminal Investigation Services present suspects accused of serious crimes",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-apresenta-individuos-acusados-de-crimes-graves/",
-      "source": "ANGOP",
-      "_key": "1e82af73047b65e0",
-      "score": 6
-    },
-    {
-      "title": "PR inaugura Palácio de Convenções a apontar para turismo...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/pr-inaugura-palacio-de-convencoes-a-apontar-para-turismo-de-negocios---e-momento-de-comecarem-a-investir-seriamente-na-hotelaria-74159.html",
+      "title": "LUANDA DOWNTOWN: ECONOMIA AZUL. Quais os mecanismos práticos a serem implementados na economia azul para fortificar o Orçamento Geral do Estado, sendo um dos elementos preponderantes para a diversificação econômica do país.",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=74160",
       "source": "Novo Jornal",
-      "_key": "fbf6e62cf5cfad31",
+      "_key": "da2f79aa3a445dc1",
+      "score": 7
+    },
+    {
+      "title": "Detidos três homens no Zaire suspeitos de sequestrar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidos-tres-homens-no-zaire-suspeitos-de-sequestrar-duas-jovens-em-luanda-com-destino-a-rdc-74161.html",
+      "source": "Novo Jornal",
+      "_key": "ac9bdf6677d69ef6",
       "score": 6
-    },
-    {
-      "title": "TAAG debuts Boeing 787-10 Dreamliner on Lisbon route",
-      "url": "https://www.angop.ao/en/noticias/economia/taag-estreia-boeing-787-10-dreamliner-na-rota-de-lisboa/",
-      "source": "ANGOP",
-      "_key": "1f6090fb6afcd240",
-      "score": 5
-    },
-    {
-      "title": "“Turismo angolano ainda está na fase inicial”, reconhece João Lourenço",
-      "url": "https://correiokianda.info/turismo-angolano-ainda-esta-na-fase-inicial-reconhece-joao-lourenco/",
-      "source": "Correio Kianda",
-      "_key": "e38a862e1d6cf449",
-      "score": 5
     }
   ]
 }
