@@ -1,36 +1,22 @@
 {
   "date": "2026-08-25",
-  "total_new": 8,
-  "total_filtered": 4,
+  "total_new": 6,
+  "total_filtered": 2,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Government sets new toll rates for National Roads",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-estabelece-novas-taxas-de-portagem-na-rede-nacional-de-estradas/",
-      "source": "ANGOP",
-      "_key": "48cda8de5abe8cf5",
+      "title": "FSDEA quase triplica lucro para 527 milhões de dólares em 2025",
+      "url": "https://forbesafricalusofona.com/fsdea-quase-triplica-lucro-para-527-milhoes-de-dolares-em-2025/",
+      "source": "Forbes África",
+      "_key": "51482a14844a1c1d",
       "score": 7
     },
     {
-      "title": "Cimangola extinta no processo de reforma do setor empresarial público",
-      "url": "https://namiradocrime.info/show/17337",
-      "source": "Na Mira do Crime",
-      "_key": "0c0908fa78175e69",
+      "title": "Resultado líquido do Fundo Soberano de Angola dispara 200% para...",
+      "url": "https://valoreconomico.co.ao/artigo/resultado-liquido-do-fundo-soberano-de-angola-dispara-200-para-527-milhoes-de-dolares",
+      "source": "Valor Económico",
+      "_key": "96a153612d25dc67",
       "score": 7
-    },
-    {
-      "title": "Capital Fund bets on agri-food processing",
-      "url": "https://www.angop.ao/en/noticias/economia/facra-aposta-no-processamento-agroalimentar-para-impulsionar-empresas-nacionais/",
-      "source": "ANGOP",
-      "_key": "63a6419c64e9d1f3",
-      "score": 6
-    },
-    {
-      "title": "Agronegócio",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=254939",
-      "source": "ANGOP",
-      "_key": "c34e7606c2ff6a80",
-      "score": 5
     }
   ]
 }
