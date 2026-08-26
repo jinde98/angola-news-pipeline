@@ -1,24 +1,400 @@
 {
-  "date": "2026-08-25",
-  "total_new": 8,
-  "total_filtered": 2,
+  "date": "2026-08-26",
+  "total_new": 112,
+  "total_filtered": 49,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Fundo Soberano de Angola regista lucro de 527 milhões de dólares em 2025",
-      "url": "https://angola24horas.com/sociedade/item/34934-fundo-soberano-de-angola-regista-lucro-de-527-milhoes-de-dolares-em-2025",
-      "source": "Angola 24 Horas",
-      "_key": "ca1341b4463a0e52",
-      "score": 6,
-      "title_cn": "安哥拉主权基金预计2025年实现5.27亿美元利润"
+      "title": "João Lourenço testemunha acordo de 1,2 mil milhões de dólares entre RDC e Mota-Engil para modernizar o Corredor do Lobito",
+      "url": "https://correiokianda.info/joao-lourenco-testemunha-acordo-de-12-mil-milhoes-de-dolares-entre-rdc-e-mota-engil-para-modernizar-o-corredor-do-lobito/",
+      "source": "Correio Kianda",
+      "_key": "94b60e819036443f",
+      "score": 10,
+      "title_cn": "若昂·洛伦索（João Lourenço）见证刚果（金）与莫塔-恩吉尔（Mota-Engil）签署12亿美元协议，现代化洛比托走廊。"
     },
     {
-      "title": "Luanda reúne líderes africanos para reforçar mecanismos de prevenção de conflitos",
-      "url": "https://forbesafricalusofona.com/luanda-reune-lideres-africanos-para-reforcar-mecanismos-de-prevencao-de-conflitos/",
+      "title": "Empresa angolana e consórcio internacional com olhos no Corredor do NamibeTrata-se de um concurso que visa a concessão, durante 30 anos e prorrogáveis até 50, do direito de exploração, gestão e manutenção da Linha Férrea de Moçâmedes-Menongue e infraestruturas associadas",
+      "url": "https://expansao.co.ao/empresas/detalhe/empresa-angolana-e-consorcio-internacional-com-olhos-no-corredor-do-namibe-74192.html",
+      "source": "Expansão",
+      "_key": "db6924d7672e0f09",
+      "score": 10,
+      "title_cn": "安哥拉公司与国际财团关注纳米贝走廊特许经营权。"
+    },
+    {
+      "title": " Angola e China analisam propostas na indústria e comércio ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/684006/angola-e-china-analisam-propostas-na-ind%C3%BAstria-e-com%C3%A9rcio",
+      "source": "Jornal de Angola",
+      "_key": "6fe3c28be81f6ba9",
+      "score": 10,
+      "title_cn": "安哥拉与中国探讨工商业合作提案。"
+    },
+    {
+      "title": "Brent recua 2,97% para 87,85 dólares por barril",
+      "url": "https://valoreconomico.co.ao/artigo/brent-recua-2-97-para-87-85-dolares-por-barril",
+      "source": "Valor Económico",
+      "_key": "340babc3e0a8ed54",
+      "score": 10,
+      "title_cn": "布伦特原油下跌2.97%，至每桶87.85美元。"
+    },
+    {
+      "title": "President João Lourenço to witness signing of Lobito Corridor contract in the DRC",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-testemunha-na-rdc-assinatura-de-contrato-sobre-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "6de2e2b4a585a054",
+      "score": 9,
+      "title_cn": "洛伦索总统将见证刚果（金）洛比托走廊合同签署。"
+    },
+    {
+      "title": "DRC formalises commitment to Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/politica/rdc-formaliza-compromisso-com-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "686db7d435f37391",
+      "score": 9,
+      "title_cn": "刚果（金）正式承诺参与洛比托走廊项目。"
+    },
+    {
+      "title": "Kinshasa recebe João Lourenço para assinatura de contrato ligado ao Corredor do Lobito",
+      "url": "https://correiokianda.info/kinshasa-recebe-joao-lourenco-para-assinatura-de-contrato-ligado-ao-corredor-do-lobito/",
+      "source": "Correio Kianda",
+      "_key": "91c9cb03ed8e6481",
+      "score": 9,
+      "title_cn": "金沙萨迎接若昂·洛伦索（João Lourenço）签署洛比托走廊相关合同。"
+    },
+    {
+      "title": "Empresa angolana e consórcio internacional com olhos no Corredor do Namibe",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_d1887fa02eb2c6",
+      "score": 9,
+      "title_cn": "安哥拉公司与国际财团关注纳米贝走廊。"
+    },
+    {
+      "title": "Petróleo cai pelo terceiro dia com perspetiva de reabertura do estreito de Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-cai-pelo-terceiro-dia-com-perspetiva-de-reabertura-do-estreito-de-ormuz-74196.html",
+      "source": "Expansão",
+      "_key": "aa6dad9038c37736",
+      "score": 9,
+      "title_cn": "霍尔木兹海峡有望重开，油价连跌三日。"
+    },
+    {
+      "title": "Destaque João Lourenço desloca-se a Kinshasa para testemunhar assinatura de contrato sobre Corredor do LobitoO Presidente da República, João Lourenço, desloca-se, na manhã desta quarta-feira, a Kinshasa, República Democrática do Congo (RDC), para testemunhar a assinatura de um contrato relacionado com o desenvolvimento do Corredor do Lobito.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684003/jo%C3%A3o-louren%C3%A7o-desloca-se-a-kinshasa-para-testemunhar-assinatura-de-contrato-sobre-corredor-do-lobito",
+      "source": "Jornal de Angola",
+      "_key": "d846231d24358e5d",
+      "score": 9,
+      "title_cn": "若昂·洛伦索（João Lourenço）赴金沙萨见证洛比托走廊合同签署。"
+    },
+    {
+      "title": "Ainda o processo migratório nos nossos dias",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/ainda-o-processo-migratorio-nos-nossos-dias-74197.html",
+      "source": "Novo Jornal",
+      "_key": "2d888b3a1388be89",
+      "score": 9,
+      "title_cn": "当今移民进程。"
+    },
+    {
+      "title": "Planning Minister highlights Lobito Corridor’s potential",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-enaltece-potencial-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "367338d4efd6c4c3",
+      "score": 8,
+      "title_cn": "计划部长强调洛比托走廊潜力。"
+    },
+    {
+      "title": "Lobito Corridor master plan highlights Bié’s agricultural potential",
+      "url": "https://www.angop.ao/en/noticias/agricultura/plano-director-do-corredor-do-lobito-destaca-agricultura-no-bie/",
+      "source": "ANGOP",
+      "_key": "02868f8288fec3bb",
+      "score": 8,
+      "title_cn": "洛比托走廊总体规划凸显比耶省农业潜力。"
+    },
+    {
+      "title": "Refinaria de Cabinda atinge meta de 15,7 mil barris diários na primeira fase de operação",
+      "url": "https://diariodosnegocios.com/refinaria-de-cabinda-atinge-meta-de-157-mil-barris-diarios-na-primeira-fase-de-operacao/",
+      "source": "Diário dos Negócios",
+      "_key": "ec2745ba2ce9c388",
+      "score": 8,
+      "title_cn": "卡宾达炼油厂首期日产量达1.57万桶目标。"
+    },
+    {
+      "title": "Importação de veículos aumenta 57% em 2025, mas continua distante...",
+      "url": "https://valoreconomico.co.ao/artigo/importacao-de-veiculos-aumenta-57-em-2025-mas-continua-distante-das-133-mil-unidades-registadas-em-2014",
+      "source": "Valor Económico",
+      "_key": "d6f7f94bb1f1e7f3",
+      "score": 8,
+      "title_cn": "2025年汽车进口量增长57%，但仍远低于预期。"
+    },
+    {
+      "title": "Operation ‘Arrasto 26’ arrests 554 Angolan and foreign nationals in Luvo",
+      "url": "https://www.angop.ao/en/noticias/politica/operacao-arrasto-26-prende-554-cidadaos-nacionais-e-estrangeiros-no-luvo/",
+      "source": "ANGOP",
+      "_key": "24f7c4b6fdec09ac",
+      "score": 7,
+      "title_cn": "“Arrasto 26”行动在卢沃逮捕554名安哥拉及外国公民。"
+    },
+    {
+      "title": "Sovereign Wealth Fund posts net profit of US$527 million",
+      "url": "https://www.angop.ao/en/noticias/economia/fundo-soberano-alcanca-resultado-liquido-de-527-milhoes-de-dolares/",
+      "source": "ANGOP",
+      "_key": "f350c35a3086a586",
+      "score": 7,
+      "title_cn": "主权财富基金实现净利润5.27亿美元。"
+    },
+    {
+      "title": "Kidnapping",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=20918",
+      "source": "ANGOP",
+      "_key": "076c8803a4ce5d59",
+      "score": 7,
+      "title_cn": "绑架案。"
+    },
+    {
+      "title": "Lucro da banca comercial sobe 8% para 601 milhões USD no I semestre",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_ff65bc050dd3af",
+      "score": 7,
+      "title_cn": "上半年商业银行利润增长8%，达6.01亿美元。"
+    },
+    {
+      "title": "Ottoniel dos Santos quer FSDEA mais activo na mobilização de investimento para Angola",
+      "url": "https://forbesafricalusofona.com/ottoniel-dos-santos-quer-fsdea-mais-activo-na-mobilizacao-de-investimento-para-angola/",
       "source": "Forbes África",
-      "_key": "f751e42fc63a6cfa",
+      "_key": "d0c1f0f866689df3",
+      "score": 7,
+      "title_cn": "奥托尼尔·多斯桑托斯（Ottoniel dos Santos）呼吁FSDEA更积极为安哥拉引资。"
+    },
+    {
+      "title": "Destaque SIC extradita de Portugal cidadão suspeito de integrar rede de ataques cibernéticos a bancos angolanosO Serviço de Investigação Criminal (SIC) extraditou, esta terça-feira, de Portugal para Angola, o cidadão nacional Fernando Nunes Correia, suspeito de integrar uma rede criminosa internacional envolvida em ataques cibernéticos contra instituições bancárias angolanas.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684004/sic-extradita-de-portugal-cidad%C3%A3o-suspeito-de-integrar-rede-de-ataques-cibern%C3%A9ticos-a-bancos-angolanos",
+      "source": "Jornal de Angola",
+      "_key": "e745ae0b83cb9549",
+      "score": 7,
+      "title_cn": "刑事调查局从葡萄牙引渡涉嫌网络攻击安哥拉银行的公民。"
+    },
+    {
+      "title": "Destaque Fundo Soberano de Angola regista crescimento líquido de 527 milhões de dólares em 2025O Fundo Soberano de Angola (FSDEA) apresentou, esta terça-feira, em Luanda, os resultados do Exercício Económico de 2025, tendo registado um resultado líquido de USD 527 milhões, contra os USD 176 milhões alcançados em 2024, um crescimento de aproximadamente 200%.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684008/fundo-soberano-de-angola-regista-crescimento-l%C3%ADquido-de-527-milh%C3%B5es-de-d%C3%B3lares-em-2025",
+      "source": "Jornal de Angola",
+      "_key": "1319530009d0adcf",
+      "score": 7,
+      "title_cn": "安哥拉主权财富基金2025年净增长5.27亿美元。"
+    },
+    {
+      "title": "SIC-Luanda desmantela parcialmente grupo de marginais que criavam terror no Kilamba Kiaxi apoiados por um efectivo das FAA",
+      "url": "https://namiradocrime.info/show/17343",
+      "source": "Na Mira do Crime",
+      "_key": "99a4c8322cf1fe26",
+      "score": 7,
+      "title_cn": "罗安达刑事调查局捣毁基兰巴·基亚西犯罪团伙。"
+    },
+    {
+      "title": "Roubou cerca de 6 biliões de kwanzas e fugiu para Portugal - SIC recepciona \"com sucesso\" ex-funcionário bancário que liderou \"ataque\" a um banco no Uíge",
+      "url": "https://namiradocrime.info/show/17339",
+      "source": "Na Mira do Crime",
+      "_key": "c50df2bba659f4fe",
+      "score": 7,
+      "title_cn": "盗窃60亿宽扎逃往葡萄牙，刑事调查局成功引渡前银行职员。"
+    },
+    {
+      "title": "Banco de Fomento Angola becomes the first Angolan bank to establish a correspondent relationship with US-based Citibank25/08/2026",
+      "url": "https://www.negociosdeangola.com/en/banco-de-fomento-angola-becomes-the-first-angolan-bank-to-establish-a-correspondent-relationship-with-us-based-citibank/",
+      "source": "Negócios de Angola",
+      "_key": "e942de565fb37019",
+      "score": 7,
+      "title_cn": "安哥拉发展银行与美国花旗银行建立代理关系。"
+    },
+    {
+      "title": "FSDEA termina com ganhos consideráveis, mas ainda se “resente” da...",
+      "url": "https://valoreconomico.co.ao/artigo/fsdea-termina-com-ganhos-consideraveis-mas-ainda-se-resente-da-descapitalizacao",
+      "source": "Valor Económico",
+      "_key": "8e87d79d9eaeac16",
+      "score": 7,
+      "title_cn": "安哥拉主权财富基金获可观收益，但仍受困扰。"
+    },
+    {
+      "title": "DOIS PALÁCIOS E AS PRIORIDADES DE ANGOLA",
+      "url": "https://valoreconomico.co.ao/artigo/dois-palacios-e-as-prioridades-de-angola",
+      "source": "Valor Económico",
+      "_key": "202beda57cf555f2",
+      "score": 7,
+      "title_cn": "两座宫殿与安哥拉的优先事项。"
+    },
+    {
+      "title": "Angola’s Capital Market trading rises 66.65% in the second quarter of 2026",
+      "url": "https://www.angop.ao/en/noticias/economia/negociacao-no-mercado-de-capitais-cresce-66-65/",
+      "source": "ANGOP",
+      "_key": "6c16ce55e48587e9",
       "score": 6,
-      "title_cn": "罗安达召集非洲领导人，旨在加强冲突预防机制"
+      "title_cn": "2026年二季度安哥拉资本市场交易额增长66.65%。"
+    },
+    {
+      "title": "Finance Secretary of State calls for balanced Sovereign Wealth Fund portfolio",
+      "url": "https://www.angop.ao/en/noticias/economia/secretario-de-estado-advoga-equilibrio-na-carteira-de-projectos-do-fundo-soberano/",
+      "source": "ANGOP",
+      "_key": "289cd981a80cf409",
+      "score": 6,
+      "title_cn": "财政国务秘书呼吁平衡主权财富基金投资组合。"
+    },
+    {
+      "title": "África tem de deixar de exportar minerais em bruto para o Ocidente",
+      "url": "https://angola24horas.com/opiniao/item/34940-africa-tem-de-deixar-de-exportar-minerais-em-bruto-para-o-ocidente",
+      "source": "Angola 24 Horas",
+      "_key": "691a0b6dbb9bc4a7",
+      "score": 6,
+      "title_cn": "非洲须停止向西方出口原矿。"
+    },
+    {
+      "title": "Igreja católica aponta a corrupção e nepotismo como as principais causas dos graves problemas do país",
+      "url": "https://correiokianda.info/igreja-catolica-aponta-a-corrupcao-e-nepotismo-como-as-principais-causas-dos-graves-problemas-do-pais/",
+      "source": "Correio Kianda",
+      "_key": "b850b989741ed4e4",
+      "score": 6,
+      "title_cn": "天主教会指出腐败和裙带关系是国家主要问题根源。"
+    },
+    {
+      "title": "        África2 horas atrás  RDC suspende actividades académicas em Goma e Bukavu devido à ingerência do M23 O Governo da República Democrática do Congo (RDC) anunciou a suspensão temporária de todas as actividades académicas e para-académicas nas cidades de Goma e Bukavu, províncias...   ",
+      "url": "https://correiokianda.info/rdc-suspende-actividades-academicas-em-goma-e-bukavu-devido-a-ingerencia-do-m23/",
+      "source": "Correio Kianda",
+      "_key": "bb81cb73c72a2cb3",
+      "score": 6,
+      "title_cn": "刚果（金）因M23干预暂停戈马和布卡武学术活动。"
+    },
+    {
+      "title": "Seis programas do Governo excederam o orçamento para 2026 no final de Junho",
+      "url": "https://expansao.co.ao/angola/detalhe/seis-programas-do-governo-excederam-o-orcamento-para-2026-no-final-de-junho-74165.html",
+      "source": "Expansão",
+      "_key": "e093695319334a5c",
+      "score": 6,
+      "title_cn": "截至6月底，六项政府计划超出2026年预算。"
+    },
+    {
+      "title": "Compliance, controlo interno e a Unitel",
+      "url": "https://expansao.co.ao/gestao/detalhe/compliance-controlo-interno-e-a-unitel-74195.html",
+      "source": "Expansão",
+      "_key": "7bc7ac647f194a50",
+      "score": 6,
+      "title_cn": "合规、内部控制与安哥拉电信。"
+    },
+    {
+      "title": "Adalberto critica US$ 316,8 milhões na Chicala: “Angola precisa de produzir, não de palácios”",
+      "url": "https://jornaloguardiao.com/2026/08/26/adalberto-critica-us-3168-milhoes-na-chicala-angola-precisa-de-produzir-nao-de-palacios/",
+      "source": "Jornal O Guardião",
+      "_key": "50732bc8a00f277f",
+      "score": 6,
+      "title_cn": "阿达尔贝托（Adalberto）批评希卡拉3.168亿美元项目：安哥拉需要生产而非宫殿。"
+    },
+    {
+      "title": " Adalberto critica US$ 316,8 milhões na Chicala: “Angola precisa de produzir, não de palácios” ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_a98a06feaae9c1",
+      "score": 6,
+      "title_cn": "阿达尔贝托（Adalberto）批评希卡拉3.168亿美元项目：安哥拉需要生产而非宫殿。"
+    },
+    {
+      "title": "Economia Empresários brasileiros convidados a investir na indústria angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/683999/empres%C3%A1rios-brasileiros-convidados-a-investir-na-ind%C3%BAstria-angolana",
+      "source": "Jornal de Angola",
+      "_key": "fc47ce967c6529e1",
+      "score": 6,
+      "title_cn": "巴西企业家受邀投资安哥拉工业。"
+    },
+    {
+      "title": "Falso Inspector-chefe do SIC detido em Malanje por burla: Cobrava 200 mil kwanzas para facilitar acesso ao concurso público do MININT",
+      "url": "https://namiradocrime.info/show/17340",
+      "source": "Na Mira do Crime",
+      "_key": "647a63891b5f7500",
+      "score": 6,
+      "title_cn": "假冒刑事调查局总督察在马兰热被捕，诈骗20万宽扎。"
+    },
+    {
+      "title": "Memorandum with IDA secures rice from five thousand smallholder farmers for new Camanongue plant",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10212",
+      "source": "Negócios de Angola",
+      "_key": "7b12bf31d6b2a3bb",
+      "score": 6,
+      "title_cn": "与国际开发协会（IDA）备忘录确保卡马农格新厂稻米供应。"
+    },
+    {
+      "title": "Campanha agrícola 2026/2027 arranca com incertezas sobre incentivos e...",
+      "url": "https://valoreconomico.co.ao/artigo/campanha-agricola-2026-2027-arranca-com-incertezas-sobre-incentivos-e-distribuicao-de-fertilizantes",
+      "source": "Valor Económico",
+      "_key": "2ce272d7812b1b46",
+      "score": 6,
+      "title_cn": "2026/2027农业季启动，激励措施仍存不确定性。"
+    },
+    {
+      "title": "Gastos das empresas públicas com os órgãos sociais sobem mais...",
+      "url": "https://valoreconomico.co.ao/artigo/gastos-das-empresas-publicas-com-os-orgaos-sociais-sobem-mais-de-100",
+      "source": "Valor Económico",
+      "_key": "ee52147e7fd5285c",
+      "score": 6,
+      "title_cn": "国有企业董事会开支进一步上升。"
+    },
+    {
+      "title": "\"Um dos calcanhares de Aquiles que temos hoje nas empresas públicas são...",
+      "url": "https://valoreconomico.co.ao/artigo/um-dos-calcanhares-de-aquiles-que-temos-hoje-nas-empresas-publicas-sao-os-prazos-que-o-igape-impoe-para-apresentacao-das-contas",
+      "source": "Valor Económico",
+      "_key": "ddb41e72affa8530",
+      "score": 6,
+      "title_cn": "国有企业面临的“阿喀琉斯之踵”之一是..."
+    },
+    {
+      "title": "Fundo Financeiro",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=43324",
+      "source": "ANGOP",
+      "_key": "512c6260b5e32b2a",
+      "score": 5,
+      "title_cn": "财政基金。"
+    },
+    {
+      "title": "Angola passa a ter nova linha de defesa para proteger dados digitais",
+      "url": "https://correiokianda.info/angola-passa-a-ter-nova-linha-de-defesa-para-proteger-dados-digitais/",
+      "source": "Correio Kianda",
+      "_key": "0ee7b89c7789fb52",
+      "score": 5,
+      "title_cn": "安哥拉将建立新的数字数据保护防线。"
+    },
+    {
+      "title": "Penetração dos seguros recua para 0,5% e afasta-se da meta dos 3%",
+      "url": "https://expansao.co.ao/empresas/detalhe/penetracao-dos-seguros-recua-para-05-e-afasta-se-da-meta-dos-3-74193.html",
+      "source": "Expansão",
+      "_key": "cbd38bebb47989ac",
+      "score": 5,
+      "title_cn": "保险渗透率降至0.5%，偏离3%目标。"
+    },
+    {
+      "title": "Quando decisões são mantidas em cúpulas burocráticas não chegam à população\"Se for acompanhada pela livre circulação de pessoas e por mecanismos de harmonização fiscal e redistribuição regional, AfCFTA pode dinamizar o crescimento interno do continente\", conclui coordenador do OPSA.",
+      "url": "https://expansao.co.ao/angola/detalhe/quando-decisoes-sao-mantidas-em-cupulas-burocraticas-nao-chegam-a-populacao-74116.html",
+      "source": "Expansão",
+      "_key": "fb31e6422dde8a48",
+      "score": 5,
+      "title_cn": "官僚决策若不触及民众，将难以实现。"
+    },
+    {
+      "title": "Reforçada segurança dos serviços do Estado angolano",
+      "url": "https://forbesafricalusofona.com/reforcada-seguranca-dos-servicos-do-estado-angolano/",
+      "source": "Forbes África",
+      "_key": "a64c31deb7fa31fd",
+      "score": 5,
+      "title_cn": "安哥拉国家服务安全得到加强。"
+    },
+    {
+      "title": "Destaque Governo inicia hoje diagnóstico nacional de prédios obsoletos e obras inacabadasO Executivo inicia, esta quarta-feira, 26, um trabalho de campo destinado à realização de um diagnóstico nacional de prédios obsoletos, obras inacabadas, tapumes, estradas interditas, estaleiros não funcionais e terrenos ociosos.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684009/governo-inicia-hoje-diagn%C3%B3stico-nacional-de-pr%C3%A9dios-obsoletos-e-obras-inacabadas",
+      "source": "Jornal de Angola",
+      "_key": "ca398ce07ca5352d",
+      "score": 5,
+      "title_cn": "政府启动全国废弃建筑和未完工项目普查。"
+    },
+    {
+      "title": "Funcionário da Angofoot acusa supostos agentes do SIC de tortura no Comando Municipal do Kilamba - Foi algemado, amarrado com fita-cola e agredido com catanas nas costas",
+      "url": "https://namiradocrime.info/show/17341",
+      "source": "Na Mira do Crime",
+      "_key": "066726c8fe372f41",
+      "score": 5,
+      "title_cn": "安哥拉足球协会员工指控刑事调查局在基兰巴施加酷刑。"
     }
   ]
 }
