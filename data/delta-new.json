@@ -1,74 +1,914 @@
 {
-  "date": "2026-08-26",
-  "total_extracted": 1496,
-  "total_new": 11,
-  "total_existing": 1485,
+  "date": "2026-08-27",
+  "total_extracted": 1670,
+  "total_new": 151,
+  "total_existing": 1519,
   "articles": [
     {
-      "title": "Conflitos e ameaças à segurança dominam agenda da cimeira da União Africana",
-      "url": "https://correiokianda.info/conflitos-e-ameacas-a-seguranca-dominam-agenda-da-cimeira-da-uniao-africana/",
-      "source": "Correio Kianda",
-      "_key": "ec22385c04aaa781"
+      "title": "Pensions in Angola increase significantly over the past three years",
+      "url": "https://www.angop.ao/en/noticias/sociedade/pensoes-aumentam-significativamente-nos-ultimos-tres-anos/",
+      "source": "ANGOP",
+      "_key": "a4b6e545a236d3b1"
     },
     {
-      "title": "Provedor de Justiça defende presença em todas as províncias para aproximar instituição dos cidadãos",
-      "url": "https://correiokianda.info/provedor-de-justica-defende-presenca-em-todas-as-provincias-para-aproximar-instituicao-dos-cidadaos/",
-      "source": "Correio Kianda",
-      "_key": "d64c5ea6e9e12e1b"
+      "title": "Social Affairs Minister delivers 89 tonnes of aid to vulnerable families",
+      "url": "https://www.angop.ao/en/noticias/sociedade/ministra-entrega-89-toneladas-de-bens-a-familias-vulneraveis/",
+      "source": "ANGOP",
+      "_key": "154651879ab6c1bc"
     },
     {
-      "title": "Mulher morre atropelada por camião na EN-230 em Viana",
-      "url": "https://correiokianda.info/mulher-morre-atropelada-por-camiao-na-en-230-em-viana/",
-      "source": "Correio Kianda",
-      "_key": "8d348db7d9a70660"
+      "title": "Angola Head of State announces joint oil exploration with DRC",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-anuncia-exploracao-conjunta-de-petroleo-com-a-rdc/",
+      "source": "ANGOP",
+      "_key": "52d452659725d884"
     },
     {
-      "title": "“Violência no Haiti deixa mais de mil mortos no segundo trimestre”, alerta ONU",
-      "url": "https://correiokianda.info/violencia-no-haiti-deixa-mais-de-mil-mortos-no-segundo-trimestre-alerta-onu/",
-      "source": "Correio Kianda",
-      "_key": "5766541fc57c7551"
+      "title": "Angola calls for urgent response to Africa’s peace and security challenges",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-defende-resposta-urgente-aos-desafios-de-paz-em-africa/",
+      "source": "ANGOP",
+      "_key": "720f125f6e866764"
     },
     {
-      "title": "Etiópia apresenta candidatura para sediar a CAN 2028",
-      "url": "https://correiokianda.info/etiopia-apresenta-candidatura-para-sediar-a-can-2028/",
-      "source": "Correio Kianda",
-      "_key": "46ce51f9aac3ac8a"
+      "title": "Angola takes part in WHO Regional Committee for Africa session",
+      "url": "https://www.angop.ao/en/noticias/saude/angola-participa-na-sessao-do-comite-regional-da-oms-para-africa/",
+      "source": "ANGOP",
+      "_key": "2d04a030aeb0b063"
     },
     {
-      "title": "        África2 horas atrás  Nova Constituição reduz Parlamento e reforça poderes presidenciais na Guiné-Bissau A Guiné-Bissau vai realizar, no próximo domingo, 30, um referendo sobre uma nova Constituição que prevê uma redução significativa do Parlamento e o reforço dos poderes...   ",
-      "url": "https://correiokianda.info/nova-constituicao-reduz-parlamento-e-reforca-poderes-presidenciais-na-guine-bissau/",
-      "source": "Correio Kianda",
-      "_key": "da07d31c9e8f239e"
+      "title": "DRC sees Lobito Corridor as tool for economic sovereignty",
+      "url": "https://www.angop.ao/en/noticias/politica/rdc-considera-corredor-do-lobito-instrumento-de-soberania-economica/",
+      "source": "ANGOP",
+      "_key": "1c16711e4e562bba"
     },
     {
-      "title": "Sociedade Terminal de Passageiros do Largo das Escolas entregue até ao final de Setembro ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684062/terminal-de-passageiros-do-largo-das-escolas-entregue-at%C3%A9-ao-final-de-setembro",
+      "title": "Angola announces new era in relations with DRC",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-anuncia-nova-era-nas-relacoes-com-rdc/",
+      "source": "ANGOP",
+      "_key": "e5caf64121e2aa4f"
+    },
+    {
+      "title": "Gabon considers relations with Angola evolving into a strategic partnership",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/gabao-considera-que-relacao-com-angola-evolui-para-parceria-estrategica/",
+      "source": "ANGOP",
+      "_key": "0c62a0f6ba048ca5"
+    },
+    {
+      "title": "MAPTESS",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=65420",
+      "source": "ANGOP",
+      "_key": "81f535e1d65cf622"
+    },
+    {
+      "title": "Foodstuffs",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=10036",
+      "source": "ANGOP",
+      "_key": "f415a7821e9bbaa8"
+    },
+    {
+      "title": "Grande Entrevista",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=40779",
+      "source": "ANGOP",
+      "_key": "691227f18ab12fb3"
+    },
+    {
+      "title": "African Union summit to be first major international event at Luanda Convention Centre",
+      "url": "https://www.angop.ao/en/noticias/politica/cimeira-extraordinaria-da-ua-estreia-palacio-de-convencoes-de-luanda/",
+      "source": "ANGOP",
+      "_key": "8295d8123e518b01"
+    },
+    {
+      "title": "Infra-estrutura",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=88412",
+      "source": "ANGOP",
+      "_key": "6b1705f55072103b"
+    },
+    {
+      "title": "Angola promotes Business Forum on Mining in Australia",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-promove-forum-empresarial-sobre-minas-na-australia/",
+      "source": "ANGOP",
+      "_key": "7746f4e8636941eb"
+    },
+    {
+      "title": "Police chief praises Border Authorities’ work",
+      "url": "https://www.angop.ao/en/noticias/politica/comandante-geral-enaltece-importancia-da-pgf/",
+      "source": "ANGOP",
+      "_key": "52c552f467c06b36"
+    },
+    {
+      "title": "Congo's Tshisekedi envisages Angola-DRC border as a space of cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/tshisekedi-quer-fronteira-angola-rdc-como-espaco-de-cooperacao/",
+      "source": "ANGOP",
+      "_key": "04ad4a1532dc78a8"
+    },
+    {
+      "title": "Head of State considers agreement on Lobito Corridor vital",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-considera-acordo-vital-para-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "cf16da436da765de"
+    },
+    {
+      "title": "Development",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5179",
+      "source": "ANGOP",
+      "_key": "7bf134f7c994469d"
+    },
+    {
+      "title": "Economists advocate public policies impacting citizens' lives",
+      "url": "https://www.angop.ao/en/noticias/economia/economistas-advogam-politicas-publicas-impactantes-na-vida-dos-cidadaos/",
+      "source": "ANGOP",
+      "_key": "db3154608b8d8945"
+    },
+    {
+      "title": "Government reaffirms commitment to young people",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-reafirma-aposta-na-inclusao-produtiva-dos-jovens/",
+      "source": "ANGOP",
+      "_key": "0413140735fbb563"
+    },
+    {
+      "title": "Nova Cimangola to build a cement factory in Cabinda",
+      "url": "https://www.angop.ao/en/noticias/economia/nova-cimangola-projecta-construcao-de-fabrica-de-cimento-em-cabinda/",
+      "source": "ANGOP",
+      "_key": "b2cde044fc5a49fc"
+    },
+    {
+      "title": "Industry",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5475",
+      "source": "ANGOP",
+      "_key": "2e63fad93a6fa4b3"
+    },
+    {
+      "title": "Huambo government reinforces farmers' engagement in production",
+      "url": "https://www.angop.ao/en/noticias/agricultura/governo-do-huambo-reforca-engajamento-dos-agricultores-na-producao/",
+      "source": "ANGOP",
+      "_key": "81c2601d29eefe77"
+    },
+    {
+      "title": "Expo Cabinda 2026: 25 startups confirmed",
+      "url": "https://www.angop.ao/en/noticias/economia/vinte-e-cinco-startup-confirmadas-na-expo-cabinda-2026/",
+      "source": "ANGOP",
+      "_key": "5fca559a1fd5b0cf"
+    },
+    {
+      "title": "Federation reaffirms commitment to mass promotion of Taekwondo",
+      "url": "https://www.angop.ao/en/noticias/desporto/fat-reafirma-compromisso-com-a-massificacao-do-taekwondo/",
+      "source": "ANGOP",
+      "_key": "6da2d002f14cd851"
+    },
+    {
+      "title": "2027 State Budget prioritises ongoing public projects in Huíla Province",
+      "url": "https://www.angop.ao/en/noticias/economia/oge-2027-prioriza-projectos-publicos-em-curso-na-huila/",
+      "source": "ANGOP",
+      "_key": "c72751daec9352e1"
+    },
+    {
+      "title": "Exhibitors confirm presence at Cabinda fair",
+      "url": "https://www.angop.ao/en/noticias/economia/expositores-confirmam-presenca-na-feira-de-cabinda/",
+      "source": "ANGOP",
+      "_key": "5e27f53662941ed9"
+    },
+    {
+      "title": "Investigation service arrests suspects in robbery of a bank branch in Luanda",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-suspeitos-do-assalto-da-agencia-bancaria-na-cidadela/",
+      "source": "ANGOP",
+      "_key": "c823f00e5ff5d41c"
+    },
+    {
+      "title": "Governo arranca com levantamento nacional de prédios abandonados e obras paralisadas",
+      "url": "https://angola24horas.com/component/k2/item/34950-governo-arranca-com-levantamento-nacional-de-predios-abandonados-e-obras-paralisadas",
+      "source": "Angola 24 Horas",
+      "_key": "99ebb1f3d7447634"
+    },
+    {
+      "title": "UNITA acusa MPLA de usar escolas para mobilizar alunos e professores para comícios",
+      "url": "https://angola24horas.com/component/k2/item/34952-unita-acusa-mpla-de-usar-escolas-para-mobilizar-alunos-e-professores-para-comicios",
+      "source": "Angola 24 Horas",
+      "_key": "542910d7dcfa46a0"
+    },
+    {
+      "title": "UNITA denuncia 19.000 “salas de aula” debaixo de árvores em Angola",
+      "url": "https://angola24horas.com/politica/item/34951-unita-denuncia-19-000-salas-de-aula-debaixo-de-arvores-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "57813d1cef072047"
+    },
+    {
+      "title": "Ministro apela ao fim do consumo de \"carros sucata\" para incentivar indústria automóvel local",
+      "url": "https://angola24horas.com/sociedade/item/34949-ministro-apela-ao-fim-do-consumo-de-carros-sucata-para-incentivar-industria-automovel-local",
+      "source": "Angola 24 Horas",
+      "_key": "e61d1b2a243c467c"
+    },
+    {
+      "title": "Adalberto Costa Júnior: “Nenhuma instituição do Estado está acima da dignidade cultural de um povo”",
+      "url": "https://angola24horas.com/politica/item/34948-adalberto-costa-junior-nenhuma-instituicao-do-estado-esta-acima-da-dignidade-cultural-de-um-povo",
+      "source": "Angola 24 Horas",
+      "_key": "13fe2c2391cd543a"
+    },
+    {
+      "title": "Duas mulheres detidas ao tentarem trocar dois milhões de dólares falsos",
+      "url": "https://angola24horas.com/sociedade/item/34947-duas-mulheres-detidas-ao-tentarem-trocar-dois-milhoes-de-dolares-falsos",
+      "source": "Angola 24 Horas",
+      "_key": "2972bd3df501a726"
+    },
+    {
+      "title": "Crise no Cazombo: PRA-JA condena confrontos e pede respeito pelas tradições",
+      "url": "https://angola24horas.com/politica/item/34946-crise-no-cazombo-pra-ja-condena-confrontos-e-pede-respeito-pelas-tradicoes",
+      "source": "Angola 24 Horas",
+      "_key": "46ae75f7cf033890"
+    },
+    {
+      "title": "A extinção da Cimangola-U.E.E: problemática, fundamentos e implicações para o interesse público",
+      "url": "https://angola24horas.com/opiniao/item/34944-a-extincao-da-cimangola-u-e-e-problematica-fundamentos-e-implicacoes-para-o-interesse-publico",
+      "source": "Angola 24 Horas",
+      "_key": "7bd2b486bef58560"
+    },
+    {
+      "title": "Segurança Nacional: a disciplina castrense e a necessidade de dignidade aos policiais e militares",
+      "url": "https://angola24horas.com/opiniao/item/34943-seguranca-nacional-a-disciplina-castrense-e-a-necessidade-de-dignidade-aos-policiais-e-militares",
+      "source": "Angola 24 Horas",
+      "_key": "9616d3029dcd2368"
+    },
+    {
+      "title": "Dívida pública angolana: Qual é o legado que deixaremos para as gerações futuras?",
+      "url": "https://angola24horas.com/opiniao/item/34928-divida-publica-angolana-qual-e-o-legado-que-deixaremos-para-as-geracoes-futuras",
+      "source": "Angola 24 Horas",
+      "_key": "b6d03cd86f72987a"
+    },
+    {
+      "title": "Angola passa a contar com Centro de Backup para proteger dados do Estado",
+      "url": "https://angola24horas.com/sociedade/item/34936-angola-passa-a-contar-com-centro-de-backup-para-proteger-dados-do-estado",
+      "source": "Angola 24 Horas",
+      "_key": "16bb2fddecbc68f1"
+    },
+    {
+      "title": "Novo regime de portagens em Angola prevê taxas entre 250 e 85 mil kwanzas",
+      "url": "https://angola24horas.com/sociedade/item/34927-novo-regime-de-portagens-em-angola-preve-taxas-entre-250-e-85-mil-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "3869a158aaada188"
+    },
+    {
+      "title": "BFA torna-se primeiro banco angolano com correspondência bancária com o Citibank",
+      "url": "https://angola24horas.com/economia/item/34939-bfa-torna-se-primeiro-banco-angolano-com-correspondencia-bancaria-com-o-citibank",
+      "source": "Angola 24 Horas",
+      "_key": "f5166d249463880b"
+    },
+    {
+      "title": "Kilamba Kiaxi prepara requalificação de 56 quilómetros no Bairro Palanca",
+      "url": "https://correiokianda.info/kilamba-kiaxi-prepara-requalificacao-de-56-quilometros-no-bairro-palanca/",
+      "source": "Correio Kianda",
+      "_key": "93b781a7f745f717"
+    },
+    {
+      "title": "“África deve transformar decisões políticas em mecanismos efectivos de prevenção e resolução de conflitos”, diz analista",
+      "url": "https://correiokianda.info/africa-deve-transformar-decisoes-politicas-em-mecanismos-efectivos-de-prevencao-e-resolucao-de-conflitos-diz-analista/",
+      "source": "Correio Kianda",
+      "_key": "414f7bf805652a29"
+    },
+    {
+      "title": "Angola vai fornecer combustíveis, electricidade, peixe e sal à RDC",
+      "url": "https://correiokianda.info/angola-vai-fornecer-combustiveis-electricidade-peixe-e-sal-a-rdc/",
+      "source": "Correio Kianda",
+      "_key": "4353b888dc9557c0"
+    },
+    {
+      "title": "Abreu Capitão Bernardo pode ficar na liderança do PDP-ANA até 2027 sem novo congresso",
+      "url": "https://correiokianda.info/abreu-capitao-bernardo-pode-ficar-na-lideranca-do-pdp-ana-ate-2027-sem-novo-congresso/",
+      "source": "Correio Kianda",
+      "_key": "0e69fe682c418f42"
+    },
+    {
+      "title": "João Lourenço e Tshisekedi anunciam avanço decisivo no Corredor do Lobito para gerar empregos e impulsionar a indústria",
+      "url": "https://correiokianda.info/joao-lourenco-e-tshisekedi-anunciam-avanco-decisivo-no-corredor-do-lobito-para-gerar-empregos-e-impulsionar-a-industria/",
+      "source": "Correio Kianda",
+      "_key": "e305301598496f2c"
+    },
+    {
+      "title": "Economista antevê impactos económicos para famílias devido desvalorização do kwanza",
+      "url": "https://correiokianda.info/economista-anteve-impactos-economicos-para-familias-devido-desvalorizacao-do-kwanza/",
+      "source": "Correio Kianda",
+      "_key": "b957cce09e1516b5"
+    },
+    {
+      "title": "BNA denuncia nove plataformas que emprestam dinheiro online sem autorização",
+      "url": "https://correiokianda.info/bna-denuncia-nove-plataformas-que-emprestam-dinheiro-online-sem-autorizacao/",
+      "source": "Correio Kianda",
+      "_key": "c0088a2a2b83f139"
+    },
+    {
+      "title": "“Angola precisa produzir mais para acompanhar crescimento da população”, defendem especialistas",
+      "url": "https://correiokianda.info/angola-precisa-produzir-mais-para-acompanhar-crescimento-da-populacao-defendem-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "f0b90b80874cf463"
+    },
+    {
+      "title": "Veículos pesados em Angola passam a pagar até 7 mil kwanzas nas portagens",
+      "url": "https://correiokianda.info/veiculos-pesados-em-angola-passam-a-pagar-ate-7-mil-kwanzas-nas-portagens/",
+      "source": "Correio Kianda",
+      "_key": "c7f54888e1e39f32"
+    },
+    {
+      "title": "Sindicato dos Enfermeiros alerta para doenças associadas ao saneamento deficiente",
+      "url": "https://correiokianda.info/sindicato-dos-enfermeiros-alerta-para-doencas-associadas-ao-saneamento-deficiente/",
+      "source": "Correio Kianda",
+      "_key": "45f65dc6226ae9c9"
+    },
+    {
+      "title": "Descuido dos peões agrava risco de atropelamentos em Luanda",
+      "url": "https://correiokianda.info/descuido-dos-peoes-agrava-risco-de-atropelamentos-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "97a1cef43c8faa2a"
+    },
+    {
+      "title": "Sociólogo aponta falta de emprego como causa do elevado número de candidatos ao concurso da Saúde",
+      "url": "https://correiokianda.info/sociologo-aponta-falta-de-emprego-como-causa-do-elevado-numero-de-candidatos-ao-concurso-da-saude/",
+      "source": "Correio Kianda",
+      "_key": "21d747984dafa987"
+    },
+    {
+      "title": "Angola cilindra RDC e entra com autoridade na corrida ao Mundial",
+      "url": "https://correiokianda.info/angola-cilindra-rdc-e-entra-com-autoridade-na-corrida-ao-mundial/",
+      "source": "Correio Kianda",
+      "_key": "d0b9a31ed3afc6a9"
+    },
+    {
+      "title": "Desporto-ciência reúne crianças e adolescentes de várias regiões em Luanda",
+      "url": "https://correiokianda.info/desporto-ciencia-reune-criancas-e-adolescentes-de-varias-regioes-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "d288f037557fc19b"
+    },
+    {
+      "title": "Angolano Chico Banza abre caminho para goleada do Zamalek",
+      "url": "https://correiokianda.info/angolano-chico-banza-abre-caminho-para-goleada-do-zamalek/",
+      "source": "Correio Kianda",
+      "_key": "b4f3733afdd72f56"
+    },
+    {
+      "title": "Petro de Luanda goleia Libolo e chega aos quatro pontos no Girabola",
+      "url": "https://correiokianda.info/petro-de-luanda-goleia-libolo-e-chega-aos-quatro-pontos-no-girabola/",
+      "source": "Correio Kianda",
+      "_key": "f2cb794109cc7ca9"
+    },
+    {
+      "title": "Portugal aposta em avançado luso-angolano que esteve no radar dos Palanquinhas",
+      "url": "https://correiokianda.info/portugal-aposta-em-avancado-luso-angolano-que-esteve-no-radar-dos-palanquinhas/",
+      "source": "Correio Kianda",
+      "_key": "abd951970e01cd6e"
+    },
+    {
+      "title": "        África8 horas atrás  “União Africana precisa de mecanismos mais fortes para fazer cumprir sanções”, afirma especialista A União Africana precisa de reforçar os mecanismos de aplicação das suas decisões para garantir o cumprimento efectivo das sanções impostas aos Estados-membros, defende o especialista...   ",
+      "url": "https://correiokianda.info/uniao-africana-precisa-de-mecanismos-mais-fortes-para-fazer-cumprir-sancoes-afirma-especialista/",
+      "source": "Correio Kianda",
+      "_key": "b0f71371e479e8bc"
+    },
+    {
+      "title": "João Lourenço e Tshisekedi reforçam parceria no Corredor do Lobito com novo contrato na RDC",
+      "url": "https://diariodosnegocios.com/joao-lourenco-e-tshisekedi-reforcam-parceria-no-corredor-do-lobito-com-novo-contrato-na-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "d1534e467f2dc2f3"
+    },
+    {
+      "title": "João Lourenço felicita Ucrânia pelos 35 anos de independência",
+      "url": "https://diariodosnegocios.com/joao-lourenco-felicita-ucrania-pelos-35-anos-de-independencia/",
+      "source": "Diário dos Negócios",
+      "_key": "502c5041f5ad0cfc"
+    },
+    {
+      "title": "Obras da Colecção ENSA-Arte passam a integrar acervo do Palácio de Convenções de Luanda",
+      "url": "https://diariodosnegocios.com/obras-da-coleccao-ensa-arte-passam-a-integrar-acervo-do-palacio-de-convencoes-de-luanda/",
+      "source": "Diário dos Negócios",
+      "_key": "58dcaaae1c2a5013"
+    },
+    {
+      "title": "BNA alerta: nove aplicações e entidades não estão autorizadas a conceder crédito",
+      "url": "https://diariodosnegocios.com/bna-alerta-nove-aplicacoes-e-entidades-nao-estao-autorizadas-a-conceder-credito/",
+      "source": "Diário dos Negócios",
+      "_key": "0b478f458d3af7e3"
+    },
+    {
+      "title": "Ministro Rui Miguêns defende limitação na importação de viaturas usadas para impulsionar indústria nacional",
+      "url": "https://diariodosnegocios.com/ministro-rui-miguens-defende-limitacao-na-importacao-de-viaturas-usadas-para-impulsionar-industria-nacional/",
+      "source": "Diário dos Negócios",
+      "_key": "50bfbcd9cfc41e6a"
+    },
+    {
+      "title": "Corredor do Lobito: RDC e Mota-Engil assinam contrato para extensão da malha ferroviária",
+      "url": "https://diariodosnegocios.com/corredor-do-lobito-rdc-e-mota-engil-assinam-contrato-para-extensao-da-malha-ferroviaria/",
+      "source": "Diário dos Negócios",
+      "_key": "ed2990ea97f08f58"
+    },
+    {
+      "title": "Declarações À Imprensa Do Presidente Da República, João Lourenço Em Kinshasa",
+      "url": "https://diariodosnegocios.com/declaracoes-a-imprensa-do-presidente-da-republica-joao-lourenco-em-kinshasa/",
+      "source": "Diário dos Negócios",
+      "_key": "52336c1bfd9fb191"
+    },
+    {
+      "title": "Presidente João Lourenço regressa a Luanda após visita de trabalho à RDC",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-regressa-a-luanda-apos-visita-de-trabalho-a-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "0b595f2bb252fe7c"
+    },
+    {
+      "title": "Angola vai exportar combustível, energia e pescado para a RD Congo",
+      "url": "https://diariodosnegocios.com/angola-vai-exportar-combustivel-energia-e-pescado-para-a-rd-congo/",
+      "source": "Diário dos Negócios",
+      "_key": "70d38989118aca1e"
+    },
+    {
+      "title": "Ano parlamentar chega ao fim com 47 leis aprovadas ainda por publicar em Diário da República",
+      "url": "https://expansao.co.ao/angola/detalhe/ano-parlamentar-chega-ao-fim-com-47-leis-aprovadas-ainda-por-publicar-em-dr-74118.html",
+      "source": "Expansão",
+      "_key": "f70e91c537c797fd"
+    },
+    {
+      "title": "Penetração dos seguros recua para 0,5% e afasta-se da meta dos 3%",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1fd5fe766013d2"
+    },
+    {
+      "title": "Estabilidade monetária | Angola perante a África Subsariana e o mundo",
+      "url": "https://expansao.co.ao/analise/detalhe/estabilidade-monetaria-angola-perante-a-africa-subsariana-e-o-mundo-74217.html",
+      "source": "Expansão",
+      "_key": "d0176473158680bf"
+    },
+    {
+      "title": "A implementação das normas internacionais de contabilidade do sector público: desafios e perspectivas",
+      "url": "https://forbesafricalusofona.com/a-implementacao-das-normas-internacionais-de-contabilidade-do-sector-publico-desafios-e-perspectivas/",
+      "source": "Forbes África",
+      "_key": "a8090e549c110926"
+    },
+    {
+      "title": "A transformação digital começa antes da tecnologia",
+      "url": "https://forbesafricalusofona.com/a-transformacao-digital-comeca-antes-da-tecnologia/",
+      "source": "Forbes África",
+      "_key": "4cb290143bf86f0e"
+    },
+    {
+      "title": "Inflação do critério no uso de IA",
+      "url": "https://forbesafricalusofona.com/inflacao-do-criterio-no-uso-de-ia/",
+      "source": "Forbes África",
+      "_key": "8389847394c28074"
+    },
+    {
+      "title": "Empresa canadiana JCM Power vai desenvolver central solar fotovoltaica em Moçambique",
+      "url": "https://forbesafricalusofona.com/empresa-canadiana-jcm-power-vai-desenvolver-central-solar-fotovoltaica-em-mocambique/",
+      "source": "Forbes África",
+      "_key": "9b5889201956f157"
+    },
+    {
+      "title": "Exploração de petróleo e gás rendem 50,49 milhões USD a Moçambique 1° no primeiro semestre",
+      "url": "https://forbesafricalusofona.com/exploracao-de-petroleo-e-gas-rendem-5049-milhoes-usd-a-mocambique-1-no-primeiro-semestre/",
+      "source": "Forbes África",
+      "_key": "16ab574cf32e013d"
+    },
+    {
+      "title": "Pensão mínima em São Tomé e Príncipe vai subir quase 8 euros",
+      "url": "https://forbesafricalusofona.com/pensao-minima-em-sao-tome-e-principe-vai-subir-quase-8-euros/",
+      "source": "Forbes África",
+      "_key": "c66f3d074a273da5"
+    },
+    {
+      "title": "Faleceu o capitão do navio que assegurou ligação entre as ilhas cabo-verdianas",
+      "url": "https://forbesafricalusofona.com/faleceu-o-capitao-do-navio-que-assegurou-ligacao-entre-as-ilhas-cabo-verdianas/",
+      "source": "Forbes África",
+      "_key": "27e15cbdb3539057"
+    },
+    {
+      "title": "Angolano detido em Portugal é extraditado por envolvimento em ataques informáticos a instituições bancárias",
+      "url": "https://forbesafricalusofona.com/angolano-detido-em-portugal-e-extraditado-por-envolvimento-em-ataques-informaticos-a-instituicoes-bancarias/",
+      "source": "Forbes África",
+      "_key": "b16f15821cf3b76b"
+    },
+    {
+      "title": "Angola vai vender energia eléctrica à República Democrática do Congo",
+      "url": "https://forbesafricalusofona.com/angola-vai-vender-energia-electrica-a-republica-democratica-do-congo/",
+      "source": "Forbes África",
+      "_key": "676ab246776a7e9a"
+    },
+    {
+      "title": "Nova plataforma digital vai promover profissionais e obras audiovisuais lusófonas",
+      "url": "https://forbesafricalusofona.com/nova-plataforma-digital-vai-promover-profissionais-e-obras-audiovisuais-lusofonas/",
+      "source": "Forbes África",
+      "_key": "4554538876f8a335"
+    },
+    {
+      "title": "Cabo Verde e China assinam acordo para reforçar cooperação no sector da comunicação social",
+      "url": "https://forbesafricalusofona.com/cabo-verde-e-china-assinam-acordo-para-reforcar-cooperacao-no-sector-da-comunicacao-social/",
+      "source": "Forbes África",
+      "_key": "3ced61f57b743755"
+    },
+    {
+      "title": "Guarda-redes cabo-verdiano Vozinha estreia-se em vitória do Colo-Colo na Taça",
+      "url": "https://forbesafricalusofona.com/guarda-redes-cabo-verdiano-vozinha-estreia-se-em-vitoria-do-colo-colo-na-taca/",
+      "source": "Forbes África",
+      "_key": "0f883b965d331b44"
+    },
+    {
+      "title": "Sector segurador moçambicano aumenta 3,5% em 2025",
+      "url": "https://forbesafricalusofona.com/sector-segurador-mocambicano-aumenta-35-em-2025/",
+      "source": "Forbes África",
+      "_key": "8d5f54f6d77622fb"
+    },
+    {
+      "title": "Guiné Equatorial e EUA negociam novas receitas para fortalecer sector não petrolíferoPorNapiri Lufania",
+      "url": "https://forbesafricalusofona.com/guine-equatorial-e-eua-negociam-novas-receitas-para-fortalecer-sector-nao-petrolifero/",
+      "source": "Forbes África",
+      "_key": "039128f72fe65ed8"
+    },
+    {
+      "title": "Testa de ferro de Joaquim Sebastião detido quando tentava viajar para Portugal",
+      "url": "https://holdonangola.com/testa-de-ferro-de-joaquim-sebastiao-detido-quando-tentava-viajar-para-portugal/",
+      "source": "Hold On Angola",
+      "_key": "d8ca150fd2b5ab38"
+    },
+    {
+      "title": "FLEC-FAC apela à União Africana para incluir a questão de Cabinda na agenda de paz",
+      "url": "https://holdonangola.com/flec-fac-apela-a-uniao-africana-para-incluir-a-questao-de-cabinda-na-agenda-de-paz/",
+      "source": "Hold On Angola",
+      "_key": "de339d13d730433a"
+    },
+    {
+      "title": "Brasil e Angola negociam acordo para desenvolver até 800 mil hectares agrícolas",
+      "url": "https://holdonangola.com/brasil-e-angola-negociam-acordo-para-desenvolver-ate-800-mil-hectares-agricolas/",
+      "source": "Hold On Angola",
+      "_key": "340aa6f5d4c14c22"
+    },
+    {
+      "title": "Vendedores de Cacuaco denunciam cobranças irregulares, abuso de…",
+      "url": "https://holdonangola.com/vendedores-de-cacuaco-denunciam-cobrancas-irregulares-abuso-de-poder-e-despedimentos/",
+      "source": "Hold On Angola",
+      "_key": "de39759f2abd8a95"
+    },
+    {
+      "title": "Acordo Angola-RDC para avançar com Corredor do Lobito",
+      "url": "https://holdonangola.com/acordo-angola-rdc-para-avancar-com-corredor-do-lobito/",
+      "source": "Hold On Angola",
+      "_key": "c52f1c840708ca0a"
+    },
+    {
+      "title": "ApexBrasil promove missão empresarial em Luanda para ampliar…",
+      "url": "https://holdonangola.com/apexbrasil-promove-missao-empresarial-em-luanda-para-ampliar-negocios-com-angola/",
+      "source": "Hold On Angola",
+      "_key": "1ec26be8014d4857"
+    },
+    {
+      "title": "A educação ambiental na perspectiva da ONG “Minuto Verde”: avaliação do impacto social de suas iniciativas comunitárias em Angola",
+      "url": "https://holdonangola.com/a-educacao-ambiental-na-perspectiva-da-ong-minuto-verde-avaliacao-do-impacto-social-de-suas-iniciativas-comunitarias-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "702a4cf922d87f9e"
+    },
+    {
+      "title": "«Quem convoca uma manifestação corre o risco de ser chamado de terrorista», diz líder da UNITA",
+      "url": "https://holdonangola.com/quem-convoca-uma-manifestacao-corre-o-risco-de-ser-chamado-de-terrorista-diz-lider-da-unita/",
+      "source": "Hold On Angola",
+      "_key": "83391f680b086970"
+    },
+    {
+      "title": "Morre em Luanda jornalista Octávio Kapapa da Rádio Nacional de Angola",
+      "url": "https://holdonangola.com/morre-em-luanda-jornalista-octavio-kapapa-da-radio-nacional-de-angola/",
+      "source": "Hold On Angola",
+      "_key": "5134c315315ebc8f"
+    },
+    {
+      "title": "Huambo é a Banda: quando reconhecer também é…",
+      "url": "https://holdonangola.com/huambo-e-a-banda-quando-reconhecer-tambem-e-um-acto-de-cidadania-nituecheni-africano/",
+      "source": "Hold On Angola",
+      "_key": "b64ee50c7c8a1377"
+    },
+    {
+      "title": "Angola e RDCongo fazem avançar principal infraestrutura do Corredor do Lobito",
+      "url": "https://jornaloguardiao.com/2026/08/27/angola-e-rdcongo-fazem-avancar-principal-infraestrutura-do-corredor-do-lobito/",
+      "source": "Jornal O Guardião",
+      "_key": "1ecbe07362ba1c98"
+    },
+    {
+      "title": "Quinta-feira, 27 de Agosto, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f7b6c92a97ea56"
+    },
+    {
+      "title": " Angola e RDCongo fazem avançar principal infraestrutura do Corredor do Lobito ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_0b51d42e5e2f88"
+    },
+    {
+      "title": "Ministério das Obras Públicas apresenta hoje novas taxas de portagemO Ministério das Obras Públicas, Urbanismo e Habitação apresenta, esta quinta-feira, em Luanda, as novas taxas de portagem da Rede Rodoviária Nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/684108/minist%C3%A9rio-das-obras-p%C3%BAblicas-apresenta-hoje-novas-taxas-de-portagem",
       "source": "Jornal de Angola",
-      "_key": "8de6618fb3ebd06b"
+      "_key": "26cfe9a80731f2b1"
     },
     {
-      "title": "Mundo26/08/2026Namíbia presta homenagem aos heróis da Independência",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684058/nam%C3%ADbia-presta-homenagem-aos-her%C3%B3is-da-independ%C3%AAncia",
+      "title": "João Lourenço considera decisivo acordo entre RDC e Mota-Engil O Presidente da República considerou, ontem, em Kinshasa, a assinatura dos acordos entre o Estado congolês e a Mota-Engil África um passo importante para o engajamento da República Democrática do Congo (RDC) no desenvolvimento do Corredor do Lobito e para a viabilização das exportações ao longo de toda a sua extensão.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684090/jo%C3%A3o-louren%C3%A7o-considera-decisivo-acordo-entre-rdc-e-mota-engil-",
       "source": "Jornal de Angola",
-      "_key": "bc7629dcd47c1916"
+      "_key": "f09e7988258d1000"
     },
     {
-      "title": "Mundo26/08/2026Implementação do cessar-fogo na RDC já está em observação ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684056/implementa%C3%A7%C3%A3o-do-cessar-fogo-na-rdc-j%C3%A1-est%C3%A1-em-observa%C3%A7%C3%A3o-",
+      "title": "Destaque Angola manifesta interesse em reforçar cooperação com Coreia do Sul no combate aos crimes cibernéticosO embaixador de Angola na Coreia do Sul, Sianga Abílio, defendeu o reforço da solidariedade e da cooperação internacional no combate aos crimes cibernéticos.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684087/angola-manifesta-interesse-em-refor%C3%A7ar-coopera%C3%A7%C3%A3o-com-coreia-do-sul-no-combate-aos-crimes-cibern%C3%A9ticos",
       "source": "Jornal de Angola",
-      "_key": "a060a578b36e3d6f"
+      "_key": "6694c08acd003e53"
     },
     {
-      "title": "DIIP detém em Luanda duas mulheres em posse de dois...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/diip-detem-em-luanda-duas-mulheres-em-posse-de-dois-milhoes-de-dolares-falsos-74213.html",
+      "title": "Destaque Angola e Brasil reforçam formação em oncologia pediátricaAngola e Brasil vão reforçar a cooperação técnica na área da oncologia pediátrica e dos cuidados paliativos, com o objectivo de aumentar a capacidade nacional de diagnóstico e tratamento do cancro infantil e melhorar a assistência aos pacientes em estado terminal.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684149/angola-e-brasil-refor%C3%A7am-forma%C3%A7%C3%A3o-em-oncologia-pedi%C3%A1trica",
+      "source": "Jornal de Angola",
+      "_key": "d1be928a246ea0a5"
+    },
+    {
+      "title": "Destaque Téte António coordena preparação de Angola para 81.ª Sessão da Assembleia Geral da ONUO ministro das Relações Exteriores, Téte António, presidiu, esta quinta-feira, em Luanda, a uma reunião de coordenação interministerial sobre a participação de Angola na 81.ª Sessão da Assembleia Geral das Nações Unidas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684129/t%C3%A9te-ant%C3%B3nio-coordena-prepara%C3%A7%C3%A3o-de-angola-para-81.%C2%AA-sess%C3%A3o-da-assembleia-geral-da-onu",
+      "source": "Jornal de Angola",
+      "_key": "cdd1ebda24d1c8c1"
+    },
+    {
+      "title": "Política Mara Quiosa avalia organização dos comités municipais do MPLA em Viana e Kilamba ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684154/mara-quiosa-avalia-organiza%C3%A7%C3%A3o-dos-comit%C3%A9s-municipais-do-mpla-em-viana-e-kilamba",
+      "source": "Jornal de Angola",
+      "_key": "3aa8a01d77872869"
+    },
+    {
+      "title": "Cultura Kanguimbu Ananaz lança “Útero do Universo” em Lisboa ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/684152/kanguimbu-ananaz-lan%C3%A7a-%E2%80%9C%C3%BAtero-do-universo%E2%80%9D-em-lisboa",
+      "source": "Jornal de Angola",
+      "_key": "ef2ea745a232ee9d"
+    },
+    {
+      "title": "Economia Angola acolhe pela primeira vez prémio que valoriza capital humano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684151/angola-acolhe-pela-primeira-vez-pr%C3%A9mio-que-valoriza-capital-humano",
+      "source": "Jornal de Angola",
+      "_key": "44f71e9e22cd9558"
+    },
+    {
+      "title": "Sociedade Angola e Namíbia reforçam cooperação no combate aos crimes ambientais ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684148/angola-e-nam%C3%ADbia-refor%C3%A7am-coopera%C3%A7%C3%A3o-no-combate-aos-crimes-ambientais",
+      "source": "Jornal de Angola",
+      "_key": "eefc3e61194e5f7e"
+    },
+    {
+      "title": "Mundo Uganda encerra surto de Ebola após 42 dias sem novos casos ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684147/uganda-encerra-surto-de-ebola-ap%C3%B3s-42-dias-sem-novos-casos",
+      "source": "Jornal de Angola",
+      "_key": "8bc4a4982462e364"
+    },
+    {
+      "title": "Sociedade Especialistas destacam expansão feminina no mercado de trabalho ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684125/especialistas-destacam-expans%C3%A3o--feminina-no-mercado-de-trabalho",
+      "source": "Jornal de Angola",
+      "_key": "0ab0e9d7aa59215a"
+    },
+    {
+      "title": "Sociedade Padre Católico destaca Muxima como modelo de fé e respeito ao próximo ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684122/padre-cat%C3%B3lico-destaca-muxima-como-modelo-de-f%C3%A9-e-respeito-ao-pr%C3%B3ximo",
+      "source": "Jornal de Angola",
+      "_key": "e6d253737152ea9b"
+    },
+    {
+      "title": "Sociedade Francisco da Cruz visita Edições Novembro ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684119/francisco-da-cruz-visita-edi%C3%A7%C3%B5es-novembro",
+      "source": "Jornal de Angola",
+      "_key": "0cae48d2f651fc13"
+    },
+    {
+      "title": "Economia Expo-Huíla 2026 movimenta mil milhões em negociações ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684111/expo-hu%C3%ADla-2026-movimenta--mil-milh%C3%B5es-em-negocia%C3%A7%C3%B5es---",
+      "source": "Jornal de Angola",
+      "_key": "b623f90287aebcbb"
+    },
+    {
+      "title": "Sociedade Detido no Kilamba pai acusado de agredir e provocar morte do filho de três anos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684101/detido-no-kilamba-pai-acusado-de-agredir-e-provocar-morte-do-filho-de-tr%C3%AAs-anos",
+      "source": "Jornal de Angola",
+      "_key": "a8350d2ff1753f3a"
+    },
+    {
+      "title": "Mundo Inundações no Nepal deixam 289 mortos e 644 turistas desaparecidos ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684098/inunda%C3%A7%C3%B5es-no-nepal-deixam-289-mortos-e-644-turistas-desaparecidos",
+      "source": "Jornal de Angola",
+      "_key": "2cbf38076cd96fc5"
+    },
+    {
+      "title": "12:41 / 27 ago. 2026 Embaixador japonês pede atenção aos crimes fiscais ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684120/embaixador-japon%C3%AAs-pede--aten%C3%A7%C3%A3o-aos-crimes-fiscais--",
+      "source": "Jornal de Angola",
+      "_key": "ac3ba4149aa0ea09"
+    },
+    {
+      "title": "Destaque João Lourenço e Félix Tshisekedi reúnem-se em KinshasaO Chefe de Estado, João Lourenço, reuniu-se, esta quarta-feira, em Kinshasa, com o seu homólogo da República Democrática do Congo (RDC), Félix Tshisekedi.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684079/jo%C3%A3o-louren%C3%A7o-e-f%C3%A9lix-tshisekedi-re%C3%BAnem-se-em-kinshasa",
+      "source": "Jornal de Angola",
+      "_key": "0a7dea890be909da"
+    },
+    {
+      "title": "Mundo27/08/2026Vice-Presidente apresenta demissão",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684127/vice-presidente--apresenta-demiss%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "e686d0734c6c038f"
+    },
+    {
+      "title": "Mundo27/08/2026EUA pede extensão do embargo de armas",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684126/eua-pede-extens%C3%A3o--do-embargo-de-armas",
+      "source": "Jornal de Angola",
+      "_key": "d4b5e22f9d94d067"
+    },
+    {
+      "title": "Última hora Campanha de saúde ocular prevê atender até 300 pessoas em Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684086/campanha-de-sa%C3%BAde-ocular-prev%C3%AA-atender-at%C3%A9-300-pessoas-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "fde536c8f95ce2e6"
+    },
+    {
+      "title": "Última hora Presidente da República regressa a Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684084/presidente-da-rep%C3%BAblica-regressa-a-luanda",
+      "source": "Jornal de Angola",
+      "_key": "075ea599386bd3c3"
+    },
+    {
+      "title": "Menor foi à obito - Jovem de 22 anos e a filha de 1 ano queimadas com chá quente durante desavença com uma vizinha por causa de 200 KZ - Pai da criança em retaliação jogou gasolina e fogo no peito do marido da agressora",
+      "url": "https://namiradocrime.info/show/17357",
+      "source": "Na Mira do Crime",
+      "_key": "75b0bc974ef28de5"
+    },
+    {
+      "title": "Aumenta custos com pessoal apesar da quebra nas receitas - ZEE fechou o exercício financeiro de 2025 com prejuízo de 6,5 biliões de kwanzas",
+      "url": "https://namiradocrime.info/show/17356",
+      "source": "Na Mira do Crime",
+      "_key": "03199fd8fb81f47a"
+    },
+    {
+      "title": "“Os UK”, “Os Mascarados” E “Bons do Mundo\" - SIC \"varre\" Malanje e captura criminosos que roubavam com catanas, facas, machados e espada",
+      "url": "https://namiradocrime.info/show/17355",
+      "source": "Na Mira do Crime",
+      "_key": "a475d0ab8be8d219"
+    },
+    {
+      "title": "Guardiões das fronteiras de Angola: Comandante-Geral destaca importância da PGF no seu 48.° aniversário",
+      "url": "https://namiradocrime.info/show/17354",
+      "source": "Na Mira do Crime",
+      "_key": "3f37e2313f498d14"
+    },
+    {
+      "title": "No Belo Horizonte: Jovem teve o rosto desfigurado por se recusar a repetir uma música na sua roullot - Muteba e a sua gangue dizem que mandam no bairro e 'são intocáveis'",
+      "url": "https://namiradocrime.info/show/17353",
+      "source": "Na Mira do Crime",
+      "_key": "3285608c38dd4df8"
+    },
+    {
+      "title": "Família está desesperada - Cidadã de 58 anos de idade com problemas no fígado precisa de ajuda para se tratar no exterior do país",
+      "url": "https://namiradocrime.info/show/17352",
+      "source": "Na Mira do Crime",
+      "_key": "82e224719628a9bf"
+    },
+    {
+      "title": "“Da Jotita”, “Do Pôster”, “De Jota”, “Salamaleco”, “Betinho Lembido”, \"Tchu N\", \"Tchu F\", “Mana Fina” e “Burro que Estudou” - População nos Mulenvos \"implora\" que à Polícia \"elimine\" os grupos \"UTT de Matar de Cima\" e \"UTT de Matar de Baixo\"",
+      "url": "https://namiradocrime.info/show/17351",
+      "source": "Na Mira do Crime",
+      "_key": "40a6964c0a31fb33"
+    },
+    {
+      "title": "Buscas do DIIP no condomínio \"Boa Vida\" descobre esquema que pretendia colocar em circulação mais de 2 milhões de dólares falsos",
+      "url": "https://namiradocrime.info/show/17350",
+      "source": "Na Mira do Crime",
+      "_key": "6970b777dfdb741b"
+    },
+    {
+      "title": "Larissa Canjundo: Tão bela quanto perigosa: Sabia exactamente o que queria com às vítimas e não brincava em acção - Tinder era o seu local preferido de \"pesca\"",
+      "url": "https://namiradocrime.info/show/17349",
+      "source": "Na Mira do Crime",
+      "_key": "9776ee34185e70ff"
+    },
+    {
+      "title": "Validação de candidaturas ao cargo do 1º secretário...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/validacao-de-candidaturas-ao-cargo-do-1-secretario-do-mpla-em-curso-sem-duplas-candidaturas-74223.html",
       "source": "Novo Jornal",
-      "_key": "5f84de80d62be1e9"
+      "_key": "826ad58ca46b6f78"
     },
     {
-      "title": "Benguela no \"pré-pago\" para reduzir desperdício de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html",
+      "title": "UNITA acusa MPLA de instrumentalizar escolas para mobilização...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/unita-acusa-mpla-de-instrumentalizar-escolas-para-mobilizacao-de-alunos-e-docentes-para-comicios-74235.html",
       "source": "Novo Jornal",
-      "_key": "78f5ada4b08a8611"
+      "_key": "dd5c26ed96c97b55"
+    },
+    {
+      "title": "Angola e RDC fazem avançar principal infra-estrutura...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-e-rdc-fazem-avancar-principal-infraestrutura-do-corredor-do-lobito-74224.html",
+      "source": "Novo Jornal",
+      "_key": "11d091909e7a5483"
+    },
+    {
+      "title": "PN detém no Ebo jovem suspeita de abortar gravidez...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pn-detem-no-ebo-jovem-suspeita-de-abortar-gravidez-de-sete-meses-e-homem-por-alegadamente-matar-ex-mulher-a-catanada-74237.html",
+      "source": "Novo Jornal",
+      "_key": "f7efb6dff4a41ba2"
+    },
+    {
+      "title": "Situação das portagens conhecida esta quinta-feira...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/situacao-das-portagens-conhecida-esta-quinta-feira-em-luanda-74225.html",
+      "source": "Novo Jornal",
+      "_key": "8fd439475dc26f40"
+    },
+    {
+      "title": "PGR anuncia extradição de Portugal de angolano suspeito...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pgr-anuncia-extradicao-de-portugal-de-angolano-suspeito-de-desvio-de-fundos-atraves-de-manipulacao-informatica-74233.html",
+      "source": "Novo Jornal",
+      "_key": "78e2b99110ac315d"
+    },
+    {
+      "title": "Rússia/Ucrânia: Visita do director da CIA a Moscovo...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/russiaucrania-visita-do-director-da-cia-a-moscovo-permanece-por-explicar-mas-ha-sinais-que-apontam-para-o-pior-cenario-analise-74228.html",
+      "source": "Novo Jornal",
+      "_key": "4365e4c1a087d5af"
+    },
+    {
+      "title": "Ásia: Colapso de glaciar milenar gera inundações gigantescas...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/asia-colapso-de-glaciar-milenar-gera-inundacoes-gigantescas-na-fronteira-entre-a-china-e-o-nepal-milhares-de-pessoas-arrastadas-pela-corrente-de-agua-gelo-e-lama-74220.html",
+      "source": "Novo Jornal",
+      "_key": "3a3d62d302a8c44b"
+    },
+    {
+      "title": "Agropecuária kambondo: dia de campo e muito mais",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/agropecuaria-kambondo-dia-de-campo-e-muito-mais-74221.html",
+      "source": "Novo Jornal",
+      "_key": "e819e588273254ad"
+    },
+    {
+      "title": "FÓRUM MARGINAL: O DEBATE QUE ESCLARECE E DÁ VOZ À SOCIEDADE. Um espaço que analisa temas de grande impacto social, reunindo especialistas para promover uma discussão séria, plural e esclarecedora.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=74232",
+      "source": "Novo Jornal",
+      "_key": "b819a8c3bdcb2770"
+    },
+    {
+      "title": "FÓRMULA DE SUCESSO: PROFISSÕES ANTIGAS E A MODERNIZAÇÃO. Oportunidades da Semana - Cursos & Especializações: Centro de Formação Profissional Visão Magna.Com Adilson Leal.",
+      "url": "https://marginal.co.ao/programas/formula-de-sucesso?ep=74215",
+      "source": "Novo Jornal",
+      "_key": "bd173a99382b0258"
+    },
+    {
+      "title": "Detido segurança após alegadamente aplicar três injecções letais ao filho de três anos no Kilamba Kiaxi",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-seguranca-apos-alegadamente-aplicar-tres-injeccoes-letais-ao-filho-de-tres-anos-no-kilamba-kiaxi-74227.html",
+      "source": "Novo Jornal",
+      "_key": "c4878b737ebd9656"
+    },
+    {
+      "title": "PRA-JA Servir Angola defende abertura de novo capítulo na história do País",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pra-ja-servir-angola-defende-abertura-de-novo-capitulo-na-historia-do-pais-74222.html",
+      "source": "Novo Jornal",
+      "_key": "744048cd856ac062"
+    },
+    {
+      "title": "Governo autoriza 188 mil milhões de kwanzas para requalificação do...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-188-mil-milhoes-de-kwanzas-para-requalificacao-do-bairro-palanca",
+      "source": "Valor Económico",
+      "_key": "2efb2a9113529e95"
+    },
+    {
+      "title": "Executivo prevê arrecadar mais de 35,2 milhões de kwanzas com...",
+      "url": "https://valoreconomico.co.ao/artigo/executivo-preve-arrecadar-mais-de-35-2-milhoes-de-kwanzas-com-cobrancas-de-portagens-anualmente",
+      "source": "Valor Económico",
+      "_key": "6f2323b7934ba2ea"
+    },
+    {
+      "title": "Prejuízos do entreposto aduaneiro de Angola recuam 98%, mas empresa...",
+      "url": "https://valoreconomico.co.ao/artigo/prejuizos-do-entreposto-aduaneiro-de-angola-recuam-98-mas-empresa-mantem-se-no-vermelho",
+      "source": "Valor Económico",
+      "_key": "27539fe70b576f09"
+    },
+    {
+      "title": "Gráfica arrestada pelo Estado afunda-se em prejuízos e perde mais...",
+      "url": "https://valoreconomico.co.ao/artigo/grafica-arrestada-pelo-estado-afunda-se-em-prejuizos-e-perde-mais-de-180-milhoes-em-2025",
+      "source": "Valor Económico",
+      "_key": "b5aed2fe8e3e308e"
+    },
+    {
+      "title": "Seca e conflitos deixam 6,5 milhões de somalis em insegurança alimentar",
+      "url": "https://valoreconomico.co.ao/artigo/seca-e-conflitos-deixam-6-5-milhoes-de-somalis-em-inseguranca-alimentar",
+      "source": "Valor Económico",
+      "_key": "b74516287515268d"
+    },
+    {
+      "title": "Empresas com prejuízo isentas do Imposto Industrial provisório, anuncia AGT",
+      "url": "https://valoreconomico.co.ao/artigo/empresas-com-prejuizo-isentas-do-imposto-industrial-provisorio-anuncia-agt",
+      "source": "Valor Económico",
+      "_key": "3d57c7390d768d7d"
+    },
+    {
+      "title": "BNA denuncia nove entidades por concessão ilegal de crédito",
+      "url": "https://valoreconomico.co.ao/artigo/bna-denuncia-nove-entidades-por-concessao-ilegal-de-credito",
+      "source": "Valor Económico",
+      "_key": "f926ca1c6eadb353"
+    },
+    {
+      "title": "Executivo vai 'correr' o país para identificar obras paralisadas e...",
+      "url": "https://valoreconomico.co.ao/artigo/executivo-vai-correr-o-pais-para-identificar-obras-paralisadas-e-predios-ao-abandono",
+      "source": "Valor Económico",
+      "_key": "cc77520869121758"
+    },
+    {
+      "title": "Carlos Rosado elogia transparência das privatizações, mas avisa que resultados...",
+      "url": "https://valoreconomico.co.ao/artigo/carlos-rosado-elogia-transparencia-das-privatizacoes-mas-avisa-que-resultados-economicos-continuam-aquem",
+      "source": "Valor Económico",
+      "_key": "36f3dee0a8638af8"
     }
   ]
 }

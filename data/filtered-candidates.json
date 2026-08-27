@@ -1,28 +1,504 @@
 {
-  "date": "2026-08-26",
-  "total_new": 11,
-  "total_filtered": 3,
+  "date": "2026-08-27",
+  "total_new": 151,
+  "total_filtered": 71,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Conflitos e ameaças à segurança dominam agenda da cimeira da União Africana",
-      "url": "https://correiokianda.info/conflitos-e-ameacas-a-seguranca-dominam-agenda-da-cimeira-da-uniao-africana/",
+      "title": "João Lourenço e Tshisekedi anunciam avanço decisivo no Corredor do Lobito para gerar empregos e impulsionar a indústria",
+      "url": "https://correiokianda.info/joao-lourenco-e-tshisekedi-anunciam-avanco-decisivo-no-corredor-do-lobito-para-gerar-empregos-e-impulsionar-a-industria/",
       "source": "Correio Kianda",
-      "_key": "ec22385c04aaa781",
+      "_key": "e305301598496f2c",
+      "score": 10
+    },
+    {
+      "title": "Economista antevê impactos económicos para famílias devido desvalorização do kwanza",
+      "url": "https://correiokianda.info/economista-anteve-impactos-economicos-para-familias-devido-desvalorizacao-do-kwanza/",
+      "source": "Correio Kianda",
+      "_key": "b957cce09e1516b5",
+      "score": 10
+    },
+    {
+      "title": "João Lourenço e Tshisekedi reforçam parceria no Corredor do Lobito com novo contrato na RDC",
+      "url": "https://diariodosnegocios.com/joao-lourenco-e-tshisekedi-reforcam-parceria-no-corredor-do-lobito-com-novo-contrato-na-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "d1534e467f2dc2f3",
+      "score": 10
+    },
+    {
+      "title": "Corredor do Lobito: RDC e Mota-Engil assinam contrato para extensão da malha ferroviária",
+      "url": "https://diariodosnegocios.com/corredor-do-lobito-rdc-e-mota-engil-assinam-contrato-para-extensao-da-malha-ferroviaria/",
+      "source": "Diário dos Negócios",
+      "_key": "ed2990ea97f08f58",
+      "score": 10
+    },
+    {
+      "title": "Acordo Angola-RDC para avançar com Corredor do Lobito",
+      "url": "https://holdonangola.com/acordo-angola-rdc-para-avancar-com-corredor-do-lobito/",
+      "source": "Hold On Angola",
+      "_key": "c52f1c840708ca0a",
+      "score": 10
+    },
+    {
+      "title": "Angola e RDCongo fazem avançar principal infraestrutura do Corredor do Lobito",
+      "url": "https://jornaloguardiao.com/2026/08/27/angola-e-rdcongo-fazem-avancar-principal-infraestrutura-do-corredor-do-lobito/",
+      "source": "Jornal O Guardião",
+      "_key": "1ecbe07362ba1c98",
+      "score": 10
+    },
+    {
+      "title": " Angola e RDCongo fazem avançar principal infraestrutura do Corredor do Lobito ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_0b51d42e5e2f88",
+      "score": 10
+    },
+    {
+      "title": "João Lourenço considera decisivo acordo entre RDC e Mota-Engil O Presidente da República considerou, ontem, em Kinshasa, a assinatura dos acordos entre o Estado congolês e a Mota-Engil África um passo importante para o engajamento da República Democrática do Congo (RDC) no desenvolvimento do Corredor do Lobito e para a viabilização das exportações ao longo de toda a sua extensão.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684090/jo%C3%A3o-louren%C3%A7o-considera-decisivo-acordo-entre-rdc-e-mota-engil-",
+      "source": "Jornal de Angola",
+      "_key": "f09e7988258d1000",
+      "score": 10
+    },
+    {
+      "title": "DRC sees Lobito Corridor as tool for economic sovereignty",
+      "url": "https://www.angop.ao/en/noticias/politica/rdc-considera-corredor-do-lobito-instrumento-de-soberania-economica/",
+      "source": "ANGOP",
+      "_key": "1c16711e4e562bba",
+      "score": 9
+    },
+    {
+      "title": "Head of State considers agreement on Lobito Corridor vital",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-considera-acordo-vital-para-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "cf16da436da765de",
+      "score": 9
+    },
+    {
+      "title": "Novo regime de portagens em Angola prevê taxas entre 250 e 85 mil kwanzas",
+      "url": "https://angola24horas.com/sociedade/item/34927-novo-regime-de-portagens-em-angola-preve-taxas-entre-250-e-85-mil-kwanzas",
+      "source": "Angola 24 Horas",
+      "_key": "3869a158aaada188",
+      "score": 9
+    },
+    {
+      "title": "Veículos pesados em Angola passam a pagar até 7 mil kwanzas nas portagens",
+      "url": "https://correiokianda.info/veiculos-pesados-em-angola-passam-a-pagar-ate-7-mil-kwanzas-nas-portagens/",
+      "source": "Correio Kianda",
+      "_key": "c7f54888e1e39f32",
+      "score": 9
+    },
+    {
+      "title": "Ministério das Obras Públicas apresenta hoje novas taxas de portagemO Ministério das Obras Públicas, Urbanismo e Habitação apresenta, esta quinta-feira, em Luanda, as novas taxas de portagem da Rede Rodoviária Nacional.",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/684108/minist%C3%A9rio-das-obras-p%C3%BAblicas-apresenta-hoje-novas-taxas-de-portagem",
+      "source": "Jornal de Angola",
+      "_key": "26cfe9a80731f2b1",
+      "score": 9
+    },
+    {
+      "title": "Angola e RDC fazem avançar principal infra-estrutura...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-e-rdc-fazem-avancar-principal-infraestrutura-do-corredor-do-lobito-74224.html",
+      "source": "Novo Jornal",
+      "_key": "11d091909e7a5483",
+      "score": 9
+    },
+    {
+      "title": "Empresas com prejuízo isentas do Imposto Industrial provisório, anuncia AGT",
+      "url": "https://valoreconomico.co.ao/artigo/empresas-com-prejuizo-isentas-do-imposto-industrial-provisorio-anuncia-agt",
+      "source": "Valor Económico",
+      "_key": "3d57c7390d768d7d",
+      "score": 9
+    },
+    {
+      "title": "Executivo vai 'correr' o país para identificar obras paralisadas e...",
+      "url": "https://valoreconomico.co.ao/artigo/executivo-vai-correr-o-pais-para-identificar-obras-paralisadas-e-predios-ao-abandono",
+      "source": "Valor Económico",
+      "_key": "cc77520869121758",
+      "score": 9
+    },
+    {
+      "title": "Infra-estrutura",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=88412",
+      "source": "ANGOP",
+      "_key": "6b1705f55072103b",
+      "score": 8
+    },
+    {
+      "title": "Nova Cimangola to build a cement factory in Cabinda",
+      "url": "https://www.angop.ao/en/noticias/economia/nova-cimangola-projecta-construcao-de-fabrica-de-cimento-em-cabinda/",
+      "source": "ANGOP",
+      "_key": "b2cde044fc5a49fc",
+      "score": 8
+    },
+    {
+      "title": "BFA torna-se primeiro banco angolano com correspondência bancária com o Citibank",
+      "url": "https://angola24horas.com/economia/item/34939-bfa-torna-se-primeiro-banco-angolano-com-correspondencia-bancaria-com-o-citibank",
+      "source": "Angola 24 Horas",
+      "_key": "f5166d249463880b",
+      "score": 8
+    },
+    {
+      "title": "Angola vai fornecer combustíveis, electricidade, peixe e sal à RDC",
+      "url": "https://correiokianda.info/angola-vai-fornecer-combustiveis-electricidade-peixe-e-sal-a-rdc/",
+      "source": "Correio Kianda",
+      "_key": "4353b888dc9557c0",
+      "score": 8
+    },
+    {
+      "title": "Ministro Rui Miguêns defende limitação na importação de viaturas usadas para impulsionar indústria nacional",
+      "url": "https://diariodosnegocios.com/ministro-rui-miguens-defende-limitacao-na-importacao-de-viaturas-usadas-para-impulsionar-industria-nacional/",
+      "source": "Diário dos Negócios",
+      "_key": "50bfbcd9cfc41e6a",
+      "score": 8
+    },
+    {
+      "title": "Angola vai exportar combustível, energia e pescado para a RD Congo",
+      "url": "https://diariodosnegocios.com/angola-vai-exportar-combustivel-energia-e-pescado-para-a-rd-congo/",
+      "source": "Diário dos Negócios",
+      "_key": "70d38989118aca1e",
+      "score": 8
+    },
+    {
+      "title": "Estabilidade monetária | Angola perante a África Subsariana e o mundo",
+      "url": "https://expansao.co.ao/analise/detalhe/estabilidade-monetaria-angola-perante-a-africa-subsariana-e-o-mundo-74217.html",
+      "source": "Expansão",
+      "_key": "d0176473158680bf",
+      "score": 8
+    },
+    {
+      "title": "Angola vai vender energia eléctrica à República Democrática do Congo",
+      "url": "https://forbesafricalusofona.com/angola-vai-vender-energia-electrica-a-republica-democratica-do-congo/",
+      "source": "Forbes África",
+      "_key": "676ab246776a7e9a",
+      "score": 8
+    },
+    {
+      "title": "Brasil e Angola negociam acordo para desenvolver até 800 mil hectares agrícolas",
+      "url": "https://holdonangola.com/brasil-e-angola-negociam-acordo-para-desenvolver-ate-800-mil-hectares-agricolas/",
+      "source": "Hold On Angola",
+      "_key": "340aa6f5d4c14c22",
+      "score": 8
+    },
+    {
+      "title": "Buscas do DIIP no condomínio \"Boa Vida\" descobre esquema que pretendia colocar em circulação mais de 2 milhões de dólares falsos",
+      "url": "https://namiradocrime.info/show/17350",
+      "source": "Na Mira do Crime",
+      "_key": "6970b777dfdb741b",
+      "score": 8
+    },
+    {
+      "title": "Prejuízos do entreposto aduaneiro de Angola recuam 98%, mas empresa...",
+      "url": "https://valoreconomico.co.ao/artigo/prejuizos-do-entreposto-aduaneiro-de-angola-recuam-98-mas-empresa-mantem-se-no-vermelho",
+      "source": "Valor Económico",
+      "_key": "27539fe70b576f09",
+      "score": 8
+    },
+    {
+      "title": "BNA denuncia nove entidades por concessão ilegal de crédito",
+      "url": "https://valoreconomico.co.ao/artigo/bna-denuncia-nove-entidades-por-concessao-ilegal-de-credito",
+      "source": "Valor Económico",
+      "_key": "f926ca1c6eadb353",
+      "score": 8
+    },
+    {
+      "title": "Angola Head of State announces joint oil exploration with DRC",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-anuncia-exploracao-conjunta-de-petroleo-com-a-rdc/",
+      "source": "ANGOP",
+      "_key": "52d452659725d884",
+      "score": 7
+    },
+    {
+      "title": "Angola promotes Business Forum on Mining in Australia",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-promove-forum-empresarial-sobre-minas-na-australia/",
+      "source": "ANGOP",
+      "_key": "7746f4e8636941eb",
+      "score": 7
+    },
+    {
+      "title": "Industry",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5475",
+      "source": "ANGOP",
+      "_key": "2e63fad93a6fa4b3",
+      "score": 7
+    },
+    {
+      "title": "2027 State Budget prioritises ongoing public projects in Huíla Province",
+      "url": "https://www.angop.ao/en/noticias/economia/oge-2027-prioriza-projectos-publicos-em-curso-na-huila/",
+      "source": "ANGOP",
+      "_key": "c72751daec9352e1",
+      "score": 7
+    },
+    {
+      "title": "Governo arranca com levantamento nacional de prédios abandonados e obras paralisadas",
+      "url": "https://angola24horas.com/component/k2/item/34950-governo-arranca-com-levantamento-nacional-de-predios-abandonados-e-obras-paralisadas",
+      "source": "Angola 24 Horas",
+      "_key": "99ebb1f3d7447634",
+      "score": 7
+    },
+    {
+      "title": "Ministro apela ao fim do consumo de \"carros sucata\" para incentivar indústria automóvel local",
+      "url": "https://angola24horas.com/sociedade/item/34949-ministro-apela-ao-fim-do-consumo-de-carros-sucata-para-incentivar-industria-automovel-local",
+      "source": "Angola 24 Horas",
+      "_key": "e61d1b2a243c467c",
+      "score": 7
+    },
+    {
+      "title": "A extinção da Cimangola-U.E.E: problemática, fundamentos e implicações para o interesse público",
+      "url": "https://angola24horas.com/opiniao/item/34944-a-extincao-da-cimangola-u-e-e-problematica-fundamentos-e-implicacoes-para-o-interesse-publico",
+      "source": "Angola 24 Horas",
+      "_key": "7bd2b486bef58560",
+      "score": 7
+    },
+    {
+      "title": "Dívida pública angolana: Qual é o legado que deixaremos para as gerações futuras?",
+      "url": "https://angola24horas.com/opiniao/item/34928-divida-publica-angolana-qual-e-o-legado-que-deixaremos-para-as-geracoes-futuras",
+      "source": "Angola 24 Horas",
+      "_key": "b6d03cd86f72987a",
+      "score": 7
+    },
+    {
+      "title": "Kilamba Kiaxi prepara requalificação de 56 quilómetros no Bairro Palanca",
+      "url": "https://correiokianda.info/kilamba-kiaxi-prepara-requalificacao-de-56-quilometros-no-bairro-palanca/",
+      "source": "Correio Kianda",
+      "_key": "93b781a7f745f717",
+      "score": 7
+    },
+    {
+      "title": "BNA denuncia nove plataformas que emprestam dinheiro online sem autorização",
+      "url": "https://correiokianda.info/bna-denuncia-nove-plataformas-que-emprestam-dinheiro-online-sem-autorizacao/",
+      "source": "Correio Kianda",
+      "_key": "c0088a2a2b83f139",
+      "score": 7
+    },
+    {
+      "title": "“Angola precisa produzir mais para acompanhar crescimento da população”, defendem especialistas",
+      "url": "https://correiokianda.info/angola-precisa-produzir-mais-para-acompanhar-crescimento-da-populacao-defendem-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "f0b90b80874cf463",
+      "score": 7
+    },
+    {
+      "title": "BNA alerta: nove aplicações e entidades não estão autorizadas a conceder crédito",
+      "url": "https://diariodosnegocios.com/bna-alerta-nove-aplicacoes-e-entidades-nao-estao-autorizadas-a-conceder-credito/",
+      "source": "Diário dos Negócios",
+      "_key": "0b478f458d3af7e3",
+      "score": 7
+    },
+    {
+      "title": "Declarações À Imprensa Do Presidente Da República, João Lourenço Em Kinshasa",
+      "url": "https://diariodosnegocios.com/declaracoes-a-imprensa-do-presidente-da-republica-joao-lourenco-em-kinshasa/",
+      "source": "Diário dos Negócios",
+      "_key": "52336c1bfd9fb191",
+      "score": 7
+    },
+    {
+      "title": "Presidente João Lourenço regressa a Luanda após visita de trabalho à RDC",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-regressa-a-luanda-apos-visita-de-trabalho-a-rdc/",
+      "source": "Diário dos Negócios",
+      "_key": "0b595f2bb252fe7c",
+      "score": 7
+    },
+    {
+      "title": "FLEC-FAC apela à União Africana para incluir a questão de Cabinda na agenda de paz",
+      "url": "https://holdonangola.com/flec-fac-apela-a-uniao-africana-para-incluir-a-questao-de-cabinda-na-agenda-de-paz/",
+      "source": "Hold On Angola",
+      "_key": "de339d13d730433a",
+      "score": 7
+    },
+    {
+      "title": "ApexBrasil promove missão empresarial em Luanda para ampliar…",
+      "url": "https://holdonangola.com/apexbrasil-promove-missao-empresarial-em-luanda-para-ampliar-negocios-com-angola/",
+      "source": "Hold On Angola",
+      "_key": "1ec26be8014d4857",
+      "score": 7
+    },
+    {
+      "title": "Aumenta custos com pessoal apesar da quebra nas receitas - ZEE fechou o exercício financeiro de 2025 com prejuízo de 6,5 biliões de kwanzas",
+      "url": "https://namiradocrime.info/show/17356",
+      "source": "Na Mira do Crime",
+      "_key": "03199fd8fb81f47a",
+      "score": 7
+    },
+    {
+      "title": "Situação das portagens conhecida esta quinta-feira...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/situacao-das-portagens-conhecida-esta-quinta-feira-em-luanda-74225.html",
+      "source": "Novo Jornal",
+      "_key": "8fd439475dc26f40",
+      "score": 7
+    },
+    {
+      "title": "Governo autoriza 188 mil milhões de kwanzas para requalificação do...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-188-mil-milhoes-de-kwanzas-para-requalificacao-do-bairro-palanca",
+      "source": "Valor Económico",
+      "_key": "2efb2a9113529e95",
+      "score": 7
+    },
+    {
+      "title": "Carlos Rosado elogia transparência das privatizações, mas avisa que resultados...",
+      "url": "https://valoreconomico.co.ao/artigo/carlos-rosado-elogia-transparencia-das-privatizacoes-mas-avisa-que-resultados-economicos-continuam-aquem",
+      "source": "Valor Económico",
+      "_key": "36f3dee0a8638af8",
+      "score": 7
+    },
+    {
+      "title": "Angola announces new era in relations with DRC",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-anuncia-nova-era-nas-relacoes-com-rdc/",
+      "source": "ANGOP",
+      "_key": "e5caf64121e2aa4f",
       "score": 6
     },
     {
-      "title": "Mundo26/08/2026Implementação do cessar-fogo na RDC já está em observação ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684056/implementa%C3%A7%C3%A3o-do-cessar-fogo-na-rdc-j%C3%A1-est%C3%A1-em-observa%C3%A7%C3%A3o-",
+      "title": "MAPTESS",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=65420",
+      "source": "ANGOP",
+      "_key": "81f535e1d65cf622",
+      "score": 6
+    },
+    {
+      "title": "Congo's Tshisekedi envisages Angola-DRC border as a space of cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/tshisekedi-quer-fronteira-angola-rdc-como-espaco-de-cooperacao/",
+      "source": "ANGOP",
+      "_key": "04ad4a1532dc78a8",
+      "score": 6
+    },
+    {
+      "title": "Duas mulheres detidas ao tentarem trocar dois milhões de dólares falsos",
+      "url": "https://angola24horas.com/sociedade/item/34947-duas-mulheres-detidas-ao-tentarem-trocar-dois-milhoes-de-dolares-falsos",
+      "source": "Angola 24 Horas",
+      "_key": "2972bd3df501a726",
+      "score": 6
+    },
+    {
+      "title": "Angola passa a contar com Centro de Backup para proteger dados do Estado",
+      "url": "https://angola24horas.com/sociedade/item/34936-angola-passa-a-contar-com-centro-de-backup-para-proteger-dados-do-estado",
+      "source": "Angola 24 Horas",
+      "_key": "16bb2fddecbc68f1",
+      "score": 6
+    },
+    {
+      "title": "Ano parlamentar chega ao fim com 47 leis aprovadas ainda por publicar em Diário da República",
+      "url": "https://expansao.co.ao/angola/detalhe/ano-parlamentar-chega-ao-fim-com-47-leis-aprovadas-ainda-por-publicar-em-dr-74118.html",
+      "source": "Expansão",
+      "_key": "f70e91c537c797fd",
+      "score": 6
+    },
+    {
+      "title": "Testa de ferro de Joaquim Sebastião detido quando tentava viajar para Portugal",
+      "url": "https://holdonangola.com/testa-de-ferro-de-joaquim-sebastiao-detido-quando-tentava-viajar-para-portugal/",
+      "source": "Hold On Angola",
+      "_key": "d8ca150fd2b5ab38",
+      "score": 6
+    },
+    {
+      "title": "Economia Expo-Huíla 2026 movimenta mil milhões em negociações ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684111/expo-hu%C3%ADla-2026-movimenta--mil-milh%C3%B5es-em-negocia%C3%A7%C3%B5es---",
       "source": "Jornal de Angola",
-      "_key": "a060a578b36e3d6f",
+      "_key": "b623f90287aebcbb",
+      "score": 6
+    },
+    {
+      "title": "Destaque João Lourenço e Félix Tshisekedi reúnem-se em KinshasaO Chefe de Estado, João Lourenço, reuniu-se, esta quarta-feira, em Kinshasa, com o seu homólogo da República Democrática do Congo (RDC), Félix Tshisekedi.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684079/jo%C3%A3o-louren%C3%A7o-e-f%C3%A9lix-tshisekedi-re%C3%BAnem-se-em-kinshasa",
+      "source": "Jornal de Angola",
+      "_key": "0a7dea890be909da",
+      "score": 6
+    },
+    {
+      "title": "“Os UK”, “Os Mascarados” E “Bons do Mundo\" - SIC \"varre\" Malanje e captura criminosos que roubavam com catanas, facas, machados e espada",
+      "url": "https://namiradocrime.info/show/17355",
+      "source": "Na Mira do Crime",
+      "_key": "a475d0ab8be8d219",
+      "score": 6
+    },
+    {
+      "title": "“Da Jotita”, “Do Pôster”, “De Jota”, “Salamaleco”, “Betinho Lembido”, \"Tchu N\", \"Tchu F\", “Mana Fina” e “Burro que Estudou” - População nos Mulenvos \"implora\" que à Polícia \"elimine\" os grupos \"UTT de Matar de Cima\" e \"UTT de Matar de Baixo\"",
+      "url": "https://namiradocrime.info/show/17351",
+      "source": "Na Mira do Crime",
+      "_key": "40a6964c0a31fb33",
+      "score": 6
+    },
+    {
+      "title": "Gráfica arrestada pelo Estado afunda-se em prejuízos e perde mais...",
+      "url": "https://valoreconomico.co.ao/artigo/grafica-arrestada-pelo-estado-afunda-se-em-prejuizos-e-perde-mais-de-180-milhoes-em-2025",
+      "source": "Valor Económico",
+      "_key": "b5aed2fe8e3e308e",
+      "score": 6
+    },
+    {
+      "title": "Gabon considers relations with Angola evolving into a strategic partnership",
+      "url": "https://www.angop.ao/en/noticias/entrevistas/gabao-considera-que-relacao-com-angola-evolui-para-parceria-estrategica/",
+      "source": "ANGOP",
+      "_key": "0c62a0f6ba048ca5",
       "score": 5
     },
     {
-      "title": "Benguela no \"pré-pago\" para reduzir desperdício de...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html",
-      "source": "Novo Jornal",
-      "_key": "78f5ada4b08a8611",
+      "title": "Foodstuffs",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=10036",
+      "source": "ANGOP",
+      "_key": "f415a7821e9bbaa8",
+      "score": 5
+    },
+    {
+      "title": "Economists advocate public policies impacting citizens' lives",
+      "url": "https://www.angop.ao/en/noticias/economia/economistas-advogam-politicas-publicas-impactantes-na-vida-dos-cidadaos/",
+      "source": "ANGOP",
+      "_key": "db3154608b8d8945",
+      "score": 5
+    },
+    {
+      "title": "Investigation service arrests suspects in robbery of a bank branch in Luanda",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-detem-suspeitos-do-assalto-da-agencia-bancaria-na-cidadela/",
+      "source": "ANGOP",
+      "_key": "c823f00e5ff5d41c",
+      "score": 5
+    },
+    {
+      "title": "Segurança Nacional: a disciplina castrense e a necessidade de dignidade aos policiais e militares",
+      "url": "https://angola24horas.com/opiniao/item/34943-seguranca-nacional-a-disciplina-castrense-e-a-necessidade-de-dignidade-aos-policiais-e-militares",
+      "source": "Angola 24 Horas",
+      "_key": "9616d3029dcd2368",
+      "score": 5
+    },
+    {
+      "title": "Penetração dos seguros recua para 0,5% e afasta-se da meta dos 3%",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1fd5fe766013d2",
+      "score": 5
+    },
+    {
+      "title": "Vendedores de Cacuaco denunciam cobranças irregulares, abuso de…",
+      "url": "https://holdonangola.com/vendedores-de-cacuaco-denunciam-cobrancas-irregulares-abuso-de-poder-e-despedimentos/",
+      "source": "Hold On Angola",
+      "_key": "de39759f2abd8a95",
+      "score": 5
+    },
+    {
+      "title": "Última hora Presidente da República regressa a Luanda",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684084/presidente-da-rep%C3%BAblica-regressa-a-luanda",
+      "source": "Jornal de Angola",
+      "_key": "075ea599386bd3c3",
+      "score": 5
+    },
+    {
+      "title": "Guardiões das fronteiras de Angola: Comandante-Geral destaca importância da PGF no seu 48.° aniversário",
+      "url": "https://namiradocrime.info/show/17354",
+      "source": "Na Mira do Crime",
+      "_key": "3f37e2313f498d14",
+      "score": 5
+    },
+    {
+      "title": "No Belo Horizonte: Jovem teve o rosto desfigurado por se recusar a repetir uma música na sua roullot - Muteba e a sua gangue dizem que mandam no bairro e 'são intocáveis'",
+      "url": "https://namiradocrime.info/show/17353",
+      "source": "Na Mira do Crime",
+      "_key": "3285608c38dd4df8",
+      "score": 5
+    },
+    {
+      "title": "Executivo prevê arrecadar mais de 35,2 milhões de kwanzas com...",
+      "url": "https://valoreconomico.co.ao/artigo/executivo-preve-arrecadar-mais-de-35-2-milhoes-de-kwanzas-com-cobrancas-de-portagens-anualmente",
+      "source": "Valor Económico",
+      "_key": "6f2323b7934ba2ea",
       "score": 5
     }
   ]
