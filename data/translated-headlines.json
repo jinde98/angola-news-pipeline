@@ -1,56 +1,520 @@
 {
-  "date": "2026-08-30",
-  "total_new": 22,
-  "total_filtered": 6,
+  "date": "2026-08-31",
+  "total_new": 155,
+  "total_filtered": 64,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Técnicos de Manutenção da TAAG marcam greve para 1...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tecnicos-de-manutencao-da-taag-marcam-greve-para-1-de-setembro-e-acusam-administracao-de-ma-fe-74299.html",
+      "title": "CONVERSAS À SOMBRA Da mulemba: INDÚSTRIA AUTOMÓVEL CHINESA. Abordamos o crescimento e a forte expansão da indústria automóvel na China, analisando os fatores que impulsionam o seu sucesso. Também discutimos de que forma Angola pode aproveitar essa experiência e estabelecer parcerias estratégicas para impulsionar o desenvolvimento da sua própria indústria automóvel.",
+      "url": "https://marginal.co.ao/programas/conversas-a-sombra-da-mulemba-na-marginal?ep=74305",
       "source": "Novo Jornal",
-      "_key": "13239665699ba368",
-      "score": 7,
-      "title_cn": "TAAG（安哥拉航空）维修技术人员计划于1日举行罢工"
+      "_key": "f985c726642702e8",
+      "score": 10,
+      "title_cn": "中国汽车工业：增长与扩张的成功因素分析"
     },
     {
-      "title": "Angola reaffirms commitment to Africa’s energy transition",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-reforca-compromisso-com-a-transicao-energetica-em-africa/",
-      "source": "ANGOP",
-      "_key": "bd230e52064f2e3a",
-      "score": 6,
-      "title_cn": "安哥拉重申致力于非洲能源转型"
+      "title": "Petróleo Brent sobe para 91,21 dólares com nova escalada militar...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-sobe-para-91-21-dolares-com-nova-escalada-militar-entre-eua-e-irao",
+      "source": "Valor Económico",
+      "_key": "9997c77ec10f5c6d",
+      "score": 10,
+      "title_cn": "军事冲突升级，布伦特原油涨至91.21美元"
     },
     {
-      "title": "IMF praises modernization of Angola’s public finance statistics",
-      "url": "https://www.angop.ao/en/noticias/economia/fmi-enaltece-modernizacao-das-estatisticas-das-financas-publicas-de-angola/",
-      "source": "ANGOP",
-      "_key": "96aa68f1631fb3ef",
-      "score": 6,
-      "title_cn": "国际货币基金组织赞扬安哥拉公共财政统计现代化"
+      "title": "Governo reduz carga fiscal para tornar seis blocos petrolíferos rentáveis",
+      "url": "https://expansao.co.ao/empresas/detalhe/governo-reduz-carga-fiscal-para-tornar-seis-blocos-petroliferos-rentaveis-74282.html",
+      "source": "Expansão",
+      "_key": "7e8f10afc22b5361",
+      "score": 9,
+      "title_cn": "政府减税以提高六个石油区块的盈利能力"
     },
     {
-      "title": "President João Lourenço discusses peace and security in Africa",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-aborda-paz-e-seguranca-em-africa/",
-      "source": "ANGOP",
-      "_key": "858673ac4273dba3",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统讨论非洲和平与安全"
-    },
-    {
-      "title": "“África deve mobilizar instrumentos políticos e financeiros disponíveis para prevenir conflitos antes que estes evoluam para guerrasˮ, – João Lourenço",
-      "url": "https://forbesafricalusofona.com/africa-deve-mobilizar-instrumentos-politicos-e-financeiros-disponiveis-para-prevenir-conflitos-antes-que-estes-evoluam-para-guerras%cb%ae-joao-lourenco/",
-      "source": "Forbes África",
-      "_key": "1d85d496937e1643",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）：非洲应动员工具，预防冲突升级为战争"
-    },
-    {
-      "title": "Política Discurso de boas-vindas de João Lourenço na Cimeira Extraordinária da União Africana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684378/-discurso-de-boas-vindas-de-jo%C3%A3o-louren%C3%A7o-na-cimeira-extraordin%C3%A1ria-da-uni%C3%A3o-africana-",
+      "title": "Economia / Há 5 horas Regime Especial Tributário ajuda a atrair investimentos na província ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684434/regime-especial-tribut%C3%A1rio-ajuda-a-atrair-investimentos-na-prov%C3%ADncia",
       "source": "Jornal de Angola",
-      "_key": "94d3928c9ea4b9f6",
+      "_key": "fdf42ad6a0564129",
+      "score": 9,
+      "title_cn": "特殊税收制度助力该省吸引投资"
+    },
+    {
+      "title": "Economia / Há 5 horas Investidores têm acesso a Obrigações ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684422/investidores-t%C3%AAm-acesso-a-obriga%C3%A7%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "1050e822cf3f40d2",
+      "score": 9,
+      "title_cn": "投资者可购买债券"
+    },
+    {
+      "title": "Petróleo, gás natural e terras raras: Chefe de Estado denuncia existência de disputas pelo controlo dos recursos estratégicos africanos",
+      "url": "https://namiradocrime.info/show/17380",
+      "source": "Na Mira do Crime",
+      "_key": "6f6861f8c731671c",
+      "score": 9,
+      "title_cn": "国家元首谴责非洲战略资源（石油、天然气、稀土）控制权之争"
+    },
+    {
+      "title": "João Lourenço alerta para cobiça externa sobre recursos africanos e...",
+      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-alerta-para-cobica-externa-sobre-recursos-africanos-e-exige-reaccao-da-uniao-africana",
+      "source": "Valor Económico",
+      "_key": "45429a210a4835de",
+      "score": 9,
+      "title_cn": "若昂·洛伦索（João Lourenço）警告非洲资源面临外部觊觎"
+    },
+    {
+      "title": "Presidente autoriza financiamento de 100 milhões de euros para a...",
+      "url": "https://valoreconomico.co.ao/artigo/presidente-autoriza-financiamento-de-100-milhoes-de-euros-para-a-agricultura-de-regadio",
+      "source": "Valor Económico",
+      "_key": "f288d7d9b3d14351",
+      "score": 9,
+      "title_cn": "总统批准1亿欧元资金用于..."
+    },
+    {
+      "title": "Angola estreia-se na produção de nióbio com projecto mineiro em Quilengues",
+      "url": "https://correiokianda.info/angola-estreia-se-na-producao-de-niobio-com-projecto-mineiro-em-quilengues/",
+      "source": "Correio Kianda",
+      "_key": "2de5e92fd1856fe1",
+      "score": 8,
+      "title_cn": "安哥拉在奎伦格斯（Quilengues）矿业项目首次生产铌"
+    },
+    {
+      "title": "Angola e RDC reforçam cooperação económica com novos negócios",
+      "url": "https://jornaloguardiao.com/2026/08/28/angola-e-rdc-reforcam-cooperacao-economica-com-novos-negocios/",
+      "source": "Jornal O Guardião",
+      "_key": "97e7cd16e66b5d62",
+      "score": 8,
+      "title_cn": "安哥拉与刚果民主共和国通过新业务加强经济合作"
+    },
+    {
+      "title": "João Lourenço anuncia “nova era” na cooperação económica entre Angola e RDC",
+      "url": "https://jornaloguardiao.com/2026/08/28/joao-lourenco-anuncia-nova-era-na-cooperacao-economica-entre-angola-e-rdc/",
+      "source": "Jornal O Guardião",
+      "_key": "ca4e18da9d45567f",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）宣布安哥拉与刚果民主共和国经济合作进入“新时代”"
+    },
+    {
+      "title": " Angola e RDC reforçam cooperação económica com novos negócios ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_be74f04d9af36a",
+      "score": 8,
+      "title_cn": "安哥拉与刚果民主共和国通过新业务加强经济合作"
+    },
+    {
+      "title": " João Lourenço anuncia “nova era” na cooperação económica entre Angola e RDC ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_7c371eae6bc0f6",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）宣布安哥拉与刚果民主共和国经济合作进入“新时代”"
+    },
+    {
+      "title": "Política Angola promove diplomacia económica e turismo sustentável em fórum internacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684425/angola-promove-diplomacia-econ%C3%B3mica-e-turismo-sustent%C3%A1vel-em-f%C3%B3rum-internacional",
+      "source": "Jornal de Angola",
+      "_key": "0d2b8a906e3639a1",
+      "score": 8,
+      "title_cn": "安哥拉在国际论坛上推动经济外交和可持续旅游"
+    },
+    {
+      "title": "Economia / Há 5 horas Bancos sistémicos mantêm reservas de 1,0 e 2,0 por cento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684428/bancos-sist%C3%A9micos-mant%C3%AAm-reservas-de-10-e-20-por-cento",
+      "source": "Jornal de Angola",
+      "_key": "41d58a1b48a6c25a",
+      "score": 8,
+      "title_cn": "系统重要性银行维持1%和2%的准备金率"
+    },
+    {
+      "title": "PR valida ajuste directo de quase 300 milhões de euros para infra-estruturas académicas",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-valida-ajuste-directo-de-quase-300-milhoes-de-euros-para-infra-estruturas-academicas-74314.html",
+      "source": "Novo Jornal",
+      "_key": "6229f3d86f8edbcc",
+      "score": 8,
+      "title_cn": "总统批准近3亿欧元直接用于学术基础设施建设"
+    },
+    {
+      "title": "Angola recorre a empréstimo de 100 milhões de euros para financiar agricultura de regadio",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-recorre-a-emprestimo-de-100-milhoes-de-euros-para-financiar-agricultura-de-regadio-74306.html",
+      "source": "Novo Jornal",
+      "_key": "8b9d0ad3ba86dec7",
+      "score": 8,
+      "title_cn": "安哥拉借贷1亿欧元资助灌溉农业"
+    },
+    {
+      "title": "Depois da Unitel, é a vez da Cimangola: Estado prepara nova saída de activos ligados a Isabel dos Santos",
+      "url": "https://angola24horas.com/component/k2/item/34968-depois-da-unitel-e-a-vez-da-cimangola-estado-prepara-nova-saida-de-activos-ligados-a-isabel-dos-santos",
+      "source": "Angola 24 Horas",
+      "_key": "cf2da272f1aa8b79",
+      "score": 7,
+      "title_cn": "继Unitel之后，Cimangola也将被出售：国家准备剥离与伊莎贝尔·多斯桑托斯（Isabel dos Santos）相关的资产"
+    },
+    {
+      "title": "Presidente da República dá luz verde à construção de quatro hospitais municipais no Moxico",
+      "url": "https://correiokianda.info/presidente-da-luz-verde-a-construcao-de-quatro-hospitais-municipais-no-moxico/",
+      "source": "Correio Kianda",
+      "_key": "62543b9b8283fca8",
+      "score": 7,
+      "title_cn": "共和国总统批准在莫希科（Moxico）建设四所市级医院"
+    },
+    {
+      "title": "Huíla recebe novas obras para reforçar educação, saúde e administração pública",
+      "url": "https://correiokianda.info/huila-recebe-novas-obras-para-reforcar-educacao-saude-e-administracao-publica/",
+      "source": "Correio Kianda",
+      "_key": "90f4761bd58acaba",
+      "score": 7,
+      "title_cn": "威拉（Huíla）省启动新项目以加强教育、卫生和公共行政"
+    },
+    {
+      "title": "Cimangola chega ao fim com 28,13% para vender e contas por explicar",
+      "url": "https://expansao.co.ao/angola/detalhe/cimangola-chega-ao-fim-com-2813-para-vender-e-contas-por-explicar-74277.html",
+      "source": "Expansão",
+      "_key": "6e4104e3b81dff41",
+      "score": 7,
+      "title_cn": "Cimangola公司面临终结：28.13%股份待售，账目待解释"
+    },
+    {
+      "title": "Separação de funções entre Endiama e regulador pendurada há seis anos",
+      "url": "https://expansao.co.ao/empresas/detalhe/separacao-de-funcoes-entre-endiama-e-regulador-pendurada-ha-seis-anos-74281.html",
+      "source": "Expansão",
+      "_key": "99bb1b0bfe0d72b4",
+      "score": 7,
+      "title_cn": "Endiama与监管机构职能分离问题已悬而未决六年"
+    },
+    {
+      "title": "Destaque João Lourenço considera Angola “capital da estabilidade de África” após Cimeira da UAO Presidente da República, João Lourenço, destacou, hoje, o papel de Angola na promoção da estabilidade, pacificação e desenvolvimento do continente africano, na sequência da realização, em Luanda, nos dias 29 e 30 de Agosto, de importantes reuniões da União Africana.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684464/jo%C3%A3o-louren%C3%A7o-considera-angola-%E2%80%9Ccapital-da-estabilidade-de-%C3%A1frica%E2%80%9D-ap%C3%B3s-cimeira-da-ua",
+      "source": "Jornal de Angola",
+      "_key": "d394d9f8590ee496",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）在非盟峰会后称安哥拉为“非洲稳定之都”"
+    },
+    {
+      "title": "Economia / Há 5 horas Multicaixas crescem 37,8% e movimentam 27,81 biliões ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684429/multicaixas-crescem-378%25-e-movimentam-2781-bili%C3%B5es",
+      "source": "Jornal de Angola",
+      "_key": "44515dc3bc4dd53b",
+      "score": 7,
+      "title_cn": "Multicaixas（ATM网络）增长37.8%，交易额达27.81万亿"
+    },
+    {
+      "title": "Economia / Há 5 horas Estudo técnico dá viabilidade a projecto de SAF da Sonangol ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684424/estudo-t%C3%A9cnico-d%C3%A1-viabilidade-a-projecto-de-saf-da-sonangol",
+      "source": "Jornal de Angola",
+      "_key": "0d05bfba733dade2",
+      "score": 7,
+      "title_cn": "技术研究证实索南戈尔（Sonangol）SAF项目可行性"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: PROCESSOS SEM SUPORTE LEGAL. Refundação da ANIESA cria vazio legal na fiscalização dos municípios.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=74319",
+      "source": "Novo Jornal",
+      "_key": "89f8f10345ead79a",
+      "score": 7,
+      "title_cn": "ANIESA重建造成市政监管法律空白"
+    },
+    {
+      "title": "Governo injecta 4,6 milhões de dólares para blindar plataformas públicas...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-injecta-4-6-milhoes-de-dolares-para-blindar-plataformas-publicas-contra-ciberataques",
+      "source": "Valor Económico",
+      "_key": "1d6eee774a8488ae",
+      "score": 7,
+      "title_cn": "政府注入460万美元以保护公共平台"
+    },
+    {
+      "title": "Novo complexo administrativo do INAAREES vai custar 22,9 milhões de...",
+      "url": "https://valoreconomico.co.ao/artigo/novo-complexo-administrativo-do-inaarees-vai-custar-22-9-milhoes-de-euros",
+      "source": "Valor Económico",
+      "_key": "10dbd3baac3257f9",
+      "score": 7,
+      "title_cn": "INAAREES新行政综合体将耗资2290万..."
+    },
+    {
+      "title": "Receita da CMC com sanções dispara e supera os 217...",
+      "url": "https://valoreconomico.co.ao/artigo/receita-da-cmc-com-sancoes-dispara-e-supera-os-217-milhoes-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "90d06a6859455af5",
+      "score": 7,
+      "title_cn": "CMC制裁收入飙升，超过2.17亿..."
+    },
+    {
+      "title": "Photovoltaic parks supply energy to Benguela during national grid outages",
+      "url": "https://www.angop.ao/en/noticias/sociedade/parques-fotovoltaicos-fornecem-energia-a-benguela-durante-cortes-da-rede-nacional/",
+      "source": "ANGOP",
+      "_key": "ec92167aa8c785c4",
+      "score": 6,
+      "title_cn": "国家电网中断期间，光伏电站为本格拉（Benguela）供电"
+    },
+    {
+      "title": "Guineense condenado e expulso de Angola por desafiar proibição de comércio de metais",
+      "url": "https://angola24horas.com/sociedade/item/34965-guineense-condenado-e-expulso-de-angola-por-desafiar-proibicao-de-comercio-de-metais",
+      "source": "Angola 24 Horas",
+      "_key": "bb74a3f48121dae6",
+      "score": 6,
+      "title_cn": "几内亚公民因违反金属贸易禁令被安哥拉判刑并驱逐出境"
+    },
+    {
+      "title": "Cidadão guineense condenado a multa de dois milhões de kwanzas e expulso de Angola",
+      "url": "https://correiokianda.info/cidadao-guineense-condenado-a-multa-de-dois-milhoes-de-kwanzas-e-expulso-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "0f2129e204ed7963",
+      "score": 6,
+      "title_cn": "几内亚公民被罚款200万宽扎并被安哥拉驱逐出境"
+    },
+    {
+      "title": "Trump anuncia controlo dos EUA sobre mais de 65 mil milhões de barris de petróleo da Venezuela",
+      "url": "https://correiokianda.info/trump-anuncia-controlo-dos-eua-sobre-mais-de-65-mil-milhoes-de-barris-de-petroleo-da-venezuela/",
+      "source": "Correio Kianda",
+      "_key": "316e125fcfdf8ee9",
+      "score": 6,
+      "title_cn": "特朗普宣布美国控制委内瑞拉逾650亿桶石油"
+    },
+    {
+      "title": "Estudar num colégio privado pode custar até 651 salários mínimos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3162adf5e2f7c4",
+      "score": 6,
+      "title_cn": "私立学校学费最高可达651倍最低工资"
+    },
+    {
+      "title": "Destaque  Aulas começam terça-feira em todo o paísO Ministério da Educação realizou, hoje, na província do Huambo, a cerimónia oficial de abertura do Ano Lectivo 2026-2027, sob o lema “50 Anos a Alfabetizar, a Educar e a Transformar Angola”, cujas aulas iniciam amanhã (terça-feira), em todo o país. ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684451/-aulas-come%C3%A7am-ter%C3%A7a-feira-em-todo-o-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "0080588cc8e8b715",
+      "score": 6,
+      "title_cn": "全国周二开学：教育部在万博（Huambo）举行2026/2027学年开学典礼"
+    },
+    {
+      "title": "Destaque Mais de 9,8 milhões de alunos e 12 mil escolas disponíveis para o ano lectivo 2026/2027O Sistema Nacional de Educação e Ensino prevê acolher mais de 9,8 milhões de alunos, em todos os níveis de ensino, distribuídos por uma rede de mais de 12 mil escolas em todo o país.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/684467/mais-de-98-milh%C3%B5es-de-alunos-e-12-mil-escolas-dispon%C3%ADveis-para-o-ano-lectivo-20262027",
+      "source": "Jornal de Angola",
+      "_key": "2f34ca58467e3a01",
+      "score": 6,
+      "title_cn": "2026/2027学年：逾980万学生和1.2万所学校已准备就绪"
+    },
+    {
+      "title": "Política Ministra da Educação inaugura Instituto Técnico de Saúde no Bailundo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684439/ministra-da-educa%C3%A7%C3%A3o-inaugura-instituto-t%C3%A9cnico-de-sa%C3%BAde-no-bailundo",
+      "source": "Jornal de Angola",
+      "_key": "945c27553873555c",
+      "score": 6,
+      "title_cn": "教育部长在拜伦多（Bailundo）落成卫生技术学院"
+    },
+    {
+      "title": "Economia / Há 5 horas TAAG indica novo parceiro na Europa ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684423/taag-indica-novo-parceiro-na-europa",
+      "source": "Jornal de Angola",
+      "_key": "731519ebac5e9694",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）宣布欧洲新合作伙伴"
+    },
+    {
+      "title": "Sociedade Premium 31/08/2026Aumento de preços para aquisição do material escolar cria drama nos pais",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684397/aumento-de-pre%C3%A7os-para-aquisi%C3%A7%C3%A3o--do-material-escolar-cria-drama-nos-pais",
+      "source": "Jornal de Angola",
+      "_key": "c6092c8c3eebc33e",
+      "score": 6,
+      "title_cn": "校服文具价格上涨给家长带来困扰"
+    },
+    {
+      "title": "Guineense expulso de Angola por insistir na prática de pesagem de material ferroso",
+      "url": "https://namiradocrime.info/show/17376",
+      "source": "Na Mira do Crime",
+      "_key": "2dfaff04ae19a263",
+      "score": 6,
+      "title_cn": "几内亚公民因坚持称量铁质材料被安哥拉驱逐出境"
+    },
+    {
+      "title": "Polícia recolhe bandidos que assaltavam com AKM na Matala",
+      "url": "https://namiradocrime.info/show/17374",
+      "source": "Na Mira do Crime",
+      "_key": "c1a3962f6950d713",
+      "score": 6,
+      "title_cn": "警方在马塔拉（Matala）逮捕持AKM抢劫的匪徒"
+    },
+    {
+      "title": "Tribunal decreta expulsão de cidadão guineense por...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tribunal-decreta-expulsao-de-cidadao-guineense-por-exercicio-ilegal-do-comercio-de-materiais-ferrosos-74316.html",
+      "source": "Novo Jornal",
+      "_key": "3193f02d150bcdd6",
+      "score": 6,
+      "title_cn": "法院裁定驱逐一名几内亚公民"
+    },
+    {
+      "title": "Luanda regista 14 mortos e 17 feridos em 19 acidentes...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-regista-14-mortos-e-17-feridos-em-19-acidentes-rodoviarios-no-fim-de-semana-74311.html",
+      "source": "Novo Jornal",
+      "_key": "104a2e877e425a9b",
+      "score": 6,
+      "title_cn": "罗安达发生19起事故，致14人死亡17人受伤"
+    },
+    {
+      "title": "LUANDA DOWNTOWN: EMPREENDEDORIMOS DIGITAL. Contribuição do empreendedorismo digital para o sistema económico do país.",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=74325",
+      "source": "Novo Jornal",
+      "_key": "986bc6f02bcfed2b",
+      "score": 6,
+      "title_cn": "罗安达市中心：数字创业对国家经济体系的贡献"
+    },
+    {
+      "title": "Digital Transition accelerates modernization of services",
+      "url": "https://www.angop.ao/en/noticias/tecnologia/transicao-digital-acelera-modernizacao-dos-servicos-no-pais/",
+      "source": "ANGOP",
+      "_key": "fc490b59c1d22eda",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）在非洲联盟特别峰会发表欢迎致辞"
+      "title_cn": "数字化转型加速服务现代化"
+    },
+    {
+      "title": "Cimeira de Luanda exige responsabilização para passar das decisões à prática em África",
+      "url": "https://angola24horas.com/component/k2/item/34966-cimeira-de-luanda-exige-responsabilizacao-para-passar-das-decisoes-a-pratica-em-africa",
+      "source": "Angola 24 Horas",
+      "_key": "af158533512f8772",
+      "score": 5,
+      "title_cn": "罗安达峰会要求非洲将决策付诸实践并追究责任"
+    },
+    {
+      "title": "Fraca qualidade dos serviços tira 27 milhões de passageiros à TCUL em apenas um ano",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_9538610e77baad",
+      "score": 5,
+      "title_cn": "服务质量差导致TCUL一年内流失2700万乘客"
+    },
+    {
+      "title": "Decisão final da Cimeira: Estados africanos assumem compromisso de fortalecer o Fundo da Paz e mobilizar mecanismos inovadores de financiamento",
+      "url": "https://forbesafricalusofona.com/decisao-final-da-cimeira-estados-africanos-assumem-compromisso-de-fortalecer-o-fundo-da-paz-e-mobilizar-mecanismos-inovadores-de-financiamento/",
+      "source": "Forbes África",
+      "_key": "26f3d833c4557849",
+      "score": 5,
+      "title_cn": "峰会最终决定：非洲国家承诺加强和平基金并动员创新融资机制"
+    },
+    {
+      "title": "Presidente da União Africana diz que conflitos têm raízes na falta de governação",
+      "url": "https://forbesafricalusofona.com/presidente-da-uniao-africana-diz-que-conflitos-tem-raizes-na-falta-de-governacao/",
+      "source": "Forbes África",
+      "_key": "35b47366ac9c4ee5",
+      "score": 5,
+      "title_cn": "非盟主席称冲突根源在于缺乏治理"
+    },
+    {
+      "title": "Prédio do tijolo, na maianga, será demolido devido ao avançado estado de degradação",
+      "url": "https://jornaloguardiao.com/2026/08/28/predio-do-tijolo-na-maianga-sera-demolido-devido-ao-avancado-estado-de-degradacao/",
+      "source": "Jornal O Guardião",
+      "_key": "2e5eb8fde75d19b6",
+      "score": 5,
+      "title_cn": "迈安加（Maianga）的砖房因严重老化将被拆除"
+    },
+    {
+      "title": "RDCongo inicia vacinação para combater surto de Ébola mais rápido da história",
+      "url": "https://jornaloguardiao.com/2026/08/28/rdcongo-inicia-vacinacao-para-combater-surto-de-ebola-mais-rapido-da-historia/",
+      "source": "Jornal O Guardião",
+      "_key": "2bfc7ac13c0c558b",
+      "score": 5,
+      "title_cn": "刚果民主共和国启动疫苗接种以对抗史上最快埃博拉疫情"
+    },
+    {
+      "title": "Ucrânia ataca refinaria na Rússia e Moscovo infraestruturas portuárias ucranianas",
+      "url": "https://jornaloguardiao.com/2026/08/28/ucrania-ataca-refinaria-na-russia-e-moscovo-infraestruturas-portuarias-ucranianas/",
+      "source": "Jornal O Guardião",
+      "_key": "c09749582df90ee0",
+      "score": 5,
+      "title_cn": "乌克兰袭击俄罗斯炼油厂，莫斯科袭击乌克兰港口设施"
+    },
+    {
+      "title": " Prédio do tijolo, na maianga, será demolido devido ao avançado estado de degradação ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f2528771298f66",
+      "score": 5,
+      "title_cn": "迈安加（Maianga）的砖房因严重老化将被拆除"
+    },
+    {
+      "title": " RDCongo inicia vacinação para combater surto de Ébola mais rápido da história ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_82535beafb6b7f",
+      "score": 5,
+      "title_cn": "刚果民主共和国启动疫苗接种以对抗史上最快埃博拉疫情"
+    },
+    {
+      "title": " Ucrânia ataca refinaria na Rússia e Moscovo infraestruturas portuárias ucranianas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9059a67f343956",
+      "score": 5,
+      "title_cn": "乌克兰袭击俄罗斯炼油厂，莫斯科袭击乌克兰港口设施"
+    },
+    {
+      "title": "Destaque Embaixadora do Egipto apresenta cumprimentos de despedidaO Chefe de Estado, João Lourenço, recebeu, esta segunda-feira, em Luanda, os cumprimentos de despedida da Embaixadora da República Árabe do Egipto em Angola, Neveen El-Husseiny, que termina uma missão de três anos no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684456/embaixadora-do-egipto-apresenta-cumprimentos-de-despedida",
+      "source": "Jornal de Angola",
+      "_key": "df845c5579025e4c",
+      "score": 5,
+      "title_cn": "埃及大使在罗安达向若昂·洛伦索（João Lourenço）总统辞行"
+    },
+    {
+      "title": "Destaque Angola na celebração dos 65 anos do Movimento dos Países Não AlinhadosO ministro das Relações Exteriores, Téte António, representa o Chefe de Estado, João Lourenço, na reunião comemorativa dos 65 anos da realização da Primeira Conferência do Movimento dos Países Não Alinhados (MNA), realizada na capital da Sérvia em Setembro de 1961.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684450/angola-na-celebra%C3%A7%C3%A3o-dos-65-anos-do-movimento-dos-pa%C3%ADses-n%C3%A3o-alinhados",
+      "source": "Jornal de Angola",
+      "_key": "c1a61c1eff54581c",
+      "score": 5,
+      "title_cn": "安哥拉庆祝不结盟运动65周年，外长代表总统出席"
+    },
+    {
+      "title": "Sociedade Caçadores internacionais regressam a Angola para promover turismo ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684466/ca%C3%A7adores-internacionais-regressam-a-angola-para-promover-turismo-",
+      "source": "Jornal de Angola",
+      "_key": "6d777278644db628",
+      "score": 5,
+      "title_cn": "国际猎人重返安哥拉以促进旅游业"
+    },
+    {
+      "title": "Mundo Inteligência Artificial ameaça milhares de empregos do audiovisual na China ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684444/intelig%C3%AAncia-artificial-amea%C3%A7a-milhares-de-empregos-do-audiovisual-na-china",
+      "source": "Jornal de Angola",
+      "_key": "b511a23a3dfd5266",
+      "score": 5,
+      "title_cn": "人工智能威胁中国视听行业数千个工作岗位"
+    },
+    {
+      "title": "Sociedade Acidentes e afogamentos provocam 23 mortes no fim-de-semana ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684431/acidentes-e-afogamentos-provocam-23-mortes-no-fim-de-semana",
+      "source": "Jornal de Angola",
+      "_key": "a4b0d982bddd106b",
+      "score": 5,
+      "title_cn": "周末事故和溺水造成23人死亡"
+    },
+    {
+      "title": "África perante o desafio de silenciar as armas",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684435/%C3%A1frica-perante-o-desafio--de-silenciar-as-armas",
+      "source": "Jornal de Angola",
+      "_key": "797cfc30b316f00b",
+      "score": 5,
+      "title_cn": "非洲面临“消弭枪声”的挑战"
+    },
+    {
+      "title": "Agente Regulador de Trânsito sofre tentativa de atropelamento na Avenida Deolinda Rodrigues durante passagem de caravana Presidencial",
+      "url": "https://namiradocrime.info/show/17377",
+      "source": "Na Mira do Crime",
+      "_key": "71a3a607491aac52",
+      "score": 5,
+      "title_cn": "总统车队经过时，交通协管员在德奥林达·罗德里格斯大道遭蓄意撞击"
+    },
+    {
+      "title": "Quarta denúncia: Jovem de 25 anos acusa “Júnior” de alegado roubo após perder a consciência durante encontro no Zango",
+      "url": "https://namiradocrime.info/show/17373",
+      "source": "Na Mira do Crime",
+      "_key": "8d5ede7b2ba75676",
+      "score": 5,
+      "title_cn": "第四起指控：25岁青年称在赞戈（Zango）昏迷后遭“小儒尼奥尔”抢劫"
+    },
+    {
+      "title": "Bombeiros contabilizam 28 mortos e 69 feridos no fim-de-semana",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bombeiros-contabilizam-28-mortos-e-69-feridos-no-fim-de-semana-74313.html",
+      "source": "Novo Jornal",
+      "_key": "fbdc86e4065d7e08",
+      "score": 5,
+      "title_cn": "消防部门统计周末28人死亡，69人受伤"
     }
   ]
 }
