@@ -1,469 +1,140 @@
 {
   "date": "2026-09-01",
-  "total_new": 143,
-  "total_filtered": 66,
+  "total_new": 39,
+  "total_filtered": 19,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Governo reduz carga fiscal para tornar seis blocos petrolíferos rentáveis",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_7dd7bc00f6f994",
-      "score": 10
-    },
-    {
-      "title": "Mundo Analistas veem acordo petrolífero EUA-Venezuela como revés para a China ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684514/analistas-veem-acordo-petrol%C3%ADfero-eua-venezuela-como-rev%C3%A9s-para-a-china",
-      "source": "Jornal de Angola",
-      "_key": "def43ebe645622f0",
-      "score": 10
-    },
-    {
-      "title": "Angolan currency gains stability against US dollar four years later",
-      "url": "https://www.angop.ao/en/noticias/economia/kwanza-ganha-estabilidade-face-ao-dolar-quatro-anos-depois/",
-      "source": "ANGOP",
-      "_key": "11051244bf4f4b04",
-      "score": 9
-    },
-    {
-      "title": "ExxonMobil ensures oil expansion in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/exxonmobil-assegura-expansao-petrolifera-em-angola/",
-      "source": "ANGOP",
-      "_key": "6ea4ca9b35b21d81",
-      "score": 9
-    },
-    {
-      "title": "Minister of Mineral Resources announces niobium production in Angola from November",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-anuncia-producao-de-niobio-em-quilengues-a-partir-de-novembro/",
-      "source": "ANGOP",
-      "_key": "0f523a1b01e7403c",
-      "score": 9
-    },
-    {
-      "title": "Tetelo cooper mine in northern Angola to increase production capacity",
-      "url": "https://www.angop.ao/en/noticias/economia/mina-de-tetelo-instala-novas-unidades-de-processamento/",
-      "source": "ANGOP",
-      "_key": "2f911f0be4d8efc1",
-      "score": 9
-    },
-    {
-      "title": "260 milhões de dólares: Etu Energias compra participações da Chevron no Bloco 14 e 14K",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34961-260-milhoes-de-dolares-etu-energias-compra-participacoes-da-chevron-no-bloco-14-e-14k",
-      "source": "Angola 24 Horas",
-      "_key": "8f7d1710def3eb62",
-      "score": 9
-    },
-    {
-      "title": "Gemcorp entra no bloco KON 8 com aquisição de 40% da participação da Alfort Petroleum",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34960-gemcorp-entra-no-bloco-kon-8-com-aquisicao-de-40-da-participacao-da-alfort-petroleum",
-      "source": "Angola 24 Horas",
-      "_key": "90078e70d1eabfa3",
-      "score": 9
-    },
-    {
-      "title": "Angola quer ultrapassar um milhão de barris de petróleo por dia",
-      "url": "https://correiokianda.info/angola-quer-ultrapassar-um-milhao-de-barris-de-petroleo-por-dia/",
-      "source": "Correio Kianda",
-      "_key": "89424d4286b173f1",
-      "score": 9
-    },
-    {
-      "title": "João Lourenço alerta para cobiça externa sobre recursos africanos e exige reacção firme da UA",
-      "url": "https://diariodosnegocios.com/joao-lourenco-alerta-para-cobica-externa-sobre-recursos-africanos-e-exige-reaccao-firme-da-ua/",
-      "source": "Diário dos Negócios",
-      "_key": "a58457f986b29298",
-      "score": 9
-    },
-    {
-      "title": "Etu Energias compra participações da Chevron no Bloco 14 por 260 milhões USD",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0333cff074d262",
-      "score": 9
-    },
-    {
-      "title": "Governo angolano pede a operadores para superarem um milhão de barris/dia",
-      "url": "https://jornaloguardiao.com/2026/09/01/governo-angolano-pede-a-operadores-para-superarem-um-milhao-de-barris-dia/",
-      "source": "Jornal O Guardião",
-      "_key": "fffac40eb33579a0",
-      "score": 9
-    },
-    {
-      "title": " Governo angolano pede a operadores para superarem um milhão de barris/dia ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_5840c467e11257",
-      "score": 9
-    },
-    {
-      "title": "Destaque Mina de Tetelo reforça capacidade de processamento no UígeO ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo, testemunha, esta terça-feira, no município de Maquela do Zombo, província do Uíge, a cerimónia de ramp-up da mina de Tetelo, operada pela Shining Star Icarus.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684536/mina-de-tetelo-refor%C3%A7a-capacidade-de-processamento-no-u%C3%ADge",
-      "source": "Jornal de Angola",
-      "_key": "4c804126bf1fb807",
-      "score": 9
-    },
-    {
-      "title": "Economia ExxonMobil prolonga exploração do Bloco 15 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684504/exxonmobil-prolonga-explora%C3%A7%C3%A3o-do-bloco-15",
-      "source": "Jornal de Angola",
-      "_key": "10410ae3025bfc24",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 3 horas Refinaria faz processamento de 770 mil barris de petróleo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684509/refinaria-faz-processamento-de-770-mil-barris-de-petr%C3%B3leo",
-      "source": "Jornal de Angola",
-      "_key": "1e1e8145b2770aa6",
-      "score": 9
-    },
-    {
-      "title": "Petróleo: Trump volta a ser \"combustível\" para subida...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-trump-volta-a-ser-combustivel-para-subida-do-barril-e-ormuz-paragem-obrigatoria-para-a-economia-global-74345.html",
-      "source": "Novo Jornal",
-      "_key": "c5d6c1d4a7189c63",
-      "score": 9
-    },
-    {
-      "title": "Médio Oriente: Donald Trump manipula mercados energéticos...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-donald-trump-manipula-mercados-energeticos-mentindo-sobre-realidade-no-estreito-de-ormuz-dados-da-kpler-e-reuters-expoem-estrategia-da-casa-branca-74342.html",
-      "source": "Novo Jornal",
-      "_key": "9e918bd805a7327a",
-      "score": 9
-    },
-    {
-      "title": "Angola to begin niobium mining",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-inicia-exploracao-de-niobio/",
-      "source": "ANGOP",
-      "_key": "cd8357663c08c74c",
-      "score": 8
-    },
-    {
-      "title": "Lei impõe registo obrigatório do beneficiário efectivo na central",
-      "url": "https://expansao.co.ao/angola/detalhe/lei-impoe-registo-obrigatorio-do-beneficiario-efectivo-na-central-74332.html",
-      "source": "Expansão",
-      "_key": "11993fc608746ab2",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 3 horas Conferência Oil e Gas em preparação final ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684503/confer%C3%AAncia-oil-e-gas--em-prepara%C3%A7%C3%A3o-final",
-      "source": "Jornal de Angola",
-      "_key": "4e6ca32e7a0e35a8",
-      "score": 8
-    },
-    {
-      "title": "Angola begins niobium mining",
-      "url": "https://www.negociosdeangola.com/en/angola-begins-niobium-mining/",
-      "source": "Negócios de Angola",
-      "_key": "09343038a75745dd",
-      "score": 8
-    },
-    {
-      "title": "PR aprova concessão urbanística na Chicala por 43 milhões USD e um prazo de 10 anos",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-aprova-concessao-urbanistica-na-chicala-por-43-milhoes-usd-e-um-prazo-de-10-anos-74350.html",
-      "source": "Novo Jornal",
-      "_key": "c855f1b105ec1f42",
-      "score": 8
-    },
-    {
-      "title": "President João Lourenço authorises spending for construction of four hospitals in Moxico",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-autoriza-despesa-para-construcao-de-quatro-hospitais-no-moxico/",
-      "source": "ANGOP",
-      "_key": "3b63598f15f9d163",
-      "score": 7
-    },
-    {
-      "title": "Recursos minerais",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=31199",
-      "source": "ANGOP",
-      "_key": "b9fd2d98c422b81e",
-      "score": 7
-    },
-    {
-      "title": "Mineral",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=219305",
-      "source": "ANGOP",
-      "_key": "e7a392e1bf80e33a",
-      "score": 7
-    },
-    {
-      "title": "Comité de Estabilidade Financeira mantém reservas de capital e destaca resiliência do sector bancário",
-      "url": "https://correiokianda.info/comite-de-estabilidade-financeira-mantem-reservas-de-capital-e-destaca-resiliencia-do-sector-bancario/",
-      "source": "Correio Kianda",
-      "_key": "bcd1456e4494e9bf",
-      "score": 7
-    },
-    {
-      "title": "\"A indústria nacional está a funcionar ligeiramente acima dos 50% da sua capacidade instalada\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_b73eebe72c2646",
-      "score": 7
-    },
-    {
-      "title": "\"A indústria nacional está a funcionar ligeiramente acima dos 50% da sua capacidade instalada\"Angola criou fábricas e aumentou a capacidade de produção, mas uma parte significativa das máquinas continua sem trabalhar. Rui Miguêns admite que o aproveitamento está apenas ligeiramente acima dos 50% e aponta os 85% como referência para uma utilização mais eficiente do parque industrial.",
-      "url": "https://expansao.co.ao/multimedia/detalhe/a-industria-nacional-esta-a-funcionar-ligeiramente-acima-dos-50-da-sua-capacidade-instalada-74337.html",
-      "source": "Expansão",
-      "_key": "fd6bd1f9f7426b9e",
-      "score": 7
-    },
-    {
-      "title": "Economia Diamantino Azevedo participa em celebração dos 32 anos da ExxonMobil em Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684535/diamantino-azevedo-participa-em-celebra%C3%A7%C3%A3o-dos-32-anos-da-exxonmobil-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "291e489634d83b7b",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 3 horas Governo já licitou 72 blocos em nove anos ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684505/governo-j%C3%A1-licitou-72-blocos-em-nove-anos-",
-      "source": "Jornal de Angola",
-      "_key": "3a40f419e7109b8d",
-      "score": 7
-    },
-    {
-      "title": "“Puto Fogo”, “Pirex”, “Telmo” e “Do Crime” aterrorizam antigo Controlo e mercado da Mabunda com assaltos constantes - São membros do grupo de bandidos \"Liga do Mal\"",
-      "url": "https://namiradocrime.info/show/17382",
+      "title": "SIC-Luanda apresenta criminosos que mataram chefe de família com golpes de catana durante assalto no bairro dos Osso - Vítima deixa três filhos e viúva",
+      "url": "https://namiradocrime.info/show/17390",
       "source": "Na Mira do Crime",
-      "_key": "a7478654f7abac48",
-      "score": 7
+      "_key": "4d0cdcdb6bb4b583",
+      "score": 9
     },
     {
-      "title": "TAAG garante continuidade da operação depois de retirado pré-aviso de greve do Sindicato dos Técnicos de Manutenção de Aeronaves",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/taag-garante-continuidade-da-operacao-depois-de-retirado-pre-aviso-de-greve-do-sindicato-dos-tecnicos-de-manutencao-de-aeronaves-74327.html",
+      "title": "A HORA DA ORDEM: DESAFIOS E OPORTUNIDADES DO DIREITO MINEIRO.  ",
+      "url": "https://marginal.co.ao/programas/a-hora-da-ordem?ep=74352",
       "source": "Novo Jornal",
-      "_key": "136b5e2e78d9e1b1",
-      "score": 7
+      "_key": "b494f01c02e0088f",
+      "score": 8
     },
     {
-      "title": "Mercado de capitais ganha novo fundo dedicado ao investimento imobiliário",
-      "url": "https://valoreconomico.co.ao/artigo/mercado-de-capitais-ganha-novo-fundo-dedicado-ao-investimento-imobiliario",
+      "title": "PIB cresce 2,7% no segundo trimestre",
+      "url": "https://valoreconomico.co.ao/artigo/pib-cresce-2-7-no-segundo-trimestre",
       "source": "Valor Económico",
-      "_key": "bfbef4dd3ca8360a",
+      "_key": "0f682df166af6f13",
+      "score": 8
+    },
+    {
+      "title": "Angola entra no mapa mundial do nióbio com projecto de Quilengues",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34964-angola-entra-no-mapa-mundial-do-niobio-com-projecto-de-quilengues",
+      "source": "Angola 24 Horas",
+      "_key": "4ae6984fd59c3a5a",
       "score": 7
     },
     {
-      "title": "Government invests USD 210 million in public administration digitalisation",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/",
-      "source": "ANGOP",
-      "_key": "0fc632e5a5f89c8b",
-      "score": 6
+      "title": "Greve na TAAG cancelada e retomado diálogo- administração",
+      "url": "https://jornaloguardiao.com/2026/09/01/greve-na-taag-cancelada-e-retomado-dialogo-administracao/",
+      "source": "Jornal O Guardião",
+      "_key": "cc582fc411a9246f",
+      "score": 7
     },
     {
-      "title": "Angolan insurance market grows 21% in 2025",
-      "url": "https://www.angop.ao/en/noticias/economia/mercado-segurador-angolano-cresce-21-em-2025/",
-      "source": "ANGOP",
-      "_key": "8cff450632f3ae97",
-      "score": 6
-    },
-    {
-      "title": "Contract employees to be integrated into permanent civil service positions",
-      "url": "https://www.angop.ao/en/noticias/sociedade/funcionarios-em-regime-de-contrato-transitam-para-quadro-definitivo/",
-      "source": "ANGOP",
-      "_key": "0f87212ee26f0efe",
-      "score": 6
-    },
-    {
-      "title": "Diário da República",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=48578",
-      "source": "ANGOP",
-      "_key": "0e9a38981e6fedcc",
-      "score": 6
-    },
-    {
-      "title": "Funcionários públicos com vários anos de contrato vão passar ao quadro definitivo",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34970-funcionarios-publicos-com-varios-anos-de-contrato-vao-passar-ao-quadro-definitivo",
-      "source": "Angola 24 Horas",
-      "_key": "152b601d15212ec4",
-      "score": 6
-    },
-    {
-      "title": "Executivo vai gastar mais de 210 milhões de dólares para acelerar serviços digitais",
-      "url": "https://correiokianda.info/executivo-vai-gastar-mais-de-210-milhoes-de-dolares-para-acelerar-servicos-digitais/",
-      "source": "Correio Kianda",
-      "_key": "1c05ef1d9c401d17",
-      "score": 6
-    },
-    {
-      "title": "Governo investe 4,6 milhões de dólares para reforçar cibersegurança do Estado",
-      "url": "https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/",
-      "source": "Diário dos Negócios",
-      "_key": "80d56932454cf3b8",
-      "score": 6
-    },
-    {
-      "title": "Cimangola chega ao fim com 28,13% para vender e contas por explicar",
+      "title": " Greve na TAAG cancelada e retomado diálogo- administração ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_ae8c190fb895a1",
-      "score": 6
+      "source": "Jornal O Guardião",
+      "_key": "t_f78372d2bf5d67",
+      "score": 7
     },
     {
-      "title": "Separação de funções entre Endiama e regulador pendurada há seis anos",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_35716247613155",
-      "score": 6
-    },
-    {
-      "title": "\"Temos de criar uma autoridade de fiscalização das pescas devido à corrupção e à fragmentação de competências\"",
-      "url": "https://expansao.co.ao/grande-entrevista/detalhe/temos-de-criar-uma-autoridade-de-fiscalizacao-das-pescas-devido-a-corrupcao-e-a-fragmentacao-de-competencias-74280.html",
-      "source": "Expansão",
-      "_key": "e7590319321d2163",
-      "score": 6
-    },
-    {
-      "title": "Destaque TAAG mantém operações normais após retirada de pré-aviso de greveA Administração da TAAG informou, segunda-feira, que foi retirado o pré-aviso de greve que previa uma paralisação a partir de 1 de Setembro, na sequência das reuniões realizadas com a estrutura sindical.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684500/taag-mant%C3%A9m-opera%C3%A7%C3%B5es-normais-ap%C3%B3s-retirada-de-pr%C3%A9-aviso-de-greve",
+      "title": "Destaque Índice de Produção Industrial desacelera 1,51 pontos em JulhoO Índice de Produção Industrial (IPI) registou, em Julho, uma variação mensal negativa de 0,16 por cento, representando uma diminuição de 1,51 ponto percentual em relação ao mês de Junho do mesmo ano, soube o JAOnline.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684544/%C3%ADndice-de-produ%C3%A7%C3%A3o-industrial-desacelera-151-pontos-em-julho",
       "source": "Jornal de Angola",
-      "_key": "d7e627f87f6a29d6",
-      "score": 6
+      "_key": "49e574410132f730",
+      "score": 7
     },
     {
-      "title": "Economia Antiga fábrica Mabor colocada à venda por seis mil milhões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684501/antiga-f%C3%A1brica-mabor-colocada-%C3%A0-venda-por-seis-mil-milh%C3%B5es",
+      "title": "Economia / Há 7 horas BDA prossegue com assinatura de Memorandos de Entendimento com bancos comerciais para reforço do sistema de controlo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684513/bda-prossegue-com-assinatura-de-memorandos-de-entendimento-com-bancos-comerciais-para-refor%C3%A7o-do-sistema-de-controlo",
       "source": "Jornal de Angola",
-      "_key": "dfe0fb2e558385bf",
-      "score": 6
+      "_key": "d0e8034561ca6bf7",
+      "score": 7
     },
     {
-      "title": "Economia / Há 3 horas Volume negociado na Bodiva atinge 6,4 biliões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684512/volume--negociado-na-bodiva-atinge-64-bili%C3%B5es-",
-      "source": "Jornal de Angola",
-      "_key": "65048df53f35160a",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 3 horas CMC autoriza entrada de Fundo de Investimento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684511/cmc-autoriza-entrada-de-fundo-de-investimento",
-      "source": "Jornal de Angola",
-      "_key": "d786a59f730f05ba",
-      "score": 6
-    },
-    {
-      "title": "Professora denuncia assalto dentro de um falso táxi bem identificado - Bandidos jogaram uma criança para fora do carro e deixaram prejuízo superior a 200 mil kwanzas",
-      "url": "https://namiradocrime.info/show/17386",
-      "source": "Na Mira do Crime",
-      "_key": "0b22b496c75f7152",
-      "score": 6
-    },
-    {
-      "title": "Foi há seis meses: Jovem de 21 anos desaparece do seio familiar após ser levado por indivíduos encapuzados e munidos com armas de fogo",
-      "url": "https://namiradocrime.info/show/17384",
-      "source": "Na Mira do Crime",
-      "_key": "1a4a97f460e3a62f",
-      "score": 6
-    },
-    {
-      "title": "Téte António represents Head of State at the NAM meeting",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-representa-chefe-de-estado-na-reuniao-dos-nao-alinhados/",
-      "source": "ANGOP",
-      "_key": "5831bc25a297f82c",
-      "score": 5
-    },
-    {
-      "title": "Angola attends meeting marking 65th anniversary of Non-Aligned Movement",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-participa-na-reuniao-comemorativa-dos-65-anos-dos-nao-alinhados/",
-      "source": "ANGOP",
-      "_key": "35a9510fc317bd29",
-      "score": 5
-    },
-    {
-      "title": "Angola Stock market trades 211.3 million Kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/mercado-de-accoes-movimenta-211-3-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "b1dc5ff576620d22",
-      "score": 5
-    },
-    {
-      "title": "Secretary of State calls for greater adaptation of public institutions to technology",
-      "url": "https://www.angop.ao/en/noticias/sociedade/secretario-de-estado-quer-maior-adaptacao-das-instituicoes-publicas-as-tecnologias/",
-      "source": "ANGOP",
-      "_key": "88da441cc619da08",
-      "score": 5
-    },
-    {
-      "title": "Ministério Público quer agravamento das penas no caso AGT",
-      "url": "https://correiokianda.info/ministerio-publico-quer-agravamento-das-penas-no-caso-agt/",
-      "source": "Correio Kianda",
-      "_key": "ff07fec75657b977",
-      "score": 5
-    },
-    {
-      "title": "        África1 hora atrás  EUA priorizam sector mineiro na RD Congo face a propostas do Afeganistão O governo dos Estados Unidos da América assegurou direitos prioritários de exploração mineira na República Democrática do Congo (RDC) através de um Acordo de Parceria Estratégica....   ",
-      "url": "https://correiokianda.info/eua-priorizam-sector-mineiro-na-rd-congo-face-a-propostas-do-afeganistao/",
-      "source": "Correio Kianda",
-      "_key": "7d4d25b29f9dcc29",
-      "score": 5
-    },
-    {
-      "title": "Queda na produção leva Acrep a prejuízos de 3,9 milhões USD",
-      "url": "https://expansao.co.ao/empresas/detalhe/queda-na-producao-leva-acrep-a-prejuizos-de-39-milhoes-usd-74284.html",
-      "source": "Expansão",
-      "_key": "b5e3785e962133b8",
-      "score": 5
-    },
-    {
-      "title": "Mulemba RE arranca hoje com ambição de liderar o resseguro em África",
-      "url": "https://forbesafricalusofona.com/mulemba-re-arranca-hoje-com-ambicao-de-liderar-o-resseguro-em-africa/",
+      "title": "Novo capítulo para o futuro da protecção em Angola: Mulemba Re quer construir uma indústria de seguros e resseguros mais forte",
+      "url": "https://forbesafricalusofona.com/novo-capitulo-para-o-futuro-da-proteccao-em-angola-mulemba-re-quer-construir-uma-industria-de-seguros-e-resseguros-mais-forte/",
       "source": "Forbes África",
-      "_key": "fea5199f9f16405e",
+      "_key": "e5cdd4e3fe919d1a",
+      "score": 6
+    },
+    {
+      "title": "AAF adere à AFA e abre nova frente para a expansão de negócios angolanos em África",
+      "url": "https://forbesafricalusofona.com/aaf-adere-a-afa-e-abre-nova-frente-para-a-expansao-de-negocios-angolanos-em-africa/",
+      "source": "Forbes África",
+      "_key": "c2efa29e3de78bb1",
+      "score": 6
+    },
+    {
+      "title": "Acordo com a LATAM abre à TAAG novos destinos no Brasil a partir de São Paulo",
+      "url": "https://forbesafricalusofona.com/acordo-com-a-latam-abre-a-taag-novos-destinos-no-brasil-a-partir-de-sao-paulo/",
+      "source": "Forbes África",
+      "_key": "7cdca3fac1c38753",
+      "score": 6
+    },
+    {
+      "title": "Simportex vê lucros cair 46,2% em 2025",
+      "url": "https://valoreconomico.co.ao/artigo/simportex-ve-lucros-cair-46-2-em-2025",
+      "source": "Valor Económico",
+      "_key": "cf5e1c25e822d9e0",
+      "score": 6
+    },
+    {
+      "title": "Shoprite aumenta vendas em 7,2% e lucro ajustado por acção...",
+      "url": "https://valoreconomico.co.ao/artigo/shoprite-aumenta-vendas-em-7-2-e-lucro-ajustado-por-accao-em-12-5",
+      "source": "Valor Económico",
+      "_key": "cbf8cae177ac3bde",
+      "score": 6
+    },
+    {
+      "title": "Ministra das Pescas aponta aquicultura como aposta para aumentar produção",
+      "url": "https://correiokianda.info/ministra-das-pescas-aponta-aquicultura-como-aposta-para-aumentar-producao/",
+      "source": "Correio Kianda",
+      "_key": "bd5d41273097c465",
       "score": 5
     },
     {
-      "title": "Destaque IDN aborda implicações da geopolítica do Corno de África para AngolaO Instituto de Defesa Nacional (IDN) promove, no dia 3 de Setembro, em Luanda, uma palestra de alto nível subordinada ao tema “A Geopolítica do Corno de África e as suas Implicações para Angola”, no âmbito das Palestras PensarAngola.com, enquadradas nas celebrações do 29.º aniversário da instituição, que se assinala hoje.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684517/idn-aborda-implica%C3%A7%C3%B5es-da-geopol%C3%ADtica-do-corno-de-%C3%A1frica-para-angola",
+      "title": "        África42 minutos atrás  PR moçambicano altera nomeação do novo governador do banco central O Presidente da República de Moçambique alterou a nomeação do novo governador do banco central moçambicano. A informação, que marca a actualidade económica da região da...   ",
+      "url": "https://correiokianda.info/pr-mocambicano-altera-nomeacao-do-novo-governador-do-banco-central/",
+      "source": "Correio Kianda",
+      "_key": "667647a4e2e00bdf",
+      "score": 5
+    },
+    {
+      "title": "Reviravolta no Banco de Moçambique: Felisberto Navalha sobe a governador após recuo presidencial",
+      "url": "https://forbesafricalusofona.com/reviravolta-no-banco-de-mocambique-felisberto-navalha-sobe-a-governador-apos-recuo-presidencial/",
+      "source": "Forbes África",
+      "_key": "aa62ddbb29956760",
+      "score": 5
+    },
+    {
+      "title": "Destaque Académicos discutem desafios da União Africana na resolução de conflitos em ÁfricaOs desafios da União Africana na prevenção e resolução de conflitos em África estão a ser debatidos, esta terça-feira, na Mediateca 28 de Agosto, em Luanda, durante um encontro que reúne académicos e especialistas em assuntos políticos, económicos e de segurança.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684543/acad%C3%A9micos-discutem-desafios-da-uni%C3%A3o-africana-na-resolu%C3%A7%C3%A3o-de-conflitos-em-%C3%A1frica",
       "source": "Jornal de Angola",
-      "_key": "31c5944313e2c5cb",
+      "_key": "6c36f7aa14a70b80",
       "score": 5
     },
     {
-      "title": "Política Angola participa na celebração dos 65 anos do Movimento dos Países Não Alinhados na Sérvia ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684539/angola-participa-na-celebra%C3%A7%C3%A3o-dos-65-anos-do-movimento-dos-pa%C3%ADses-n%C3%A3o-alinhados-na-s%C3%A9rvia",
+      "title": "Destaque Mensagem de João Lourenço entregue ao homólogo sérvio O ministro das Relações Exteriores, Téte António, entregou, esta terça-feira, ao Chefe de Estado, da Sérvia, Aleksandar Vučić, uma mensagem do Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684540/mensagem-de-jo%C3%A3o-louren%C3%A7o-entregue-ao-hom%C3%B3logo-s%C3%A9rvio-",
       "source": "Jornal de Angola",
-      "_key": "db810ab1b6f5d94b",
+      "_key": "4a3f18a8d977cfb1",
       "score": 5
     },
     {
-      "title": "Política Téte António participa na reunião dos Países Não Alinhados ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684538/t%C3%A9te-ant%C3%B3nio-participa-na-reuni%C3%A3o-dos-pa%C3%ADses-n%C3%A3o-alinhados",
+      "title": "Destaque Angola defende reforço do multilateralismo e respeito pela soberania dos EstadosAngola defendeu, hoje, em Belgrado, Sérvia, o reforço do multilateralismo e o respeito pelos princípios da soberania, independência, igualdade, coexistência pacífica e cooperação, considerando-os fundamentais para enfrentar os actuais desafios internacionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684545/angola-defende-refor%C3%A7o-do-multilateralismo-e-respeito-pela-soberania-dos-estados",
       "source": "Jornal de Angola",
-      "_key": "1472f55377aa6b82",
-      "score": 5
-    },
-    {
-      "title": "Cimeira de Luanda e os Desafios da Paz em África",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684474/cimeira-de-luanda-e-os-desafios-da-paz-em-%C3%A1frica",
-      "source": "Jornal de Angola",
-      "_key": "fd1ab82b2430dafd",
-      "score": 5
-    },
-    {
-      "title": "Economia / Há 3 horas Forúm Brasil e Angola reúne líderes empresariais ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684510/for%C3%BAm-brasil-e-angola-re%C3%BAne-l%C3%ADderes-empresariais",
-      "source": "Jornal de Angola",
-      "_key": "4d8f66e4e1d61558",
-      "score": 5
-    },
-    {
-      "title": "Economia / Há 3 horas Expo-Cabinda movimenta 1,3 mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684508/expo-cabinda-movimenta-13-mil-milh%C3%B5es-de-kwanzas-",
-      "source": "Jornal de Angola",
-      "_key": "31343d54065f5fd0",
-      "score": 5
-    },
-    {
-      "title": "“Os Tira Biquini” desmantelados pela Polícia por assaltos à mão armada no Cuanza-Sul",
-      "url": "https://namiradocrime.info/show/17385",
-      "source": "Na Mira do Crime",
-      "_key": "84f482dd8c498aee",
-      "score": 5
-    },
-    {
-      "title": "Cabinda regista primeira morte por varíola dos macacos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cabinda-regista-primeira-morte-por-variola-dos-macacos-e-assinala-41-internamentos-74347.html",
-      "source": "Novo Jornal",
-      "_key": "6b2f58368ffb1b34",
+      "_key": "40d3cb6296abe3cd",
       "score": 5
     }
   ]
