@@ -1,160 +1,480 @@
 {
-  "date": "2026-09-01",
-  "total_new": 39,
-  "total_filtered": 19,
+  "date": "2026-09-02",
+  "total_new": 108,
+  "total_filtered": 59,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "SIC-Luanda apresenta criminosos que mataram chefe de família com golpes de catana durante assalto no bairro dos Osso - Vítima deixa três filhos e viúva",
-      "url": "https://namiradocrime.info/show/17390",
-      "source": "Na Mira do Crime",
-      "_key": "4d0cdcdb6bb4b583",
+      "title": "Petróleo sobe pelo terceiro dia com tensão no Médio Oriente a ameaçar Ormuz",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-sobe-pelo-terceiro-dia-com-tensao-no-medio-oriente-a-ameacar-ormuz-74360.html",
+      "source": "Expansão",
+      "_key": "5ff950a7f988fcdf",
+      "score": 10,
+      "title_cn": "中东紧张局势威胁霍尔木兹，油价连续第三天上涨"
+    },
+    {
+      "title": "Destaque Cotação do Brent para entrega em Novembro sobe para 94,65 dólaresA cotação do barril de petróleo Brent para entrega em Novembro terminou hoje no mercado de futuros de Londres em alta de 4,59%, para os 94,65 dólares, depois de se conhecer um novo ataque dos EUA ao Irão.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684602/cota%C3%A7%C3%A3o-do-brent-para-entrega-em-novembro-sobe-para-9465-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "5a7a8a6754940839",
+      "score": 10,
+      "title_cn": "11月布伦特原油期货收涨4.59%，至每桶94.65美元"
+    },
+    {
+      "title": "Mineral Resources Minister says Angola offers stable environment for mining investment",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-considera-pais-estavel-para-investimentos-na-exploracao-mineira/",
+      "source": "ANGOP",
+      "_key": "c48c9ef01cc84da9",
       "score": 9,
-      "title_cn": "罗安达刑事调查局抓获奥索区持刀抢劫杀害一家之主嫌犯"
+      "title_cn": "安哥拉矿产资源部长：安哥拉为采矿投资提供稳定环境"
     },
     {
-      "title": "A HORA DA ORDEM: DESAFIOS E OPORTUNIDADES DO DIREITO MINEIRO.  ",
-      "url": "https://marginal.co.ao/programas/a-hora-da-ordem?ep=74352",
-      "source": "Novo Jornal",
-      "_key": "b494f01c02e0088f",
-      "score": 8,
-      "title_cn": "矿业法：挑战与机遇"
+      "title": "Etu Energias fica com as participações da Chevron nos blocos 14 e 14K por 260 milhões de dólares",
+      "url": "https://correiokianda.info/etu-energias-fica-com-as-participacoes-da-chevron-nos-blocos-14-e-14k-por-260-milhoes-de-dolares/",
+      "source": "Correio Kianda",
+      "_key": "3ab64c3265f280fc",
+      "score": 9,
+      "title_cn": "Etu Energias以2.6亿美元收购雪佛龙（Chevron）在14和14K区块的股份"
     },
     {
-      "title": "PIB cresce 2,7% no segundo trimestre",
-      "url": "https://valoreconomico.co.ao/artigo/pib-cresce-2-7-no-segundo-trimestre",
+      "title": "Escolta de material ferroso é a nova \"mina de ouro\" de polícias corruptos: casas de pesagem estão a pagar \"muito dinheiro\" em troca de escolta policial para movimentação de cargas",
+      "url": "https://namiradocrime.info/show/17397",
+      "source": "Na Mira do Crime",
+      "_key": "5d2fbaafb1498cc1",
+      "score": 9,
+      "title_cn": "腐败警察“护送”铁矿石成新“金矿”，称重站高价买警力"
+    },
+    {
+      "title": "Dólar atinge máximo de duas semanas com conflito no Médio...",
+      "url": "https://valoreconomico.co.ao/artigo/dolar-atinge-maximo-de-duas-semanas-com-conflito-no-medio-oriente-e-juros-em-foco",
       "source": "Valor Económico",
-      "_key": "0f682df166af6f13",
-      "score": 8,
-      "title_cn": "第二季度GDP增长2.7%"
+      "_key": "ca46e403f27a9e06",
+      "score": 9,
+      "title_cn": "中东冲突致美元升至两周高点"
     },
     {
-      "title": "Angola entra no mapa mundial do nióbio com projecto de Quilengues",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/34964-angola-entra-no-mapa-mundial-do-niobio-com-projecto-de-quilengues",
+      "title": "Angolan diplomat highlights efforts to attract investment to the country",
+      "url": "https://www.angop.ao/en/noticias/economia/diplomata-realca-captacao-de-investimento-para-angola/",
+      "source": "ANGOP",
+      "_key": "bb56a61035c36ca9",
+      "score": 8,
+      "title_cn": "安哥拉外交官强调吸引投资的努力"
+    },
+    {
+      "title": "PR autoriza concessão urbanística da Chicala avaliada em 39,89 mil milhões de kwanzas",
+      "url": "https://angola24horas.com/politica/item/34980-pr-autoriza-concessao-urbanistica-da-chicala-avaliada-em-39-89-mil-milhoes-de-kwanzas",
       "source": "Angola 24 Horas",
-      "_key": "4ae6984fd59c3a5a",
-      "score": 7,
-      "title_cn": "安哥拉凭借基伦格斯项目进入全球铌矿版图"
+      "_key": "5f1ea3af9218b5f8",
+      "score": 8,
+      "title_cn": "总统批准希卡拉（Chicala）城市开发项目，估值398.9亿宽扎"
     },
     {
-      "title": "Greve na TAAG cancelada e retomado diálogo- administração",
-      "url": "https://jornaloguardiao.com/2026/09/01/greve-na-taag-cancelada-e-retomado-dialogo-administracao/",
-      "source": "Jornal O Guardião",
-      "_key": "cc582fc411a9246f",
-      "score": 7,
-      "title_cn": "安哥拉航空罢工取消 管理层恢复对话"
+      "title": "Chicala vai ganhar nova área urbana com investimento de 39,89 mil milhões de kwanzas",
+      "url": "https://correiokianda.info/chicala-vai-ganhar-nova-area-urbana-com-investimento-de-3989-mil-milhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "bdfab60785101a11",
+      "score": 8,
+      "title_cn": "希卡拉（Chicala）将获398.9亿宽扎投资，建设新城区"
     },
     {
-      "title": " Greve na TAAG cancelada e retomado diálogo- administração ",
+      "title": "Três presumíveis assaltantes morrem após troca de tiros com a Polícia em Cacuaco",
+      "url": "https://correiokianda.info/tres-presumiveis-assaltantes-morrem-apos-troca-de-tiros-com-a-policia-em-cacuaco/",
+      "source": "Correio Kianda",
+      "_key": "5c4b8a9b8f36c391",
+      "score": 8,
+      "title_cn": "卡夸科（Cacuaco）三名嫌犯与警方枪战后死亡"
+    },
+    {
+      "title": "Implantação de portagens abre caminho a parcerias com privados",
+      "url": "https://expansao.co.ao/angola/detalhe/implantacao-de-portagens-abre-caminho-a-parcerias-com-privados-74283.html",
+      "source": "Expansão",
+      "_key": "4984f995059946fe",
+      "score": 8,
+      "title_cn": "收费站建设为私营合作铺平道路"
+    },
+    {
+      "title": "Destaque Executivo investe cerca de 300 milhões de euros em infra-estruturas do ensino superiorO Executivo autorizou despesas avaliadas em cerca de 300 milhões de euros para a concepção, construção e apetrechamento de infra-estruturas académicas da Universidade de Luanda e dos Institutos de Ciências da Educação do Sumbe e de Cabinda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684621/executivo-investe-cerca-de-300-milh%C3%B5es-de-euros-em-infra-estruturas-do-ensino-superior",
+      "source": "Jornal de Angola",
+      "_key": "1cc1bcbbe6c32da8",
+      "score": 8,
+      "title_cn": "安哥拉政府投资3亿欧元用于高等教育基础设施建设"
+    },
+    {
+      "title": "Marginais morrem em Cacuaco durante troca de tiros com à Polícia",
+      "url": "https://namiradocrime.info/show/17393",
+      "source": "Na Mira do Crime",
+      "_key": "1c5e17860ec31ad8",
+      "score": 8,
+      "title_cn": "卡夸科（Cacuaco）：罪犯与警方枪战中死亡"
+    },
+    {
+      "title": "Luanda: Polícia mata três homens que dispararam contra...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-policia-mata-tres-homens-que-dispararam-contra-cidadao-durante-assalto-74366.html",
+      "source": "Novo Jornal",
+      "_key": "0dfa07c2cfe34ad5",
+      "score": 8,
+      "title_cn": "罗安达：警方击毙三名开枪男子"
+    },
+    {
+      "title": "Aviões reduzem operações em Angola, mas transportam mais carga...",
+      "url": "https://valoreconomico.co.ao/artigo/avioes-reduzem-operacoes-em-angola-mas-transportam-mais-carga-do-que-passageiros",
+      "source": "Valor Económico",
+      "_key": "1e805e79d9364801",
+      "score": 8,
+      "title_cn": "飞机减少安哥拉航班，但货运量增加"
+    },
+    {
+      "title": "President João Lourenço reshuffles military and security structures",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-efectua-mudancas-nas-estruturas-militares-e-de-seguranca/",
+      "source": "ANGOP",
+      "_key": "1ff4c07e99414dbd",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统改组军事和安全机构"
+    },
+    {
+      "title": "Public Works Minister launches National Road 105 conservation project",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-lanca-projecto-de-conservacao-da-estrada-nacional-105/",
+      "source": "ANGOP",
+      "_key": "a008381ab1178b41",
+      "score": 7,
+      "title_cn": "公共工程部长启动105号国道养护项目"
+    },
+    {
+      "title": "Tetelo mine production reaches 7,000 tonnes of copper per day",
+      "url": "https://www.angop.ao/en/noticias/economia/mina-de-tetelo-atinge-sete-mil-toneladas-de-cobre-por-dia/",
+      "source": "ANGOP",
+      "_key": "5e54413c47ab4c82",
+      "score": 7,
+      "title_cn": "特特洛（Tetelo）铜矿日产量达7000吨"
+    },
+    {
+      "title": "Grande remodelação nas FAA e na Polícia Nacional: João Lourenço troca dezenas de chefias",
+      "url": "https://angola24horas.com/component/k2/item/34978-grande-remodelacao-nas-faa-e-na-policia-nacional-joao-lourenco-troca-dezenas-de-chefias",
+      "source": "Angola 24 Horas",
+      "_key": "2ff6a8bae9d7b0d8",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统大改组武装部队和国家警察领导层"
+    },
+    {
+      "title": "Executivo quer reduzir degradação da rede rodoviária com manutenção contínua",
+      "url": "https://correiokianda.info/executivo-quer-reduzir-degradacao-da-rede-rodoviaria-com-manutencao-continua/",
+      "source": "Correio Kianda",
+      "_key": "7629c6ec893a771e",
+      "score": 7,
+      "title_cn": "政府希望通过持续维护减少道路网络退化"
+    },
+    {
+      "title": "O Novo Regime de Taxas da CMC: Um Travão ao Desenvolvimento do Mercado de Capitais Angolano?",
+      "url": "https://correiokianda.info/o-novo-regime-de-taxas-da-cmc-um-travao-ao-desenvolvimento-do-mercado-de-capitais-angolano/",
+      "source": "Correio Kianda",
+      "_key": "454c00882305aaaf",
+      "score": 7,
+      "title_cn": "CMC新收费制度：安哥拉资本市场发展的阻碍？"
+    },
+    {
+      "title": "Estados Unidos voltam a atacar alvos no Irão em meio a escalada de tensão no Médio Oriente",
+      "url": "https://correiokianda.info/estados-unidos-voltam-a-atacar-alvos-no-irao-em-meio-a-escalada-de-tensao-no-medio-oriente/",
+      "source": "Correio Kianda",
+      "_key": "de2a7299cdcae812",
+      "score": 7,
+      "title_cn": "中东紧张局势升级，美国再次袭击伊朗目标"
+    },
+    {
+      "title": "Destaque Ministro Mário Oliveira preside lançamento da ZAP Fibra em Benguela O ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, encontra-se na província de Benguela, onde preside ao lançamento do projecto ZAP Fibra.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/684579/ministro-m%C3%A1rio-oliveira-preside-lan%C3%A7amento-da-zap-fibra-em-benguela",
+      "source": "Jornal de Angola",
+      "_key": "6631aa57478e78ca",
+      "score": 7,
+      "title_cn": "马里奥·奥利维拉（Mário Oliveira）部长主持本格拉（Benguela）ZAP光纤发布"
+    },
+    {
+      "title": "Três pescadores encontrados mortos com sinais de agressão nas praias do Bengo e Zaire - Um estava com o rosto desfigurado e sinais de amarrões",
+      "url": "https://namiradocrime.info/show/17396",
+      "source": "Na Mira do Crime",
+      "_key": "f4c578b636e3ef73",
+      "score": 7,
+      "title_cn": "本戈和扎伊尔海滩发现三名渔民被殴打致死"
+    },
+    {
+      "title": "Cidadão perde 04 milhões de kwanzas após cair em burla nas redes sociais para obter um terreno no Icolo e Bengo",
+      "url": "https://namiradocrime.info/show/17394",
+      "source": "Na Mira do Crime",
+      "_key": "404fd6723ca5592d",
+      "score": 7,
+      "title_cn": "公民因社交媒体诈骗，在伊科洛与本戈购地损失400万宽扎"
+    },
+    {
+      "title": "Suposto funcionário da PGR e comparsa detidos após alegado roubo de telemóveis avaliados em mais de 1 milhão de kwanzas no Calemba 2: Terceiro elemento está em fuga",
+      "url": "https://namiradocrime.info/show/17391",
+      "source": "Na Mira do Crime",
+      "_key": "423a63c887c0eb4c",
+      "score": 7,
+      "title_cn": "涉嫌盗窃百万宽扎手机，一名PGR雇员及其同伙在卡伦巴2区被捕"
+    },
+    {
+      "title": "PR faz alterações nas estruturas superiores das FAA...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-faz-alteracoes-nas-estruturas-superiores-das-faa-e-da-policia-nacional-74365.html",
+      "source": "Novo Jornal",
+      "_key": "478c4e31f91d14fb",
+      "score": 7,
+      "title_cn": "总统调整武装部队高层结构"
+    },
+    {
+      "title": "Depois dos tumultos com a Polícia, direcção da UNITA...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/depois-dos-tumultos-com-a-policia-direccao-da-unita-regressa-a-cidade-do-uige-para-tracar-estrategias-para-a-alternancia-do-poder-em-2027-74359.html",
+      "source": "Novo Jornal",
+      "_key": "476f7c1fac42b0be",
+      "score": 7,
+      "title_cn": "与警方冲突后，安盟（UNITA）领导层..."
+    },
+    {
+      "title": "Médio Oriente: Irão retalia contra novos ataques dos...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-irao-retalia-contra-novos-ataques-dos-eua-com-misseis-disparados-sobre-dezenas-de-bases-norte-americanas-na-regiao-74367.html",
+      "source": "Novo Jornal",
+      "_key": "ed60c63accf13bc9",
+      "score": 7,
+      "title_cn": "中东：伊朗报复新一轮袭击"
+    },
+    {
+      "title": "Aviões reduzem operações em Angola, mas transportam mais carga do...",
+      "url": "https://valoreconomico.co.ao/artigo/avioes-reduzem-operacoes-em-angola-mas-transportam-mais-carga-do-que-passageiros-14851",
+      "source": "Valor Económico",
+      "_key": "a049ed2203090200",
+      "score": 7,
+      "title_cn": "飞机减少安哥拉航班，但货运量增加"
+    },
+    {
+      "title": "QUANDO A ECONOMIA FECHA PORTAS",
+      "url": "https://valoreconomico.co.ao/artigo/quando-a-economia-fecha-portas",
+      "source": "Valor Económico",
+      "_key": "c2630e52d6e45db8",
+      "score": 7,
+      "title_cn": "经济衰退，企业倒闭"
+    },
+    {
+      "title": "“Sete mil kwanzas por uma portagem é muito dinheiro”",
+      "url": "https://valoreconomico.co.ao/artigo/sete-mil-kwanzas-por-uma-portagem-e-muito-dinheiro",
+      "source": "Valor Económico",
+      "_key": "b4f93748710a06f3",
+      "score": 7,
+      "title_cn": "“7000宽扎的过路费太贵了”"
+    },
+    {
+      "title": "TAAG and LATAM Brazil establish partnership",
+      "url": "https://www.angop.ao/en/noticias/economia/taag-e-latam-do-brasil-estabelecem-parceria/",
+      "source": "ANGOP",
+      "_key": "d9579b1abd2f2ef7",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）与拉塔姆巴西航空（LATAM Brazil）建立合作关系"
+    },
+    {
+      "title": "BODIVA falls in first trading session of September",
+      "url": "https://www.angop.ao/en/noticias/economia/bodiva-em-queda-na-primeira-sessao-de-setembro/",
+      "source": "ANGOP",
+      "_key": "90c5c7f6eb46dee2",
+      "score": 6,
+      "title_cn": "BODIVA在9月首个交易日下跌"
+    },
+    {
+      "title": "CEAST condena violência no Uíje e Cazombo e lança ultimato político a MPLA e UNITA",
+      "url": "https://angola24horas.com/politica/item/34974-ceast-condena-violencia-no-uije-e-cazombo-e-lanca-ultimato-politico-a-mpla-e-unita",
+      "source": "Angola 24 Horas",
+      "_key": "78a1ba197a23ccea",
+      "score": 6,
+      "title_cn": "安哥拉主教团谴责威热（Uíje）和卡宗博（Cazombo）暴力，向安人运和安盟发出政治最后通牒"
+    },
+    {
+      "title": "TAAG e LATAM Brasil firmam acordo e ampliam ligações entre luanda e destinos no território brasileiro",
+      "url": "https://correiokianda.info/taag-e-latam-brasil-firmam-acordo-e-ampliam-ligacoes-entre-luanda-e-destinos-no-territorio-brasileiro/",
+      "source": "Correio Kianda",
+      "_key": "42bea28e526419ee",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）与拉塔姆巴西航空（LATAM Brasil）签署协议，扩大罗安达与巴西航线"
+    },
+    {
+      "title": "Professores podem voltar à greve esta sexta-feira devido a alegados incumprimentos do Governo",
+      "url": "https://correiokianda.info/professores-podem-voltar-a-greve-esta-sexta-feira-devido-a-alegados-incumprimentos-do-governo/",
+      "source": "Correio Kianda",
+      "_key": "c46e673db897021d",
+      "score": 6,
+      "title_cn": "教师或因政府违约于周五再次罢工"
+    },
+    {
+      "title": "Mpox causa primeira morte confirmada em Cabinda",
+      "url": "https://correiokianda.info/mpox-causa-primeira-morte-confirmada-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "482e3de3b61dbd73",
+      "score": 6,
+      "title_cn": "卡宾达（Cabinda）出现首例猴痘死亡病例"
+    },
+    {
+      "title": "Áurea, BFA Capital Markets e Prospectium lideram negociações na bolsa",
+      "url": "https://expansao.co.ao/empresas/detalhe/aurea-bfa-capital-markets-e-prospectium-lideram-negociacoes-na-bolsa-74286.html",
+      "source": "Expansão",
+      "_key": "7b8ed6aa6b96c21f",
+      "score": 6,
+      "title_cn": "奥雷亚（Áurea）、BFA资本市场和展望公司领跑股市交易"
+    },
+    {
+      "title": "Queda na produção leva Acrep a prejuízos de 3,9 milhões USD",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f78372d2bf5d67",
-      "score": 7,
-      "title_cn": "安哥拉航空罢工取消 管理层恢复对话"
+      "source": "Expansão",
+      "_key": "t_3ed4cd6419f616",
+      "score": 6,
+      "title_cn": "产量下降致Acrep亏损390万美元"
     },
     {
-      "title": "Destaque Índice de Produção Industrial desacelera 1,51 pontos em JulhoO Índice de Produção Industrial (IPI) registou, em Julho, uma variação mensal negativa de 0,16 por cento, representando uma diminuição de 1,51 ponto percentual em relação ao mês de Junho do mesmo ano, soube o JAOnline.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684544/%C3%ADndice-de-produ%C3%A7%C3%A3o-industrial-desacelera-151-pontos-em-julho",
+      "title": "BCS e Mastercard reforçam pagamentos digitais e benefícios dos cartões em Angola",
+      "url": "https://forbesafricalusofona.com/bcs-e-mastercard-reforcam-pagamentos-digitais-e-beneficios-dos-cartoes-em-angola/",
+      "source": "Forbes África",
+      "_key": "455cd2b3deb840ad",
+      "score": 6,
+      "title_cn": "BCS与万事达卡（Mastercard）加强安哥拉数字支付和银行卡服务"
+    },
+    {
+      "title": "Jovem apela à industrialização de Angola e a mais oportunidades para os cidadãos",
+      "url": "https://holdonangola.com/jovem-apela-a-industrializacao-de-angola-e-a-mais-oportunidades-para-os-cidadaos/",
+      "source": "Hold On Angola",
+      "_key": "29898ef24977c83e",
+      "score": 6,
+      "title_cn": "青年呼吁安哥拉工业化，为公民创造更多机会"
+    },
+    {
+      "title": "Exposições que revelam a força empresarial de Angola",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684587/exposi%C3%A7%C3%B5es-que-revelam--a-for%C3%A7a-empresarial-de-angola",
       "source": "Jornal de Angola",
-      "_key": "49e574410132f730",
-      "score": 7,
-      "title_cn": "7月工业生产指数放缓1.51点 月度负增长0.16%"
-    },
-    {
-      "title": "Economia / Há 7 horas BDA prossegue com assinatura de Memorandos de Entendimento com bancos comerciais para reforço do sistema de controlo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684513/bda-prossegue-com-assinatura-de-memorandos-de-entendimento-com-bancos-comerciais-para-refor%C3%A7o-do-sistema-de-controlo",
-      "source": "Jornal de Angola",
-      "_key": "d0e8034561ca6bf7",
-      "score": 7,
-      "title_cn": "安哥拉发展银行与商业银行签署备忘录 加强控制系统"
-    },
-    {
-      "title": "Novo capítulo para o futuro da protecção em Angola: Mulemba Re quer construir uma indústria de seguros e resseguros mais forte",
-      "url": "https://forbesafricalusofona.com/novo-capitulo-para-o-futuro-da-proteccao-em-angola-mulemba-re-quer-construir-uma-industria-de-seguros-e-resseguros-mais-forte/",
-      "source": "Forbes África",
-      "_key": "e5cdd4e3fe919d1a",
+      "_key": "1c31802c2d3edc63",
       "score": 6,
-      "title_cn": "穆伦巴再保险公司旨在安哥拉构建更强保险再保险业"
+      "title_cn": "展览展现安哥拉企业实力"
     },
     {
-      "title": "AAF adere à AFA e abre nova frente para a expansão de negócios angolanos em África",
-      "url": "https://forbesafricalusofona.com/aaf-adere-a-afa-e-abre-nova-frente-para-a-expansao-de-negocios-angolanos-em-africa/",
-      "source": "Forbes África",
-      "_key": "c2efa29e3de78bb1",
+      "title": "FAS com novo director em Malanje após afastamento de Golombole acusado de desviar mais de 1 bilião de kwanzas do Kwenda",
+      "url": "https://namiradocrime.info/show/17398",
+      "source": "Na Mira do Crime",
+      "_key": "3b7340af682dcbc5",
       "score": 6,
-      "title_cn": "安哥拉农业联合会加入非洲农业联合会 拓展非洲业务新阵线"
+      "title_cn": "戈隆博莱（Golombole）被控挪用10亿宽扎后，马兰热（Malanje）社会援助基金任命新主任"
     },
     {
-      "title": "Acordo com a LATAM abre à TAAG novos destinos no Brasil a partir de São Paulo",
-      "url": "https://forbesafricalusofona.com/acordo-com-a-latam-abre-a-taag-novos-destinos-no-brasil-a-partir-de-sao-paulo/",
-      "source": "Forbes África",
-      "_key": "7cdca3fac1c38753",
+      "title": "Trabalhador da “Ango Rayan” morre durante actividade laboral - Família acusa direcção da empresa de se recusar a prestar esclarecimentos sobre às circunstâncias da morte",
+      "url": "https://namiradocrime.info/show/17395",
+      "source": "Na Mira do Crime",
+      "_key": "16997da792c9ee43",
       "score": 6,
-      "title_cn": "安哥拉航空与拉塔姆航空协议 开通圣保罗至巴西新航线"
+      "title_cn": "“安哥拉扬”工人工作中死亡，家属指控公司拒绝解释死因"
     },
     {
-      "title": "Simportex vê lucros cair 46,2% em 2025",
-      "url": "https://valoreconomico.co.ao/artigo/simportex-ve-lucros-cair-46-2-em-2025",
+      "title": "Presidente da República vai ao Cunene para inaugurar...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/presidente-da-republica-vai-ao-cunene-para-inaugurar-as-barragens-do-calucuve-e-do-ndue-74368.html",
+      "source": "Novo Jornal",
+      "_key": "f1edd9378b8b327d",
+      "score": 6,
+      "title_cn": "共和国总统将赴库内内（Cunene）揭幕"
+    },
+    {
+      "title": "Amnistia Internacional pede protecção de angolanos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/amnistia-internacional-pede-proteccao-de-angolanos-empurrados-pela-seca-para-a-namibia-74369.html",
+      "source": "Novo Jornal",
+      "_key": "8ed8520ce0b0dfed",
+      "score": 6,
+      "title_cn": "国际特赦组织呼吁保护安哥拉人"
+    },
+    {
+      "title": "Kilamba e KK 5000 \"mais uma vez\" com restrições de...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/kilamba-e-kk-5000-mais-uma-vez-com-restricoes-de-agua-74364.html",
+      "source": "Novo Jornal",
+      "_key": "846c217841441193",
+      "score": 6,
+      "title_cn": "基兰巴（Kilamba）和KK 5000再次面临限制"
+    },
+    {
+      "title": "Território brasileiro à distância de um bilhete com novo acordo da TAAG",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/territorio-brasileiro-a-distancia-de-um-bilhete-com-novo-acordo-da-taag-74354.html",
+      "source": "Novo Jornal",
+      "_key": "00aee1f12ee82e71",
+      "score": 6,
+      "title_cn": "安哥拉航空（TAAG）新协议让巴西触手可及"
+    },
+    {
+      "title": "Auditores angolanos já ultrapassam PwC e KPMG no sector empresarial...",
+      "url": "https://valoreconomico.co.ao/artigo/auditores-angolanos-ja-ultrapassam-pwc-e-kpmg-no-sector-empresarial-publico",
       "source": "Valor Económico",
-      "_key": "cf5e1c25e822d9e0",
+      "_key": "01aea0b41a0813dd",
       "score": 6,
-      "title_cn": "辛波特克斯公司预计2025年利润下降46.2%"
+      "title_cn": "安哥拉审计师在商业领域已超越普华永道（PwC）和毕马威（KPMG）"
     },
     {
-      "title": "Shoprite aumenta vendas em 7,2% e lucro ajustado por acção...",
-      "url": "https://valoreconomico.co.ao/artigo/shoprite-aumenta-vendas-em-7-2-e-lucro-ajustado-por-accao-em-12-5",
+      "title": "Quatro empresas concentram 90% dos incumprimentos do Propriv",
+      "url": "https://valoreconomico.co.ao/artigo/quatro-empresas-concentram-90-dos-incumprimentos-do-propriv",
       "source": "Valor Económico",
-      "_key": "cbf8cae177ac3bde",
+      "_key": "d440b7a9729d9814",
       "score": 6,
-      "title_cn": "Shoprite销售额增长7.2% 调整后每股收益增加"
+      "title_cn": "四家公司占私有化计划（Propriv）违约的90%"
     },
     {
-      "title": "Ministra das Pescas aponta aquicultura como aposta para aumentar produção",
-      "url": "https://correiokianda.info/ministra-das-pescas-aponta-aquicultura-como-aposta-para-aumentar-producao/",
+      "title": "Governo supera seis metas do PDN, mas fica aquém dos...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-supera-seis-metas-do-pdn-mas-fica-aquem-dos-objectivos-da-agricultura-e-das-pescas",
+      "source": "Valor Económico",
+      "_key": "75b1551646bbe71e",
+      "score": 6,
+      "title_cn": "政府超额完成国家发展计划（PDN）六项目标，但仍有不足"
+    },
+    {
+      "title": "President João Lourenço sends message to Zambian counterpart",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-lourenco-envia-mensagem-ao-homologo-da-zambia/",
+      "source": "ANGOP",
+      "_key": "367c77dd67bccc51",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统致函赞比亚总统"
+    },
+    {
+      "title": "Angola reaffirms commitment to multilateralism",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-compromisso-com-o-multilateralismo-2/",
+      "source": "ANGOP",
+      "_key": "3d2a3cede8080cd0",
+      "score": 5,
+      "title_cn": "安哥拉重申对多边主义的承诺"
+    },
+    {
+      "title": "China rejeita partes da declaração do G20 sobre desequilíbrios económicos",
+      "url": "https://correiokianda.info/china-rejeita-partes-da-declaracao-do-g20-sobre-desequilibrios-economicos/",
       "source": "Correio Kianda",
-      "_key": "bd5d41273097c465",
+      "_key": "f43f04b77a02420d",
       "score": 5,
-      "title_cn": "渔业部长指出水产养殖是增产重点"
+      "title_cn": "中国拒绝G20关于经济失衡声明的部分内容"
     },
     {
-      "title": "        África42 minutos atrás  PR moçambicano altera nomeação do novo governador do banco central O Presidente da República de Moçambique alterou a nomeação do novo governador do banco central moçambicano. A informação, que marca a actualidade económica da região da...   ",
-      "url": "https://correiokianda.info/pr-mocambicano-altera-nomeacao-do-novo-governador-do-banco-central/",
-      "source": "Correio Kianda",
-      "_key": "667647a4e2e00bdf",
+      "title": "Reclamações caem 8% e demora na resolução de sinistros lidera queixas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3c83dc07785e8c",
       "score": 5,
-      "title_cn": "莫桑比克总统更改新央行行长任命"
+      "title_cn": "投诉下降8%，理赔延迟仍是主要抱怨"
     },
     {
-      "title": "Reviravolta no Banco de Moçambique: Felisberto Navalha sobe a governador após recuo presidencial",
-      "url": "https://forbesafricalusofona.com/reviravolta-no-banco-de-mocambique-felisberto-navalha-sobe-a-governador-apos-recuo-presidencial/",
-      "source": "Forbes África",
-      "_key": "aa62ddbb29956760",
-      "score": 5,
-      "title_cn": "莫桑比克银行人事逆转：总统撤回任命后 费利斯贝托·纳瓦利亚（Felisberto Navalha）升任行长"
-    },
-    {
-      "title": "Destaque Académicos discutem desafios da União Africana na resolução de conflitos em ÁfricaOs desafios da União Africana na prevenção e resolução de conflitos em África estão a ser debatidos, esta terça-feira, na Mediateca 28 de Agosto, em Luanda, durante um encontro que reúne académicos e especialistas em assuntos políticos, económicos e de segurança.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684543/acad%C3%A9micos-discutem-desafios-da-uni%C3%A3o-africana-na-resolu%C3%A7%C3%A3o-de-conflitos-em-%C3%A1frica",
+      "title": "Destaque Angola e Botswana reúnem 20 anos depois para assinatura de vários instrumentosCerca de 20 anos depois da criação da Comissão Mista Bilateral entre Angola e Botswana, os dois países reúnem-se, de 3 a 5 de Setembro, em Luanda, num encontro que antecede a visita de Estado do Presidente da República do Botswana, Duma Boko, a Angola, nos próximos dias.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684608/angola-e-botswana-re%C3%BAnem-20-anos-depois-para-assinatura-de-v%C3%A1rios-instrumentos",
       "source": "Jornal de Angola",
-      "_key": "6c36f7aa14a70b80",
+      "_key": "77e5963ccd966a81",
       "score": 5,
-      "title_cn": "学者讨论非洲联盟在解决非洲冲突方面的挑战"
+      "title_cn": "安哥拉与博茨瓦纳时隔20年再次会晤，签署多项协议"
     },
     {
-      "title": "Destaque Mensagem de João Lourenço entregue ao homólogo sérvio O ministro das Relações Exteriores, Téte António, entregou, esta terça-feira, ao Chefe de Estado, da Sérvia, Aleksandar Vučić, uma mensagem do Presidente da República, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684540/mensagem-de-jo%C3%A3o-louren%C3%A7o-entregue-ao-hom%C3%B3logo-s%C3%A9rvio-",
+      "title": "Sociedade Angola e Ilhas Maurícias identificam novas áreas de cooperação e financiamento ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684622/angola-e-ilhas-maur%C3%ADcias-identificam-novas-%C3%A1reas-de-coopera%C3%A7%C3%A3o-e-financiamento",
       "source": "Jornal de Angola",
-      "_key": "4a3f18a8d977cfb1",
+      "_key": "527632019e981afd",
       "score": 5,
-      "title_cn": "外交部长特特·安东尼奥（Téte António）向塞尔维亚总统亚历山大·武契奇（Aleksandar Vučić）递交若昂·洛伦索（João Lourenço）信函"
+      "title_cn": "安哥拉与毛里求斯确定新的合作和融资领域"
     },
     {
-      "title": "Destaque Angola defende reforço do multilateralismo e respeito pela soberania dos EstadosAngola defendeu, hoje, em Belgrado, Sérvia, o reforço do multilateralismo e o respeito pelos princípios da soberania, independência, igualdade, coexistência pacífica e cooperação, considerando-os fundamentais para enfrentar os actuais desafios internacionais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684545/angola-defende-refor%C3%A7o-do-multilateralismo-e-respeito-pela-soberania-dos-estados",
-      "source": "Jornal de Angola",
-      "_key": "40d3cb6296abe3cd",
+      "title": "RDC/Ébola: Vacina experimental alimenta esperança de travar um dos piores surtos",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdcebola-vacina-experimental-alimenta-esperanca-de-travar-um-dos-piores-surtos-74348.html",
+      "source": "Novo Jornal",
+      "_key": "e0f1b0fe6f12cb78",
       "score": 5,
-      "title_cn": "安哥拉在贝尔格莱德主张加强多边主义和尊重国家主权"
+      "title_cn": "刚果民主共和国埃博拉：实验性疫苗有望遏制最严重疫情"
     }
   ]
 }
