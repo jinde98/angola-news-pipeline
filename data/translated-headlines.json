@@ -1,264 +1,104 @@
 {
   "date": "2026-09-03",
-  "total_new": 90,
-  "total_filtered": 32,
+  "total_new": 34,
+  "total_filtered": 12,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Lobito Corridor dream becomes reality",
-      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/sonho-do-corredor-do-lobito-vira-realidade/",
-      "source": "ANGOP",
-      "_key": "5399655fb94581e7",
-      "score": 10,
-      "title_cn": "洛比托走廊梦想成真"
+      "title": "NJ Ayuk retrata a reviravolta do petróleo angolano e o regresso do capital ao sector",
+      "url": "https://forbesafricalusofona.com/nj-ayuk-retrata-a-reviravolta-do-petroleo-angolano-e-o-regresso-do-capital-ao-sector/",
+      "source": "Forbes África",
+      "_key": "d9c4f9eabb232126",
+      "score": 9,
+      "title_cn": "恩杰·阿尤克(NJ Ayuk)描绘安哥拉石油业复苏及资本回流"
     },
     {
-      "title": "Angola prepara cabo submarino doméstico para ligar cidades costeiras",
-      "url": "https://correiokianda.info/angola-prepara-cabo-submarino-domestico-para-ligar-cidades-costeiras/",
-      "source": "Correio Kianda",
-      "_key": "2cd7ecc33fc6b1f6",
+      "title": "Atlântico bank disburses USD 50 million for mining projects",
+      "url": "https://www.angop.ao/en/noticias/economia/banco-atlantico-desembolsa-usd-50-milhoes-para-projectos-mineiros/",
+      "source": "ANGOP",
+      "_key": "f86f3654181c4a71",
       "score": 8,
-      "title_cn": "安哥拉筹备国内海底光缆，连接沿海城市"
+      "title_cn": "大西洋银行拨付5000万美元用于采矿项目"
     },
     {
-      "title": "PGR promete resposta firme contra fraude fiscal e branqueamento de capitais",
-      "url": "https://correiokianda.info/pgr-promete-resposta-firme-contra-fraude-fiscal-e-branqueamento-de-capitais/",
-      "source": "Correio Kianda",
-      "_key": "a7799cc735f16bdc",
-      "score": 8,
-      "title_cn": "检察总署承诺严厉打击税务欺诈和洗钱"
-    },
-    {
-      "title": "Destaque Vera Daves defende maior rigor na execução da despesa públicaA ministra das Finanças, Vera Daves de Sousa, reiterou, na quarta-feira, o compromisso do Executivo com o rigor e a disciplina na gestão das finanças públicas, defendendo maior responsabilidade dos órgãos públicos na execução da despesa.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684663/vera-daves-defende-maior-rigor-na-execu%C3%A7%C3%A3o-da-despesa-p%C3%BAblica",
-      "source": "Jornal de Angola",
-      "_key": "636f1ce0cc3d96a5",
-      "score": 8,
-      "title_cn": "维拉·达维斯（Vera Daves）部长呼吁严格执行公共开支"
-    },
-    {
-      "title": "Sociedade Cabo submarino de fibra óptica beneficia cidades costeiras do país ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684647/cabo-submarino-de-fibra-%C3%B3ptica-beneficia-cidades-costeiras-do-pa%C3%ADs---",
-      "source": "Jornal de Angola",
-      "_key": "fbf452c0b17dfaeb",
-      "score": 8,
-      "title_cn": "海底光缆造福沿海城市"
-    },
-    {
-      "title": "Government intends to extend fiber optics countrywide",
-      "url": "https://www.angop.ao/en/noticias/tecnologia/governo-pretende-estender-fibra-optica-a-todo-o-pais/",
-      "source": "ANGOP",
-      "_key": "96163de44bb55994",
-      "score": 7,
-      "title_cn": "政府计划全国范围推广光纤网络"
-    },
-    {
-      "title": "Angola Tax Administration referred 35 crime cases to Attorney General’s Office",
-      "url": "https://www.angop.ao/en/noticias/economia/35-processos-sobre-crimes-tributarios-submetidos-a-pgr/",
-      "source": "ANGOP",
-      "_key": "eb0c85eed81f5e8a",
-      "score": 7,
-      "title_cn": "安哥拉税务局将35起犯罪案件移交检察总署"
-    },
-    {
-      "title": "Ndúe and Calucuve dams set to transform agricultural activity in Cunene Province",
-      "url": "https://www.angop.ao/en/noticias/grandes-reportagens/ndue-e-calucuve-viram-pagina-da-actividade-agricola-no-cunene/",
-      "source": "ANGOP",
-      "_key": "6aa78d48e3ff6518",
-      "score": 7,
-      "title_cn": "恩杜埃和卡卢库韦大坝将改变库内内省农业面貌"
-    },
-    {
-      "title": "Ministry of public works develops national road rehabilitation plan",
-      "url": "https://www.angop.ao/en/noticias/transporte/ministerio-das-obras-publicas-desenvolve-plano-nacional-de-reabilitacao-de-estradas/",
-      "source": "ANGOP",
-      "_key": "1df7c76e31ac46e2",
-      "score": 7,
-      "title_cn": "公共工程部制定国家公路修复计划"
-    },
-    {
-      "title": "Executivo investe 55 mil milhões na construção de 14 pontes no Cuanza-Sul",
-      "url": "https://correiokianda.info/executivo-investe-55-mil-milhoes-na-construcao-de-14-pontes-no-cuanza-sul/",
-      "source": "Correio Kianda",
-      "_key": "9383ccc28a2b63b0",
-      "score": 7,
-      "title_cn": "政府投资550亿宽扎在南宽扎省修建14座桥梁"
-    },
-    {
-      "title": "Reabilitação de 75 quilómetros da nacional 240 vai custar mais de 104 mil milhões de kwanzas",
-      "url": "https://correiokianda.info/reabilitacao-de-75-quilometros-da-nacional-240-vai-custar-mais-de-104-mil-milhoes-de-kwanzas/",
-      "source": "Correio Kianda",
-      "_key": "7805f5b85293b9f0",
-      "score": 7,
-      "title_cn": "240号国道75公里路段修复工程耗资逾1040亿宽扎"
-    },
-    {
-      "title": "AGT investiga 35 casos suspeitos de fraude e fuga ao fisco",
-      "url": "https://correiokianda.info/agt-investiga-35-casos-suspeitos-de-fraude-e-fuga-ao-fisco/",
-      "source": "Correio Kianda",
-      "_key": "9e280149bbef2de7",
-      "score": 7,
-      "title_cn": "税务总局调查35起涉嫌欺诈和逃税案件"
-    },
-    {
-      "title": "Destaque Mário Oliveira destaca papel da FITITEL na transformação digital do paísO ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira, destacou, esta quarta-feira, em Luanda, o papel da Feira Internacional de Tecnologias de Informação e Comunicação (FITITEL) na promoção da inovação e no desenvolvimento tecnológico de Angola.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684684/m%C3%A1rio-oliveira-destaca-papel-da-fititel-na-transforma%C3%A7%C3%A3o-digital-do-pa%C3%ADs",
-      "source": "Jornal de Angola",
-      "_key": "3f24b5adcd890660",
-      "score": 7,
-      "title_cn": "马里奥·奥利维拉（Mário Oliveira）强调FITITEL在国家数字化转型中的作用"
-    },
-    {
-      "title": "Reabilitação da EN-240 vai melhorar a circulação no interior do Cuanza-Sul A circulação de pessoas e mercadorias no interior da província do Cuanza-Sul vai ser melhorada, com o início, quarta-feira, da reabilitação da Estrada Nacional (EN)-240, no troço entre o Instituto Nacional de Petróleos, no Sumbe, e o município da Gabela, com uma extensão de 75 quilómetros.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684637/reabilita%C3%A7%C3%A3o-da-en-240-vai-melhorar-a-circula%C3%A7%C3%A3o-no-interior-do-cuanza-sul",
-      "source": "Jornal de Angola",
-      "_key": "324ed03a843acc02",
-      "score": 7,
-      "title_cn": "240号国道修复将改善南宽扎省内部交通"
-    },
-    {
-      "title": "AGT entrega à PGR mais de 30 processos no primeiro...",
-      "url": "https://valoreconomico.co.ao/artigo/agt-entrega-a-pgr-mais-de-30-processos-no-primeiro-semestre",
+      "title": "Ministro aponta Tetelo como potencial operação mineira de classe mundial",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-aponta-tetelo-como-potencial-operacao-mineira-de-classe-mundial-14869",
       "source": "Valor Económico",
-      "_key": "973a0ca6ea457ca9",
+      "_key": "cfe791da13f0bb3f",
+      "score": 8,
+      "title_cn": "部长指出Tetelo有望成为世界级采矿项目"
+    },
+    {
+      "title": "Sonangol strengthens focus on competitiveness",
+      "url": "https://www.angop.ao/en/noticias/economia/sonangol-reforca-aposta-na-competitividade/",
+      "source": "ANGOP",
+      "_key": "277240ff84a77a3e",
       "score": 7,
-      "title_cn": "税务总局向检察总署移交30多起案件"
+      "title_cn": "安哥拉国家石油公司加强竞争力建设"
+    },
+    {
+      "title": "PR defende reforço do investimento privado para acelerar o desenvolvimento económico",
+      "url": "https://forbesafricalusofona.com/pr-defende-reforco-do-investimento-privado-para-acelerar-o-desenvolvimento-economico/",
+      "source": "Forbes África",
+      "_key": "a674fe48ccb81edc",
+      "score": 7,
+      "title_cn": "总统主张加强私人投资以加速经济发展"
+    },
+    {
+      "title": "Crédito ao Sector Real cresce 9,7% com impulso da indústria...",
+      "url": "https://valoreconomico.co.ao/artigo/credito-ao-sector-real-cresce-9-7-com-impulso-da-industria-e-agricultura",
+      "source": "Valor Económico",
+      "_key": "0e5472697c03c0bb",
+      "score": 7,
+      "title_cn": "实体经济信贷增长9.7%，受工业发展推动"
+    },
+    {
+      "title": "President João Lourenço appoints new Police commander for eastern Lunda Norte",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-nomeia-novo-comandante-da-policia-na-lunda-norte/",
+      "source": "ANGOP",
+      "_key": "f457ff88ca3fa49b",
+      "score": 6,
+      "title_cn": "总统若昂·洛伦索(João Lourenço)任命隆达北省东部新任警察指挥官"
     },
     {
       "title": "Road preservation relies on the installation of weighbridges",
-      "url": "https://www.angop.ao/en/noticias/economia/conservacao-de-estradas-passa-pela-instalacao-de-balancas/",
+      "url": "https://www.angop.ao/en/noticias/economia/ministro-anuncia-instalacao-de-balanca-na-en100/",
       "source": "ANGOP",
-      "_key": "1a2af08233a80587",
+      "_key": "383085eb40597f5c",
       "score": 6,
-      "title_cn": "道路养护依赖安装称重站"
+      "title_cn": "道路养护依赖地磅安装"
     },
     {
-      "title": "Public Works Ministry to rehabilitate 41 kilometres of EN100 South",
-      "url": "https://www.angop.ao/en/noticias/economia/estrada-nacional-100-entra-em-reabilitacao-no-cabo-ledo/",
-      "source": "ANGOP",
-      "_key": "f8ff79509ad42a55",
+      "title": "AGT entregou à justiça 35 processos de crimes tributários este anos",
+      "url": "https://jornaloguardiao.com/2026/09/03/agt-entregou-a-justica-35-processos-de-crimes-tributarios-este-anos/",
+      "source": "Jornal O Guardião",
+      "_key": "74881551fbaef261",
       "score": 6,
-      "title_cn": "公共工程部将修复100号国道南段41公里"
+      "title_cn": "安哥拉税务总局今年向司法机关移交35起税务犯罪案件"
     },
     {
-      "title": "Angola and Mauritius explore partnership in electricity sector",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-e-mauricias-projectam-parceria-no-sector-electrico/",
-      "source": "ANGOP",
-      "_key": "dd0c6b9457bdc222",
-      "score": 6,
-      "title_cn": "安哥拉与毛里求斯探讨电力领域合作"
-    },
-    {
-      "title": "Seis programas do Governo excederam o orçamento para 2026 no final de Junho",
+      "title": " AGT entregou à justiça 35 processos de crimes tributários este anos ",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_9129bd08f39187",
+      "source": "Jornal O Guardião",
+      "_key": "t_274cadd89124a2",
       "score": 6,
-      "title_cn": "截至6月底，政府六个项目超出2026年预算"
+      "title_cn": "安哥拉税务总局今年向司法机关移交35起税务犯罪案件"
     },
     {
-      "title": "Destaque Presidente da República exonera comandante da Polícia na Lunda-Norte O Chefe de Estado, João Lourenço, exonerou, hoje, o comissário Gerson Vieira Miguel do cargo de delegado do Ministério do Interior e comandante provincial da Polícia Nacional na Lunda Norte.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684701/presidente-da-rep%C3%BAblica-exonera-comandante-da-pol%C3%ADcia-na-lunda-norte-",
-      "source": "Jornal de Angola",
-      "_key": "e36b433a794261cc",
+      "title": "Rússia prevê ligeira redução da produção de petróleo em 2026",
+      "url": "https://valoreconomico.co.ao/artigo/russia-preve-ligeira-reducao-da-producao-de-petroleo-em-2026",
+      "source": "Valor Económico",
+      "_key": "18630c1f26328f6c",
       "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统解除北隆达省警察司令职务"
+      "title_cn": "俄罗斯预测2026年石油产量将小幅下降"
     },
     {
-      "title": "Sociedade Polícia frustra roubo de motorizada em Cacuaco e três suspeitos morrem em troca de tiros ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684681/pol%C3%ADcia-frustra-roubo-de-motorizada-em-cacuaco-e-tr%C3%AAs-suspeitos-morrem-em-troca-de-tiros",
-      "source": "Jornal de Angola",
-      "_key": "e4d8ab4626ba455c",
-      "score": 6,
-      "title_cn": "卡夸科警方挫败摩托车盗窃案，三名嫌犯在枪战中死亡"
-    },
-    {
-      "title": "Mundo OMM alerta para El Niño “muito forte” até Fevereiro de 2027 ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/684680/omm-alerta-para-el-ni%C3%B1o-%E2%80%9Cmuito-forte%E2%80%9D-at%C3%A9-fevereiro-de-2027",
-      "source": "Jornal de Angola",
-      "_key": "806105d6165eb427",
-      "score": 6,
-      "title_cn": "世界气象组织警告：强厄尔尼诺现象将持续至2027年2月"
-    },
-    {
-      "title": "Sociedade FITITEL: Feira Tecnológica abre hoje em Luanda com 90 expositores ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684646/fititel:-feira-tecnol%C3%B3gica-abre-hoje-em-luanda-com-90-expositores",
-      "source": "Jornal de Angola",
-      "_key": "4a0b896d45112697",
-      "score": 6,
-      "title_cn": "FITITEL科技展今日在罗安达开幕，90家参展商亮相"
-    },
-    {
-      "title": "CPL aperta o cerco às casas de pesagem de material ferroso: Chefe do DIIP que rejeitou 100 mil kwanzas de corrupção vai encaixar 1 milhão por ordem do tribunal",
-      "url": "https://namiradocrime.info/show/17407",
-      "source": "Na Mira do Crime",
-      "_key": "d63278ba7a4095e6",
-      "score": 6,
-      "title_cn": "刑事警察局严查废铁称重站；拒收10万宽扎贿赂的刑事调查局负责人将获法院100万宽扎奖励"
-    },
-    {
-      "title": "Clima: \"Super El Niño\" vai ser muito forte e muito...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/clima-super-el-nino-vai-ser-muito-forte-e-muito-longo-avisa-agencia-metrorologica-da-onu-africa-austral-tambem-esta-no-caminho-desta-crianca-hiperactiva-74396.html",
-      "source": "Novo Jornal",
-      "_key": "f90a75fdc7ddc808",
-      "score": 6,
-      "title_cn": "气候：超级厄尔尼诺现象将非常强烈"
-    },
-    {
-      "title": "Foreign Minister to represents President João Lourenço at Vila Nova's inauguration",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-representa-pr-na-posse-de-vila-nova/",
+      "title": "Luanda to host first Angola-Botswana Business Forum",
+      "url": "https://www.angop.ao/en/noticias/politica/luanda-acolhe-primeiro-forum-empresarial-angola-botswana/",
       "source": "ANGOP",
-      "_key": "35f5c21e891e00df",
+      "_key": "c09451b32cf69e11",
       "score": 5,
-      "title_cn": "外交部长将代表若昂·洛伦索（João Lourenço）总统出席维拉诺瓦就职典礼"
-    },
-    {
-      "title": "Expo/Bié 2026 raises over two billion kwanzas and surpasses previous edition",
-      "url": "https://www.angop.ao/en/noticias/economia/expo-bie-2026-arrecada-mais-de-dois-mil-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "fbaacf5037f577fb",
-      "score": 5,
-      "title_cn": "2026年比耶博览会筹集逾20亿宽扎，超越往届"
-    },
-    {
-      "title": "MEA espera cumprimento dos prazos na construção de novas infra-estruturas académicas",
-      "url": "https://correiokianda.info/mea-espera-cumprimento-dos-prazos-na-construcao-de-novas-infra-estruturas-academicas/",
-      "source": "Correio Kianda",
-      "_key": "78db41f4a67fccf9",
-      "score": 5,
-      "title_cn": "教育部期望新学术基础设施建设按期完成"
-    },
-    {
-      "title": "Téte António na investidura do Presidente reeleito de São Tomé e PríncipeO ministro das Relações Exteriores, Téte António, está desde a noite de quarta-feira em São Tomé, onde testemunha, hoje, em representação do Chefe de Estado angolano, a investidura do Presidente reeleito de São Tomé e Príncipe, Carlos Vila Nova.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684639/t%C3%A9te-ant%C3%B3nio-na-investidura-do-presidente-reeleito-de-s%C3%A3o-tom%C3%A9-e-pr%C3%ADncipe",
-      "source": "Jornal de Angola",
-      "_key": "b42c42478100c89c",
-      "score": 5,
-      "title_cn": "特特·安东尼奥（Téte António）出席圣多美和普林西比连任总统就职典礼"
-    },
-    {
-      "title": "Mototaxista de 26 anos de idade baleado mortalmente por suposto efectivo do DIIP em alegado disparo acidental em Cacuaco",
-      "url": "https://namiradocrime.info/show/17405",
-      "source": "Na Mira do Crime",
-      "_key": "bae6d7306cf16e5b",
-      "score": 5,
-      "title_cn": "卡夸科一名26岁摩托车司机疑遭刑事调查局人员意外枪击身亡"
-    },
-    {
-      "title": "Particulares endividaram-se mais em Julho",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/particulares-endividaram-se-mais-em-julho-74390.html",
-      "source": "Novo Jornal",
-      "_key": "9d53acd9ff02b4f5",
-      "score": 5,
-      "title_cn": "7月份个人债务增加"
-    },
-    {
-      "title": "FÓRUM MARGINAL: ARRENDAMENTO EM DEBATE E BALANÇO DA CAMPANHA DE VACINAÇÃO CONTRA HEPATITES VIRAIS. O programa de hoje coloca em análise dois temas de grande impacto social. Na primeira parte, o debate centra-se nas incompatibilidades que persistem no mercado de arrendamento de imóveis, refletindo sobre a relação entre senhorios, inquilinos e intermediários e procurando responder à questão: quem, afinal, dita as regras?Na segunda parte, o programa faz o balanço do encerramento da campanha de vaci",
-      "url": "https://marginal.co.ao/programas/forum-marginal?ep=74400",
-      "source": "Novo Jornal",
-      "_key": "eb41b086671b09d9",
-      "score": 5,
-      "title_cn": "边缘论坛：租赁问题与病毒性肝炎疫苗接种运动总结"
+      "title_cn": "罗安达将主办首届安哥拉-博茨瓦纳商业论坛"
     }
   ]
 }
