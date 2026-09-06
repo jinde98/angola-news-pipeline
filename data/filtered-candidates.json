@@ -1,196 +1,42 @@
 {
   "date": "2026-09-06",
-  "total_new": 73,
-  "total_filtered": 27,
+  "total_new": 20,
+  "total_filtered": 5,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Macau e Angola assinam acordo de isenção mútua de vistos",
-      "url": "https://forbesafricalusofona.com/macau-e-angola-assinam-acordo-de-isencao-mutua-de-vistos/",
+      "title": "SIC seizes 800 25kg bags of rice unfit for consumption in Catumbela",
+      "url": "https://www.angop.ao/en/noticias/sociedade/sic-apreende-800-sacos-de-arroz-improprio-para-consumo-na-catumbela/",
+      "source": "ANGOP",
+      "_key": "788a19a4a4b0dfdf",
+      "score": 7
+    },
+    {
+      "title": "Operation “Authenticity” seizes over 100,000 expired pharmaceutical products",
+      "url": "https://www.angop.ao/en/noticias/sociedade/operacao-autenticidade-retira-mais-de-100-mil-farmacos-do-mercado-km30/",
+      "source": "ANGOP",
+      "_key": "97ecdd6d0caa9b86",
+      "score": 6
+    },
+    {
+      "title": "Gastos com salários da função pública angolana atingem por mês 245 mil milhões de kwanzas",
+      "url": "https://forbesafricalusofona.com/gastos-com-salarios-da-funcao-publica-angolana-atingem-por-mes-245-mil-milhoes-de-kwanzas/",
       "source": "Forbes África",
-      "_key": "c79c47b70b65c0c2",
-      "score": 9
-    },
-    {
-      "title": "Há um suposto efectivo do MININT em fuga: Nacional de 44 anos de idade e um maliano brutalmente espancados e executados com tiro na cabeça no Uíge",
-      "url": "https://namiradocrime.info/show/17443",
-      "source": "Na Mira do Crime",
-      "_key": "1bbd8f6d5fb7960f",
-      "score": 9
-    },
-    {
-      "title": "SIC - DIIP e DINFOP capturam bandido mais procurado dos Mulenvos: Dudalina esquartejou uma jovem de 23 anos de idade à morte durante tentativa de abuso sexual",
-      "url": "https://namiradocrime.info/show/17438",
-      "source": "Na Mira do Crime",
-      "_key": "f4fd392ec1c68e1c",
-      "score": 9
-    },
-    {
-      "title": "Sonangol advocates strengthening Angola’s oil reserves",
-      "url": "https://www.angop.ao/en/noticias/economia/sonangol-defende-reforco-das-reservas-petroliferas-de-angola/",
-      "source": "ANGOP",
-      "_key": "26fd5e827b7e1ac6",
-      "score": 8
-    },
-    {
-      "title": "Angola: do isolamento económico a centro estratégico para o investimento europeu (*)",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684883/angola:-do-isolamento-econ%C3%B3mico-a-centro-estrat%C3%A9gico-para-o-investimento-europeu-%28*%29",
-      "source": "Jornal de Angola",
-      "_key": "8acf351c5908deb2",
-      "score": 8
-    },
-    {
-      "title": "Sem meias medidas: Comandante da Polícia em Luanda \"forma a tropa\" para demitir e despromover polícias corruptos e indisciplinados",
-      "url": "https://namiradocrime.info/show/17440",
-      "source": "Na Mira do Crime",
-      "_key": "c14574ee51bb0900",
-      "score": 8
-    },
-    {
-      "title": "Crimes violentos nos Mulenvos: Alguns dos criminosos mais perigosos do município capturados \"com vida\" pelo DIIP - Todos estão envolvidos em homicídio qualificado",
-      "url": "https://namiradocrime.info/show/17439",
-      "source": "Na Mira do Crime",
-      "_key": "843964004ebc132b",
-      "score": 8
-    },
-    {
-      "title": "Mais de 200 empresas suspensas por incumprimento de contratos",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_44f9afc3b89e46",
-      "score": 7
-    },
-    {
-      "title": "OPV do Standard Bank de Angola pode gerar mais de 205 mil milhões Kz para o Estado",
-      "url": "https://forbesafricalusofona.com/opv-do-standard-bank-de-angola-pode-gerar-mais-de-205-mil-milhoes-kz-para-o-estado/",
-      "source": "Forbes África",
-      "_key": "021836aafd7d9b47",
-      "score": 7
-    },
-    {
-      "title": "Potencial do mercado de capitais angolano é apresentado no UK-Angola Trade & Investment Forum",
-      "url": "https://forbesafricalusofona.com/potencial-do-mercado-de-capitais-angolano-e-apresentado-no-uk-angola-trade-investment-forum/",
-      "source": "Forbes África",
-      "_key": "6ced72b9caf7157a",
-      "score": 7
-    },
-    {
-      "title": "Economia Especialistas debatem papel da indústria no desenvolvimento sustentável do país ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684917/especialistas-debatem-papel-da-ind%C3%BAstria-no-desenvolvimento-sustent%C3%A1vel-do-pa%C3%ADs-",
-      "source": "Jornal de Angola",
-      "_key": "cff3ce0747a8d7ea",
-      "score": 7
-    },
-    {
-      "title": "09:21 / 6 set. 2026 Unidade de Informação Financeira promove encontro sobre rastreio de activos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684871/unidade-de-informa%C3%A7%C3%A3o-financeira-promove-encontro-sobre-rastreio-de-activos",
-      "source": "Jornal de Angola",
-      "_key": "c2c9a4354aa7cbf1",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 1 hora AGT lança projecto Cidade dos Kandengues Tributários ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684886/agt-lan%C3%A7a-projecto-cidade-dos-kandengues-tribut%C3%A1rios",
-      "source": "Jornal de Angola",
-      "_key": "4ce57a9746615ddc",
-      "score": 7
-    },
-    {
-      "title": "Funcionários da Sonangalp no Soyo detidos por suspeita de contrabando de mais de 80 mil litros de combustível",
-      "url": "https://namiradocrime.info/show/17442",
-      "source": "Na Mira do Crime",
-      "_key": "e12cdf07272edc43",
-      "score": 7
-    },
-    {
-      "title": "Calucuve dam in southern Angola begins operations",
-      "url": "https://www.angop.ao/en/noticias/economia/barragem-do-calucuve-ja-em-funcionamento/",
-      "source": "ANGOP",
-      "_key": "05fbecc004ea3d60",
+      "_key": "da1f07cb72a85ed6",
       "score": 6
     },
     {
-      "title": "Sector segurador angolano atinge 578,4 mil milhões kz em prémios brutos emitidos em 2025",
-      "url": "https://forbesafricalusofona.com/sector-segurador-angolano-atinge-5784-mil-milhoes-kz-em-premios-brutos-emitidos-em-2025/",
-      "source": "Forbes África",
-      "_key": "63f1040805fdbca4",
+      "title": "Destaque Angola e Botswana realizam terça-feira primeiro Fórum Empresarial O primeiro Fórum Empresarial Angola-Botswana realiza-se, na terça-feira, 8, em Luanda, com propósito de aproximar os sectores privados dos dois países e identificar oportunidades concretas de investimento, comércio e parcerias empresariais.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684934/angola-e-botswana-realizam-ter%C3%A7a-feira-primeiro-f%C3%B3rum-empresarial-",
+      "source": "Jornal de Angola",
+      "_key": "2fecf91b10809436",
       "score": 6
     },
     {
-      "title": "Presidente garante água em abundância com as barragens do Ndue e Calucuve As estratégias desenvolvidas pelo Executivo para aumentar o acesso à água no Sul do país vão contribuir para a redução dos conflitos de terras entre os criadores de gado nas províncias do Cunene, Namibe e Huíla, afirmou sábado, no Cuvelai, o Presidente da República, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684869/presidente-garante-%C3%A1gua-em-abund%C3%A2ncia-com-as-barragens-do-ndue-e-calucuve-",
+      "title": "Destaque Dois acordos marcam nova fase nas relações Angola-BotswanaAngola e Botswana assinaram, este domingo, em Luanda, dois instrumentos jurídicos destinados a reforçar o diálogo político-diplomático e a cooperação institucional entre os dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684935/dois-acordos-marcam-nova-fase-nas-rela%C3%A7%C3%B5es-angola-botswana",
       "source": "Jornal de Angola",
-      "_key": "baa338edaa281196",
-      "score": 6
-    },
-    {
-      "title": "Destaque Félix Tshisekedi testemunha inauguração das barragens do Ndue e CalucuveO Chefe de Estado da República Democrática do Congo, Félix Tshisekedi, testemunhou, hoje, no Cunene, a inauguração das barragens do Ndue e Calucuve, inauguradas pelo Presidente João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684864/f%C3%A9lix-tshisekedi-testemunha-inaugura%C3%A7%C3%A3o-das-barragens-do-ndue-e-calucuve",
-      "source": "Jornal de Angola",
-      "_key": "cf225684a7115092",
-      "score": 6
-    },
-    {
-      "title": "O extractivismo financeiro da banca ",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684913/o-extractivismo-financeiro-da-banca-",
-      "source": "Jornal de Angola",
-      "_key": "f483f932c812fc8b",
-      "score": 6
-    },
-    {
-      "title": "Jovem descobre forma de falsificar comprovativo de pagamentos \" e se mima\" com dois iphones e dois computadores avaliados em mais de 2 milhões de kwanzas",
-      "url": "https://namiradocrime.info/show/17441",
-      "source": "Na Mira do Crime",
-      "_key": "864a1dd1492fee1c",
-      "score": 6
-    },
-    {
-      "title": "Angolan ambassador seeks greater Indian investment in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/diplomata-quer-maior-investimento-da-india-em-angola/",
-      "source": "ANGOP",
-      "_key": "61ea7eae2e40227e",
-      "score": 5
-    },
-    {
-      "title": "President João Lourenço assures full implementation of drought mitigation programme",
-      "url": "https://www.angop.ao/en/noticias/economia/pr-assegura-execucao-do-programa-de-combate-a-seca-na-plenitude/",
-      "source": "ANGOP",
-      "_key": "17eb504af9cbe0b8",
-      "score": 5
-    },
-    {
-      "title": "Increased water availability to help reduce conflicts",
-      "url": "https://www.angop.ao/en/noticias/politica/aumento-da-disponibilidade-de-agua-contribuira-para-reducao-de-conflitos/",
-      "source": "ANGOP",
-      "_key": "4fd93a75cce21f8b",
-      "score": 5
-    },
-    {
-      "title": "Sociedade Feira Tecnológica encerra com mais de sete mil visitas ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684914/feira-tecnol%C3%B3gica-encerra-com-mais-de-sete-mil-visitas",
-      "source": "Jornal de Angola",
-      "_key": "b3d2ace72adcb785",
-      "score": 5
-    },
-    {
-      "title": "09:22 / 6 set. 2026 Integridade eleva confiança na Justiça ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684872/integridade-eleva-confian%C3%A7a-na-justi%C3%A7a",
-      "source": "Jornal de Angola",
-      "_key": "68048c4b8cc56634",
-      "score": 5
-    },
-    {
-      "title": "Transformar crescimento em oportunidades(fim)",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684888/transformar-crescimento--em-oportunidades%28fim%29",
-      "source": "Jornal de Angola",
-      "_key": "c086c672bea02b2a",
-      "score": 5
-    },
-    {
-      "title": "Sem parecer da empresa pública: Governador de Benguela aposta em chafarizes para abastecimento à população de bairros periféricos com \"água duvidosa\"",
-      "url": "https://namiradocrime.info/show/17435",
-      "source": "Na Mira do Crime",
-      "_key": "0f9f54e9c053e1dd",
+      "_key": "2d3fd48e98c5d579",
       "score": 5
     }
   ]
