@@ -1,80 +1,224 @@
 {
-  "date": "2026-09-05",
-  "total_new": 21,
-  "total_filtered": 9,
+  "date": "2026-09-06",
+  "total_new": 73,
+  "total_filtered": 27,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola and Macao sign Visa waiver agreement",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-macau-assinam-acordo-de-isencao-de-vistos/",
-      "source": "ANGOP",
-      "_key": "d500c5e40b8ed52e",
+      "title": "Macau e Angola assinam acordo de isenção mútua de vistos",
+      "url": "https://forbesafricalusofona.com/macau-e-angola-assinam-acordo-de-isencao-mutua-de-vistos/",
+      "source": "Forbes África",
+      "_key": "c79c47b70b65c0c2",
       "score": 9,
-      "title_cn": "安哥拉与澳门签署免签协议"
+      "title_cn": "澳门与安哥拉签署互免签证协议"
     },
     {
-      "title": "Destaque Presidente João Lourenço inaugura Barragem do Ndue no CuneneO Presidente da República, João Lourenço, inaugurou, este sábado, a Barragem do Ndue, localizada na região do Caundo, município do Cuvelai, província do Cunene, no âmbito do Programa de Combate aos Efeitos da Seca no Sul de Angola (PCESSA).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684812/presidente-jo%C3%A3o-louren%C3%A7o-inaugura-barragem-do-ndue-no-cunene",
-      "source": "Jornal de Angola",
-      "_key": "6ba56de1469b021c",
-      "score": 8,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）为库内内省恩杜埃大坝揭幕"
+      "title": "Há um suposto efectivo do MININT em fuga: Nacional de 44 anos de idade e um maliano brutalmente espancados e executados com tiro na cabeça no Uíge",
+      "url": "https://namiradocrime.info/show/17443",
+      "source": "Na Mira do Crime",
+      "_key": "1bbd8f6d5fb7960f",
+      "score": 9,
+      "title_cn": "威热省发生凶杀案：一安哥拉公民和一马里人遭殴打枪决，疑犯在逃"
     },
     {
-      "title": "Reportagem Canal do Cafu fez renascer agricultura na região e tornando as terras produtivas ",
-      "url": "https://www.jornaldeangola.ao/noticias/8/reportagem/684835/canal-do-cafu-fez-renascer-agricultura--na-regi%C3%A3o-e-tornando-as-terras-produtivas",
-      "source": "Jornal de Angola",
-      "_key": "4ec65c67659fc58d",
-      "score": 8,
-      "title_cn": "卡富运河重振当地农业，使土地恢复生产力"
+      "title": "SIC - DIIP e DINFOP capturam bandido mais procurado dos Mulenvos: Dudalina esquartejou uma jovem de 23 anos de idade à morte durante tentativa de abuso sexual",
+      "url": "https://namiradocrime.info/show/17438",
+      "source": "Na Mira do Crime",
+      "_key": "f4fd392ec1c68e1c",
+      "score": 9,
+      "title_cn": "警方抓获穆伦沃斯头号通缉犯杜达丽娜（Dudalina），其涉嫌性侵未遂并肢解23岁女子"
     },
     {
-      "title": "Ndue Dam’s floodgates opened in inaugural act",
-      "url": "https://www.angop.ao/en/noticias/economia/inaugurada-barragem-do-ndue-com-abertura-da-comporta/",
+      "title": "Sonangol advocates strengthening Angola’s oil reserves",
+      "url": "https://www.angop.ao/en/noticias/economia/sonangol-defende-reforco-das-reservas-petroliferas-de-angola/",
       "source": "ANGOP",
-      "_key": "53911ea6996fd5a3",
-      "score": 7,
-      "title_cn": "恩杜埃大坝落成，闸门开启"
+      "_key": "26fd5e827b7e1ac6",
+      "score": 8,
+      "title_cn": "安哥拉国家石油公司呼吁加强国家石油储备"
     },
     {
-      "title": "Angola’s Current Account posts surplus in second quarter",
-      "url": "https://www.angop.ao/en/noticias/economia/conta-corrente-de-angola-com-superavit-no-segundo-trimestre/",
+      "title": "Angola: do isolamento económico a centro estratégico para o investimento europeu (*)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684883/angola:-do-isolamento-econ%C3%B3mico-a-centro-estrat%C3%A9gico-para-o-investimento-europeu-%28*%29",
+      "source": "Jornal de Angola",
+      "_key": "8acf351c5908deb2",
+      "score": 8,
+      "title_cn": "安哥拉：从经济孤立走向欧洲投资战略中心"
+    },
+    {
+      "title": "Sem meias medidas: Comandante da Polícia em Luanda \"forma a tropa\" para demitir e despromover polícias corruptos e indisciplinados",
+      "url": "https://namiradocrime.info/show/17440",
+      "source": "Na Mira do Crime",
+      "_key": "c14574ee51bb0900",
+      "score": 8,
+      "title_cn": "罗安达警长“整顿队伍”，开除降职腐败违纪警察"
+    },
+    {
+      "title": "Crimes violentos nos Mulenvos: Alguns dos criminosos mais perigosos do município capturados \"com vida\" pelo DIIP - Todos estão envolvidos em homicídio qualificado",
+      "url": "https://namiradocrime.info/show/17439",
+      "source": "Na Mira do Crime",
+      "_key": "843964004ebc132b",
+      "score": 8,
+      "title_cn": "穆伦沃斯暴力犯罪：警方活捉多名涉嫌严重谋杀的危险罪犯"
+    },
+    {
+      "title": "Mais de 200 empresas suspensas por incumprimento de contratos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_44f9afc3b89e46",
+      "score": 7,
+      "title_cn": "逾200家公司因违约被暂停业务"
+    },
+    {
+      "title": "OPV do Standard Bank de Angola pode gerar mais de 205 mil milhões Kz para o Estado",
+      "url": "https://forbesafricalusofona.com/opv-do-standard-bank-de-angola-pode-gerar-mais-de-205-mil-milhoes-kz-para-o-estado/",
+      "source": "Forbes África",
+      "_key": "021836aafd7d9b47",
+      "score": 7,
+      "title_cn": "安哥拉标准银行公开募股有望为国家带来逾2050亿宽扎收入"
+    },
+    {
+      "title": "Potencial do mercado de capitais angolano é apresentado no UK-Angola Trade & Investment Forum",
+      "url": "https://forbesafricalusofona.com/potencial-do-mercado-de-capitais-angolano-e-apresentado-no-uk-angola-trade-investment-forum/",
+      "source": "Forbes África",
+      "_key": "6ced72b9caf7157a",
+      "score": 7,
+      "title_cn": "安哥拉资本市场潜力在英安贸易投资论坛上展示"
+    },
+    {
+      "title": "Economia Especialistas debatem papel da indústria no desenvolvimento sustentável do país ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684917/especialistas-debatem-papel-da-ind%C3%BAstria-no-desenvolvimento-sustent%C3%A1vel-do-pa%C3%ADs-",
+      "source": "Jornal de Angola",
+      "_key": "cff3ce0747a8d7ea",
+      "score": 7,
+      "title_cn": "专家探讨工业在国家可持续发展中的作用"
+    },
+    {
+      "title": "09:21 / 6 set. 2026 Unidade de Informação Financeira promove encontro sobre rastreio de activos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684871/unidade-de-informa%C3%A7%C3%A3o-financeira-promove-encontro-sobre-rastreio-de-activos",
+      "source": "Jornal de Angola",
+      "_key": "c2c9a4354aa7cbf1",
+      "score": 7,
+      "title_cn": "金融情报部门召开资产追踪会议"
+    },
+    {
+      "title": "Economia / Há 1 hora AGT lança projecto Cidade dos Kandengues Tributários ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684886/agt-lan%C3%A7a-projecto-cidade-dos-kandengues-tribut%C3%A1rios",
+      "source": "Jornal de Angola",
+      "_key": "4ce57a9746615ddc",
+      "score": 7,
+      "title_cn": "安哥拉税务总局启动“纳税人儿童城”项目"
+    },
+    {
+      "title": "Funcionários da Sonangalp no Soyo detidos por suspeita de contrabando de mais de 80 mil litros de combustível",
+      "url": "https://namiradocrime.info/show/17442",
+      "source": "Na Mira do Crime",
+      "_key": "e12cdf07272edc43",
+      "score": 7,
+      "title_cn": "索约（Soyo）Sonangalp员工涉嫌走私逾8万升燃料被捕"
+    },
+    {
+      "title": "Calucuve dam in southern Angola begins operations",
+      "url": "https://www.angop.ao/en/noticias/economia/barragem-do-calucuve-ja-em-funcionamento/",
       "source": "ANGOP",
-      "_key": "a3fb27c0cf4a9e82",
-      "score": 7,
-      "title_cn": "安哥拉第二季度经常账户实现盈余"
-    },
-    {
-      "title": "Barragens do Ndué e do Calucuve abrem nova fase para o Cunene",
-      "url": "https://correiokianda.info/barragens-do-ndue-e-do-calucuve-abrem-nova-fase-para-o-cunene/",
-      "source": "Correio Kianda",
-      "_key": "916b8c79c7431674",
-      "score": 7,
-      "title_cn": "恩杜埃和卡卢库韦大坝为库内内省开启新篇章"
-    },
-    {
-      "title": "Entrevista “Cafu cria novas perspectivas para a agricultura e a pecuária no Cunene” ",
-      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/684839/%E2%80%9Ccafu-cria-novas-perspectivas--para-a-agricultura--e-a-pecu%C3%A1ria-no-cunene%E2%80%9D",
-      "source": "Jornal de Angola",
-      "_key": "2bc34961f7d0e881",
-      "score": 7,
-      "title_cn": "“卡富为库内内省农牧业创造新前景”"
-    },
-    {
-      "title": "Economia Câmara de Comércio e Indústria quer foco em novos mercados ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684822/c%C3%A2mara-de-com%C3%A9rcio-e-ind%C3%BAstria-quer-foco-em-novos-mercados",
-      "source": "Jornal de Angola",
-      "_key": "3fd47b129f6eadae",
+      "_key": "05fbecc004ea3d60",
       "score": 6,
-      "title_cn": "工商会呼吁关注新市场"
+      "title_cn": "安哥拉南部卡卢库韦（Calucuve）大坝投入运营"
     },
     {
-      "title": "Sociedade Novos comissários são empossados em Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684818/novos-comiss%C3%A1rios-s%C3%A3o--empossados-em-luanda-",
+      "title": "Sector segurador angolano atinge 578,4 mil milhões kz em prémios brutos emitidos em 2025",
+      "url": "https://forbesafricalusofona.com/sector-segurador-angolano-atinge-5784-mil-milhoes-kz-em-premios-brutos-emitidos-em-2025/",
+      "source": "Forbes África",
+      "_key": "63f1040805fdbca4",
+      "score": 6,
+      "title_cn": "2025年安哥拉保险业总保费收入达5784亿宽扎"
+    },
+    {
+      "title": "Presidente garante água em abundância com as barragens do Ndue e Calucuve As estratégias desenvolvidas pelo Executivo para aumentar o acesso à água no Sul do país vão contribuir para a redução dos conflitos de terras entre os criadores de gado nas províncias do Cunene, Namibe e Huíla, afirmou sábado, no Cuvelai, o Presidente da República, João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684869/presidente-garante-%C3%A1gua-em-abund%C3%A2ncia-com-as-barragens-do-ndue-e-calucuve-",
       "source": "Jornal de Angola",
-      "_key": "d006a75b0f727758",
+      "_key": "baa338edaa281196",
+      "score": 6,
+      "title_cn": "总统承诺恩杜埃和卡卢库韦大坝将确保供水充足，减少冲突"
+    },
+    {
+      "title": "Destaque Félix Tshisekedi testemunha inauguração das barragens do Ndue e CalucuveO Chefe de Estado da República Democrática do Congo, Félix Tshisekedi, testemunhou, hoje, no Cunene, a inauguração das barragens do Ndue e Calucuve, inauguradas pelo Presidente João Lourenço.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684864/f%C3%A9lix-tshisekedi-testemunha-inaugura%C3%A7%C3%A3o-das-barragens-do-ndue-e-calucuve",
+      "source": "Jornal de Angola",
+      "_key": "cf225684a7115092",
+      "score": 6,
+      "title_cn": "刚果（金）总统费利克斯·齐塞克迪（Félix Tshisekedi）出席库内内省恩杜埃和卡卢库韦大坝落成典礼"
+    },
+    {
+      "title": "O extractivismo financeiro da banca ",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684913/o-extractivismo-financeiro-da-banca-",
+      "source": "Jornal de Angola",
+      "_key": "f483f932c812fc8b",
+      "score": 6,
+      "title_cn": "银行业的金融掠夺主义"
+    },
+    {
+      "title": "Jovem descobre forma de falsificar comprovativo de pagamentos \" e se mima\" com dois iphones e dois computadores avaliados em mais de 2 milhões de kwanzas",
+      "url": "https://namiradocrime.info/show/17441",
+      "source": "Na Mira do Crime",
+      "_key": "864a1dd1492fee1c",
+      "score": 6,
+      "title_cn": "青年伪造付款凭证，骗购两部iPhone和两台电脑，价值逾200万宽扎"
+    },
+    {
+      "title": "Angolan ambassador seeks greater Indian investment in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/diplomata-quer-maior-investimento-da-india-em-angola/",
+      "source": "ANGOP",
+      "_key": "61ea7eae2e40227e",
       "score": 5,
-      "title_cn": "新专员在罗安达宣誓就职"
+      "title_cn": "安哥拉大使寻求印度加大对安投资"
+    },
+    {
+      "title": "President João Lourenço assures full implementation of drought mitigation programme",
+      "url": "https://www.angop.ao/en/noticias/economia/pr-assegura-execucao-do-programa-de-combate-a-seca-na-plenitude/",
+      "source": "ANGOP",
+      "_key": "17eb504af9cbe0b8",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统承诺全面实施抗旱计划"
+    },
+    {
+      "title": "Increased water availability to help reduce conflicts",
+      "url": "https://www.angop.ao/en/noticias/politica/aumento-da-disponibilidade-de-agua-contribuira-para-reducao-de-conflitos/",
+      "source": "ANGOP",
+      "_key": "4fd93a75cce21f8b",
+      "score": 5,
+      "title_cn": "增加供水有助于减少冲突"
+    },
+    {
+      "title": "Sociedade Feira Tecnológica encerra com mais de sete mil visitas ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/684914/feira-tecnol%C3%B3gica-encerra-com-mais-de-sete-mil-visitas",
+      "source": "Jornal de Angola",
+      "_key": "b3d2ace72adcb785",
+      "score": 5,
+      "title_cn": "科技博览会闭幕，吸引逾七千人次参观"
+    },
+    {
+      "title": "09:22 / 6 set. 2026 Integridade eleva confiança na Justiça ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684872/integridade-eleva-confian%C3%A7a-na-justi%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "68048c4b8cc56634",
+      "score": 5,
+      "title_cn": "廉正提升司法公信力"
+    },
+    {
+      "title": "Transformar crescimento em oportunidades(fim)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/684888/transformar-crescimento--em-oportunidades%28fim%29",
+      "source": "Jornal de Angola",
+      "_key": "c086c672bea02b2a",
+      "score": 5,
+      "title_cn": "将增长转化为机遇"
+    },
+    {
+      "title": "Sem parecer da empresa pública: Governador de Benguela aposta em chafarizes para abastecimento à população de bairros periféricos com \"água duvidosa\"",
+      "url": "https://namiradocrime.info/show/17435",
+      "source": "Na Mira do Crime",
+      "_key": "0f9f54e9c053e1dd",
+      "score": 5,
+      "title_cn": "在没有公营公司意见的情况下：Benguela州长将赌注押在为周边地区居民提供“可疑水”上。"
     }
   ]
 }
