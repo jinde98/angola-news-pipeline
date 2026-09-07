@@ -1,48 +1,304 @@
 {
-  "date": "2026-09-06",
-  "total_new": 20,
-  "total_filtered": 5,
-  "scored_by": "gemini-flash",
+  "date": "2026-09-07",
+  "total_new": 95,
+  "total_filtered": 37,
+  "scored_by": "glm-flash",
   "articles": [
     {
-      "title": "SIC seizes 800 25kg bags of rice unfit for consumption in Catumbela",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sic-apreende-800-sacos-de-arroz-improprio-para-consumo-na-catumbela/",
+      "title": "Angolan OMATAPALO Group signs agreement for major works in DRC",
+      "url": "https://www.angop.ao/en/noticias/economia/omatapalo-assina-acordo-para-grandes-obras-na-rdc/",
       "source": "ANGOP",
-      "_key": "788a19a4a4b0dfdf",
-      "score": 7,
-      "title_cn": "安哥拉刑事调查局在卡通贝拉查获800袋不宜食用大米"
+      "_key": "7563b8bb562a9c6e",
+      "score": 9,
+      "title_cn": "安哥拉OMATAPALO集团签署刚果（金）重大工程协议"
     },
     {
-      "title": "Operation “Authenticity” seizes over 100,000 expired pharmaceutical products",
-      "url": "https://www.angop.ao/en/noticias/sociedade/operacao-autenticidade-retira-mais-de-100-mil-farmacos-do-mercado-km30/",
-      "source": "ANGOP",
-      "_key": "97ecdd6d0caa9b86",
-      "score": 6,
-      "title_cn": "“真实性”行动查获逾10万件过期药品"
+      "title": "Proibições nas importações estendem-se a produtos sem oferta em Angola",
+      "url": "https://expansao.co.ao/angola/detalhe/proibicoes-nas-importacoes-estendem-se-a-produtos-sem-oferta-em-angola-74434.html",
+      "source": "Expansão",
+      "_key": "3e9a86ae505d23ad",
+      "score": 9,
+      "title_cn": "安哥拉进口禁令扩大至国内无供应产品"
     },
     {
-      "title": "Gastos com salários da função pública angolana atingem por mês 245 mil milhões de kwanzas",
-      "url": "https://forbesafricalusofona.com/gastos-com-salarios-da-funcao-publica-angolana-atingem-por-mes-245-mil-milhoes-de-kwanzas/",
+      "title": "Última hora OPEP+ mantém produção de petróleo em Outubro",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/684994/opep%2B-mant%C3%A9m-produ%C3%A7%C3%A3o-de-petr%C3%B3leo-em-outubro",
+      "source": "Jornal de Angola",
+      "_key": "fdc0e2c9536bd07c",
+      "score": 9,
+      "title_cn": "最新：欧佩克+维持10月石油产量不变"
+    },
+    {
+      "title": "Mauritaniano mata motorista angolano com várias facadas no pescoço e abdómen para roubar a viatura: Comparsa angolano foi capturado pelo SIC e tem várias passagens pela Polícia",
+      "url": "https://namiradocrime.info/show/17447",
+      "source": "Na Mira do Crime",
+      "_key": "30d026cd930ad769",
+      "score": 9,
+      "title_cn": "毛里塔尼亚人刺杀安哥拉司机抢车，同伙被捕"
+    },
+    {
+      "title": "Sobreviveu \"por um triz\": Jovem de 29 anos atacado com facada no peito por marginais do grupo UPC no Sequele - vítima foi suturada com 22 pontos",
+      "url": "https://namiradocrime.info/show/17446",
+      "source": "Na Mira do Crime",
+      "_key": "7ff0ebda800c1f80",
+      "score": 9,
+      "title_cn": "29岁青年在塞奎莱遭UPC组织成员刺伤胸部，险些丧命"
+    },
+    {
+      "title": "Petróleo: Barril volta a aproximar-se dos 100 USD com...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-volta-a-aproximar-se-dos-100-usd-com-a-flutuabilidade-extra-proporcionada-pela-escalada-na-guerra-euairao-74475.html",
+      "source": "Novo Jornal",
+      "_key": "b7486d9e6a1b0f97",
+      "score": 9,
+      "title_cn": "油价逼近100美元/桶"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: CONTRATAÇÃO PÚBLICA. Mais de 200 empresas suspensas por incumprimento de contratos.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=74474",
+      "source": "Novo Jornal",
+      "_key": "1bd44b7bb5586795",
+      "score": 9,
+      "title_cn": "公共采购：200多家公司因违约被暂停资格"
+    },
+    {
+      "title": "Petróleo mantém-se perto de máximas de seis semanas com ataques...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-mantem-se-perto-de-maximas-de-seis-semanas-com-ataques-entre-eua-e-irao",
+      "source": "Valor Económico",
+      "_key": "5ed89f76fdd4df12",
+      "score": 9,
+      "title_cn": "石油价格因袭击事件维持在六周高点附近"
+    },
+    {
+      "title": "Botswana President begins visit to Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-do-botswana-inicia-hoje-visita-oficial-a-angola-1/",
+      "source": "ANGOP",
+      "_key": "ea51b40cd15c0886",
+      "score": 8,
+      "title_cn": "博茨瓦纳总统开始访问安哥拉"
+    },
+    {
+      "title": "Angola and Botswana sign agreements to strengthen cooperation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-e-botswana-assinam-instrumentos-para-reforcar-cooperacao/",
+      "source": "ANGOP",
+      "_key": "6f133d7eda06a140",
+      "score": 8,
+      "title_cn": "安哥拉与博茨瓦纳签署协议加强合作"
+    },
+    {
+      "title": "Mais de 40 países participam em conferência sobre futuro do petróleo e gás em Angola",
+      "url": "https://correiokianda.info/mais-de-40-paises-participam-em-conferencia-sobre-futuro-do-petroleo-e-gas-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "08e18a85e79d3106",
+      "score": 8,
+      "title_cn": "40多国参加安哥拉石油天然气未来会议"
+    },
+    {
+      "title": "SIAC arrecada 2,4 mil milhões e prepara expansão da rede nacional",
+      "url": "https://correiokianda.info/siac-arrecada-24-mil-milhoes-e-prepara-expansao-da-rede-nacional/",
+      "source": "Correio Kianda",
+      "_key": "1733981f06814768",
+      "score": 8,
+      "title_cn": "SIAC筹集24亿，准备扩张全国网络"
+    },
+    {
+      "title": "Caça-níqueis sobrevivem à fiscalização e alimentam negócio ilegal à vista de todos",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_88a0d0a0227505",
+      "score": 8,
+      "title_cn": "老虎机逃避监管，公开助长非法生意"
+    },
+    {
+      "title": "Mercado castiga Unitel e preço já está abaixo do valor dos activos ajustados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_8caa7932419bf5",
+      "score": 8,
+      "title_cn": "市场惩罚Unitel，股价已低于调整后资产价值"
+    },
+    {
+      "title": "FMI em Angola: Ministra das Finanças apela execução orçamental mais eficiente por parte dos órgãos do Estado",
+      "url": "https://forbesafricalusofona.com/fmi-em-angola-ministra-das-financas-apela-execucao-orcamental-mais-eficiente-por-parte-dos-orgaos-do-estado/",
       "source": "Forbes África",
-      "_key": "da1f07cb72a85ed6",
-      "score": 6,
-      "title_cn": "安哥拉公共部门月工资支出达2450亿宽扎"
+      "_key": "5f975a2dde09fdc8",
+      "score": 8,
+      "title_cn": "国际货币基金组织在安哥拉：财长呼吁国家机构高效执行预算"
     },
     {
-      "title": "Destaque Angola e Botswana realizam terça-feira primeiro Fórum Empresarial O primeiro Fórum Empresarial Angola-Botswana realiza-se, na terça-feira, 8, em Luanda, com propósito de aproximar os sectores privados dos dois países e identificar oportunidades concretas de investimento, comércio e parcerias empresariais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684934/angola-e-botswana-realizam-ter%C3%A7a-feira-primeiro-f%C3%B3rum-empresarial-",
-      "source": "Jornal de Angola",
-      "_key": "2fecf91b10809436",
-      "score": 6,
-      "title_cn": "安哥拉与博茨瓦纳将在罗安达举行首届商业论坛"
+      "title": "Traficante que tentou corromper chefe do DIIP das Ingombotas com 50 mil Kz para soltar um amigo detido também ficou no \"show\"",
+      "url": "https://namiradocrime.info/show/17448",
+      "source": "Na Mira do Crime",
+      "_key": "9f81d8532c6a54ff",
+      "score": 8,
+      "title_cn": "毒贩行贿5万宽扎欲救友，反被捕入狱"
     },
     {
-      "title": "Destaque Dois acordos marcam nova fase nas relações Angola-BotswanaAngola e Botswana assinaram, este domingo, em Luanda, dois instrumentos jurídicos destinados a reforçar o diálogo político-diplomático e a cooperação institucional entre os dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/684935/dois-acordos-marcam-nova-fase-nas-rela%C3%A7%C3%B5es-angola-botswana",
-      "source": "Jornal de Angola",
-      "_key": "2d3fd48e98c5d579",
+      "title": "Trabalhadores da PRODEL podem avançar para greve em...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/trabalhadores-da-prodel-podem-avancar-para-greve-em-breve-se-nao-conseguirem-aumento-salarial-de-75-74472.html",
+      "source": "Novo Jornal",
+      "_key": "296c319183a16040",
+      "score": 8,
+      "title_cn": "PRODEL工人或将举行罢工"
+    },
+    {
+      "title": "Angola aumenta valor da quota do FMI para 715,7 milhões de Direitos Especiais de Saque",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-aumenta-valor-da-quota-do-fmi-para-7157-milhoes-de-direitos-especiais-de-saque-74464.html",
+      "source": "Novo Jornal",
+      "_key": "6648c658a8f568dd",
+      "score": 8,
+      "title_cn": "安哥拉将国际货币基金组织份额增至7.157亿特别提款权"
+    },
+    {
+      "title": "Crédito ao sector real cresce 46,6% e atinge 2,1 biliões Kz",
+      "url": "https://correiokianda.info/credito-ao-sector-real-cresce-466-e-atinge-21-bilioes-kz/",
+      "source": "Correio Kianda",
+      "_key": "d6992197298ebca4",
+      "score": 7,
+      "title_cn": "实体经济信贷增长46.6%，达2.1万亿宽扎"
+    },
+    {
+      "title": "Governo gasta 27,9 milhões USD para ligar digitalmente os serviços públicos",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-gasta-279-milhoes-usd-para-ligar-digitalmente-os-servicos-publicos-74436.html",
+      "source": "Expansão",
+      "_key": "e25edc31cc2a0c5f",
+      "score": 7,
+      "title_cn": "政府斥资2790万美元实现公共服务数字化"
+    },
+    {
+      "title": "OMATAPALO abre nova frente de expansão na RDC com acordo para projectos de infra-estruturas",
+      "url": "https://forbesafricalusofona.com/omatapalo-abre-nova-frente-de-expansao-na-rdc-com-acordo-para-projectos-de-infra-estruturas/",
+      "source": "Forbes África",
+      "_key": "24e05cc2945a178f",
+      "score": 7,
+      "title_cn": "OMATAPALO与刚果（金）签署协议，拓展基础设施项目"
+    },
+    {
+      "title": "Seguranças da Sonangalp detidos no Soyo por contrabando...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/segurancas-da-sonangalp-detidos-no-soyo-por-contrabando-de-mais-de-87-mil-litros-de-combustivel-74473.html",
+      "source": "Novo Jornal",
+      "_key": "961853f393120636",
+      "score": 7,
+      "title_cn": "Sonangalp安保人员在索约因走私被捕"
+    },
+    {
+      "title": "Projecto \"Paga3\" acusa Standard Bank Angola de uso...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html",
+      "source": "Novo Jornal",
+      "_key": "60043cc50828b59a",
+      "score": 7,
+      "title_cn": "Paga3项目指控安哥拉标准银行存在不当使用"
+    },
+    {
+      "title": "Governo lança concurso de 3,6 milhões de dólares para reavaliar...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-lanca-concurso-de-3-6-milhoes-de-dolares-para-reavaliar-potencial-petrolifero",
+      "source": "Valor Económico",
+      "_key": "7a747a1f3ad58785",
+      "score": 7,
+      "title_cn": "政府启动360万美元招标项目进行重新评估"
+    },
+    {
+      "title": "Standard Bank leva 34% do capital a oferta pública por...",
+      "url": "https://valoreconomico.co.ao/artigo/standard-bank-leva-34-do-capital-a-oferta-publica-por-5-mil-kwanzas-por-accao",
+      "source": "Valor Económico",
+      "_key": "ffb2c9e4a7e206c9",
+      "score": 7,
+      "title_cn": "标准银行发行34%的股本…"
+    },
+    {
+      "title": "Botswana minister recognises historical significance of Cuito Cuanavale battle",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-de-estado-do-botswana-reconhece-dimensao-historica-da-batalha-do-cuito-cuanavale/",
+      "source": "ANGOP",
+      "_key": "c317e45bd350445c",
+      "score": 6,
+      "title_cn": "博茨瓦纳部长肯定奎托夸纳瓦莱战役的历史意义"
+    },
+    {
+      "title": "Minister Téte António highlights renewed momentum in Angola-Botswana relations",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-realca-novo-impulso-nas-relacoes-angola-botswana/",
+      "source": "ANGOP",
+      "_key": "8045e43a818a34b9",
+      "score": 6,
+      "title_cn": "特特·安东尼奥（Téte António）部长强调安哥拉-博茨瓦纳关系新动力"
+    },
+    {
+      "title": "Agri-director encourages arabica coffee production along Lobito Corridor",
+      "url": "https://www.angop.ao/en/noticias/agricultura/director-da-agricultura-encoraja-producao-de-cafe-arabica-ao-longo-do-corredor-do-lobito/",
+      "source": "ANGOP",
+      "_key": "43998b0e44ec2c6a",
+      "score": 6,
+      "title_cn": "农业局长鼓励洛比托走廊沿线种植阿拉比卡咖啡"
+    },
+    {
+      "title": "Fórum Económico marca visita do Presidente do Botswana a Angola",
+      "url": "https://correiokianda.info/forum-economico-marca-visita-do-presidente-do-botswana-a-angola/",
+      "source": "Correio Kianda",
+      "_key": "77b718e6f03d7504",
+      "score": 6,
+      "title_cn": "经济论坛标志博茨瓦纳总统访问安哥拉"
+    },
+    {
+      "title": "Presidente da República inaugura Barragem do Calucuve e reforça a segurança hídrica no Sul de Angola",
+      "url": "https://diariodosnegocios.com/presidente-da-republica-inaugura-barragem-do-calucuve-e-reforca-a-seguranca-hidrica-no-sul-de-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "2fd2df2af0d0a3e2",
+      "score": 6,
+      "title_cn": "总统启用卡卢库韦大坝，加强安哥拉南部水安全"
+    },
+    {
+      "title": "Carteiras digitais \"atacam\" informalidade, mas dinheiro na mão ainda é um grande desafio",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_be26070dd17db5",
+      "score": 6,
+      "title_cn": "数字钱包冲击非正规经济，但现金仍是巨大挑战"
+    },
+    {
+      "title": "Governo vai distribuir apenas 19,5% das necessidades de fertilizantes do País",
+      "url": "https://expansao.co.ao/economia/detalhe/governo-vai-distribuir-apenas-195-das-necessidades-de-fertilizantes-do-pais-74471.html",
+      "source": "Expansão",
+      "_key": "59c1629b4d3bb1ba",
+      "score": 6,
+      "title_cn": "政府仅能满足全国19.5%的化肥需求"
+    },
+    {
+      "title": "O investimento directo estrangeiro (IDE) em Moçambique caiu 21% no primeiro trimestre de 2026",
+      "url": "https://forbesafricalusofona.com/o-investimento-directo-estrangeiro-ide-em-mocambique-caiu-21-no-primeiro-trimestre-de-2026/",
+      "source": "Forbes África",
+      "_key": "105c8d7e4f84e022",
+      "score": 6,
+      "title_cn": "2026年一季度莫桑比克外国直接投资下降21%"
+    },
+    {
+      "title": "Efectivos da URP-Benguela denunciam demora na emissão de declarações para acesso ao crédito bancário e redução de salário sem explicação",
+      "url": "https://namiradocrime.info/show/17445",
+      "source": "Na Mira do Crime",
+      "_key": "73d05aaf751bcb40",
+      "score": 6,
+      "title_cn": "本格拉URP成员投诉银行信贷声明延迟及无故减薪"
+    },
+    {
+      "title": "Seven higher education institutions receive over US$20 million",
+      "url": "https://www.angop.ao/en/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/",
+      "source": "ANGOP",
+      "_key": "fdb47a7b9a9aa222",
       "score": 5,
-      "title_cn": "安哥拉与博茨瓦纳签署两项协议开启双边关系新阶段"
+      "title_cn": "七所高等教育机构获得逾2000万美元资助"
+    },
+    {
+      "title": "Motorista é morto à facada por passageiro durante viagem para Luanda",
+      "url": "https://correiokianda.info/motorista-e-morto-a-facada-por-passageiro-durante-viagem-para-luanda/",
+      "source": "Correio Kianda",
+      "_key": "44345903e52ae2ca",
+      "score": 5,
+      "title_cn": "Motorista在前往罗安达的途中被乘客撞死"
+    },
+    {
+      "title": "Varredura na Polícia em Luanda: URP, Unidade de Trânsito e Ordem Pública perdem efectivos por expulsões",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/varredura-na-policia-em-luanda-urp-unidade-de-transito-e-ordem-publica-perdem-efectivos-por-expulsoes-74466.html",
+      "source": "Novo Jornal",
+      "_key": "9f3f5a50053d48ee",
+      "score": 5,
+      "title_cn": "罗安达警方大清洗：URP、交通和公共秩序部门警员被开除"
     }
   ]
 }
