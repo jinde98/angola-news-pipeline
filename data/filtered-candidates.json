@@ -1,259 +1,203 @@
 {
   "date": "2026-09-10",
-  "total_new": 88,
-  "total_filtered": 36,
+  "total_new": 53,
+  "total_filtered": 28,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolan Parliament Speaker makes official visit to China",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-an-realiza-visita-oficial-a-china/",
-      "source": "ANGOP",
-      "_key": "116477b31196e9a9",
+      "title": "Corredor do Lobito: Ocidente procura conter a China, mas Pequim pode sair a ganhar",
+      "url": "https://angola24horas.com/sociedade/item/35019-corredor-do-lobito-ocidente-procura-conter-a-china-mas-pequim-pode-sair-a-ganhar",
+      "source": "Angola 24 Horas",
+      "_key": "f02d7d9061fa8aa2",
+      "score": 10
+    },
+    {
+      "title": "Angola prepara investimento de 70 mil milhões de dólares para reforçar petróleo, gás e energia",
+      "url": "https://angola24horas.com/sociedade/item/35017-angola-prepara-investimento-de-70-mil-milhoes-de-dolares-para-reforcar-petroleo-gas-e-energia",
+      "source": "Angola 24 Horas",
+      "_key": "38e4a15a9f433e47",
+      "score": 10
+    },
+    {
+      "title": "Petróleo a 100 dólares traz receita, mas também dispara factura dos subsídios - Vera Daves",
+      "url": "https://angola24horas.com/economia/item/35022-petroleo-a-100-dolares-traz-receita-mas-tambem-dispara-factura-dos-subsidios-vera-daves",
+      "source": "Angola 24 Horas",
+      "_key": "421e9ecb685da298",
       "score": 9
     },
     {
-      "title": "Angola projecta 70 mil milhões de dólares em investimentos no petróleo e gás",
-      "url": "https://correiokianda.info/angola-projecta-70-mil-milhoes-de-dolares-em-investimentos-no-petroleo-e-gas/",
-      "source": "Correio Kianda",
-      "_key": "c35cd8cee72053a5",
+      "title": "Banco Mundial blinda Mota-Engil com garantia de 62,6 milhões de dólares no Corredor do Lobito",
+      "url": "https://angola24horas.com/economia/item/35021-banco-mundial-blinda-mota-engil-com-garantia-de-62-6-milhoes-de-dolares-no-corredor-do-lobito",
+      "source": "Angola 24 Horas",
+      "_key": "a4d05d01c99c7581",
       "score": 9
     },
     {
-      "title": "Angola vai disponibilizar 37 novos blocos onshore para atrair investimento no petróleo",
-      "url": "https://forbesafricalusofona.com/angola-vai-disponibilizar-37-novos-blocos-onshore-para-atrair-investimento-no-petroleo/",
+      "title": "China e EUA em África: quem construiu, de facto, o continente?",
+      "url": "https://angola24horas.com/opiniao/item/35018-china-e-eua-em-africa-quem-construiu-de-facto-o-continente",
+      "source": "Angola 24 Horas",
+      "_key": "c5379712b0a91f8d",
+      "score": 9
+    },
+    {
+      "title": "Angola anuncia nova descoberta de petróleo no Bloco 15, ao largo de Luanda",
+      "url": "https://angola24horas.com/component/k2/item/35015-angola-anuncia-nova-descoberta-de-petroleo-no-bloco-15-ao-largo-de-luanda",
+      "source": "Angola 24 Horas",
+      "_key": "09ba79e06d0d9e6d",
+      "score": 9
+    },
+    {
+      "title": "\"Foi um erro nosso\": Manuel Vicente desmonta o mito da armadilha da dívida chinesa",
+      "url": "https://angola24horas.com/component/k2/item/35012-foi-um-erro-nosso-manuel-vicente-desmonta-o-mito-da-armadilha-da-divida-chinesa",
+      "source": "Angola 24 Horas",
+      "_key": "56fd12b97567db05",
+      "score": 9
+    },
+    {
+      "title": "Reservas internacionais de Angola chegam aos 14,9 mil milhões de dólares e garantem 6,7 meses de importações",
+      "url": "https://angola24horas.com/economia/item/34995-reservas-internacionais-de-angola-chegam-aos-14-9-mil-milhoes-de-dolares-e-garantem-6-7-meses-de-importacoes",
+      "source": "Angola 24 Horas",
+      "_key": "4fe964985e916f31",
+      "score": 9
+    },
+    {
+      "title": "Banco Mundial garante 62,6 milhões USD para investimento da Mota-Engil no Corredor do Lobito",
+      "url": "https://forbesafricalusofona.com/banco-mundial-garante-626-milhoes-usd-para-investimento-da-mota-engil-no-corredor-do-lobito/",
       "source": "Forbes África",
-      "_key": "51868c929922d33b",
+      "_key": "63c51b65f1b845ef",
       "score": 9
     },
     {
-      "title": "Barril de Brent sobe 1,14% e ultrapassa 102 dólares...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/barril-de-brent-sobe-114-e-ultrapassa-102-dolares-pela-primeira-vez-desde-maio-74552.html",
+      "title": "Bloco 15 soma 20.ª descoberta após mais de 2,7 mil milhões de barris produzidos",
+      "url": "https://forbesafricalusofona.com/bloco-15-soma-20-a-descoberta-apos-mais-de-27-mil-milhoes-de-barris-produzidos/",
+      "source": "Forbes África",
+      "_key": "4460606b0c85c659",
+      "score": 9
+    },
+    {
+      "title": "Euro próximo de máximas de duas semanas enquanto petróleo supera...",
+      "url": "https://valoreconomico.co.ao/artigo/euro-proximo-de-maximas-de-duas-semanas-enquanto-petroleo-supera-100-dolares",
+      "source": "Valor Económico",
+      "_key": "61c0626572a9bb2d",
+      "score": 9
+    },
+    {
+      "title": "Angola invests in technology and training to strengthen oil sector",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-aposta-em-tecnologia-e-formacao-para-fortalecer-sector-petrolifero/",
+      "source": "ANGOP",
+      "_key": "e0025f6c7aebf642",
+      "score": 8
+    },
+    {
+      "title": "Importações de motos eléctricas chinesas para África disparam 60% para 114,6 milhões USD",
+      "url": "https://forbesafricalusofona.com/importacoes-de-motos-electricas-chinesas-para-africa-disparam-60-para-1146-milhoes-usd/",
+      "source": "Forbes África",
+      "_key": "f9df2cbb475e870c",
+      "score": 8
+    },
+    {
+      "title": "PONTO AO: ANGOLA VAI CONTAR COM A PRIMEIRA UNIVERSIDADE VIRTUAL EM 2028. Google vai investir 15 mil milhões USD em infraestrutura de IA e adquirir energia nuclear.EUA acusa empresas chinesas de IA de copiar modelos acabados para reduzir custos.iPhone 18 e o dobrável: nova fase da Apple?",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=74559",
       "source": "Novo Jornal",
-      "_key": "768eb9c0e8db2b13",
-      "score": 9
+      "_key": "e5468926b18a437f",
+      "score": 8
     },
     {
-      "title": "uma perspetiva realista de um chinês que vive e...",
-      "url": "https://valoreconomico.co.ao/artigo/uma-perspetiva-realista-de-um-chines-que-vive-e-trabalha-em-angola",
+      "title": "Atlas Petroleum passa a deter 85% do Bloco KON 16",
+      "url": "https://valoreconomico.co.ao/artigo/atlas-petroleum-passa-a-deter-85-do-bloco-kon-16",
       "source": "Valor Económico",
-      "_key": "d2c2f94b5ccfe199",
-      "score": 9
-    },
-    {
-      "title": "Angola invests USD 99 billion in oil production over nine years",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-aplica-usd-99-mil-milhoes-na-producao-petrolifera-em-nove-anos/",
-      "source": "ANGOP",
-      "_key": "2c8d8f2a7eb4a976",
+      "_key": "ab9306d8716ccd72",
       "score": 8
     },
     {
-      "title": "Mineral Resources Minister highlights regional interest in Lobito Refinery",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-dos-recursos-minerais-sinaliza-interesse-regional-na-refinaria-do-lobito/",
-      "source": "ANGOP",
-      "_key": "6ec77964cfc939df",
-      "score": 8
-    },
-    {
-      "title": "Botswana President visits ongoing construction work at the Lobito Refinery",
-      "url": "https://www.angop.ao/en/noticias/economia/presidente-do-botswana-constata-obras-em-curso-na-refinaria-do-lobito/",
-      "source": "ANGOP",
-      "_key": "2a8551464c04d347",
-      "score": 8
-    },
-    {
-      "title": "Angola Oil & Gas International Conference reinforces sector’s attractiveness",
-      "url": "https://www.angop.ao/en/noticias/economia/conferencia-de-petroleo-reforca-atractividade-do-sector/",
-      "source": "ANGOP",
-      "_key": "d7641db7028db19c",
-      "score": 8
-    },
-    {
-      "title": "Dívida externa de Angola cresce 7% e supera 52 mil milhões de dólares",
-      "url": "https://correiokianda.info/divida-externa-de-angola-cresce-7-e-supera-52-mil-milhoes-de-dolares/",
-      "source": "Correio Kianda",
-      "_key": "2b7349dfa44de1f6",
-      "score": 8
-    },
-    {
-      "title": "Executivo angolano aplicou quase 100 mil milhões de dólares na produção petrolífera em 9 anos",
-      "url": "https://correiokianda.info/executivo-angolano-aplicou-quase-100-mil-milhoes-de-dolares-na-producao-petrolifera-em-9-anos/",
-      "source": "Correio Kianda",
-      "_key": "5a080e650df51f94",
-      "score": 8
-    },
-    {
-      "title": "Admitidas três propostas no concurso para a concessão do Terminal de Águas Profundas do Caio em Cabinda",
-      "url": "https://correiokianda.info/admitidas-tres-propostas-no-concurso-para-a-concessao-do-terminal-de-aguas-profundas-do-caio-em-cabinda/",
-      "source": "Correio Kianda",
-      "_key": "6f8051c7765a5782",
-      "score": 8
-    },
-    {
-      "title": "Angola reúne investidores para discutir futuro da indústria petrolífera",
-      "url": "https://correiokianda.info/angola-reune-investidores-para-discutir-futuro-da-industria-petrolifera/",
-      "source": "Correio Kianda",
-      "_key": "c65b6f014e03f9a8",
-      "score": 8
-    },
-    {
-      "title": "Angola investiu 99 mil milhões de dólares no petróleo e gás nos últimos nove anos",
-      "url": "https://forbesafricalusofona.com/angola-investiu-99-mil-milhoes-de-dolares-no-petroleo-e-gas-nos-ultimos-nove-anos/",
-      "source": "Forbes África",
-      "_key": "c5beba445bbb10e6",
-      "score": 8
-    },
-    {
-      "title": "Inflação continua a desacelerar apesar do aumento dos preços nos...",
-      "url": "https://valoreconomico.co.ao/artigo/inflacao-continua-a-desacelerar-apesar-do-aumento-dos-precos-nos-bens-essenciais",
-      "source": "Valor Económico",
-      "_key": "839ad1b6478e4134",
-      "score": 8
-    },
-    {
-      "title": "TotalEnergies strengthens commitment to Angola",
-      "url": "https://www.angop.ao/en/noticias/politica/totalenergies-reforca-aposta-em-angola/",
-      "source": "ANGOP",
-      "_key": "c054c694a8b4b03a",
+      "title": "FMI avisa Angola: é preciso acelerar reformas e reduzir dependência do petróleo",
+      "url": "https://angola24horas.com/economia/item/35020-fmi-avisa-angola-e-preciso-acelerar-reformas-e-reduzir-dependencia-do-petroleo",
+      "source": "Angola 24 Horas",
+      "_key": "63fcf5350341d2f9",
       "score": 7
     },
     {
-      "title": "Homem no Paraíso: Governo investe mais de 150 milhões de kwanzas em infraestrutura da Polícia para reforçar a segurança num dos bairros mais perigosos do País",
-      "url": "https://namiradocrime.info/show/17480",
-      "source": "Na Mira do Crime",
-      "_key": "88ca720d0bcbe44d",
+      "title": "Angola: Quando a disputa eleitoral deixa de ser competição e passa a ser confronto",
+      "url": "https://angola24horas.com/opiniao/item/34984-angola-quando-a-disputa-eleitoral-deixa-de-ser-competicao-e-passa-a-ser-confronto",
+      "source": "Angola 24 Horas",
+      "_key": "ca22397098712936",
       "score": 7
     },
     {
-      "title": "Polícia Nacional em Luanda reforçada com mais de 100...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-nacional-em-luanda-reforcada-com-mais-de-100-meios-operacionais-para-policiamento-de-proximidade-74547.html",
-      "source": "Novo Jornal",
-      "_key": "de9555a4e4b150ff",
+      "title": "TAAG trava especulação e assume venda exclusiva de bilhetes para Cabinda",
+      "url": "https://angola24horas.com/sociedade/item/35013-taag-trava-especulacao-e-assume-venda-exclusiva-de-bilhetes-para-cabinda",
+      "source": "Angola 24 Horas",
+      "_key": "6677b8fb39c5f291",
       "score": 7
     },
     {
-      "title": "Angola and the United Kingdom fine-tune mechanisms to attract investment",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-e-reino-unido-afinam-mecanismos-para-atraccao-de-investimentos/",
-      "source": "ANGOP",
-      "_key": "c36fc168203f207b",
-      "score": 6
+      "title": "PN expulsa 59 efectivos em Luanda por corrupção, escoltas ilegais e burla",
+      "url": "https://angola24horas.com/sociedade/item/35002-pn-expulsa-59-efectivos-em-luanda-por-corrupcao-escoltas-ilegais-e-burla",
+      "source": "Angola 24 Horas",
+      "_key": "f161cabbf3c8f56b",
+      "score": 7
     },
     {
-      "title": "United Kingdom considers Angola a strategic investment destination",
-      "url": "https://www.angop.ao/en/noticias/economia/reino-unido-considera-angola-destino-estrategico-de-investimento/",
-      "source": "ANGOP",
-      "_key": "ec4e720df4a24b0f",
-      "score": 6
-    },
-    {
-      "title": "Photovoltaic energy to benefit over 11,000 families in Cambundi-Catembo",
-      "url": "https://www.angop.ao/en/noticias/sociedade/energia-fotovoltaica-beneficia-mais-de-11-mil-familias-em-cambundi-catembo/",
-      "source": "ANGOP",
-      "_key": "b2fef406383c1680",
-      "score": 6
-    },
-    {
-      "title": "No Uíge: Moradores dos bairros Gai, Candombe e Papelão denunciam onda de assaltos à mão armada e pedem intervenção urgente da Polícia",
-      "url": "https://namiradocrime.info/show/17489",
-      "source": "Na Mira do Crime",
-      "_key": "c748f4a5368f0163",
-      "score": 6
-    },
-    {
-      "title": "Bandidos que \"chocaram\" com a PIR na Samba saíram todos de Benguela para cometer assaltos em Luanda: Autoridades estão a caça dos fugitivos \"Cai Cedo\", \"Zequilson\" e \"Refúgio\"",
-      "url": "https://namiradocrime.info/show/17486",
-      "source": "Na Mira do Crime",
-      "_key": "0b3c8821a78dfe84",
-      "score": 6
-    },
-    {
-      "title": "Mauritaniano, Maliano e Congolês detidos durante operação do SIC-Uíge traficantes foram apanhados com ouro, diamante e milhões de kwanzas",
-      "url": "https://namiradocrime.info/show/17482",
-      "source": "Na Mira do Crime",
-      "_key": "4b0489e2fe9aad6f",
-      "score": 6
-    },
-    {
-      "title": "Sambuquila water system resumes",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sistema-de-agua-do-sambuquila-entra-em-funcionamento/",
-      "source": "ANGOP",
-      "_key": "47ad5945adf67520",
-      "score": 5
-    },
-    {
-      "title": "Sem acordo com Ministério, SINPROF prepara decisão sobre paralisação",
-      "url": "https://correiokianda.info/sem-acordo-com-ministerio-sinprof-prepara-decisao-sobre-paralisacao/",
+      "title": "Mpox já provocou duas mortes entre 116 casos confirmados em Angola",
+      "url": "https://correiokianda.info/mpox-ja-provocou-duas-mortes-entre-116-casos-confirmados-em-angola/",
       "source": "Correio Kianda",
-      "_key": "a297b0d79cfe6021",
-      "score": 5
+      "_key": "fddf9bfa5e9676e4",
+      "score": 7
     },
     {
-      "title": "Carlos Feijó defende formação de quadros alinhada às necessidades da economia",
-      "url": "https://correiokianda.info/carlos-feijo-defende-formacao-de-quadros-alinhada-as-necessidades-da-economia/",
-      "source": "Correio Kianda",
-      "_key": "43cbc380dd71db28",
-      "score": 5
-    },
-    {
-      "title": "Falta de condições leva à suspensão de mais de 250 cursos superiores em Angola",
-      "url": "https://correiokianda.info/falta-de-condicoes-leva-a-suspensao-de-mais-de-250-cursos-superiores-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "fecfd61ebdbc7f81",
-      "score": 5
-    },
-    {
-      "title": "Empresário quer mais oportunidades para jovens trabalharem no campo",
-      "url": "https://correiokianda.info/empresario-quer-mais-oportunidades-para-jovens-trabalharem-no-campo/",
-      "source": "Correio Kianda",
-      "_key": "983c2a5fcc3fb577",
-      "score": 5
-    },
-    {
-      "title": "Moçambique mobiliza 24 milhões de euros para financiar projectos do agronegócio",
-      "url": "https://forbesafricalusofona.com/mocambique-mobiliza-24-milhoes-de-euros-para-financiar-projectos-do-agronegocio/",
+      "title": "Instabilidade política trava investimento privado chinês na Guiné-Bissau, aponta relatório",
+      "url": "https://forbesafricalusofona.com/instabilidade-politica-trava-investimento-privado-chines-na-guine-bissau-aponta-relatorio/",
       "source": "Forbes África",
-      "_key": "3151ff849458d55e",
-      "score": 5
+      "_key": "f283739fc1b5aeb8",
+      "score": 7
     },
     {
-      "title": "“Inclusão do kwanza no sistema de pagamentos da SADC visa simplificar operações cambiais”, diz MassanoPorNapiri Lufania",
-      "url": "https://forbesafricalusofona.com/inclusao-do-kwanza-no-sistema-de-pagamentos-da-sadc-visa-simplificar-operacoes-cambiais-diz-massano/",
-      "source": "Forbes África",
-      "_key": "1cf4dae71ef733a5",
-      "score": 5
-    },
-    {
-      "title": "Ex-funcionário da SOGESTER acusado de desviar dois contentores de frango e óleo alimentar condenado a cinco anos de prisão - Jura \"por tudo\" que é inocente",
-      "url": "https://namiradocrime.info/show/17483",
-      "source": "Na Mira do Crime",
-      "_key": "1bc5a9b79a39cca9",
-      "score": 5
-    },
-    {
-      "title": "SINPROF e Ministério da Educação sem consenso - Docentes...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/sinprof-e-ministerio-da-educacao-sem-consenso---docentes-decidem-este-sabado-se-avancam-para-a-greve-74549.html",
+      "title": "FÓRUM MARGINAL: SITUAÇÃO DO CANCELAMENTO DOS VOO DA TAAG E A FALTA DE BILHETES. SITUAÇÃO DO CANCELAMENTO DOS VOO DA TAAG E A FALTA DE BILHETES PARA LUANDA-CABINDA E VICE-VERSA.ADMINISTRAÇÃO DA INGOMBOTA COLOCA ORDEM NA PESCA ILEGAL NA PRAIA DE BANDA-BANDA.",
+      "url": "https://marginal.co.ao/programas/forum-marginal?ep=74558",
       "source": "Novo Jornal",
-      "_key": "7e0405697fdb7dbf",
-      "score": 5
+      "_key": "d3eb008bb17059ae",
+      "score": 7
     },
     {
-      "title": "Primeiras chuvas em Luanda causam transtornos na mobilidade...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/primeiras-chuvas-em-luanda-causam-transtornos-na-mobilidade-e-na-produtividade-74546.html",
-      "source": "Novo Jornal",
-      "_key": "1dd6b73f12881682",
-      "score": 5
-    },
-    {
-      "title": "Cerca de 64% das famílias não têm condições para poupar",
-      "url": "https://valoreconomico.co.ao/artigo/cerca-de-64-das-familias-nao-tem-condicoes-para-poupar",
+      "title": "EUA prometem apoiar desenvolvimento do processamento de minerais críticos no...",
+      "url": "https://valoreconomico.co.ao/artigo/eua-prometem-apoiar-desenvolvimento-do-processamento-de-minerais-criticos-no-quenia",
       "source": "Valor Económico",
-      "_key": "16390185eabd9762",
-      "score": 5
+      "_key": "d1197375c12636cf",
+      "score": 7
     },
     {
-      "title": "Fogo destrói armazém e deixa centenas sem sustento",
-      "url": "https://valoreconomico.co.ao/artigo/fogo-destroi-armazem-e-deixa-centenas-sem-sustento",
-      "source": "Valor Económico",
-      "_key": "4eb00a1e365d73ff",
+      "title": "João Lourenço tira José Leiria da AGT e leva-o para a Secretaria de Estado",
+      "url": "https://angola24horas.com/component/k2/item/35008-joao-lourenco-tira-jose-leiria-da-agt-e-leva-o-para-a-secretaria-de-estado",
+      "source": "Angola 24 Horas",
+      "_key": "98157a0178859191",
+      "score": 6
+    },
+    {
+      "title": "Função pública angolana chega a 437 mil trabalhadores e custa 266,8 milhões de dólares mensais",
+      "url": "https://angola24horas.com/component/k2/item/34990-funcao-publica-angolana-chega-a-437-mil-trabalhadores-e-custa-266-8-milhoes-de-dolares-mensais",
+      "source": "Angola 24 Horas",
+      "_key": "051783db0cf685af",
+      "score": 6
+    },
+    {
+      "title": "Lei da Cibersegurança: estamos preparados se o WhatsApp ou Facebook parar?",
+      "url": "https://angola24horas.com/opiniao/item/34983-lei-da-ciberseguranca-estamos-preparados-se-o-whatsapp-ou-facebook-parar",
+      "source": "Angola 24 Horas",
+      "_key": "3dd7fb64bcc6fc43",
+      "score": 6
+    },
+    {
+      "title": "SINPROF convoca quatro períodos de greve em Angola e acusa Governo de incumprir acordo",
+      "url": "https://angola24horas.com/sociedade/item/34998-sinprof-convoca-quatro-periodos-de-greve-em-angola-e-acusa-governo-de-incumprir-acordo",
+      "source": "Angola 24 Horas",
+      "_key": "511c327e2b091ac4",
+      "score": 6
+    },
+    {
+      "title": "Executivo prevê aumento salarial para a função pública em 2027, mas não haverá novo reforço este ano",
+      "url": "https://angola24horas.com/sociedade/item/35010-executivo-preve-aumento-salarial-para-a-funcao-publica-em-2027-mas-nao-havera-novo-reforco-este-ano",
+      "source": "Angola 24 Horas",
+      "_key": "df89f4e166fb4d4c",
       "score": 5
     }
   ]
