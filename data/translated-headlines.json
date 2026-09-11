@@ -1,576 +1,120 @@
 {
   "date": "2026-09-11",
-  "total_new": 133,
-  "total_filtered": 71,
+  "total_new": 39,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo Brent perto dos 108 dólares por barril após subir cerca de 6,5%",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35028-petroleo-brent-perto-dos-108-dolares-por-barril-apos-subir-cerca-de-6-5",
-      "source": "Angola 24 Horas",
-      "_key": "5f7434d3a964745e",
-      "score": 10,
-      "title_cn": "布伦特原油上涨6.5%后逼近每桶108美元。"
-    },
-    {
-      "title": "O triângulo preços dos combustíveis, taxa de câmbio e subsídio | Por que o problema persiste?",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_29cdeb99864069",
-      "score": 10,
-      "title_cn": "燃油价格、汇率与补贴三方困境：问题为何持续？"
-    },
-    {
-      "title": "BAI formaliza acordo com Bank of China para facilitar transacções em moeda chinesa",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a81f7e3ebee42a",
-      "score": 10,
-      "title_cn": "安哥拉投资银行（BAI）与中国银行签署协议，便利人民币交易。"
-    },
-    {
-      "title": "VISTO DO CEIC Manuel Alberto O triângulo preços dos combustíveis, taxa de câmbio e subsídio | Por que o problema persiste?",
-      "url": "https://expansao.co.ao/opiniao/detalhe/o-triangulo-precos-dos-combustiveis-taxa-de-cambio-e-subsidio-por-que-o-problema-persiste-74468.html",
-      "source": "Expansão",
-      "_key": "21ed169df74c3d96",
-      "score": 10,
-      "title_cn": "曼努埃尔·阿尔贝托（Manuel Alberto）：燃油价格、汇率与补贴三方困境为何持续？"
-    },
-    {
-      "title": "Mota-Engil apontada como determinante no controlo da China do Corredor do Lobito",
-      "url": "https://jornaloguardiao.com/2026/09/11/mota-engil-apontada-como-determinante-no-controlo-da-china-do-corredor-do-lobito/",
-      "source": "Jornal O Guardião",
-      "_key": "601b960982bc122e",
-      "score": 10,
-      "title_cn": "莫塔-恩吉尔（Mota-Engil）被指在中国控制洛比托走廊中起决定作用。"
-    },
-    {
-      "title": " Mota-Engil apontada como determinante no controlo da China do Corredor do Lobito ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_8be237df0ccacb",
-      "score": 10,
-      "title_cn": "莫塔-恩吉尔（Mota-Engil）被指在中国控制洛比托走廊中起决定作用。"
-    },
-    {
-      "title": "Angola maintains strategy to combat decline in oil production",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-mantem-estrategia-de-combate-ao-declinio-da-producao-petrolifera/",
-      "source": "ANGOP",
-      "_key": "dfe269881286aade",
-      "score": 9,
-      "title_cn": "安哥拉坚持战略，应对石油产量下降。"
-    },
-    {
-      "title": "Subsídios aos combustíveis podem disparar para 2,48% do PIB em Angola, diz ministra das Finanças",
-      "url": "https://angola24horas.com/economia/item/35023-subsidios-aos-combustiveis-podem-disparar-para-2-48-do-pib-em-angola-diz-ministra-das-financas",
-      "source": "Angola 24 Horas",
-      "_key": "b534b3cc8e5ff0f9",
-      "score": 9,
-      "title_cn": "安哥拉财长称燃油补贴或飙升至GDP的2.48%。"
-    },
-    {
-      "title": "Executivo admite pressão da dívida pública sobre investimentos em Angola",
-      "url": "https://correiokianda.info/executivo-admite-pressao-da-divida-publica-sobre-investimentos-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "4fbae8d0b9ffcb25",
-      "score": 9,
-      "title_cn": "安哥拉政府承认公共债务对投资构成压力。"
-    },
-    {
-      "title": "INE aponta desaceleração da inflação, mas bens essenciais continuam a subir",
-      "url": "https://correiokianda.info/ine-aponta-desaceleracao-da-inflacao-mas-bens-essenciais-continuam-a-subir/",
-      "source": "Correio Kianda",
-      "_key": "2a3fe1f50e9f94d8",
-      "score": 9,
-      "title_cn": "国家统计局：通胀放缓，但必需品价格持续上涨。"
-    },
-    {
-      "title": "Recuperar não é adiar a dívida | A que deve conter um verdadeiro plano de recuperação",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_e2456699e1ac6d",
-      "score": 9,
-      "title_cn": "恢复经济并非推迟债务：真正的复苏计划应包含什么？"
-    },
-    {
-      "title": "ABC DA INSOLVÊNCIA Rui de Carvalho AfonsoRecuperar não é adiar a dívida | A que deve conter um verdadeiro plano de recuperação",
-      "url": "https://expansao.co.ao/opiniao/detalhe/recuperar-nao-e-adiar-a-divida-a-que-deve-conter-um-verdadeiro-plano-de-recuperacao-74521.html",
-      "source": "Expansão",
-      "_key": "ed0941071fdb25f6",
-      "score": 9,
-      "title_cn": "鲁伊·德·卡瓦略·阿丰索（Rui de Carvalho Afonso）：恢复经济并非推迟债务。"
-    },
-    {
-      "title": "Angola aposta no gás com plano de mais de 11 mil ME de investimento",
-      "url": "https://jornaloguardiao.com/2026/09/11/angola-aposta-no-gas-com-plano-de-mais-de-11-mil-me-de-investimento/",
-      "source": "Jornal O Guardião",
-      "_key": "674f944463a183cb",
-      "score": 9,
-      "title_cn": "安哥拉投资超110亿欧元发展天然气产业。"
-    },
-    {
-      "title": "Produção de petróleo da OPEP sobe 1,6% em agosto",
-      "url": "https://jornaloguardiao.com/2026/09/11/producao-de-petroleo-da-opep-sobe-16-em-agosto/",
-      "source": "Jornal O Guardião",
-      "_key": "b5ca19d69c2fdf29",
-      "score": 9,
-      "title_cn": "欧佩克8月石油产量增长1.6%。"
-    },
-    {
-      "title": "Despesa pública angolana com subsídios aos combustíveis vai subir – ministra Finanças",
-      "url": "https://jornaloguardiao.com/2026/09/11/despesa-publica-angolana-com-subsidios-aos-combustiveis-vai-subir-ministra-financas/",
-      "source": "Jornal O Guardião",
-      "_key": "6d6138b773281eb6",
-      "score": 9,
-      "title_cn": "安哥拉财长：燃油补贴公共支出将增加。"
-    },
-    {
-      "title": "FMI alerta que reformas abrandaram em Angola e defende consolidação orçamental",
-      "url": "https://jornaloguardiao.com/2026/09/11/fmi-alerta-que-reformas-abrandaram-em-angola-e-defende-consolidacao-orcamental/",
-      "source": "Jornal O Guardião",
-      "_key": "69c55923d042975b",
-      "score": 9,
-      "title_cn": "国际货币基金组织警告：安哥拉改革放缓，呼吁财政整顿。"
-    },
-    {
-      "title": " Angola aposta no gás com plano de mais de 11 mil ME de investimento ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_a0f6217a6ad01b",
-      "score": 9,
-      "title_cn": "安哥拉投资超110亿欧元发展天然气产业。"
-    },
-    {
-      "title": " Produção de petróleo da OPEP sobe 1,6% em agosto ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_976936f567a516",
-      "score": 9,
-      "title_cn": "欧佩克8月石油产量增长1.6%。"
-    },
-    {
-      "title": " Despesa pública angolana com subsídios aos combustíveis vai subir – ministra Finanças ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d9f700446448a3",
-      "score": 9,
-      "title_cn": "安哥拉财长：燃油补贴公共支出将增加。"
-    },
-    {
-      "title": " FMI alerta que reformas abrandaram em Angola e defende consolidação orçamental ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b59399b8b8b166",
-      "score": 9,
-      "title_cn": "国际货币基金组织警告：安哥拉改革放缓，呼吁财政整顿。"
-    },
-    {
-      "title": "Petróleo: Os mercados estão entre o júbilo dos ganhos...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-os-mercados-estao-entre-o-jubilo-dos-ganhos-e-o-receio-das-consequencias-e-o-barril-aproveita-para-somar-ganhos-erxtraodinarios-74576.html",
-      "source": "Novo Jornal",
-      "_key": "80c415353932819d",
-      "score": 9,
-      "title_cn": "石油市场：在收益的喜悦中..."
-    },
-    {
-      "title": "Angola and China to sign Memorandum of Understanding on parliamentary cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-china-assinam-memorando-de-entendimento-no-dominio-parlamentar/",
-      "source": "ANGOP",
-      "_key": "e941401136c770f6",
-      "score": 8,
-      "title_cn": "安哥拉与中国将签署议会合作谅解备忘录。"
-    },
-    {
-      "title": "Minister praises local content in oil sector",
-      "url": "https://www.angop.ao/en/noticias/economia/governante-enaltece-conteudo-local-no-sector-petrolifero/",
-      "source": "ANGOP",
-      "_key": "332d424b00bbe220",
-      "score": 8,
-      "title_cn": "部长赞扬石油行业本地化内容。"
-    },
-    {
-      "title": "Kwanza entra no sistema de pagamentos da SADC e torna-se a primeira nova moeda desde 2013",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35029-kwanza-entra-no-sistema-de-pagamentos-da-sadc-e-torna-se-a-primeira-nova-moeda-desde-2013",
-      "source": "Angola 24 Horas",
-      "_key": "073a65d6e4e6d318",
-      "score": 8,
-      "title_cn": "宽扎（Kwanza）进入南部非洲发展共同体支付系统，成2013年来首个新货币。"
-    },
-    {
-      "title": "MIREX troca chefias em consulados de Angola nos EUA, China, Reino Unido e Namíbia",
-      "url": "https://correiokianda.info/mirex-troca-chefias-em-consulados-de-angola-nos-eua-china-reino-unido-e-namibia/",
-      "source": "Correio Kianda",
-      "_key": "7d5022642696bf6b",
-      "score": 8,
-      "title_cn": "安哥拉外交部调整驻美、中、英、纳米比亚领事馆领导。"
-    },
-    {
-      "title": "Leonildo Manuel passa de administrador executivo a PCA da AGT",
-      "url": "https://correiokianda.info/leonildo-manuel-passa-de-administrador-executivo-a-pca-da-agt/",
-      "source": "Correio Kianda",
-      "_key": "2a4d3f0a6508cd3f",
-      "score": 8,
-      "title_cn": "莱奥尼尔多·曼努埃尔（Leonildo Manuel）由执行董事升任AGT董事长。"
-    },
-    {
-      "title": "Três candidatos disputam gestão do terminal do Caio",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_480d1581f6f059",
-      "score": 8,
-      "title_cn": "三家公司竞标卡约（Caio）码头管理权。"
-    },
-    {
-      "title": "Três candidatos disputam gestão do terminal do CaioTrês candidatos nacionais - Africa Global Logistics (AGL), Sogester -Sociedade Gestora de Terminais, S.A. e o Consórcio MISG são os únicos candidatos ao concurso público internacional para concessão do direito de exploração, gestão e manutenção do Terminal de Águas Profundas do Caio, Cabinda, um dos principais projectos de infraestruturas portuárias e logísticas de Angola.",
-      "url": "https://expansao.co.ao/angola/detalhe/tres-candidatos-disputam-gestao-do-terminal-do-caio-74565.html",
-      "source": "Expansão",
-      "_key": "fd866a1d9ee69d19",
-      "score": 8,
-      "title_cn": "非洲全球物流等三家公司竞标卡约（Caio）码头管理权。"
-    },
-    {
-      "title": "MinFin quer abrir mercado de dívida interna a investidores estrangeiros",
-      "url": "https://expansao.co.ao/economia/detalhe/minfin-quer-abrir-mercado-de-divida-interna-a-investidores-estrangeiros-74570.html",
-      "source": "Expansão",
-      "_key": "27299ceabe4d9539",
-      "score": 8,
-      "title_cn": "财政部拟向外国投资者开放国内债务市场。"
-    },
-    {
-      "title": "Presidência da AGT muda de mãos com nomeação de Leonildo Manuel",
-      "url": "https://forbesafricalusofona.com/presidencia-da-agt-muda-de-maos-com-nomeacao-de-leonildo-manuel/",
-      "source": "Forbes África",
-      "_key": "d583084820ceb860",
-      "score": 8,
-      "title_cn": "莱奥尼尔多·曼努埃尔（Leonildo Manuel）获任AGT董事长。"
-    },
-    {
-      "title": "Ohuasi aponta em Londres caminhos para desbloquear financiamento para Angola",
-      "url": "https://forbesafricalusofona.com/ohuasi-aponta-em-londres-caminhos-para-desbloquear-financiamento-para-angola/",
-      "source": "Forbes África",
-      "_key": "efef9761d8a32c1d",
-      "score": 8,
-      "title_cn": "奥瓦西（Ohuasi）在伦敦探讨安哥拉融资途径。"
-    },
-    {
-      "title": "Angola regista surto de mpox com dois óbitos em 442 casos desde 2024 – Governo",
-      "url": "https://jornaloguardiao.com/2026/09/11/angola-regista-surto-de-mpox-com-dois-obitos-em-442-casos-desde-2024-governo/",
-      "source": "Jornal O Guardião",
-      "_key": "0bf277144dcb46fd",
-      "score": 8,
-      "title_cn": "安哥拉政府：自2024年起，猴痘疫情已致442例感染2人死亡。"
-    },
-    {
-      "title": " Angola regista surto de mpox com dois óbitos em 442 casos desde 2024 – Governo ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_645f4c5c921efe",
-      "score": 8,
-      "title_cn": "安哥拉政府：自2024年起，猴痘疫情已致442例感染2人死亡。"
-    },
-    {
-      "title": "Leonildo João Lourenço Manual é o novo PCA da AGT",
-      "url": "https://valoreconomico.co.ao/artigo/leonildo-joao-lourenco-manual-e-o-novo-pca-da-agt",
-      "source": "Valor Económico",
-      "_key": "8c870be82b103bbb",
-      "score": 8,
-      "title_cn": "莱奥尼尔多·若昂·洛伦索·曼努埃尔（Leonildo João Lourenço Manual）出任AGT新任董事长。"
-    },
-    {
-      "title": "Angola fica fora do ranking das economias mais competitivas e...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-fica-fora-do-ranking-das-economias-mais-competitivas-e-africa-do-sul-lidera-em-africa",
-      "source": "Valor Económico",
-      "_key": "cbd74d43ce0e9275",
-      "score": 8,
-      "title_cn": "安哥拉未能进入最具竞争力经济体排名。"
-    },
-    {
-      "title": "Cooperação parlamentar",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=168003",
-      "source": "ANGOP",
-      "_key": "1184d9cbf505fb07",
-      "score": 7,
-      "title_cn": "议会合作。"
-    },
-    {
-      "title": "Governo promete água a 7,5 milhões em Luanda, mas metade dos angolanos continua sem electricidade",
-      "url": "https://angola24horas.com/sociedade/item/35025-governo-promete-agua-a-7-5-milhoes-em-luanda-mas-metade-dos-angolanos-continua-sem-electricidade",
-      "source": "Angola 24 Horas",
-      "_key": "4fc2e44f3d2a59dd",
-      "score": 7,
-      "title_cn": "安哥拉政府承诺为罗安达750万人供水，但半数国民仍无电。"
-    },
-    {
-      "title": "África paga 21,9 mil milhões USD a mais por combustíveis",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_2bec78ea83926d",
-      "score": 7,
-      "title_cn": "非洲为燃油多支付219亿美元。"
-    },
-    {
-      "title": "África paga 21,9 mil milhões USD a mais por combustíveisEntre os exportadores de petróleo, a Nigéria foi o que mais ganhou com a guerra no Médio Oriente. O país arrecadou 7,5 mil milhões USD ao longo de seis meses e Angola tem o segundo melhor encaixe em África, com 4,5 mil milhões USD a mais. Já a factura mais pesada atingiu o Egipto. No mundo, China foi o mais penalizado.",
-      "url": "https://expansao.co.ao/mundo/africa/detalhe/africa-paga-219-mil-milhoes-usd-a-mais-por-combustiveis-74568.html",
-      "source": "Expansão",
-      "_key": "6d72b5276c50ec4e",
-      "score": 7,
-      "title_cn": "非洲为燃油多支付219亿美元，尼日利亚因中东战争获利75亿美元。"
-    },
-    {
-      "title": "Angola reforça aposta no espaço para ganhar soberania e autonomia tecnológica",
-      "url": "https://forbesafricalusofona.com/angola-reforca-aposta-no-espaco-para-ganhar-soberania-e-autonomia-tecnologica/",
-      "source": "Forbes África",
-      "_key": "d5c76bc6dba66aee",
-      "score": 7,
-      "title_cn": "安哥拉加强太空投入，以争取主权和技术自主。"
-    },
-    {
-      "title": "Angola ainda luta com gestão diária de 19 mil toneladas de resíduos sólidos urbanos – Governo",
-      "url": "https://jornaloguardiao.com/2026/09/11/angola-ainda-luta-com-gestao-diaria-de-19-mil-toneladas-de-residuos-solidos-urbanos-governo/",
-      "source": "Jornal O Guardião",
-      "_key": "22f4ae58f86fb578",
-      "score": 7,
-      "title_cn": "安哥拉政府：每日仍需处理1.9万吨城市固体废物。"
-    },
-    {
-      "title": " Angola ainda luta com gestão diária de 19 mil toneladas de resíduos sólidos urbanos – Governo ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_100a71da803ba2",
-      "score": 7,
-      "title_cn": "安哥拉政府：每日仍需处理1.9万吨城市固体废物。"
-    },
-    {
-      "title": "Pólo Industrial de Viana junta mais de 150 empresários para intercâmbio Mais de 150 empresários, representantes de instituições públicas e privadas e parceiros estratégicos participam, no dia 24 deste mês, na 2.ª edição do Café do Pólo, uma iniciativa do Pólo de Desenvolvimento Industrial de Viana (PIV), em Luanda.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685082/p%C3%B3lo-industrial-de-viana-junta-mais-de-150-empres%C3%A1rios-para-interc%C3%A2mbio-",
+      "title": "Política Angola e China aprofundam o intercâmbio institucional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685107/angola-e-china-aprofundam-o-interc%C3%A2mbio-institucional",
       "source": "Jornal de Angola",
-      "_key": "d41dfb8ba22c0e46",
-      "score": 7,
-      "title_cn": "维亚纳工业园汇聚逾150位企业家进行交流。"
+      "_key": "ebed4cc35f6f6879",
+      "score": 9,
+      "title_cn": "安哥拉与中国深化机构交流"
     },
     {
-      "title": "Presidente da República confere posse a novos membros do Governo O Chefe de Estado, João Lourenço, conferiu, esta sexta-feira, posse aos novos membros do Executivo recentemente nomeados por Decreto Presidencial para exercerem funções no aparelho do Estado.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685078/presidente-da-rep%C3%BAblica-confere-posse-a-novos-membros-do-governo-",
-      "source": "Jornal de Angola",
-      "_key": "28b6dc10ea6beec1",
-      "score": 7,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统任命新政府成员并主持就职仪式。"
-    },
-    {
-      "title": "Oferta Pública de Venda de 34% do capital social do Standard Bank Angola lançada esta sexta-feira",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/oferta-publica-de-venda-de-34-do-capital-social-do-standard-bank-angola-lancada-esta-sexta-feira-74575.html",
+      "title": "Greve nas obras da refinaria do Lobito após visita...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/greve-nas-obras-da-refinaria-do-lobito-apos-visita-do-presidente-do-botswana---trabalhadores-levantam-a-voz-contra-miseros-salarios-74598.html",
       "source": "Novo Jornal",
-      "_key": "5aeaaa5a06ea5680",
-      "score": 7,
-      "title_cn": "安哥拉标准银行34%股权公开出售于本周五启动。"
+      "_key": "4f59b10a19400e32",
+      "score": 9,
+      "title_cn": "洛比托炼油厂项目在视察后发生罢工"
     },
     {
-      "title": "Angola concludes summit participation with new cooperation prospects",
-      "url": "https://www.angop.ao/en/noticias/economia/angola-encerra-participacao-em-cimeira-com-novas-perspectivas-de-cooperacao/",
-      "source": "ANGOP",
-      "_key": "1e77f9f9aa8c225d",
-      "score": 6,
-      "title_cn": "安哥拉峰会参与结束，展望新合作前景。"
-    },
-    {
-      "title": "Angola extends mandatory social protection to five more sectors",
-      "url": "https://www.angop.ao/en/noticias/sociedade/angola-alarga-proteccao-social-obrigatoria-a-mais-cinco-sectores/",
-      "source": "ANGOP",
-      "_key": "d7e7cbc8d2af8181",
-      "score": 6,
-      "title_cn": "安哥拉将强制性社会保障扩大至五个新领域。"
-    },
-    {
-      "title": "Protecção Social",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=30653",
-      "source": "ANGOP",
-      "_key": "5fa587ea71dd74c1",
-      "score": 6,
-      "title_cn": "社会保障。"
-    },
-    {
-      "title": "BODIVA trades over 820 million kwanzas",
-      "url": "https://www.angop.ao/en/noticias/economia/bodiva-movimenta-mais-de-820-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "02182a4e62d1a192",
-      "score": 6,
-      "title_cn": "安哥拉证券交易所（BODIVA）交易额超8.2亿宽扎。"
-    },
-    {
-      "title": "Bolsa em queda após anúncio da OPV do Standard Bank e negócio do BPI e Carrinho",
-      "url": "https://expansao.co.ao/empresas/detalhe/bolsa-em-queda-apos-anuncio-da-opv-do-standard-e-negocio-do-bpi-e-carrinho-74571.html",
-      "source": "Expansão",
-      "_key": "89d0fa94b55f6972",
-      "score": 6,
-      "title_cn": "标准银行首次公开募股及BPI与卡里尼奥（Carrinho）交易公布后股市下跌。"
-    },
-    {
-      "title": "Carrinho no BFA testa BNA, CMC e Autoridade da Concorrência",
-      "url": "https://expansao.co.ao/empresas/detalhe/carrinho-no-bfa-testa-bna-cmc-e-autoridade-da-concorrencia-74567.html",
-      "source": "Expansão",
-      "_key": "cd7c199f5f26ffc2",
-      "score": 6,
-      "title_cn": "卡里尼奥（Carrinho）在BFA的交易考验安哥拉国家银行、资本市场委员会和竞争管理局。"
-    },
-    {
-      "title": "TAAG aperta controlo das operações para fechar fugas e travar prejuízos",
-      "url": "https://expansao.co.ao/empresas/detalhe/taag-aperta-controlo-das-operacoes-para-fechar-fugas-e-travar-prejuizos-74569.html",
-      "source": "Expansão",
-      "_key": "086ab30cfb020baf",
-      "score": 6,
-      "title_cn": "安哥拉航空（TAAG）加强运营管控，堵塞漏洞，遏制亏损。"
-    },
-    {
-      "title": "E1 leva Angola ao radar mundial do turismo e da mobilidade eléctrica",
-      "url": "https://forbesafricalusofona.com/e1-leva-angola-ao-radar-mundial-do-turismo-e-da-mobilidade-electrica/",
-      "source": "Forbes África",
-      "_key": "becaef72368daed7",
-      "score": 6,
-      "title_cn": "E1将安哥拉推向全球旅游和电动出行视野。"
-    },
-    {
-      "title": "Economia QatarEnergy oficializa a entrada em Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685058/qatarenergy-oficializa-a-entrada-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "4bf83a70ddf2e6ff",
-      "score": 6,
-      "title_cn": "经济卡塔尔能源正式进入安哥拉"
-    },
-    {
-      "title": "EXIM Bank dos EUA anuncia empréstimo de 99,6 milhões...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html",
-      "source": "Novo Jornal",
-      "_key": "e9a99b5a08d4eda1",
-      "score": 6,
-      "title_cn": "美国进出口银行宣布9960万美元贷款。"
-    },
-    {
-      "title": "Angola não precisa apenas de produzir mais; precisa...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/angola-nao-precisa-apenas-de-produzir-mais-precisa-de-aprender-a-produzir-melhor-74573.html",
-      "source": "Novo Jornal",
-      "_key": "f5d2258ed169d816",
-      "score": 6,
-      "title_cn": "安哥拉不仅需要增产，还需要..."
-    },
-    {
-      "title": "BODIVA movimenta cerca de 820 milhões de kwanzas",
-      "url": "https://valoreconomico.co.ao/artigo/bodiva-movimenta-cerca-de-820-milhoes-de-kwanzas",
+      "title": "Subida do petróleo poderá triplicar custo dos subsídios aos combustíveis...",
+      "url": "https://valoreconomico.co.ao/artigo/subida-do-petroleo-podera-triplicar-custo-dos-subsidios-aos-combustiveis-em-angola",
       "source": "Valor Económico",
-      "_key": "1a3c2768a4ca28d0",
+      "_key": "ab976f7f8ece4974",
+      "score": 9,
+      "title_cn": "油价上涨或使燃料补贴成本增至三倍"
+    },
+    {
+      "title": "Economia / Há 3 horas Certificação ganha espaço na melhoria das empresas do sector petrolífero ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685102/certifica%C3%A7%C3%A3o-ganha-espa%C3%A7o-na-melhoria-das-empresas-do-sector-petrol%C3%ADfero",
+      "source": "Jornal de Angola",
+      "_key": "60492c49d5be5349",
+      "score": 8,
+      "title_cn": "认证在提升石油企业方面日益重要"
+    },
+    {
+      "title": "Economia / Há 5 horas Caimbambo procura investidores para exploração de mica e quartzo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685063/caimbambo-procura-investidores--para-explora%C3%A7%C3%A3o-de-mica-e-quartzo",
+      "source": "Jornal de Angola",
+      "_key": "134fabf65b5635bb",
+      "score": 8,
+      "title_cn": "凯姆班博寻求投资者开发云母和石英"
+    },
+    {
+      "title": "Economia Ohuasi aponta em Londres caminhos para desbloquear financiamento para Angola ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685118/ohuasi-aponta-em-londres-caminhos-para-desbloquear-financiamento-para-angola",
+      "source": "Jornal de Angola",
+      "_key": "12c0e00d02b707e0",
+      "score": 7,
+      "title_cn": "奥瓦西（Ohuasi）在伦敦探讨安哥拉融资途径"
+    },
+    {
+      "title": "Economia Kwanza é a primeira moeda admitida no sistema da SADC ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685116/kwanza-%C3%A9-a-primeira-moeda-admitida-no-sistema-da-sadc",
+      "source": "Jornal de Angola",
+      "_key": "9aa5394dc01f75cd",
+      "score": 7,
+      "title_cn": "宽扎成为首个获南部非洲发展共同体系统认可的货币"
+    },
+    {
+      "title": "Leonildo Manuel nomeado PCA da AGT, o 3º no mandato de Vera Daves",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/leonildo-manuel-nomeado-pca-da-agt-o-3-no-mandato-de-vera-daves-74599.html",
+      "source": "Novo Jornal",
+      "_key": "b2e2179c2c0e0e48",
+      "score": 7,
+      "title_cn": "莱奥尼尔多·曼努埃尔（Leonildo Manuel）被任命为AGT主席，系维拉·戴维斯（Vera Daves）任期内第三位"
+    },
+    {
+      "title": "Presidente exonera administradora do Caminho-de-Ferro de Luanda após prejuízos superiores...",
+      "url": "https://valoreconomico.co.ao/artigo/presidente-exonera-administradora-do-caminho-de-ferro-de-luanda-apos-prejuizos-superiores-a-1-5-mil-milhoes-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "18fc863085095916",
+      "score": 7,
+      "title_cn": "总统因巨额亏损解雇罗安达铁路公司行政主管"
+    },
+    {
+      "title": "Destaque Leonildo Manuel é novo PCA da Administração Geral TributáriaLeonildo Lourenço Manuel foi nomeado novo Presidente do Conselho de Administração da Administração Geral Tributária (AGT), segundo o Despacho n.º 8832/26, do Ministério das Finanças.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685103/leonildo-manuel-%C3%A9-novo-pca-da-administra%C3%A7%C3%A3o-geral-tribut%C3%A1ria",
+      "source": "Jornal de Angola",
+      "_key": "d4e1b11851ec2ace",
       "score": 6,
-      "title_cn": "安哥拉证券交易所（BODIVA）交易额约8.2亿宽扎。"
+      "title_cn": "莱奥尼尔多·曼努埃尔（Leonildo Manuel）出任税务总局（AGT）新任主席"
     },
     {
-      "title": "President João Lourenço appoints financial administrator of CFL",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-nomeia-administradora-financeira-do-cfl/",
+      "title": "EUA preparam empréstimo de 100 milhões de dólares à Africell...",
+      "url": "https://valoreconomico.co.ao/artigo/eua-preparam-emprestimo-de-100-milhoes-de-dolares-a-africell-para-expandir-redes-de-telecomunicacoes-em-africa",
+      "source": "Valor Económico",
+      "_key": "9e17821d963d610c",
+      "score": 6,
+      "title_cn": "美国拟向Africell提供1亿美元贷款"
+    },
+    {
+      "title": "Angolan foreign minister urges new consuls-general to bolster diplomacy",
+      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-exorta-novos-consules-gerais-ao-reforco-da-diplomacia-angolana/",
       "source": "ANGOP",
-      "_key": "e107a96ba8707e1a",
+      "_key": "429e9b44cde99bea",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统任命CFL财务主管。"
+      "title_cn": "安哥拉外长敦促新任总领事加强外交"
     },
     {
-      "title": "Minister Mário Oliveira advocates partnerships focused on knowledge transfer",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-realca-parcerias-orientadas-para-transferencia-de-conhecimento/",
-      "source": "ANGOP",
-      "_key": "627421b9437b2b85",
+      "title": "Política Téte António apela a novos cônsules para reforçarem diplomacia angolana ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685117/t%C3%A9te-ant%C3%B3nio-apela-a-novos-c%C3%B4nsules-para-refor%C3%A7arem-diplomacia-angolana",
+      "source": "Jornal de Angola",
+      "_key": "1e231b37fe20264c",
       "score": 5,
-      "title_cn": "马里奥·奥利维拉（Mário Oliveira）部长倡导以知识转移为重点的伙伴关系。"
+      "title_cn": "特特·安东尼奥（Téte António）呼吁新领事加强安哥拉外交"
     },
     {
-      "title": "Japan aims to strengthen cooperation with Angola in health and agriculture",
-      "url": "https://www.angop.ao/en/noticias/politica/japao-pretende-reforcar-cooperacao-com-angola-na-saude-e-agricultura/",
-      "source": "ANGOP",
-      "_key": "220ca21e42b5eb74",
-      "score": 5,
-      "title_cn": "日本旨在加强与安哥拉在卫生和农业领域的合作。"
-    },
-    {
-      "title": "Relações Bilaterais",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=38742",
-      "source": "ANGOP",
-      "_key": "0afeddad8bf751b0",
-      "score": 5,
-      "title_cn": "双边关系。"
-    },
-    {
-      "title": "UNITA no Bié denuncia degradação das vias e falta de autonomia dos governos provinciais",
-      "url": "https://correiokianda.info/unita-no-bie-denuncia-degradacao-das-vias-e-falta-de-autonomia-dos-governos-provinciais/",
-      "source": "Correio Kianda",
-      "_key": "f1f80b24a99fcda3",
-      "score": 5,
-      "title_cn": "安盟（UNITA）比耶省支部谴责道路恶化及省政府缺乏自主权。"
-    },
-    {
-      "title": "UNICEF alerta: Saneamento deve estar no centro do desenvolvimento de Angola",
-      "url": "https://correiokianda.info/unicef-alerta-saneamento-deve-estar-no-centro-do-desenvolvimento-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "4b83d0ce643e594b",
-      "score": 5,
-      "title_cn": "联合国儿童基金会警告：安哥拉发展核心应是卫生设施。"
-    },
-    {
-      "title": "África precisa transformar oportunidades em desenvolvimento",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0cb0a5d6c111cb",
-      "score": 5,
-      "title_cn": "非洲需将机遇转化为发展。"
-    },
-    {
-      "title": "A nova geografia digital da África Subsariana | Quem está preparado para a Era da Inteligência Artificial?",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_2e2c853f6732b7",
-      "score": 5,
-      "title_cn": "撒哈拉以南非洲数字新格局：谁为人工智能时代做好了准备？"
-    },
-    {
-      "title": "MILAGRE OU MIRAGEM ?Fernandes WandaÁfrica precisa transformar oportunidades em desenvolvimento",
-      "url": "https://expansao.co.ao/opiniao/detalhe/africa-precisa-transformar-oportunidades-em-desenvolvimento-74566.html",
-      "source": "Expansão",
-      "_key": "f782c458314acde2",
-      "score": 5,
-      "title_cn": "费尔南德斯·万达（Fernandes Wanda）：非洲需将机遇转化为发展。"
-    },
-    {
-      "title": "CONVIDADOFrancisco Xavier PedroA nova geografia digital da África Subsariana | Quem está preparado para a Era da Inteligência Artificial?",
-      "url": "https://expansao.co.ao/opiniao/detalhe/a-nova-geografia-digital-da-africa-subsariana-quem-esta-preparado-para-a-era-da-inteligencia-artificial-74494.html",
-      "source": "Expansão",
-      "_key": "be087fa3962b932c",
-      "score": 5,
-      "title_cn": "弗朗西斯科·哈维尔·佩德罗（Francisco Xavier Pedro）：撒哈拉以南非洲数字新格局。"
-    },
-    {
-      "title": "Forbes Africa Day 2026 leva a voz de África ao centro das decisões globais em Nova Iorque",
-      "url": "https://forbesafricalusofona.com/forbes-africa-day-2026-leva-a-voz-de-africa-ao-centro-das-decisoes-globais-em-nova-iorque/",
-      "source": "Forbes África",
-      "_key": "626fe23d185e7b50",
-      "score": 5,
-      "title_cn": "2026年福布斯非洲日：将非洲声音带到纽约全球决策中心。"
-    },
-    {
-      "title": "Défice comercial de Moçambique mais do que duplica no primeiro semestre",
-      "url": "https://forbesafricalusofona.com/defice-comercial-de-mocambique-mais-do-que-duplica-no-primeiro-semestre/",
-      "source": "Forbes África",
-      "_key": "485460d3f5aefa4e",
-      "score": 5,
-      "title_cn": "莫桑比克上半年贸易逆差翻倍。"
-    },
-    {
-      "title": "Funcionário da loja de registo do Zango- IV e dois intermediários detidos quando tentavam registar um cidadão Congolês a troco de 200 mil kwanzas",
-      "url": "https://namiradocrime.info/show/17498",
+      "title": "Em 09 anos - 47 países e 66 cidades visitadas: Com custos orçados em mais de 1 bilião de dólares PR passou um dia no estrangeiro a cada seis dias do seu mandato",
+      "url": "https://namiradocrime.info/show/17499",
       "source": "Na Mira do Crime",
-      "_key": "ce39357c5a0bd50e",
+      "_key": "b61071bc1ed3477b",
       "score": 5,
-      "title_cn": "赞戈四区登记处职员与两名中间人因收受20万宽扎为刚果公民登记被捕。"
-    },
-    {
-      "title": "BRICS: Cimeira na Índia \"arranca\" em \"Modi\" de encontro...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/brics-cimeira-na-india-arranca-em-modi-de-encontro-com-putin-nova-deli-recebe-representantes-de-metade-da-populacao-mundial-e-quase-metade-do-pib-global-74582.html",
-      "source": "Novo Jornal",
-      "_key": "6e4117f7b9606620",
-      "score": 5,
-      "title_cn": "金砖国家峰会在印度以“莫迪”会晤方式“启动”。"
+      "title_cn": "总统9年任期内出访47国66城，耗资超10亿美元"
     }
   ]
 }
