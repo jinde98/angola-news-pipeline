@@ -1,105 +1,126 @@
 {
-  "date": "2026-09-11",
-  "total_new": 39,
-  "total_filtered": 14,
+  "date": "2026-09-12",
+  "total_new": 55,
+  "total_filtered": 17,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Política Angola e China aprofundam o intercâmbio institucional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685107/angola-e-china-aprofundam-o-interc%C3%A2mbio-institucional",
-      "source": "Jornal de Angola",
-      "_key": "ebed4cc35f6f6879",
-      "score": 9
+      "title": "Brent dispara e abre acima dos 100 dólares com tensões no Médio Oriente a pressionarem fornecimento",
+      "url": "https://correiokianda.info/brent-dispara-e-abre-acima-dos-100-dolares-com-tensoes-no-medio-oriente-a-pressionarem-fornecimento/",
+      "source": "Correio Kianda",
+      "_key": "dcad7a57219666d1",
+      "score": 10
     },
     {
-      "title": "Greve nas obras da refinaria do Lobito após visita...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/greve-nas-obras-da-refinaria-do-lobito-apos-visita-do-presidente-do-botswana---trabalhadores-levantam-a-voz-contra-miseros-salarios-74598.html",
-      "source": "Novo Jornal",
-      "_key": "4f59b10a19400e32",
-      "score": 9
-    },
-    {
-      "title": "Subida do petróleo poderá triplicar custo dos subsídios aos combustíveis...",
-      "url": "https://valoreconomico.co.ao/artigo/subida-do-petroleo-podera-triplicar-custo-dos-subsidios-aos-combustiveis-em-angola",
-      "source": "Valor Económico",
-      "_key": "ab976f7f8ece4974",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 3 horas Certificação ganha espaço na melhoria das empresas do sector petrolífero ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685102/certifica%C3%A7%C3%A3o-ganha-espa%C3%A7o-na-melhoria-das-empresas-do-sector-petrol%C3%ADfero",
-      "source": "Jornal de Angola",
-      "_key": "60492c49d5be5349",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 5 horas Caimbambo procura investidores para exploração de mica e quartzo ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685063/caimbambo-procura-investidores--para-explora%C3%A7%C3%A3o-de-mica-e-quartzo",
-      "source": "Jornal de Angola",
-      "_key": "134fabf65b5635bb",
-      "score": 8
-    },
-    {
-      "title": "Economia Ohuasi aponta em Londres caminhos para desbloquear financiamento para Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685118/ohuasi-aponta-em-londres-caminhos-para-desbloquear-financiamento-para-angola",
-      "source": "Jornal de Angola",
-      "_key": "12c0e00d02b707e0",
-      "score": 7
-    },
-    {
-      "title": "Economia Kwanza é a primeira moeda admitida no sistema da SADC ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685116/kwanza-%C3%A9-a-primeira-moeda-admitida-no-sistema-da-sadc",
-      "source": "Jornal de Angola",
-      "_key": "9aa5394dc01f75cd",
-      "score": 7
-    },
-    {
-      "title": "Leonildo Manuel nomeado PCA da AGT, o 3º no mandato de Vera Daves",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/leonildo-manuel-nomeado-pca-da-agt-o-3-no-mandato-de-vera-daves-74599.html",
-      "source": "Novo Jornal",
-      "_key": "b2e2179c2c0e0e48",
-      "score": 7
-    },
-    {
-      "title": "Presidente exonera administradora do Caminho-de-Ferro de Luanda após prejuízos superiores...",
-      "url": "https://valoreconomico.co.ao/artigo/presidente-exonera-administradora-do-caminho-de-ferro-de-luanda-apos-prejuizos-superiores-a-1-5-mil-milhoes-de-kwanzas",
-      "source": "Valor Económico",
-      "_key": "18fc863085095916",
-      "score": 7
-    },
-    {
-      "title": "Destaque Leonildo Manuel é novo PCA da Administração Geral TributáriaLeonildo Lourenço Manuel foi nomeado novo Presidente do Conselho de Administração da Administração Geral Tributária (AGT), segundo o Despacho n.º 8832/26, do Ministério das Finanças.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685103/leonildo-manuel-%C3%A9-novo-pca-da-administra%C3%A7%C3%A3o-geral-tribut%C3%A1ria",
-      "source": "Jornal de Angola",
-      "_key": "d4e1b11851ec2ace",
-      "score": 6
-    },
-    {
-      "title": "EUA preparam empréstimo de 100 milhões de dólares à Africell...",
-      "url": "https://valoreconomico.co.ao/artigo/eua-preparam-emprestimo-de-100-milhoes-de-dolares-a-africell-para-expandir-redes-de-telecomunicacoes-em-africa",
-      "source": "Valor Económico",
-      "_key": "9e17821d963d610c",
-      "score": 6
-    },
-    {
-      "title": "Angolan foreign minister urges new consuls-general to bolster diplomacy",
-      "url": "https://www.angop.ao/en/noticias/politica/tete-antonio-exorta-novos-consules-gerais-ao-reforco-da-diplomacia-angolana/",
-      "source": "ANGOP",
-      "_key": "429e9b44cde99bea",
-      "score": 5
-    },
-    {
-      "title": "Política Téte António apela a novos cônsules para reforçarem diplomacia angolana ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685117/t%C3%A9te-ant%C3%B3nio-apela-a-novos-c%C3%B4nsules-para-refor%C3%A7arem-diplomacia-angolana",
-      "source": "Jornal de Angola",
-      "_key": "1e231b37fe20264c",
-      "score": 5
-    },
-    {
-      "title": "Em 09 anos - 47 países e 66 cidades visitadas: Com custos orçados em mais de 1 bilião de dólares PR passou um dia no estrangeiro a cada seis dias do seu mandato",
-      "url": "https://namiradocrime.info/show/17499",
+      "title": "Escondem comida nas casas de banho - Trabalhadores da Empresa Vida Nobre denunciam maus tratos por cidadãos chineses",
+      "url": "https://namiradocrime.info/show/17502",
       "source": "Na Mira do Crime",
-      "_key": "b61071bc1ed3477b",
+      "_key": "3ab7da5e1d07e9e6",
+      "score": 10
+    },
+    {
+      "title": "Secretary of State for Trade urges foreign business leaders to invest in Angola",
+      "url": "https://www.angop.ao/en/noticias/economia/dirigente-exorta-empresarios-estrangeiros-a-investir-em-angola/",
+      "source": "ANGOP",
+      "_key": "87db471708b8a659",
+      "score": 9
+    },
+    {
+      "title": "Angola quer produzir mais petróleo e ganhar mais com cada barril",
+      "url": "https://correiokianda.info/angola-quer-produzir-mais-petroleo-e-ganhar-mais-com-cada-barril/",
+      "source": "Correio Kianda",
+      "_key": "c3597cdb0066a73c",
+      "score": 9
+    },
+    {
+      "title": "Reformas abrem a porta a pequenos e médios investidores",
+      "url": "https://expansao.co.ao/economia/detalhe/reformas-abrem-a-porta-a-pequenos-e-medios-investidores-74607.html",
+      "source": "Expansão",
+      "_key": "a427ed96c4ceda03",
+      "score": 9
+    },
+    {
+      "title": "NO ENTRETANTO: MAGAZINE DA TARDE. Histórico da produção futura do PIB petrolífero de Angola.Impacto dos acontecimentos do 11 de Setembro na economia americana.PIB da economia agrícola de Angola.",
+      "url": "https://marginal.co.ao/programas/no-entretanto?ep=74602",
+      "source": "Novo Jornal",
+      "_key": "f1484aa4b18ff293",
+      "score": 9
+    },
+    {
+      "title": "Executivo vai gastar mais de 520 milhões de euros em sistemas de água no Leste",
+      "url": "https://correiokianda.info/executivo-vai-gastar-mais-de-520-milhoes-de-euros-em-sistemas-de-agua-no-leste/",
+      "source": "Correio Kianda",
+      "_key": "364c169e031f87df",
+      "score": 8
+    },
+    {
+      "title": "Government points way towards self-sufficiency in petroleum products",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-aponta-caminho-para-auto-suficiencia-em-derivados-de-petroleo/",
+      "source": "ANGOP",
+      "_key": "3fbb361423b46c52",
+      "score": 7
+    },
+    {
+      "title": "Leonildo João Lourenço Manuel assume liderança da AGT e sucede a José Leiria",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35033-leonildo-joao-lourenco-manuel-assume-lideranca-da-agt-e-sucede-a-jose-leiria",
+      "source": "Angola 24 Horas",
+      "_key": "13f02380fdf406ba",
+      "score": 7
+    },
+    {
+      "title": "Leonildo Manuel é o novo PCA da AGT",
+      "url": "https://expansao.co.ao/angola/detalhe/leonildo-manuel-e-o-novo-pca-da-agt-74610.html",
+      "source": "Expansão",
+      "_key": "7ecd2352af52b556",
+      "score": 7
+    },
+    {
+      "title": "Angola paga USD 850 por tonelada de fertilizantes",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-paga-usd-850-por-tonelada-de-fertilizantes-74592.html",
+      "source": "Novo Jornal",
+      "_key": "0b52d9acffc39e33",
+      "score": 7
+    },
+    {
+      "title": "Angolan govt puts 34pct stake in standard bank up for sale",
+      "url": "https://www.angop.ao/en/noticias/economia/estado-coloca-a-venda-34-do-capital-do-standard-bank-angola/",
+      "source": "ANGOP",
+      "_key": "f9af57f641346533",
+      "score": 6
+    },
+    {
+      "title": "Privatização",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=68078",
+      "source": "ANGOP",
+      "_key": "39cc6a63c5c9b9aa",
+      "score": 6
+    },
+    {
+      "title": "Executivo diz que população ainda não está preparada para fim dos subsídios",
+      "url": "https://correiokianda.info/executivo-diz-que-populacao-ainda-nao-esta-preparada-para-fim-dos-subsidios/",
+      "source": "Correio Kianda",
+      "_key": "041a04c10d0430f2",
+      "score": 6
+    },
+    {
+      "title": "Refriango e ABO Capital unem forças para construir um grande grupo africano a partir de Angola",
+      "url": "https://correiokianda.info/refriango-e-abo-capital-unem-forcas-para-construir-um-grande-grupo-africano-a-partir-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "ad01809220b42155",
+      "score": 5
+    },
+    {
+      "title": "Grupo OMATAPALO leva aposta na produção nacional à 1.ª edição da Expo Cubango",
+      "url": "https://diariodosnegocios.com/grupo-omatapalo-leva-aposta-na-producao-nacional-a-1-a-edicao-da-expo-cubango/",
+      "source": "Diário dos Negócios",
+      "_key": "3167d45f492721a0",
+      "score": 5
+    },
+    {
+      "title": "Sonamet \"dura como aço\" para contornar retracção na...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/sonamet-dura-como-aco-para-contornar-retraccao-na-industria-petrolifera-74590.html",
+      "source": "Novo Jornal",
+      "_key": "2d679c78cdff71ae",
       "score": 5
     }
   ]
