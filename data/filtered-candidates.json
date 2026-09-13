@@ -1,245 +1,35 @@
 {
   "date": "2026-09-13",
-  "total_new": 100,
-  "total_filtered": 34,
+  "total_new": 12,
+  "total_filtered": 4,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angolan Parliament Speaker delivers keynote lecture at China University of Petroleum",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-an-ministra-aula-magna-na-universidade-de-petroleo-da-china/",
+      "title": "CFM expects to transport five million tons of cargo",
+      "url": "https://www.angop.ao/en/noticias/economia/cfm-preve-transportar-cinco-milhoes-de-toneladas-em-cargas/",
       "source": "ANGOP",
-      "_key": "7b84ec3967d9e237",
-      "score": 9
+      "_key": "e81683830be4fdfa",
+      "score": 8
     },
     {
-      "title": "Electrification of inland Benguela province to drive transformation of Lobito Corridor",
-      "url": "https://www.angop.ao/en/noticias/economia/electrificacao-do-interior-de-benguela-impulsiona-transformacao-do-corredor-do-lobito/",
+      "title": "Transporte ferroviário",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=89685",
       "source": "ANGOP",
-      "_key": "d14eca7fa01d4bd6",
-      "score": 9
+      "_key": "9b242886e014fb07",
+      "score": 7
     },
     {
-      "title": "Adão de Almeida vê em Xiong’an soluções para os desafios urbanos de Angola",
-      "url": "https://correiokianda.info/adao-de-almeida-ve-em-xiongan-solucoes-para-os-desafios-urbanos-de-angola/",
+      "title": "BRICS manifesta preocupação com escalada de tensões no Médio Oriente",
+      "url": "https://correiokianda.info/brics-manifesta-preocupacao-com-escalada-de-tensoes-no-medio-oriente/",
       "source": "Correio Kianda",
-      "_key": "07dee3fedf5067e2",
-      "score": 9
-    },
-    {
-      "title": "Destaque Adão de Almeida revive jogos de rua durante visita à ChinaUma visita ao Campus da Universidade de Petróleos da República Popular da China serviu, igualmente, para o presidente da Assembleia Nacional, Adão de Almeida, “matar as saudades” dos tempos dos grandes jogos de rua.",
-      "url": "https://www.jornaldeangola.ao/noticias/11/gente/685257/ad%C3%A3o-de-almeida-revive-jogos-de-rua-durante-visita-%C3%A0-china",
-      "source": "Jornal de Angola",
-      "_key": "3061313fdd6e196c",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 4 horas Corredor do Lobito: Mais de 1.000 visitantes passam pelo stand da LAR ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685210/corredor-do-lobito:-mais-de-1.000-visitantes-passam-pelo-stand-da-lar",
-      "source": "Jornal de Angola",
-      "_key": "5077307b007fbbed",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 4 horas AGL Lobito Terminal quer aumentar volume de carga ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685208/agl-lobito-terminal-quer-aumentar-volume-de-carga-",
-      "source": "Jornal de Angola",
-      "_key": "b35f8a65ea9c4ced",
-      "score": 9
-    },
-    {
-      "title": "Inflation rate in Angola records 8.78% variation in August",
-      "url": "https://www.angop.ao/en/noticias/economia/inflacao-regista-variacao-de-8-78-em-agosto/",
-      "source": "ANGOP",
-      "_key": "7587d3bcf1a812cb",
-      "score": 8
-    },
-    {
-      "title": "Economia Presença internacional na FIB aumenta a captação de divisas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685209/presen%C3%A7a-internacional-na-fib-aumenta-a-capta%C3%A7%C3%A3o-de-divisas",
-      "source": "Jornal de Angola",
-      "_key": "3665a8dba2dd86da",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 4 horas BODIVA regista 118 não residentes ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685215/bodiva-regista-118-n%C3%A3o-residentes",
-      "source": "Jornal de Angola",
-      "_key": "aa02da5d1ef1ab43",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 4 horas Porto de Cabinda projecta superar Kz 6 mil milhões ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685214/porto-de-cabinda-projecta-superar-kz-6-mil-milh%C3%B5es",
-      "source": "Jornal de Angola",
-      "_key": "323ef29d8ff4e1a9",
-      "score": 8
-    },
-    {
-      "title": "Comprou a moto de manhã para ajudar no sustento dos filhos: Efectivo dos Serviços Prisionais assassinado com tiro no peito em Viana durante roubo de motorizada",
-      "url": "https://namiradocrime.info/show/17513",
-      "source": "Na Mira do Crime",
-      "_key": "1730d54238ce0d65",
-      "score": 8
-    },
-    {
-      "title": "No Kilamba Kiaxi: “Da Puma” - filho do senhorio, mata inquilino à facada sem razões aparente - Família do malogrado não tem condições para realizar o funeral",
-      "url": "https://namiradocrime.info/show/17509",
-      "source": "Na Mira do Crime",
-      "_key": "39f28503e275430b",
-      "score": 8
-    },
-    {
-      "title": "Polícia no Cuanza-Sul apreende camião carregado de cantoneiras de torres de energia de alta tensão, carris de comboio, bronze e alumínio que seguia para Luanda",
-      "url": "https://namiradocrime.info/show/17507",
-      "source": "Na Mira do Crime",
-      "_key": "050e759665ea410d",
-      "score": 8
-    },
-    {
-      "title": "Suposto funcionário do Ministério das Finanças detido por alegado desvio de mais de 80 milhões de kwanzas da antiga empresa onde trabalhava",
-      "url": "https://namiradocrime.info/show/17506",
-      "source": "Na Mira do Crime",
-      "_key": "76db6f0de4c3704d",
-      "score": 8
-    },
-    {
-      "title": "PONTO & CONTRAPONTO: DEBATE SEMANAL. O VOO RASANTE DA TAAG E A TURBULÊNCIA NA AERONÁUTICA CIVIL EM ANGOLA, ATÉ QUANDO?",
-      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=74616",
-      "source": "Novo Jornal",
-      "_key": "64e6e8fb4232567d",
-      "score": 8
-    },
-    {
-      "title": "Economia Grupo Bosch aposta em tecnologia para reforçar sector petrolífero nacional ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685259/grupo-bosch-aposta-em-tecnologia-para-refor%C3%A7ar-sector-petrol%C3%ADfero-nacional",
-      "source": "Jornal de Angola",
-      "_key": "a014549a7327abd5",
-      "score": 7
-    },
-    {
-      "title": "Economia / Há 4 horas Concorrência sanciona Câmara dos Despachantes ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685212/concorr%C3%AAncia-sanciona-c%C3%A2mara-dos-despachantes",
-      "source": "Jornal de Angola",
-      "_key": "9f534b38684c77f9",
-      "score": 7
-    },
-    {
-      "title": "Pistola devia estar na PGR: Arma usada para alvejar efectivo do SIC da Sanzala estava em posse do comandante \"Trincha\" e foi apreendida a um polícia",
-      "url": "https://namiradocrime.info/show/17508",
-      "source": "Na Mira do Crime",
-      "_key": "ee9c0e39adc3800a",
-      "score": 7
-    },
-    {
-      "title": "Quilonga Grande water project in Angola to be completed in November 2026",
-      "url": "https://www.angop.ao/en/noticias/economia/quilonga-grande-fica-concluido-em-novembro-de-2026/",
-      "source": "ANGOP",
-      "_key": "d9aa86a11aa6628c",
+      "_key": "532e635dbfbb65b3",
       "score": 6
     },
     {
-      "title": "Angola ProÁgua project to raise production capacity to 400,000 cubic metres per day",
-      "url": "https://www.angop.ao/en/noticias/economia/projecto-proagua-eleva-capacidade-de-producao-para-400-mil-metros-cubicos-dia/",
-      "source": "ANGOP",
-      "_key": "3b5812db245ba07e",
-      "score": 6
-    },
-    {
-      "title": "Ministry of Transport gathers input for the 2027 General State Budget",
-      "url": "https://www.angop.ao/en/noticias/economia/ministerio-dos-transportes-recolhe-contribuicoes-para-oge-2027/",
-      "source": "ANGOP",
-      "_key": "bd34b27f6dbb293b",
-      "score": 6
-    },
-    {
-      "title": "Executivo diz que Segurança Social vai chegar a quem trabalha nas lavras, mercados e em casa",
-      "url": "https://correiokianda.info/executivo-diz-que-seguranca-social-vai-chegar-a-quem-trabalha-nas-lavras-mercados-e-em-casa/",
+      "title": "Irão confirma ataque contra um dos seus navios comerciais no Estreito de Ormuz",
+      "url": "https://correiokianda.info/irao-confirma-ataque-contra-um-dos-seus-navios-comerciais-no-estreito-de-ormuz/",
       "source": "Correio Kianda",
-      "_key": "136e8616d3a59bb1",
-      "score": 6
-    },
-    {
-      "title": "EUA concedem empréstimo de 99,6 milhões de dólares à Africell para tecnologia em Angola",
-      "url": "https://holdonangola.com/eua-concedem-emprestimo-de-996-milhoes-de-dolares-a-africell-para-tecnologia-em-angola/",
-      "source": "Hold On Angola",
-      "_key": "5905a1efb2325989",
-      "score": 6
-    },
-    {
-      "title": "Angola investiu cerca de 99 mil milhões de…",
-      "url": "https://holdonangola.com/angola-investiu-cerca-de-99-mil-milhoes-de-dolares-no-sector-petrolifero-em-nove-anos/",
-      "source": "Hold On Angola",
-      "_key": "f73cc4ff50d1ea64",
-      "score": 6
-    },
-    {
-      "title": "Projecto Quilonga Grande pode estar concluído já em Novembro deste ano O Quilonga Grande, um dos principais projectos estruturantes do Executivo para o abastecimento de água potável às províncias de Luanda e Icolo e Bengo, pode estar concluído em Novembro deste ano.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685193/projecto-quilonga-grande-pode-estar--conclu%C3%ADdo-j%C3%A1-em-novembro-deste-ano-",
-      "source": "Jornal de Angola",
-      "_key": "23c480266718af9a",
-      "score": 6
-    },
-    {
-      "title": "Política Governo investe cerca de 300 milhões de euros no sector do Ensino Superior ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685201/governo-investe-cerca-de-300-milh%C3%B5es-de-euros-no-sector-do-ensino-superior",
-      "source": "Jornal de Angola",
-      "_key": "c9ad75e7e6a94553",
-      "score": 6
-    },
-    {
-      "title": "Política Executivo forma equipa para gerir requalificação urbana das cidades ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685199/executivo-forma-equipa-para-gerir-requalifica%C3%A7%C3%A3o-urbana-das-cidades",
-      "source": "Jornal de Angola",
-      "_key": "3d1c8b25096fab60",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 4 horas Produção industrial ganha maior montra ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685216/produ%C3%A7%C3%A3o-industrial-ganha-maior-montra",
-      "source": "Jornal de Angola",
-      "_key": "9e07d26eb7462e00",
-      "score": 6
-    },
-    {
-      "title": "Mundo13/09/2026Líderes dos BRICS pedem contenção face À escalada do conflito",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/685236/l%C3%ADderes-dos-brics-pedem-conten%C3%A7%C3%A3o-face-%C3%A0-escalada-do-conflito",
-      "source": "Jornal de Angola",
-      "_key": "7ecb9ecb450b9beb",
-      "score": 6
-    },
-    {
-      "title": "Cidadã acusa funcionário da agência de viagens HNS de burla após receber mais de 4 milhões de kwanzas para tratar processos de viagem e \"desaparecer\"",
-      "url": "https://namiradocrime.info/show/17512",
-      "source": "Na Mira do Crime",
-      "_key": "834fc99eb1d22768",
-      "score": 6
-    },
-    {
-      "title": "Segurança Social",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=56659",
-      "source": "ANGOP",
-      "_key": "6c41b878da58ac3c",
-      "score": 5
-    },
-    {
-      "title": "Marinha de Angola recebe seis drones navais para integrar novas corvetas de mil milhões de euros",
-      "url": "https://holdonangola.com/marinha-de-angola-recebe-seis-drones-navais-para-integrar-novas-corvetas-de-mil-milhoes-de-euros/",
-      "source": "Hold On Angola",
-      "_key": "83ad2bf183875f44",
-      "score": 5
-    },
-    {
-      "title": "Presidente exorta novos secretários de Estado à dedicação ao trabalhoO Presidente da República, João Lourenço, exortou, ontem, em Luanda, os novos secretários de Estado a dedicarem-se ao trabalho, considerando o empenho e a dedicação factores determinantes para o sucesso das missões que passam a desempenhar.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685128/presidente-exorta-novos-secret%C3%A1rios-de-estado-%C3%A0-dedica%C3%A7%C3%A3o-ao-trabalho",
-      "source": "Jornal de Angola",
-      "_key": "f0e232e4cd7a0be9",
-      "score": 5
-    },
-    {
-      "title": "Economia / Há 4 horas Standard Bank de Angola: Valor das acções fixado entre Kz 41,2 mil e 50 mil ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685213/-standard-bank-de-angola:-valor-das-ac%C3%A7%C3%B5es-fixado-entre-kz-412-mil-e-50-mil",
-      "source": "Jornal de Angola",
-      "_key": "2012a569ad1b0965",
+      "_key": "2615d92544d15ae8",
       "score": 5
     }
   ]
