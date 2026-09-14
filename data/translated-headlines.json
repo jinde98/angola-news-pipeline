@@ -1,40 +1,352 @@
 {
-  "date": "2026-09-13",
-  "total_new": 12,
-  "total_filtered": 4,
+  "date": "2026-09-14",
+  "total_new": 121,
+  "total_filtered": 43,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "CFM expects to transport five million tons of cargo",
-      "url": "https://www.angop.ao/en/noticias/economia/cfm-preve-transportar-cinco-milhoes-de-toneladas-em-cargas/",
+      "title": "Hebei quer aproveitar vantagens industriais para reforçar negócios com Angola",
+      "url": "https://valoreconomico.co.ao/artigo/hebei-quer-aproveitar-vantagens-industriais-para-reforcar-negocios-com-angola",
+      "source": "Valor Económico",
+      "_key": "307501ef762efbeb",
+      "score": 10,
+      "title_cn": "河北省拟利用产业优势加强与安哥拉的商业合作"
+    },
+    {
+      "title": "Brent abre a semana em alta com suspensão de oleoduto saudita e ameaça ao abastecimento",
+      "url": "https://expansao.co.ao/economia/detalhe/brent-abre-a-semana-em-alta-com-suspensao-de-oleoduto-saudita-e-ameaca-ao-abastecimento-74639.html",
+      "source": "Expansão",
+      "_key": "6c2376a4ab993f3c",
+      "score": 9,
+      "title_cn": "沙特输油管道暂停运营，供应受威胁，布伦特原油本周高开"
+    },
+    {
+      "title": "Trocas comerciais disparam 127% com petróleo a elevar exportações, mas a encarecer importações",
+      "url": "https://expansao.co.ao/economia/detalhe/trocas-comerciais-disparam-127-com-petroleo-a-elevar-exportacoes-mas-a-encarecer-importacoes-74633.html",
+      "source": "Expansão",
+      "_key": "d4ebaa58f419d735",
+      "score": 9,
+      "title_cn": "石油出口激增推高贸易额127%，但进口成本也随之上升"
+    },
+    {
+      "title": "Última hora Preço do petróleo inicia semana com subida acentuada",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685290/pre%C3%A7o-do-petr%C3%B3leo-inicia-semana-com-subida-acentuada",
+      "source": "Jornal de Angola",
+      "_key": "6fea5e15d3ab92e3",
+      "score": 9,
+      "title_cn": "突发：油价本周开盘大幅上涨"
+    },
+    {
+      "title": "Petróleo: Barril dispara em direcção aos 110 USD e...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-dispara-em-direccao-aos-110-usd-e-nada-parece-poder-travar-escalada-muito-para-alem-dessa-fasquia-74629.html",
+      "source": "Novo Jornal",
+      "_key": "9231c162aea1d824",
+      "score": 9,
+      "title_cn": "油价飙升，每桶逼近110美元"
+    },
+    {
+      "title": "Parliament Speaker highlights Xiongan's inspiring model",
+      "url": "https://www.angop.ao/en/noticias/politica/pan-evidencia-modelo-inspirador-de-xiongan-para-angola/",
       "source": "ANGOP",
-      "_key": "e81683830be4fdfa",
+      "_key": "05bf1ac6b8758600",
       "score": 8,
-      "title_cn": "CFM预计运输500万吨货物"
+      "title_cn": "议长赞扬雄安新区鼓舞人心的发展模式"
     },
     {
-      "title": "Transporte ferroviário",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=89685",
-      "source": "ANGOP",
-      "_key": "9b242886e014fb07",
+      "title": "Etu Energias prepara nova fase de expansão na indústria petrolífera em Angola",
+      "url": "https://forbesafricalusofona.com/etu-energias-prepara-nova-fase-de-expansao-na-industria-petrolifera-em-angola/",
+      "source": "Forbes África",
+      "_key": "bf89def0e9507d7d",
+      "score": 8,
+      "title_cn": "Etu Energias（埃图能源）准备在安哥拉石油业开启新一轮扩张"
+    },
+    {
+      "title": "Angola pode atrair nova vaga de fusões e aquisições no petróleo e gás",
+      "url": "https://forbesafricalusofona.com/angola-pode-atrair-nova-vaga-de-fusoes-e-aquisicoes-no-petroleo-e-gas/",
+      "source": "Forbes África",
+      "_key": "0a24b061f1650417",
+      "score": 8,
+      "title_cn": "安哥拉或将吸引新一轮油气行业并购浪潮"
+    },
+    {
+      "title": "Quantun Shift e CCIGPMA unem forças para promover investimentos nos sectores do petróleo e gás em Angola",
+      "url": "https://forbesafricalusofona.com/quantun-shift-e-ccigpma-unem-forcas-para-promover-investimentos-nos-sectores-do-petroleo-e-gas-em-angola/",
+      "source": "Forbes África",
+      "_key": "22447305dcda1b80",
+      "score": 8,
+      "title_cn": "Quantun Shift与CCIGPMA联手促进安哥拉油气领域投资"
+    },
+    {
+      "title": "Banco Sol junta banca, ANPG e indústria petrolífera para discutir financiamento ao conteúdo local no Angola Oil and Gas 2026",
+      "url": "https://forbesafricalusofona.com/banco-sol-junta-banca-anpg-e-industria-petrolifera-para-discutir-financiamento-ao-conteudo-local-no-angola-oil-and-gas-2026/",
+      "source": "Forbes África",
+      "_key": "19389bc092b1e674",
+      "score": 8,
+      "title_cn": "Banco Sol（太阳银行）联合各方探讨2026年安哥拉油气展本地化融资"
+    },
+    {
+      "title": "Três operadores disputam concessão do Terminal de Águas Profundas do CaioPorForbes Staff",
+      "url": "https://forbesafricalusofona.com/tres-operadores-disputam-concessao-do-terminal-de-aguas-profundas-do-caio/",
+      "source": "Forbes África",
+      "_key": "26ce68a48afa6826",
+      "score": 8,
+      "title_cn": "三家运营商竞逐卡约深水码头特许经营权"
+    },
+    {
+      "title": "Polícia Fiscal trava saida de mais de 500 mil dólares Norte- Americanos no Luvo com um suposto cidadão nacional",
+      "url": "https://namiradocrime.info/show/17519",
+      "source": "Na Mira do Crime",
+      "_key": "76b252569e5d4ab2",
+      "score": 8,
+      "title_cn": "卢沃税务警察截获一名涉嫌携带逾50万美元出境的本国公民"
+    },
+    {
+      "title": "\"A CRIMINAL\", \"OS PTB\" e \"OS UTZ\" mandam 24/24 horas por dia no Zango-01 -Moradores saturados com elevado índice de criminalidade clamam pela intervenção da Polícia",
+      "url": "https://namiradocrime.info/show/17517",
+      "source": "Na Mira do Crime",
+      "_key": "1d29beb1aded5134",
+      "score": 8,
+      "title_cn": "Zango-01犯罪猖獗，居民呼吁警方介入"
+    },
+    {
+      "title": "“Angola tem mais obras paradas do que em construção”, revela INE",
+      "url": "https://correiokianda.info/angola-tem-mais-obras-paradas-do-que-em-construcao-revela-ine/",
+      "source": "Correio Kianda",
+      "_key": "9d4ffd8517263540",
       "score": 7,
-      "title_cn": "铁路运输"
+      "title_cn": "安哥拉国家统计局：停工项目多于在建项目"
     },
     {
-      "title": "BRICS manifesta preocupação com escalada de tensões no Médio Oriente",
-      "url": "https://correiokianda.info/brics-manifesta-preocupacao-com-escalada-de-tensoes-no-medio-oriente/",
-      "source": "Correio Kianda",
-      "_key": "532e635dbfbb65b3",
+      "title": "Instabilidade política principal obstáculo aos investimentos chineses na Guiné-Bissau",
+      "url": "https://forbesafricalusofona.com/instabilidade-politica-principal-obstaculo-aos-investimentos-chineses-na-guine-bissau/",
+      "source": "Forbes África",
+      "_key": "f56067a46c5d1a1c",
+      "score": 7,
+      "title_cn": "政治不稳定是中资在几内亚比绍投资的主要障碍"
+    },
+    {
+      "title": "No Cuanza-Sul: SIC detém três suspeitos acusados de matar um cidadão com facada no pescoço e apedrejá-lo até à morte por reagir a um assalto",
+      "url": "https://namiradocrime.info/show/17515",
+      "source": "Na Mira do Crime",
+      "_key": "edb60ae313ba858a",
+      "score": 7,
+      "title_cn": "宽扎南省：SIC逮捕三名涉嫌抢劫杀人嫌犯"
+    },
+    {
+      "title": "Processo de industrialização em Angola: desfazendo...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/processo-de-industrializacao-em-angola-desfazendo-alguns-equivocos-74625.html",
+      "source": "Novo Jornal",
+      "_key": "f48b547b3332ecec",
+      "score": 7,
+      "title_cn": "安哥拉的工业化进程：破坏……"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: GRUPO CONFIRMA AO EXPANSÃO. Carrinho admite fundir os bancos BCI, Keve e BFA.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=74644",
+      "source": "Novo Jornal",
+      "_key": "9b87c7807937c701",
+      "score": 7,
+      "title_cn": "EXPANSAO EM DIRECTO：集团确认AO EXPANSAO。Carrinho承认合并BCI、Keve和BFA银行。"
+    },
+    {
+      "title": "ARC multa Câmara dos Despachantes Oficiais em mais de 7,2...",
+      "url": "https://valoreconomico.co.ao/artigo/arc-multa-camara-dos-despachantes-oficiais-em-mais-de-7-2-milhoes-kz",
+      "source": "Valor Económico",
+      "_key": "f200a0cc66fe103d",
+      "score": 7,
+      "title_cn": "安哥拉竞争监管局对报关商会处以逾720万罚款"
+    },
+    {
+      "title": "Angola Competition Authority fines Customs Brokers Chamber",
+      "url": "https://www.angop.ao/en/noticias/economia/autoridade-da-concorrencia-multa-camara-dos-despachantes-em-mais-de-sete-milhoes-de-kwanzas/",
+      "source": "ANGOP",
+      "_key": "4d3ee4c980c31c1e",
       "score": 6,
-      "title_cn": "金砖国家对中东紧张局势升级表示担忧"
+      "title_cn": "安哥拉竞争监管局对报关商会处以罚款"
     },
     {
-      "title": "Irão confirma ataque contra um dos seus navios comerciais no Estreito de Ormuz",
-      "url": "https://correiokianda.info/irao-confirma-ataque-contra-um-dos-seus-navios-comerciais-no-estreito-de-ormuz/",
+      "title": "Estado leva à bolsa 34% do Standard Bank Angola após confisco de participação de Carlos São Vicente",
+      "url": "https://angola24horas.com/sociedade/item/35032-estado-leva-a-bolsa-34-do-standard-bank-angola-apos-confisco-de-participacao-de-carlos-sao-vicente",
+      "source": "Angola 24 Horas",
+      "_key": "0e12add4231a598d",
+      "score": 6,
+      "title_cn": "Carlos São Vicente（卡洛斯·圣维森特）股份被没收后，安哥拉政府将标准银行34%股权上市"
+    },
+    {
+      "title": "Presidente altera regras do SIC e acaba com decreto que criou Direcção de Combate à Corrupção",
+      "url": "https://correiokianda.info/presidente-altera-regras-do-sic-e-acaba-com-decreto-que-criou-direccao-de-combate-a-corrupcao/",
       "source": "Correio Kianda",
-      "_key": "2615d92544d15ae8",
+      "_key": "6ddf54ca7ad0f7f6",
+      "score": 6,
+      "title_cn": "总统修改SIC规定，废除反腐局设立法令"
+    },
+    {
+      "title": "Leonildo Manuel é o novo PCA da AGT",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_97dfb1d332cc0d",
+      "score": 6,
+      "title_cn": "Leonildo Manuel（莱奥尼尔多·曼努埃尔）出任AGT新任董事长"
+    },
+    {
+      "title": "Mário Palhares regressa ao BNA para presidir Comité de Remunerações",
+      "url": "https://expansao.co.ao/empresas/detalhe/mario-palhares-regressa-ao-bna-para-presidir-comite-de-remuneracoes-74642.html",
+      "source": "Expansão",
+      "_key": "632be4d770fa0683",
+      "score": 6,
+      "title_cn": "Mário Palhares（马里奥·帕利亚雷斯）重返安哥拉国家银行，主持薪酬委员会"
+    },
+    {
+      "title": "Novo programa com o Banco Mundial para a agricultura vale 300 milhões USD",
+      "url": "https://expansao.co.ao/economia/detalhe/novo-programa-com-o-banco-mundial-para-a-agricultura-vale-300-milhoes-usd-74634.html",
+      "source": "Expansão",
+      "_key": "7bc8f5314d51e134",
+      "score": 6,
+      "title_cn": "安哥拉与世界银行合作推出3亿美元农业新项目"
+    },
+    {
+      "title": "Angola: empresário defende que investimento no sector alimentar comece pelo conhecimento do mercado",
+      "url": "https://holdonangola.com/angola-empresario-defende-que-investimento-no-sector-alimentar-comece-pelo-conhecimento-do-mercado/",
+      "source": "Hold On Angola",
+      "_key": "438fa7ba13662b77",
+      "score": 6,
+      "title_cn": "安哥拉企业家：食品行业投资应从了解市场开始"
+    },
+    {
+      "title": "Destaque Fim-de-semana deixa 13 mortos e 28 feridos em todo o paísTreze pessoas morreram e 28 ficaram feridas durante o fim-de-semana, em consequência de diferentes ocorrências registadas em várias regiões do país, segundo o balanço preliminar do Serviço de Protecção Civil e Bombeiros (SPCB).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685293/fim-de-semana-deixa-13-mortos-e-28-feridos-em-todo-o-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "6efb5706d9f3ce5e",
+      "score": 6,
+      "title_cn": "全国周末事故致13人死亡，28人受伤"
+    },
+    {
+      "title": "Economia Dangote lança maior IPO de África e pretende atrair 10 milhões de accionistas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685342/dangote-lan%C3%A7a-maior-ipo-de-%C3%A1frica-e-pretende-atrair-10-milh%C3%B5es-de-accionistas",
+      "source": "Jornal de Angola",
+      "_key": "9c165837cff5ecf5",
+      "score": 6,
+      "title_cn": "Dangote（丹格特）集团启动非洲最大IPO，拟吸引1000万股东"
+    },
+    {
+      "title": "Quem controla os negócios em Angola? Os angolanos? (Conclusão)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/685279/quem-controla-os-neg%C3%B3cios-em-angola%3F-os-angolanos%3F-%28conclus%C3%A3o%29",
+      "source": "Jornal de Angola",
+      "_key": "23e31f98d8a8512d",
+      "score": 6,
+      "title_cn": "谁在控制安哥拉的商业？是安哥拉人吗？（结论）"
+    },
+    {
+      "title": "Política Premium 14/09/2026Comandante-geral garante acções para assegurar as Eleições Gerais",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685270/comandante-geral-garante-ac%C3%A7%C3%B5es-para-assegurar-as-elei%C3%A7%C3%B5es-gerais",
+      "source": "Jornal de Angola",
+      "_key": "65a61b032eb35ef6",
+      "score": 6,
+      "title_cn": "总司令承诺采取行动确保大选顺利进行"
+    },
+    {
+      "title": "SIC e BAC no Panguila capturam suspeito de roubo de motorizada ocorrido no Zango com recurso a arma de guerra",
+      "url": "https://namiradocrime.info/show/17518",
+      "source": "Na Mira do Crime",
+      "_key": "4f38f90da5daf2ce",
+      "score": 6,
+      "title_cn": "SIC和BAC在Panguila逮捕一名涉嫌在Zango持军用武器抢劫摩托车的嫌犯"
+    },
+    {
+      "title": "Capitão da Força Aérea Nacional atropelado mortalmente no Talatona - Motorista colocou-se em fuga e às autoridades estão sem pista do suspeito",
+      "url": "https://namiradocrime.info/show/17516",
+      "source": "Na Mira do Crime",
+      "_key": "70d42aef41a770c7",
+      "score": 6,
+      "title_cn": "空军上尉在Talatona被撞身亡，肇事司机逃逸，警方暂无线索"
+    },
+    {
+      "title": "Angola pede empréstimo de 520 milhões de euros para...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-pede-emprestimo-de-520-milhoes-de-euros-para-abastecimento-de-agua-na-lunda-norte-lunda-sul-e-moxico-74626.html",
+      "source": "Novo Jornal",
+      "_key": "6c907e7b79e3c562",
+      "score": 6,
+      "title_cn": "安哥拉申请5.2亿欧元贷款"
+    },
+    {
+      "title": "Novas taxas de cobrança nos postos de portagem entram em vigor a 18 deste mês",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/novas-taxas-de-cobranca-nos-postos-de-portagem-entram-em-vigor-a-18-deste-mes-74628.html",
+      "source": "Novo Jornal",
+      "_key": "18c52e3d29252477",
+      "score": 6,
+      "title_cn": "新收费站费率将于本月18日生效"
+    },
+    {
+      "title": "Angola contrai empréstimo japonês de 39,1 mil milhões de ienes...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-contrai-emprestimo-japones-de-39-1-mil-milhoes-de-ienes-para-reforcar-rede-electrica-no-sul",
+      "source": "Valor Económico",
+      "_key": "a15a5f5cb4cbc31d",
+      "score": 6,
+      "title_cn": "安哥拉获得日本391亿日元贷款"
+    },
+    {
+      "title": "Expo Cubango generates more than AOA 978 million in business",
+      "url": "https://www.angop.ao/en/noticias/economia/expo-cubango-gera-mais-de-978-milhoes-de-kwanzas-em-negocios/",
+      "source": "ANGOP",
+      "_key": "626a71821a9d74ad",
       "score": 5,
-      "title_cn": "伊朗证实其一艘商船在霍尔木兹海峡遇袭"
+      "title_cn": "Cubango博览会促成逾9.78亿宽扎商业交易"
+    },
+    {
+      "title": "Estradas de Luanda fazem nove mortos e 21 feridos em três dias",
+      "url": "https://correiokianda.info/estradas-de-luanda-fazem-nove-mortos-e-21-feridos-em-tres-dias/",
+      "source": "Correio Kianda",
+      "_key": "516a3243ed1ee2bb",
+      "score": 5,
+      "title_cn": "罗安达道路三日内致9人死亡21人受伤"
+    },
+    {
+      "title": "Cuanza-Sul limita passagem de veículos pesados no Morro do Chingo em dias de chuva",
+      "url": "https://correiokianda.info/cuanza-sul-limita-passagem-de-veiculos-pesados-no-morro-do-chingo-em-dias-de-chuva/",
+      "source": "Correio Kianda",
+      "_key": "5d261b2ed2f7e752",
+      "score": 5,
+      "title_cn": "宽扎南省限制雨天重型车辆通过Morro do Chingo"
+    },
+    {
+      "title": "Vagas nas escolas públicas à venda por valores até 600 mil kwanzas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_95f302cf1e0285",
+      "score": 5,
+      "title_cn": "公立学校入学名额被高价出售，最高达60万宽扎"
+    },
+    {
+      "title": "ContrastesHá duas Angolas. Uma aparece nos relatórios, nas estatísticas, nos discursos oficiais e nas apresentações governamentais. A outra está à porta dos supermercados, dos restaurantes e dos hotéis, de mão estendida, ou mergulhada dentro de um contentor de lixo à procura da próxima refeição. Na primeira, a economia cresce, o desemprego diminui, abrem-se empresas, anunciam-se investimentos e multiplicam-se inaugurações. Os números garantem-nos que estamos melhores. Na segunda, crianças de cin",
+      "url": "https://expansao.co.ao/multimedia/detalhe/contrastes-74632.html",
+      "source": "Expansão",
+      "_key": "c42a484a2668a77e",
+      "score": 5,
+      "title_cn": "两种安哥拉：报告中的繁荣与现实中的困境"
+    },
+    {
+      "title": "Sociedade Premium 14/09/2026Ligação Viana/Zango é concluída em Março",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685274/liga%C3%A7%C3%A3o-vianazango--%C3%A9-conclu%C3%ADda-em-mar%C3%A7o",
+      "source": "Jornal de Angola",
+      "_key": "6297690c988fc2e7",
+      "score": 5,
+      "title_cn": "Viana/Zango连接线将于明年三月完工"
+    },
+    {
+      "title": "Director do Instituto Nacional de Desminagem começa a ser julgado hoje no supremo por peculato",
+      "url": "https://namiradocrime.info/show/17514",
+      "source": "Na Mira do Crime",
+      "_key": "5875e481f08a9521",
+      "score": 5,
+      "title_cn": "国家排雷局局长因贪污罪今日在最高法院受审"
+    },
+    {
+      "title": "SINPROF anuncia greve geral a partir da próxima semana – MED diz que não há motivos para a paralisação dos professores porque estão cumpridos 11 pontos do caderno reivindicativo",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sinprof-anuncia-greve-geral-a-partir-da-proxima-semana-med-diz-que-nao-ha-motivos-para-a-paralisacao-dos-professores-porque-estao-cumpridos-11-pontos-do-caderno-reivindicativo-74631.html",
+      "source": "Novo Jornal",
+      "_key": "128ce5ddbc5d4df3",
+      "score": 5,
+      "title_cn": "SINPROF宣布下周起全面罢工，教育部称教师诉求已满足11项"
     }
   ]
 }
