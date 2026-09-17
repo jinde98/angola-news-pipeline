@@ -1,308 +1,56 @@
 {
   "date": "2026-09-17",
-  "total_new": 100,
-  "total_filtered": 43,
+  "total_new": 24,
+  "total_filtered": 7,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Executivo procura respostas para dificuldades cambiais das empresas nacionais",
-      "url": "https://correiokianda.info/executivo-procura-respostas-para-dificuldades-cambiais-das-empresas-nacionais/",
-      "source": "Correio Kianda",
-      "_key": "3880905af76b4501",
+      "title": "Escassez de gás no Médio Oriente coloca Angola no radar...",
+      "url": "https://valoreconomico.co.ao/artigo/escassez-de-gas-no-medio-oriente-coloca-angola-no-radar-do-mercado-mundial",
+      "source": "Valor Económico",
+      "_key": "0f4d2ae3461cca15",
       "score": 9
     },
     {
-      "title": "EMIS alerta para possível instabilidade na rede Multicaixa...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/emis-alerta-para-possivel-instabilidade-na-rede-multicaixa-enttre-hoje-e-sabado-74718.html",
-      "source": "Novo Jornal",
-      "_key": "db369aca733cfc8e",
-      "score": 9
-    },
-    {
-      "title": "BNA reduz taxa de juro para 14,75% e reservas obrigatórias...",
-      "url": "https://valoreconomico.co.ao/artigo/bna-reduz-taxa-de-juro-para-14-75-e-reservas-obrigatorias-para-16-5",
+      "title": "Angola integrada no novo índice global de obrigações da JPMorgan",
+      "url": "https://valoreconomico.co.ao/artigo/angola-integrada-no-novo-indice-global-de-obrigacoes-da-jpmorgan",
       "source": "Valor Económico",
-      "_key": "e859c221ba6c917c",
-      "score": 9
-    },
-    {
-      "title": "Modernização das Alfândegas vai custar 90,5 mil milhões de kwanzas",
-      "url": "https://correiokianda.info/modernizacao-das-alfandegas-vai-custar-905-mil-milhoes-de-kwanzas/",
-      "source": "Correio Kianda",
-      "_key": "f17e6bdc0bb2ef4d",
+      "_key": "07abcadff6a80f24",
       "score": 8
     },
     {
-      "title": "Grupo Banco Mundial considera Angola um parceiro prioritárioO Grupo Banco Mundial vai continuar a apoiar projectos estratégicos em Angola, com foco nos sectores da Energia, Agricultura, Comércio e Minerais, por considerar o país um parceiro prioritário, assegurou, ontem, em Luanda, o director executivo da Agência Multilateral de Garantia de Investimentos (MIGA).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685523/grupo-banco-mundial-considera-angola-um-parceiro-priorit%C3%A1rio",
-      "source": "Jornal de Angola",
-      "_key": "668ce5ed436eb64d",
-      "score": 8
-    },
-    {
-      "title": "Economia Indústria de construção opera a 40% da capacidade ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685536/ind%C3%BAstria--de-constru%C3%A7%C3%A3o-opera-a-40%25-da-capacidade",
-      "source": "Jornal de Angola",
-      "_key": "50370145cd90ce3d",
-      "score": 8
-    },
-    {
-      "title": "Efectivos do DIIP acusados de extorquir bandidos que simulavam serviço de táxi - Foram cobradas supostas comissões para cometerem assaltos \"a vontade\" em Luanda",
-      "url": "https://namiradocrime.info/show/17551",
-      "source": "Na Mira do Crime",
-      "_key": "c25226afc8ae32c0",
-      "score": 8
-    },
-    {
-      "title": "Operação \"Prolongado Seguro\" lança forças policiais em todo território nacional para inibir acções que possam desestabilizar a ordem pública durante o feriado prolongado",
-      "url": "https://namiradocrime.info/show/17546",
-      "source": "Na Mira do Crime",
-      "_key": "f2b0830904b37eaa",
-      "score": 8
-    },
-    {
-      "title": "Governo proíbe plásticos de uso único a partir do final...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-proibe-plasticos-de-uso-unico-a-partir-do-final-do-mes",
-      "source": "Valor Económico",
-      "_key": "a3ceca9b58c28b8c",
-      "score": 8
-    },
-    {
-      "title": "Porto do Lobito fecha 2025 no \"vermelho\" com perdas de...",
-      "url": "https://valoreconomico.co.ao/artigo/porto-do-lobito-fecha-2025-no-vermelho-com-perdas-de-3-5-mil-milhoes-de-kwanzas",
-      "source": "Valor Económico",
-      "_key": "d0b1dff0f3cb6043",
-      "score": 8
-    },
-    {
-      "title": "Angola showcases investment opportunities at Arab-African conference",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-apresenta-oportunidades-de-investimento-em-conferencia-arabe-africana/",
-      "source": "ANGOP",
-      "_key": "64a483a7c66ab2f0",
-      "score": 7
-    },
-    {
-      "title": "Public Works Minister calls for faster rehabilitation of Cuito Cuanavale/Mavinga road section",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-quer-celeridade-na-reabilitacao-do-troco-cuito-cuanavale-mavinga/",
-      "source": "ANGOP",
-      "_key": "b806f60cd3f3ae49",
-      "score": 7
-    },
-    {
-      "title": "Mário Palhares regressa ao BNA para presidir Comité de Remunerações",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_56e7de438ce4f6",
-      "score": 7
-    },
-    {
-      "title": "Sector privado angolano pode receber mais de mil milhões de dólares do BAD",
-      "url": "https://forbesafricalusofona.com/sector-privado-angolano-pode-receber-mais-de-mil-milhoes-de-dolares-do-bad/",
-      "source": "Forbes África",
-      "_key": "8971151d7fe498f6",
-      "score": 7
-    },
-    {
-      "title": "Economia AGT e ANIESA reforçam parceria para trocar dados ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685535/agt-e-aniesa-refor%C3%A7am--parceria-para-trocar-dados",
-      "source": "Jornal de Angola",
-      "_key": "cd6ac4951632c6a1",
-      "score": 7
-    },
-    {
-      "title": "Feriado prolongado seguro no Zango: SIC no Calumbo \"varre\" ruas do Zango e captura bandidos tidos como altamente perigosos - Fala Angola foi outra vez recolhido",
-      "url": "https://namiradocrime.info/show/17549",
-      "source": "Na Mira do Crime",
-      "_key": "d0762afc303ab7e2",
-      "score": 7
-    },
-    {
-      "title": "Detido efectivo do DIIP que disparou contra um cidadão durante o convívio no município de Calumbo: vítima encontra-se em estado crítico",
-      "url": "https://namiradocrime.info/show/17543",
-      "source": "Na Mira do Crime",
-      "_key": "764cee85c6995d47",
-      "score": 7
-    },
-    {
-      "title": "Polícia Nacional tem no terreno a \"Operação Prolongado...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-nacional-tem-no-terreno-a-operacao-prolongado-seguro--74706.html",
-      "source": "Novo Jornal",
-      "_key": "9e9086c2b27423c4",
-      "score": 7
-    },
-    {
-      "title": "Multar excesso de peso sem retirar carga não trava danos...",
-      "url": "https://valoreconomico.co.ao/artigo/multar-excesso-de-peso-sem-retirar-carga-nao-trava-danos-nas-estradas-alertam-transportadores",
-      "source": "Valor Económico",
-      "_key": "7821ffa9ae7e25e3",
-      "score": 7
-    },
-    {
-      "title": "Turkish Airlines abandona voos para Luanda e contraria expetativas do...",
-      "url": "https://valoreconomico.co.ao/artigo/turkish-airlines-abandona-voos-para-luanda-e-contraria-expetativas-do-ministerio-dos-transportes",
-      "source": "Valor Económico",
-      "_key": "d17d0ab123df6ed4",
-      "score": 7
-    },
-    {
-      "title": "Caso AGT: Tribunal da Relação agrava penas para até 17 anos e 10 meses e confisca bens",
-      "url": "https://angola24horas.com/component/k2/item/35048-caso-agt-tribunal-da-relacao-agrava-penas-para-ate-17-anos-e-10-meses-e-confisca-bens",
+      "title": "PR autoriza contratação de 250 autocarros para reforçar transporte colectivo urbano",
+      "url": "https://angola24horas.com/politica/item/35050-pr-autoriza-contratacao-de-250-autocarros-para-reforcar-transporte-colectivo-urbano",
       "source": "Angola 24 Horas",
-      "_key": "3fa8ea3856ee77ba",
+      "_key": "8d9f4c033d15b725",
       "score": 6
     },
     {
-      "title": "Presidente da República autoriza contratação simplificada para compra de 250 autocarros urbanos",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-contratacao-simplificada-para-compra-de-250-autocarros-urbanos/",
-      "source": "Correio Kianda",
-      "_key": "e7475fc39dd94a4b",
+      "title": "Governação de João Lourenço: o que dizem os…",
+      "url": "https://holdonangola.com/governacao-de-joao-lourenco-o-que-dizem-os-principais-indicadores-economicos-e-sociais-de-angola-dario-de-castro/",
+      "source": "Hold On Angola",
+      "_key": "7eab734d9ddaa96f",
       "score": 6
     },
     {
-      "title": "“Angola precisa transformar visibilidade internacional em oportunidades”, defende especialista",
-      "url": "https://correiokianda.info/angola-precisa-transformar-visibilidade-internacional-em-oportunidades-defende-especialista/",
-      "source": "Correio Kianda",
-      "_key": "31160f7bab75f696",
-      "score": 6
-    },
-    {
-      "title": "Executivo promete medidas após alegada importação de milho geneticamente modificado",
-      "url": "https://correiokianda.info/executivo-promete-medidas-apos-alegada-importacao-de-milho-geneticamente-modificado/",
-      "source": "Correio Kianda",
-      "_key": "0e8c3540e855f5fe",
-      "score": 6
-    },
-    {
-      "title": "Angola regista 15 novos casos de varíolas dos macacos nas últimas 24 horas",
-      "url": "https://correiokianda.info/angola-regista-15-novos-casos-de-variolas-dos-macacos-nas-ultimas-24-horas/",
-      "source": "Correio Kianda",
-      "_key": "fde34d87b36ca37c",
-      "score": 6
-    },
-    {
-      "title": "Angola e Brasil pretende ampliar cooperação e estimular investimentos produtivos no sector agrícola",
-      "url": "https://forbesafricalusofona.com/angola-e-brasil-pretende-ampliar-cooperacao-e-estimular-investimentos-produtivos-no-sector-agricola/",
-      "source": "Forbes África",
-      "_key": "102c85b7243b2cf1",
-      "score": 6
-    },
-    {
-      "title": "Economia País conta com 222 cais de desembarque ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685537/pa%C3%ADs-conta-com-222--cais-de-desembarque",
-      "source": "Jornal de Angola",
-      "_key": "2b7f203dfff364ae",
-      "score": 6
-    },
-    {
-      "title": "Política País pretende aproveitar potencial industrial turco ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685524/pa%C3%ADs-pretende-aproveitar-potencial-industrial-turco",
-      "source": "Jornal de Angola",
-      "_key": "ef63bbfbe2ceac67",
-      "score": 6
-    },
-    {
-      "title": "Tribunal adia leitura de sentença de três efectivos da Polícia acusados de \"torturar até à morte\" um cidadão no interior da Esquadra do Catinton",
-      "url": "https://namiradocrime.info/show/17547",
-      "source": "Na Mira do Crime",
-      "_key": "87a769e5bda6a13d",
-      "score": 6
-    },
-    {
-      "title": "Despesa para melhorar abastecimento de água dispara e atinge máximo",
-      "url": "https://valoreconomico.co.ao/artigo/despesa-para-melhorar-abastecimento-de-agua-dispara-e-atinge-maximo",
+      "title": "Multicaixa Express é o preferido dos angolanos e movimenta mais...",
+      "url": "https://valoreconomico.co.ao/artigo/multicaixa-express-e-o-preferido-dos-angolanos-e-movimenta-mais-de-18-8-mil-milhoes-de-kwanzas",
       "source": "Valor Económico",
-      "_key": "ae739eb25220845e",
+      "_key": "5b61d31ac4c9ba7a",
       "score": 6
     },
     {
-      "title": "PR aprova mais 4,9 milhões de dólares na fiscalização de...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-aprova-mais-4-9-milhoes-de-dolares-na-fiscalizacao-de-oficinas-ferroviarias",
-      "source": "Valor Económico",
-      "_key": "1d12162545726695",
-      "score": 6
-    },
-    {
-      "title": "Três das quatro empresas públicas das pescas fecham 2025 no...",
-      "url": "https://valoreconomico.co.ao/artigo/tres-das-quatro-empresas-publicas-das-pescas-fecham-2025-no-vermelho",
-      "source": "Valor Económico",
-      "_key": "d7bbe1200db2c1da",
-      "score": 6
-    },
-    {
-      "title": "BDA transfers non-performing loans to Recredit",
-      "url": "https://www.angop.ao/en/noticias/economia/bda-transfere-credito-malparado-para-recredit/",
-      "source": "ANGOP",
-      "_key": "ed90400189a1b022",
-      "score": 5
-    },
-    {
-      "title": "Fisheries Minister calls for urgent formalisation of informal landing sites in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/ministra-advoga-urgente-formalizacao-de-cais-irregulares-em-angola/",
-      "source": "ANGOP",
-      "_key": "9f091e9c1bf97d30",
-      "score": 5
-    },
-    {
-      "title": "BODIVA closes session up 5.78%",
-      "url": "https://www.angop.ao/en/noticias/economia/bodiva-encerra-sessao-com-valorizacao-de-5-78/",
-      "source": "ANGOP",
-      "_key": "40ed126323f97788",
-      "score": 5
-    },
-    {
-      "title": "BODIVA movimenta mais de 914 milhões de kwanzas e BFA lidera sessão",
-      "url": "https://correiokianda.info/bodiva-movimenta-mais-de-914-milhoes-de-kwanzas-e-bfa-lidera-sessao/",
+      "title": "Vacinação contra Mpox avança em Luanda com prioridade para contactos de infectados",
+      "url": "https://correiokianda.info/vacinacao-contra-mpox-avanca-em-luanda-com-prioridade-para-contactos-de-infectados/",
       "source": "Correio Kianda",
-      "_key": "21d681a2add25a27",
+      "_key": "e22374738b807f13",
       "score": 5
     },
     {
-      "title": "Política Empresa angolana assina acordo para desenvolver soluções de robótica e inteligência artificial ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685550/empresa-angolana-assina-acordo-para-desenvolver-solu%C3%A7%C3%B5es-de-rob%C3%B3tica-e-intelig%C3%AAncia-artificial",
-      "source": "Jornal de Angola",
-      "_key": "ed0d921214f2fb3e",
-      "score": 5
-    },
-    {
-      "title": "Trabalhadores do grupo Newaco denunciam “injustiça” nos subsídios e alegados maus-tratos no supermercados Fresmart e SAKIDILA",
-      "url": "https://namiradocrime.info/show/17550",
-      "source": "Na Mira do Crime",
-      "_key": "07debf187281532c",
-      "score": 5
-    },
-    {
-      "title": "Superintendente Victor assume o Comando Municipal da Polícia no Kilamba",
-      "url": "https://namiradocrime.info/show/17548",
-      "source": "Na Mira do Crime",
-      "_key": "9a47f52f7f030599",
-      "score": 5
-    },
-    {
-      "title": "PR cria comissão para avaliar estado de conservação...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-cria-comissao-para-avaliar-estado-de-conservacao-estrutural-do-edificio-baia-nos-coqueiros-74715.html",
+      "title": "Benguela: Fábrica de químicos chega ao mercado a solicitar...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/benguela-fabrica-de-quimicos-chega-ao-mercado-a-solicitar-ja-agravamento-das-taxas-de-importacao---gaa-mostra-calombolo-quimica-com-mensagem-para-a-industria-e-comercio-74742.html",
       "source": "Novo Jornal",
-      "_key": "c8119cd64df223bf",
-      "score": 5
-    },
-    {
-      "title": "FÓRUM MARGINAL: DIA DO FUNDADOR DA NAÇÃO. Vida e Obra de Agostinho Neto. Ponto de Situação dos 9.000 Bilhetes que a TAAG assumiu dstarem disponíveis até Dezembro.",
-      "url": "https://marginal.co.ao/programas/forum-marginal?ep=74722",
-      "source": "Novo Jornal",
-      "_key": "9a7708bd691c6707",
-      "score": 5
-    },
-    {
-      "title": "SDBD acumula prejuízos e fica dependente de dinheiro do Estado...",
-      "url": "https://valoreconomico.co.ao/artigo/sdbd-acumula-prejuizos-e-fica-dependente-de-dinheiro-do-estado-para-sobreviver",
-      "source": "Valor Económico",
-      "_key": "a10db22020124bec",
-      "score": 5
-    },
-    {
-      "title": "Venda de óleo de palma resiste à falta de infraestrutura...",
-      "url": "https://valoreconomico.co.ao/artigo/venda-de-oleo-de-palma-resiste-a-falta-de-infraestrutura-de-armazenamento",
-      "source": "Valor Económico",
-      "_key": "402377cc8b880c0a",
+      "_key": "84047524fef2d0ab",
       "score": 5
     }
   ]
