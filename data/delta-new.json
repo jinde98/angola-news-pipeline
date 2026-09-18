@@ -1,440 +1,272 @@
 {
   "date": "2026-09-18",
-  "total_extracted": 940,
-  "total_new": 72,
-  "total_existing": 868,
+  "total_extracted": 917,
+  "total_new": 44,
+  "total_existing": 873,
   "articles": [
     {
-      "title": "Social Communication Secretary of State praises CEFOJOR’s track record",
-      "url": "https://www.angop.ao/en/noticias/sociedade/secretario-de-estado-enaltece-percurso-do-cefojor/",
-      "source": "ANGOP",
-      "_key": "641e7c5d326d8654"
+      "title": "Angola: A Operação de Influência da BlackCore e a Ameaça às Eleições de 2027",
+      "url": "https://angola24horas.com/politica/item/35052-angola-a-operacao-de-influencia-da-blackcore-e-a-ameaca-as-eleicoes-de-2027",
+      "source": "Angola 24 Horas",
+      "_key": "c46ead31990e94ed"
     },
     {
-      "title": "Caustic soda factory begins production in Baía Farta",
-      "url": "https://www.angop.ao/en/noticias/economia/fabrica-de-soda-caustica-inicia-producao-na-baia-farta/",
-      "source": "ANGOP",
-      "_key": "d0f0663c0f92db62"
+      "title": "Portagens em Angola sobem esta sexta-feira com forte aumento para veículos pesados",
+      "url": "https://angola24horas.com/sociedade/item/35051-portagens-em-angola-sobem-esta-sexta-feira-com-forte-aumento-para-veiculos-pesados",
+      "source": "Angola 24 Horas",
+      "_key": "78c51f33d750fe52"
     },
     {
-      "title": "Angola and Oman give new momentum to bilateral cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-oma-dao-nova-dinamica-a-cooperacao-bilateral/",
-      "source": "ANGOP",
-      "_key": "d44424d02e103846"
-    },
-    {
-      "title": "Angola and Nigeria to publish book on 50 years of relations",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-nigeria-publicam-livro-sobre-50-anos-de-relacoes/",
-      "source": "ANGOP",
-      "_key": "f3c2c1824387278b"
-    },
-    {
-      "title": "Minister of State highlights Cuanza-Sul Province economic potential",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-de-estado-realca-potencial-economico-do-cuanza-sul/",
-      "source": "ANGOP",
-      "_key": "3b093c1e224dca3c"
-    },
-    {
-      "title": "Sultan of Oman arrives in Angola for state visit",
-      "url": "https://www.angop.ao/en/noticias/politica/sultao-de-oma-chega-a-angola-para-visita-de-estado/",
-      "source": "ANGOP",
-      "_key": "bc6ecd56de3489f6"
-    },
-    {
-      "title": "Angola reiterates importance of United Nations reform",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-reitera-pertinencia-da-reforma-das-nacoes-unidas/",
-      "source": "ANGOP",
-      "_key": "1fe498a2dd1fa564"
-    },
-    {
-      "title": "United Nations",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=5087",
-      "source": "ANGOP",
-      "_key": "5433cd1dc8f4879f"
-    },
-    {
-      "title": "Benguela provincial governor hails Baía Farta chemical products factory",
-      "url": "https://www.angop.ao/en/noticias/economia/governador-enaltece-fabrica-de-produtos-quimicos-da-baia-farta/",
-      "source": "ANGOP",
-      "_key": "7501bb6d35635435"
-    },
-    {
-      "title": "New toll charges come into force today in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/novas-taxas-de-portagem-entram-em-vigor-hoje-em-angola/",
-      "source": "ANGOP",
-      "_key": "ce52f0d63e36d46b"
-    },
-    {
-      "title": "Egyptian and Turkish business leaders interested in investing in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/empresarios-egipcios-e-turcos-interessados-em-investir-em-angola/",
-      "source": "ANGOP",
-      "_key": "461b27423cfab2e8"
-    },
-    {
-      "title": "BAI public offering raises more than AOA 50 million",
-      "url": "https://www.angop.ao/en/noticias/economia/oferta-publica-do-bai-arrecada-mais-de-kz-50-milhoes/",
-      "source": "ANGOP",
-      "_key": "8e2fcb31786974c4"
-    },
-    {
-      "title": "BODIVA handles transactions exceeding AOA 914 million",
-      "url": "https://www.angop.ao/en/noticias/economia/bodiva-movimenta-mais-de-914-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "2e55877e7d534c79"
-    },
-    {
-      "title": "Role of journalists in preventing violence against minors highlighted",
-      "url": "https://www.angop.ao/en/noticias/sociedade/secretaria-de-estado-realca-papel-dos-jornalistas-na-prevencao-da-violencia-contra-menores/",
-      "source": "ANGOP",
-      "_key": "26535fb9558316b8"
-    },
-    {
-      "title": "Minister of Culture clarifies name and function of Palace of Arts",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/ministro-da-cultura-esclarece-denominacao-e-funcao-do-palacio-das-artes/",
-      "source": "ANGOP",
-      "_key": "be301421fbd9dee3"
-    },
-    {
-      "title": "Angola leva à ONU experiência de cinco décadas de diplomacia e promoção da paz",
-      "url": "https://correiokianda.info/angola-leva-a-onu-experiencia-de-cinco-decadas-de-diplomacia-e-promocao-da-paz/",
+      "title": "João Lourenço abre portas ao investimento omanita em sectores estratégicos",
+      "url": "https://correiokianda.info/joao-lourenco-abre-portas-ao-investimento-omanita-em-sectores-estrategicos/",
       "source": "Correio Kianda",
-      "_key": "2d262394a6bb4308"
+      "_key": "0c4f3f70edc0656f"
     },
     {
-      "title": "CEAST pede mais diálogo na FNLA e lembra peso político do partido",
-      "url": "https://correiokianda.info/ceast-pede-mais-dialogo-na-fnla-e-lembra-peso-politico-do-partido/",
+      "title": "Zandre Campos adquire participação na Refriango através da ABO Capital",
+      "url": "https://correiokianda.info/zandre-campos-adquire-participacao-na-refriango-atraves-da-abo-capital/",
       "source": "Correio Kianda",
-      "_key": "1bf949456cfbaf21"
+      "_key": "55f2324261c2a6ec"
     },
     {
-      "title": "Partido Liberal contesta cores do recém-legalizado PUP no Tribunal Constitucional",
-      "url": "https://correiokianda.info/partido-liberal-contesta-cores-do-recem-legalizado-pup-no-tribunal-constitucional/",
+      "title": "Angola mede forças com Eswatini na estreia da Taça COSAFA Sub-20",
+      "url": "https://correiokianda.info/angola-mede-forcas-com-eswatini-na-estreia-da-taca-cosafa-sub-20/",
       "source": "Correio Kianda",
-      "_key": "cbe759cb5e3322b6"
+      "_key": "c2027a94e4a4685c"
     },
     {
-      "title": "Angola e Omã preparam novos acordos durante visita do Sultão a Luanda",
-      "url": "https://correiokianda.info/angola-e-oma-preparam-novos-acordos-durante-visita-do-sultao-a-luanda/",
+      "title": "Cristiano Ronaldo lidera lista de Jorge Jesus para os próximos compromissos de Portugal",
+      "url": "https://correiokianda.info/cristiano-ronaldo-lidera-lista-de-jorge-jesus-para-os-proximos-compromissos-de-portugal/",
       "source": "Correio Kianda",
-      "_key": "61fe4fa2a872572a"
+      "_key": "ed6707899f02d103"
     },
     {
-      "title": "Seis municípios de Cabinda serão abrangidos por novas obras rodoviárias",
-      "url": "https://correiokianda.info/seis-municipios-de-cabinda-serao-abrangidos-por-novas-obras-rodoviarias/",
+      "title": "        África2 horas atrás  Colisão entre viatura de passageiros e camião mata 24 em Moçambique Pelo menos 24 pessoas morreram na sequência de um acidente de viação ocorrido na noite de quinta-feira, 18, na Estrada Nacional 1 (EN1), no distrito de...   ",
+      "url": "https://correiokianda.info/acidente-entre-viatura-de-passageiros-e-camiao-mata-24-em-mocambique/",
       "source": "Correio Kianda",
-      "_key": "3ae9a7e396ef13b7"
+      "_key": "9bc5c1b08dd62be4"
     },
     {
-      "title": "Angola poderá desenvolver até 10 mil robôs nos próximos cinco anos",
-      "url": "https://correiokianda.info/angola-podera-desenvolver-ate-10-mil-robos-nos-proximos-cinco-anos/",
+      "title": "        África3 horas atrás  União Africana reforça voz do continente nas decisões globais A União Africana (UA) reforçou a estratégia de representação dos interesses do continente nos principais fóruns internacionais, com a nomeação do diplomata marroquino Fathallah Sijilmassi como...   ",
+      "url": "https://correiokianda.info/uniao-africana-reforca-voz-do-continente-nas-decisoes-globais/",
       "source": "Correio Kianda",
-      "_key": "fa9a6be5c90136c4"
-    },
-    {
-      "title": "Nova tabela de portagens entra em vigor com aumentos para todas as categorias",
-      "url": "https://correiokianda.info/nova-tabela-de-portagens-entra-em-vigor-com-aumentos-para-todas-as-categorias/",
-      "source": "Correio Kianda",
-      "_key": "b73ca94382ba99c9"
-    },
-    {
-      "title": "Novas regras permitem à ANIESA fechar estabelecimentos por infracções fiscais",
-      "url": "https://correiokianda.info/novas-regras-permitem-a-aniesa-fechar-estabelecimentos-por-infraccoes-fiscais/",
-      "source": "Correio Kianda",
-      "_key": "2ca5967400837f92"
+      "_key": "aba343404f85dd80"
     },
     {
       "title": "Governo e SINPROF retomam negociações antes da greve dos professores",
-      "url": "https://correiokianda.info/governo-e-sinprof-retomam-negociacoes-antes-da-greve-dos-professores/",
-      "source": "Correio Kianda",
-      "_key": "d6465e8da254169a"
-    },
-    {
-      "title": "Enfermeiros de Luanda ameaçam paralisar serviços em Outubro",
-      "url": "https://correiokianda.info/enfermeiros-de-luanda-ameacam-paralisar-servicos-em-outubro/",
-      "source": "Correio Kianda",
-      "_key": "d9b0ac6dcc5d2f09"
-    },
-    {
-      "title": "Mulher suspeita de agredir empregada após descobrir alegado caso com marido",
-      "url": "https://correiokianda.info/mulher-suspeita-de-agredir-empregada-apos-descobrir-alegado-caso-com-marido/",
-      "source": "Correio Kianda",
-      "_key": "7d582f18268be79c"
-    },
-    {
-      "title": "Tribunal da Relação fixa novas penas para principais arguidos do caso AGT",
-      "url": "https://correiokianda.info/tribunal-da-relacao-fixa-novas-penas-para-principais-arguidos-do-caso-agt/",
-      "source": "Correio Kianda",
-      "_key": "14cedabd80496bdd"
-    },
-    {
-      "title": "Oficiais de Justiça anunciam paralisação nacional a partir de 24 de Setembro",
-      "url": "https://correiokianda.info/oficiais-de-justica-anunciam-paralisacao-nacional-a-partir-de-24-de-setembro/",
-      "source": "Correio Kianda",
-      "_key": "639877bf721784d9"
-    },
-    {
-      "title": "Ex-director de prisão síria condenado a 60 anos nos EUA por tortura ",
-      "url": "https://correiokianda.info/ex-director-de-prisao-siria-condenado-a-60-anos-nos-eua-por-tortura/",
-      "source": "Correio Kianda",
-      "_key": "2fd0cbc0ef82ecf2"
-    },
-    {
-      "title": "Egipto prepara recepção a Angola na corrida ao CAN 2027",
-      "url": "https://correiokianda.info/egipto-prepara-recepcao-a-angola-na-corrida-ao-can-2027/",
-      "source": "Correio Kianda",
-      "_key": "48e7ed426ffb1b1a"
-    },
-    {
-      "title": "Angola perde com Portugal na estreia do Torneio Internacional GOLDENCAT 2026",
-      "url": "https://correiokianda.info/angola-perde-com-portugal-na-estreia-do-torneio-internacional-goldencat-2026/",
-      "source": "Correio Kianda",
-      "_key": "d5496e761fe93a01"
-    },
-    {
-      "title": "Angola candidata-se a acolher última janela das eliminatórias para o Mundial de 2027",
-      "url": "https://correiokianda.info/angola-candidata-se-a-acolher-ultima-janela-das-eliminatorias-para-o-mundial-de-2027/",
-      "source": "Correio Kianda",
-      "_key": "332af14a46761003"
-    },
-    {
-      "title": "FAF adia para sábado anúncio dos convocados de Aliou Cissé",
-      "url": "https://correiokianda.info/faf-adia-para-sabado-anuncio-dos-convocados-de-aliou-cisse/",
-      "source": "Correio Kianda",
-      "_key": "86e42ab536f522d5"
-    },
-    {
-      "title": "Petro vence São Salvador e chega aos 10 pontos no Girabola",
-      "url": "https://correiokianda.info/petro-vence-sao-salvador-e-chega-aos-10-pontos-no-girabola/",
-      "source": "Correio Kianda",
-      "_key": "fe8e26a741c4ff7d"
-    },
-    {
-      "title": "        África3 horas atrás  Mondlane pede posição mais firme da União Europeia e defende corte de relações comerciais com Moçambique O líder da ANAMOLA, Venâncio Mondlane, pediu à União Europeia uma posição mais firme perante a situação política e social em Moçambique e defendeu que o...   ",
-      "url": "https://correiokianda.info/mondlane-pede-posicao-mais-firme-da-uniao-europeia-e-defende-corte-de-relacoes-comerciais-com-mocambique/",
-      "source": "Correio Kianda",
-      "_key": "cc9269effad6aa1d"
-    },
-    {
-      "title": "        África5 horas atrás  Primeiro-ministro de transição confirma liderança de novo partido na Guiné-Bissau O primeiro-ministro de transição da Guiné-Bissau, Ilídio Vieira Té, confirmou que lidera o Partido Popular Guineense (PPG), uma nova formação política criada no país. A confirmação...   ",
-      "url": "https://correiokianda.info/primeiro-ministro-de-transicao-confirma-lideranca-de-novo-partido-na-guine-bissau/",
-      "source": "Correio Kianda",
-      "_key": "48828f1fb1b8d741"
-    },
-    {
-      "title": "OMATAPALO publica Relatório de Sustentabilidade 2025 e reforça compromisso com metas ESG e desenvolvimento sustentável",
-      "url": "https://diariodosnegocios.com/omatapalo-publica-relatorio-de-sustentabilidade-2025-e-reforca-compromisso-com-metas-esg-e-desenvolvimento-sustentavel/",
+      "url": "https://diariodosnegocios.com/governo-e-sinprof-retomam-negociacoes-antes-da-greve-dos-professores/",
       "source": "Diário dos Negócios",
-      "_key": "a6496648969c5bbd"
+      "_key": "4a3263d58fb8b202"
     },
     {
-      "title": "Estatísticas felizes",
+      "title": "COMUNICADO: Expansão desta semana só no digital",
+      "url": "https://expansao.co.ao/angola/detalhe/comunicado-expansao-desta-semana-so-no-digital-74754.html",
+      "source": "Expansão",
+      "_key": "67ff20f9dd7e0eaf"
+    },
+    {
+      "title": "OGE 2027 (parte 3)",
       "url": "",
       "source": "Expansão",
-      "_key": "t_352c10f6251029"
+      "_key": "t_1f5817cb777a9f"
     },
     {
-      "title": "Quando o cidadão espera e o bidão passa à frente",
-      "url": "",
+      "title": "Refinaria Dangote duplica de valor com maior IPO de África",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/refinaria-dangote-duplica-de-valor-com-maior-ipo-de-africa-74729.html",
       "source": "Expansão",
-      "_key": "t_8855890d32d6c7"
+      "_key": "b4d78da90d38e48e"
     },
     {
-      "title": "A IA na saúde - O verdadeiro ponto de partida está nos dados",
-      "url": "",
+      "title": "CHANCELA DO CINVESTEC Heitor CarvalhoOGE 2027 (parte 3)",
+      "url": "https://expansao.co.ao/opiniao/detalhe/oge-2027-parte-3-74737.html",
       "source": "Expansão",
-      "_key": "t_e3b0533a72ffab"
+      "_key": "10558912446302f1"
     },
     {
-      "title": "Novas regras do resseguro para deixar mais dinheiro no País",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_0e53dbb1f17d9d"
-    },
-    {
-      "title": "Conselho Fiscal insiste na revisão do modelo de negócio da ENBI",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_a1d51211664c39"
-    },
-    {
-      "title": "Crédito às empresas cai 280 milhões USD no I semestre",
-      "url": "https://expansao.co.ao/economia/detalhe/credito-as-empresas-cai-280-milhoes-usd-no-i-semestre-74725.html",
-      "source": "Expansão",
-      "_key": "924e0e1988e6fcad"
-    },
-    {
-      "title": "BNA corta juros para mínimos de 2016 e antecipa crescimento de 6,15%",
-      "url": "https://expansao.co.ao/economia/detalhe/bna-corta-juros-para-minimos-de-2016-e-antecipa-crescimento-de-615-74732.html",
-      "source": "Expansão",
-      "_key": "2b94470148bcc652"
-    },
-    {
-      "title": "Recredit compra malparado do BDA por 22 mil milhões Kz",
-      "url": "https://expansao.co.ao/economia/detalhe/recredit-compra-malparado-do-bda-por-22-mil-milhoes-kz-74734.html",
-      "source": "Expansão",
-      "_key": "01aecc65aaeb0ca6"
-    },
-    {
-      "title": "EDITORIALJoão ArmandoEstatísticas felizesA credibilidade estatística não se decreta. Constrói-se. Há ainda um pequeno pormenor: investidores também lêem estatísticas. Bancos multilaterais, agências de rating e empresas internacionais igualmente. Todos gostam de números bons. Mas gostam muito mais de números em que possam confiar.",
-      "url": "https://expansao.co.ao/opiniao/detalhe/estatisticas-felizes-74735.html",
-      "source": "Expansão",
-      "_key": "d09ffc2f57a4a011"
-    },
-    {
-      "title": "CONVIDADOFrancisco Nelito Mário Quando o cidadão espera e o bidão passa à frente",
-      "url": "https://expansao.co.ao/opiniao/detalhe/quando-o-cidadao-espera-e-o-bidao-passa-a-frente-74665.html",
-      "source": "Expansão",
-      "_key": "b10a30fc3030a156"
-    },
-    {
-      "title": "CONVIDADOWillian de OliveiraA IA na saúde - O verdadeiro ponto de partida está nos dados",
-      "url": "https://expansao.co.ao/opiniao/detalhe/a-ia-na-saude---o-verdadeiro-ponto-de-partida-esta-nos-dados-74699.html",
-      "source": "Expansão",
-      "_key": "b3640138135afc92"
-    },
-    {
-      "title": "Banco Nacional de Angola aguarda comunicação formal sobre negócio entre BPI e Grupo Carrinho",
-      "url": "https://forbesafricalusofona.com/banco-nacional-de-angola-aguarda-comunicacao-formal-sobre-negocio-entre-bpi-e-grupo-carrinho/",
+      "title": "Banco Mundial garante continuidade e expansão do apoio a Angola",
+      "url": "https://forbesafricalusofona.com/banco-mundial-garante-continuidade-e-expansao-do-apoio-a-angola/",
       "source": "Forbes África",
-      "_key": "bd44e89dc90dc456"
+      "_key": "b2290ad0dc71a014"
     },
     {
-      "title": "Cursos de língua portuguesa suspendidos em mais de uma dezena de universidades na China",
-      "url": "https://forbesafricalusofona.com/cursos-de-lingua-portuguesa-suspendidos-em-mais-de-uma-dezena-de-universidades-na-china/",
-      "source": "Forbes África",
-      "_key": "66fa9d256ea0f2f3"
-    },
-    {
-      "title": "Escola internacional britânica de Cabo Verde abre com 52 alunos dos 3 aos 11 anos",
-      "url": "https://forbesafricalusofona.com/escola-internacional-britanica-de-cabo-verde-abre-com-52-alunos-dos-3-aos-11-anos/",
-      "source": "Forbes África",
-      "_key": "0e55489c72f07386"
-    },
-    {
-      "title": "Candidatura de José Maria Neves entregue ao Tribunal Constitucional de Cabo Verde",
-      "url": "https://forbesafricalusofona.com/candidatura-de-jose-maria-neves-entregue-ao-tribunal-constitucional/",
-      "source": "Forbes África",
-      "_key": "a1e8b22271a0f47a"
-    },
-    {
-      "title": "Associação Angola Viva na Diáspora promove mesa-redonda sobre Justiça Eleitoral em Angola",
-      "url": "https://holdonangola.com/associacao-angola-viva-na-diaspora-promove-mesa-redonda-sobre-justica-eleitoral-em-angola/",
+      "title": "Webs Quash",
+      "url": "https://www.websquash.com/",
       "source": "Hold On Angola",
-      "_key": "0b0abefc8d3590e5"
+      "_key": "796d395c9999b062"
     },
     {
-      "title": "Adriano Sapiñala anuncia lançamento do livro “O Que Angola Precisa” em Outubro",
-      "url": "https://holdonangola.com/adriano-sapinala-anuncia-lancamento-do-livro-o-que-angola-precisa-em-outubro/",
+      "title": "FreeWebSubmission.com",
+      "url": "https://www.freewebsubmission.com",
       "source": "Hold On Angola",
-      "_key": "51f797dc8a865159"
+      "_key": "7aa0e5ef409fdeb9"
     },
     {
-      "title": "Ambientalista alerta para impactos da exploração de areia…",
-      "url": "https://holdonangola.com/ambientalista-alerta-para-impactos-da-exploracao-de-areia-e-pedra-na-huila/",
-      "source": "Hold On Angola",
-      "_key": "c05855ff64105213"
+      "title": "Destaque Angola e Omã reforçam cooperação nos sectores económico e energéticoAs relações político-diplomáticas entre Angola e Omã foram reforçadas, hoje, em Luanda, com a assinatura de novos instrumentos de cooperação, com destaque para um acordo relacionado com a aquisição de participações nas operações diamantíferas de Catoca e Luele.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685635/angola-e-om%C3%A3-refor%C3%A7am-coopera%C3%A7%C3%A3o-nos-sectores-econ%C3%B3mico-e-energ%C3%A9tico",
+      "source": "Jornal de Angola",
+      "_key": "04481e5bbd0f2d7a"
     },
     {
-      "title": "Angola estreia-se no maior torneio…",
-      "url": "https://holdonangola.com/angola-estreia-se-no-maior-torneio-mundial-de-futebol-para-advogados-na-espanha/",
-      "source": "Hold On Angola",
-      "_key": "459aca1cd5f504df"
+      "title": "Nova taxa de portagens entra em vigor hojeA cobrança das taxas de portagem nas vias internas e fronteiriças da rede nacional rodoviária entrou em vigor, esta sexta-feira.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685626/nova-taxa-de-portagens-entra-em-vigor-hoje",
+      "source": "Jornal de Angola",
+      "_key": "b7e38a4913d20512"
     },
     {
-      "title": "A carregar vídeos…",
-      "url": "",
-      "source": "Hold On Angola",
-      "_key": "t_e9cd38e38d30f0"
+      "title": "Destaque Angola aberta a investimento privado de Omã em todos os sectoresAngola está aberta à entrada de investimento privado proveniente de Omã em todos os sectores da economia nacional, com destaque para a Agropecuária, Recursos minerais, Petróleo e gás, Pescas, Energia eléctrica, Indústria farmacêutica e Defesa.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685606/angola-aberta-a-investimento-privado-de-om%C3%A3-em-todos-os-sectores",
+      "source": "Jornal de Angola",
+      "_key": "9a59458b46db02a2"
     },
     {
-      "title": "Sexta-feira, 18 de Setembro, 2026",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_fb75853a8e1dfa"
+      "title": "Destaque Troca de presentes marca encerramento da visita do Sultão de OmãO Chefe de Estado, João Lourenço, e o Sultão de Omã, Haitham bin Tariq Al Said, trocaram presentes, esta sexta-feira, pouco antes do encerramento da visita de Estado do monarca omanita ao Palácio Presidencial, em Luanda.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685637/troca-de-presentes-marca-encerramento-da-visita-do-sult%C3%A3o-de-om%C3%A3",
+      "source": "Jornal de Angola",
+      "_key": "115291d438f7c240"
     },
     {
-      "title": "Menor de 08 anos de idade foi passar férias em casa da avó no Rangel e acabou violada sexualmente pelo próprio tio",
-      "url": "https://namiradocrime.info/show/17556",
-      "source": "Na Mira do Crime",
-      "_key": "5fd93f283bfad4b3"
+      "title": "Destaque Hospital Pedalé reforça capacidade de resposta em cuidados de alta complexidadeO Complexo Hospitalar General do Exército Pedro Maria Tonha “Pedalé”, em Luanda, está a reforçar a capacidade de resposta em cuidados de saúde de alta complexidade, aliando tecnologia médica avançada à formação especializada de profissionais.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685636/hospital-pedal%C3%A9-refor%C3%A7a-capacidade-de-resposta-em-cuidados-de-alta-complexidade",
+      "source": "Jornal de Angola",
+      "_key": "d51e62ada6a44599"
     },
     {
-      "title": "Em Cacuaco: Bandido \"Matuidi\" membro do grupo “Galáxia” atropelado durante fuga às autoridades",
-      "url": "https://namiradocrime.info/show/17555",
-      "source": "Na Mira do Crime",
-      "_key": "93dc7a78e0c0d8c2"
+      "title": "Sociedade Mulheres reúnem-se em conferência para promover autoestima e liderança feminina ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685622/mulheres-re%C3%BAnem-se-em-confer%C3%AAncia-para-promover-autoestima-e-lideran%C3%A7a-feminina",
+      "source": "Jornal de Angola",
+      "_key": "8a6dc96e53896a5f"
     },
     {
-      "title": "No Cuanza-Sul: Polícia recupera arma de fogo que estavam em posse dos marginais durante patrulhamento",
-      "url": "https://namiradocrime.info/show/17554",
-      "source": "Na Mira do Crime",
-      "_key": "1a021fd52ecc3dd3"
+      "title": "Desporto Maria Liberal e Madalena Miezi disputam o acesso às meias-finais ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/685618/maria-liberal-e-madalena-miezi-disputam-o-acesso-%C3%A0s-meias-finais-",
+      "source": "Jornal de Angola",
+      "_key": "804a4407edecc5dd"
     },
     {
-      "title": "Governo vai comprar 250 novos autocarros urbanos &ndash...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-vai-comprar-250-novos-autocarros-urbanos-ajuste-directo-assinado-pelo-pr-vale-402-milhoes-de-euros-74751.html",
+      "title": "Regiões Menongue eterniza memória do Poeta Maior ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/685615/menongue-eterniza--mem%C3%B3ria-do-poeta-maior",
+      "source": "Jornal de Angola",
+      "_key": "23625cdd56e71349"
+    },
+    {
+      "title": "Sociedade Jovens e adultos no Sumbe defendem maior divulgação do legado de Agostinho Neto ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685614/jovens-e-adultos-no-sumbe-defendem-maior-divulga%C3%A7%C3%A3o--do-legado-de-agostinho-neto",
+      "source": "Jornal de Angola",
+      "_key": "b696ce54147d0f70"
+    },
+    {
+      "title": "Economia Luanda conta com três hotéis de cinco estrelas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685603/luanda-conta-com-tr%C3%AAs-hot%C3%A9is-de-cinco-estrelas",
+      "source": "Jornal de Angola",
+      "_key": "59acd3ccff721b4c"
+    },
+    {
+      "title": "Economia Fábrica vai produzir 50 mil toneladas de soda cáustica e hipoclorito de sódio por ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685583/f%C3%A1brica-vai-produzir--50-mil-toneladas--de-soda-c%C3%A1ustica--e-hipoclorito--de-s%C3%B3dio-por-ano",
+      "source": "Jornal de Angola",
+      "_key": "bd22fb1d6a97596c"
+    },
+    {
+      "title": "Política MPLA pede manifestações de coesão aos militantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685577/mpla-pede-manifesta%C3%A7%C3%B5es-de-coes%C3%A3o-aos-militantes",
+      "source": "Jornal de Angola",
+      "_key": "5b03798a1b4e5a5f"
+    },
+    {
+      "title": "Política País vai à reunião das Nações Unidas debater questões de paz e segurança ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685571/pa%C3%ADs-vai-%C3%A0-reuni%C3%A3o-das-na%C3%A7%C3%B5es-unidas-debater-quest%C3%B5es-de-paz-e-seguran%C3%A7a",
+      "source": "Jornal de Angola",
+      "_key": "a7c7b190761b7fa2"
+    },
+    {
+      "title": "Sociedade INIS reforça capacidade para responder às emergências de saúde pública ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685567/inis-refor%C3%A7a-capacidade-para-responder-%C3%A0s-emerg%C3%AAncias-de-sa%C3%BAde-p%C3%BAblica",
+      "source": "Jornal de Angola",
+      "_key": "cbe0b1b139948194"
+    },
+    {
+      "title": "Política Angola e Brasil trocam experiência no domínio da Agricultura Sustentável ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685561/angola-e-brasil-trocam-experi%C3%AAncia-no-dom%C3%ADnio-da-agricultura-sustent%C3%A1vel",
+      "source": "Jornal de Angola",
+      "_key": "4a17a5a386f9d77b"
+    },
+    {
+      "title": "Política “O discurso de Neto é imutável, conquista todas as gerações” ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685559/%E2%80%9Co-discurso-de-neto--%C3%A9-imut%C3%A1vel-conquista-todas-as-gera%C3%A7%C3%B5es%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "81bf84cbeadbe11c"
+    },
+    {
+      "title": "Política Agostinho Neto: uma vida entre a medicina, a política e a poesia ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685558/agostinho-neto:-uma-vida-entre--a-medicina-a-pol%C3%ADtica-e-a-poesia",
+      "source": "Jornal de Angola",
+      "_key": "00e64db2c0ebb8c2"
+    },
+    {
+      "title": "11:08 / 18 set. 2026 Sultão de Omã recebido por João Lourenço na Cidade Alta ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685596/sult%C3%A3o-de-om%C3%A3-recebido-por-jo%C3%A3o-louren%C3%A7o-na-cidade-alta",
+      "source": "Jornal de Angola",
+      "_key": "ba00193a33aabd9a"
+    },
+    {
+      "title": "Angola deve ser o país de unidade idealizado pelo Fundador da NaçãoAngola deve transformar-se no país idealizado pelo Fundador da Nação, António Agostinho Neto: uma pátria unida, em paz, produtiva, instruída e socialmente justa. A afirmação foi feita quinta-feira, na cidade do Sumbe, província do Cuanza-Sul, pelo ministro de Estado e chefe da Casa Civil do Presidente da República, Dionísio da Fonseca.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685572/angola-deve-ser-o-pa%C3%ADs-de-unidade--idealizado-pelo-fundador-da-na%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "c58c3c79ddbeb17d"
+    },
+    {
+      "title": "João Lourenço e Haitham Al Said O Presidente da República, João Lourenço, e o Sultão de Omã, Haitham bin Tarik Al Said, mantêm, hoje, um encontro privado no Palácio Presidencial da Cidade Alta, em Luanda, durante o qual vão abordar as relações de cooperação entre os dois países.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685570/jo%C3%A3o-louren%C3%A7o-e-haitham-al-said-",
+      "source": "Jornal de Angola",
+      "_key": "fd1553a50f502590"
+    },
+    {
+      "title": "Grande viragem de Malanje: o roteiro de Angola para a soberania do subsolo",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/685576/grande-viragem-de-malanje:--o-roteiro-de-angola--para-a-soberania-do-subsolo",
+      "source": "Jornal de Angola",
+      "_key": "ed680753f63d7dbd"
+    },
+    {
+      "title": "Um discurso que continua a interpelar Angola",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/685575/um-discurso-que-continua--a-interpelar-angola",
+      "source": "Jornal de Angola",
+      "_key": "e8714e1473ca5748"
+    },
+    {
+      "title": "O poeta da dignidade e da fé inquebrantável",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/685574/o-poeta-da-dignidade-e-da-f%C3%A9-inquebrant%C3%A1vel",
+      "source": "Jornal de Angola",
+      "_key": "a7eebcb230676d39"
+    },
+    {
+      "title": "Presidente da FNLA altera data do congresso apesar...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/presidente-da-fnla-altera-data-do-congresso-apesar-de-contestacao-interna-74756.html",
       "source": "Novo Jornal",
-      "_key": "f066501606eb3aa6"
+      "_key": "a5d38221eed973fd"
     },
     {
-      "title": "Benguela: Crise de água \"cobra\" promessa eleitoral...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/benguela-crise-de-agua-cobra-promessa-eleitoral-do-presidente-74717.html",
+      "title": "MAGAZINE MARGINAL: Agenda Cultural e Lazer. JORGE ANTÓNIO E HENRIQUES SANTOS - 5º EDIÇÃO DO DOC LUANDA (FESTIVAL INTERNACIONAL DE CINEMA DOCUMENTAL).DEODETE COLSOUL E HIZOOR FILIPE - PEÇA TEATRAL \"IRMAS EM ESPÍRITO\", DIA 19 SET, NA LAASP. ",
+      "url": "https://marginal.co.ao/programas/magazine-marginal?ep=74757",
       "source": "Novo Jornal",
-      "_key": "b84c3ddef7e01d50"
+      "_key": "47dd6b7c94adda61"
     },
     {
-      "title": "A partir de hoje, automobilistas passam a pagar mais...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/a-partir-de-hoje-automobilistas-passam-a-pagar-mais-quando-atravessarem-as-portagens-74748.html",
+      "title": "DESPORTO MARGINAL: ANÁLISE DESPORTIVA. Com: Victor Covilhã - Treinador de Futebol. Rui Ortet - Treinador de Futebol. Fortunato Ramos - Comentarista Desportivo. ",
+      "url": "https://marginal.co.ao/programas/desporto-marginal?ep=74755",
       "source": "Novo Jornal",
-      "_key": "ab922413d1057cbc"
+      "_key": "9469f000ae30e44b"
     },
     {
-      "title": "Wiliete continua sem conhecer a derrota no Girabola...",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/wiliete-continua-sem-conhecer-a-derrota-no-girabola-e-lidera-isolado-enquanto-militares-tropecam-no-franca-ndalu-74750.html",
-      "source": "Novo Jornal",
-      "_key": "bcd384b112283475"
-    },
-    {
-      "title": "Efeitos da E1 em Angola: Team AlUla de LeBron James...",
-      "url": "https://www.novojornal.co.ao/desporto/detalhe/efeitos-da-e1-em-angola-team-alula-de-lebron-james-patrocina-edicao-de-livro-infantil-cori-a-tartaruga-em-perigo-74749.html",
-      "source": "Novo Jornal",
-      "_key": "439a13d77a095ee4"
-    },
-    {
-      "title": "Cartoon da semana: Os Padrinhos",
-      "url": "https://www.novojornal.co.ao/opiniao/cartoon/detalhe/cartoon-da-semana-os-padrinhos-74716.html",
-      "source": "Novo Jornal",
-      "_key": "d326874b0d05893b"
-    },
-    {
-      "title": "Turismo em Angola : Oportunidades e desafios",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/turismo-em-angola-oportunidades-e-desafios-74747.html",
-      "source": "Novo Jornal",
-      "_key": "b3758e50bb758f63"
-    },
-    {
-      "title": "Ministério da Agricultura medeia venda de milho, mas produtores continuam...",
-      "url": "https://valoreconomico.co.ao/artigo/ministerio-da-agricultura-medeia-venda-de-milho-mas-produtores-continuam-a-espera-de-compradores",
+      "title": "Ministra das Pescas exige maior aproveitamento económico do potencial marítimo",
+      "url": "https://valoreconomico.co.ao/artigo/ministra-das-pescas-exige-maior-aproveitamento-economico-do-potencial-maritimo",
       "source": "Valor Económico",
-      "_key": "e66c20d13ddbb166"
+      "_key": "4d95bfe5e2379253"
     },
     {
-      "title": "Novas portagens entram hoje em vigor em todo o país...",
-      "url": "https://valoreconomico.co.ao/artigo/novas-portagens-entram-hoje-em-vigor-em-todo-o-pais-sob-contestacao-dos-transportadores",
+      "title": "IPO da refinaria Dangote transforma pequenos investidores em “donos” da...",
+      "url": "https://valoreconomico.co.ao/artigo/ipo-da-refinaria-dangote-transforma-pequenos-investidores-em-donos-da-industria",
       "source": "Valor Económico",
-      "_key": "c1070774deac4e0f"
-    },
-    {
-      "title": "Moedas de Uganda, Gana e Zâmbia enfrentam pressão cambial",
-      "url": "https://valoreconomico.co.ao/artigo/moedas-de-uganda-gana-e-zambia-enfrentam-pressao-cambial",
-      "source": "Valor Económico",
-      "_key": "a1d5c10082271fde"
-    },
-    {
-      "title": "Petróleo recua 2% com alívio sobre oferta saudita",
-      "url": "https://valoreconomico.co.ao/artigo/petroleo-recua-2-com-alivio-sobre-oferta-saudita",
-      "source": "Valor Económico",
-      "_key": "918cd9d2f9786cfb"
+      "_key": "10657f8f3dcb631b"
     }
   ]
 }

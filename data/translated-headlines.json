@@ -1,288 +1,96 @@
 {
   "date": "2026-09-18",
-  "total_new": 72,
-  "total_filtered": 35,
+  "total_new": 44,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "BNA corta juros para mínimos de 2016 e antecipa crescimento de 6,15%",
-      "url": "https://expansao.co.ao/economia/detalhe/bna-corta-juros-para-minimos-de-2016-e-antecipa-crescimento-de-615-74732.html",
-      "source": "Expansão",
-      "_key": "2b94470148bcc652",
-      "score": 10,
-      "title_cn": "安哥拉国家银行降息至2016年以来最低，预计增长6.15%。"
-    },
-    {
-      "title": "Petróleo recua 2% com alívio sobre oferta saudita",
-      "url": "https://valoreconomico.co.ao/artigo/petroleo-recua-2-com-alivio-sobre-oferta-saudita",
-      "source": "Valor Económico",
-      "_key": "918cd9d2f9786cfb",
-      "score": 10,
-      "title_cn": "油价下跌2%，沙特供应担忧缓解。"
-    },
-    {
-      "title": "Novas regras permitem à ANIESA fechar estabelecimentos por infracções fiscais",
-      "url": "https://correiokianda.info/novas-regras-permitem-a-aniesa-fechar-estabelecimentos-por-infraccoes-fiscais/",
-      "source": "Correio Kianda",
-      "_key": "2ca5967400837f92",
-      "score": 9,
-      "title_cn": "新规：安哥拉国家经济活动检查局（ANIESA）可因税务违规关闭企业。"
-    },
-    {
-      "title": "Crédito às empresas cai 280 milhões USD no I semestre",
-      "url": "https://expansao.co.ao/economia/detalhe/credito-as-empresas-cai-280-milhoes-usd-no-i-semestre-74725.html",
-      "source": "Expansão",
-      "_key": "924e0e1988e6fcad",
-      "score": 9,
-      "title_cn": "上半年企业信贷下降2.8亿美元。"
-    },
-    {
-      "title": "Novas portagens entram hoje em vigor em todo o país...",
-      "url": "https://valoreconomico.co.ao/artigo/novas-portagens-entram-hoje-em-vigor-em-todo-o-pais-sob-contestacao-dos-transportadores",
-      "source": "Valor Económico",
-      "_key": "c1070774deac4e0f",
-      "score": 9,
-      "title_cn": "全国新收费公路今日生效。"
-    },
-    {
-      "title": "New toll charges come into force today in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/novas-taxas-de-portagem-entram-em-vigor-hoje-em-angola/",
-      "source": "ANGOP",
-      "_key": "ce52f0d63e36d46b",
+      "title": "Portagens em Angola sobem esta sexta-feira com forte aumento para veículos pesados",
+      "url": "https://angola24horas.com/sociedade/item/35051-portagens-em-angola-sobem-esta-sexta-feira-com-forte-aumento-para-veiculos-pesados",
+      "source": "Angola 24 Horas",
+      "_key": "78c51f33d750fe52",
       "score": 8,
-      "title_cn": "安哥拉新收费公路今日生效。"
+      "title_cn": "安哥拉高速公路收费周五上涨，重型车辆涨幅显著"
     },
     {
-      "title": "Nova tabela de portagens entra em vigor com aumentos para todas as categorias",
-      "url": "https://correiokianda.info/nova-tabela-de-portagens-entra-em-vigor-com-aumentos-para-todas-as-categorias/",
-      "source": "Correio Kianda",
-      "_key": "b73ca94382ba99c9",
+      "title": "Nova taxa de portagens entra em vigor hojeA cobrança das taxas de portagem nas vias internas e fronteiriças da rede nacional rodoviária entrou em vigor, esta sexta-feira.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685626/nova-taxa-de-portagens-entra-em-vigor-hoje",
+      "source": "Jornal de Angola",
+      "_key": "b7e38a4913d20512",
       "score": 8,
-      "title_cn": "新收费公路标准生效，各类收费均上涨。"
+      "title_cn": "安哥拉新高速公路收费标准今日生效"
     },
     {
-      "title": "A partir de hoje, automobilistas passam a pagar mais...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/a-partir-de-hoje-automobilistas-passam-a-pagar-mais-quando-atravessarem-as-portagens-74748.html",
-      "source": "Novo Jornal",
-      "_key": "ab922413d1057cbc",
-      "score": 8,
-      "title_cn": "从今天起，驾车者将支付更多费用。"
-    },
-    {
-      "title": "Seis municípios de Cabinda serão abrangidos por novas obras rodoviárias",
-      "url": "https://correiokianda.info/seis-municipios-de-cabinda-serao-abrangidos-por-novas-obras-rodoviarias/",
-      "source": "Correio Kianda",
-      "_key": "3ae9a7e396ef13b7",
-      "score": 7,
-      "title_cn": "卡宾达省六个市将进行新道路工程。"
-    },
-    {
-      "title": "Oficiais de Justiça anunciam paralisação nacional a partir de 24 de Setembro",
-      "url": "https://correiokianda.info/oficiais-de-justica-anunciam-paralisacao-nacional-a-partir-de-24-de-setembro/",
-      "source": "Correio Kianda",
-      "_key": "639877bf721784d9",
-      "score": 7,
-      "title_cn": "司法官员宣布从9月24日起全国罢工。"
-    },
-    {
-      "title": "Novas regras do resseguro para deixar mais dinheiro no País",
+      "title": "OGE 2027 (parte 3)",
       "url": "",
       "source": "Expansão",
-      "_key": "t_0e53dbb1f17d9d",
+      "_key": "t_1f5817cb777a9f",
       "score": 7,
-      "title_cn": "新再保险规则旨在为国家保留更多资金。"
+      "title_cn": "2027年安哥拉国家总预算（第三部分）"
     },
     {
-      "title": "Cursos de língua portuguesa suspendidos em mais de uma dezena de universidades na China",
-      "url": "https://forbesafricalusofona.com/cursos-de-lingua-portuguesa-suspendidos-em-mais-de-uma-dezena-de-universidades-na-china/",
-      "source": "Forbes África",
-      "_key": "66fa9d256ea0f2f3",
-      "score": 7,
-      "title_cn": "中国十多所大学暂停葡萄牙语课程。"
-    },
-    {
-      "title": "Governo vai comprar 250 novos autocarros urbanos &ndash...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-vai-comprar-250-novos-autocarros-urbanos-ajuste-directo-assinado-pelo-pr-vale-402-milhoes-de-euros-74751.html",
-      "source": "Novo Jornal",
-      "_key": "f066501606eb3aa6",
-      "score": 7,
-      "title_cn": "政府将购买250辆新城市公交车。"
-    },
-    {
-      "title": "Caustic soda factory begins production in Baía Farta",
-      "url": "https://www.angop.ao/en/noticias/economia/fabrica-de-soda-caustica-inicia-producao-na-baia-farta/",
-      "source": "ANGOP",
-      "_key": "d0f0663c0f92db62",
-      "score": 6,
-      "title_cn": "拜亚法尔塔（Baía Farta）烧碱厂投产。"
-    },
-    {
-      "title": "Minister of State highlights Cuanza-Sul Province economic potential",
-      "url": "https://www.angop.ao/en/noticias/politica/ministro-de-estado-realca-potencial-economico-do-cuanza-sul/",
-      "source": "ANGOP",
-      "_key": "3b093c1e224dca3c",
-      "score": 6,
-      "title_cn": "国务部长强调南宽扎省经济潜力。"
-    },
-    {
-      "title": "Benguela provincial governor hails Baía Farta chemical products factory",
-      "url": "https://www.angop.ao/en/noticias/economia/governador-enaltece-fabrica-de-produtos-quimicos-da-baia-farta/",
-      "source": "ANGOP",
-      "_key": "7501bb6d35635435",
-      "score": 6,
-      "title_cn": "本戈拉省省长赞扬拜亚法尔塔（Baía Farta）化工厂。"
-    },
-    {
-      "title": "Egyptian and Turkish business leaders interested in investing in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/empresarios-egipcios-e-turcos-interessados-em-investir-em-angola/",
-      "source": "ANGOP",
-      "_key": "461b27423cfab2e8",
-      "score": 6,
-      "title_cn": "埃及和土耳其商界领袖有意投资安哥拉。"
-    },
-    {
-      "title": "Governo e SINPROF retomam negociações antes da greve dos professores",
-      "url": "https://correiokianda.info/governo-e-sinprof-retomam-negociacoes-antes-da-greve-dos-professores/",
-      "source": "Correio Kianda",
-      "_key": "d6465e8da254169a",
-      "score": 6,
-      "title_cn": "教师罢工前，政府与全国教师工会（SINPROF）恢复谈判。"
-    },
-    {
-      "title": "Enfermeiros de Luanda ameaçam paralisar serviços em Outubro",
-      "url": "https://correiokianda.info/enfermeiros-de-luanda-ameacam-paralisar-servicos-em-outubro/",
-      "source": "Correio Kianda",
-      "_key": "d9b0ac6dcc5d2f09",
-      "score": 6,
-      "title_cn": "罗安达护士威胁在十月停止服务。"
-    },
-    {
-      "title": "Recredit compra malparado do BDA por 22 mil milhões Kz",
-      "url": "https://expansao.co.ao/economia/detalhe/recredit-compra-malparado-do-bda-por-22-mil-milhoes-kz-74734.html",
+      "title": "CHANCELA DO CINVESTEC Heitor CarvalhoOGE 2027 (parte 3)",
+      "url": "https://expansao.co.ao/opiniao/detalhe/oge-2027-parte-3-74737.html",
       "source": "Expansão",
-      "_key": "01aecc65aaeb0ca6",
-      "score": 6,
-      "title_cn": "Recredit公司以220亿宽扎收购BDA银行不良资产。"
+      "_key": "10558912446302f1",
+      "score": 7,
+      "title_cn": "CINVESTEC批准：海托尔·卡瓦略（Heitor Carvalho）谈2027年国家总预算（第三部分）"
     },
     {
-      "title": "Ambientalista alerta para impactos da exploração de areia…",
-      "url": "https://holdonangola.com/ambientalista-alerta-para-impactos-da-exploracao-de-areia-e-pedra-na-huila/",
-      "source": "Hold On Angola",
-      "_key": "c05855ff64105213",
-      "score": 6,
-      "title_cn": "环保人士警告采砂对环境的影响。"
+      "title": "Grande viragem de Malanje: o roteiro de Angola para a soberania do subsolo",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/685576/grande-viragem-de-malanje:--o-roteiro-de-angola--para-a-soberania-do-subsolo",
+      "source": "Jornal de Angola",
+      "_key": "ed680753f63d7dbd",
+      "score": 7,
+      "title_cn": "马兰热省重大转折：安哥拉地下资源主权路线图"
     },
     {
-      "title": "Benguela: Crise de água \"cobra\" promessa eleitoral...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/benguela-crise-de-agua-cobra-promessa-eleitoral-do-presidente-74717.html",
-      "source": "Novo Jornal",
-      "_key": "b84c3ddef7e01d50",
-      "score": 6,
-      "title_cn": "本戈拉：水危机“催促”兑现选举承诺。"
-    },
-    {
-      "title": "Turismo em Angola : Oportunidades e desafios",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/turismo-em-angola-oportunidades-e-desafios-74747.html",
-      "source": "Novo Jornal",
-      "_key": "b3758e50bb758f63",
-      "score": 6,
-      "title_cn": "安哥拉旅游业：机遇与挑战。"
-    },
-    {
-      "title": "Moedas de Uganda, Gana e Zâmbia enfrentam pressão cambial",
-      "url": "https://valoreconomico.co.ao/artigo/moedas-de-uganda-gana-e-zambia-enfrentam-pressao-cambial",
-      "source": "Valor Económico",
-      "_key": "a1d5c10082271fde",
-      "score": 6,
-      "title_cn": "乌干达、加纳和赞比亚货币面临汇率压力。"
-    },
-    {
-      "title": "Angola and Oman give new momentum to bilateral cooperation",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-e-oma-dao-nova-dinamica-a-cooperacao-bilateral/",
-      "source": "ANGOP",
-      "_key": "d44424d02e103846",
-      "score": 5,
-      "title_cn": "安哥拉和阿曼为双边合作注入新动力。"
-    },
-    {
-      "title": "Sultan of Oman arrives in Angola for state visit",
-      "url": "https://www.angop.ao/en/noticias/politica/sultao-de-oma-chega-a-angola-para-visita-de-estado/",
-      "source": "ANGOP",
-      "_key": "bc6ecd56de3489f6",
-      "score": 5,
-      "title_cn": "阿曼苏丹抵达安哥拉进行国事访问。"
-    },
-    {
-      "title": "BAI public offering raises more than AOA 50 million",
-      "url": "https://www.angop.ao/en/noticias/economia/oferta-publica-do-bai-arrecada-mais-de-kz-50-milhoes/",
-      "source": "ANGOP",
-      "_key": "8e2fcb31786974c4",
-      "score": 5,
-      "title_cn": "安哥拉投资银行（BAI）公开募股筹集逾5000万宽扎。"
-    },
-    {
-      "title": "BODIVA handles transactions exceeding AOA 914 million",
-      "url": "https://www.angop.ao/en/noticias/economia/bodiva-movimenta-mais-de-914-milhoes-de-kwanzas/",
-      "source": "ANGOP",
-      "_key": "2e55877e7d534c79",
-      "score": 5,
-      "title_cn": "安哥拉债务和证券交易所（BODIVA）交易额逾9.14亿宽扎。"
-    },
-    {
-      "title": "Angola e Omã preparam novos acordos durante visita do Sultão a Luanda",
-      "url": "https://correiokianda.info/angola-e-oma-preparam-novos-acordos-durante-visita-do-sultao-a-luanda/",
+      "title": "João Lourenço abre portas ao investimento omanita em sectores estratégicos",
+      "url": "https://correiokianda.info/joao-lourenco-abre-portas-ao-investimento-omanita-em-sectores-estrategicos/",
       "source": "Correio Kianda",
-      "_key": "61fe4fa2a872572a",
-      "score": 5,
-      "title_cn": "阿曼苏丹访问罗安达期间，安哥拉与阿曼准备签署新协议。"
+      "_key": "0c4f3f70edc0656f",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统向阿曼战略领域投资敞开大门"
     },
     {
-      "title": "Angola poderá desenvolver até 10 mil robôs nos próximos cinco anos",
-      "url": "https://correiokianda.info/angola-podera-desenvolver-ate-10-mil-robos-nos-proximos-cinco-anos/",
-      "source": "Correio Kianda",
-      "_key": "fa9a6be5c90136c4",
-      "score": 5,
-      "title_cn": "安哥拉未来五年内或开发多达1万个机器人。"
-    },
-    {
-      "title": "EDITORIALJoão ArmandoEstatísticas felizesA credibilidade estatística não se decreta. Constrói-se. Há ainda um pequeno pormenor: investidores também lêem estatísticas. Bancos multilaterais, agências de rating e empresas internacionais igualmente. Todos gostam de números bons. Mas gostam muito mais de números em que possam confiar.",
-      "url": "https://expansao.co.ao/opiniao/detalhe/estatisticas-felizes-74735.html",
-      "source": "Expansão",
-      "_key": "d09ffc2f57a4a011",
-      "score": 5,
-      "title_cn": "社论：统计数据需可信，投资者亦关注。"
-    },
-    {
-      "title": "Banco Nacional de Angola aguarda comunicação formal sobre negócio entre BPI e Grupo Carrinho",
-      "url": "https://forbesafricalusofona.com/banco-nacional-de-angola-aguarda-comunicacao-formal-sobre-negocio-entre-bpi-e-grupo-carrinho/",
+      "title": "Banco Mundial garante continuidade e expansão do apoio a Angola",
+      "url": "https://forbesafricalusofona.com/banco-mundial-garante-continuidade-e-expansao-do-apoio-a-angola/",
       "source": "Forbes África",
-      "_key": "bd44e89dc90dc456",
-      "score": 5,
-      "title_cn": "安哥拉国家银行等待BPI银行与卡里尼奥（Carrinho）集团交易的正式通知。"
+      "_key": "b2290ad0dc71a014",
+      "score": 6,
+      "title_cn": "世界银行承诺继续并扩大对安哥拉的支持"
     },
     {
-      "title": "Em Cacuaco: Bandido \"Matuidi\" membro do grupo “Galáxia” atropelado durante fuga às autoridades",
-      "url": "https://namiradocrime.info/show/17555",
-      "source": "Na Mira do Crime",
-      "_key": "93dc7a78e0c0d8c2",
-      "score": 5,
-      "title_cn": "卡夸科（Cacuaco）：“银河”团伙成员“马图伊迪”（Matuidi）逃捕时被撞。"
+      "title": "Destaque Angola e Omã reforçam cooperação nos sectores económico e energéticoAs relações político-diplomáticas entre Angola e Omã foram reforçadas, hoje, em Luanda, com a assinatura de novos instrumentos de cooperação, com destaque para um acordo relacionado com a aquisição de participações nas operações diamantíferas de Catoca e Luele.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685635/angola-e-om%C3%A3-refor%C3%A7am-coopera%C3%A7%C3%A3o-nos-sectores-econ%C3%B3mico-e-energ%C3%A9tico",
+      "source": "Jornal de Angola",
+      "_key": "04481e5bbd0f2d7a",
+      "score": 6,
+      "title_cn": "安哥拉与阿曼在经济和能源领域加强合作"
     },
     {
-      "title": "No Cuanza-Sul: Polícia recupera arma de fogo que estavam em posse dos marginais durante patrulhamento",
-      "url": "https://namiradocrime.info/show/17554",
-      "source": "Na Mira do Crime",
-      "_key": "1a021fd52ecc3dd3",
-      "score": 5,
-      "title_cn": "南宽扎省：警方巡逻期间从罪犯手中找回枪支。"
+      "title": "Destaque Angola aberta a investimento privado de Omã em todos os sectoresAngola está aberta à entrada de investimento privado proveniente de Omã em todos os sectores da economia nacional, com destaque para a Agropecuária, Recursos minerais, Petróleo e gás, Pescas, Energia eléctrica, Indústria farmacêutica e Defesa.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685606/angola-aberta-a-investimento-privado-de-om%C3%A3-em-todos-os-sectores",
+      "source": "Jornal de Angola",
+      "_key": "9a59458b46db02a2",
+      "score": 6,
+      "title_cn": "安哥拉向阿曼所有经济领域的私人投资开放"
     },
     {
-      "title": "Ministério da Agricultura medeia venda de milho, mas produtores continuam...",
-      "url": "https://valoreconomico.co.ao/artigo/ministerio-da-agricultura-medeia-venda-de-milho-mas-produtores-continuam-a-espera-de-compradores",
+      "title": "Ministra das Pescas exige maior aproveitamento económico do potencial marítimo",
+      "url": "https://valoreconomico.co.ao/artigo/ministra-das-pescas-exige-maior-aproveitamento-economico-do-potencial-maritimo",
       "source": "Valor Económico",
-      "_key": "e66c20d13ddbb166",
+      "_key": "4d95bfe5e2379253",
+      "score": 6,
+      "title_cn": "渔业部长呼吁加强对海洋潜力的经济利用"
+    },
+    {
+      "title": "Economia Fábrica vai produzir 50 mil toneladas de soda cáustica e hipoclorito de sódio por ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685583/f%C3%A1brica-vai-produzir--50-mil-toneladas--de-soda-c%C3%A1ustica--e-hipoclorito--de-s%C3%B3dio-por-ano",
+      "source": "Jornal de Angola",
+      "_key": "bd22fb1d6a97596c",
       "score": 5,
-      "title_cn": "农业部调解玉米销售，但生产者仍面临困境。"
+      "title_cn": "新工厂年产5万吨烧碱和次氯酸钠"
     }
   ]
 }
