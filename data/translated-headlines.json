@@ -1,64 +1,192 @@
 {
-  "date": "2026-09-19",
-  "total_new": 23,
-  "total_filtered": 7,
+  "date": "2026-09-20",
+  "total_new": 75,
+  "total_filtered": 23,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. 1 - ANIESA PASSA A TER COMPETÊNCIA EXCLUSIVA PARA DETERMINAR O ENCERRAMENTO DE ESTABELECIMENTOS COMERCIAIS QUE VIOLAM AS OBRIGAÇÕES TRIBUTÁRIAS. 2 - BENGUELA: BAIXO RITMO NAS OBRAS DAS CASAS PARA SINISTRADOS FORÇA DESPEDIMENTOS - GOVERNO \"CAI NA REAL\" E ADMITE QUE ARRANQUE NÃO FOI HÁ 3 MESES. ",
-      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=74774",
-      "source": "Novo Jornal",
-      "_key": "a01b2c85ef5e9cef",
+      "title": "Angola entre Pequim, Washington e a procura de autonomia",
+      "url": "https://correiokianda.info/angola-entre-pequim-washington-e-a-procura-de-autonomia/",
+      "source": "Correio Kianda",
+      "_key": "73a38171d8c6ca83",
       "score": 9,
-      "title_cn": "ANIESA (安涅萨) 获专属权关闭违规商业场所"
+      "title_cn": "安哥拉：在北京、华盛顿之间寻求自主权"
     },
     {
-      "title": "BDA quer recuperar 266 mil milhões de kwanzas em créditos não pagos",
-      "url": "https://correiokianda.info/bda-quer-recuperar-266-mil-milhoes-de-kwanzas-em-creditos-nao-pagos/",
-      "source": "Correio Kianda",
-      "_key": "0b07fa0f5a648e8a",
+      "title": "Conheça os rostos dos marginais que assassinaram a tiro o Superintendente-chefe da Polícia Nacional \" zero um\".",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_f3f83f520e61b1",
+      "score": 8,
+      "title_cn": "警方公布枪杀国家警察总监“零一”的嫌犯面孔"
+    },
+    {
+      "title": "  Reproduzir o vídeo: Conheça os rostos dos marginais que assassinaram a tiro o Superintendente-chefe da Polícia Nacional \" zero um\".",
+      "url": "https://www.youtube.com/watch?v=QVNvg5N1qJc",
+      "source": "Na Mira do Crime",
+      "_key": "8572a06dacefc9ef",
+      "score": 8,
+      "title_cn": "视频：枪杀国家警察总监“零一”嫌犯面孔曝光"
+    },
+    {
+      "title": "     Conheça o rosto do meliante que executou o comandante da Polícia Nacional ",
+      "url": "https://www.youtube.com/watch?v=d5w8Q0d1hvk",
+      "source": "Na Mira do Crime",
+      "_key": "ac96860b3f9c3901",
+      "score": 8,
+      "title_cn": "枪杀国家警察指挥官的嫌犯面孔曝光"
+    },
+    {
+      "title": "Bita water project reaches 52% conclusion",
+      "url": "https://www.angop.ao/en/noticias/economia/projecto-hidrico-bita-avanca-52-de-execucao-fisica/",
+      "source": "ANGOP",
+      "_key": "c5c713f4cfc908bf",
       "score": 7,
-      "title_cn": "BDA (安哥拉开发银行) 拟追回2660亿宽扎未偿贷款"
+      "title_cn": "比塔供水项目完成52%"
     },
     {
-      "title": "Ponte sobre o rio Cuanza vai ter balança de pesagem...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/ponte-sobre-o-rio-cuanza-vai-ter-balanca-de-pesagem-a-partir-de-novembro-74775.html",
-      "source": "Novo Jornal",
-      "_key": "a43f711a74f95be4",
-      "score": 7,
-      "title_cn": "宽扎河大桥将安装称重设备"
-    },
-    {
-      "title": "Destaque Carmon e Al Daham Holding Group reforçam cooperação entre Angola e OmãA empresa angolana Carmon e a Al Daham Holding Group, do Sultanato de Omã, assinaram, sexta-feira, em Luanda, um memorando de entendimento destinado a reforçar a cooperação económica e empresarial entre os dois países.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685686/carmon-e-al-daham-holding-group-refor%C3%A7am-coopera%C3%A7%C3%A3o-entre-angola-e-om%C3%A3",
-      "source": "Jornal de Angola",
-      "_key": "5401aa490bf777f4",
-      "score": 6,
-      "title_cn": "安哥拉Carmon (卡蒙) 与阿曼Al Daham控股集团加强合作"
-    },
-    {
-      "title": "Professores em greve a partir de segunda-feira após...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/professores-em-greve-a-partir-de-segunda-feira-apos-impasse-das-negociacoes-com-governo-74772.html",
-      "source": "Novo Jornal",
-      "_key": "f6ea2e03d1b18f34",
-      "score": 6,
-      "title_cn": "你好，你好，你好，你好，你好，你好…"
-    },
-    {
-      "title": "Angola leva posições sobre cooperação e paz à Assembleia Geral da ONU",
-      "url": "https://correiokianda.info/angola-leva-posicoes-sobre-cooperacao-e-paz-a-assembleia-geral-da-onu/",
+      "title": "Energia e Águas anuncia 52% de execução do Bita, que deverá beneficiar 2,5 milhões de cidadãos",
+      "url": "https://correiokianda.info/energia-e-aguas-anuncia-52-de-execucao-do-bita-que-devera-beneficiar-25-milhoes-de-cidadaos/",
       "source": "Correio Kianda",
-      "_key": "e81adcd2a16eedc7",
-      "score": 5,
-      "title_cn": "安哥拉向联合国大会阐述合作与和平立场"
+      "_key": "a4172f06616789f3",
+      "score": 7,
+      "title_cn": "能源水利部：比塔项目完成52%，将惠及250万民众"
     },
     {
-      "title": "Política Angola e Cabo Verde reafirmam compromisso com reforço da cooperação bilateral ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685687/angola-e-cabo-verde-reafirmam-compromisso-com-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-bilateral-",
+      "title": "19:44 / 19 set. 2026 Projecto Bita atinge 52% de execução e prevê beneficiar 2,5 milhões de cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/685693/projecto-bita-atinge-52%25-de-execu%C3%A7%C3%A3o-e-prev%C3%AA-beneficiar-25-milh%C3%B5es-de-cidad%C3%A3os",
       "source": "Jornal de Angola",
-      "_key": "f7f3188a8b44d55a",
+      "_key": "279fbeaa032d4bcb",
+      "score": 7,
+      "title_cn": "比塔项目完成52%，预计惠及250万民众"
+    },
+    {
+      "title": "Nota da semana: Manuel Homem a um passo do fim? Mais de 229 biliões de kwanzas aguardam por explicações públicas",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_0be6f809f0d49e",
+      "score": 7,
+      "title_cn": "本周要闻：曼努埃尔·奥门(Manuel Homem)将下台？2290亿宽扎待解释"
+    },
+    {
+      "title": "President João Lourenço travels to New York for UN General Assembly",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-viaja-domingo-a-nova-iorque-para-assembleia-geral-da-onu/",
+      "source": "ANGOP",
+      "_key": "91f11aa2e28d17ca",
+      "score": 6,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统赴纽约出席联合国大会"
+    },
+    {
+      "title": "Head of State leaves for New York",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-desloca-se-a-nova-iorque-para-assembleia-geral-da-onu-1/",
+      "source": "ANGOP",
+      "_key": "4343a94d4b40dccc",
+      "score": 6,
+      "title_cn": "国家元首启程前往纽约"
+    },
+    {
+      "title": "Presidente da República a caminho de Nova Iorque para participar no Debate Geral da ONU",
+      "url": "https://correiokianda.info/presidente-da-republica-a-caminho-de-nova-iorque-para-participar-no-debate-geral-da-onu/",
+      "source": "Correio Kianda",
+      "_key": "722b8993c720a291",
+      "score": 6,
+      "title_cn": "总统赴纽约参加联合国大会一般性辩论"
+    },
+    {
+      "title": "Mais de USD 1,4 mil milhões em acordos reforçam parceria Angola–Omã",
+      "url": "https://forbesafricalusofona.com/mais-de-usd-14-mil-milhoes-em-acordos-reforcam-parceria-angola-oma/",
+      "source": "Forbes África",
+      "_key": "4765d35943bfb71b",
+      "score": 6,
+      "title_cn": "安哥拉与阿曼签署逾14亿美元协议，深化伙伴关系"
+    },
+    {
+      "title": "Destaque João Lourenço viaja para Nova Iorque para participar na Assembleia-Geral da ONUO Chefe de Estado, João Lourenço, deixou Luanda, na manhã deste domingo, com destino a Nova Iorque, Estados Unidos da América, onde vai participar na 81.ª sessão da Assembleia-Geral das Nações Unidas.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685715/jo%C3%A3o-louren%C3%A7o-viaja-para-nova-iorque-para-participar-na-assembleia-geral-da-onu",
+      "source": "Jornal de Angola",
+      "_key": "060fb774ec318f12",
+      "score": 6,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统从罗安达启程赴纽约出席联合国大会"
+    },
+    {
+      "title": "Chefe de Estado em Nova Iorque para a Assembleia-Geral da ONUO Presidente da República, João Lourenço, parte hoje para a cidade de Nova Iorque, Estados Unidos da América, onde vai participar na 81.ª Sessão da Assembleia Geral das Nações Unidas, que este ano decorre sob o lema “Restabelecer a confiança, gerir a transformação: uma Organização das Nações Unidas ao serviço de todos”.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/685694/chefe-de-estado-em-nova-iorque-para-a-assembleia-geral-da-onu",
+      "source": "Jornal de Angola",
+      "_key": "f559bafea1657822",
+      "score": 6,
+      "title_cn": "若昂·洛伦索(João Lourenço)总统抵达纽约出席联合国大会"
+    },
+    {
+      "title": "Na Lunda-Norte — Chefe de operações da Sociedade Mineira do Furi encontrado morto no rio Tchiumbué: Família aponta homicídio como causa da morte",
+      "url": "https://namiradocrime.info/show/17560",
+      "source": "Na Mira do Crime",
+      "_key": "0e678b936a05cea5",
+      "score": 6,
+      "title_cn": "北隆达省：富里矿业公司运营主管被发现死于河中，家属疑遭谋杀"
+    },
+    {
+      "title": "Angola elected Atomic Energy Agency board member",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-eleita-membro-do-conselho-da-agencia-de-energia-atomica/",
+      "source": "ANGOP",
+      "_key": "3b15bdee2bb3e577",
       "score": 5,
-      "title_cn": "安哥拉与佛得角重申加强双边合作承诺"
+      "title_cn": "安哥拉当选国际原子能机构理事会成员"
+    },
+    {
+      "title": "Governo acusa SINPROF de faltar à reunião que devia travar greve dos professores",
+      "url": "https://correiokianda.info/executivo-acusa-sinprof-de-faltar-a-reuniao-que-devia-travar-greve-dos-professores/",
+      "source": "Correio Kianda",
+      "_key": "04d874771a30684b",
+      "score": 5,
+      "title_cn": "政府指责教师工会SINPROF缺席会议，未能阻止教师罢工"
+    },
+    {
+      "title": "Executivo activa plano de contingência e reforça vacinação contra a Mpox",
+      "url": "https://correiokianda.info/executivo-activa-plano-de-contingencia-e-reforca-vacinacao-contra-a-mpox/",
+      "source": "Correio Kianda",
+      "_key": "c8391b2c8e5f34ad",
+      "score": 5,
+      "title_cn": "安哥拉政府启动应急计划，加强猴痘疫苗接种"
+    },
+    {
+      "title": "Greve dos professores avança segunda-feira após fracasso de reunião entre SINPROF e Governo",
+      "url": "https://holdonangola.com/greve-dos-professores-avanca-segunda-feira-apos-fracasso-de-reuniao-entre-sinprof-e-governo/",
+      "source": "Hold On Angola",
+      "_key": "e39695d13590a55f",
+      "score": 5,
+      "title_cn": "教师工会SINPROF与政府谈判破裂，教师罢工周一继续"
+    },
+    {
+      "title": "“A reforma do Conselho de Segurança das Nações Unidas é indispensável e inadiável” Cinco décadas depois, Angola apresenta-se na arena multilateral como um actor cada vez mais empenhado na defesa da paz, da segurança, do diálogo, da cooperação internacional e do desenvolvimento sustentável.",
+      "url": "https://www.jornaldeangola.ao/noticias/7/entrevista/685697/%E2%80%9Ca-reforma-do-conselho--de-seguran%C3%A7a--das-na%C3%A7%C3%B5es-unidas--%C3%A9-indispens%C3%A1vel--e-inadi%C3%A1vel%E2%80%9D-",
+      "source": "Jornal de Angola",
+      "_key": "1fc135a800a2a494",
+      "score": 5,
+      "title_cn": "安哥拉：联合国安理会改革不可或缺且刻不容缓"
+    },
+    {
+      "title": "Economia Fiscalização reduz em cerca de 70% casos de pesca ilegal ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/685706/fiscaliza%C3%A7%C3%A3o-reduz-em-cerca-de-70%25-casos-de-pesca-ilegal",
+      "source": "Jornal de Angola",
+      "_key": "96bad84e96c444b3",
+      "score": 5,
+      "title_cn": "经济：监管使非法捕鱼案件减少约70%"
+    },
+    {
+      "title": "NOTA DA SEMANA: INSPECÇÃO OU PUREZA INTERNA: Afinal, quem fiscaliza quem? novo inspector-geral da PNA tem a obrigação de tirar o órgão \"dos tubos\"",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_e4ecc1cd9d435d",
+      "score": 5,
+      "title_cn": "本周要闻：内部监察还是纯洁性？谁来监督谁？国家警察新总监任重道远"
+    },
+    {
+      "title": "     Passagem de pastas Novo Inspector geral da IGAE quer uma Instituição mais pedagógica ",
+      "url": "https://www.youtube.com/watch?v=j58RikxQYCM",
+      "source": "Na Mira do Crime",
+      "_key": "26dce6d306a33b19",
+      "score": 5,
+      "title_cn": "权力交接：IGAE新总监希望建立更具指导性的机构"
     }
   ]
 }
