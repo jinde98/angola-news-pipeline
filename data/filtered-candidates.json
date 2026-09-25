@@ -1,364 +1,224 @@
 {
   "date": "2026-09-25",
-  "total_new": 113,
-  "total_filtered": 51,
+  "total_new": 73,
+  "total_filtered": 31,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Brent avança e retoma subida após alívio no início da semana",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_2f6d96329a9b3b",
-      "score": 9
+      "title": "Petróleo recua com expectativa de trégua entre EUA e Irão",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-recua-com-expectativa-de-tregua-entre-eua-e-irao",
+      "source": "Valor Económico",
+      "_key": "dd9b63c2b784ba49",
+      "score": 10
     },
     {
-      "title": "Taxas internacionais: ExchangeRate-API",
-      "url": "https://www.exchangerate-api.com",
+      "title": "Angola regista inflação de 8,78% e crescimento de…",
+      "url": "https://holdonangola.com/angola-regista-inflacao-de-878-e-crescimento-de-87-no-segundo-trimestre-de-2026/",
       "source": "Hold On Angola",
-      "_key": "b67255b37dc832b9",
+      "_key": "56b260e02f047320",
       "score": 9
     },
     {
-      "title": "Trump e Xi prolongam trégua comercial, mas mantêm divergências estratégicas",
-      "url": "https://valoreconomico.co.ao/artigo/trump-e-xi-prolongam-tregua-comercial-mas-mantem-divergencias-estrategicas",
-      "source": "Valor Económico",
-      "_key": "f9c04ae4c0710b8e",
-      "score": 9
+      "title": "Desconstruindo: Devem ou não as tarifas da luz e da água continuar a ser subsidiadas?",
+      "url": "https://expansao.co.ao/angola/detalhe/desconstruindo-devem-ou-nao-as-tarifas-da-luz-e-da-agua-continuar-a-ser-subsidiadas-74916.html",
+      "source": "Expansão",
+      "_key": "1ee6e08927fe0ea8",
+      "score": 8
     },
     {
-      "title": "TotalEnergies secures expansion of oil operations in Angola",
-      "url": "https://www.angop.ao/en/noticias/economia/totalenergies-assegura-expansao-da-actividade-petrolifera-em-angola/",
+      "title": "Angola launches new ferry link to boost Cabinda trade, passenger transport",
+      "url": "https://www.angop.ao/en/noticias/economia/nova-embarcacao-inicia-rota-luanda-soyo-e-soyo-cabinda/",
       "source": "ANGOP",
-      "_key": "6ccde9b82ff198c4",
-      "score": 8
-    },
-    {
-      "title": "Reforma do sector eléctrico e PPPs em debate no IV Fórum Energia e Ambiente do Expansão",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_10cacbead5db4a",
-      "score": 8
-    },
-    {
-      "title": "O EXPLICADOR FISCAL: Contribuição especial sobre operações cambiais – sector diamantífero",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_48a4e6bfe25976",
-      "score": 8
-    },
-    {
-      "title": "Angola prepara novas medidas para facilitar circulação de pessoas e mercadorias nos corredores regionais",
-      "url": "https://forbesafricalusofona.com/angola-prepara-novas-medidas-para-facilitar-circulacao-de-pessoas-e-mercadorias-nos-corredores-regionais/",
-      "source": "Forbes África",
-      "_key": "6bc0fc07a41bed98",
-      "score": 8
-    },
-    {
-      "title": "Problemas na justiça angolana - Juízes acusados de facturar mais de um bilião de Kwanzas com negócios de habeas corpus",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_07719fc4d17856",
-      "score": 8
-    },
-    {
-      "title": "    Corrupção Problemas na justiça angolana - Juízes acusados de facturar mais de um bilião de Kwanzas com negócios de habeas corpus A decisão do Conselho Superior da Magistratura Judicial (CSMJ) em suspender o juiz presidente do Tribunal da Comarca de Luanda, Paulino Gasp... ",
-      "url": "https://namiradocrime.info/show/17606",
-      "source": "Na Mira do Crime",
-      "_key": "2e17c0d2d07d88b1",
-      "score": 8
-    },
-    {
-      "title": "AGT seeks to take over collection of social security contributions25/09/2026",
-      "url": "https://www.negociosdeangola.com/en/agt-seeks-to-take-over-collection-of-social-security-contributions/",
-      "source": "Negócios de Angola",
-      "_key": "7d841a5a7578d345",
-      "score": 8
-    },
-    {
-      "title": "Político Norberto Garcia sofre ferimentos durante assalto quando fazia exercícios à meia-noite em Luanda – PN e SIC em busca dos assaltantes",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/politico-norberto-garcia-sofre-ferimentos-durante-assalto-quando-fazia-exercicios-a-meia-noite-em-luanda-pn-e-sic-em-busca-dos-assaltantes-74889.html",
-      "source": "Novo Jornal",
-      "_key": "d607b1fb26d9e622",
-      "score": 8
-    },
-    {
-      "title": "Angola soma 992 fábricas mas deixa quase metade da capacidade...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-soma-992-fabricas-mas-deixa-quase-metade-da-capacidade-por-utilizar",
-      "source": "Valor Económico",
-      "_key": "8ecf8bd37bc204c3",
-      "score": 8
-    },
-    {
-      "title": "Consórcio Mota-Engil, Omatapalo e Griner vai construir primeira fase do Metro de Luanda",
-      "url": "https://angola24horas.com/sociedade/item/35084-consorcio-mota-engil-omatapalo-e-griner-vai-construir-primeira-fase-do-metro-de-luanda",
-      "source": "Angola 24 Horas",
-      "_key": "f562ec4e35555126",
-      "score": 7
-    },
-    {
-      "title": "“Angola precisa diversificar fontes de financiamento”, recomenda BAD",
-      "url": "https://correiokianda.info/angola-precisa-diversificar-fontes-de-financiamento-recomenda-bad/",
-      "source": "Correio Kianda",
-      "_key": "f5c1fa445ed37208",
-      "score": 7
-    },
-    {
-      "title": "Energia chega à rede, mas tarifas e distribuição continuam a travar o sector",
-      "url": "https://expansao.co.ao/angola/detalhe/energia-chega-a-rede-mas-tarifas-e-distribuicao-continuam-a-travar-o-sector-74905.html",
-      "source": "Expansão",
-      "_key": "4da6f277133766a4",
-      "score": 7
-    },
-    {
-      "title": "Reforço da oferta eléctrica abre novas oportunidades ao sector privado",
-      "url": "https://expansao.co.ao/angola/detalhe/reforco-da-oferta-electrica-abre-novas-oportunidades-ao-sector-privado-74901.html",
-      "source": "Expansão",
-      "_key": "cd37f9d51162dabd",
+      "_key": "aa97f2af90576cac",
       "score": 7
     },
     {
       "title": "Capacidade eléctrica instalada cresce 3% desde 2022, com solar a ganhar espaço",
-      "url": "https://expansao.co.ao/angola/detalhe/capacidade-electrica-instalada-de-angola-cresce-3-nos-ultimos-quatro-anos-74894.html",
-      "source": "Expansão",
-      "_key": "f6bbe4cec7321826",
-      "score": 7
-    },
-    {
-      "title": "AGT de olho no dinheiro da Segurança Social",
-      "url": "https://expansao.co.ao/angola/detalhe/agt-de-olho-no-dinheiro-da-seguranca-social-74882.html",
-      "source": "Expansão",
-      "_key": "31bb79c4363beab7",
-      "score": 7
-    },
-    {
-      "title": "Luanda reúne Banco Mundial e startups de 14 países da SADC em cimeira de transportes e logística",
       "url": "",
       "source": "Expansão",
-      "_key": "t_3de940dc37e416",
+      "_key": "t_3dd06b930087b9",
       "score": 7
-    },
-    {
-      "title": "Decorre, neste momento, o IV Fórum Energia e Ambiente do ExpansãoO futuro do sector eléctrico angolano está hoje em debate no IV Fórum Energia e Ambiente do jornal Expansão, que decorre a desde as 09h30, no Complexo Isabel Fançony, em Luanda. Sob o tema \"A Reforma do Sector Eléctrico e PPPs\", o encontro pretende colocar em discussão os principais desafios que o País enfrenta para aumentar a cobertura eléctrica, melhorar a distribuição e criar condições para a participação do sector privado num s",
-      "url": "https://expansao.co.ao/angola/detalhe/decorre-neste-momento-o-iv-forum-energia-e-ambiente-do-expansao-74890.html",
-      "source": "Expansão",
-      "_key": "ac884c4c9b135315",
-      "score": 7
-    },
-    {
-      "title": "Juiz presidente do Tribunal da Comarca de Luanda suspenso após alegadas irregularidades em processos",
-      "url": "https://holdonangola.com/juiz-presidente-do-tribunal-da-comarca-de-luanda-suspenso-apos-alegadas-irregularidades-em-processos/",
-      "source": "Hold On Angola",
-      "_key": "0dafc0555ba5de77",
-      "score": 7
-    },
-    {
-      "title": "Contrato para a primeira fase das obras do metro de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/contrato-para-a-primeira-fase-das-obras-do-metro-de-superficie-de-luanda-avanca-com-adjudicacao-da-obra-a-consorcio-mota-engil-omatapalo-e-griner-engenharia-74895.html",
-      "source": "Novo Jornal",
-      "_key": "54bf55991edb6582",
-      "score": 7
-    },
-    {
-      "title": "Desmantelada quadrilha no Namibe que alegadamente assaltava...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/desmantelada-quadrilha-no-namibe-que-alegadamente-assaltava-moto-taxistas-a-mao-armada-e-vendia-motas-por-400-mil-kz-74893.html",
-      "source": "Novo Jornal",
-      "_key": "4852c401a24060bf",
-      "score": 7
-    },
-    {
-      "title": "Angola dispõe de capacidade eléctrica instalada de...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-dispoe-de-capacidade-electrica-instalada-de-6400-megawatts-74900.html",
-      "source": "Novo Jornal",
-      "_key": "863bc4487232dc8d",
-      "score": 7
-    },
-    {
-      "title": "PR aprova criação de nova empresa pública para tecnologia e...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-aprova-criacao-de-nova-empresa-publica-para-tecnologia-e-inovacao-industrial",
-      "source": "Valor Económico",
-      "_key": "50aa9dcc6480dcfe",
-      "score": 7
-    },
-    {
-      "title": "BODIVA’s Thursday session generates over 667 million kwanzas in transactions",
-      "url": "https://www.angop.ao/en/noticias/economia/bodiva-regista-266-negocios-e-movimenta-kz-667-milhoes/",
-      "source": "ANGOP",
-      "_key": "07fe75954a81f512",
-      "score": 6
-    },
-    {
-      "title": "Minister of Energy reaffirms investment for water supply in Luanda",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-reitera-investimento-na-producao-de-agua-em-luanda/",
-      "source": "ANGOP",
-      "_key": "4de1fc80918c589f",
-      "score": 6
-    },
-    {
-      "title": "Norberto Garcia esfaqueado durante assalto em Luanda",
-      "url": "https://angola24horas.com/component/k2/item/35078-norberto-garcia-esfaqueado-durante-assalto-em-luanda",
-      "source": "Angola 24 Horas",
-      "_key": "6f5b4976043b9d25",
-      "score": 6
-    },
-    {
-      "title": "FADA perde rasto a mais de 10 mil milhões de kwanzas em créditos do FertilizAngola",
-      "url": "https://angola24horas.com/sociedade/item/35082-fada-perde-rasto-a-mais-de-10-mil-milhoes-de-kwanzas-em-creditos-do-fertilizangola",
-      "source": "Angola 24 Horas",
-      "_key": "2550b54862ac1057",
-      "score": 6
-    },
-    {
-      "title": "Presidente da República autoriza criação do Centro Industrial de Tecnologia Avançada para capacitar juventude angolana",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-criacao-do-centro-industrial-de-tecnologia-avancada-para-capacitar-juventude-angolana/",
-      "source": "Correio Kianda",
-      "_key": "dc6d684322945eb9",
-      "score": 6
-    },
-    {
-      "title": "Professores de Luanda defendem continuação da greve até novas garantias",
-      "url": "https://correiokianda.info/professores-de-luanda-defendem-continuacao-da-greve-ate-novas-garantias/",
-      "source": "Correio Kianda",
-      "_key": "aa60253f544d7428",
-      "score": 6
-    },
-    {
-      "title": "SINPROF decide hoje se mantém ou suspende a greve dos professores",
-      "url": "https://correiokianda.info/sinprof-decide-hoje-se-mantem-ou-suspende-a-greve-dos-professores/",
-      "source": "Correio Kianda",
-      "_key": "77c691e5e95ef136",
-      "score": 6
-    },
-    {
-      "title": "Oficiais de Justiça exigem reajuste salarial e melhores condições de trabalho",
-      "url": "https://correiokianda.info/oficiais-de-justica-exigem-reajuste-salarial-e-melhores-condicoes-de-trabalho/",
-      "source": "Correio Kianda",
-      "_key": "f4ff11e731db1096",
-      "score": 6
-    },
-    {
-      "title": "Indonésio e angolano detidos com marfim e divisas acima do limite",
-      "url": "https://correiokianda.info/indonesio-e-angolano-detidos-com-marfim-e-divisas-acima-do-limite/",
-      "source": "Correio Kianda",
-      "_key": "a5742540ea1202e2",
-      "score": 6
-    },
-    {
-      "title": "Fundo ALCB investe 10 milhões de dólares em obrigações sustentáveis do BAI",
-      "url": "https://diariodosnegocios.com/dn-43e941fa4b1dc6a7a4904f66/",
-      "source": "Diário dos Negócios",
-      "_key": "3f27aea808187d7a",
-      "score": 6
     },
     {
       "title": "\"Não basta produzir mais energia. É necessário garantir que ela esteja disponível, seja transportada com segurança e distribuída com eficiência\"",
-      "url": "https://expansao.co.ao/angola/detalhe/nao-basta-produzir-mais-energia-e-necessario-garantir-que-ela-esteja-disponivel-seja-transportada-com-seguranca-e-distribuida-com-eficiencia-74891.html",
-      "source": "Expansão",
-      "_key": "7d779e34cd6b9227",
-      "score": 6
-    },
-    {
-      "title": "Decorre, neste momento, o IV Fórum Energia e Ambiente do Expansão",
       "url": "",
       "source": "Expansão",
-      "_key": "t_04a4a75293fe22",
-      "score": 6
+      "_key": "t_31816b9ffe5cdf",
+      "score": 7
     },
     {
-      "title": "Audição prévia no Procedimento Tributário Electrónico | Entre o dever de fundamentação e a segurança da prova",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_ba375e73c79944",
-      "score": 6
-    },
-    {
-      "title": "CONVIDADOManuel Jamba LohocaAudição prévia no Procedimento Tributário Electrónico | Entre o dever de fundamentação e a segurança da prova",
-      "url": "https://expansao.co.ao/opiniao/detalhe/audicao-previa-no-procedimento-tributario-electronico-entre-o-dever-de-fundamentacao-e-a-seguranca-da-prova-74805.html",
-      "source": "Expansão",
-      "_key": "ba2066cadeb39ab0",
-      "score": 6
-    },
-    {
-      "title": "Fim da greve dos professores angolanos depende agora da decisão das assembleias do SINPROF",
-      "url": "https://forbesafricalusofona.com/fim-da-greve-dos-professores-angolanos-depende-agora-da-decisao-das-assembleias-do-sinprof/",
-      "source": "Forbes África",
-      "_key": "bef13f35ebb8c6de",
-      "score": 6
-    },
-    {
-      "title": "Trabalhadores dos Correios e Telégrafos de Angola anunciam greve para o dia 19 de Outubro - Salários baixos e péssimas condições de trabalho \"na ordem do dia\"",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_b4a0bcf4434ec5",
-      "score": 6
-    },
-    {
-      "title": "    Política Trabalhadores dos Correios e Telégrafos de Angola anunciam greve para o dia 19 de Outubro - Salários baixos e péssimas condições de trabalho \"na ordem do dia\" A Comissão Sindical da Empresa Nacional de Correios e Telégrafos de Angola, realizou a Assembleia Geral dos Trabalhadores na tarde desta qu... ",
-      "url": "https://namiradocrime.info/show/17604",
-      "source": "Na Mira do Crime",
-      "_key": "65c7d4006b181cfe",
-      "score": 6
-    },
-    {
-      "title": "Lack of structured value chains makes Angolan agriculture unsustainable, warns consultant",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10281",
-      "source": "Negócios de Angola",
-      "_key": "c3c3578286e5262d",
-      "score": 6
-    },
-    {
-      "title": "PGF detém mais de 300 congoleses por tentarem entrar...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pgf-detem-mais-de-300-congoleses-por-tentarem-entrar-ilegalmente-no-pais-74904.html",
-      "source": "Novo Jornal",
-      "_key": "a5f95d25c051e2dc",
-      "score": 6
-    },
-    {
-      "title": "Após suspensão, oficiais de Justiça retomam greve e...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/apos-suspensao-oficiais-de-justica-retomam-greve-e-exigem-cumprimento-de-acordo-com-o-governo-74896.html",
-      "source": "Novo Jornal",
-      "_key": "50f54055e0be43c5",
-      "score": 6
-    },
-    {
-      "title": "Commerce Minister highlights industrial transformation for food security",
-      "url": "https://www.angop.ao/en/noticias/economia/ministro-realca-transformacao-industrial-na-seguranca-alimentar/",
-      "source": "ANGOP",
-      "_key": "85b8e42820323200",
-      "score": 5
-    },
-    {
-      "title": "Election",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=15713",
-      "source": "ANGOP",
-      "_key": "fc51c347322c20a6",
-      "score": 5
-    },
-    {
-      "title": "Ambientalista alerta para riscos de chuvas intensas e seca em Angola na época 2026-2027",
-      "url": "https://holdonangola.com/ambientalista-alerta-para-riscos-de-chuvas-intensas-e-seca-em-angola-na-epoca-2026-2027/",
+      "title": "IGAPE e SNCP definem novas regras para aquisições das empresas públicas",
+      "url": "https://holdonangola.com/igape-e-sncp-definem-novas-regras-para-aquisicoes-das-empresas-publicas/",
       "source": "Hold On Angola",
-      "_key": "0c6ef4f43775d701",
-      "score": 5
+      "_key": "41ed172ec69c2af2",
+      "score": 7
     },
     {
-      "title": "Angola deve registar seca e excesso de chuva nos próximos seis meses — instituto",
-      "url": "https://jornaloguardiao.com/2026/09/25/angola-deve-registar-seca-e-excesso-de-chuva-nos-proximos-seis-meses-instituto/",
-      "source": "Jornal O Guardião",
-      "_key": "c0f32c97c074f2d7",
-      "score": 5
-    },
-    {
-      "title": " Angola deve registar seca e excesso de chuva nos próximos seis meses — instituto ",
+      "title": "Procuravam zona de exploração de ouro: Derrube de árvore mata três pessoas no Quixico",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_5696c6d479f5c6",
+      "source": "Na Mira do Crime",
+      "_key": "t_0b8ecc3b43ed20",
+      "score": 7
+    },
+    {
+      "title": "    Sociedade Procuravam zona de exploração de ouro: Derrube de árvore mata três pessoas no Quixico Efectivos do Comando Municipal do Serviço de Protecção Civil e Bombeiros do Muxaluando, na província do Bengo, efectuaram, nesta quinta-feir... ",
+      "url": "https://namiradocrime.info/show/17610",
+      "source": "Na Mira do Crime",
+      "_key": "c12b1de3902545c4",
+      "score": 7
+    },
+    {
+      "title": "Transporte marítimo",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=58321",
+      "source": "ANGOP",
+      "_key": "c684f339982a520c",
+      "score": 6
+    },
+    {
+      "title": "Cuanza-Sul calls for local processing and stronger value chains to attract investment",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-do-cuanza-sul-assinala-potencial-da-provincia-para-atrair-investimentos/",
+      "source": "ANGOP",
+      "_key": "8d0cdc001cfaa43b",
+      "score": 6
+    },
+    {
+      "title": "Homem finge ser polícia para extorquir cidadãos em Cabinda",
+      "url": "https://correiokianda.info/homem-finge-ser-policia-para-extorquir-cidadaos-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "7c3db83798859645",
+      "score": 6
+    },
+    {
+      "title": "Proibição de uso de plásticos avança de forma gradual",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_2f5004ce451f66",
+      "score": 6
+    },
+    {
+      "title": "Proibição de uso de plásticos avança de forma gradualA primeira fase do Plano Na cional de Eliminação Progressiva dos Plásticos de Utilização Única (PLANEPP) começou a vigorar oficialmente esta se mana com a proibição de pro dução, importação e comercialização de palhinhas e cotonetes de plástico inferiores a 50 \"micras ou micros\", medida de comprimento equivalente a 0,05 milímetros.",
+      "url": "https://expansao.co.ao/angola/detalhe/proibicao-de-uso-de-plasticos-avanca-de-forma-gradual-74915.html",
+      "source": "Expansão",
+      "_key": "c0dcd87a9c713fa1",
+      "score": 6
+    },
+    {
+      "title": "UNITEL regista receitas de 274 mil milhões Kz e 21,2 milhões de clientes no primeiro semestre",
+      "url": "https://holdonangola.com/unitel-regista-receitas-de-274-mil-milhoes-kz-e-212-milhoes-de-clientes-no-primeiro-semestre/",
+      "source": "Hold On Angola",
+      "_key": "c46e534f95ff3605",
+      "score": 6
+    },
+    {
+      "title": "Angola regista quatro novos casos de Mpox e oito altas médicasAngola registou, nas últimas 24 horas, quatro novos casos de Mpox, sendo dois na província do Moxico, um em Luanda e outro na Lunda-Sul, informou, esta sexta-feira, o Ministério da Saúde (MINSA).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686136/angola-regista-quatro-novos-casos-de-mpox-e-oito-altas-m%C3%A9dicas",
+      "source": "Jornal de Angola",
+      "_key": "09224dd19100553c",
+      "score": 6
+    },
+    {
+      "title": "Economia Executivo apresenta “Investe Turismo” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686133/executivo-apresenta-%E2%80%9Cinveste-turismo%E2%80%9D-",
+      "source": "Jornal de Angola",
+      "_key": "7139c9d1c13eb6c1",
+      "score": 6
+    },
+    {
+      "title": "Falso efectivo da Polícia detido por agentes do DIIP em Cabinda",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_eca7f48848968c",
+      "score": 6
+    },
+    {
+      "title": "Autoridades removem 15 morteiros de 60 mm não detonados na montanha do Yumbo",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_f4755b79a08e1f",
+      "score": 6
+    },
+    {
+      "title": "    Busca e Captura Falso efectivo da Polícia detido por agentes do DIIP em Cabinda A Polícia Nacional em Cabinda, através do Departamento de Investigação de Ilícitos Penais (DIIP), deteve, nesta quinta-feira, 24, um cidadão... ",
+      "url": "https://namiradocrime.info/show/17612",
+      "source": "Na Mira do Crime",
+      "_key": "9aa4ff8a9c48068f",
+      "score": 6
+    },
+    {
+      "title": "    Sociedade Autoridades removem 15 morteiros de 60 mm não detonados na montanha do Yumbo Efectivos da Polícia Nacional destacados no Comando municipal da Munenga, em coordenação com as Forças Armadas Angolanas (FAA) e o destacam... ",
+      "url": "https://namiradocrime.info/show/17611",
+      "source": "Na Mira do Crime",
+      "_key": "11e296b78905797c",
+      "score": 6
+    },
+    {
+      "title": "Angola launches global tourism strategy to triple international partners",
+      "url": "https://www.angop.ao/en/noticias/turismo/angola-implementa-estrategia-de-promocao-turistica/",
+      "source": "ANGOP",
+      "_key": "daf8bc909283f7f1",
       "score": 5
     },
     {
-      "title": "El Niño ameaça época agrícola de Janeiro a Março com...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/el-nino-ameaca-epoca-agricola-de-janeiro-a-marco-com-alerta-de-diluvio-no-litoral-angolano-74903.html",
+      "title": "Angolan police launch murder probe after bound body found near DRC border",
+      "url": "https://www.angop.ao/en/noticias/sociedade/homem-encontrado-morto-com-os-membros-superiores-amarrados/",
+      "source": "ANGOP",
+      "_key": "92fd5c3a70ce4eb7",
+      "score": 5
+    },
+    {
+      "title": "Criminalidade",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=55242",
+      "source": "ANGOP",
+      "_key": "aea5ecba075abaf7",
+      "score": 5
+    },
+    {
+      "title": "Angola entre a seca e o excesso de chuva na época chuvosa 2026/2027",
+      "url": "https://angola24horas.com/sociedade/item/35086-angola-entre-a-seca-e-o-excesso-de-chuva-na-epoca-chuvosa-2026-2027",
+      "source": "Angola 24 Horas",
+      "_key": "ccb0bbd1491fd1e8",
+      "score": 5
+    },
+    {
+      "title": "Homem encontrado morto com os braços amarrados no Luvo",
+      "url": "https://correiokianda.info/homem-encontrado-morto-com-os-bracos-amarrados-no-luvo/",
+      "source": "Correio Kianda",
+      "_key": "6447310e3bdd1d5a",
+      "score": 5
+    },
+    {
+      "title": "Destaque Governo e SINPROF retomam hoje negociações sobre declaração de greveO Ministério da Educação e o Sindicato Nacional dos Professores (SINPROF) voltam a reunir-se, na tarde desta sexta-feira, em Luanda, para analisar a negociação dos pontos constantes da declaração de greve.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686098/governo-e-sinprof-retomam-hoje-negocia%C3%A7%C3%B5es-sobre-declara%C3%A7%C3%A3o-de-greve",
+      "source": "Jornal de Angola",
+      "_key": "bbf2f72014f54bd9",
+      "score": 5
+    },
+    {
+      "title": "Destaque INAMET prevê chuvas acima do normal em Outubro, Novembro e Dezembro O Instituto Nacional de Meteorologia e Geofísica (INAMET) prevê chuvas acima do normal nos meses de Outubro, Novembro e Dezembro deste ano, nas regiões Norte e Litoral do país, enquanto para as regiões Sul e Sudoeste está prevista precipitação abaixo da média.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686132/inamet-prev%C3%AA-chuvas-acima-do-normal-em-outubro-novembro-e-dezembro-",
+      "source": "Jornal de Angola",
+      "_key": "070cac6b534240e0",
+      "score": 5
+    },
+    {
+      "title": "Política Executivo reforça medidas para reduzir riscos das chuvas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686091/executivo-refor%C3%A7a-medidas-para-reduzir-riscos-das-chuvas",
+      "source": "Jornal de Angola",
+      "_key": "ab0988d2699accff",
+      "score": 5
+    },
+    {
+      "title": "El Niño threatens farming season as INAMET warns of above-average rainfall along the coast",
+      "url": "https://www.negociosdeangola.com/en/el-nino-threatens-farming-season-as-inamet-warns-of-above-average-rainfall-along-the-coast/",
+      "source": "Negócios de Angola",
+      "_key": "39d40835d2de5368",
+      "score": 5
+    },
+    {
+      "title": "Professores regressam às salas de aula na segunda-feira",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/professores-regressam-as-salas-de-aula-na-segunda-feira-74922.html",
       "source": "Novo Jornal",
-      "_key": "320e952fb013398e",
+      "_key": "f2d967e7f8f70718",
       "score": 5
     }
   ]
