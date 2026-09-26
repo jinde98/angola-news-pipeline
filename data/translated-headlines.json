@@ -1,256 +1,160 @@
 {
-  "date": "2026-09-25",
-  "total_new": 73,
-  "total_filtered": 31,
+  "date": "2026-09-26",
+  "total_new": 52,
+  "total_filtered": 19,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo recua com expectativa de trégua entre EUA e Irão",
-      "url": "https://valoreconomico.co.ao/artigo/petroleo-recua-com-expectativa-de-tregua-entre-eua-e-irao",
-      "source": "Valor Económico",
-      "_key": "dd9b63c2b784ba49",
+      "title": "Carlos Feijó defende reforço jurídico de Angola para prevenir litígios de investimento com a China",
+      "url": "https://holdonangola.com/carlos-feijo-defende-reforco-juridico-de-angola-para-prevenir-litigios-de-investimento-com-a-china/",
+      "source": "Hold On Angola",
+      "_key": "f1ef86e2f333082e",
       "score": 10,
-      "title_cn": "油价下跌，因美伊有望达成休战协议"
+      "title_cn": "卡洛斯·费若(Carlos Feijó)呼吁安哥拉加强法律，防范对华投资纠纷"
     },
     {
-      "title": "Angola regista inflação de 8,78% e crescimento de…",
-      "url": "https://holdonangola.com/angola-regista-inflacao-de-878-e-crescimento-de-87-no-segundo-trimestre-de-2026/",
-      "source": "Hold On Angola",
-      "_key": "56b260e02f047320",
+      "title": "AGT aplica taxa de 2% de \"rendimentos presumidos\" a todos os despachantes oficiais",
+      "url": "https://expansao.co.ao/angola/detalhe/agt-aplica-taxa-de-2-de-rendimentos-presumidos-a-todos-os-despachantes-oficiais-74928.html",
+      "source": "Expansão",
+      "_key": "67127794d20d0492",
       "score": 9,
-      "title_cn": "安哥拉通胀率达8.78%，经济增长…"
+      "title_cn": "安哥拉税务总局对所有官方报关员征收2%“推定收入”税"
+    },
+    {
+      "title": "FMI defende reforço da resiliência económica de Angola para reduzir impacto das quedas do petróleo",
+      "url": "https://forbesafricalusofona.com/fmi-defende-reforco-da-resiliencia-economica-de-angola-para-reduzir-impacto-das-quedas-do-petroleo/",
+      "source": "Forbes África",
+      "_key": "932d0f94beaf0b98",
+      "score": 8,
+      "title_cn": "国际货币基金组织建议安哥拉增强经济韧性，以应对油价下跌冲击"
+    },
+    {
+      "title": "TAAG e técnicos de manutenção sem acordo, com greve em perspectiva",
+      "url": "https://diariodosnegocios.com/dn-90845d1141a1be9c6def38b7/",
+      "source": "Diário dos Negócios",
+      "_key": "4e3934a8373a3548",
+      "score": 7,
+      "title_cn": "安哥拉航空与维修技师谈判破裂，罢工或将发生"
     },
     {
       "title": "Desconstruindo: Devem ou não as tarifas da luz e da água continuar a ser subsidiadas?",
-      "url": "https://expansao.co.ao/angola/detalhe/desconstruindo-devem-ou-nao-as-tarifas-da-luz-e-da-agua-continuar-a-ser-subsidiadas-74916.html",
+      "url": "",
       "source": "Expansão",
-      "_key": "1ee6e08927fe0ea8",
-      "score": 8,
+      "_key": "t_ab370efc78ab23",
+      "score": 7,
       "title_cn": "拆解：水电费是否应继续获得补贴？"
     },
     {
-      "title": "Angola launches new ferry link to boost Cabinda trade, passenger transport",
-      "url": "https://www.angop.ao/en/noticias/economia/nova-embarcacao-inicia-rota-luanda-soyo-e-soyo-cabinda/",
-      "source": "ANGOP",
-      "_key": "aa97f2af90576cac",
-      "score": 7,
-      "title_cn": "安哥拉开通新渡轮航线，促进卡宾达贸易与客运"
-    },
-    {
-      "title": "Capacidade eléctrica instalada cresce 3% desde 2022, com solar a ganhar espaço",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_3dd06b930087b9",
-      "score": 7,
-      "title_cn": "自2022年以来，电力装机容量增长3%，太阳能发电占比提升"
-    },
-    {
-      "title": "\"Não basta produzir mais energia. É necessário garantir que ela esteja disponível, seja transportada com segurança e distribuída com eficiência\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_31816b9ffe5cdf",
-      "score": 7,
-      "title_cn": "“仅生产更多能源不足，需确保其可用、安全运输并高效分配”"
-    },
-    {
-      "title": "IGAPE e SNCP definem novas regras para aquisições das empresas públicas",
-      "url": "https://holdonangola.com/igape-e-sncp-definem-novas-regras-para-aquisicoes-das-empresas-publicas/",
-      "source": "Hold On Angola",
-      "_key": "41ed172ec69c2af2",
-      "score": 7,
-      "title_cn": "IGAPE和SNCP为国有企业采购制定新规"
-    },
-    {
-      "title": "Procuravam zona de exploração de ouro: Derrube de árvore mata três pessoas no Quixico",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_0b8ecc3b43ed20",
-      "score": 7,
-      "title_cn": "奎希科（Quixico）伐木致三人死亡，疑与淘金有关"
-    },
-    {
-      "title": "    Sociedade Procuravam zona de exploração de ouro: Derrube de árvore mata três pessoas no Quixico Efectivos do Comando Municipal do Serviço de Protecção Civil e Bombeiros do Muxaluando, na província do Bengo, efectuaram, nesta quinta-feir... ",
-      "url": "https://namiradocrime.info/show/17610",
-      "source": "Na Mira do Crime",
-      "_key": "c12b1de3902545c4",
-      "score": 7,
-      "title_cn": "奎希科（Quixico）伐木致三人死亡，疑与淘金有关"
-    },
-    {
-      "title": "Transporte marítimo",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=58321",
-      "source": "ANGOP",
-      "_key": "c684f339982a520c",
-      "score": 6,
-      "title_cn": "海上运输"
-    },
-    {
-      "title": "Cuanza-Sul calls for local processing and stronger value chains to attract investment",
-      "url": "https://www.angop.ao/en/noticias/economia/governo-do-cuanza-sul-assinala-potencial-da-provincia-para-atrair-investimentos/",
-      "source": "ANGOP",
-      "_key": "8d0cdc001cfaa43b",
-      "score": 6,
-      "title_cn": "宽扎南省呼吁发展本地加工业，强化价值链以吸引投资"
-    },
-    {
-      "title": "Homem finge ser polícia para extorquir cidadãos em Cabinda",
-      "url": "https://correiokianda.info/homem-finge-ser-policia-para-extorquir-cidadaos-em-cabinda/",
-      "source": "Correio Kianda",
-      "_key": "7c3db83798859645",
-      "score": 6,
-      "title_cn": "卡宾达一男子冒充警察勒索市民"
-    },
-    {
-      "title": "Proibição de uso de plásticos avança de forma gradual",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_2f5004ce451f66",
-      "score": 6,
-      "title_cn": "塑料禁令逐步推进"
-    },
-    {
-      "title": "Proibição de uso de plásticos avança de forma gradualA primeira fase do Plano Na cional de Eliminação Progressiva dos Plásticos de Utilização Única (PLANEPP) começou a vigorar oficialmente esta se mana com a proibição de pro dução, importação e comercialização de palhinhas e cotonetes de plástico inferiores a 50 \"micras ou micros\", medida de comprimento equivalente a 0,05 milímetros.",
-      "url": "https://expansao.co.ao/angola/detalhe/proibicao-de-uso-de-plasticos-avanca-de-forma-gradual-74915.html",
-      "source": "Expansão",
-      "_key": "c0dcd87a9c713fa1",
-      "score": 6,
-      "title_cn": "塑料禁令逐步推进"
-    },
-    {
-      "title": "UNITEL regista receitas de 274 mil milhões Kz e 21,2 milhões de clientes no primeiro semestre",
-      "url": "https://holdonangola.com/unitel-regista-receitas-de-274-mil-milhoes-kz-e-212-milhoes-de-clientes-no-primeiro-semestre/",
-      "source": "Hold On Angola",
-      "_key": "c46e534f95ff3605",
-      "score": 6,
-      "title_cn": "UNITEL上半年营收2740亿宽扎，客户达2120万"
-    },
-    {
-      "title": "Angola regista quatro novos casos de Mpox e oito altas médicasAngola registou, nas últimas 24 horas, quatro novos casos de Mpox, sendo dois na província do Moxico, um em Luanda e outro na Lunda-Sul, informou, esta sexta-feira, o Ministério da Saúde (MINSA).",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686136/angola-regista-quatro-novos-casos-de-mpox-e-oito-altas-m%C3%A9dicas",
-      "source": "Jornal de Angola",
-      "_key": "09224dd19100553c",
-      "score": 6,
-      "title_cn": "安哥拉记录了4例新的Mp痘病例和8名高级医务人员在过去24小时内，安哥拉记录了4例新的Mp痘病例，分别发生在莫希科省（Moxico）、罗安达（Luanda）和南隆达（Lenda -Sul），已向卫生部"
-    },
-    {
-      "title": "Economia Executivo apresenta “Investe Turismo” ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686133/executivo-apresenta-%E2%80%9Cinveste-turismo%E2%80%9D-",
-      "source": "Jornal de Angola",
-      "_key": "7139c9d1c13eb6c1",
-      "score": 6,
-      "title_cn": "Economia Executivo presente“Invest Turismo”"
-    },
-    {
-      "title": "Falso efectivo da Polícia detido por agentes do DIIP em Cabinda",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_eca7f48848968c",
-      "score": 6,
-      "title_cn": "卡宾达一假警被DIIP特工逮捕"
-    },
-    {
-      "title": "Autoridades removem 15 morteiros de 60 mm não detonados na montanha do Yumbo",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_f4755b79a08e1f",
-      "score": 6,
-      "title_cn": "当局在云博山移除15枚未爆60毫米迫击炮弹"
-    },
-    {
-      "title": "    Busca e Captura Falso efectivo da Polícia detido por agentes do DIIP em Cabinda A Polícia Nacional em Cabinda, através do Departamento de Investigação de Ilícitos Penais (DIIP), deteve, nesta quinta-feira, 24, um cidadão... ",
-      "url": "https://namiradocrime.info/show/17612",
-      "source": "Na Mira do Crime",
-      "_key": "9aa4ff8a9c48068f",
-      "score": 6,
-      "title_cn": "寻找和逮捕警察在卡宾达的假警察，通过刑事非法调查部门（DIIP），在5月24日，一个城市…"
-    },
-    {
-      "title": "    Sociedade Autoridades removem 15 morteiros de 60 mm não detonados na montanha do Yumbo Efectivos da Polícia Nacional destacados no Comando municipal da Munenga, em coordenação com as Forças Armadas Angolanas (FAA) e o destacam... ",
-      "url": "https://namiradocrime.info/show/17611",
-      "source": "Na Mira do Crime",
-      "_key": "11e296b78905797c",
-      "score": 6,
-      "title_cn": "当局在云博山移除15枚未爆60毫米迫击炮弹"
-    },
-    {
-      "title": "Angola launches global tourism strategy to triple international partners",
-      "url": "https://www.angop.ao/en/noticias/turismo/angola-implementa-estrategia-de-promocao-turistica/",
-      "source": "ANGOP",
-      "_key": "daf8bc909283f7f1",
-      "score": 5,
-      "title_cn": "安哥拉推出全球旅游战略，旨在将国际合作伙伴数量增至三倍"
-    },
-    {
-      "title": "Angolan police launch murder probe after bound body found near DRC border",
-      "url": "https://www.angop.ao/en/noticias/sociedade/homem-encontrado-morto-com-os-membros-superiores-amarrados/",
-      "source": "ANGOP",
-      "_key": "92fd5c3a70ce4eb7",
-      "score": 5,
-      "title_cn": "安哥拉警方在刚果（金）边境附近发现捆绑尸体，展开谋杀调查"
-    },
-    {
-      "title": "Criminalidade",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=55242",
-      "source": "ANGOP",
-      "_key": "aea5ecba075abaf7",
-      "score": 5,
-      "title_cn": "犯罪"
-    },
-    {
-      "title": "Angola entre a seca e o excesso de chuva na época chuvosa 2026/2027",
-      "url": "https://angola24horas.com/sociedade/item/35086-angola-entre-a-seca-e-o-excesso-de-chuva-na-epoca-chuvosa-2026-2027",
-      "source": "Angola 24 Horas",
-      "_key": "ccb0bbd1491fd1e8",
-      "score": 5,
-      "title_cn": "安哥拉2026/2027雨季面临干旱与洪涝双重威胁"
-    },
-    {
-      "title": "Homem encontrado morto com os braços amarrados no Luvo",
-      "url": "https://correiokianda.info/homem-encontrado-morto-com-os-bracos-amarrados-no-luvo/",
-      "source": "Correio Kianda",
-      "_key": "6447310e3bdd1d5a",
-      "score": 5,
-      "title_cn": "卢沃（Luvo）发现一男子被捆绑致死"
-    },
-    {
-      "title": "Destaque Governo e SINPROF retomam hoje negociações sobre declaração de greveO Ministério da Educação e o Sindicato Nacional dos Professores (SINPROF) voltam a reunir-se, na tarde desta sexta-feira, em Luanda, para analisar a negociação dos pontos constantes da declaração de greve.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686098/governo-e-sinprof-retomam-hoje-negocia%C3%A7%C3%B5es-sobre-declara%C3%A7%C3%A3o-de-greve",
-      "source": "Jornal de Angola",
-      "_key": "bbf2f72014f54bd9",
-      "score": 5,
-      "title_cn": "安哥拉政府与教师工会SINPROF恢复罢工谈判"
-    },
-    {
-      "title": "Destaque INAMET prevê chuvas acima do normal em Outubro, Novembro e Dezembro O Instituto Nacional de Meteorologia e Geofísica (INAMET) prevê chuvas acima do normal nos meses de Outubro, Novembro e Dezembro deste ano, nas regiões Norte e Litoral do país, enquanto para as regiões Sul e Sudoeste está prevista precipitação abaixo da média.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686132/inamet-prev%C3%AA-chuvas-acima-do-normal-em-outubro-novembro-e-dezembro-",
-      "source": "Jornal de Angola",
-      "_key": "070cac6b534240e0",
-      "score": 5,
-      "title_cn": "INAMET预测10月至12月降雨量将高于正常水平"
-    },
-    {
-      "title": "Política Executivo reforça medidas para reduzir riscos das chuvas ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686091/executivo-refor%C3%A7a-medidas-para-reduzir-riscos-das-chuvas",
-      "source": "Jornal de Angola",
-      "_key": "ab0988d2699accff",
-      "score": 5,
-      "title_cn": "安哥拉政府加强措施以减少降雨风险"
-    },
-    {
-      "title": "El Niño threatens farming season as INAMET warns of above-average rainfall along the coast",
-      "url": "https://www.negociosdeangola.com/en/el-nino-threatens-farming-season-as-inamet-warns-of-above-average-rainfall-along-the-coast/",
-      "source": "Negócios de Angola",
-      "_key": "39d40835d2de5368",
-      "score": 5,
-      "title_cn": "厄尔尼诺现象威胁农耕季，INAMET警告沿海降雨量将超平均"
-    },
-    {
-      "title": "Professores regressam às salas de aula na segunda-feira",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/professores-regressam-as-salas-de-aula-na-segunda-feira-74922.html",
+      "title": "Cabinda: Agências acusam TAAG de \"transferir culpa\" sem resolver problema e questionam 9.800 lugares que surgiram após exclusão",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cabinda-agencias-acusam-taag-de-transferir-culpa-sem-resolver-problema-e-questionam-9800-lugares-que-surgiram-apos-exclusao-74924.html",
       "source": "Novo Jornal",
-      "_key": "f2d967e7f8f70718",
+      "_key": "5b2e2289146c5ed8",
+      "score": 7,
+      "title_cn": "卡宾达：代理商指责安哥拉航空推卸责任，质疑9800个座位"
+    },
+    {
+      "title": "Clima: Efeitos do Super El Niño, que promete levar secas e inundações históricas aos quatro cantos do mundo, começam a fazer-se sentir em Angola",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/clima-efeitos-do-super-el-nino-que-promete-levar-secas-e-inundacoes-historicas-aos-quatro-cantos-do-mundo-comecam-a-fazer-se-sentir-em-angola-74932.html",
+      "source": "Novo Jornal",
+      "_key": "ccd8c5769925611e",
+      "score": 7,
+      "title_cn": "气候：超级厄尔尼诺现象影响安哥拉，或致历史性旱涝"
+    },
+    {
+      "title": "Greve à vista: TAAG e STMA continuam sem acordo",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/greve-a-vista-taag-e-stma-continuam-sem-acordo-74888.html",
+      "source": "Novo Jornal",
+      "_key": "238fd1aaf093fb39",
+      "score": 7,
+      "title_cn": "罢工在即：安哥拉航空与STMA仍未达成协议"
+    },
+    {
+      "title": "Tchiowa entra em operação e reforça transporte de passageiros e mercadorias para Cabinda",
+      "url": "https://correiokianda.info/tchiowa-entra-em-operacao-e-reforca-transporte-de-passageiros-e-mercadorias-para-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "177e512c25ba2a60",
+      "score": 6,
+      "title_cn": "Tchiowa投入运营，加强卡宾达客货运输"
+    },
+    {
+      "title": "PCA da Sonangol terá visto recusado pelos Estados Unidos",
+      "url": "https://diariodosnegocios.com/dn-f042a0ba9a120d945ed4965e/",
+      "source": "Diário dos Negócios",
+      "_key": "392b73e89ea78261",
+      "score": 6,
+      "title_cn": "安哥拉国家石油公司董事长赴美签证遭拒"
+    },
+    {
+      "title": "Energia chega à rede, mas tarifas e distribuição continuam a travar o sector",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_f18dda1c77bdc8",
+      "score": 6,
+      "title_cn": "电力已并网，但高昂电价和分配问题仍阻碍行业发展"
+    },
+    {
+      "title": "Reforço da oferta eléctrica abre novas oportunidades ao sector privado",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_d994e98e2756dd",
+      "score": 6,
+      "title_cn": "增强电力供应为私营部门带来新机遇"
+    },
+    {
+      "title": "RECREDIT adquire carteira de créditos do BDA avaliada em 266,3 mil milhões Kz",
+      "url": "https://holdonangola.com/recredit-adquire-carteira-de-creditos-do-bda-avaliada-em-2663-mil-milhoes-kz/",
+      "source": "Hold On Angola",
+      "_key": "8af2bf0adbee8f78",
+      "score": 6,
+      "title_cn": "RECREDIT收购BDA价值2663亿宽扎的信贷组合"
+    },
+    {
+      "title": "Médio Oriente: Irão oferece solução para reabrir Ormuz...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-irao-oferece-solucao-para-reabrir-ormuz-e-acabar-com-crise-global-de-energia-mas-eua-desconfiam-de-tanta-bondade-74931.html",
+      "source": "Novo Jornal",
+      "_key": "83203f584ccf006a",
+      "score": 6,
+      "title_cn": "中东：伊朗提议解决霍尔木兹海峡重开问题"
+    },
+    {
+      "title": "Angola moves to align university training with labor market needs",
+      "url": "https://www.angop.ao/en/noticias/educacao/governo-quer-universidades-mais-alinhadas-com-o-mercado-de-trabalho/",
+      "source": "ANGOP",
+      "_key": "b89fce7f5cb6d01b",
       "score": 5,
-      "title_cn": "教师周一重返课堂"
+      "title_cn": "安哥拉调整大学教育，以适应劳动力市场需求"
+    },
+    {
+      "title": "Greves no sector público levam analista a defender órgão permanente de negociação",
+      "url": "https://correiokianda.info/greves-no-sector-publico-levam-analista-a-defender-orgao-permanente-de-negociacao/",
+      "source": "Correio Kianda",
+      "_key": "945e1fee14aea120",
+      "score": 5,
+      "title_cn": "公共部门罢工频发，分析师呼吁设立常设谈判机构"
+    },
+    {
+      "title": "\"Não existe serviço eléctrico sustentável se as receitas não forem capazes de suportar os custos\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_58d81cc30c4c05",
+      "score": 5,
+      "title_cn": "“若收入无法覆盖成本，电力服务便不可持续。”"
+    },
+    {
+      "title": "DIIP-Luanda recolhe indivíduos acusados de simular corrida de táxi e furtar Iphone 12 Pro-Max de uma cliente",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_c363d2760884ff",
+      "score": 5,
+      "title_cn": "罗安达刑事调查局逮捕模拟出租车抢劫iPhone 12 Pro-Max嫌犯"
+    },
+    {
+      "title": "    Busca e Captura DIIP-Luanda recolhe indivíduos acusados de simular corrida de táxi e furtar Iphone 12 Pro-Max de uma cliente Efectivos do Departamento de Investigação de Ilícitos Penais (DIIP), de Luanda, afectos à Secção Municipal de Investigação de Ilícitos Pena... ",
+      "url": "https://namiradocrime.info/show/17613",
+      "source": "Na Mira do Crime",
+      "_key": "00d6845eb856a151",
+      "score": 5,
+      "title_cn": "罗安达刑事调查局逮捕模拟出租车抢劫iPhone 12 Pro-Max嫌犯"
     }
   ]
 }
