@@ -1,133 +1,189 @@
 {
-  "date": "2026-09-26",
-  "total_new": 39,
-  "total_filtered": 18,
+  "date": "2026-09-27",
+  "total_new": 64,
+  "total_filtered": 26,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "    Sociedade Fiscais \"fora da lei\" continuam a perseguir as vendedoras ambulantes Especialista diz que é urgente reforçar a divulgação do decreto que retira poder às administrações municipais para fiscalizar actividades ec... ",
-      "url": "https://namiradocrime.info/show/17616",
+      "title": "\"Camaro\": Líder do grupo que matou Laurindo Vieira em 2024 regressa em Luanda para cometer assaltos violentos - Foi apanhado na Maianga a roubar jóias em ouro e telemóveis com AKM",
+      "url": "",
       "source": "Na Mira do Crime",
-      "_key": "49d195a9064f3b76",
+      "_key": "t_16c9c8d2cdbb74",
       "score": 9
     },
     {
-      "title": "Fiscais \"fora da lei\" continuam a perseguir as vendedoras ambulantes",
+      "title": "    Investigação \"Camaro\": Líder do grupo que matou Laurindo Vieira em 2024 regressa em Luanda para cometer assaltos violentos - Foi apanhado na Maianga a roubar jóias em ouro e telemóveis com AKM O Serviço de Investigação Criminal (SIC), através da Direcção de Combate aos Crimes Contra as Pessoas e Direcção Provincial do SIC Luanda, d... ",
+      "url": "https://namiradocrime.info/show/17620",
+      "source": "Na Mira do Crime",
+      "_key": "aabec2d562f5153c",
+      "score": 9
+    },
+    {
+      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. MED E SINPROF ASSINAM ENTENDIMENTO PARA TRAVAR PARALISAÇÃO NACIONAL. INSEGURANÇA EM LUANDA ATINGE A ELITE POLÍTICA.",
+      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=74937",
+      "source": "Novo Jornal",
+      "_key": "5e54db2f3cdc3114",
+      "score": 9
+    },
+    {
+      "title": "CFB plans to restore 100 passenger carriages by 2027",
+      "url": "https://www.angop.ao/en/noticias/transporte/cfb-preve-recuperar-100-carruagens-ate-2027/",
+      "source": "ANGOP",
+      "_key": "31b55e1a58c0075b",
+      "score": 8
+    },
+    {
+      "title": "IGAPE quer investidores com capital e capacidade de gestão para ZEE e Angola Telecom",
+      "url": "https://correiokianda.info/igape-quer-investidores-com-capital-e-capacidade-de-gestao-para-zee-e-angola-telecom/",
+      "source": "Correio Kianda",
+      "_key": "6791c2631ea63586",
+      "score": 8
+    },
+    {
+      "title": "PONTO & CONTRAPONTO: DEBATE SEMANAL. 1º PREÇO DA FARINHA DE TRIGO DISPARA: O PÃO CUSTA OS OLHOS DA CARA. 2º GREVE À VISTA NA TAAG.",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=74938",
+      "source": "Novo Jornal",
+      "_key": "05e400ddc5053cc8",
+      "score": 8
+    },
+    {
+      "title": "Huambo provincial water systems programme valued at USD 129.3 million",
+      "url": "https://www.angop.ao/en/noticias/economia/sistemas-de-agua-do-huambo-avaliados-em-usd-129-3-milhoes/",
+      "source": "ANGOP",
+      "_key": "20170648ca68878d",
+      "score": 7
+    },
+    {
+      "title": "Angola gasta mais de 300 milhões de dólares por ano na importação de frango",
+      "url": "https://correiokianda.info/angola-gasta-mais-de-300-milhoes-de-dolares-por-ano-na-importacao-de-frango/",
+      "source": "Correio Kianda",
+      "_key": "781da7c9004b3f8e",
+      "score": 7
+    },
+    {
+      "title": "Tribunal Constitucional de Angola lança concurso de 20,6 mil milhões kz para modernizar plataforma ARCA e preparar eleições de 2027",
+      "url": "https://forbesafricalusofona.com/tribunal-constitucional-de-angola-lanca-concurso-de-206-mil-milhoes-kz-para-modernizar-plataforma-arca-e-preparar-eleicoes-de-2027/",
+      "source": "Forbes África",
+      "_key": "4c8c6e7f3333ef37",
+      "score": 7
+    },
+    {
+      "title": "Angola reforça capacidade de projecção macroeconómica com assistência técnica do FMI",
+      "url": "https://forbesafricalusofona.com/angola-reforca-capacidade-de-projeccao-macroeconomica-com-assistencia-tecnica-do-fmi/",
+      "source": "Forbes África",
+      "_key": "e6097724f8fdb71f",
+      "score": 7
+    },
+    {
+      "title": "President João Lourenço returns to country after participating in UN General Assembly",
+      "url": "https://www.angop.ao/en/noticias/politica/pr-regressa-ao-pais-apos-participacao-na-assembleia-geral-da-onu/",
+      "source": "ANGOP",
+      "_key": "4ec1a063d8dbdb48",
+      "score": 6
+    },
+    {
+      "title": "Conecta magazine highlights Angolan President’s role in digital transformation",
+      "url": "https://www.angop.ao/en/noticias/politica/revista-conecta-destaca-papel-do-pr-na-transformacao-digital/",
+      "source": "ANGOP",
+      "_key": "c7b21780af76deeb",
+      "score": 6
+    },
+    {
+      "title": "Angola targets tourism overhaul to drive regional prosperity",
+      "url": "https://www.angop.ao/en/noticias/economia/transformacao-de-activos-turisticos-em-valor-economico-entre-os-desafios-de-angola/",
+      "source": "ANGOP",
+      "_key": "48edd311ac70691f",
+      "score": 6
+    },
+    {
+      "title": "João Lourenço regressa a Luanda após missão diplomática em Nova Iorque",
+      "url": "https://correiokianda.info/joao-lourenco-regressa-a-luanda-apos-missao-diplomatica-em-nova-iorque/",
+      "source": "Correio Kianda",
+      "_key": "09ef16a8f12452c8",
+      "score": 6
+    },
+    {
+      "title": "Jovem procurado há mais de dois anos é detido por assalto que matou antigo reitor da Universidade Gregório Semedo",
+      "url": "https://correiokianda.info/homem-procurado-ha-mais-de-dois-anos-e-detido-por-suspeita-de-assalto-que-matou-antigo-reitor-da-universidade-gregorio-semedo/",
+      "source": "Correio Kianda",
+      "_key": "364c611cacf16568",
+      "score": 6
+    },
+    {
+      "title": "Paralisação dos oficiais de justiça continua e sindicato mantém abertura ao diálogo",
+      "url": "https://correiokianda.info/paralisacao-dos-oficiais-de-justica-continua-e-sindicato-mantem-abertura-ao-dialogo/",
+      "source": "Correio Kianda",
+      "_key": "6d84a5b812d5894f",
+      "score": 6
+    },
+    {
+      "title": "Última hora Presidente da República regressa ao país após participação na Assembleia Geral da ONU",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686198/presidente-da-rep%C3%BAblica-regressa-ao-pa%C3%ADs-ap%C3%B3s-participa%C3%A7%C3%A3o-na-assembleia-geral-da-onu",
+      "source": "Jornal de Angola",
+      "_key": "665ee284ee2128b2",
+      "score": 6
+    },
+    {
+      "title": "UTSER no Cuanza-Sul aplica 149 multas e apreende 48 veículos nas estradas nacionais 100 e 120 nos último quatro dias",
       "url": "",
       "source": "Na Mira do Crime",
-      "_key": "t_56569c00b754a8",
-      "score": 8
+      "_key": "t_10df05309727a2",
+      "score": 6
     },
     {
-      "title": "Médio Oriente: Proposta do Irão para reabrir Ormuz...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-proposta-do-irao-para-reabrir-ormuz-em-sete-dias-foi-rejeitada-por-trump-74936.html",
+      "title": "    Sociedade UTSER no Cuanza-Sul aplica 149 multas e apreende 48 veículos nas estradas nacionais 100 e 120 nos último quatro dias A Unidade de Trânsito e Segurança Rodoviária (UTSER) do Comando provincial do Cuanza-Sul, intensificou, de 22 a 26 de Setembro, as acções de... ",
+      "url": "https://namiradocrime.info/show/17618",
+      "source": "Na Mira do Crime",
+      "_key": "3b3a79d655ab793d",
+      "score": 6
+    },
+    {
+      "title": "Angola presents culture and tourism potential in Brussels",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-apresenta-cultura-e-potencial-turistico-em-bruxelas/",
+      "source": "ANGOP",
+      "_key": "8b7c17c6b60b169c",
+      "score": 5
+    },
+    {
+      "title": "Angolan teachers suspend strike as government agrees to salary adjustments",
+      "url": "https://www.angop.ao/en/noticias/educacao/aulas-no-ensino-geral-retomam-segunda-feira-em-angola/",
+      "source": "ANGOP",
+      "_key": "1a52689641703c42",
+      "score": 5
+    },
+    {
+      "title": "Alunos regressam às aulas esta segunda-feira após suspensão da greve",
+      "url": "https://correiokianda.info/alunos-regressam-as-aulas-esta-segunda-feira-apos-suspensao-da-greve/",
+      "source": "Correio Kianda",
+      "_key": "e57758ae8a8fc9be",
+      "score": 5
+    },
+    {
+      "title": "Ministra da Educação garante cumprimento do acordo para regularizar situação dos professores",
+      "url": "https://correiokianda.info/ministra-da-educacao-garante-cumprimento-do-acordo-para-regularizar-situacao-dos-professores/",
+      "source": "Correio Kianda",
+      "_key": "5b9b23a7ff9adc8d",
+      "score": 5
+    },
+    {
+      "title": "Juristas defendem respeito ao direito à greve e diálogo na Administração Pública",
+      "url": "https://correiokianda.info/juristas-defendem-respeito-ao-direito-a-greve-e-dialogo-na-administracao-publica/",
+      "source": "Correio Kianda",
+      "_key": "01b60db783dd6c0e",
+      "score": 5
+    },
+    {
+      "title": "Última hora Angola promove potencial turístico e económico na Tourism Expo Japan",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686217/angola-promove-potencial-tur%C3%ADstico-e-econ%C3%B3mico-na-tourism-expo-japan",
+      "source": "Jornal de Angola",
+      "_key": "4ce47071de2e8da2",
+      "score": 5
+    },
+    {
+      "title": "Linha de crédito da Alemanha ainda desafia empresas...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/linha-de-credito-da-alemanha-ainda-desafia-empresas-angolanas-74908.html",
       "source": "Novo Jornal",
-      "_key": "9d343fbc94fa6b93",
-      "score": 8
-    },
-    {
-      "title": "Trabalhadores das Águas de Benguela suspendem greve após acordo com a empresa",
-      "url": "https://correiokianda.info/trabalhadores-das-aguas-de-benguela-suspendem-greve-apos-acordo-com-a-empresa/",
-      "source": "Correio Kianda",
-      "_key": "a044b26e7ac330e1",
-      "score": 7
-    },
-    {
-      "title": "Economia Prodesi desembolsa até Junho 70,1 mil milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686143/prodesi-desembolsa-at%C3%A9-junho-701-mil-milh%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "a4c01f7738d86ce2",
-      "score": 7
-    },
-    {
-      "title": "Sociedade Trabalhadores da Saúde destacados no combate à cólera e Mpox ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686138/trabalhadores-da-sa%C3%BAde-destacados-no-combate-%C3%A0-c%C3%B3lera-e-mpox",
-      "source": "Jornal de Angola",
-      "_key": "b50aece6845909ba",
-      "score": 7
-    },
-    {
-      "title": "Cooperação no combate à criminalidade transnacional",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/686148/coopera%C3%A7%C3%A3o-no-combate-%C3%A0-criminalidade-transnacional",
-      "source": "Jornal de Angola",
-      "_key": "d94d92b569422043",
-      "score": 7
-    },
-    {
-      "title": "Angolan health minister pledges workforce support amid outbreak response",
-      "url": "https://www.angop.ao/en/noticias/saude/ministra-reafirma-compromisso-em-valorizar-os-profissionais-da-saude/",
-      "source": "ANGOP",
-      "_key": "15a9bb9e57af4a45",
-      "score": 6
-    },
-    {
-      "title": "Técnicos de manutenção pressionam TAAG por aumento de 100% dos salários",
-      "url": "https://correiokianda.info/tecnicos-de-manutencao-pressionam-taag-por-aumento-de-100-dos-salarios/",
-      "source": "Correio Kianda",
-      "_key": "4fd80fb18b9628fb",
-      "score": 6
-    },
-    {
-      "title": "“África precisa de investimentos que lhe permitam desenvolver cadeias de valor locais” – vice-presidente da Guiné Equatoriall",
-      "url": "https://forbesafricalusofona.com/africa-precisa-de-investimentos-que-lhe-permitam-desenvolver-cadeias-de-valor-locais-vice-presidente-da-guine-equatoriall/",
-      "source": "Forbes África",
-      "_key": "8bb47411a1ef68aa",
-      "score": 6
-    },
-    {
-      "title": "Destaque TAAG propõe aumento salarial de 20 por cento aos técnicos de manutenção de aeronaves A TAAG propôs, sexta-feira, um aumento salarial de 20% aos técnicos de manutenção de aeronaves, em resposta à reivindicação de um reajuste de 100% apresentada pelo Sindicato dos Técnicos de Manutenção de Aeronaves (STMA).",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686159/taag-prop%C3%B5e-aumento-salarial-de-20-por-cento-aos-t%C3%A9cnicos-de-manuten%C3%A7%C3%A3o-de-aeronaves-",
-      "source": "Jornal de Angola",
-      "_key": "d97eb38364c039d2",
-      "score": 6
-    },
-    {
-      "title": "Sociedade Angola reforça preparação para futuras pandemias ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686139/angola-refor%C3%A7a-prepara%C3%A7%C3%A3o-para-futuras-pandemias",
-      "source": "Jornal de Angola",
-      "_key": "90c3bc68a3612cc4",
-      "score": 6
-    },
-    {
-      "title": "Angola calls for strengthened multilateralism",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-apela-ao-reforco-do-multilateralismo/",
-      "source": "ANGOP",
-      "_key": "fbec75da8424153c",
-      "score": 5
-    },
-    {
-      "title": "Angola urges global unity on pandemic preparedness at UN meeting",
-      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-compromisso-com-prevencao-a-pandemias/",
-      "source": "ANGOP",
-      "_key": "83546a0639994935",
-      "score": 5
-    },
-    {
-      "title": "Angola defende sistema multilateral mais inclusivoO Governo angolano defendeu sexta-feira, em Nova Iorque, o reforço de um sistema multilateral mais inclusivo, representativo e eficaz, capaz de responder, de forma concreta, às prioridades e aspirações dos países em de- senvolvimento.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686140/angola-defende-sistema-multilateral-mais-inclusivo",
-      "source": "Jornal de Angola",
-      "_key": "fcf542352df8197a",
-      "score": 5
-    },
-    {
-      "title": "Destaque Angola vai ter Observatório da Empregabilidade dos DiplomadosAngola vai dispor, pela primeira vez, de um observatório da empregabilidade dos diplomados, uma estrutura destinada a acompanhar de forma permanente a integração dos formados e graduados no mercado de trabalho.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686137/angola-vai-ter-observat%C3%B3rio-da-empregabilidade-dos-diplomados",
-      "source": "Jornal de Angola",
-      "_key": "6bbcb1c5e6cff095",
-      "score": 5
-    },
-    {
-      "title": "Mundo EUA e China pretendem criar \"canal de comunicação\" para incidentes com IA ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/686171/eua-e-china-pretendem-criar-%22canal-de-comunica%C3%A7%C3%A3o%22-para-incidentes-com-ia",
-      "source": "Jornal de Angola",
-      "_key": "e38a24cfc5b01ec1",
-      "score": 5
-    },
-    {
-      "title": "Sociedade Aulas no Ensino Geral são retomadas na segunda-feira ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686167/aulas-no-ensino-geral-s%C3%A3o-retomadas-na-segunda-feira",
-      "source": "Jornal de Angola",
-      "_key": "31b45d48593e36c0",
+      "_key": "f396642f59837a83",
       "score": 5
     }
   ]
