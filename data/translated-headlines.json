@@ -1,64 +1,360 @@
 {
-  "date": "2026-09-27",
-  "total_new": 32,
-  "total_filtered": 7,
+  "date": "2026-09-28",
+  "total_new": 120,
+  "total_filtered": 44,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Moody’s altera perspectiva de Angola para positiva e mantém rating em B3",
-      "url": "https://correiokianda.info/moodys-altera-perspectiva-de-angola-para-positiva-e-mantem-rating-em-b3/",
+      "title": "AGT aplica taxa de 2% de “rendimentos presumidos” a todos os despachantes oficiais",
+      "url": "https://angola24horas.com/sociedade/item/35091-agt-aplica-taxa-de-2-de-rendimentos-presumidos-a-todos-os-despachantes-oficiais",
+      "source": "Angola 24 Horas",
+      "_key": "e77244ea339cad38",
+      "score": 9,
+      "title_cn": "安哥拉税务总局对所有官方报关员征收2%“推定收入”税"
+    },
+    {
+      "title": "        Sociedade7 dias atrás  Fiscalização às empresas começa em todo o país com apoio do SIC, SME, AGT e INSS    ",
+      "url": "https://correiokianda.info/fiscalizacao-as-empresas-comeca-em-todo-o-pais-com-apoio-do-sic-sme-agt-e-inss/",
       "source": "Correio Kianda",
-      "_key": "6fb402a0278ba59a",
+      "_key": "fc93ab970aad3db0",
+      "score": 9,
+      "title_cn": "安哥拉全国企业检查启动，获SIC、SME、AGT、INSS支持"
+    },
+    {
+      "title": "Angola Hub destaca papel do Corredor do Lobito na Zona de Comércio Livre Africana",
+      "url": "https://forbesafricalusofona.com/angola-hub-destaca-papel-do-corredor-do-lobito-na-zona-de-comercio-livre-africana/",
+      "source": "Forbes África",
+      "_key": "abb505e45000469d",
+      "score": 9,
+      "title_cn": "安哥拉枢纽强调洛比托走廊在非洲自贸区的作用"
+    },
+    {
+      "title": "Corredor do Lobito assume papel estratégico na integração económica africana",
+      "url": "https://forbesafricalusofona.com/corredor-do-lobito-assume-papel-estrategico-na-integracao-economica-africana/",
+      "source": "Forbes África",
+      "_key": "0a4988c64164618d",
+      "score": 9,
+      "title_cn": "洛比托走廊在非洲经济一体化中发挥战略作用"
+    },
+    {
+      "title": "Petróleo da África Ocidental ganha nova referência de preços com...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-da-africa-ocidental-ganha-nova-referencia-de-precos-com-primeira-transaccao-na-plataforma-argus",
+      "source": "Valor Económico",
+      "_key": "2ba5e578b136dc99",
+      "score": 9,
+      "title_cn": "西非石油获得新的价格参考基准"
+    },
+    {
+      "title": "Ministério dos Transportes de Angola prepara concessão do Corredor Norte com apoio da IFC",
+      "url": "https://forbesafricalusofona.com/ministerio-dos-transportes-de-angola-prepara-concessao-do-corredor-norte-com-apoio-da-ifc/",
+      "source": "Forbes África",
+      "_key": "3e3d2690f11a0fb2",
+      "score": 8,
+      "title_cn": "安哥拉交通部在IFC支持下筹备北方走廊特许经营"
+    },
+    {
+      "title": "Governo angolano defende transformação dos corredores logísticos em motores de produção e desenvolvimento regional",
+      "url": "https://forbesafricalusofona.com/governo-angolano-defende-transformacao-dos-corredores-logisticos-em-motores-de-producao-e-desenvolvimento-regional/",
+      "source": "Forbes África",
+      "_key": "a30907adb600467f",
+      "score": 8,
+      "title_cn": "安哥拉政府倡导将物流走廊转变为生产和区域发展引擎"
+    },
+    {
+      "title": "Moody’s melhora perspectiva de Angola para “positiva”, mas mantém rating em B3",
+      "url": "https://forbesafricalusofona.com/moodys-melhora-perspectiva-de-angola-para-positiva-mas-mantem-rating-em-b3/",
+      "source": "Forbes África",
+      "_key": "77dda42c92cf3506",
       "score": 8,
       "title_cn": "穆迪上调安哥拉展望至“积极”，维持B3评级"
     },
     {
-      "title": "Economia Moody’s altera perspectiva de classificação para positiva ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686175/moody%E2%80%99s-altera-perspectiva-de-classifica%C3%A7%C3%A3o-para-positiva",
-      "source": "Jornal de Angola",
-      "_key": "bc938546985c20c6",
+      "title": "EUA e China reduzem tarifas sobre 30 mil milhões de...",
+      "url": "https://valoreconomico.co.ao/artigo/eua-e-china-reduzem-tarifas-sobre-30-mil-milhoes-de-dolares-em-mercadorias",
+      "source": "Valor Económico",
+      "_key": "58388f5724b5f72d",
       "score": 8,
-      "title_cn": "穆迪上调评级展望至“积极”"
+      "title_cn": "美中两国削减300亿美元关税"
     },
     {
-      "title": "Rotura na conduta obriga EPAL a suspender temporariamente abastecimento",
-      "url": "https://correiokianda.info/rotura-na-conduta-obriga-epal-a-suspender-temporariamente-abastecimento/",
+      "title": "Angola inflation rate records 8.86% increase in August",
+      "url": "https://www.angop.ao/en/noticias/economia/inflacao-regista-variacao-de-8-86-em-agosto/",
+      "source": "ANGOP",
+      "_key": "233e586186095e31",
+      "score": 7,
+      "title_cn": "安哥拉8月通胀率上升8.86%"
+    },
+    {
+      "title": "Inflation",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4542",
+      "source": "ANGOP",
+      "_key": "a417e3f60637571a",
+      "score": 7,
+      "title_cn": "通货膨胀"
+    },
+    {
+      "title": "Angola plans phased introduction of 1,000 electric buses",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-preve-introducao-faseada-de-mil-autocarros-electricos/",
+      "source": "ANGOP",
+      "_key": "5504d7cb066b4f57",
+      "score": 7,
+      "title_cn": "安哥拉计划分阶段引进1000辆电动公交车"
+    },
+    {
+      "title": "Executivo prevê reforçar transporte público com autocarros eléctricos",
+      "url": "https://correiokianda.info/executivo-preve-reforcar-transporte-publico-com-autocarros-electricos/",
       "source": "Correio Kianda",
-      "_key": "8d5ba2ce5f36f040",
-      "score": 6,
-      "title_cn": "管道破裂迫使安哥拉供水公司（EPAL）暂停供水"
+      "_key": "0119ccc491c2ba68",
+      "score": 7,
+      "title_cn": "安哥拉政府计划用电动公交车加强公共交通"
     },
     {
-      "title": "Política Angola e EUA perspectivam reforço da cooperação bilateral ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686186/angola-e-eua-perspectivam-refor%C3%A7o-da-coopera%C3%A7%C3%A3o-bilateral-",
-      "source": "Jornal de Angola",
-      "_key": "003da888acf8a999",
-      "score": 6,
-      "title_cn": "安哥拉与美国展望加强双边合作"
+      "title": "Lucro agregado das seis cotadas cai 14% para 335,9 mil milhões Kz no I semestre",
+      "url": "https://expansao.co.ao/empresas/detalhe/lucro-agregado-das-seis-cotadas-cai-14-para-3359-mil-milhoes-kz-no-i-semestre-74944.html",
+      "source": "Expansão",
+      "_key": "abdcd4a23fd28c1b",
+      "score": 7,
+      "title_cn": "上半年六家上市公司总利润下降14%至3359亿宽扎"
     },
     {
-      "title": "Expo Cabinda 2026: 25 startups confirmed",
-      "url": "https://www.angop.ao/en/noticias/economia/vinte-e-cinco-startup-confirmadas-na-expo-cabinda-2026/",
+      "title": "\"Há resistência da AGT em trabalhar connosco, porque vamos descobrir muita coisa do lado de lá\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_4dda5985cfd777",
+      "score": 7,
+      "title_cn": "“安哥拉税务总局不愿合作，因为我们会发现很多问题。”"
+    },
+    {
+      "title": "\"Não basta produzir mais energia. É necessário garantir que ela esteja disponível, seja transportada com segurança e distribuída com eficiência\"O secretário de Estado para a Energia, Arlindo Carlos, defendeu hoje, durante o IV Fórum Energia e Ambiente do Expansão, que o aumento da produção de electricidade deve ser acompanhado por melhorias na disponibilidade, transporte e distribuição, de forma a garantir maior qualidade e sustentabilidade no fornecimento. Assista à intervenção completa em víde",
+      "url": "https://expansao.co.ao/multimedia/detalhe/nao-basta-produzir-mais-energia-e-necessario-garantir-que-ela-esteja-disponivel-seja-transportada-com-seguranca-e-distribuida-com-eficiencia-74970.html",
+      "source": "Expansão",
+      "_key": "fde951b3dd98005b",
+      "score": 7,
+      "title_cn": "能源国务秘书阿林多·卡洛斯（Arlindo Carlos）：能源需安全高效运输分配"
+    },
+    {
+      "title": "\"Há resistência da AGT em trabalhar connosco, porque vamos descobrir muita coisa do lado de lá\"Os contabilistas que \"saltam\" da faculdade para a autoridade tributária \"não contam\" na hora de instituir normas para pagar impostos. Quem o diz é Cristina Silvestre. Falta-lhes a prática do dia-a-dia, razão de muitos erros no sistema da AGT. É que quem paga o desfasamento entre teoria e prática são as empresas e contabilistas.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/ha-resistencia-da-agt-em-trabalhar-connosco-porque-vamos-descobrir-muita-coisa-do-lado-de-la-74969.html",
+      "source": "Expansão",
+      "_key": "e71a17a98dcf454f",
+      "score": 7,
+      "title_cn": "“安哥拉税务总局不愿合作，因为我们会发现很多问题。”"
+    },
+    {
+      "title": "Angola prevê introduzir 1.000 autocarros eléctricos na primeira fase do Ondjila Green",
+      "url": "https://forbesafricalusofona.com/angola-preve-introduzir-1-000-autocarros-electricos-na-primeira-fase-do-ondjila-green/",
+      "source": "Forbes África",
+      "_key": "0f33dc54670655f0",
+      "score": 7,
+      "title_cn": "安哥拉计划在“Ondjila Green”项目首期引进1000辆电动公交车"
+    },
+    {
+      "title": "Investe Turismo: Angola prepara 700 milhões de dólares em infra-estruturas para atrair investimento privado",
+      "url": "https://forbesafricalusofona.com/investe-turismo-angola-prepara-700-milhoes-de-dolares-em-infra-estruturas-para-atrair-investimento-privado/",
+      "source": "Forbes África",
+      "_key": "490d2260f45477d6",
+      "score": 7,
+      "title_cn": "安哥拉投资旅游业：斥资7亿美元基建吸引私人投资"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: JÁ HÁ MOVIMENTAÇÕES. AGT de olho no dinheiro da Segurança Social.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=74979",
+      "source": "Novo Jornal",
+      "_key": "64281b2c5acb0091",
+      "score": 7,
+      "title_cn": "实时报道：安哥拉税务总局关注社保资金动向"
+    },
+    {
+      "title": "Governo autoriza TAAG a arrendar sete aeronaves Airbus A220-300",
+      "url": "https://valoreconomico.co.ao/artigo/governo-autoriza-taag-a-arrendar-sete-aeronaves-airbus-a220-300",
+      "source": "Valor Económico",
+      "_key": "87802f27f8a681e5",
+      "score": 7,
+      "title_cn": "安哥拉政府授权TAAG租赁七架空客A220-300飞机"
+    },
+    {
+      "title": "ARSEG põe em consulta pública seguro obrigatório para agências de...",
+      "url": "https://valoreconomico.co.ao/artigo/arseg-poe-em-consulta-publica-seguro-obrigatorio-para-agencias-de-viagens",
+      "source": "Valor Económico",
+      "_key": "bc3e12c704302153",
+      "score": 7,
+      "title_cn": "安哥拉保险监管局就机构强制保险征求公众意见"
+    },
+    {
+      "title": "Angolan capital market open to non-resident investors",
+      "url": "https://www.angop.ao/en/noticias/economia/mercado-de-capitais-angolano-aberto-a-investidores-nao-residentes/",
       "source": "ANGOP",
-      "_key": "5fca559a1fd5b0cf",
-      "score": 5,
-      "title_cn": "2026年卡宾达博览会：25家初创企业确认参展"
+      "_key": "f188a947de19c34b",
+      "score": 6,
+      "title_cn": "安哥拉资本市场向非居民投资者开放"
     },
     {
-      "title": "Police detain seven citizens for alleged felony",
-      "url": "https://www.angop.ao/en/noticias/sociedade/sete-detidos-no-cuanza-norte-por-suspeita-de-homicidio/",
+      "title": "Angola highlights transport as a driver of Africa’s economic transformation",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-destaca-transportes-como-motor-da-transformacao-economica-africana/",
       "source": "ANGOP",
-      "_key": "69daab60bd3096c1",
-      "score": 5,
-      "title_cn": "警方拘捕七名涉嫌重罪公民"
+      "_key": "986f54a1947bc95a",
+      "score": 6,
+      "title_cn": "安哥拉强调交通运输是非洲经济转型的驱动力"
     },
     {
-      "title": "Destaque Detido principal acusado de matar o sociólogo Laurindo Vieira O Serviço de Investigação Criminal (SIC) deteve, na última terça-feira, 22, em Luanda, Ivandro Mavando, de 35 anos, conhecido por “Ivan” ou “Camaro”, apontado como o principal autor do assalto que vitimou o então reitor da Universidade Gregório Semedo, Laurindo Vieira",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686227/detido-principal-acusado-de-matar-o-soci%C3%B3logo--laurindo-vieira-",
-      "source": "Jornal de Angola",
-      "_key": "e6c78f9e51e66452",
+      "title": "Regional economic integration among the highlights of the transport summit",
+      "url": "https://www.angop.ao/en/noticias/economia/integracao-economica-regional-entre-os-destaques-da-cimeira-sobre-transporte/",
+      "source": "ANGOP",
+      "_key": "214535978a8ff335",
+      "score": 6,
+      "title_cn": "区域经济一体化是交通峰会亮点之一"
+    },
+    {
+      "title": "Mercado de Capitais",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=55194",
+      "source": "ANGOP",
+      "_key": "2c50589563ecb9de",
+      "score": 6,
+      "title_cn": "资本市场"
+    },
+    {
+      "title": "Waco-kungo connected to central power grid for first time",
+      "url": "https://www.angop.ao/en/noticias/sociedade/wako-kungo-beneficia-de-tres-postos-de-transformacao-de-electricidade/",
+      "source": "ANGOP",
+      "_key": "9ea760d69664de64",
+      "score": 6,
+      "title_cn": "瓦科昆戈首次接入中央电网"
+    },
+    {
+      "title": "ASAFG calls for use of climate-resilient materials for roads",
+      "url": "https://www.angop.ao/en/noticias/economia/grupo-focal-da-africa-advoga-uso-de-materiais-adequados-na-construcao-de-estradas/",
+      "source": "ANGOP",
+      "_key": "969ddc717a8928ad",
+      "score": 6,
+      "title_cn": "安哥拉公路养护协会呼吁道路使用抗气候材料"
+    },
+    {
+      "title": "Mussende pede soluções para melhorar fornecimento de energia eléctrica",
+      "url": "https://correiokianda.info/mussende-pede-solucoes-para-melhorar-fornecimento-de-energia-electrica/",
+      "source": "Correio Kianda",
+      "_key": "af09c0b1d43ffc01",
+      "score": 6,
+      "title_cn": "穆森德（Mussende）呼吁改善电力供应"
+    },
+    {
+      "title": "Venda de imóveis em projecto dispara, mas mercado desconfia",
+      "url": "https://expansao.co.ao/angola/detalhe/venda-de-imoveis-em-projecto-dispara-mas-mercado-desconfia-74947.html",
+      "source": "Expansão",
+      "_key": "629e82f1f5cf820b",
+      "score": 6,
+      "title_cn": "项目房产销售飙升，但市场存疑"
+    },
+    {
+      "title": "Petróleo: Trump disse \"não\" a proposta do Irão para...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-trump-disse-nao-a-proposta-do-irao-para-reabrir-ormuz-e-74954.html",
+      "source": "Novo Jornal",
+      "_key": "9f99a6994ba94b94",
+      "score": 6,
+      "title_cn": "石油：特朗普拒绝伊朗提议"
+    },
+    {
+      "title": "Empresa com capital de 100 mil kwanzas fica com contrato...",
+      "url": "https://valoreconomico.co.ao/artigo/empresa-com-capital-de-100-mil-kwanzas-fica-com-contrato-de-18-milhoes-na-saude",
+      "source": "Valor Económico",
+      "_key": "017fab07716164b4",
+      "score": 6,
+      "title_cn": "注册资本10万宽扎的公司获得合同"
+    },
+    {
+      "title": "Angola reaffirms commitment to peace and reconciliation",
+      "url": "https://www.angop.ao/en/noticias/politica/angola-reafirma-compromisso-com-a-paz-e-reconciliacao/",
+      "source": "ANGOP",
+      "_key": "f4819b28cc1e17e9",
       "score": 5,
-      "title_cn": "杀害社会学家劳林多·维埃拉（Laurindo Vieira）主犯在罗安达被捕"
+      "title_cn": "安哥拉重申致力于和平与和解"
+    },
+    {
+      "title": "FACRA plans to expand business investment in Huambo",
+      "url": "https://www.angop.ao/en/noticias/economia/facra-preve-ampliar-investimento-empresarial-no-huambo/",
+      "source": "ANGOP",
+      "_key": "1e78b9091f104850",
+      "score": 5,
+      "title_cn": "安哥拉风险资本基金计划扩大在万博的商业投资"
+    },
+    {
+      "title": "Consumo de carne de macaco antecede primeiro caso de Mpox no Zaire",
+      "url": "https://correiokianda.info/consumo-de-carne-de-macaco-antecede-primeiro-caso-de-mpox-no-zaire/",
+      "source": "Correio Kianda",
+      "_key": "b5d9d2500cef0cf0",
+      "score": 5,
+      "title_cn": "扎伊尔（Zaire）首例猴痘病例前有猴肉消费史"
+    },
+    {
+      "title": "Mais de 500 efectivos da Polícia provenientes das FAA e integrados no 21.º Curso de Transição estão há mais de um ano sem salários",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_02a713dc936d23",
+      "score": 5,
+      "title_cn": "逾500名安哥拉武装部队转岗警察逾一年未领薪"
+    },
+    {
+      "title": "SIC em Malanje apreende mais de dez toneladas de carvão e detém 14 cidadãos implicados em crimes ambientais",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_55d27dbd9d6de9",
+      "score": 5,
+      "title_cn": "马兰热SIC查获逾十吨木炭，逮捕14名涉环境犯罪公民"
+    },
+    {
+      "title": "Procura-se \"Mano D\" - líder de grupo de bandidos que assaltaram um colégio e duas residências em Viana",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_4531fe2cd94f1f",
+      "score": 5,
+      "title_cn": "维亚纳（Viana）抢劫学校和住宅团伙头目“马诺·D”被通缉"
+    },
+    {
+      "title": "    Sociedade Mais de 500 efectivos da Polícia provenientes das FAA e integrados no 21.º Curso de Transição estão há mais de um ano sem salários Um grupo de efectivos da Polícia Nacional, volta a denunciar o alegado atraso no pagamento dos seus salários, situação que afecta mais de 50... ",
+      "url": "https://namiradocrime.info/show/17627",
+      "source": "Na Mira do Crime",
+      "_key": "d72c7fad7a116a65",
+      "score": 5,
+      "title_cn": "逾500名安哥拉武装部队转岗警察逾一年未领薪"
+    },
+    {
+      "title": "    Sociedade SIC em Malanje apreende mais de dez toneladas de carvão e detém 14 cidadãos implicados em crimes ambientais O Serviço de Investigação Criminal (SIC) apreendeu mais de 10 toneladas de carvão vegetal e deteve 14 cidadãos, dos quais três de nacionalid... ",
+      "url": "https://namiradocrime.info/show/17626",
+      "source": "Na Mira do Crime",
+      "_key": "4b7f6308457a1fcc",
+      "score": 5,
+      "title_cn": "马兰热SIC查获逾十吨木炭，逮捕14名涉环境犯罪公民"
+    },
+    {
+      "title": "    Assalto Procura-se \"Mano D\" - líder de grupo de bandidos que assaltaram um colégio e duas residências em Viana Um cidadão nacional identificado por Danilson Mufuidi \"Mano D\", residente no bairro da Estalagem, zona do Campo Polivalente, município de V... ",
+      "url": "https://namiradocrime.info/show/17624",
+      "source": "Na Mira do Crime",
+      "_key": "b750ef77d5bc9821",
+      "score": 5,
+      "title_cn": "维亚纳（Viana）抢劫学校和住宅团伙头目“马诺·D”被通缉"
+    },
+    {
+      "title": "SIC apreende mais de 10 toneladas de carvão e detém...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-apreende-mais-de-10-toneladas-de-carvao-e-detem-14-cidadaos-estrangeiros-e-nacionais-74972.html",
+      "source": "Novo Jornal",
+      "_key": "89a3162543cec43d",
+      "score": 5,
+      "title_cn": "刑事调查局查获逾10吨木炭并逮捕涉案人员"
+    },
+    {
+      "title": "Líder do grupo que matou Laurindo Vieira andava solto...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/lider-do-grupo-que-matou-laurindo-vieira-andava-solto-em-luanda-ate-ser-apanhado-em-assalto-enquanto-os-seus-comparsas-ja-cumprem-dois-anos-de-cadeia-74960.html",
+      "source": "Novo Jornal",
+      "_key": "078a14d6eb94e16c",
+      "score": 5,
+      "title_cn": "杀害劳林多·维埃拉（Laurindo Vieira）团伙头目曾逍遥法外"
+    },
+    {
+      "title": "Após uma semana de greve dos professores, aulas no ensino geral regressam hoje em todo o País",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/apos-uma-semana-de-greve-dos-professores-aulas-no-ensino-geral-regressam-hoje-em-todo-o-pais-74953.html",
+      "source": "Novo Jornal",
+      "_key": "616194859e2425c9",
+      "score": 5,
+      "title_cn": "教师罢工一周后，全国普通教育课程今日复课"
     }
   ]
 }
