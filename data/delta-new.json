@@ -1,434 +1,104 @@
 {
   "date": "2026-10-03",
-  "total_extracted": 1073,
-  "total_new": 71,
-  "total_existing": 1002,
+  "total_extracted": 1065,
+  "total_new": 16,
+  "total_existing": 1049,
   "articles": [
     {
-      "title": "President João Lourenço attends Alamein Africa-GO63 Forum",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-joao-lourenco-participa-no-forum-alamein-africa-go63/",
+      "title": "At least 215 athletes compete in Unified Provincial Gymnastics Championship",
+      "url": "https://www.angop.ao/en/noticias/desporto/duzentos-e-15-atletas-disputam-provincial-unificado-de-ginastica/",
       "source": "ANGOP",
-      "_key": "16b5a7550e9e0230"
+      "_key": "a31d16fec623145c"
     },
     {
-      "title": "Government wants universities to serve development",
-      "url": "https://www.angop.ao/en/noticias/educacao/governo-quer-universidades-ao-servico-do-desenvolvimento/",
+      "title": "Football: national team call-up postponed forTuesday",
+      "url": "https://www.angop.ao/en/noticias/desporto/futebol-convocatoria-da-seleccao-nacional-adiada-para-terca-feira/",
       "source": "ANGOP",
-      "_key": "c4b9e69c0f87f193"
+      "_key": "298a8da1ddc0af3e"
     },
     {
-      "title": "AfCFTA and AUDA-NEPAD to dominate African Union meetings",
-      "url": "https://www.angop.ao/en/noticias/politica/zclca-e-auda-nepad-dominam-encontros-da-uniao-africana/",
+      "title": "TAAG restructuring reaches 53% completion",
+      "url": "https://www.angop.ao/en/noticias/economia/reestruturacao-da-taag-atinge-53-de-execucao-global/",
       "source": "ANGOP",
-      "_key": "5f37831780c95304"
+      "_key": "f7730310ebb3a688"
     },
     {
-      "title": "Universidades",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=42856",
+      "title": "Women Parliamentarians discuss teenagers’ pregnancy in Moxico Leste province",
+      "url": "https://www.angop.ao/en/noticias/saude/grupo-de-mulheres-parlamentares-aborda-gravidez-precoce-no-moxico-leste/",
       "source": "ANGOP",
-      "_key": "690bf80d9e78ee8e"
+      "_key": "10bb0fd7b09bcde4"
     },
     {
-      "title": "Integração",
-      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=233897",
+      "title": "Benguela flood victims call for faster delivery of reintegration aid",
+      "url": "https://www.angop.ao/en/noticias/sociedade/vitimas-das-cheias-em-benguela-pedem-celeridade-nos-apoios-para-reintegracao/",
       "source": "ANGOP",
-      "_key": "bd25c6cca1093042"
+      "_key": "b5510703c2f10f39"
     },
     {
-      "title": "Basketball: Interclube and Vila open second phase of the Under-14 National Championship",
-      "url": "https://www.angop.ao/en/noticias/desporto/basquetebol-interclube-e-vila-abrem-segunda-fase-do-campeonato-nacional-de-sub-14/",
+      "title": "Cazenga wins first place in Class B of Luanda Carnival",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/carnaval2026-uniao-geracao-do-cazenga-conquista-primeiro-lugar-classe-b-do-entrudo-em-luanda/",
       "source": "ANGOP",
-      "_key": "48f36f562ac5dc01"
+      "_key": "138efb25233fe6b8"
     },
     {
-      "title": "Former footballer Figueiredo joins coaching staff of Portugal's Vitória FC",
-      "url": "https://www.angop.ao/en/noticias/desporto/ex-futebolista-figueiredo-integra-equipa-tecnica-do-vitoria-fc-de-portugal/",
-      "source": "ANGOP",
-      "_key": "630b28b1a447bdd1"
-    },
-    {
-      "title": "Signing of agreements marks International Oil and Gas Conference",
-      "url": "https://www.angop.ao/en/noticias/economia/assinatura-de-acordos-marca-conferencia-internacional-de-petroleo-e-gas/",
-      "source": "ANGOP",
-      "_key": "e2af19df1200eb50"
-    },
-    {
-      "title": "Angola has a 21% prevalence rate of hepatitis B",
-      "url": "https://www.angop.ao/en/noticias/saude/angola-tem-uma-prevalencia-de-21-da-hepatite-b/",
-      "source": "ANGOP",
-      "_key": "ed2f6dd979c7a22d"
-    },
-    {
-      "title": "Kwenda Social Program reaches families in Municipality of Saurimo",
-      "url": "https://www.angop.ao/en/noticias/sociedade/kwenda-beneficia-mais-cinco-mil-e-900-familias-vulneraveis/",
-      "source": "ANGOP",
-      "_key": "cda5bd3a9591b8ad"
-    },
-    {
-      "title": "Official appeals for the preservation of peoples’ collective memory",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/responsavel-apela-a-preservacao-da-memoria-colectiva-dos-povos/",
-      "source": "ANGOP",
-      "_key": "23c26810f4d67bae"
-    },
-    {
-      "title": "Role of museums in preserving the identity of the Kongo people analyzed in Zaire",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/debatido-no-zaire-papel-do-museu-na-preservacao-da-identidade-do-povo-kongo/",
-      "source": "ANGOP",
-      "_key": "8bf4d777c2dbd628"
-    },
-    {
-      "title": "Indústria angolana de enchidos precisa de 10 contentores de pele de galinha por mês",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35106-industria-angolana-de-enchidos-precisa-de-10-contentores-de-pele-de-galinha-por-mes",
-      "source": "Angola 24 Horas",
-      "_key": "c53bd943d09dacc5"
-    },
-    {
-      "title": "Salário mínimo de 100 mil Kz não chega para as despesas básicas, diz Adalberto Costa Júnior",
-      "url": "https://angola24horas.com/component/k2/item/35108-salario-minimo-de-100-mil-kz-nao-chega-para-as-despesas-basicas-diz-adalberto-costa-junior",
-      "source": "Angola 24 Horas",
-      "_key": "ccbc6d2af2cdfdf5"
-    },
-    {
-      "title": "Sonangol avança para minerais críticos e mantém suspensa venda de 30% do capital",
-      "url": "https://angola24horas.com/component/k2/item/35114-sonangol-avanca-para-minerais-criticos-e-mantem-suspensa-venda-de-30-do-capital",
-      "source": "Angola 24 Horas",
-      "_key": "50ea193abdde37bb"
-    },
-    {
-      "title": "Agências de viagens contestam exclusão da venda de bilhetes para Cabinda e exigem soluções à TAAG",
-      "url": "https://angola24horas.com/sociedade/item/35112-agencias-de-viagens-contestam-exclusao-da-venda-de-bilhetes-para-cabinda-e-exigem-solucoes-a-taag",
-      "source": "Angola 24 Horas",
-      "_key": "a02cdd7a0f400b5e"
-    },
-    {
-      "title": "Embaixador de Portugal reúne-se com dirigente do MPLA e destaca relação “muito forte” com Angola",
-      "url": "https://angola24horas.com/politica/item/35110-embaixador-de-portugal-reune-se-com-dirigente-do-mpla-e-destaca-relacao-muito-forte-com-angola",
-      "source": "Angola 24 Horas",
-      "_key": "112a183d7e0d329e"
-    },
-    {
-      "title": "Farinha de trigo sobe 40% e leva panificadores a reduzir peso do pão",
-      "url": "https://angola24horas.com/sociedade/item/35109-farinha-de-trigo-sobe-40-e-leva-panificadores-a-reduzir-peso-do-pao",
-      "source": "Angola 24 Horas",
-      "_key": "00f6f24b67f18edc"
-    },
-    {
-      "title": "Gelson Bravo eleito presidente do Conselho Nacional da Juventude",
-      "url": "https://angola24horas.com/politica/item/35107-gelson-bravo-eleito-presidente-do-conselho-nacional-da-juventude",
-      "source": "Angola 24 Horas",
-      "_key": "a89376697816c898"
-    },
-    {
-      "title": "TAAG negoceia venda de Boeing 737-700 à TACV após quatro anos de aluguer",
-      "url": "https://angola24horas.com/sociedade/item/35105-taag-negoceia-venda-de-boeing-737-700-a-tacv-apos-quatro-anos-de-aluguer",
-      "source": "Angola 24 Horas",
-      "_key": "dd1eb004ba3e8dbe"
-    },
-    {
-      "title": "Angola vai vacinar 11 milhões de crianças contra pólio, sarampo e febre amarela",
-      "url": "https://angola24horas.com/sociedade/item/35104-angola-vai-vacinar-11-milhoes-de-criancas-contra-polio-sarampo-e-febre-amarela",
-      "source": "Angola 24 Horas",
-      "_key": "45b5fef3f9b33631"
-    },
-    {
-      "title": "Regulador angolano exige identificação de beneficiários efectivos para travar crimes financeiros",
-      "url": "https://angola24horas.com/sociedade/item/35103-regulador-angolano-exige-identificacao-de-beneficiarios-efectivos-para-travar-crimes-financeiros",
-      "source": "Angola 24 Horas",
-      "_key": "cdf976a1d004eaf9"
-    },
-    {
-      "title": "Subinspector da Polícia Nacional morre após ser atingido por disparo dentro de esquadra no Cazenga",
-      "url": "https://angola24horas.com/sociedade/item/35101-subinspector-da-policia-nacional-morre-apos-ser-atingido-por-disparo-dentro-de-esquadra-no-cazenga",
-      "source": "Angola 24 Horas",
-      "_key": "75d7a2baca36bc2d"
-    },
-    {
-      "title": "Oposição exige fiscalização independente das eleições de 2027 e alerta para riscos de fraude",
-      "url": "https://angola24horas.com/component/k2/item/35102-oposicao-exige-fiscalizacao-independente-das-eleicoes-de-2027-e-alerta-para-riscos-de-fraude",
-      "source": "Angola 24 Horas",
-      "_key": "57cbb7c73a4a3471"
-    },
-    {
-      "title": "Angola entrega à chinesa AVIC manutenção de 21 aeroportos por 70,1 milhões de dólares",
-      "url": "https://angola24horas.com/sociedade/item/35098-angola-entrega-a-chinesa-avic-manutencao-de-21-aeroportos-por-70-1-milhoes-de-dolares",
-      "source": "Angola 24 Horas",
-      "_key": "2c938498f805b0fd"
-    },
-    {
-      "title": "Angola abre a porta do mercado da Dívida Pública aos investidores estrangeiros",
-      "url": "https://angola24horas.com/economia/item/35099-angola-abre-a-porta-do-mercado-da-divida-publica-aos-investidores-estrangeiros",
-      "source": "Angola 24 Horas",
-      "_key": "373d5c7e104f9887"
-    },
-    {
-      "title": "Campanha “Angola Chama por Ti” reforça apelo à actualização dos dados eleitorais",
-      "url": "https://correiokianda.info/campanha-angola-chama-por-ti-reforca-apelo-a-actualizacao-dos-dados-eleitorais/",
+      "title": "Ministro das Telecomunicações reforça apelo à actualização do registo eleitoral",
+      "url": "https://correiokianda.info/ministro-das-telecomunicacoes-reforca-apelo-a-actualizacao-do-registo-eleitoral/",
       "source": "Correio Kianda",
-      "_key": "a0becab89c20d67f"
+      "_key": "044ad17c270a434b"
     },
     {
-      "title": "Administração do Sequele diz ter havido empurrões e insultos durante visita da UNITA",
-      "url": "https://correiokianda.info/administracao-do-sequele-diz-ter-havido-empurroes-e-insultos-durante-visita-da-unita/",
+      "title": "Líderes africanos reúnem-se no Egipto para impulsionar investimentos no continente",
+      "url": "https://correiokianda.info/lideres-africanos-reunem-se-no-egipto-para-impulsionar-investimentos-no-continente/",
       "source": "Correio Kianda",
-      "_key": "988b6fdf829a1806"
+      "_key": "b800302cf1e34295"
     },
     {
-      "title": "BASTA acusa forças políticas de transformarem vontade popular em negócio",
-      "url": "https://correiokianda.info/basta-acusa-forcas-politicas-de-transformarem-vontade-popular-em-negocio/",
+      "title": "G7 decide libertar até 100 milhões de barris para travar subida dos combustíveis",
+      "url": "https://correiokianda.info/g7-decide-libertar-ate-100-milhoes-de-barris-para-travar-subida-dos-combustiveis/",
       "source": "Correio Kianda",
-      "_key": "05e9519b52f77bb1"
+      "_key": "7f0c4ccc2929f8ef"
     },
     {
-      "title": "Ala de Ndonda Nzinga diz receber luz verde do Tribunal Constitucional para avançar com congresso da FNLA",
-      "url": "https://correiokianda.info/ala-de-ndonda-nzinga-diz-receber-luz-verde-do-tribunal-constitucional-para-avancar-com-congresso-da-fnla/",
+      "title": "Novo líder do CNJ chama jovens à actualização do registo eleitoral oficioso",
+      "url": "https://correiokianda.info/novo-lider-do-cnj-chama-jovens-a-actualizacao-do-registo-eleitoral-oficioso/",
       "source": "Correio Kianda",
-      "_key": "ee98b1ece7f4a940"
+      "_key": "dbd5b2e64c0f0927"
     },
     {
-      "title": "Oficiais de Justiça conseguem acordo com Governo sobre carreira, subsídios e condições de trabalho",
-      "url": "https://correiokianda.info/oficiais-de-justica-conseguem-acordo-com-governo-sobre-carreira-subsidios-e-condicoes-de-trabalho/",
+      "title": "Sismo de magnitude 3,2 é detectado no município do Longonjo",
+      "url": "https://correiokianda.info/sismo-de-magnitude-32-e-detectado-no-municipio-do-longonjo/",
       "source": "Correio Kianda",
-      "_key": "1719bff9d0085671"
+      "_key": "d4fd1f67e547d53e"
     },
     {
-      "title": "Luanda: Reparação de conduta condiciona trânsito na Avenida Deolinda Rodrigues",
-      "url": "https://correiokianda.info/luanda-reparacao-de-conduta-condiciona-transito-na-avenida-deolinda-rodrigues/",
+      "title": "Angolano Childe Dundão brilha na estreia do FC Porto na Liga Portuguesa",
+      "url": "https://correiokianda.info/angolano-childe-dundao-brilha-na-estreia-do-fc-porto-na-liga-portuguesa/",
       "source": "Correio Kianda",
-      "_key": "85d42a8de84170a1"
+      "_key": "815d7d2a9e5c6ec7"
     },
     {
-      "title": "Angola retoma envio de licenciados e mestres para universidades internacionais",
-      "url": "https://correiokianda.info/angola-retoma-envio-de-licenciados-e-mestres-para-universidades-internacionais/",
+      "title": "        África10 minutos atrás  Acidente de helicóptero no Zimbabwe provoca a morte do empresário Wicknell Chivayo e da esposa Acidente aéreo em Marondera Rural resulta na morte de seis pessoas, incluindo conhecido homem de negócios e a sua esposa. O empresário zimbabweano Wicknell Chivayo, a...   ",
+      "url": "https://correiokianda.info/acidente-de-helicoptero-no-zimbabwe-provoca-a-morte-do-empresario-wicknell-chivayo-e-da-esposa/",
       "source": "Correio Kianda",
-      "_key": "0f3b9bc8447a0aaa"
+      "_key": "2a0eb2a7e6810e2f"
     },
     {
-      "title": "Executivo promove 27 mil professores 15 dias após início da greve do SINPROF",
-      "url": "https://correiokianda.info/executivo-promove-27-mil-professores-15-dias-apos-inicio-da-greve-do-sinprof/",
+      "title": "        Diversos2 horas atrás  João Lourenço quer AUDA-NEPAD mais ágil e com maior capacidade de execução O Presidente da República, João Lourenço, defendeu este sábado, 3, em El Alamein, no Egipto, o reforço da capacidade institucional da Agência de Desenvolvimento da União...   ",
+      "url": "https://correiokianda.info/joao-lourenco-quer-auda-nepad-mais-agil-e-com-maior-capacidade-de-execucao/",
       "source": "Correio Kianda",
-      "_key": "bac9db0c2abdbf08"
+      "_key": "986b145421eea4ae"
     },
     {
-      "title": "Especialista defende maior sensibilização e capacitação sobre cibersegurança em Angola",
-      "url": "https://correiokianda.info/especialista-defende-maior-sensibilizacao-e-capacitacao-sobre-ciberseguranca-em-angola/",
+      "title": "        África3 horas atrás  Sudão enfrenta escassez de combustível em plena guerra civil O Sudão enfrenta uma nova crise de abastecimento de combustíveis, com longas filas nos postos, aumento dos preços e crescimento do comércio ilegal, num contexto marcado...   ",
+      "url": "https://correiokianda.info/sudao-enfrenta-escassez-de-combustivel-em-plena-guerra-civil/",
       "source": "Correio Kianda",
-      "_key": "7aa733776634df23"
+      "_key": "c14585d8ed95b7c0"
     },
     {
-      "title": "FAF quer 30 mil adeptos a puxar pelos Palancas Negras diante do Malawi",
-      "url": "https://correiokianda.info/faf-quer-30-mil-adeptos-a-puxar-pelos-palancas-negras-diante-do-malawi/",
-      "source": "Correio Kianda",
-      "_key": "dd4aba2d39a2a682"
-    },
-    {
-      "title": "        África5 horas atrás  Mais de quarenta mortos em assassinatos políticos na África do Sul, revela relatório Pelo menos 43 pessoas morreram este ano na África do Sul em assassinatos de natureza política, segundo um relatório da Iniciativa Global Contra o Crime Organizado...   ",
-      "url": "https://correiokianda.info/mais-de-quarenta-mortos-em-assassinatos-politicos-na-africa-do-sul-revela-relatorio/",
-      "source": "Correio Kianda",
-      "_key": "3a3204598fd50c79"
-    },
-    {
-      "title": "        África7 horas atrás  “Se Umaro regressar vai haver confronto”, alerta jurista guineense O jurista guineense Augusto Nansambe alerta que o regresso de Umaro Sissoco Embaló à Guiné-Bissau poderá provocar um confronto com a Junta Militar que actualmente controla...   ",
-      "url": "https://correiokianda.info/se-umaro-regressar-vai-haver-confronto-alerta-jurista-guineense/",
-      "source": "Correio Kianda",
-      "_key": "778792417605a812"
-    },
-    {
-      "title": "        África16 horas atrás  África do Sul estuda alternativas regulamentares para viabilizar entrada da Starlink Pretória está a explorar mecanismos legais para contornar a exigência de 30% de propriedade local, uma regra de inclusão económica que tem impedido a operação dos...   ",
-      "url": "https://correiokianda.info/africa-do-sul-estuda-alternativas-regulamentares-para-viabilizar-entrada-da-starlink/",
-      "source": "Correio Kianda",
-      "_key": "39ed46df409cb343"
-    },
-    {
-      "title": "PR valida despesa de 88,9 milhões de euros para construção e reabilitação de edifícios em Benguela",
-      "url": "https://diariodosnegocios.com/pr-valida-despesa-de-889-milhoes-de-euros-para-construcao-e-reabilitacao-de-edificios-em-benguela/",
-      "source": "Diário dos Negócios",
-      "_key": "52a05e4d11c328a1"
-    },
-    {
-      "title": "KPMG promove 12 membros da partnership e contrata mais de 200 recém-graduados em Portugal e Angola",
-      "url": "https://diariodosnegocios.com/kpmg-promove-12-membros-da-partnership-e-contrata-mais-de-200-recem-graduados-em-portugal-e-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "9a9dc255a747c737"
-    },
-    {
-      "title": "Téte António recebe poderes do Presidente para contratar serviços de controlo financeiro nas embaixadas",
-      "url": "https://diariodosnegocios.com/joao-lourenco-autoriza-ajuste-directo-mirex-tete-antonio-gestao-embaixadas/",
-      "source": "Diário dos Negócios",
-      "_key": "b14cf0f0f66f0cb1"
-    },
-    {
-      "title": "Reforma dos fundos públicos continua fora das prioridades do Governo",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_c34f5ccbe961f3"
-    },
-    {
-      "title": "\"O reggae é um estilo que tem muito a ver com África, a pobreza, a justiça e a igualdade\"",
-      "url": "https://expansao.co.ao/weekend/lifestyle/detalhe/o-reggae-e-um-estilo-que-tem-muito-a-ver-com-africa-a-pobreza-a-justica-e-a-igualdade-75069.html",
-      "source": "Expansão",
-      "_key": "7ff5ccf925414340"
-    },
-    {
-      "title": "Startup cria \"WhatsApp\" made in Angola que não gasta saldo de dados",
-      "url": "https://expansao.co.ao/empresas/detalhe/startup-cria-whatsapp-made-in-angola-que-nao-gasta-saldo-de-dados-75077.html",
-      "source": "Expansão",
-      "_key": "a22a831badeb5913"
-    },
-    {
-      "title": "Contribuições para fundos de pensões caem 16% pressionadas pela Sonangol Vida",
-      "url": "https://expansao.co.ao/empresas/detalhe/contribuicoes-para-fundos-de-pensoes-caem-16-pressionadas-pela-sonangol-vida-75075.html",
-      "source": "Expansão",
-      "_key": "0ec27a383effbf52"
-    },
-    {
-      "title": "Fundecit financia projectos científicos diversos com até 65,1 milhões Kz",
-      "url": "https://expansao.co.ao/universidade/detalhe/fundecit-financia-projectos-cientificos-diversos-com-ate-651-milhoes-kz-75070.html",
-      "source": "Expansão",
-      "_key": "6a9c6674c2c21b20"
-    },
-    {
-      "title": "CPLP considera eleições em São Tomé e Príncipe transparentes, livres e credíveis",
-      "url": "https://forbesafricalusofona.com/cplp-considera-eleicoes-em-sao-tome-e-principe-transparentes-livres-e-crediveis/",
-      "source": "Forbes África",
-      "_key": "52d2111c03a970c2"
-    },
-    {
-      "title": "Montepuez Ruby Mining quase duplica receitas semestrais para 76,1 milhões de dólares",
-      "url": "https://forbesafricalusofona.com/montepuez-ruby-mining-quase-duplica-receitas-semestrais-para-761-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "1024ade4f98e8d36"
-    },
-    {
-      "title": "Voos internacionais impulsionam crescimento de 5,6% no tráfego da TAAG",
-      "url": "https://forbesafricalusofona.com/voos-internacionais-impulsionam-crescimento-de-56-no-trafego-da-taag/",
-      "source": "Forbes África",
-      "_key": "1e85ef371000bd2a"
-    },
-    {
-      "title": "Angola participa na CONXEMAR 2026 para atrair investimentos no sector das pescas",
-      "url": "https://holdonangola.com/angola-participa-na-conxemar-2026-para-atrair-investimentos-no-sector-das-pescas/",
-      "source": "Hold On Angola",
-      "_key": "8c658fa7b50bcc9e"
-    },
-    {
-      "title": "Seaan Tiller lança “AFRODITE”, novo single com participação…",
-      "url": "https://holdonangola.com/seaan-tiller-lanca-afrodite-novo-single-com-participacao-de-edsong/",
-      "source": "Hold On Angola",
-      "_key": "99e7dbbccacdb563"
-    },
-    {
-      "title": "+244 935 593 405",
-      "url": "https://wa.me/244935593405",
-      "source": "Hold On Angola",
-      "_key": "36aa8f43630d8b23"
-    },
-    {
-      "title": "Sábado, 3 de Outubro, 2026",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_83be879b4f9597"
-    },
-    {
-      "title": "Negativo da Semana: Bebés são jogados ao lixo (quase todos os dias em Luanda) sob olhar cúmplice das autoridades",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_eb953bf7270fbd"
-    },
-    {
-      "title": "Denunciados pelo Na Mira do Crime: SIC \"varre\" bairro Mayé-Mayé e desmantela associação criminosa \"Os Jamaicanos\"",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_97fa06ef85b1ae"
-    },
-    {
-      "title": "SIC-Calumbo captura indivíduos que criavam instabilidade nos bairros Zango II, II-A e Zango III com assaltos com armas de fogo",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_9cc080b832ddb8"
-    },
-    {
-      "title": "Autoridades na Huíla removem mais de 90 engenhos explosivos encontrados numa fossa séptica",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_01a1259873c7a2"
-    },
-    {
-      "title": "    Positivo e Negativo Negativo da Semana: Bebés são jogados ao lixo (quase todos os dias em Luanda) sob olhar cúmplice das autoridades Já começa a ser assustadoramente frequente encontrar bebés recém-nascidos abandonados em contentores e lixeiras de Luanda. O caso mais recen... ",
-      "url": "https://namiradocrime.info/show/17681",
-      "source": "Na Mira do Crime",
-      "_key": "396e2128b8f709cd"
-    },
-    {
-      "title": "    Assalto Denunciados pelo Na Mira do Crime: SIC \"varre\" bairro Mayé-Mayé e desmantela associação criminosa \"Os Jamaicanos\" O Serviço de Investigação Criminal (SIC), através da Direcção de Investigação Criminal do Sequele, deteve, no dia 28 de Setembro do ano em c... ",
-      "url": "https://namiradocrime.info/show/17680",
-      "source": "Na Mira do Crime",
-      "_key": "97414d5059ee3975"
-    },
-    {
-      "title": "    Assalto SIC-Calumbo captura indivíduos que criavam instabilidade nos bairros Zango II, II-A e Zango III com assaltos com armas de fogo O Serviço de Investigação Criminal (SIC), através da Direcção de Investigação Criminal do Calumbo, deteve, no dia 28 de Setembro, sete cidad... ",
-      "url": "https://namiradocrime.info/show/17679",
-      "source": "Na Mira do Crime",
-      "_key": "c4aa6a500402a325"
-    },
-    {
-      "title": "    Sociedade Autoridades na Huíla removem mais de 90 engenhos explosivos encontrados numa fossa séptica Forças Armadas Angolanas, afectos ao Batalhão de Desminagem, removeram, no dia 29 de Setembro do ano em curso, na província da Huíla, no int... ",
-      "url": "https://namiradocrime.info/show/17678",
-      "source": "Na Mira do Crime",
-      "_key": "7e589e6d9e8e10af"
-    },
-    {
-      "title": "Benguela na iminência de uma nova tragédia de \"12 de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/benguela-na-iminencia-de-uma-nova-tragedia-de-12-de-abril---medidas-do-pr-podem-ser-arrastadas-pelas-chuvas-75112.html",
+      "title": "Corrida à presidência no Brasil decide-se domingo",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/corrida-a-presidencia-no-brasil-decide-se-a-04-de-outubro-75128.html",
       "source": "Novo Jornal",
-      "_key": "81f9178a7b38f9f0"
-    },
-    {
-      "title": "Modernização: TCUL circula com 30 autocarros expressos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/modernizacao-tcul-circula-com-30-autocarros-expressos-e-reduz-viagem-para-metade-do-tempo-75113.html",
-      "source": "Novo Jornal",
-      "_key": "09b884d0ce44ed30"
-    },
-    {
-      "title": "Educação: Estudo revela que 35% das mulheres no País...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/educacao-estudo-revela-que-35-das-mulheres-no-pais-nao-sabem-ler-nem-escrever-75114.html",
-      "source": "Novo Jornal",
-      "_key": "509a4683eff47ed2"
-    },
-    {
-      "title": "«A independência do poder judicial não deve ser vista...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/a-independencia-do-poder-judicial-nao-deve-ser-vista-como-uma-ameaca-ao-poder-politico-jose-luis-domingos-bastonario-da-oaa-75111.html",
-      "source": "Novo Jornal",
-      "_key": "22c3ad9f18b91dab"
-    },
-    {
-      "title": "Lei em campo: O Capital Emocional das Palancas Negras",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/lei-em-campo-o-capital-emocional-das-palancas-negras-75115.html",
-      "source": "Novo Jornal",
-      "_key": "7d7e10c628a67b3a"
-    },
-    {
-      "title": "NO ENTRETANTO: MAGAZINE DA TARDE. Aparecer sem Conteúdo!  Primeira volta das eleições presidenências no Brasil. Flávio Bolsonaro e Lula na disputa\". Independência da Guinné Conacri e o Impacto para os africanos.",
-      "url": "https://marginal.co.ao/programas/no-entretanto?ep=75126",
-      "source": "Novo Jornal",
-      "_key": "7b18271c734edafd"
-    },
-    {
-      "title": "/ Semanário Novo Jornal/Entidade patronal acusada de intimidações",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/soja-nao-arreda-o-pe-e-reafirma-continuidade-da-greve-no-sector-da-justica-75110.html",
-      "source": "Novo Jornal",
-      "_key": "320e96efc927ef52"
-    },
-    {
-      "title": "Papa pede “coragem nas negociações” pela paz na Europa",
-      "url": "https://opais.ao/mundo/papa-pede-coragem-nas-negociacoes-pela-paz-na-europa/",
-      "source": "O País",
-      "_key": "24aef4105baf974a"
-    },
-    {
-      "title": "NBA encerra academia de formação em África e transfere programa...",
-      "url": "https://valoreconomico.co.ao/artigo/nba-encerra-academia-de-formacao-em-africa-e-transfere-programa-para-abu-dhabi",
-      "source": "Valor Económico",
-      "_key": "17a4c907d73e02ea"
+      "_key": "0e0c78664f61e0d6"
     }
   ]
 }
