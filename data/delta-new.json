@@ -1,104 +1,392 @@
 {
-  "date": "2026-10-03",
-  "total_extracted": 1065,
-  "total_new": 16,
-  "total_existing": 1049,
+  "date": "2026-10-04",
+  "total_extracted": 1520,
+  "total_new": 64,
+  "total_existing": 1456,
   "articles": [
     {
-      "title": "At least 215 athletes compete in Unified Provincial Gymnastics Championship",
-      "url": "https://www.angop.ao/en/noticias/desporto/duzentos-e-15-atletas-disputam-provincial-unificado-de-ginastica/",
+      "title": "Electoral data update reaches nearly 3 million Angolans",
+      "url": "https://www.angop.ao/en/noticias/politica/actualizacao-de-dados-eleitorais-alcanca-quase-tres-milhoes-de-angolanos/",
       "source": "ANGOP",
-      "_key": "a31d16fec623145c"
+      "_key": "6c377cb74f49f7b2"
     },
     {
-      "title": "Football: national team call-up postponed forTuesday",
-      "url": "https://www.angop.ao/en/noticias/desporto/futebol-convocatoria-da-seleccao-nacional-adiada-para-terca-feira/",
+      "title": "President João Lourenço calls for strengthening of AUDA-NEPAD",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-advoga-reforco-da-auda-nepad/",
       "source": "ANGOP",
-      "_key": "298a8da1ddc0af3e"
+      "_key": "07108ea75cfc6ec4"
     },
     {
-      "title": "TAAG restructuring reaches 53% completion",
-      "url": "https://www.angop.ao/en/noticias/economia/reestruturacao-da-taag-atinge-53-de-execucao-global/",
+      "title": "Angolan Vice-President highlights investment in women's health",
+      "url": "https://www.angop.ao/en/noticias/politica/vice-presidente-valoriza-aposta-na-saude-da-mulher/",
       "source": "ANGOP",
-      "_key": "f7730310ebb3a688"
+      "_key": "4e72ff3116117ef1"
     },
     {
-      "title": "Women Parliamentarians discuss teenagers’ pregnancy in Moxico Leste province",
-      "url": "https://www.angop.ao/en/noticias/saude/grupo-de-mulheres-parlamentares-aborda-gravidez-precoce-no-moxico-leste/",
+      "title": "Afreximbank expects to complete financing for fertiliser plant in Angola",
+      "url": "https://www.angop.ao/en/noticias/politica/afreximbank-preve-concluir-financiamento-para-fabrica-de-fertilizantes/",
       "source": "ANGOP",
-      "_key": "10bb0fd7b09bcde4"
+      "_key": "280ad9bb4ba93280"
     },
     {
-      "title": "Benguela flood victims call for faster delivery of reintegration aid",
-      "url": "https://www.angop.ao/en/noticias/sociedade/vitimas-das-cheias-em-benguela-pedem-celeridade-nos-apoios-para-reintegracao/",
+      "title": "Angola plans to send graduates to the world's top universities",
+      "url": "https://www.angop.ao/en/noticias/educacao/mescti-anuncia-envio-de-quadros-as-melhores-universidades-do-mundo/",
       "source": "ANGOP",
-      "_key": "b5510703c2f10f39"
+      "_key": "3cd3bdfd3628f4d6"
     },
     {
-      "title": "Cazenga wins first place in Class B of Luanda Carnival",
-      "url": "https://www.angop.ao/en/noticias/lazer-cultura/carnaval2026-uniao-geracao-do-cazenga-conquista-primeiro-lugar-classe-b-do-entrudo-em-luanda/",
+      "title": "Media minister urges citizens to adhere to electoral registration",
+      "url": "https://www.angop.ao/en/noticias/politica/ministro-mario-oliveira-apela-aos-cidadaos-para-aderirem-ao-registo-eleitoral-oficioso/",
       "source": "ANGOP",
-      "_key": "138efb25233fe6b8"
+      "_key": "2278d32ceda17a08"
     },
     {
-      "title": "Ministro das Telecomunicações reforça apelo à actualização do registo eleitoral",
-      "url": "https://correiokianda.info/ministro-das-telecomunicacoes-reforca-apelo-a-actualizacao-do-registo-eleitoral/",
+      "title": "Campaign opens new phase of electoral registration update",
+      "url": "https://www.angop.ao/en/noticias/politica/campanha-abre-nova-fase-do-registo-eleitoral-oficioso/",
+      "source": "ANGOP",
+      "_key": "b5a789931493fd55"
+    },
+    {
+      "title": "Saúde reprodutiva",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=130508",
+      "source": "ANGOP",
+      "_key": "ada27a77f9ea909e"
+    },
+    {
+      "title": "Elections",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=1214",
+      "source": "ANGOP",
+      "_key": "3b398b9be84dfa0f"
+    },
+    {
+      "title": "João Lourenço calls for domestic capital for continental priorities",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-advoga-capital-proprio-para-prioridades-continentais/",
+      "source": "ANGOP",
+      "_key": "ab8c0a1dad65ba85"
+    },
+    {
+      "title": "Report",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=7741",
+      "source": "ANGOP",
+      "_key": "3e054d685bb28e4b"
+    },
+    {
+      "title": "Angola participates in 2026 diplomatic fun fair in Zambia",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/angola-participa-na-feira-diplomatica-de-diversao-2026-na-zambia/",
+      "source": "ANGOP",
+      "_key": "a201f65a8c4717a2"
+    },
+    {
+      "title": "Head of State presents report on AUDA-NEPAD’s contribution",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-apresenta-relatorio-sobre-contribuicao-da-auda-nepad/",
+      "source": "ANGOP",
+      "_key": "ba04c9c0e90893b8"
+    },
+    {
+      "title": "President João Lourenço receives leaders of major business groups in Alamein",
+      "url": "https://www.angop.ao/en/noticias/politica/joao-lourenco-recebe-lideres-de-grupos-empresariais-em-alamein/",
+      "source": "ANGOP",
+      "_key": "d10965021b16d4e2"
+    },
+    {
+      "title": "Angola Chamber of Commerce praises economic diplomacy",
+      "url": "https://www.angop.ao/en/noticias/politica/camara-de-comercio-aplaude-diplomacia-economica/",
+      "source": "ANGOP",
+      "_key": "305f5b348a1da62c"
+    },
+    {
+      "title": "Standard Bank Angola shares rise 49% at Securities Exchange",
+      "url": "https://www.angop.ao/en/noticias/economia/standard-bank-angola-valoriza-49-na-bolsa/",
+      "source": "ANGOP",
+      "_key": "8c0f520421d9f0f4"
+    },
+    {
+      "title": "Luanda set to host the African handball champion clubs Cup for first time",
+      "url": "https://www.angop.ao/en/noticias/desporto/andebol-luanda-estreia-se-como-palco-da-taca-dos-clubes-campeoes-africanos/",
+      "source": "ANGOP",
+      "_key": "c2a430f7567f0a77"
+    },
+    {
+      "title": "State Secretary and TNC director evaluates Miombo Forest protection",
+      "url": "https://www.angop.ao/en/noticias/ambiente/ambiente-e-tnc-analisam-reforco-da-proteccao-das-florestas-de-miombo/",
+      "source": "ANGOP",
+      "_key": "657c26284ad6c31e"
+    },
+    {
+      "title": "Resenha da semana",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=260552",
+      "source": "ANGOP",
+      "_key": "e3ba0c81f1fc9d42"
+    },
+    {
+      "title": "Taekwondo championship - 1º de Agosto retain titles",
+      "url": "https://www.angop.ao/en/noticias/desporto/1o-de-agosto-revalida-titulos-nacionais-de-taekwondo/",
+      "source": "ANGOP",
+      "_key": "3be4c4629368e3ee"
+    },
+    {
+      "title": "CPPL defeat Petro de Luanda in second-round highlight",
+      "url": "https://www.angop.ao/en/noticias/desporto/cppl-derrota-petro-de-luanda-no-destaque-da-2a-jornada/",
+      "source": "ANGOP",
+      "_key": "7d3c61b6be6d0975"
+    },
+    {
+      "title": "Youth Institute launches anthology on Angola’s 50 years of independence",
+      "url": "https://www.angop.ao/en/noticias/sociedade/iaj-apresenta-colectanea-angola-50-anos-juventude-cidadania-e-futuro/",
+      "source": "ANGOP",
+      "_key": "b0914dde3420a824"
+    },
+    {
+      "title": "Angolan official deems culture a pillar in affirming the identity of peoples",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/responsavel-considera-cultura-como-pilar-da-afirmacao-da-identidade-dos-povos/",
+      "source": "ANGOP",
+      "_key": "5ae2b9c898c99cdb"
+    },
+    {
+      "title": "Benguela Governor calls for the ongoing promotion of Angolan culture",
+      "url": "https://www.angop.ao/en/noticias/lazer-cultura/governador-de-benguela-defende-valorizacao-continua-da-cultura-angolana/",
+      "source": "ANGOP",
+      "_key": "7cbce95d006d1738"
+    },
+    {
+      "title": "Angola e a crise dos raptos: Uma reflexão sobre segurança, governação e responsabilidade do Estado",
+      "url": "https://angola24horas.com/opiniao/item/35116-angola-e-a-crise-dos-raptos-uma-reflexao-sobre-seguranca-governacao-e-responsabilidade-do-estado",
+      "source": "Angola 24 Horas",
+      "_key": "b458879294c42c41"
+    },
+    {
+      "title": "Poder das narrativas na política internacional",
+      "url": "https://angola24horas.com/opiniao/item/35115-poder-das-narrativas-na-politica-internacional",
+      "source": "Angola 24 Horas",
+      "_key": "402f8957c58e5717"
+    },
+    {
+      "title": "Marcolino Moco alerta: “Estamos a poucos passos” de perder a esperança em Angola",
+      "url": "https://angola24horas.com/politica/item/35100-marcolino-moco-alerta-estamos-a-poucos-passos-de-perder-a-esperanca-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "67588c47653ed96a"
+    },
+    {
+      "title": "Mais de 1.500 mortes em seis meses: UNITA exige medidas contra sinistralidade rodoviária",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35113-mais-de-1-500-mortes-em-seis-meses-unita-exige-medidas-contra-sinistralidade-rodoviaria",
+      "source": "Angola 24 Horas",
+      "_key": "6cdf016745702f8e"
+    },
+    {
+      "title": "Angola tem 18 lares para acolher perto de 1,5 milhões de idosos, denuncia UNITA",
+      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35111-angola-tem-18-lares-para-acolher-perto-de-1-5-milhoes-de-idosos-denuncia-unita",
+      "source": "Angola 24 Horas",
+      "_key": "2f55615c77a31a64"
+    },
+    {
+      "title": "Tensão no PHA: reunião polémica leva Florbela Malaquias ao hospital",
+      "url": "https://correiokianda.info/tensao-no-pha-reuniao-polemica-leva-florbela-malaquias-ao-hospital/",
       "source": "Correio Kianda",
-      "_key": "044ad17c270a434b"
+      "_key": "cc4adcb44e9e080c"
     },
     {
-      "title": "Líderes africanos reúnem-se no Egipto para impulsionar investimentos no continente",
-      "url": "https://correiokianda.info/lideres-africanos-reunem-se-no-egipto-para-impulsionar-investimentos-no-continente/",
+      "title": "PHA vive tensão antes de reunião da Comissão Política Nacional",
+      "url": "https://correiokianda.info/pha-vive-tensao-antes-de-reuniao-da-comissao-politica-nacional/",
       "source": "Correio Kianda",
-      "_key": "b800302cf1e34295"
+      "_key": "5244ea942ecbe193"
     },
     {
-      "title": "G7 decide libertar até 100 milhões de barris para travar subida dos combustíveis",
-      "url": "https://correiokianda.info/g7-decide-libertar-ate-100-milhoes-de-barris-para-travar-subida-dos-combustiveis/",
+      "title": "Luanda prevê actualizar registo de 4,8 milhões de eleitores até Março de 2027",
+      "url": "https://correiokianda.info/luanda-preve-actualizar-registo-de-48-milhoes-de-eleitores-ate-marco-de-2027/",
       "source": "Correio Kianda",
-      "_key": "7f0c4ccc2929f8ef"
+      "_key": "1030cdab2a0e53ca"
     },
     {
-      "title": "Novo líder do CNJ chama jovens à actualização do registo eleitoral oficioso",
-      "url": "https://correiokianda.info/novo-lider-do-cnj-chama-jovens-a-actualizacao-do-registo-eleitoral-oficioso/",
+      "title": "Carla Cativa reeleita primeira-secretária provincial do MPLA no Cuando com 100% dos votos",
+      "url": "https://correiokianda.info/carla-cativa-reeleita-primeira-secretaria-provincial-do-mpla-no-cuando-com-100-dos-votos/",
       "source": "Correio Kianda",
-      "_key": "dbd5b2e64c0f0927"
+      "_key": "986fc082736ea623"
     },
     {
-      "title": "Sismo de magnitude 3,2 é detectado no município do Longonjo",
-      "url": "https://correiokianda.info/sismo-de-magnitude-32-e-detectado-no-municipio-do-longonjo/",
+      "title": "Partido Liberal denuncia agressão à delegação no Longa e aponta alegada intolerância política",
+      "url": "https://correiokianda.info/partido-liberal-denuncia-agressao-a-delegacao-no-longa-e-aponta-alegada-intolerancia-politica/",
       "source": "Correio Kianda",
-      "_key": "d4fd1f67e547d53e"
+      "_key": "cddc3df7944463ff"
     },
     {
-      "title": "Angolano Childe Dundão brilha na estreia do FC Porto na Liga Portuguesa",
-      "url": "https://correiokianda.info/angolano-childe-dundao-brilha-na-estreia-do-fc-porto-na-liga-portuguesa/",
+      "title": "Angola regista 12 novos casos de Mpox e eleva para 769 total de infecções no país",
+      "url": "https://correiokianda.info/angola-regista-12-novos-casos-de-mpox-e-eleva-para-769-total-de-infeccoes-no-pais/",
       "source": "Correio Kianda",
-      "_key": "815d7d2a9e5c6ec7"
+      "_key": "578dcea8f23c92c4"
     },
     {
-      "title": "        África10 minutos atrás  Acidente de helicóptero no Zimbabwe provoca a morte do empresário Wicknell Chivayo e da esposa Acidente aéreo em Marondera Rural resulta na morte de seis pessoas, incluindo conhecido homem de negócios e a sua esposa. O empresário zimbabweano Wicknell Chivayo, a...   ",
-      "url": "https://correiokianda.info/acidente-de-helicoptero-no-zimbabwe-provoca-a-morte-do-empresario-wicknell-chivayo-e-da-esposa/",
+      "title": "Mãe vende bebé por 100 mil kwanzas e acaba detida no Zaire",
+      "url": "https://correiokianda.info/mae-vende-bebe-por-100-mil-kwanzas-e-acaba-detida-no-zaire/",
       "source": "Correio Kianda",
-      "_key": "2a0eb2a7e6810e2f"
+      "_key": "981b28e88dcc3ae5"
     },
     {
-      "title": "        Diversos2 horas atrás  João Lourenço quer AUDA-NEPAD mais ágil e com maior capacidade de execução O Presidente da República, João Lourenço, defendeu este sábado, 3, em El Alamein, no Egipto, o reforço da capacidade institucional da Agência de Desenvolvimento da União...   ",
-      "url": "https://correiokianda.info/joao-lourenco-quer-auda-nepad-mais-agil-e-com-maior-capacidade-de-execucao/",
+      "title": "Angola celebra Semana Mundial do Espaço 2026 com foco na inovação tecnológica",
+      "url": "https://correiokianda.info/angola-celebra-semana-mundial-do-espaco-2026-com-foco-na-inovacao-tecnologica/",
       "source": "Correio Kianda",
-      "_key": "986b145421eea4ae"
+      "_key": "f971224ae16a5649"
     },
     {
-      "title": "        África3 horas atrás  Sudão enfrenta escassez de combustível em plena guerra civil O Sudão enfrenta uma nova crise de abastecimento de combustíveis, com longas filas nos postos, aumento dos preços e crescimento do comércio ilegal, num contexto marcado...   ",
-      "url": "https://correiokianda.info/sudao-enfrenta-escassez-de-combustivel-em-plena-guerra-civil/",
+      "title": "Eleições no Brasil: Quase um milhão de eleitores votam no estrangeiro",
+      "url": "https://correiokianda.info/eleicoes-no-brasil-quase-um-milhao-de-eleitores-votam-no-estrangeiro/",
       "source": "Correio Kianda",
-      "_key": "c14585d8ed95b7c0"
+      "_key": "98a3cd3014baa9a7"
     },
     {
-      "title": "Corrida à presidência no Brasil decide-se domingo",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/corrida-a-presidencia-no-brasil-decide-se-a-04-de-outubro-75128.html",
+      "title": "Brasil vai às urnas num duelo apertado entre Lula e Flávio Bolsonaro",
+      "url": "https://correiokianda.info/brasil-vai-as-urnas-num-duelo-apertado-entre-lula-e-flavio-bolsonaro/",
+      "source": "Correio Kianda",
+      "_key": "f06cd0f3e07904be"
+    },
+    {
+      "title": "Brasil vai às urnas com restrições à propaganda e uso de telemóveis",
+      "url": "https://correiokianda.info/brasil-vai-as-urnas-com-restricoes-a-propaganda-e-uso-de-telemoveis/",
+      "source": "Correio Kianda",
+      "_key": "1636643744b556db"
+    },
+    {
+      "title": "Argentina oferece cidadania a estrangeiros que investirem no país",
+      "url": "https://correiokianda.info/argentina-oferece-cidadania-a-estrangeiros-que-investirem-no-pais/",
+      "source": "Correio Kianda",
+      "_key": "45b90a15de1cbd09"
+    },
+    {
+      "title": "Brasileiros residentes em Luanda votam expectantes por uma nova fase",
+      "url": "https://correiokianda.info/brasileiros-residentes-em-luanda-votam-expectantes-por-uma-nova-fase/",
+      "source": "Correio Kianda",
+      "_key": "787b16c8b5f57855"
+    },
+    {
+      "title": "Eugénia das Neves é Miss Angola 2026 e leva primeira coroa nacional ao Uíge",
+      "url": "https://correiokianda.info/eugenia-das-neves-e-miss-angola-2026-e-leva-primeira-coroa-nacional-ao-uige/",
+      "source": "Correio Kianda",
+      "_key": "fbd37955cac3e683"
+    },
+    {
+      "title": "Internacional angolano Nzola marca no primeiro jogo pelo Cagliari",
+      "url": "https://correiokianda.info/internacional-angolano-nzola-marca-no-primeiro-jogo-pelo-cagliari/",
+      "source": "Correio Kianda",
+      "_key": "906be364b4a5bd1d"
+    },
+    {
+      "title": "Burkina Faso recorre aos Sub-23 para enfrentar Argentina após recusa dos jogadores da selecção principal",
+      "url": "https://correiokianda.info/burkina-faso-recorre-aos-sub-23-para-enfrentar-argentina-apos-recusa-dos-jogadores-da-seleccao-principal/",
+      "source": "Correio Kianda",
+      "_key": "6c2cca265399d09b"
+    },
+    {
+      "title": "Dispensado dos Palancas por lesão, Nteka volta a jogar pelo Rayo",
+      "url": "https://correiokianda.info/dispensado-dos-palancas-por-lesao-nteka-volta-a-jogar-pelo-rayo/",
+      "source": "Correio Kianda",
+      "_key": "a7073e87745b4507"
+    },
+    {
+      "title": "África do Sul projecta circuito de 402 milhões de dólares para garantir o regresso da Fórmula 1",
+      "url": "https://correiokianda.info/africa-do-sul-projecta-circuito-de-402-milhoes-de-dolares-para-garantir-o-regresso-da-formula-1/",
+      "source": "Correio Kianda",
+      "_key": "7f737d17983eb66b"
+    },
+    {
+      "title": "        Diversos6 horas atrás  Argentina transforma amistoso em goleada e despacha Burkina Faso por 7-0 A Argentina transformou o amistoso deste sábado, 3, num verdadeiro passeio e goleou o Burkina Faso por 7-0, no Estádio Monumental de Núñez, em Buenos Aires,...   ",
+      "url": "https://correiokianda.info/argentina-transforma-amistoso-em-goleada-e-despacha-burkina-faso-por-7-0/",
+      "source": "Correio Kianda",
+      "_key": "7ebcfbb08b19cb24"
+    },
+    {
+      "title": "Afreximbank aprova 1,3 mil milhões de dólares para financiar fábrica de fertilizantes em Angola",
+      "url": "https://diariodosnegocios.com/afreximbank-aprova-13-mil-milhoes-de-dolares-para-financiar-fabrica-de-fertilizantes-em-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "f7cbc16b93e3fd5f"
+    },
+    {
+      "title": "Discurso de João Lourenço na Cimeira da AUDA-NEPAD: Autonomia financeira, Corredor do Lobito e nova representação em Luanda",
+      "url": "https://diariodosnegocios.com/discurso-de-joao-lourenco-na-cimeira-da-auda-nepad-autonomia-financeira-corredor-do-lobito-e-nova-representacao-em-luanda/",
+      "source": "Diário dos Negócios",
+      "_key": "7ca5a736fb444877"
+    },
+    {
+      "title": "Presidente João Lourenço co-preside Cimeira da AUDA-NEPAD e apela a contribuições voluntárias dos Estados africanos",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-co-preside-cimeira-da-auda-nepad-e-apela-a-contribuicoes-voluntarias-dos-estados-africanos/",
+      "source": "Diário dos Negócios",
+      "_key": "d733e144092e7731"
+    },
+    {
+      "title": "AGT aplica taxa de 2% de \"rendimentos presumidos\" a todos os despachantes oficiais",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e4ed0da4e095ab"
+    },
+    {
+      "title": "África tem uma atenção \"alta\" no programa de Lula da Silva e \"nula\" no de Flávio Bolsonaro",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7bb041ec4967d1"
+    },
+    {
+      "title": "África tem uma atenção \"alta\" no programa de Lula da Silva e \"nula\" no de Flávio BolsonaroÁfrica aparece de \"forma desigual\" nas propostas dos 13 candidatos. Seis não fazem referência ao continente e em sete varia entre uma aproximação diplomática e estratégica, perspectivas comerciais e menções pontuais.",
+      "url": "https://expansao.co.ao/mundo/detalhe/africa-tem-uma-atencao-alta-no-programa-de-lula-da-silva-e-nula-no-de-flavio-bolsonaro-75081.html",
+      "source": "Expansão",
+      "_key": "47b6fa5b6ab32736"
+    },
+    {
+      "title": "João Lourenço defende que África deve assumir responsabilidade pelo seu desenvolvimento",
+      "url": "https://holdonangola.com/joao-lourenco-defende-que-africa-deve-assumir-responsabilidade-pelo-seu-desenvolvimento/",
+      "source": "Hold On Angola",
+      "_key": "14c3a09b5f961c22"
+    },
+    {
+      "title": "Países africanos unem-se a Putin e Xi Jinping contra sanções unilaterais na ONU",
+      "url": "https://holdonangola.com/paises-africanos-unem-se-a-putin-e-xi-jinping-contra-sancoes-unilaterais-na-onu/",
+      "source": "Hold On Angola",
+      "_key": "aa74406c4bd1a079"
+    },
+    {
+      "title": "MSM admite saída de Francisco Teixeira do país para continuidade do tratamento",
+      "url": "https://holdonangola.com/msm-admite-saida-de-francisco-teixeira-do-pais-para-continuidade-do-tratamento/",
+      "source": "Hold On Angola",
+      "_key": "fc8d075b12b9909b"
+    },
+    {
+      "title": "SINSE prepara alegada campanha de desgate contra Francisco Teixeira",
+      "url": "https://holdonangola.com/sinse-prepara-alegada-campanha-de-desgate-contra-francisco-teixeira/",
+      "source": "Hold On Angola",
+      "_key": "5b60e5f543c03ffc"
+    },
+    {
+      "title": "Moçambique: ANAMOLA denuncia alegada instrumentalização da PRM para…",
+      "url": "https://holdonangola.com/mocambique-anamola-denuncia-alegada-instrumentalizacao-da-prm-para-impedir-marcha-antes-do-dia-da-paz/",
+      "source": "Hold On Angola",
+      "_key": "96a3013d1ebdf239"
+    },
+    {
+      "title": "Rússia prevê duplicar exportações de óleo de girassol…",
+      "url": "https://holdonangola.com/russia-preve-duplicar-exportacoes-de-oleo-de-girassol-para-a-china/",
+      "source": "Hold On Angola",
+      "_key": "934023c4f48c5cfd"
+    },
+    {
+      "title": "Domingo, 4 de Outubro, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_f15fc66415cd5f"
+    },
+    {
+      "title": "Presidente João Lourenço defende \"cultura de execução...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/presidente-joao-lourenco-defende-cultura-de-execucao-orientada-para-resultados-na-cimeira-da-agencia-para-o-desenvolvimento-da-uniao-africana-75129.html",
       "source": "Novo Jornal",
-      "_key": "0e0c78664f61e0d6"
+      "_key": "54d4825466113bd0"
+    },
+    {
+      "title": "Eleições do Brasil: mais de 700 brasileiros votam em...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/eleicoes-do-brasil-mais-de-700-brasileiros-votam-em-angola-entre-tranquilidade-e-forte-afluencia-75131.html",
+      "source": "Novo Jornal",
+      "_key": "bb7da86bb829ad50"
+    },
+    {
+      "title": "PONTO & CONTRAPONTO: DEBATE POLÍTICO SEMANAL. PROLIFERAÇÃO DE MOVIMENTOS CÍVICOS EM ANO PRÉ-ELEITORAL. ",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=75130",
+      "source": "Novo Jornal",
+      "_key": "a59c4a135877d831"
     }
   ]
 }
