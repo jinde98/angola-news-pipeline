@@ -1,112 +1,464 @@
 {
-  "date": "2026-10-04",
-  "total_new": 53,
-  "total_filtered": 13,
+  "date": "2026-10-05",
+  "total_new": 146,
+  "total_filtered": 57,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Lobito Atlantic Railway regista 29 mil toneladas de minérios A Lobito Atlantic Railway (LAR) exportou, de Abril até Junho deste ano, um volume de carga estimado em 29 mil toneladas de minérios no tráfego internacional, um recorde nas operações logística da empresa operadora do Corredor do Lobito.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/686685/lobito-atlantic-railway-regista-29-mil-toneladas-de-min%C3%A9rios",
-      "source": "Jornal de Angola",
-      "_key": "456fc824ae313622",
+      "title": "Ministro dos Transportes participa na Reunião de Coordenação do Corredor do Lobito em Lusaka",
+      "url": "https://opais.ao/economia/ministro-dos-transportes-participa-na-reuniao-de-coordenacao-do-corredor-do-lobito-em-lusaka/",
+      "source": "O País",
+      "_key": "483de4e161c0f108",
+      "score": 10,
+      "title_cn": "交通部长在卢萨卡出席洛比托走廊协调会议"
+    },
+    {
+      "title": "Angola participates in Lobito Corridor Coordination Meeting in Zambia",
+      "url": "https://www.angop.ao/en/noticias/transporte/angola-participa-na-reuniao-de-coordenacao-do-corredor-do-lobito-na-zambia/",
+      "source": "ANGOP",
+      "_key": "8d707937de757844",
       "score": 9,
-      "title_cn": "洛比托大西洋铁路（LAR）二季度出口矿石2.9万吨"
+      "title_cn": "安哥拉参加赞比亚洛比托走廊协调会议"
     },
     {
-      "title": "João Lourenço destaca mobilização de 43,9 mil milhões USD para financiar infra-estruturas em África",
-      "url": "https://forbesafricalusofona.com/joao-lourenco-destaca-mobilizacao-de-439-mil-milhoes-usd-para-financiar-infra-estruturas-em-africa/",
-      "source": "Forbes África",
-      "_key": "a288018b3efcc7e6",
+      "title": "Política Ministro dos Transportes em Lusaka para reunião do Corredor do Lobito ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686771/ministro-dos-transportes-em-lusaka-para-reuni%C3%A3o-do-corredor-do-lobito",
+      "source": "Jornal de Angola",
+      "_key": "fce2f5c0ef676f5b",
+      "score": 9,
+      "title_cn": "交通部长赴卢萨卡参加洛比托走廊会议"
+    },
+    {
+      "title": "PR manda abrir concurso para a construção de habitação...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-manda-abrir-concurso-para-a-construcao-de-habitacao-social-em-varios-municipios-do-bengo-100-casas-vao-custar-48-mil-milhoes-kz-75139.html",
+      "source": "Novo Jornal",
+      "_key": "459ae36ccb28b60b",
+      "score": 9,
+      "title_cn": "总统下令启动住房建设项目招标"
+    },
+    {
+      "title": "Fisco e “vício de inspecções” travam investidores em Angola, denunciam...",
+      "url": "https://valoreconomico.co.ao/artigo/fisco-e-vicio-de-inspeccoes-travam-investidores-em-angola-denunciam-associacoes",
+      "source": "Valor Económico",
+      "_key": "e87a93fd682d8aaf",
+      "score": 9,
+      "title_cn": "报告称安哥拉税收和过度检查阻碍投资者"
+    },
+    {
+      "title": "Angolan govt reaffirms commitment to new housing projects",
+      "url": "https://www.angop.ao/en/noticias/economia/governo-reitera-construcao-de-novas-urbanizacoes/",
+      "source": "ANGOP",
+      "_key": "61617c8aad04ff50",
       "score": 8,
-      "title_cn": "若昂·洛伦索（João Lourenço）强调为非洲基建筹集439亿美元"
+      "title_cn": "安哥拉政府重申致力于新住房项目"
     },
     {
-      "title": "International Mining Conference charts future of sector",
-      "url": "https://www.angop.ao/en/noticias/economia/conferencia-internacional-de-minas-desenha-futuro-do-sector/",
+      "title": "Housing",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=4589",
       "source": "ANGOP",
-      "_key": "6c8cc0c46b817014",
+      "_key": "4e3fecb7dcfc8d3a",
+      "score": 8,
+      "title_cn": "住房"
+    },
+    {
+      "title": "João Lourenço quer África menos dependente de financiamento externo",
+      "url": "https://correiokianda.info/joao-lourenco-quer-africa-menos-dependente-de-financiamento-externo/",
+      "source": "Correio Kianda",
+      "_key": "e99dae84ce3b978e",
+      "score": 8,
+      "title_cn": "若昂·洛伦索（João Lourenço）希望非洲减少对外部融资的依赖"
+    },
+    {
+      "title": "Japão empresta 249 milhões USD para reforçar rede eléctrica no Sul",
+      "url": "https://expansao.co.ao/angola/detalhe/japao-empresta-249-milhoes-usd-para-reforcar-rede-electrica-no-sul-75082.html",
+      "source": "Expansão",
+      "_key": "e8ba263cc835cdb8",
+      "score": 8,
+      "title_cn": "日本贷款2.49亿美元加强南部电网"
+    },
+    {
+      "title": "Angola quer deixar de viver do “potencial” agrícola: Brasil e Portugal são chamados a acelerar investimentoPorForbes Staff",
+      "url": "https://forbesafricalusofona.com/angola-quer-deixar-de-viver-do-potencial-agricola-brasil-e-portugal-sao-chamados-a-acelerar-investimento/",
+      "source": "Forbes África",
+      "_key": "654cb04c70c7fca4",
+      "score": 8,
+      "title_cn": "安哥拉欲摆脱农业“潜力”依赖，呼吁巴西葡萄牙加速投资"
+    },
+    {
+      "title": "Destaque Nova centralidade de Malanje inaugurada terça-feira A nova centralidade da província de Malanje denominada Monteiro Capunga, vai ser inaugurada, terça-feira, pelo ministro das Obras Públicas, Urbanismo e Habitação, Carlos dos Santos.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/686802/nova-centralidade-de-malanje-inaugurada-ter%C3%A7a-feira-",
+      "source": "Jornal de Angola",
+      "_key": "5fa8b3f7531fd923",
+      "score": 8,
+      "title_cn": "马兰热新城市中心“蒙泰罗·卡蓬加”周二落成"
+    },
+    {
+      "title": "Circular rodoviária exterior de Caxito avança por 988...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/circular-rodoviaria-exterior-de-caxito-avanca-por-988-milhoes-de-dolares-e-por-ajuste-directo-75140.html",
+      "source": "Novo Jornal",
+      "_key": "412f6d470a2dd75c",
+      "score": 8,
+      "title_cn": "卡希托外环路项目进展顺利"
+    },
+    {
+      "title": "Governo investe 4,8 mil milhões de kwanzas na construção de...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-investe-4-8-mil-milhoes-de-kwanzas-na-construcao-de-100-casas-sociais-no-bengo",
+      "source": "Valor Económico",
+      "_key": "213ca84de26cd94c",
+      "score": 8,
+      "title_cn": "政府投资48亿宽扎用于建设"
+    },
+    {
+      "title": "President João Lourenço returns from Egypt",
+      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-regressa-ao-pais-apos-missao-no-egipto/",
+      "source": "ANGOP",
+      "_key": "a4b2e29dd5219bb6",
       "score": 7,
-      "title_cn": "国际矿业大会展望行业未来"
+      "title_cn": "总统若昂·洛伦索（João Lourenço）自埃及返程"
     },
     {
-      "title": "Destaque Angola defende maior autonomia económica de ÁfricaInterligar as economias, expandir o comércio intra-africano, construir infra-estruturas regionais, mobilizar recursos financeiros próprios e reforçar a capacidade produtiva são condições indispensáveis para que África possa determinar, com maior autonomia, o seu próprio futuro, defendeu, este domingo, em El Alamein, o Chefe de Estado, João Lourenço.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686714/angola-defende-maior-autonomia-econ%C3%B3mica-de-%C3%A1frica",
+      "title": "Regresso",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=37843",
+      "source": "ANGOP",
+      "_key": "4840faf366da8d6c",
+      "score": 7,
+      "title_cn": "返程"
+    },
+    {
+      "title": "África precisa deixar de ser apenas fornecedora de matérias-primas: líderes defendem industrialização e comércio intra-africano em Alamein",
+      "url": "https://diariodosnegocios.com/uniao-africana-reuniao-coordenacao-el-alamein-joao-lourenco-relatorio-auda-nepad/",
+      "source": "Diário dos Negócios",
+      "_key": "2d9931ea25645ee7",
+      "score": 7,
+      "title_cn": "非洲领导人在阿拉曼呼吁工业化和非洲内部贸易，摆脱原材料供应国地位"
+    },
+    {
+      "title": "MINSA vai gastar quase 1,1 mil milhões Kz na compra de 14 viaturas – a mais cara está avaliada em 102 milhões Kz",
+      "url": "https://diariodosnegocios.com/minsa-vai-gastar-quase-11-mil-milhoes-kz-na-compra-de-14-viaturas-a-mais-cara-esta-avaliada-em-102-milhoes-kz/",
+      "source": "Diário dos Negócios",
+      "_key": "1d65c2a3c0fe1be0",
+      "score": 7,
+      "title_cn": "卫生部将斥资11亿宽扎购买14辆车，最贵一辆1.02亿宽扎"
+    },
+    {
+      "title": "Presidente João Lourenço regressa a Angola após missão no Egipto",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-regressa-a-angola-apos-missao-no-egipto/",
+      "source": "Diário dos Negócios",
+      "_key": "b5fc6730084a806a",
+      "score": 7,
+      "title_cn": "总统若昂·洛伦索（João Lourenço）结束埃及任务返回安哥拉"
+    },
+    {
+      "title": "Destaque João Lourenço recebe embaixadores de Espanha e PortugalO Chefe de Estado, João Lourenço, recebeu, esta segunda-feira, em audiências separadas, no Palácio Presidencial da Cidade Alta, em Luanda, os embaixadores do Reino de Espanha e da República de Portugal acreditados em Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686813/jo%C3%A3o-louren%C3%A7o-recebe-embaixadores-de-espanha-e-portugal",
       "source": "Jornal de Angola",
-      "_key": "3741e9953aeadc81",
+      "_key": "68b3007e68d16c7e",
+      "score": 7,
+      "title_cn": "国家元首若昂·洛伦科（Joao Lourenco）在罗安达总统府举行的听证会上，分别接见了派驻安哥拉的西班牙王国和葡萄牙共和国大使。"
+    },
+    {
+      "title": "Sociedade Okavango-Zambeze pode alavancar diversificação da economia nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/686789/okavango-zambeze-pode-alavancar-diversifica%C3%A7%C3%A3o-da-economia-nacional",
+      "source": "Jornal de Angola",
+      "_key": "4fb3d52e65640cba",
+      "score": 7,
+      "title_cn": "奥卡万戈-赞比西可推动国家经济多元化"
+    },
+    {
+      "title": "Política Angola participa na 10.ª Conferência Mundial das Indústrias Extractivas em Bruxelas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686776/angola-participa-na-10.%C2%AA-confer%C3%AAncia-mundial-das-ind%C3%BAstrias-extractivas-em-bruxelas",
+      "source": "Jornal de Angola",
+      "_key": "fb4e5621bbb85bdd",
+      "score": 7,
+      "title_cn": "安哥拉参加布鲁塞尔第十届世界采掘业大会"
+    },
+    {
+      "title": "Empresas-âncora III: Opaia é a potencial plataforma da industrialização",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/686775/empresas-%C3%A2ncora-iii:-opaia--%C3%A9-a-potencial-plataforma--da-industrializa%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "5b377742b14406fa",
+      "score": 7,
+      "title_cn": "支柱企业三：奥帕亚（Opaia）是潜在工业化平台"
+    },
+    {
+      "title": "Última hora João Lourenço regressa ao país após missão no Egipto",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686732/jo%C3%A3o-louren%C3%A7o-regressa-ao-pa%C3%ADs-ap%C3%B3s-miss%C3%A3o-no-egipto",
+      "source": "Jornal de Angola",
+      "_key": "5176ddcb4845603e",
+      "score": 7,
+      "title_cn": "Joao Lourenco刚刚结束在埃及的使命返回该国。"
+    },
+    {
+      "title": "Desactivado foco de exploração ilícita de ouro no Capenda-Camulemba",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_2006074da0bab2",
+      "score": 7,
+      "title_cn": "卡彭达-卡穆伦巴非法金矿开采点被捣毁"
+    },
+    {
+      "title": "    Sociedade Desactivado foco de exploração ilícita de ouro no Capenda-Camulemba O Comando Municipal da Polícia Nacional em Capenda-Camulemba, na província da Lunda-Norte, realizou, no sábado, 03, uma operação de sensibil... ",
+      "url": "https://namiradocrime.info/show/17685",
+      "source": "Na Mira do Crime",
+      "_key": "f22f7c444ae0cabf",
+      "score": 7,
+      "title_cn": "北隆达省卡彭达-卡穆伦巴非法金矿开采点被捣毁"
+    },
+    {
+      "title": "Polícia Fiscal Aduaneira apreende 12 embarcações por pesca ilegal e violação do perímetro de segurança das plataformas petrolíferas",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-fiscal-aduaneira-apreende-12-embarcacoes-por-pesca-ilegal-e-violacao-do-perimetro-de-seguranca-das-plataformas-petroliferas-75144.html",
+      "source": "Novo Jornal",
+      "_key": "5056d480215cda10",
+      "score": 7,
+      "title_cn": "海关税务警察查获12艘船只，涉嫌非法捕鱼和侵犯石油平台安全区"
+    },
+    {
+      "title": "GGPEN trabalha na restauração da conectividade via ANGOSAT-2 na Lunda-Sul",
+      "url": "https://opais.ao/sociedade/ggpen-trabalha-na-restauracao-da-conectividade-via-angosat-2-na-lunda-sul/",
+      "source": "O País",
+      "_key": "814788bfaacfbc1e",
+      "score": 7,
+      "title_cn": "国家空间计划管理办公室致力于恢复南隆达省安哥拉卫星2号连接"
+    },
+    {
+      "title": "Bancos angolanos caem no ranking dos maiores de África com...",
+      "url": "https://valoreconomico.co.ao/artigo/bancos-angolanos-caem-no-ranking-dos-maiores-de-africa-com-bic-a-registar-a-maior-descida-e-bai-a-perder-seis-posicoes",
+      "source": "Valor Económico",
+      "_key": "547fee52d7899104",
+      "score": 7,
+      "title_cn": "安哥拉银行在非洲最大银行排名中下滑"
+    },
+    {
+      "title": "BODIVA Manager highlights importance of capital market to economy",
+      "url": "https://www.angop.ao/en/noticias/economia/gestora-aponta-relevancia-do-mercado-de-capitais-na-economia/",
+      "source": "ANGOP",
+      "_key": "6a589916d06f3b45",
       "score": 6,
-      "title_cn": "安哥拉倡导非洲实现更大经济自主"
+      "title_cn": "BODIVA经理强调资本市场对经济的重要性"
     },
     {
-      "title": "Angolan President identifies integration as key to Africa's resilience",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-aponta-integracao-como-chave-para-resiliencia-de-africa/",
+      "title": "Sonangol supera metas do Projecto KUMA e certifica 5.290 jovens na província de Cabinda",
+      "url": "https://diariodosnegocios.com/sonangol-supera-metas-do-projecto-kuma-e-certifica-5-290-jovens-na-provincia-de-cabinda/",
+      "source": "Diário dos Negócios",
+      "_key": "54308aae67463e1f",
+      "score": 6,
+      "title_cn": "安哥拉国家石油公司KUMA项目超额完成，卡宾达省5290名青年获认证"
+    },
+    {
+      "title": "Presidente João Lourenço apresenta relatório da AUDA-NEPAD e destaca avanços na integração africana",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-apresenta-relatorio-da-auda-nepad-e-destaca-avancos-na-integracao-africana/",
+      "source": "Diário dos Negócios",
+      "_key": "1ddb1f5f73437de2",
+      "score": 6,
+      "title_cn": "总统若昂·洛伦索（João Lourenço）提交非洲发展机构报告，强调非洲一体化进展"
+    },
+    {
+      "title": "Nove leis ficam pelo caminho e algumas já acumulam dois anos de espera",
+      "url": "https://expansao.co.ao/angola/detalhe/nove-leis-ficam-pelo-caminho-e-algumas-ja-acumulam-dois-anos-de-espera-75084.html",
+      "source": "Expansão",
+      "_key": "057b8f601ce0daab",
+      "score": 6,
+      "title_cn": "九项法律被搁置，部分已等待两年"
+    },
+    {
+      "title": "Contribuições para fundos de pensões caem 16% pressionadas pela Sonangol Vida",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_38a42da8d2e648",
+      "score": 6,
+      "title_cn": "受安哥拉国家石油公司人寿影响，养老基金缴款下降16%"
+    },
+    {
+      "title": "Exploração diamantífera no Leste de Angola deve gerar mais benefícios para as comunidades, defende estudo",
+      "url": "https://forbesafricalusofona.com/exploracao-diamantifera-no-leste-de-angola-deve-gerar-mais-beneficios-para-as-comunidades-defende-estudo/",
+      "source": "Forbes África",
+      "_key": "f9deeab66a6ea88f",
+      "score": 6,
+      "title_cn": "研究称安哥拉东部钻石开采应为社区带来更多利益"
+    },
+    {
+      "title": "Tranquilidade e Access Bank Angola unem-se para expandir acesso a soluções de seguros",
+      "url": "https://forbesafricalusofona.com/tranquilidade-e-access-bank-angola-unem-se-para-expandir-acesso-a-solucoes-de-seguros/",
+      "source": "Forbes África",
+      "_key": "d7003a6d29c717d0",
+      "score": 6,
+      "title_cn": "特兰基利达德保险与安哥拉Access银行合作拓展保险服务"
+    },
+    {
+      "title": "Detido Indiano acusado de raptar criança de 6 anos num restaurante na ilha do cabo - Queria levar a menor para abusá-la sexualmente",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_e2542d3325da34",
+      "score": 6,
+      "title_cn": "一名印度男子在卡布岛餐厅绑架6岁儿童被捕，意图性侵"
+    },
+    {
+      "title": "    Violação Detido Indiano acusado de raptar criança de 6 anos num restaurante na ilha do cabo - Queria levar a menor para abusá-la sexualmente O Departamento de Investigação de Ilícitos Penais (DIIP) em Luanda, através dos efectivos afectos ao município da Ingombota, detiveram, na n... ",
+      "url": "https://namiradocrime.info/show/17689",
+      "source": "Na Mira do Crime",
+      "_key": "b50f1eee535ceaf0",
+      "score": 6,
+      "title_cn": "一名印度男子在卡布岛餐厅绑架6岁儿童被捕，意图性侵"
+    },
+    {
+      "title": "Cidadão indiano detido na Ilha do Cabo em Luanda por...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cidadao-indiano-detido-na-ilha-do-cabo-em-luanda-por-tentativa-de-rapto-de-menor-75156.html",
+      "source": "Novo Jornal",
+      "_key": "0dad3b1b38fade15",
+      "score": 6,
+      "title_cn": "一名印度公民在罗安达卡布岛被捕"
+    },
+    {
+      "title": "Ministro das Obras Públicas inaugura amanhã projecto habitacional de 14 edifícios em Malanje",
+      "url": "https://opais.ao/ultima_hora/ministro-das-obras-publicas-inaugura-amanha-projecto-habitacional-de-14-edificios-em-malanje/",
+      "source": "O País",
+      "_key": "d3653323618181d4",
+      "score": 6,
+      "title_cn": "公共工程部长明日将为马兰热14栋建筑住房项目揭幕"
+    },
+    {
+      "title": "Huíla regista primeiro caso de Mpox",
+      "url": "https://opais.ao/ultima_hora/huila-regista-primeiro-caso-de-mpox/",
+      "source": "O País",
+      "_key": "3052d07e1e452a57",
+      "score": 6,
+      "title_cn": "威拉省报告首例猴痘病例"
+    },
+    {
+      "title": "Trabalhadores da Justiça retomam hoje o trabalho após greve",
+      "url": "https://opais.ao/politica/trabalhadores-da-justica-retomam-hoje-o-trabalho-apos-greve/",
+      "source": "O País",
+      "_key": "5e23f5d31fabcf81",
+      "score": 6,
+      "title_cn": "司法工作人员罢工后今日复工"
+    },
+    {
+      "title": "MAPTSS elogia acordo entre SOJA e MINJUSDH e garante acompanhamento rigoroso dos acordos",
+      "url": "https://opais.ao/politica/maptss-elogia-acordo-entre-soja-e-minjusdh-e-garante-acompanhamento-rigoroso-dos-acordos/",
+      "source": "O País",
+      "_key": "dfa8c2b442078dbe",
+      "score": 6,
+      "title_cn": "公共行政、劳动和社会保障部赞扬青年组织与司法和人权部协议，并承诺严格监督"
+    },
+    {
+      "title": "Presidente regressa ao país após participação na Assembleia-Geral da ONU",
+      "url": "https://opais.ao/politica/presidente-regressa-ao-pais-apos-participacao-na-assembleia-geral-da-onu/",
+      "source": "O País",
+      "_key": "4be8cc841e387a41",
+      "score": 6,
+      "title_cn": "总统参加联合国大会后回国"
+    },
+    {
+      "title": "Carrinho Agri quer garantir mecanização e irrigação a agricultores familiares",
+      "url": "https://opais.ao/economia/carrinho-agri-quer-garantir-mecanizacao-e-irrigacao-a-agricultores-familiares/",
+      "source": "O País",
+      "_key": "94504f101686c91a",
+      "score": 6,
+      "title_cn": "卡里尼奥农业旨在为家庭农民提供机械化和灌溉保障"
+    },
+    {
+      "title": "Carrinho estabelece meta de mecanizar 100% dos agricultores do sector familiar",
+      "url": "https://opais.ao/economia/carrinho-estabelece-meta-de-mecanizar-100-dos-agricultores-do-sector-familiar/",
+      "source": "O País",
+      "_key": "27dd2eb933798f90",
+      "score": 6,
+      "title_cn": "卡里尼奥设定目标：实现家庭农业部门100%机械化"
+    },
+    {
+      "title": "Custo da ração para cacusso dispara para 38 mil kwanzas...",
+      "url": "https://valoreconomico.co.ao/artigo/custo-da-racao-para-cacusso-dispara-para-38-mil-kwanzas-e-encarece-peixe-ao-consumidor",
+      "source": "Valor Económico",
+      "_key": "a32a052e8a84bcf8",
+      "score": 6,
+      "title_cn": "鱼饲料价格飙升至3.8万宽扎"
+    },
+    {
+      "title": "Angola lays groundwork to strengthen national cybersecurity infrastructure",
+      "url": "https://www.angop.ao/en/noticias/economia/angola-assegura-bases-para-fortalecer-capacidade-de-ciberseguranca/",
       "source": "ANGOP",
-      "_key": "fbc130a2d810d192",
+      "_key": "8dc83c75f45fc264",
       "score": 5,
-      "title_cn": "安哥拉总统：一体化是非洲韧性的关键"
+      "title_cn": "安哥拉为加强国家网络安全基础设施奠定基础"
     },
     {
-      "title": "President João Lourenço pushes for Agenda 2063 Accountability",
-      "url": "https://www.angop.ao/en/noticias/politica/pr-aponta-mecanismos-para-maior-responsabilizacao-na-execucao-da-agenda-2063/",
+      "title": "Cibersegurança",
+      "url": "https://www.angop.ao/en/assuntos-relacionados/?varea=1&vtab=92931",
       "source": "ANGOP",
-      "_key": "845e97edd86dd481",
+      "_key": "10ad4862d3ee295e",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统推动“2063议程”问责制"
+      "title_cn": "网络安全"
     },
     {
-      "title": "President João Lourenço highlights AUDA-NEPAD's progress",
-      "url": "https://www.angop.ao/en/noticias/politica/presidente-da-republica-enumera-avancos-da-auda-nepad/",
-      "source": "ANGOP",
-      "_key": "c5b2afa88d21262a",
+      "title": "        África3 horas atrás  União Europeia suspende importações de carne da Namíbia devido a surto de febre aftosa A União Europeia suspendeu temporariamente a importação de carne fresca de vaca, ovelha e cabra, bem como de alguns produtos de carne processada provenientes da Namíbia....   ",
+      "url": "https://correiokianda.info/uniao-europeia-suspende-importacoes-de-carne-da-namibia-devido-a-surto-de-febre-aftosa/",
+      "source": "Correio Kianda",
+      "_key": "bd7441ebe2ccd86f",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统肯定AUDA-NEPAD进展"
+      "title_cn": "欧盟因口蹄疫暂停从纳米比亚进口肉类"
     },
     {
-      "title": "Angolan Head of State highlights continental-level work",
-      "url": "https://www.angop.ao/en/noticias/politica/chefe-de-estado-enaltece-trabalho-de-cariz-continental/",
-      "source": "ANGOP",
-      "_key": "3326a51b087c3cff",
+      "title": "Imprensa Nacional deixa prejuízos e lucra 36,8 milhões, mas auditor avisa para fragilidades fiscais",
+      "url": "https://diariodosnegocios.com/imprensa-nacional-deixa-prejuizos-e-lucra-368-milhoes-mas-auditor-avisa-para-fragilidades-fiscais/",
+      "source": "Diário dos Negócios",
+      "_key": "7511b18011e2c2eb",
       "score": 5,
-      "title_cn": "安哥拉国家元首强调非洲大陆层面工作"
+      "title_cn": "国家出版社扭亏为盈，盈利3680万，但审计师警告财政脆弱性"
     },
     {
-      "title": "Destaque Presidente de República participa na 8.ª Reunião de Coordenação Intercalar da União AfricanaO Presidente da República, João Lourenço, participou, hoje, na 8.ª Reunião de Coordenação Intercalar da União Africana realizada na cidade de El Alamein, República Árabe do Egipto.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686719/presidente-de-rep%C3%BAblica-participa-na-8.%C2%AA-reuni%C3%A3o-de-coordena%C3%A7%C3%A3o-intercalar-da-uni%C3%A3o-africana",
-      "source": "Jornal de Angola",
-      "_key": "65091dda3a0bdc07",
+      "title": "Angolanos na diáspora são os que menos enviam remessas no continente africano",
+      "url": "https://expansao.co.ao/angola/detalhe/angolanos-na-diaspora-sao-os-que-menos-enviam-remessas-no-continente-africano-75079.html",
+      "source": "Expansão",
+      "_key": "1e4dbda749275f71",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统出席非盟第八次中期协调会议"
+      "title_cn": "散居海外的安哥拉人是非洲大陆汇款最少的群体"
     },
     {
-      "title": "Política Angola participa na reunião técnica sobre segurança e saúde em Genebra ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686717/angola-participa-na-reuni%C3%A3o-t%C3%A9cnica-sobre-seguran%C3%A7a-e-sa%C3%BAde-em-genebra",
-      "source": "Jornal de Angola",
-      "_key": "71caf313e2e08d76",
+      "title": "Investir na agricultura num mundo mais instável: “A protecção do capital é importante”PorPaulo Marmé",
+      "url": "https://forbesafricalusofona.com/investir-na-agricultura-num-mundo-mais-instavel-a-proteccao-do-capital-e-importante/",
+      "source": "Forbes África",
+      "_key": "d3dcb1ba2caa25e9",
       "score": 5,
-      "title_cn": "安哥拉参加日内瓦安全与健康技术会议"
+      "title_cn": "在不稳定的世界投资农业：“资本保护很重要”"
     },
     {
-      "title": "Política João Lourenço apresenta Relatório sobre as Contribuições da AUDA-NEPAD para o Aprofundamento da Integração Regional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686716/jo%C3%A3o-louren%C3%A7o-apresenta-relat%C3%B3rio-sobre-as-contribui%C3%A7%C3%B5es-da-auda-nepad-para-o-aprofundamento-da-integra%C3%A7%C3%A3o-regional",
-      "source": "Jornal de Angola",
-      "_key": "a0ab8799cdad31d2",
+      "title": "Comissão do Mercado de Capitais vai gastar 8.800 dólares...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/comissao-do-mercado-de-capitais-vai-gastar-8800-dolares-na-compra-de-12-cadeiras-o-que-da-uma-media-de-700-usd-por-cadeira-75159.html",
+      "source": "Novo Jornal",
+      "_key": "d1b7065e060efc53",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）提交AUDA-NEPAD区域一体化贡献报告"
+      "title_cn": "资本市场委员会将花费8800美元"
     },
     {
-      "title": "Presidente João Lourenço propõe reforço financeiro da AUDA-NEPAD O Presidente da República, João Lourenço, defendeu, sábado, em New Alamein, no Egipto, o reforço da capacidade institucional e financeira da Agência de Desenvolvimento da União Africana (AUDA-NEPAD), para que a instituição esteja mais bem preparada para responder às prioridades do continente e transformar os seus programas em resultados concretos.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686671/presidente-jo%C3%A3o-louren%C3%A7o-prop%C3%B5e-refor%C3%A7o-financeiro-da-auda-nepad",
-      "source": "Jornal de Angola",
-      "_key": "404c11148364aea6",
+      "title": "Luanda regista sete mortes por acidentes de viação",
+      "url": "https://opais.ao/ultima_hora/luanda-regista-sete-mortes-por-acidentes-de-viacao/",
+      "source": "O País",
+      "_key": "b6e30a2b1045f213",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）总统提议加强AUDA-NEPAD财政"
+      "title_cn": "罗安达发生七起交通事故死亡事件"
     },
     {
-      "title": "Destaque João Lourenço discursa no Alamein Africa Fórum no EgiptoO Chefe de Estado, João Lourenço, discursou, este sábado, no \"Alamein Africa Forum\", num painel subordinado ao tema \"um novo pacto de crescimento de África num mundo turbulento\".",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/686652/jo%C3%A3o-louren%C3%A7o-discursa-no-alamein-africa-f%C3%B3rum-no-egipto",
-      "source": "Jornal de Angola",
-      "_key": "8c44cb4efd47a6a3",
+      "title": "Apreendidas mais de 500 motorizadas em Luanda",
+      "url": "https://opais.ao/desporto/apreendidas-mais-de-500-motorizadas-em-luanda/",
+      "source": "O País",
+      "_key": "bda51b601dd7cd95",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）在埃及阿拉曼非洲论坛发表演讲"
+      "title_cn": "罗安达查获500多辆摩托车"
+    },
+    {
+      "title": "Embaixada de Israel diz que voo da Flydubai foi alvo de tentativa de ataque terrorista",
+      "url": "https://opais.ao/politica/embaixada-de-israel-diz-que-voo-da-flydubai-foi-alvo-de-tentativa-de-ataque-terrorista/",
+      "source": "O País",
+      "_key": "1500625a129435cb",
+      "score": 5,
+      "title_cn": "以色列大使馆称迪拜航空航班遭遇恐怖袭击未遂"
+    },
+    {
+      "title": "Angola volta a ficar de fora do ranking das melhores...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-volta-a-ficar-de-fora-do-ranking-das-melhores-universidades-africanas",
+      "source": "Valor Económico",
+      "_key": "3b7691ddcaf4fbc9",
+      "score": 5,
+      "title_cn": "安哥拉再次无缘最佳排名"
     }
   ]
 }
