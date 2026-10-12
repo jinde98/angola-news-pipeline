@@ -1,160 +1,240 @@
 {
-  "date": "2026-10-11",
-  "total_new": 59,
-  "total_filtered": 19,
+  "date": "2026-10-12",
+  "total_new": 113,
+  "total_filtered": 29,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petroleiro explode após atingir mina naval no Estreito de Ormuz",
-      "url": "https://opais.ao/mundo/petroleiro-explode-apos-atingir-mina-naval-no-estreito-de-ormuz/",
-      "source": "O País",
-      "_key": "4efe9dfd96e0fa01",
-      "score": 8,
-      "title_cn": "油轮在霍尔木兹海峡触雷爆炸"
+      "title": "Acesso às divisas condiciona expansão internacional da Standard Gestão de Activos",
+      "url": "https://forbesafricalusofona.com/acesso-as-divisas-condiciona-expansao-internacional-da-standard-gestao-de-activos/",
+      "source": "Forbes África",
+      "_key": "f512e56cd3a770f4",
+      "score": 9,
+      "title_cn": "外汇获取受限，制约Standard资产管理公司国际扩张"
+    },
+    {
+      "title": "Ecobank adere ao sistema de pagamentos da China para reduzir...",
+      "url": "https://valoreconomico.co.ao/artigo/ecobank-adere-ao-sistema-de-pagamentos-da-china-para-reduzir-dependencia-do-dolar-em-africa",
+      "source": "Valor Económico",
+      "_key": "4e77d0953934729d",
+      "score": 9,
+      "title_cn": "Ecobank银行加入中国支付系统，旨在减少..."
     },
     {
       "title": "Nova Orgânica das Finanças: Vera Daves Centraliza Controlo do Fundo Soberano e Dívida Pública",
-      "url": "https://correiokianda.info/nova-organica-das-financas-vera-daves-centraliza-controlo-do-fundo-soberano-e-divida-publica/",
+      "url": "https://diariodosnegocios.com/nova-organica-das-financas-vera-daves-centraliza-controlo-do-fundo-soberano-e-divida-publica/",
+      "source": "Diário dos Negócios",
+      "_key": "301f49db47e60555",
+      "score": 7,
+      "title_cn": "新财政组织法：维拉·戴维斯（Vera Daves）集中控制主权基金和公共债务"
+    },
+    {
+      "title": "Preços de bens alimentares crescem 10,1% no informal e 4,1% no formal",
+      "url": "https://expansao.co.ao/economia/detalhe/precos-de-bens-alimentares-crescem-101-no-informal-e-41-no-formal-75294.html",
+      "source": "Expansão",
+      "_key": "916383dc7076b87f",
+      "score": 7,
+      "title_cn": "食品价格：非正式市场上涨10.1%，正式市场上涨4.1%"
+    },
+    {
+      "title": "Angola leva prioridades de financiamento e desenvolvimento às reuniões do Banco Mundial e do FMI",
+      "url": "https://forbesafricalusofona.com/angola-leva-prioridades-de-financiamento-e-desenvolvimento-as-reunioes-do-banco-mundial-e-do-fmi/",
+      "source": "Forbes África",
+      "_key": "a49e52e00e38d520",
+      "score": 7,
+      "title_cn": "安哥拉向世界银行和国际货币基金组织会议提交融资与发展重点"
+    },
+    {
+      "title": "BCGA reúne líderes empresariais para debater crescimento económico e diversificação de AngolaPorForbes Staff",
+      "url": "https://forbesafricalusofona.com/bcga-reune-lideres-empresariais-para-debater-crescimento-economico-e-diversificacao-de-angola/",
+      "source": "Forbes África",
+      "_key": "16460f0e9f2f7625",
+      "score": 7,
+      "title_cn": "BCGA召集商界领袖，讨论安哥拉经济增长与多元化"
+    },
+    {
+      "title": "Santa Clara prevê arrecadar 100 milhões de kwanzas mensais com novas taxas de portagem",
+      "url": "https://opais.ao/economia/santa-clara-preve-arrecadar-100-milhoes-de-kwanzas-mensais-com-novas-taxas-de-portagem/",
+      "source": "O País",
+      "_key": "960e05941c4071ea",
+      "score": 7,
+      "title_cn": "圣克拉拉预计每月通过新通行费征收1亿宽扎"
+    },
+    {
+      "title": "AIA defende flexibilidade fiscal para evitar perda de empregos",
+      "url": "https://opais.ao/sociedade/aia-defende-flexibilidade-fiscal-para-evitar-perda-de-empregos/",
+      "source": "O País",
+      "_key": "ba8c021adef1f0dd",
+      "score": 7,
+      "title_cn": "AIA主张财政灵活性，以避免失业"
+    },
+    {
+      "title": "Inflação, fraca literacia e pressão social travam a poupança das...",
+      "url": "https://valoreconomico.co.ao/artigo/inflacao-fraca-literacia-e-pressao-social-travam-a-poupanca-das-familias-em-angola",
+      "source": "Valor Económico",
+      "_key": "067be1e725e9ee15",
+      "score": 7,
+      "title_cn": "通胀、低文化水平和社会压力阻碍储蓄"
+    },
+    {
+      "title": "João Lourenço defende investimento na agricultura africana para combater a fome",
+      "url": "https://correiokianda.info/joao-lourenco-defende-investimento-na-agricultura-africana-para-combater-a-fome/",
       "source": "Correio Kianda",
-      "_key": "ab405b9c4264088b",
-      "score": 7,
-      "title_cn": "新财政组织法：维拉·达维斯（Vera Daves）集中管控主权基金和公共债务"
+      "_key": "c93306cc512cf608",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）主张投资非洲农业以对抗饥饿"
     },
     {
-      "title": "Angola procura reforçar produção de electricidade com energias renováveis",
-      "url": "https://correiokianda.info/angola-procura-reforcar-producao-de-electricidade-com-energias-renovaveis/",
+      "title": "Governo autoriza mais de 10 mil milhões de kwanzas para reabilitar a EN 280",
+      "url": "https://diariodosnegocios.com/governo-autoriza-mais-de-10-mil-milhoes-de-kwanzas-para-reabilitar-a-en-280/",
+      "source": "Diário dos Negócios",
+      "_key": "e74f00a954fcc33f",
+      "score": 6,
+      "title_cn": "政府批准超100亿宽扎用于修复EN 280国道"
+    },
+    {
+      "title": "Ministérios da Energia e Águas, da Defesa e do Interior são os campeões da derrapagem orçamental",
+      "url": "https://expansao.co.ao/angola/detalhe/ministerios-da-energia-e-aguas-da-defesa-e-do-interior-sao-os-campeoes-da-derrapagem-orcamental-75293.html",
+      "source": "Expansão",
+      "_key": "ff56eaf7aa56ba17",
+      "score": 6,
+      "title_cn": "能源水利部、国防部和内政部成为预算超支“冠军”"
+    },
+    {
+      "title": "Angola prepara adeus ao papel, carimbo e assinatura à mão nos actos legais",
+      "url": "https://expansao.co.ao/angola/detalhe/angola-prepara-adeus-ao-papel-carimbo-e-assinatura-a-mao-nos-actos-legais-75295.html",
+      "source": "Expansão",
+      "_key": "a6c9295b4fb573a4",
+      "score": 6,
+      "title_cn": "安哥拉准备告别法律文件中的纸质、盖章和手写签名"
+    },
+    {
+      "title": "PR apela ao investimento e inovação para reforçar a segurança alimentar em África",
+      "url": "https://forbesafricalusofona.com/pr-apela-ao-investimento-e-inovacao-para-reforcar-a-seguranca-alimentar-em-africa/",
+      "source": "Forbes África",
+      "_key": "f1f1bb5c74227b2c",
+      "score": 6,
+      "title_cn": "总统呼吁投资和创新，以加强非洲粮食安全"
+    },
+    {
+      "title": "FGC e SACE reforçam relações para financiar exportação de produtos agrícolas angolanos",
+      "url": "https://opais.ao/economia/fgc-e-sace-reforcam-relacoes-para-financiar-exportacao-de-produtos-agricolas-angolanos/",
+      "source": "O País",
+      "_key": "89d8bc1795b48eb2",
+      "score": 6,
+      "title_cn": "FGC与SACE加强合作，资助安哥拉农产品出口"
+    },
+    {
+      "title": "Standard Gestão de Activos realiza encontro com jornalistas sobre Mercados de Capitais",
+      "url": "https://opais.ao/economia/standard-gestao-de-activos-realiza-encontro-com-jornalistas-sobre-mercados-de-capitais/",
+      "source": "O País",
+      "_key": "c9928606ea2b5b65",
+      "score": 6,
+      "title_cn": "Standard资产管理公司与记者举行资本市场会议"
+    },
+    {
+      "title": "Detidos mais de 250 cidadãos envolvidos em crimes durante o fim-de-semana",
+      "url": "https://opais.ao/ultima_hora/detidos-mais-de-250-cidadaos-envolvidos-em-crimes-durante-o-fim-de-semana/",
+      "source": "O País",
+      "_key": "19c74d379aebf54d",
+      "score": 6,
+      "title_cn": "周末期间，超过250名涉嫌犯罪公民被捕"
+    },
+    {
+      "title": "TAAG assegura totalidade das ligações no arranque da greve dos...",
+      "url": "https://valoreconomico.co.ao/artigo/taag-assegura-totalidade-das-ligacoes-no-arranque-da-greve-dos-tecnicos-de-manutencao",
+      "source": "Valor Económico",
+      "_key": "040b4b096d4eccf9",
+      "score": 6,
+      "title_cn": "TAAG航空确保罢工开始后所有航班正常运行"
+    },
+    {
+      "title": "Investimento, tecnologia e juventude marcam participação de Angola no Fórum Mundial da Alimentação",
+      "url": "https://correiokianda.info/investimento-tecnologia-e-juventude-marcam-participacao-de-angola-no-forum-mundial-da-alimentacao/",
       "source": "Correio Kianda",
-      "_key": "c86c0c679dd068ba",
-      "score": 7,
-      "title_cn": "安哥拉寻求通过可再生能源加强电力生产"
-    },
-    {
-      "title": "Política País propõe parceria global para o futuro tecnológico ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687197/pa%C3%ADs-prop%C3%B5e-parceria-global-para-o-futuro-tecnol%C3%B3gico",
-      "source": "Jornal de Angola",
-      "_key": "2692887bc920a476",
-      "score": 7,
-      "title_cn": "安哥拉提出全球技术未来伙伴关系"
-    },
-    {
-      "title": "ANATA e Polícia Nacional reforçam parceria para garantir cumprimento do Código de Estrada",
-      "url": "https://opais.ao/ultima_hora/anata-e-policia-nacional-reforcam-parceria-para-garantir-cumprimento-do-codigo-de-estrada/",
-      "source": "O País",
-      "_key": "408efb711e85a0eb",
-      "score": 7,
-      "title_cn": "ANATA与国家警察加强合作，确保遵守交通法规"
-    },
-    {
-      "title": "Onze suspeitos detidos por vandalismo de postes de média tensão em Luanda",
-      "url": "https://opais.ao/sociedade/onze-suspeitos-detidos-por-vandalismo-de-postes-de-media-tensao-em-luanda/",
-      "source": "O País",
-      "_key": "2cd92701a70c60ea",
-      "score": 7,
-      "title_cn": "罗安达11名嫌犯因破坏中压电线杆被捕"
-    },
-    {
-      "title": "Destaque Presidente da República já em RomaO Presidente da República de Angola, João Lourenço, chegou, nas primeiras horas deste domingo, em Roma, capital italiana, para participar no Fórum Mundial da Alimentação, promovido pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687202/presidente-da-rep%C3%BAblica-j%C3%A1-em-roma",
-      "source": "Jornal de Angola",
-      "_key": "f04fb563539913c4",
-      "score": 6,
-      "title_cn": "安哥拉总统若昂·洛伦索（João Lourenço）抵达罗马，将出席世界粮食论坛"
-    },
-    {
-      "title": "Sociedade Angolanos esperam respostas para os desafios sociais e económicos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687217/angolanos-esperam-respostas-para-os-desafios-sociais-e-econ%C3%B3micos",
-      "source": "Jornal de Angola",
-      "_key": "60ded7975aac74cc",
-      "score": 6,
-      "title_cn": "安哥拉民众期待社会经济挑战的解决方案"
-    },
-    {
-      "title": "Economia Operações nos multicaixas aumentam 34,9 por cento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687214/opera%C3%A7%C3%B5es-nos-multicaixas-aumentam-349-por-cento-",
-      "source": "Jornal de Angola",
-      "_key": "78f01630f10cf6cd",
-      "score": 6,
-      "title_cn": "自动取款机交易量增长34.9%"
-    },
-    {
-      "title": "Sociedade Sinal do Angosat-2 chega à Namíbia e Moçambique ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687198/sinal-do-angosat-2-chega--%C3%A0-nam%C3%ADbia-e-mo%C3%A7ambique",
-      "source": "Jornal de Angola",
-      "_key": "9553bdd66cac875a",
-      "score": 6,
-      "title_cn": "安哥拉卫星Angosat-2信号覆盖纳米比亚和莫桑比克"
-    },
-    {
-      "title": "Política Presidente João Lourenço a caminho da Itália ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687188/presidente-jo%C3%A3o-louren%C3%A7o-a-caminho-da-it%C3%A1lia",
-      "source": "Jornal de Angola",
-      "_key": "63ed91152c02391e",
-      "score": 6,
-      "title_cn": "总统若昂·洛伦索（João Lourenço）启程前往意大利"
-    },
-    {
-      "title": "João Lourenço participa amanhã do Fórum Mundial da Alimentação em Roma",
-      "url": "https://opais.ao/politica/joao-lourenco-participa-amanha-do-forum-mundial-da-alimentacao-em-roma/",
-      "source": "O País",
-      "_key": "23f7f67c11913827",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）明日将出席罗马世界粮食论坛"
-    },
-    {
-      "title": "CEO da TAAG eleito presidente da Associação das Companhias Aéreas da África Austral",
-      "url": "https://opais.ao/economia/ceo-da-taag-eleito-presidente-da-associacao-das-companhias-aereas-da-africa-austral/",
-      "source": "O País",
-      "_key": "ca054726cc6be441",
-      "score": 6,
-      "title_cn": "安哥拉航空（TAAG）首席执行官当选南部非洲航空公司协会主席"
-    },
-    {
-      "title": "IGAE realiza mais de três mil acções inspectivas aos órgãos da Administração Pública em dois anos",
-      "url": "https://opais.ao/politica/igae-realiza-mais-de-tres-mil-accoes-inspectivas-aos-orgaos-da-administracao-publica-em-dois-anos/",
-      "source": "O País",
-      "_key": "47df8a7034dd48a1",
-      "score": 6,
-      "title_cn": "IGAE两年内对公共行政机构开展逾三千次检查"
-    },
-    {
-      "title": "Destaque Delegação angolana alinha participação no Fórum Mundial da Alimentação em RomaO ministro das Relações Exteriores, Téte António, reuniu-se, em Roma, com a delegação angolana presente em Itália, para se inteirar do programa detalhado do Fórum Mundial da Alimentação, promovido pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO).",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687189/delega%C3%A7%C3%A3o-angolana-alinha-participa%C3%A7%C3%A3o-no-f%C3%B3rum-mundial-da-alimenta%C3%A7%C3%A3o-em-roma",
-      "source": "Jornal de Angola",
-      "_key": "eecfdafe72b5b209",
+      "_key": "1b2b1ae33b0e9dfe",
       "score": 5,
-      "title_cn": "安哥拉代表团在罗马筹备世界粮食论坛，外长特特·安东尼奥（Téte António）会见代表团"
+      "title_cn": "投资、技术和青年是安哥拉参与世界粮食论坛的亮点"
     },
     {
-      "title": "Política Angola reforça presença nos debates sobre segurança alimentar mundial ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687196/angola-refor%C3%A7a-presen%C3%A7a-nos-debates--sobre-seguran%C3%A7a-alimentar-mundial--",
-      "source": "Jornal de Angola",
-      "_key": "4d57138a5e2f7aba",
+      "title": "João Lourenço junta participação no Fórum Mundial da Alimentação à agenda diplomática em Itália",
+      "url": "https://correiokianda.info/joao-lourenco-junta-participacao-no-forum-mundial-da-alimentacao-a-agenda-diplomatica-em-italia/",
+      "source": "Correio Kianda",
+      "_key": "4c4722da38d8d806",
       "score": 5,
-      "title_cn": "安哥拉加强在全球粮食安全辩论中的参与"
+      "title_cn": "若昂·洛伦索（João Lourenço）将世界粮食论坛参与纳入意大利外交议程"
     },
     {
-      "title": "13:05 / 11 out. 2026 Fórum de negócios reforça relações África - Portugal ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687239/f%C3%B3rum-de-neg%C3%B3cios-refor%C3%A7a--rela%C3%A7%C3%B5es-%C3%A1frica---portugal",
-      "source": "Jornal de Angola",
-      "_key": "9fefb08e69d8e95c",
+      "title": "TAAG garante 95% dos voos durante greve dos técnicos de manutenção até 15 de Outubro",
+      "url": "https://diariodosnegocios.com/taag-greve-tecnicos-manutencao-voos-angola/",
+      "source": "Diário dos Negócios",
+      "_key": "636d577665c857a8",
       "score": 5,
-      "title_cn": "商业论坛加强非洲与葡萄牙关系"
+      "title_cn": "TAAG航空保证在10月15日维修技术人员罢工期间95%航班正常"
     },
     {
-      "title": "09:58 / 11 out. 2026 Delegação angolana conclui missão com saldo positivo ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687195/delega%C3%A7%C3%A3o-angolana-conclui-miss%C3%A3o-com-saldo-positivo",
-      "source": "Jornal de Angola",
-      "_key": "2d83cdaadbbccdd3",
+      "title": "Angola reforça aposta na segurança alimentar global e lança candidatura africana à liderança da FAO",
+      "url": "https://diariodosnegocios.com/angola-reforca-aposta-na-seguranca-alimentar-global-e-lanca-candidatura-africana-a-lideranca-da-fao/",
+      "source": "Diário dos Negócios",
+      "_key": "71031f49b0cc69fb",
       "score": 5,
-      "title_cn": "安哥拉代表团圆满完成任务"
+      "title_cn": "安哥拉加强全球粮食安全承诺，推出非洲候选人竞选粮农组织领导"
     },
     {
-      "title": "14:52 / 10 out. 2026 Téte António em Roma para o Fórum Mundial da Alimentação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687182/t%C3%A9te-ant%C3%B3nio-em-roma-para-o-f%C3%B3rum-mundial-da-alimenta%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "2a5f681ed17bf254",
+      "title": "João Lourenço propõe em Roma nova arquitectura de segurança alimentar e apresenta candidatura de Josefa Sacko à FAO",
+      "url": "https://diariodosnegocios.com/joao-lourenco-propoe-em-roma-nova-arquitectura-de-seguranca-alimentar-e-apresenta-candidatura-de-josefa-sacko-a-fao/",
+      "source": "Diário dos Negócios",
+      "_key": "3e39b2106b61955e",
       "score": 5,
-      "title_cn": "特特·安东尼奥（Téte António）抵达罗马出席世界粮食论坛"
+      "title_cn": "若昂·洛伦索（João Lourenço）在罗马提出新粮食安全架构，并提名何塞法·萨科（Josefa Sacko）竞选粮农组织"
+    },
+    {
+      "title": "Angola é o sexto pior país no ranking de viagens e turismo do Forum Económico Mundial",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_fac3de3e484cff",
+      "score": 5,
+      "title_cn": "安哥拉在世界经济论坛旅行和旅游排名中位列倒数第六"
+    },
+    {
+      "title": " DIIP-Ambriz captura \"Tchau\" em posse de arma de guerra e evita onde de assaltos violentos - Vagão está a ser caçado adminHá 7 horas2 min de leitura",
+      "url": "https://namiradocrime.info/show/17748",
+      "source": "Na Mira do Crime",
+      "_key": "20f9bf163c5f4b95",
+      "score": 5,
+      "title_cn": "安布里什DIIP抓获持有战争武器的“Tchau”，避免暴力抢劫潮"
+    },
+    {
+      "title": "TAAG prevê assegurar a maior parte dos voos programados...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/taag-preve-assegurar-a-maior-parte-dos-voos-programados-apesar-da-greve-tecnicos-de-manutencao-acusam-companhia-de-postura-intransigente-e-ilegal-75289.html",
+      "source": "Novo Jornal",
+      "_key": "7654b1f217ce34cd",
+      "score": 5,
+      "title_cn": "TAAG航空预计将确保大部分预定航班正常运行"
+    },
+    {
+      "title": "Zâmbia e RDC projectam interligação eléctrica de 200 quilómetros avaliada em 300 milhões de dólares",
+      "url": "https://opais.ao/economia/zambia-e-rdc-projectam-interligacao-electrica-de-200-quilometros-avaliada-em-300-milhoes-de-dolares/",
+      "source": "O País",
+      "_key": "f157441bad5b169e",
+      "score": 5,
+      "title_cn": "赞比亚与刚果民主共和国规划200公里电力互联项目，估值3亿美元"
+    },
+    {
+      "title": "Comerciantes informais apontam custos elevados como barreira ao seguro",
+      "url": "https://opais.ao/economia/comerciantes-informais-apontam-custos-elevados-como-barreira-ao-seguro/",
+      "source": "O País",
+      "_key": "9595ca4cb3e836fa",
+      "score": 5,
+      "title_cn": "非正式商贩指出高成本是投保障碍"
+    },
+    {
+      "title": "IPO da refinaria Dangote pode impulsionar bolsas africanas e financiar...",
+      "url": "https://valoreconomico.co.ao/artigo/ipo-da-refinaria-dangote-pode-impulsionar-bolsas-africanas-e-financiar-infra-estruturas",
+      "source": "Valor Económico",
+      "_key": "94ed391371b63168",
+      "score": 5,
+      "title_cn": "丹格特炼油厂IPO或将提振非洲股市并资助..."
     }
   ]
 }
