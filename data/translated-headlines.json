@@ -1,240 +1,400 @@
 {
-  "date": "2026-10-12",
-  "total_new": 113,
-  "total_filtered": 29,
+  "date": "2026-10-13",
+  "total_new": 120,
+  "total_filtered": 49,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Acesso às divisas condiciona expansão internacional da Standard Gestão de Activos",
-      "url": "https://forbesafricalusofona.com/acesso-as-divisas-condiciona-expansao-internacional-da-standard-gestao-de-activos/",
-      "source": "Forbes África",
-      "_key": "f512e56cd3a770f4",
-      "score": 9,
-      "title_cn": "外汇获取受限，制约Standard资产管理公司国际扩张"
-    },
-    {
-      "title": "Ecobank adere ao sistema de pagamentos da China para reduzir...",
-      "url": "https://valoreconomico.co.ao/artigo/ecobank-adere-ao-sistema-de-pagamentos-da-china-para-reduzir-dependencia-do-dolar-em-africa",
-      "source": "Valor Económico",
-      "_key": "4e77d0953934729d",
-      "score": 9,
-      "title_cn": "Ecobank银行加入中国支付系统，旨在减少..."
-    },
-    {
-      "title": "Nova Orgânica das Finanças: Vera Daves Centraliza Controlo do Fundo Soberano e Dívida Pública",
-      "url": "https://diariodosnegocios.com/nova-organica-das-financas-vera-daves-centraliza-controlo-do-fundo-soberano-e-divida-publica/",
-      "source": "Diário dos Negócios",
-      "_key": "301f49db47e60555",
-      "score": 7,
-      "title_cn": "新财政组织法：维拉·戴维斯（Vera Daves）集中控制主权基金和公共债务"
-    },
-    {
-      "title": "Preços de bens alimentares crescem 10,1% no informal e 4,1% no formal",
-      "url": "https://expansao.co.ao/economia/detalhe/precos-de-bens-alimentares-crescem-101-no-informal-e-41-no-formal-75294.html",
+      "title": "Guerra pelos minerais críticos pressiona Corredor do Lobito a desenvolver-se mais depressa",
+      "url": "https://expansao.co.ao/angola/detalhe/guerra-pelos-minerais-criticos-pressiona-corredor-do-lobito-a-desenvolver-se-mais-depressa-75326.html",
       "source": "Expansão",
-      "_key": "916383dc7076b87f",
-      "score": 7,
-      "title_cn": "食品价格：非正式市场上涨10.1%，正式市场上涨4.1%"
+      "_key": "97f3f2db590523fd",
+      "score": 10,
+      "title_cn": "关键矿产竞争加速洛比托走廊发展"
     },
     {
-      "title": "Angola leva prioridades de financiamento e desenvolvimento às reuniões do Banco Mundial e do FMI",
-      "url": "https://forbesafricalusofona.com/angola-leva-prioridades-de-financiamento-e-desenvolvimento-as-reunioes-do-banco-mundial-e-do-fmi/",
-      "source": "Forbes África",
-      "_key": "a49e52e00e38d520",
-      "score": 7,
-      "title_cn": "安哥拉向世界银行和国际货币基金组织会议提交融资与发展重点"
-    },
-    {
-      "title": "BCGA reúne líderes empresariais para debater crescimento económico e diversificação de AngolaPorForbes Staff",
-      "url": "https://forbesafricalusofona.com/bcga-reune-lideres-empresariais-para-debater-crescimento-economico-e-diversificacao-de-angola/",
-      "source": "Forbes África",
-      "_key": "16460f0e9f2f7625",
-      "score": 7,
-      "title_cn": "BCGA召集商界领袖，讨论安哥拉经济增长与多元化"
-    },
-    {
-      "title": "Santa Clara prevê arrecadar 100 milhões de kwanzas mensais com novas taxas de portagem",
-      "url": "https://opais.ao/economia/santa-clara-preve-arrecadar-100-milhoes-de-kwanzas-mensais-com-novas-taxas-de-portagem/",
+      "title": "Celso Rosas considera Corredor do Lobito como aposta estratégica para transformar Angola num centro logístico da África Austral",
+      "url": "https://opais.ao/economia/celso-rosas-considera-corredor-do-lobito-como-aposta-estrategica-para-transformar-angola-num-centro-logistico-da-africa-austral/",
       "source": "O País",
-      "_key": "960e05941c4071ea",
-      "score": 7,
-      "title_cn": "圣克拉拉预计每月通过新通行费征收1亿宽扎"
+      "_key": "a7af02cf7723e7cb",
+      "score": 10,
+      "title_cn": "Celso Rosas（塞尔索·罗萨斯）视洛比托走廊为安哥拉南部非洲物流中心战略支柱"
     },
     {
-      "title": "AIA defende flexibilidade fiscal para evitar perda de empregos",
-      "url": "https://opais.ao/sociedade/aia-defende-flexibilidade-fiscal-para-evitar-perda-de-empregos/",
-      "source": "O País",
-      "_key": "ba8c021adef1f0dd",
-      "score": 7,
-      "title_cn": "AIA主张财政灵活性，以避免失业"
-    },
-    {
-      "title": "Inflação, fraca literacia e pressão social travam a poupança das...",
-      "url": "https://valoreconomico.co.ao/artigo/inflacao-fraca-literacia-e-pressao-social-travam-a-poupanca-das-familias-em-angola",
+      "title": "Petróleo Brent recua 1,35% com expectativa de aumento da oferta...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-recua-1-35-com-expectativa-de-aumento-da-oferta-russa",
       "source": "Valor Económico",
-      "_key": "067be1e725e9ee15",
-      "score": 7,
-      "title_cn": "通胀、低文化水平和社会压力阻碍储蓄"
+      "_key": "9816f6aea5d559f9",
+      "score": 10,
+      "title_cn": "供应增加预期下，布伦特原油下跌1.35%"
     },
     {
-      "title": "João Lourenço defende investimento na agricultura africana para combater a fome",
-      "url": "https://correiokianda.info/joao-lourenco-defende-investimento-na-agricultura-africana-para-combater-a-fome/",
+      "title": "Mercado angolano visto entre os maiores com potencial de crescimento de fundos de investimento",
+      "url": "https://opais.ao/economia/mercado-angolano-visto-entre-os-maiores-com-potencial-de-crescimento-de-fundos-de-investimento/",
+      "source": "O País",
+      "_key": "cddfbd4fe7fd09f4",
+      "score": 9,
+      "title_cn": "安哥拉市场被视为投资资金增长潜力最大的市场之一"
+    },
+    {
+      "title": "Importações pressionam comércio por grosso e representam 61% da inflação",
+      "url": "https://valoreconomico.co.ao/artigo/importacoes-pressionam-comercio-por-grosso-e-representam-61-da-inflacao",
+      "source": "Valor Económico",
+      "_key": "48c804869ce62a05",
+      "score": 9,
+      "title_cn": "进口挤压批发贸易，占通胀的61%"
+    },
+    {
+      "title": "Concurso da AGT para combustível restrito a empresas nacionais",
+      "url": "https://diariodosnegocios.com/concurso-da-agt-para-combustivel-restrito-a-empresas-nacionais/",
+      "source": "Diário dos Negócios",
+      "_key": "9b8b207776ac9762",
+      "score": 8,
+      "title_cn": "安哥拉税务总局（AGT）燃料招标仅限本国企业"
+    },
+    {
+      "title": "Angola apresenta prioridades nacionais nas Reuniões Anuais do Banco Mundial e do FMI",
+      "url": "https://opais.ao/economia/angola-apresenta-prioridades-nacionais-nas-reunioes-anuais-do-banco-mundial-e-do-fmi/",
+      "source": "O País",
+      "_key": "aafb872c6d575305",
+      "score": 8,
+      "title_cn": "安哥拉在世界银行和国际货币基金组织年会上阐述国家优先事项"
+    },
+    {
+      "title": "FMI antecipa aceleração do crescimento da economia para 4,4% em...",
+      "url": "https://valoreconomico.co.ao/artigo/fmi-antecipa-aceleracao-do-crescimento-da-economia-para-4-4-em-2026-mas-alerta-para-travagem-em-2027",
+      "source": "Valor Económico",
+      "_key": "9e71452c78044f01",
+      "score": 8,
+      "title_cn": "国际货币基金组织预计安哥拉经济增长将加速至4.4%"
+    },
+    {
+      "title": "BNA publica guia com novas regras de transparência para as...",
+      "url": "https://valoreconomico.co.ao/artigo/bna-publica-guia-com-novas-regras-de-transparencia-para-as-instituicoes-financeiras",
+      "source": "Valor Económico",
+      "_key": "7584107587a46fb1",
+      "score": 8,
+      "title_cn": "安哥拉国家银行（BNA）发布新透明度规则指南"
+    },
+    {
+      "title": "Banco Nacional de Angola estabelece novas directrizes de sustentabilidade e transparência para o sector financeiro",
+      "url": "https://correiokianda.info/banco-nacional-de-angola-estabelece-novas-directrizes-de-sustentabilidade-e-transparencia-para-o-sector-financeiro/",
       "source": "Correio Kianda",
-      "_key": "c93306cc512cf608",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）主张投资非洲农业以对抗饥饿"
-    },
-    {
-      "title": "Governo autoriza mais de 10 mil milhões de kwanzas para reabilitar a EN 280",
-      "url": "https://diariodosnegocios.com/governo-autoriza-mais-de-10-mil-milhoes-de-kwanzas-para-reabilitar-a-en-280/",
-      "source": "Diário dos Negócios",
-      "_key": "e74f00a954fcc33f",
-      "score": 6,
-      "title_cn": "政府批准超100亿宽扎用于修复EN 280国道"
-    },
-    {
-      "title": "Ministérios da Energia e Águas, da Defesa e do Interior são os campeões da derrapagem orçamental",
-      "url": "https://expansao.co.ao/angola/detalhe/ministerios-da-energia-e-aguas-da-defesa-e-do-interior-sao-os-campeoes-da-derrapagem-orcamental-75293.html",
-      "source": "Expansão",
-      "_key": "ff56eaf7aa56ba17",
-      "score": 6,
-      "title_cn": "能源水利部、国防部和内政部成为预算超支“冠军”"
+      "_key": "58af3bbac4bd5726",
+      "score": 7,
+      "title_cn": "安哥拉国家银行制定金融业可持续发展与透明度新准则"
     },
     {
       "title": "Angola prepara adeus ao papel, carimbo e assinatura à mão nos actos legais",
-      "url": "https://expansao.co.ao/angola/detalhe/angola-prepara-adeus-ao-papel-carimbo-e-assinatura-a-mao-nos-actos-legais-75295.html",
-      "source": "Expansão",
-      "_key": "a6c9295b4fb573a4",
-      "score": 6,
-      "title_cn": "安哥拉准备告别法律文件中的纸质、盖章和手写签名"
+      "url": "https://diariodosnegocios.com/angola-prepara-adeus-ao-papel-carimbo-e-assinatura-a-mao-nos-actos-legais/",
+      "source": "Diário dos Negócios",
+      "_key": "8ab52773ccc59260",
+      "score": 7,
+      "title_cn": "安哥拉法律文件将告别纸质、盖章和手写签名"
     },
     {
-      "title": "PR apela ao investimento e inovação para reforçar a segurança alimentar em África",
-      "url": "https://forbesafricalusofona.com/pr-apela-ao-investimento-e-inovacao-para-reforcar-a-seguranca-alimentar-em-africa/",
+      "title": "Sector dos jogos piora o risco já alto de branqueamento de capitais em 2025",
+      "url": "https://diariodosnegocios.com/sector-dos-jogos-piora-o-risco-ja-alto-de-branqueamento-de-capitais-em-2025/",
+      "source": "Diário dos Negócios",
+      "_key": "58900ec77b0c166b",
+      "score": 7,
+      "title_cn": "2025年博彩业将加剧洗钱高风险"
+    },
+    {
+      "title": "Sector dos jogos piora o risco já alto de branqueamento de capitais em 2025",
+      "url": "https://expansao.co.ao/angola/detalhe/sector-dos-jogos-piora-o-risco-ja-alto-de-branqueamento-de-capitais-em-2025-75328.html",
+      "source": "Expansão",
+      "_key": "59ebbea656d44764",
+      "score": 7,
+      "title_cn": "2025年博彩业将加剧洗钱高风险"
+    },
+    {
+      "title": "África lusófona procura investidores para acelerar corredores logísticos, agronegócio e turismo sustentável",
+      "url": "https://forbesafricalusofona.com/africa-lusofona-procura-investidores-para-acelerar-corredores-logisticos-agronegocio-e-turismo-sustentavel/",
       "source": "Forbes África",
-      "_key": "f1f1bb5c74227b2c",
-      "score": 6,
-      "title_cn": "总统呼吁投资和创新，以加强非洲粮食安全"
+      "_key": "891cfae6ba9aacdb",
+      "score": 7,
+      "title_cn": "葡语非洲寻求投资者加速物流走廊、农业综合企业和可持续旅游发展"
     },
     {
-      "title": "FGC e SACE reforçam relações para financiar exportação de produtos agrícolas angolanos",
-      "url": "https://opais.ao/economia/fgc-e-sace-reforcam-relacoes-para-financiar-exportacao-de-produtos-agricolas-angolanos/",
-      "source": "O País",
-      "_key": "89d8bc1795b48eb2",
-      "score": 6,
-      "title_cn": "FGC与SACE加强合作，资助安哥拉农产品出口"
-    },
-    {
-      "title": "Standard Gestão de Activos realiza encontro com jornalistas sobre Mercados de Capitais",
-      "url": "https://opais.ao/economia/standard-gestao-de-activos-realiza-encontro-com-jornalistas-sobre-mercados-de-capitais/",
-      "source": "O País",
-      "_key": "c9928606ea2b5b65",
-      "score": 6,
-      "title_cn": "Standard资产管理公司与记者举行资本市场会议"
-    },
-    {
-      "title": "Detidos mais de 250 cidadãos envolvidos em crimes durante o fim-de-semana",
-      "url": "https://opais.ao/ultima_hora/detidos-mais-de-250-cidadaos-envolvidos-em-crimes-durante-o-fim-de-semana/",
-      "source": "O País",
-      "_key": "19c74d379aebf54d",
-      "score": 6,
-      "title_cn": "周末期间，超过250名涉嫌犯罪公民被捕"
-    },
-    {
-      "title": "TAAG assegura totalidade das ligações no arranque da greve dos...",
-      "url": "https://valoreconomico.co.ao/artigo/taag-assegura-totalidade-das-ligacoes-no-arranque-da-greve-dos-tecnicos-de-manutencao",
-      "source": "Valor Económico",
-      "_key": "040b4b096d4eccf9",
-      "score": 6,
-      "title_cn": "TAAG航空确保罢工开始后所有航班正常运行"
-    },
-    {
-      "title": "Investimento, tecnologia e juventude marcam participação de Angola no Fórum Mundial da Alimentação",
-      "url": "https://correiokianda.info/investimento-tecnologia-e-juventude-marcam-participacao-de-angola-no-forum-mundial-da-alimentacao/",
-      "source": "Correio Kianda",
-      "_key": "1b2b1ae33b0e9dfe",
-      "score": 5,
-      "title_cn": "投资、技术和青年是安哥拉参与世界粮食论坛的亮点"
-    },
-    {
-      "title": "João Lourenço junta participação no Fórum Mundial da Alimentação à agenda diplomática em Itália",
-      "url": "https://correiokianda.info/joao-lourenco-junta-participacao-no-forum-mundial-da-alimentacao-a-agenda-diplomatica-em-italia/",
-      "source": "Correio Kianda",
-      "_key": "4c4722da38d8d806",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）将世界粮食论坛参与纳入意大利外交议程"
-    },
-    {
-      "title": "TAAG garante 95% dos voos durante greve dos técnicos de manutenção até 15 de Outubro",
-      "url": "https://diariodosnegocios.com/taag-greve-tecnicos-manutencao-voos-angola/",
-      "source": "Diário dos Negócios",
-      "_key": "636d577665c857a8",
-      "score": 5,
-      "title_cn": "TAAG航空保证在10月15日维修技术人员罢工期间95%航班正常"
-    },
-    {
-      "title": "Angola reforça aposta na segurança alimentar global e lança candidatura africana à liderança da FAO",
-      "url": "https://diariodosnegocios.com/angola-reforca-aposta-na-seguranca-alimentar-global-e-lanca-candidatura-africana-a-lideranca-da-fao/",
-      "source": "Diário dos Negócios",
-      "_key": "71031f49b0cc69fb",
-      "score": 5,
-      "title_cn": "安哥拉加强全球粮食安全承诺，推出非洲候选人竞选粮农组织领导"
-    },
-    {
-      "title": "João Lourenço propõe em Roma nova arquitectura de segurança alimentar e apresenta candidatura de Josefa Sacko à FAO",
-      "url": "https://diariodosnegocios.com/joao-lourenco-propoe-em-roma-nova-arquitectura-de-seguranca-alimentar-e-apresenta-candidatura-de-josefa-sacko-a-fao/",
-      "source": "Diário dos Negócios",
-      "_key": "3e39b2106b61955e",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）在罗马提出新粮食安全架构，并提名何塞法·萨科（Josefa Sacko）竞选粮农组织"
-    },
-    {
-      "title": "Angola é o sexto pior país no ranking de viagens e turismo do Forum Económico Mundial",
+      "title": "Ataque à Unitel terá sido orquestrada por um jovem de 25 anos de idade a partir do Condomínio Vida Pacífica - Bloco 11- Prédio 03",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_fac3de3e484cff",
-      "score": 5,
-      "title_cn": "安哥拉在世界经济论坛旅行和旅游排名中位列倒数第六"
-    },
-    {
-      "title": " DIIP-Ambriz captura \"Tchau\" em posse de arma de guerra e evita onde de assaltos violentos - Vagão está a ser caçado adminHá 7 horas2 min de leitura",
-      "url": "https://namiradocrime.info/show/17748",
       "source": "Na Mira do Crime",
-      "_key": "20f9bf163c5f4b95",
-      "score": 5,
-      "title_cn": "安布里什DIIP抓获持有战争武器的“Tchau”，避免暴力抢劫潮"
+      "_key": "t_d83e95602e3933",
+      "score": 7,
+      "title_cn": "Unitel网络攻击疑由一名25岁青年在Vida Pacífica公寓策划"
     },
     {
-      "title": "TAAG prevê assegurar a maior parte dos voos programados...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/taag-preve-assegurar-a-maior-parte-dos-voos-programados-apesar-da-greve-tecnicos-de-manutencao-acusam-companhia-de-postura-intransigente-e-ilegal-75289.html",
+      "title": "    Investigação Ataque à Unitel terá sido orquestrada por um jovem de 25 anos de idade a partir do Condomínio Vida Pacífica - Bloco 11- Prédio 03 Os hackers responsáveis pelo ataque cibernético à Unitel no final do mês de Julho do ano em curso, que exigiam um resgate de 50 milhões de d... ",
+      "url": "https://namiradocrime.info/show/17764",
+      "source": "Na Mira do Crime",
+      "_key": "2d876eee4467126e",
+      "score": 7,
+      "title_cn": "调查：Unitel网络攻击疑由一名25岁青年在Vida Pacífica公寓策划"
+    },
+    {
+      "title": "FMI destaca Angola no crescimento económico sólido...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/fmi-destaca-angola-no-crescimento-economico-solido-no-universo-dos-paises-lusofonos-75314.html",
       "source": "Novo Jornal",
-      "_key": "7654b1f217ce34cd",
-      "score": 5,
-      "title_cn": "TAAG航空预计将确保大部分预定航班正常运行"
+      "_key": "6a2dba25755fabfd",
+      "score": 7,
+      "title_cn": "国际货币基金组织赞扬安哥拉经济实现稳健增长"
     },
     {
-      "title": "Zâmbia e RDC projectam interligação eléctrica de 200 quilómetros avaliada em 300 milhões de dólares",
-      "url": "https://opais.ao/economia/zambia-e-rdc-projectam-interligacao-electrica-de-200-quilometros-avaliada-em-300-milhoes-de-dolares/",
+      "title": "EXPANSÃO EM DIRECTO: ÍNDICE DE PRODUÇÃO INDUSTRIAL. Inconsistências estatísticas ditam ruptura entre INE e Ministério da Indústria.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=75320",
+      "source": "Novo Jornal",
+      "_key": "be87f5b23031a728",
+      "score": 7,
+      "title_cn": "工业生产指数：统计数据不一致导致国家统计局与工业部决裂"
+    },
+    {
+      "title": "LUANDA DOWNTOWN: PRODUÇÃO NACIONAL. Que medidas devem ser adotadas para garantir o escoamento da produção nacional junto dos grandes distribuidores comerciais?",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=75321",
+      "source": "Novo Jornal",
+      "_key": "7d893ba2e6c253df",
+      "score": 7,
+      "title_cn": "罗安达市中心：如何确保本国产品通过大型商业分销商销售？"
+    },
+    {
+      "title": "Bié: Município do Andulo há quase um mês sem luz, por falta de combustível no gerador - Apagão paralisa serviços e comércio",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bie-municipio-do-andulo-ha-quase-um-mes-sem-luz-por-falta-de-combustivel-no-gerador---apagao-paralisa-servicos-e-comercio-75323.html",
+      "source": "Novo Jornal",
+      "_key": "ebe6706b125573d0",
+      "score": 7,
+      "title_cn": "比耶省安杜洛市近一月无电，发电机缺燃料致服务商业瘫痪"
+    },
+    {
+      "title": "Angola participa nas reuniões anuais do Banco Mundial e do FMI na Tailândia",
+      "url": "https://opais.ao/economia/angola-participa-nas-reunioes-anuais-do-banco-mundial-e-do-fmi-na-tailandia/",
       "source": "O País",
-      "_key": "f157441bad5b169e",
-      "score": 5,
-      "title_cn": "赞比亚与刚果民主共和国规划200公里电力互联项目，估值3亿美元"
+      "_key": "912cd92f41c84d49",
+      "score": 7,
+      "title_cn": "安哥拉参加在泰国举行的世界银行和国际货币基金组织年会"
     },
     {
-      "title": "Comerciantes informais apontam custos elevados como barreira ao seguro",
-      "url": "https://opais.ao/economia/comerciantes-informais-apontam-custos-elevados-como-barreira-ao-seguro/",
+      "title": "Tribunal Supremo quer reforçar combate à corrupção e à escravatura moderna",
+      "url": "https://correiokianda.info/tribunal-supremo-quer-reforcar-combate-a-corrupcao-e-a-escravatura-moderna/",
+      "source": "Correio Kianda",
+      "_key": "495b0428dd9cabdf",
+      "score": 6,
+      "title_cn": "最高法院旨在加强打击腐败和现代奴役"
+    },
+    {
+      "title": "Qu Dongyu pede mais investimento e parcerias no Fórum Mundial da Alimentação",
+      "url": "https://diariodosnegocios.com/qu-dongyu-pede-mais-investimento-e-parcerias-no-forum-mundial-da-alimentacao/",
+      "source": "Diário dos Negócios",
+      "_key": "0b0d78c982dc96e0",
+      "score": 6,
+      "title_cn": "屈冬玉在世界粮食论坛呼吁增加投资与合作"
+    },
+    {
+      "title": "Ministérios da Energia e Águas, da Defesa e do Interior são os campeões da derrapagem orçamental",
+      "url": "https://diariodosnegocios.com/ministerios-da-energia-e-aguas-da-defesa-e-do-interior-sao-os-campeoes-da-derrapagem-orcamental/",
+      "source": "Diário dos Negócios",
+      "_key": "1c3cbb1d27f55561",
+      "score": 6,
+      "title_cn": "能源水利部、国防部和内政部是预算超支“冠军”"
+    },
+    {
+      "title": "\"O INE teve situações em que a sua independência estava comprometida. Hoje é diferente\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/o-ine-teve-situacoes-em-que-a-sua-independencia-estava-comprometida-hoje-e-diferente-75329.html",
+      "source": "Expansão",
+      "_key": "3cca731e9bb15b61",
+      "score": 6,
+      "title_cn": "“国家统计局曾独立性受损，如今已不同。”"
+    },
+    {
+      "title": "\"O INE teve situações em que a sua independência estava comprometida. Hoje é diferente\"A sua entrada no INE trouxe alterações profundas aos relatórios, que hoje espelham um país muito diferente, com melhorias substanciais no quadro macroeconómico. Isso vale-lhe muitas críticas já que especialistas dizem que afinal a diversificação económica estava nas folhas de excel do INE. Refuta as acusações e convida os críticos a apresentarem os seus números.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/o-ine-teve-situacoes-em-que-a-sua-independencia-estava-comprometida-hoje-e-diferente-75330.html",
+      "source": "Expansão",
+      "_key": "6b789897de64117b",
+      "score": 6,
+      "title_cn": "“国家统计局曾独立性受损，如今已不同。”"
+    },
+    {
+      "title": "ONU alerta que 1,2 mil milhões de pessoas vivem em pobreza multidimensional e destaca Angola entre os países lusófonos mais afectados",
+      "url": "https://forbesafricalusofona.com/onu-alerta-que-12-mil-milhoes-de-pessoas-vivem-em-pobreza-multidimensional-e-destaca-angola-entre-os-paises-lusofonos-mais-afectados/",
+      "source": "Forbes África",
+      "_key": "db655645738fea42",
+      "score": 6,
+      "title_cn": "联合国：12亿人陷多维贫困，安哥拉是受影响最严重的葡语国家之一"
+    },
+    {
+      "title": "Expo-Bengo 2026 movimenta mais de 830 milhões kz e supera resultados da primeira edição",
+      "url": "https://forbesafricalusofona.com/expo-bengo-2026-movimenta-mais-de-830-milhoes-kz-e-supera-resultados-da-primeira-edicao/",
+      "source": "Forbes África",
+      "_key": "76a791fce7d29d64",
+      "score": 6,
+      "title_cn": "2026年本戈博览会交易额超8.3亿宽扎，超越首届"
+    },
+    {
+      "title": "Especialista em transformação digital defende maior responsabilização dos gestores na adopção da Inteligência Artificial em Angola",
+      "url": "https://forbesafricalusofona.com/especialista-em-transformacao-digital-defende-maior-responsabilizacao-dos-gestores-na-adopcao-da-inteligencia-artificial-em-angola/",
+      "source": "Forbes África",
+      "_key": "7333dd0f4a44a77b",
+      "score": 6,
+      "title_cn": "数字转型专家呼吁安哥拉管理者在人工智能应用中承担更大责任"
+    },
+    {
+      "title": "Numa obra dos Nigerianos: Jovem angolano morre após ser atingido por uma estrutura de betão no kilamba kiaxi",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_8e7821ca3c50c0",
+      "score": 6,
+      "title_cn": "尼日利亚人工地：安哥拉青年在基兰巴·基亚希被混凝土结构砸死"
+    },
+    {
+      "title": "    Sociedade Numa obra dos Nigerianos: Jovem angolano morre após ser atingido por uma estrutura de betão no kilamba kiaxi Um jovem de aproximadamente 30 anos de idade, cuja identidade ainda é desconhecida, que trabalhava como ajudante de obra, morreu na manhã de... ",
+      "url": "https://namiradocrime.info/show/17759",
+      "source": "Na Mira do Crime",
+      "_key": "0b3f071e55f9338d",
+      "score": 6,
+      "title_cn": "国际特赦组织今天表示，尼日利亚政府必须立即释放一名被拘留者，他是一名被拘留者，目前正在接受审判。"
+    },
+    {
+      "title": "Polícia Nacional apreende, no último mês, mais de 9.000 veículos por sobrelotação e declara \"tolerância zero\" à condução ilegal",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/policia-nacional-apreende-no-ultimo-mes-mais-de-9000-veiculos-por-sobrelotacao-e-declara-tolerancia-zero-a-conducao-ilegal-75315.html",
+      "source": "Novo Jornal",
+      "_key": "d435392771e6bfea",
+      "score": 6,
+      "title_cn": "国家警察上月查扣9000余辆超载车，对非法驾驶“零容忍”"
+    },
+    {
+      "title": "Expo Bengo 2026 encerra com movimentação de 888 milhões de kwanzas",
+      "url": "https://opais.ao/economia/expo-bengo-2026-encerra-com-movimentacao-de-888-milhoes-de-kwanzas/",
       "source": "O País",
-      "_key": "9595ca4cb3e836fa",
-      "score": 5,
-      "title_cn": "非正式商贩指出高成本是投保障碍"
+      "_key": "c1d6ed1693dd8640",
+      "score": 6,
+      "title_cn": "2026年本戈博览会闭幕，交易额达8.88亿宽扎"
     },
     {
-      "title": "IPO da refinaria Dangote pode impulsionar bolsas africanas e financiar...",
-      "url": "https://valoreconomico.co.ao/artigo/ipo-da-refinaria-dangote-pode-impulsionar-bolsas-africanas-e-financiar-infra-estruturas",
+      "title": "Grupo Carrinho mantém certificação de segurança alimentar nas 17 fábricas",
+      "url": "https://opais.ao/ultima_hora/grupo-carrinho-mantem-certificacao-de-seguranca-alimentar-nas-17-fabricas/",
+      "source": "O País",
+      "_key": "d7fe23557b37ca7a",
+      "score": 6,
+      "title_cn": "Carrinho（卡里尼奥）集团17家工厂保持食品安全认证"
+    },
+    {
+      "title": "MINSA reforça acompanhamento das equipas de vigilância epidemiológica",
+      "url": "https://opais.ao/sociedade/minsa-reforca-acompanhamento-das-equipas-de-vigilancia-epidemiologica/",
+      "source": "O País",
+      "_key": "86a63e7ef0bcd272",
+      "score": 6,
+      "title_cn": "卫生部（MINSA）加强流行病学监测团队的跟踪"
+    },
+    {
+      "title": "INE recomenda lista de compras e orçamento familiar para conter...",
+      "url": "https://valoreconomico.co.ao/artigo/ine-recomenda-lista-de-compras-e-orcamento-familiar-para-conter-gastos",
       "source": "Valor Económico",
-      "_key": "94ed391371b63168",
+      "_key": "1c658ade344db71a",
+      "score": 6,
+      "title_cn": "国家统计局建议购物清单和家庭预算以控制开支"
+    },
+    {
+      "title": "PR anuncia em Roma que programa de combate à seca...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-anuncia-em-roma-que-programa-de-combate-a-seca-no-sul-esta-parcialmente-executado",
+      "source": "Valor Económico",
+      "_key": "c828c00f4a07a5b9",
+      "score": 6,
+      "title_cn": "总统在罗马宣布抗旱计划"
+    },
+    {
+      "title": "João Lourenço aponta conflitos e alterações climáticas como entraves à produção alimentar em África",
+      "url": "https://correiokianda.info/joao-lourenco-aponta-conflitos-e-alteracoes-climaticas-como-entraves-a-producao-alimentar-em-africa/",
+      "source": "Correio Kianda",
+      "_key": "b5f6a11a54d64faf",
       "score": 5,
-      "title_cn": "丹格特炼油厂IPO或将提振非洲股市并资助..."
+      "title_cn": "若昂·洛伦索指出冲突和气候变化是非洲粮食生产的障碍"
+    },
+    {
+      "title": "Angola e Portugal preparam novo programa de cooperação com execução superior a 70 milhões de euros",
+      "url": "https://forbesafricalusofona.com/angola-e-portugal-preparam-novo-programa-de-cooperacao-com-execucao-superior-a-70-milhoes-de-euros/",
+      "source": "Forbes África",
+      "_key": "d7fe0db3ca8d5457",
+      "score": 5,
+      "title_cn": "安哥拉与葡萄牙筹备新合作项目，执行金额超7000万欧元"
+    },
+    {
+      "title": "Moçambique introduz novo regime de licenciamento industrial automático",
+      "url": "https://forbesafricalusofona.com/mocambique-introduz-novo-regime-de-licenciamento-industrial-automatico/",
+      "source": "Forbes África",
+      "_key": "15b2ea12dde377c2",
+      "score": 5,
+      "title_cn": "莫桑比克推出新的工业自动许可制度"
+    },
+    {
+      "title": "SIC detém 12 cidadãos suspeitos de homicídio e agressões com catanas e facas no Sambizanga após morte de uma das vítimas",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_c7074873e43387",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）逮捕12名桑比赞加持刀杀人嫌犯"
+    },
+    {
+      "title": "  Homicídio SIC detém 12 cidadãos suspeitos de homicídio e agressões com catanas e facas no Sambizanga após morte de uma das vítimas adminHá 5 horas4 min de leitura ",
+      "url": "https://namiradocrime.info/show/17762",
+      "source": "Na Mira do Crime",
+      "_key": "eddad7e61a2cb999",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）逮捕12名桑比赞加持刀杀人嫌犯"
+    },
+    {
+      "title": " Marginais furtam mais de 2 mil galinhas de um Aviário no Waku-Kungo e comercializam na Caála - Se o negócio desse certo teriam faturado mais de Akz 14 milhões adminHá 6 horas1 min de leitura",
+      "url": "https://namiradocrime.info/show/17761",
+      "source": "Na Mira do Crime",
+      "_key": "f5a48864a9195e87",
+      "score": 5,
+      "title_cn": "瓦库-孔戈家禽养殖场2000多只鸡被盗，卡阿拉出售，涉案金额超1400万宽扎"
+    },
+    {
+      "title": "RDC/Ébola: Mais de 4.380 mortos devido à mais letal...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/rdcebola-mais-de-4380-mortos-devido-a-mais-letal-das-febres-hemorragicas-75335.html",
+      "source": "Novo Jornal",
+      "_key": "02771fd65fe150c2",
+      "score": 5,
+      "title_cn": "刚果民主共和国埃博拉疫情：已致4380多人死亡"
+    },
+    {
+      "title": "Editorial: Combate aos efeitos da seca",
+      "url": "https://opais.ao/editorial/editorial-combate-aos-efeitos-da-seca/",
+      "source": "O País",
+      "_key": "bfe4b6c55ca11d3b",
+      "score": 5,
+      "title_cn": "社论：抗击干旱影响"
+    },
+    {
+      "title": "SIC detém 12 cidadãos por homicídio e agressões com armas brancas no Sambizanga",
+      "url": "https://opais.ao/sociedade/sic-detem-12-cidadaos-por-homicidio-e-agressoes-com-armas-brancas-no-sambizanga/",
+      "source": "O País",
+      "_key": "8dfaafaa49a6e4c0",
+      "score": 5,
+      "title_cn": "刑事调查局（SIC）逮捕12名桑比赞加持械杀人嫌犯"
+    },
+    {
+      "title": "João Lourenço reúne-se com director-geral da FAO em Roma",
+      "url": "https://opais.ao/politica/joao-lourenco-reune-se-com-director-geral-da-fao-em-roma/",
+      "source": "O País",
+      "_key": "45c7300de3c370df",
+      "score": 5,
+      "title_cn": "若昂·洛伦索在罗马会见粮农组织总干事"
+    },
+    {
+      "title": "Presidente do Botswana efectua visita de Estado à China",
+      "url": "https://opais.ao/mundo/presidente-do-botswana-efectua-visita-de-estado-a-china/",
+      "source": "O País",
+      "_key": "77fd1dc7566eb772",
+      "score": 5,
+      "title_cn": "博茨瓦纳总统对中国进行国事访问"
+    },
+    {
+      "title": "FMI revê em alta crescimento mundial para 3,1% em 2026,...",
+      "url": "https://valoreconomico.co.ao/artigo/fmi-reve-em-alta-crescimento-mundial-para-3-1-em-2026-impulsionado-pela-inteligencia-artificial",
+      "source": "Valor Económico",
+      "_key": "91348d69e839e5b1",
+      "score": 5,
+      "title_cn": "国际货币基金组织上调2026年全球经济增长预期至3.1%"
     }
   ]
 }
