@@ -1,238 +1,42 @@
 {
-  "date": "2026-10-14",
-  "total_new": 72,
-  "total_filtered": 33,
-  "scored_by": "gemini-flash",
+  "date": "2026-10-15",
+  "total_new": 102,
+  "total_filtered": 5,
+  "scored_by": "keyword",
   "articles": [
     {
-      "title": "Economia Importância do Corredor do Lobito destacada em Roma ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687376/import%C3%A2ncia-do-corredor--do-lobito-destacada-em-roma",
-      "source": "Jornal de Angola",
-      "_key": "eb36c99345cec5e3",
-      "score": 9
-    },
-    {
-      "title": "Última hora Corredor do Lobito destacado como exemplo de integração regional",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687371/corredor-do-lobito-destacado-como-exemplo-de-integra%C3%A7%C3%A3o-regional",
-      "source": "Jornal de Angola",
-      "_key": "3c3366d6feb65a8d",
-      "score": 9
-    },
-    {
-      "title": "Programa de 4,2 mil milhões USD para combater a seca integra prioridades de Angola para investidores",
-      "url": "https://forbesafricalusofona.com/programa-de-42-mil-milhoes-usd-para-combater-a-seca-integra-prioridades-de-angola-para-investidores/",
-      "source": "Forbes África",
-      "_key": "ebf2cf05ee709923",
-      "score": 8
-    },
-    {
-      "title": "Câmara de Comércio defende melhoria contínua do ambiente de negócios em Angola",
-      "url": "https://opais.ao/economia/camara-de-comercio-defende-melhoria-continua-do-ambiente-de-negocios-em-angola/",
-      "source": "O País",
-      "_key": "4fe72595083f28f4",
-      "score": 8
-    },
-    {
-      "title": "ARSEG quer reforçar controlo sobre operações financeiras no sector segurador",
-      "url": "https://correiokianda.info/arseg-quer-reforcar-controlo-sobre-operacoes-financeiras-no-sector-segurador/",
+      "title": "“Angola tem 16,2 mil milhões de dólares em reservas e cobre oito meses de importações”, garante João Lourenço",
+      "url": "https://correiokianda.info/angola-tem-162-mil-milhoes-de-dolares-em-reservas-e-cobre-oito-meses-de-importacoes-garante-joao-lourenco/",
       "source": "Correio Kianda",
-      "_key": "bc5ed114e7844de1",
-      "score": 7
+      "_key": "b78ce8c03b4dfbed",
+      "score": 5
     },
     {
-      "title": "ASSEA e Shell Angola reforçam diálogo sobre oportunidades de Conteúdo Local nos Blocos 8 e 22",
-      "url": "https://forbesafricalusofona.com/assea-e-shell-angola-reforcam-dialogo-sobre-oportunidades-de-conteudo-local-nos-blocos-8-e-22/",
-      "source": "Forbes África",
-      "_key": "bf4d57415c5bcbe4",
-      "score": 7
-    },
-    {
-      "title": "SGA lança fundo de investimento de 20 mil milhões Kz com prazo de três anos em Angola",
-      "url": "https://forbesafricalusofona.com/sga-lanca-fundo-de-investimento-de-20-mil-milhoes-kz-com-prazo-de-tres-anos-em-angola/",
-      "source": "Forbes África",
-      "_key": "cd0489b07fb1907e",
-      "score": 7
-    },
-    {
-      "title": "Angola avalia construção de novo mercado fronteiriço para dinamizar comércio com a RDC",
-      "url": "https://forbesafricalusofona.com/angola-avalia-construcao-de-novo-mercado-fronteirico-para-dinamizar-comercio-com-a-rdc/",
-      "source": "Forbes África",
-      "_key": "e081aa0463ae5388",
-      "score": 7
-    },
-    {
-      "title": "Política Angola e Malásia analisam reforço de cooperação nos domínios migratório e consular ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687372/angola-e-mal%C3%A1sia-analisam-refor%C3%A7o-de-coopera%C3%A7%C3%A3o-nos-dom%C3%ADnios-migrat%C3%B3rio-e-consular",
-      "source": "Jornal de Angola",
-      "_key": "0dd1003417eb3de6",
-      "score": 7
-    },
-    {
-      "title": "Política Angola rejeita impacto negativo na importação de produtos da União Europeia ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687369/angola-rejeita-impacto-negativo-na-importa%C3%A7%C3%A3o-de-produtos-da-uni%C3%A3o-europeia",
-      "source": "Jornal de Angola",
-      "_key": "d0bd149ece70e415",
-      "score": 7
-    },
-    {
-      "title": "\"Metiam-me saco preto na cabeça e água nas narinas\"- Jovem denuncia alegada detenção sem mandado e tortura no DIIP do IFA para confessar crime",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_441fb52d0d4dc6",
-      "score": 7
-    },
-    {
-      "title": "Dois mortos retirados do túnel de garimpo de ouro na Jamba Mineira e outros dois continuam no interior por falta de meios de remoção",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_af1543725cfee5",
-      "score": 7
-    },
-    {
-      "title": "    Investigação \"Metiam-me saco preto na cabeça e água nas narinas\"- Jovem denuncia alegada detenção sem mandado e tortura no DIIP do IFA para confessar crime Um jovem identificado por Domingos dos Santos Simão, \"Mitó\", afirma que ficou dois dias detido sem contacto com familiares e contraiu lesões... ",
-      "url": "https://namiradocrime.info/show/17778",
-      "source": "Na Mira do Crime",
-      "_key": "d3f7de94263d75cc",
-      "score": 7
-    },
-    {
-      "title": "    Sociedade Dois mortos retirados do túnel de garimpo de ouro na Jamba Mineira e outros dois continuam no interior por falta de meios de remoção Dois mortos foram retirados de um túnel de garimpo de ouro no bairro Tchinuangombe, município da Jamba-Mineira, província da Huíla, por efec... ",
-      "url": "https://namiradocrime.info/show/17777",
-      "source": "Na Mira do Crime",
-      "_key": "9f1acb82cd789174",
-      "score": 7
-    },
-    {
-      "title": "Angola participa no Diálogo Russo-Africano sobre Matérias-Primas",
-      "url": "https://opais.ao/politica/angola-participa-no-dialogo-russo-africano-sobre-materias-primas/",
-      "source": "O País",
-      "_key": "435622c27d07a3db",
-      "score": 7
-    },
-    {
-      "title": "Polícia Judiciária e Autoridade Tributária de Portugal fazem buscas no BAI Europa e Banco Carregosa por alegada fraude de 66 milhões de euros",
-      "url": "https://correiokianda.info/policia-judiciaria-e-autoridade-tributaria-de-portugal-fazem-buscas-no-bai-europa-e-banco-carregosa-por-alegada-fraude-de-66-milhoes-de-euros/",
-      "source": "Correio Kianda",
-      "_key": "3dd6b7e49084926e",
-      "score": 6
-    },
-    {
-      "title": "Imposto de jogos rende mais de 24,9 mil milhões kz e estão a quase 50% da meta do OGE",
-      "url": "https://diariodosnegocios.com/imposto-de-jogos-rende-mais-de-249-mil-milhoes-kz-e-estao-a-quase-50-da-meta-do-oge/",
+      "title": "“Angola tem 16,2 mil milhões de dólares em reservas e cobre oito meses de importações”, garante João Lourenço",
+      "url": "https://diariodosnegocios.com/angola-tem-162-mil-milhoes-de-dolares-em-reservas-e-cobre-oito-meses-de-importacoes-garante-joao-lourenco/",
       "source": "Diário dos Negócios",
-      "_key": "702a9abb4852c65b",
-      "score": 6
+      "_key": "4bc08e9923a9d004",
+      "score": 5
     },
     {
-      "title": "BAI Europa alvo de buscas da Polícia Judiciária portuguesa",
-      "url": "https://diariodosnegocios.com/bai-europa-alvo-de-buscas-da-policia-judiciaria-portuguesa/",
-      "source": "Diário dos Negócios",
-      "_key": "c73dbd7424ababf0",
-      "score": 6
-    },
-    {
-      "title": "Carlos Tenreiro defende inovação tecnológica para acelerar a transformação do sector bancário angolano",
-      "url": "https://forbesafricalusofona.com/carlos-tenreiro-defende-inovacao-tecnologica-para-acelerar-a-transformacao-do-sector-bancario-angolano/",
+      "title": "Reservas internacionais de Angola atingem 16,2 mil milhões de dólares e garantem oito meses de importações",
+      "url": "https://forbesafricalusofona.com/reservas-internacionais-de-angola-atingem-162-mil-milhoes-de-dolares-e-garantem-oito-meses-de-importacoes/",
       "source": "Forbes África",
-      "_key": "e243881251e2a9a0",
-      "score": 6
-    },
-    {
-      "title": "Funcionamento dos BUAP satisfaz Daniel Félix NetoA eficácia no funcionamento dos equipamentos tecnológicos a nível do Balcão Único de Atendimento (BUAP) nas províncias da Lunda-Norte e Lunda-Sul deixaram satisfeitos o ministro da Administração do Território (MAT), Daniel Félix Neto.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687374/funcionamento-dos-buap-satisfaz-daniel-f%C3%A9lix-neto",
-      "source": "Jornal de Angola",
-      "_key": "a2b2a0ccc190e79b",
-      "score": 6
-    },
-    {
-      "title": "Economia Câmara de Comércio França-Angola cria clube para aproximar empresas à AGT ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687435/c%C3%A2mara-de-com%C3%A9rcio-fran%C3%A7a-angola-cria-clube-para-aproximar-empresas-%C3%A0-agt",
-      "source": "Jornal de Angola",
-      "_key": "33235ca965a4d2bb",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 1 dia Banco Mundial doa mais de 2 milhões e 400 mil dólares para produtores do Luena ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687365/banco-mundial-doa-mais-de-2-milh%C3%B5es-e-400-mil-d%C3%B3lares-para-produtores-do-luena--",
-      "source": "Jornal de Angola",
-      "_key": "6796b063fdff6355",
-      "score": 6
-    },
-    {
-      "title": "Plataforma de telemedicina e inclusão financeira chega ao Calumbo",
-      "url": "https://opais.ao/sociedade/plataforma-de-telemedicina-e-inclusao-financeira-chega-ao-calumbo/",
-      "source": "O País",
-      "_key": "811bdf94e463e190",
-      "score": 6
-    },
-    {
-      "title": "BAI Europa reage a buscas em Lisboa e garante prestação...",
-      "url": "https://valoreconomico.co.ao/artigo/bai-europa-reage-a-buscas-em-lisboa-e-garante-prestacao-de-toda-a-informacao",
-      "source": "Valor Económico",
-      "_key": "a182ef8affebf4d3",
-      "score": 6
-    },
-    {
-      "title": "Fogo destrói mercado da madeira e provoca perdas de milhões...",
-      "url": "https://valoreconomico.co.ao/artigo/fogo-destroi-mercado-da-madeira-e-provoca-perdas-de-milhoes-de-kwanzas",
-      "source": "Valor Económico",
-      "_key": "dd0e329b8886b03e",
-      "score": 6
-    },
-    {
-      "title": "UNITA diz que crescimento económico não acompanha aumento da população",
-      "url": "https://correiokianda.info/unita-diz-que-crescimento-economico-nao-acompanha-aumento-da-populacao/",
-      "source": "Correio Kianda",
-      "_key": "6f300c640b8e4159",
+      "_key": "4aa4e41abfecb614",
       "score": 5
     },
     {
-      "title": "Ministro considera diplomacia multiplicador da marca AngolaO ministro do Turismo, Márcio Daniel, considerou ontem, em Luanda, a diplomacia como um instrumento estratégico e multiplicador na promoção do país. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687378/ministro-considera-diplomacia--multiplicador-da-marca-angola",
-      "source": "Jornal de Angola",
-      "_key": "9df47a7a29caec27",
+      "title": "Queda do petróleo expôs fragilidades da economia angolana, admite João Lourenço",
+      "url": "https://forbesafricalusofona.com/queda-do-petroleo-expos-fragilidades-da-economia-angolana-admite-presidente-joao-lourenco/",
+      "source": "Forbes África",
+      "_key": "1a6ab9eee2ddf82a",
       "score": 5
     },
     {
-      "title": "Regiões Investigadores avaliam estado de conservação das barragens ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687430/investigadores-avaliam-estado-de-conserva%C3%A7%C3%A3o-das-barragens",
-      "source": "Jornal de Angola",
-      "_key": "5e9dcd5006cdb1f4",
-      "score": 5
-    },
-    {
-      "title": "Sociedade Ministério da Saúde reforça vigilância epidemiológica no Bengo ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687426/minist%C3%A9rio-da-sa%C3%BAde-refor%C3%A7a-vigil%C3%A2ncia-epidemiol%C3%B3gica-no-bengo",
-      "source": "Jornal de Angola",
-      "_key": "73a90c187f3cdfed",
-      "score": 5
-    },
-    {
-      "title": "Última hora Chefe de Estado regressa ao país após missão na Itália ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687373/chefe-de-estado-regressa-ao-pa%C3%ADs-ap%C3%B3s-miss%C3%A3o-na-it%C3%A1lia--",
-      "source": "Jornal de Angola",
-      "_key": "172c9c44bd837775",
-      "score": 5
-    },
-    {
-      "title": "Estado da Nação \"Não podemos continuar a pedir-vos...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/estado-da-nacao-nao-podemos-continuar-a-pedir-vos-que-esperem-o-futuro-enquanto-vos-negamos-oportunidades-no-presente-adalberto-costa-junior--75366.html",
-      "source": "Novo Jornal",
-      "_key": "41b5b23150ed2567",
-      "score": 5
-    },
-    {
-      "title": "Angola emite alerta face a surto de febre aftosa na...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angola-em-alerta-face-ao-surto-de-febre-aftosa-na-namibia-e-proibe-circulacao-de-animais-provenientes-do-pais-vizinho-75363.html",
-      "source": "Novo Jornal",
-      "_key": "2681bb469725366e",
-      "score": 5
-    },
-    {
-      "title": "Antes do discurso de João Lourenço, Adalberto Costa Júnior alerta...",
-      "url": "https://valoreconomico.co.ao/artigo/antes-do-discurso-de-joao-lourenco-adalberto-costa-junior-alerta-que-desfasamento-entre-cidade-e-campo-trava-a-economia",
-      "source": "Valor Económico",
-      "_key": "435aa82150873a97",
+      "title": "Banco Mundial disponibiliza 93 milhões de dólares para…",
+      "url": "https://holdonangola.com/banco-mundial-disponibiliza-93-milhoes-de-dolares-para-combater-ebola-na-rdc-e-reforcar-resposta-regional/",
+      "source": "Hold On Angola",
+      "_key": "5cdd0475b65b266c",
       "score": 5
     }
   ]
