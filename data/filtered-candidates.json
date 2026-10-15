@@ -1,42 +1,196 @@
 {
   "date": "2026-10-15",
-  "total_new": 102,
-  "total_filtered": 5,
-  "scored_by": "keyword",
+  "total_new": 65,
+  "total_filtered": 27,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "“Angola tem 16,2 mil milhões de dólares em reservas e cobre oito meses de importações”, garante João Lourenço",
-      "url": "https://correiokianda.info/angola-tem-162-mil-milhoes-de-dolares-em-reservas-e-cobre-oito-meses-de-importacoes-garante-joao-lourenco/",
-      "source": "Correio Kianda",
-      "_key": "b78ce8c03b4dfbed",
-      "score": 5
+      "title": "Sociedade Reabilitados 3.500 quilómetros de estradas nacionais nos últimos nove anos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687516/reabilitados-3.500-quil%C3%B3metros-de-estradas-nacionais-nos-%C3%BAltimos-nove-anos",
+      "source": "Jornal de Angola",
+      "_key": "e4e298b6163a16d9",
+      "score": 9
     },
     {
-      "title": "“Angola tem 16,2 mil milhões de dólares em reservas e cobre oito meses de importações”, garante João Lourenço",
-      "url": "https://diariodosnegocios.com/angola-tem-162-mil-milhoes-de-dolares-em-reservas-e-cobre-oito-meses-de-importacoes-garante-joao-lourenco/",
+      "title": "Presidente destaca expansão mineira e projectos de energia, mas sem...",
+      "url": "https://valoreconomico.co.ao/artigo/presidente-destaca-expansao-mineira-e-projectos-de-energia-mas-sem-quantificar-resultados-economicos",
+      "source": "Valor Económico",
+      "_key": "60b2d39b975800b3",
+      "score": 9
+    },
+    {
+      "title": "Destaque João Lourenço destaca capacidade do Estado para realizar projectos públicosA reorganização das finanças públicas, a revisão dos subsídios, a melhoria da gestão da dívida pública, a alteração das regras cambiais, o reforço da arrecadação fiscal e o controlo da despesa e das contas públicas foram determinantes para devolver ao Estado a capacidade de executar projectos de investimento público.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687487/jo%C3%A3o-louren%C3%A7o-destaca-capacidade-do-estado-para-realizar-projectos-p%C3%BAblicos",
+      "source": "Jornal de Angola",
+      "_key": "4cddee958046d9bc",
+      "score": 8
+    },
+    {
+      "title": "Sociedade Executivo garante melhorar a mobilidade terrestre e aérea ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687536/executivo-garante-melhorar-a-mobilidade-terrestre-e-a%C3%A9rea-",
+      "source": "Jornal de Angola",
+      "_key": "47aef5b2d3da517e",
+      "score": 8
+    },
+    {
+      "title": "Sociedade País dispõe de 18 centralidades que beneficiam mais de dois milhões de cidadãos ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687534/pa%C3%ADs-disp%C3%B5e-de-18-centralidades-que-beneficiam-mais-de-dois-milh%C3%B5es-de-cidad%C3%A3os",
+      "source": "Jornal de Angola",
+      "_key": "71d3f0a78699e944",
+      "score": 8
+    },
+    {
+      "title": "Sociedade Executivo prevê construir e reabilitar 1.664 escolas primárias ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687503/executivo-prev%C3%AA-construir-e-reabilitar-1.664-escolas-prim%C3%A1rias",
+      "source": "Jornal de Angola",
+      "_key": "58c51690798e8314",
+      "score": 8
+    },
+    {
+      "title": "Gildo Matias quer uma economia ‘além dos diamantes’ na Lunda...",
+      "url": "https://valoreconomico.co.ao/artigo/gildo-matias-quer-uma-economia-alem-dos-diamantes-na-lunda-sul",
+      "source": "Valor Económico",
+      "_key": "7480cb62c4f356d8",
+      "score": 8
+    },
+    {
+      "title": "PR volta a reclamar 900 milhões retidos na Suíça e refere que...",
+      "url": "https://valoreconomico.co.ao/artigo/pr-volta-a-reclamar-900-milhoes-retidos-na-suica-e-refere-que-angola-e-o-unico-proprietario",
+      "source": "Valor Económico",
+      "_key": "f8ea32ef38d27a85",
+      "score": 8
+    },
+    {
+      "title": "Estado da Nação: João Lourenço apresenta conquistas no turismo, cultura, segurança e justiça, e apela à conclusão das autarquias",
+      "url": "https://diariodosnegocios.com/estado-da-nacao-joao-lourenco-apresenta-conquistas-no-turismo-cultura-seguranca-e-justica-e-apela-a-conclusao-das-autarquias/",
       "source": "Diário dos Negócios",
-      "_key": "4bc08e9923a9d004",
-      "score": 5
+      "_key": "b3ee71c0cc77af21",
+      "score": 7
     },
     {
-      "title": "Reservas internacionais de Angola atingem 16,2 mil milhões de dólares e garantem oito meses de importações",
-      "url": "https://forbesafricalusofona.com/reservas-internacionais-de-angola-atingem-162-mil-milhoes-de-dolares-e-garantem-oito-meses-de-importacoes/",
+      "title": "Destaque Angola construiu 736 hospitais entre 2017 e primeiro trimestre de 2026Angola construiu 736 unidades hospitalares entre 2017 e o primeiro trimestre de 2026, elevando a rede sanitária nacional de 2.612 para 3.348 unidades, distribuídas pelos três níveis de atenção à saúde.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687506/angola-construiu-736-hospitais-entre-2017-e-primeiro-trimestre-de-2026",
+      "source": "Jornal de Angola",
+      "_key": "3fd9f5cc5c6a4aa7",
+      "score": 7
+    },
+    {
+      "title": "Destaque Desemprego recua de 31,5% em 2024 para 21,3% no primeiro trimestre de 2026A taxa de desemprego em Angola recuou de 31,5%, em 2024, para 21,3%, no primeiro trimestre de 2026, sinalizando uma redução do desemprego no período em referência.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687514/desemprego-recua-de-315%25-em-2024-para-213%25-no-primeiro-trimestre-de-2026",
+      "source": "Jornal de Angola",
+      "_key": "ef1442be16c8fd66",
+      "score": 7
+    },
+    {
+      "title": "Sociedade Telecomunicações reforçam inclusão digital e soberania tecnológica ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687541/telecomunica%C3%A7%C3%B5es-refor%C3%A7am-inclus%C3%A3o-digital-e-soberania-tecnol%C3%B3gica",
+      "source": "Jornal de Angola",
+      "_key": "65541fd4f126d745",
+      "score": 7
+    },
+    {
+      "title": "Sociedade Água potável cobre mais de 69 por cento da população ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687540/%C3%A1gua-pot%C3%A1vel-cobre-mais-de-69-por-cento-da-popula%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "136b3054fb4347d3",
+      "score": 7
+    },
+    {
+      "title": "Destaque Nelito Ekuikui destaca avanços nas infra-estruturas hospitalaresO deputado da UNITA, Nelito Ekuikui, reconheceu, esta quinta-feira, a existência de melhorias nas infra-estruturas em Angola, com destaque para o sector da Saúde, sobretudo com a construção de novos hospitais.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687473/nelito-ekuikui-destaca-avan%C3%A7os-nas-infra-estruturas-hospitalares",
+      "source": "Jornal de Angola",
+      "_key": "c369a63e48241b96",
+      "score": 7
+    },
+    {
+      "title": "Sociedade14/10/2026Angola participa do Conselho da Agência Internacional para as Energias em Abu Dhabi",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687450/angola-participa-do-conselho-da-ag%C3%AAncia-internacional-para-as-energias-em-abu-dhabi",
+      "source": "Jornal de Angola",
+      "_key": "ad642affaaf22e0f",
+      "score": 7
+    },
+    {
+      "title": "Presidente da República reconhece que a criminalidade continua a constituir uma das principais preocupações das populações",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_0a84ce0306252a",
+      "score": 7
+    },
+    {
+      "title": "  Política Presidente da República reconhece que a criminalidade continua a constituir uma das principais preocupações das populações adminHá 2 horas6 min de leitura ",
+      "url": "https://namiradocrime.info/show/17785",
+      "source": "Na Mira do Crime",
+      "_key": "5e6ee0ca5994dabf",
+      "score": 7
+    },
+    {
+      "title": "Quénia aumenta preços dos combustíveis devido ao conflito no Médio...",
+      "url": "https://valoreconomico.co.ao/artigo/quenia-aumenta-precos-dos-combustiveis-devido-ao-conflito-no-medio-oriente",
+      "source": "Valor Económico",
+      "_key": "57ceca9dbf64f573",
+      "score": 7
+    },
+    {
+      "title": "“Discurso sobre Estado da Nação destacou ganhos e desafios do país”, diz Mara Quiosa",
+      "url": "https://correiokianda.info/discurso-sobre-estado-da-nacao-destacou-ganhos-e-desafios-do-pais-diz-mara-quiosa/",
+      "source": "Correio Kianda",
+      "_key": "456b5d9a37174683",
+      "score": 6
+    },
+    {
+      "title": "Os 10 Legados que João Lourenço quer deixar para a História no seu último Estado da Nação",
+      "url": "https://forbesafricalusofona.com/os-10-legados-que-joao-lourenco-quer-deixar-para-a-historia-no-seu-ultimo-estado-da-nacao/",
       "source": "Forbes África",
-      "_key": "4aa4e41abfecb614",
+      "_key": "66de1cb45e2a3edd",
+      "score": 6
+    },
+    {
+      "title": "Política Nova divisão administrativa impulsiona planeamento das novas províncias ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687535/nova-divis%C3%A3o-administrativa-impulsiona-planeamento-das-novas-prov%C3%ADncias",
+      "source": "Jornal de Angola",
+      "_key": "fbc4778e8c3dd292",
+      "score": 6
+    },
+    {
+      "title": "Uíge: PN detém um brasileiro e seis angolanos por garimpo...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/uige-pn-detem-um-brasileiro-e-seis-angolanos-por-garimpo-ilegal-de-ouro-75379.html",
+      "source": "Novo Jornal",
+      "_key": "aa6188259d8a57e7",
+      "score": 6
+    },
+    {
+      "title": "Tete António destaca papel de João Lourenço na abertura de Angola ao mundo",
+      "url": "https://opais.ao/politica/tete-antonio-destaca-papel-de-joao-lourenco-na-abertura-de-angola-ao-mundo/",
+      "source": "O País",
+      "_key": "280c3b95d3d8dad5",
+      "score": 6
+    },
+    {
+      "title": "Discurso de 159 páginas de João Lourenço gera reacções divididas",
+      "url": "https://correiokianda.info/discurso-de-159-paginas-de-joao-lourenco-gera-reaccoes-divididas/",
+      "source": "Correio Kianda",
+      "_key": "7a48ab8fc2b92552",
       "score": 5
     },
     {
-      "title": "Queda do petróleo expôs fragilidades da economia angolana, admite João Lourenço",
-      "url": "https://forbesafricalusofona.com/queda-do-petroleo-expos-fragilidades-da-economia-angolana-admite-presidente-joao-lourenco/",
-      "source": "Forbes África",
-      "_key": "1a6ab9eee2ddf82a",
+      "title": "João Lourenço destaca reconhecimento de Angola como mediador africano para a paz",
+      "url": "https://correiokianda.info/joao-lourenco-destaca-reconhecimento-de-angola-como-mediador-africano-para-a-paz/",
+      "source": "Correio Kianda",
+      "_key": "9e1e7c4cf3a675ae",
       "score": 5
     },
     {
-      "title": "Banco Mundial disponibiliza 93 milhões de dólares para…",
-      "url": "https://holdonangola.com/banco-mundial-disponibiliza-93-milhoes-de-dolares-para-combater-ebola-na-rdc-e-reforcar-resposta-regional/",
-      "source": "Hold On Angola",
-      "_key": "5cdd0475b65b266c",
+      "title": "Política António Nascimento: Diplomacia angolana reforça visibilidade do país em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687543/ant%C3%B3nio-nascimento:-diplomacia-angolana-refor%C3%A7a-visibilidade-do-pa%C3%ADs-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "339de07a7c7ccbd8",
+      "score": 5
+    },
+    {
+      "title": "16:00 / 15 out. 2026 Abel Chivukuvuku considera que indicadores económicos devem reflectir a qualidade de vida ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687542/-abel-chivukuvuku-considera-que-indicadores-econ%C3%B3micos-devem-reflectir-a-qualidade-de-vida",
+      "source": "Jornal de Angola",
+      "_key": "36c6055e628c82c6",
       "score": 5
     }
   ]
