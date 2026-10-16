@@ -1,224 +1,312 @@
 {
-  "date": "2026-10-15",
-  "total_new": 65,
-  "total_filtered": 27,
+  "date": "2026-10-16",
+  "total_new": 116,
+  "total_filtered": 38,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Sociedade Reabilitados 3.500 quilómetros de estradas nacionais nos últimos nove anos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687516/reabilitados-3.500-quil%C3%B3metros-de-estradas-nacionais-nos-%C3%BAltimos-nove-anos",
-      "source": "Jornal de Angola",
-      "_key": "e4e298b6163a16d9",
+      "title": "Dólar caminha para primeira queda semanal em mais de um...",
+      "url": "https://valoreconomico.co.ao/artigo/dolar-caminha-para-primeira-queda-semanal-em-mais-de-um-mes-pressionado-por-crise-nas-accoes-de-ia",
+      "source": "Valor Económico",
+      "_key": "7e677eee2da8a4cb",
+      "score": 10,
+      "title_cn": "美元有望一年多来首次录得周跌幅"
+    },
+    {
+      "title": "Petróleo: Barril de Brent acaba semana a subir e \"braseiro\"...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-acaba-semana-a-subir-e-braseiro-do-golfo-persico-pode-fazer-os-graficos-dos-mercados-explodir-75408.html",
+      "source": "Novo Jornal",
+      "_key": "be59814d53dc5080",
       "score": 9,
-      "title_cn": "过去九年，安哥拉修复了3500公里国道。"
+      "title_cn": "布伦特原油本周上涨，市场“火热”"
     },
     {
-      "title": "Presidente destaca expansão mineira e projectos de energia, mas sem...",
-      "url": "https://valoreconomico.co.ao/artigo/presidente-destaca-expansao-mineira-e-projectos-de-energia-mas-sem-quantificar-resultados-economicos",
+      "title": "Refinaria do Lobito vai priorizar mão-de-obra qualificada local, garante PCA...",
+      "url": "https://valoreconomico.co.ao/artigo/refinaria-do-lobito-vai-priorizar-mao-de-obra-qualificada-local-garante-pca-da-sonangol",
       "source": "Valor Económico",
-      "_key": "60b2d39b975800b3",
+      "_key": "31cd0714f934ac92",
       "score": 9,
-      "title_cn": "总统强调矿业扩张和能源项目进展。"
+      "title_cn": "洛比托炼油厂董事长：将优先聘用本地熟练工人"
     },
     {
-      "title": "Destaque João Lourenço destaca capacidade do Estado para realizar projectos públicosA reorganização das finanças públicas, a revisão dos subsídios, a melhoria da gestão da dívida pública, a alteração das regras cambiais, o reforço da arrecadação fiscal e o controlo da despesa e das contas públicas foram determinantes para devolver ao Estado a capacidade de executar projectos de investimento público.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687487/jo%C3%A3o-louren%C3%A7o-destaca-capacidade-do-estado-para-realizar-projectos-p%C3%BAblicos",
-      "source": "Jornal de Angola",
-      "_key": "4cddee958046d9bc",
+      "title": "África: FMI melhora crescimento de exportadores de petróleo",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_418f4ed99204f5",
       "score": 8,
-      "title_cn": "若昂·洛伦索（João Lourenço）强调国家实施公共项目的能力。"
+      "title_cn": "国际货币基金组织上调非洲石油出口国增长预期"
     },
     {
-      "title": "Sociedade Executivo garante melhorar a mobilidade terrestre e aérea ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687536/executivo-garante-melhorar-a-mobilidade-terrestre-e-a%C3%A9rea-",
-      "source": "Jornal de Angola",
-      "_key": "47aef5b2d3da517e",
+      "title": "África: FMI melhora crescimento de exportadores de petróleoApesar de rever em alta o crescimento global, as perspectivas a médio prazo \"continuam fracas em comparação com os padrões históricos e desiguais entre países\", reflectindo, em parte, diferentes graus de preparação para a inteligência artificial e a robustez do mix energético\", refere o FMI.",
+      "url": "https://expansao.co.ao/mundo/detalhe/africa-fmi-melhora-crescimento-de-exportadores-de-petroleo-75384.html",
+      "source": "Expansão",
+      "_key": "701adc89245ea083",
       "score": 8,
-      "title_cn": "安哥拉政府承诺改善陆路和空中交通。"
+      "title_cn": "国际货币基金组织上调非洲石油出口国增长预期"
     },
     {
-      "title": "Sociedade País dispõe de 18 centralidades que beneficiam mais de dois milhões de cidadãos ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687534/pa%C3%ADs-disp%C3%B5e-de-18-centralidades-que-beneficiam-mais-de-dois-milh%C3%B5es-de-cidad%C3%A3os",
+      "title": "Regiões CFB e grupo Lobito Atlantic Railway apresentam projecto de sensibilização comunitária ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687590/cfb-e-grupo-lobito-atlantic-railway-apresentam-projecto-de-sensibiliza%C3%A7%C3%A3o-comunit%C3%A1ria",
       "source": "Jornal de Angola",
-      "_key": "71d3f0a78699e944",
+      "_key": "2ec906fff0f57bbc",
       "score": 8,
-      "title_cn": "安哥拉拥有18个城市中心，惠及200多万公民。"
+      "title_cn": "CFB地区与洛比托大西洋铁路集团启动社区宣传项目"
     },
     {
-      "title": "Sociedade Executivo prevê construir e reabilitar 1.664 escolas primárias ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687503/executivo-prev%C3%AA-construir-e-reabilitar-1.664-escolas-prim%C3%A1rias",
-      "source": "Jornal de Angola",
-      "_key": "58c51690798e8314",
-      "score": 8,
-      "title_cn": "安哥拉政府计划新建和修复1664所小学。"
-    },
-    {
-      "title": "Gildo Matias quer uma economia ‘além dos diamantes’ na Lunda...",
-      "url": "https://valoreconomico.co.ao/artigo/gildo-matias-quer-uma-economia-alem-dos-diamantes-na-lunda-sul",
+      "title": "Preços dos materiais de construção abrandam subida em Setembro",
+      "url": "https://valoreconomico.co.ao/artigo/precos-dos-materiais-de-construcao-abrandam-subida-em-setembro",
       "source": "Valor Económico",
-      "_key": "7480cb62c4f356d8",
+      "_key": "28df9d8b065e21f6",
       "score": 8,
-      "title_cn": "吉尔多·马蒂亚斯（Gildo Matias）希望隆达省经济“超越钻石”。"
+      "title_cn": "9月安哥拉建筑材料价格涨幅放缓"
     },
     {
-      "title": "PR volta a reclamar 900 milhões retidos na Suíça e refere que...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-volta-a-reclamar-900-milhoes-retidos-na-suica-e-refere-que-angola-e-o-unico-proprietario",
-      "source": "Valor Económico",
-      "_key": "f8ea32ef38d27a85",
-      "score": 8,
-      "title_cn": "总统再次要求瑞士归还被扣押的9亿。"
+      "title": "FMI prevê crescimento de 4,5% na África Subsariana e destaca melhoria das contas de Angola",
+      "url": "https://correiokianda.info/fmi-preve-crescimento-de-45-na-africa-subsariana-e-destaca-melhoria-das-contas-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "1682aeca95e81537",
+      "score": 7,
+      "title_cn": "国际货币基金组织预测撒哈拉以南非洲增长4.5%，强调安哥拉财政改善"
     },
     {
-      "title": "Estado da Nação: João Lourenço apresenta conquistas no turismo, cultura, segurança e justiça, e apela à conclusão das autarquias",
-      "url": "https://diariodosnegocios.com/estado-da-nacao-joao-lourenco-apresenta-conquistas-no-turismo-cultura-seguranca-e-justica-e-apela-a-conclusao-das-autarquias/",
+      "title": "Presidente já assinou 20,2 mil milhões USD em ajustes directos este ano",
+      "url": "https://diariodosnegocios.com/presidente-ja-assinou-202-mil-milhoes-usd-em-ajustes-directos-este-ano/",
       "source": "Diário dos Negócios",
-      "_key": "b3ee71c0cc77af21",
+      "_key": "0b0526813e754549",
       "score": 7,
-      "title_cn": "国情咨文：若昂·洛伦索（João Lourenço）介绍旅游、文化、安全和司法成就，呼吁完成地方自治。"
+      "title_cn": "安哥拉总统今年已签署202亿美元直接合同"
     },
     {
-      "title": "Destaque Angola construiu 736 hospitais entre 2017 e primeiro trimestre de 2026Angola construiu 736 unidades hospitalares entre 2017 e o primeiro trimestre de 2026, elevando a rede sanitária nacional de 2.612 para 3.348 unidades, distribuídas pelos três níveis de atenção à saúde.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687506/angola-construiu-736-hospitais-entre-2017-e-primeiro-trimestre-de-2026",
+      "title": "Presidente destaca recuperação económica, redução da dívida e avanços na saúde",
+      "url": "https://diariodosnegocios.com/presidente-destaca-recuperacao-economica-reducao-da-divida-e-avancos-na-saude/",
+      "source": "Diário dos Negócios",
+      "_key": "515c918a9ae4f363",
+      "score": 7,
+      "title_cn": "总统强调经济复苏、债务减少及卫生领域进展"
+    },
+    {
+      "title": "Presidente já assinou 20,2 mil milhões USD em ajustes directos este ano",
+      "url": "https://expansao.co.ao/angola/detalhe/presidente-ja-assinou-202-mil-milhoes-usd-em-ajustes-directos-este-ano-75383.html",
+      "source": "Expansão",
+      "_key": "b9601b050e78c173",
+      "score": 7,
+      "title_cn": "安哥拉总统今年已签署202亿美元直接合同"
+    },
+    {
+      "title": "Inflação em Angola abranda para 8,43% em Setembro",
+      "url": "https://forbesafricalusofona.com/inflacao-em-angola-abranda-para-843-em-setembro/",
+      "source": "Forbes África",
+      "_key": "c1a2453e32352a20",
+      "score": 7,
+      "title_cn": "安哥拉9月通胀率放缓至8.43%"
+    },
+    {
+      "title": "20:13 / 15 out. 2026 Gildo Matias destaca impacto económico da ligação ferroviária Saurimo-Luena ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687545/gildo-matias-destaca-impacto-econ%C3%B3mico-da-liga%C3%A7%C3%A3o-ferrovi%C3%A1ria-saurimo-luena",
       "source": "Jornal de Angola",
-      "_key": "3fd9f5cc5c6a4aa7",
+      "_key": "66e8468a8d10db53",
       "score": 7,
-      "title_cn": "安哥拉在2017至2026年一季度间建成736家医院。"
+      "title_cn": "吉尔多·马蒂亚斯（Gildo Matias）强调绍里木-卢埃纳铁路连接的经济影响"
     },
     {
-      "title": "Destaque Desemprego recua de 31,5% em 2024 para 21,3% no primeiro trimestre de 2026A taxa de desemprego em Angola recuou de 31,5%, em 2024, para 21,3%, no primeiro trimestre de 2026, sinalizando uma redução do desemprego no período em referência.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687514/desemprego-recua-de-315%25-em-2024-para-213%25-no-primeiro-trimestre-de-2026",
+      "title": "PR autoriza de uma assentada três empréstimos num total...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-autoriza-de-uma-assentada-tres-emprestimos-num-total-superior-a-360-milhoes-usd---91-milhoes-sao-para-apoio-a-tesouraria-75407.html",
+      "source": "Novo Jornal",
+      "_key": "e7cdcc31babe913b",
+      "score": 7,
+      "title_cn": "总统一次性批准三笔贷款"
+    },
+    {
+      "title": "Angola subiu dois lugares mas ainda é quarto pior classificado no Índice Global de Inovação",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e78efa503c077d",
+      "score": 6,
+      "title_cn": "安哥拉全球创新指数上升两位，仍排名倒数第四"
+    },
+    {
+      "title": "O apuramento indirecto de rendimentos de despachantes oficiais | Uma nota técnica",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0568f296cd2792",
+      "score": 6,
+      "title_cn": "官方报关员间接收入核算：一份技术说明"
+    },
+    {
+      "title": "Acções da BODIVA valem quase oito vezes mais do que na privatização",
+      "url": "https://expansao.co.ao/empresas/detalhe/accoes-da-bodiva-valem-quase-oito-vezes-mais-do-que-na-privatizacao-75386.html",
+      "source": "Expansão",
+      "_key": "3fa0482ab5eea588",
+      "score": 6,
+      "title_cn": "BODIVA股票价值较私有化时增长近八倍"
+    },
+    {
+      "title": "CONVIDADOAfonso Pedro O apuramento indirecto de rendimentos de despachantes oficiais | Uma nota técnica",
+      "url": "https://expansao.co.ao/opiniao/detalhe/o-apuramento-indirecto-de-rendimentos-de-despachantes-oficiais-uma-nota-tecnica-75297.html",
+      "source": "Expansão",
+      "_key": "4e03a3db83b0b69b",
+      "score": 6,
+      "title_cn": "阿丰索·佩德罗（Afonso Pedro）：官方报关员间接收入核算技术说明"
+    },
+    {
+      "title": "Destaque Presidente da República aponta emprego e educação como prioridades nacionaisO Presidente da República, João Lourenço, apontou, na quinta-feira, a protecção e educação da criança, a formação académica e profissional da juventude e o aumento da oferta de emprego para os angolanos como as principais prioridades do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687547/presidente-da-rep%C3%BAblica-aponta-emprego-e-educa%C3%A7%C3%A3o-como-prioridades-nacionais",
       "source": "Jornal de Angola",
-      "_key": "ef1442be16c8fd66",
-      "score": 7,
-      "title_cn": "安哥拉失业率预计从2024年的31.5%降至2026年一季度的21.3%。"
+      "_key": "ed864ee4dfd9429a",
+      "score": 6,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统指出就业和教育是国家优先事项"
     },
     {
-      "title": "Sociedade Telecomunicações reforçam inclusão digital e soberania tecnológica ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687541/telecomunica%C3%A7%C3%B5es-refor%C3%A7am-inclus%C3%A3o-digital-e-soberania-tecnol%C3%B3gica",
+      "title": "Destaque Estado da Nação: Angola reforça influência política e diplomática no plano internacionalAngola tem reforçado a sua influência política em África e no mundo, através da diplomacia de paz, da mediação de conflitos e da defesa dos princípios da Carta das Nações Unidas e do Direito Internacional, afirmou, quinta-feira, em Luanda, o Presidente da República, João Lourenço, na mensagem sobre o Estado da Nação.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687546/estado-da-na%C3%A7%C3%A3o:-angola-refor%C3%A7a-influ%C3%AAncia-pol%C3%ADtica-e-diplom%C3%A1tica-no-plano-internacional",
       "source": "Jornal de Angola",
-      "_key": "65541fd4f126d745",
-      "score": 7,
-      "title_cn": "电信业加强数字包容和技术主权。"
+      "_key": "de08ba3ec76871bb",
+      "score": 6,
+      "title_cn": "国情咨文：安哥拉加强国际政治和外交影响力"
     },
     {
-      "title": "Sociedade Água potável cobre mais de 69 por cento da população ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687540/%C3%A1gua-pot%C3%A1vel-cobre-mais-de-69-por-cento-da-popula%C3%A7%C3%A3o",
+      "title": "Presidente considera aposta na infância e juventude prioridade das prioridades A protecção da infância, a formação académica e profissional dos jovens e o aumento da oferta de trabalho para os angolanos vão continuar no topo das prioridades do Executivo. O compromisso foi assegurado ontem, em Luanda, pelo Presidente da República, João Lourenço, que destacou a importância estratégica destas áreas para o presente e o futuro do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687551/presidente-considera-aposta-na-inf%C3%A2ncia-e-juventude-prioridade-das-prioridades",
       "source": "Jornal de Angola",
-      "_key": "136b3054fb4347d3",
-      "score": 7,
-      "title_cn": "安哥拉饮用水覆盖率超过69%。"
+      "_key": "6368f1d23c4a208f",
+      "score": 6,
+      "title_cn": "总统：投资儿童和青年是重中之重"
     },
     {
-      "title": "Destaque Nelito Ekuikui destaca avanços nas infra-estruturas hospitalaresO deputado da UNITA, Nelito Ekuikui, reconheceu, esta quinta-feira, a existência de melhorias nas infra-estruturas em Angola, com destaque para o sector da Saúde, sobretudo com a construção de novos hospitais.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687473/nelito-ekuikui-destaca-avan%C3%A7os-nas-infra-estruturas-hospitalares",
+      "title": "Política Destacado investimento na criação do Sistema de Segurança Nacional ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687553/destacado-investimento-na-cria%C3%A7%C3%A3o--do-sistema-de-seguran%C3%A7a-nacional",
       "source": "Jornal de Angola",
-      "_key": "c369a63e48241b96",
-      "score": 7,
-      "title_cn": "内利托·埃奎奎（Nelito Ekuikui）强调医院基础设施的进步。"
+      "_key": "8185e732fd8a593b",
+      "score": 6,
+      "title_cn": "政治：突出投资建立国家安全体系"
     },
     {
-      "title": "Sociedade14/10/2026Angola participa do Conselho da Agência Internacional para as Energias em Abu Dhabi",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687450/angola-participa-do-conselho-da-ag%C3%AAncia-internacional-para-as-energias-em-abu-dhabi",
+      "title": "Política Chefe de Estado considera acentuada influência política de Angola em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687548/chefe-de-estado-considera-acentuada-influ%C3%AAncia-pol%C3%ADtica-de-angola-em-%C3%A1frica-",
       "source": "Jornal de Angola",
-      "_key": "ad642affaaf22e0f",
-      "score": 7,
-      "title_cn": "Sociedade14/10/2026安哥拉参加在阿布扎比举行的国际能源机构理事会"
+      "_key": "b2533f13cdf79a1f",
+      "score": 6,
+      "title_cn": "国家元首认为安哥拉在非洲的政治影响力显著增强"
     },
     {
-      "title": "Presidente da República reconhece que a criminalidade continua a constituir uma das principais preocupações das populações",
+      "title": "Médio Oriente: Guerra é agora mais certa que nunca...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-guerra-e-agora-mais-certa-que-nunca-e-trump-pede-ajuda-a-mae-de-todas-as-bombas-calendario-eleitoral-nos-eua-e-em-israel-dita-regras-no-golfo-persico-75397.html",
+      "source": "Novo Jornal",
+      "_key": "03388c2a9a8e8ede",
+      "score": 6,
+      "title_cn": "中东：战争比以往任何时候都更确定"
+    },
+    {
+      "title": "Waku Kungo precisa de 80 milhões de dólares para reabilitação urbana",
+      "url": "https://opais.ao/reportagem/waku-kungo-precisa-de-80-milhoes-de-dolares-para-reabilitacao-urbana/",
+      "source": "O País",
+      "_key": "58359b3af7a1d041",
+      "score": 6,
+      "title_cn": "瓦库昆戈需8000万美元用于城市重建"
+    },
+    {
+      "title": "Empresa angolana reafirma compromisso com soluções inovadoras de energia no país",
+      "url": "https://opais.ao/ultima_hora/empresa-angolana-reafirma-compromisso-com-solucoes-inovadoras-de-energia-no-pais/",
+      "source": "O País",
+      "_key": "6d88d529d84f39c1",
+      "score": 6,
+      "title_cn": "安哥拉公司重申对该国创新能源解决方案的承诺"
+    },
+    {
+      "title": "Editorial: Vantagens da Nova DPA",
+      "url": "https://opais.ao/editorial/editorial-vantagens-da-nova-dpa/",
+      "source": "O País",
+      "_key": "d5f8ae3322d0c207",
+      "score": 6,
+      "title_cn": "社论：新DPA的优势"
+    },
+    {
+      "title": "Governo cria equipa multidisciplinar e dá 180 dias para mapear...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-cria-equipa-multidisciplinar-e-da-180-dias-para-mapear-donos-de-empresas-fantasma",
+      "source": "Valor Económico",
+      "_key": "6caaf9ab227543e9",
+      "score": 6,
+      "title_cn": "政府成立多学科团队，限180天摸清情况"
+    },
+    {
+      "title": "Quem controla a nuvem? Infra-estrutura, dados e soberania digital na África Subsaariana",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_1c8e02525ee6ee",
+      "score": 5,
+      "title_cn": "谁控制云？撒哈拉以南非洲的基础设施、数据与数字主权"
+    },
+    {
+      "title": "CONVIDADOFrancisco Xavier PedroQuem controla a nuvem? Infra-estrutura, dados e soberania digital na África Subsaariana",
+      "url": "https://expansao.co.ao/opiniao/detalhe/quem-controla-a-nuvem-infra-estrutura-dados-e-soberania-digital-na-africa-subsaariana-75389.html",
+      "source": "Expansão",
+      "_key": "cff3eddd6266020b",
+      "score": 5,
+      "title_cn": "弗朗西斯科·哈维尔·佩德罗（Francisco Xavier Pedro）：谁控制云？撒哈拉以南非洲的数字主权"
+    },
+    {
+      "title": "Política Impacto do acesso à água e ao saneamento básico em Angola abordado em Dakar ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687605/impacto-do-acesso-%C3%A0-%C3%A1gua-e-ao-saneamento-b%C3%A1sico-em-angola-abordado-em-dakar",
+      "source": "Jornal de Angola",
+      "_key": "b6f2303f3da52ec8",
+      "score": 5,
+      "title_cn": "政治：安哥拉供水和基本卫生设施影响在达喀尔讨论"
+    },
+    {
+      "title": "Política Diplomatas estrangeiros realçam conquistas alcançadas pelo país ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687556/diplomatas-estrangeiros-real%C3%A7am-conquistas-alcan%C3%A7adas-pelo-pa%C3%ADs",
+      "source": "Jornal de Angola",
+      "_key": "df4259ce854febbc",
+      "score": 5,
+      "title_cn": "政治：外国外交官强调安哥拉取得的成就"
+    },
+    {
+      "title": "Venda de terrenos no Kilamba - Cidadão diz ter sido burlado em em 3.5 milhões de Kwanzas na Zona Verde - Processoo n.º 1743/26 M° P° BLS está \"engavetado\" na PGR e ninguém faz absolutamente nada",
       "url": "",
       "source": "Na Mira do Crime",
-      "_key": "t_0a84ce0306252a",
-      "score": 7,
-      "title_cn": "总统承认犯罪仍是民众主要担忧之一。"
+      "_key": "t_283cfd5c1e2fa8",
+      "score": 5,
+      "title_cn": "基兰巴土地出售：公民称在绿区被骗350万宽扎，案件在总检察院被搁置"
     },
     {
-      "title": "  Política Presidente da República reconhece que a criminalidade continua a constituir uma das principais preocupações das populações adminHá 2 horas6 min de leitura ",
-      "url": "https://namiradocrime.info/show/17785",
+      "title": "  Sociedade Venda de terrenos no Kilamba - Cidadão diz ter sido burlado em em 3.5 milhões de Kwanzas na Zona Verde - Processoo n.º 1743/26 M° P° BLS está \"engavetado\" na PGR e ninguém faz absolutamente nada adminHá 2 horas5 min de leitura ",
+      "url": "https://namiradocrime.info/show/17792",
       "source": "Na Mira do Crime",
-      "_key": "5e6ee0ca5994dabf",
-      "score": 7,
-      "title_cn": "总统承认犯罪仍是民众主要担忧之一。"
+      "_key": "97f1ffd7cafeb4b5",
+      "score": 5,
+      "title_cn": "社会：基兰巴土地出售，公民称被骗350万宽扎，案件在总检察院被搁置"
     },
     {
-      "title": "Quénia aumenta preços dos combustíveis devido ao conflito no Médio...",
-      "url": "https://valoreconomico.co.ao/artigo/quenia-aumenta-precos-dos-combustiveis-devido-ao-conflito-no-medio-oriente",
-      "source": "Valor Económico",
-      "_key": "57ceca9dbf64f573",
-      "score": 7,
-      "title_cn": "受中东冲突影响，肯尼亚提高燃油价格。"
-    },
-    {
-      "title": "“Discurso sobre Estado da Nação destacou ganhos e desafios do país”, diz Mara Quiosa",
-      "url": "https://correiokianda.info/discurso-sobre-estado-da-nacao-destacou-ganhos-e-desafios-do-pais-diz-mara-quiosa/",
-      "source": "Correio Kianda",
-      "_key": "456b5d9a37174683",
-      "score": 6,
-      "title_cn": "玛拉·奎奥萨（Mara Quiosa）称国情咨文强调国家成就与挑战。"
-    },
-    {
-      "title": "Os 10 Legados que João Lourenço quer deixar para a História no seu último Estado da Nação",
-      "url": "https://forbesafricalusofona.com/os-10-legados-que-joao-lourenco-quer-deixar-para-a-historia-no-seu-ultimo-estado-da-nacao/",
-      "source": "Forbes África",
-      "_key": "66de1cb45e2a3edd",
-      "score": 6,
-      "title_cn": "若昂·洛伦索（João Lourenço）希望在最后一次国情咨文中留下10项历史遗产。"
-    },
-    {
-      "title": "Política Nova divisão administrativa impulsiona planeamento das novas províncias ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687535/nova-divis%C3%A3o-administrativa-impulsiona-planeamento-das-novas-prov%C3%ADncias",
-      "source": "Jornal de Angola",
-      "_key": "fbc4778e8c3dd292",
-      "score": 6,
-      "title_cn": "新行政区划推动新省份规划。"
-    },
-    {
-      "title": "Uíge: PN detém um brasileiro e seis angolanos por garimpo...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/uige-pn-detem-um-brasileiro-e-seis-angolanos-por-garimpo-ilegal-de-ouro-75379.html",
+      "title": "Circulação entre Luanda e Bengo muito difícil devido...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/circulacao-entre-luanda-e-bengo-muito-dificil-devido-a-buraco-na-ponte-do-kifangondo-automobilistas-aguardam-horas-em-longas-filas-75410.html",
       "source": "Novo Jornal",
-      "_key": "aa6188259d8a57e7",
-      "score": 6,
-      "title_cn": "威热省：国家警察逮捕一名巴西人和六名安哥拉非法采矿者。"
+      "_key": "b4116a2330c9abe4",
+      "score": 5,
+      "title_cn": "罗安达与本戈之间交通因故非常困难"
     },
     {
-      "title": "Tete António destaca papel de João Lourenço na abertura de Angola ao mundo",
-      "url": "https://opais.ao/politica/tete-antonio-destaca-papel-de-joao-lourenco-na-abertura-de-angola-ao-mundo/",
+      "title": "Clima: Num momento em que o \"Super El Niño\" ameaça...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/clima-num-momento-em-que-o-super-el-nino-ameaca-o-planeta-onu-alerta-para-o-suicidio-que-e-investir-nas-energias-fosseis-75402.html",
+      "source": "Novo Jornal",
+      "_key": "d63789d6361eebb1",
+      "score": 5,
+      "title_cn": "气候：超级厄尔尼诺现象构成威胁"
+    },
+    {
+      "title": "Mulheres perfazem 53% dos casos de varíola dos macacos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/mulheres-perfazem-53-dos-casos-de-variola-dos-macacos---pais-soma-mais-de-830-casos-104-activos-75401.html",
+      "source": "Novo Jornal",
+      "_key": "6d9efdcc07ccf8f4",
+      "score": 5,
+      "title_cn": "猴痘病例中女性占53%"
+    },
+    {
+      "title": "Crisóstomo Martinho: “Os planos urbanísticos não devem ser ditatoriais”",
+      "url": "https://opais.ao/entrevista/crisostomo-martinho-os-planos-urbanisticos-nao-devem-ser-ditatoriais/",
       "source": "O País",
-      "_key": "280c3b95d3d8dad5",
-      "score": 6,
-      "title_cn": "特特·安东尼奥（Tete António）强调若昂·洛伦索（João Lourenço）在安哥拉对外开放中的作用。"
-    },
-    {
-      "title": "Discurso de 159 páginas de João Lourenço gera reacções divididas",
-      "url": "https://correiokianda.info/discurso-de-159-paginas-de-joao-lourenco-gera-reaccoes-divididas/",
-      "source": "Correio Kianda",
-      "_key": "7a48ab8fc2b92552",
+      "_key": "17833f60c5843d57",
       "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）159页演讲引发不同反响。"
-    },
-    {
-      "title": "João Lourenço destaca reconhecimento de Angola como mediador africano para a paz",
-      "url": "https://correiokianda.info/joao-lourenco-destaca-reconhecimento-de-angola-como-mediador-africano-para-a-paz/",
-      "source": "Correio Kianda",
-      "_key": "9e1e7c4cf3a675ae",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）强调安哥拉作为非洲和平调解者的地位获认可。"
-    },
-    {
-      "title": "Política António Nascimento: Diplomacia angolana reforça visibilidade do país em África ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687543/ant%C3%B3nio-nascimento:-diplomacia-angolana-refor%C3%A7a-visibilidade-do-pa%C3%ADs-em-%C3%A1frica",
-      "source": "Jornal de Angola",
-      "_key": "339de07a7c7ccbd8",
-      "score": 5,
-      "title_cn": "安东尼奥·纳西门托（António Nascimento）：安哥拉外交提升国家在非洲的知名度。"
-    },
-    {
-      "title": "16:00 / 15 out. 2026 Abel Chivukuvuku considera que indicadores económicos devem reflectir a qualidade de vida ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687542/-abel-chivukuvuku-considera-que-indicadores-econ%C3%B3micos-devem-reflectir-a-qualidade-de-vida",
-      "source": "Jornal de Angola",
-      "_key": "36c6055e628c82c6",
-      "score": 5,
-      "title_cn": "阿贝尔·希武库武库（Abel Chivukuvuku）认为经济指标应反映生活质量。"
+      "title_cn": "克里索斯托莫·马蒂尼奥（Crisóstomo Martinho）：“城市规划不应是独裁的。”"
     }
   ]
 }
