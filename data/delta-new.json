@@ -1,428 +1,116 @@
 {
   "date": "2026-10-17",
-  "total_extracted": 896,
-  "total_new": 70,
-  "total_existing": 826,
+  "total_extracted": 895,
+  "total_new": 18,
+  "total_existing": 877,
   "articles": [
     {
-      "title": "MPLA reúne militantes em Viana para saudar congresso e 70 anos de fundação",
-      "url": "https://correiokianda.info/mpla-reune-militantes-em-viana-para-saudar-congresso-e-70-anos-de-fundacao/",
+      "title": "Renova Angola quer crescimento económico traduzido em bem-estar social",
+      "url": "https://correiokianda.info/renova-angola-quer-crescimento-economico-traduzido-em-bem-estar-social/",
       "source": "Correio Kianda",
-      "_key": "e51c0e86e8e796c4"
+      "_key": "e5682eea8ccce1eb"
     },
     {
-      "title": "Presidente da República autoriza financiamento de 104,7 milhões de dólares para obras e despesas orçamentais",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-financiamento-de-1047-milhoes-de-dolares-para-obras-e-despesas-orcamentais/",
+      "title": "Executivo vai contrair dívida de 212,5 milhões de euros para construir estrada de 155 km no Moxico",
+      "url": "https://correiokianda.info/executivo-vai-contrair-divida-de-2125-milhoes-de-euros-para-construir-estrada-de-155-km-no-moxico/",
       "source": "Correio Kianda",
-      "_key": "f2bc7deefe50c087"
+      "_key": "24bcced25b75a7fa"
     },
     {
-      "title": "Moxico quer travar degradação dos recursos naturais",
-      "url": "https://correiokianda.info/moxico-quer-travar-degradacao-dos-recursos-naturais/",
+      "title": "Luís Nunes exige compromisso aos novos dirigentes do MPLA em Luanda",
+      "url": "https://correiokianda.info/luis-nunes-exige-compromisso-aos-novos-dirigentes-do-mpla-em-luanda/",
       "source": "Correio Kianda",
-      "_key": "d6085d277b2c916e"
+      "_key": "415715ea8bc76055"
     },
     {
-      "title": "FNLA volta a enfrentar divergências internas em torno da liderança",
-      "url": "https://correiokianda.info/fnla-volta-a-enfrentar-divergencias-internas-em-torno-da-lideranca/",
+      "title": "Vaticano anuncia regresso de Leão XIV após intervenção cirúrgica",
+      "url": "https://correiokianda.info/vaticano-anuncia-regresso-de-leao-xiv-apos-intervencao-cirurgica/",
       "source": "Correio Kianda",
-      "_key": "8492beeb708e7ff0"
+      "_key": "d9784f36fad060fd"
     },
     {
-      "title": "Militantes do PDP-ANA avançam com congresso à margem da actual direcção",
-      "url": "https://correiokianda.info/militantes-do-pdp-ana-avancam-com-congresso-a-margem-da-actual-direccao/",
+      "title": "Sete candidatos à liderança da ONU recebem votos contra de membros permanentes",
+      "url": "https://correiokianda.info/sete-candidatos-a-lideranca-da-onu-recebem-votos-contra-de-membros-permanentes/",
       "source": "Correio Kianda",
-      "_key": "8deef1050f457912"
+      "_key": "4ca2e05a5b12d7cf"
     },
     {
-      "title": "“Corredor do Lobito pode impulsionar emprego e crescimento sustentável”, diz Banco Mundial",
-      "url": "https://correiokianda.info/corredor-do-lobito-pode-impulsionar-emprego-e-crescimento-sustentavel-diz-banco-mundial/",
-      "source": "Correio Kianda",
-      "_key": "9576368282cde597"
-    },
-    {
-      "title": "INAGBE divulga orientações para candidatura às bolsas de estudo internas",
-      "url": "https://correiokianda.info/inagbe-divulga-orientacoes-para-candidatura-as-bolsas-de-estudo-internas/",
-      "source": "Correio Kianda",
-      "_key": "b1519425f5956878"
-    },
-    {
-      "title": "Botijas de gás com fugas preocupam consumidores e podem chegar à Justiça",
-      "url": "https://correiokianda.info/botijas-de-gas-com-fugas-preocupam-consumidores-e-podem-chegar-a-justica/",
-      "source": "Correio Kianda",
-      "_key": "ce4cbe1c9361219c"
-    },
-    {
-      "title": "Mundial de Hóquei 2026: Bis de Lucas Ordóñez leva Argentina à final após duelo épico com Espanha",
-      "url": "https://correiokianda.info/mundial-de-hoquei-2026-bis-de-lucas-ordonez-leva-argentina-a-final-apos-duelo-epico-com-espanha/",
-      "source": "Correio Kianda",
-      "_key": "4a997d35c5616147"
-    },
-    {
-      "title": "Carlos Viver convoca 20 atletas para estágio da selecção feminina de andebol",
-      "url": "https://correiokianda.info/carlos-viver-convoca-20-atletas-para-estagio-da-seleccao-feminina-de-andebol/",
-      "source": "Correio Kianda",
-      "_key": "3db57c74444b059a"
-    },
-    {
-      "title": "Bravos do Maquis antevê dificuldades no derby do leste contra Desportivo da Lunda-Sul",
-      "url": "https://correiokianda.info/bravos-do-maquis-anteve-dificuldades-no-derby-do-leste-contra-desportivo-da-lunda-sul/",
-      "source": "Correio Kianda",
-      "_key": "e0a2a2a2e7fe53bc"
-    },
-    {
-      "title": "        África4 horas atrás  Conflito armado mantém insegurança alimentar no norte de Moçambique O conflito armado no norte de Moçambique continua a comprometer o acesso aos alimentos e a recuperação económica das famílias, sobretudo nas províncias de Cabo Delgado...   ",
-      "url": "https://correiokianda.info/conflito-armado-mantem-inseguranca-alimentar-no-norte-de-mocambique/",
-      "source": "Correio Kianda",
-      "_key": "21a0a154bae34772"
-    },
-    {
-      "title": "        África12 horas atrás  Regresso de Kabila à cena política agrava tensão na República Democrática do Congo O regresso de Joseph Kabila à cena política está a agravar as tensões na República Democrática do Congo (RDC), após o antigo Presidente anunciar a criação...   ",
-      "url": "https://correiokianda.info/regresso-de-kabila-a-cena-politica-agrava-tensao-na-republica-democratica-do-congo/",
-      "source": "Correio Kianda",
-      "_key": "5fddd33cd0331b33"
-    },
-    {
-      "title": "        Ciência & Tecnologia13 horas atrás  Tesla apresenta novo Roadster capaz de saltar e fazer manobras no ar A Tesla apresentou, esta quinta-feira, 15, a nova geração do Roadster, um carro desportivo eléctrico que demonstrou capacidade de saltar, girar no ar e circular de...   ",
-      "url": "https://correiokianda.info/tesla-apresenta-novo-roadster-capaz-de-saltar-e-fazer-manobras-no-ar/",
-      "source": "Correio Kianda",
-      "_key": "718e8d82351a15e9"
-    },
-    {
-      "title": "Passageiros dizem que gastam menos com comboio do que com carro ou táxi",
-      "url": "https://expansao.co.ao/angola/detalhe/passageiros-dizem-que-gastam-menos-com-comboio-do-que-com-carro-ou-taxi-75413.html",
-      "source": "Expansão",
-      "_key": "dc15bb0a9b240452"
-    },
-    {
-      "title": "Três quartos do lixo ficam na rua, queimadas ganham força e saúde e ambiente pagam o preço",
-      "url": "https://expansao.co.ao/angola/detalhe/tres-quartos-do-lixo-ficam-na-rua-queimadas-ganham-forca-e-saude-e-ambiente-pagam-o-preco-75404.html",
-      "source": "Expansão",
-      "_key": "1747927c742776f8"
-    },
-    {
-      "title": "Josefa Sacko leva Angola à corrida pela liderança mundial da FAO",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_58ea8c3be20d7d"
-    },
-    {
-      "title": "Diploma | Os cursos estão preparados para o mercado?",
-      "url": "https://expansao.co.ao/gestao/detalhe/diploma-os-cursos-estao-preparados-para-o-mercado-75420.html",
-      "source": "Expansão",
-      "_key": "001df02d35a96987"
-    },
-    {
-      "title": "\"Queremos que a nossa música chegue além-fronteiras, mas não investimos\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_b3077310e05f65"
-    },
-    {
-      "title": "The Paring premeia 10 chefs de 10 restaurantes",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_bb64d81e50e3c4"
-    },
-    {
-      "title": "Integração tardia das regras de segurança e conformidade pode comprometer projectos tecnológicos",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_ca480cfc20c365"
-    },
-    {
-      "title": "Acções da BODIVA valem quase oito vezes mais do que na privatização",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_662a9f165ce71b"
-    },
-    {
-      "title": "Lufthansa compra até 49,9% da portuguesa TAP",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_cc603b3d04b388"
-    },
-    {
-      "title": "Josefa Sacko leva Angola à corrida pela liderança mundial da FAOA candidatura da diplomata angolana à direcção-geral da FAO, apoiada pela União Africana e pela SADC, representa uma oportunidade para reforçar a presença de Angola nos centros internacionais de decisão. Uma eventual vitória daria maior visibilidade à diplomacia económica nacional e ao papel de África na definição das políticas mundiais de segurança alimentar.",
-      "url": "https://expansao.co.ao/angola/detalhe/josefa-sacko-leva-angola-a-corrida-pela-lideranca-mundial-da-fao-75409.html",
-      "source": "Expansão",
-      "_key": "a5a169585a9496ca"
-    },
-    {
-      "title": "Inflação cai há 26 meses, mas continua acima da média regional projectada pelo FMI",
-      "url": "https://expansao.co.ao/economia/detalhe/inflacao-cai-ha-26-meses-mas-continua-acima-da-media-regional-projectada-pelo-fmi-75419.html",
-      "source": "Expansão",
-      "_key": "5e6fdf8556a965a0"
-    },
-    {
-      "title": "\"Queremos que a nossa música chegue além-fronteiras, mas não investimos\"Dimbo Makiesse, pianista e mentor do Festival Internacional Angojazz, critica a falta de espaço para géneros musicais menos comerciais e defende uma maior diversidade na divulgação da música nacional. Defende mais investimento na cultura, maior apoio aos artistas e uma estratégia de internacionalização capaz de transformar a música angolana num instrumento de promoção do País.",
-      "url": "https://expansao.co.ao/weekend/detalhe/queremos-que-a-nossa-musica-chegue-alem-fronteiras-mas-nao-investimos-75426.html",
-      "source": "Expansão",
-      "_key": "a3b48f967102c66d"
-    },
-    {
-      "title": "The Paring premeia 10 chefs de 10 restaurantesA 3.ª edição vai homenagear os chefs e as histórias que contribuem para a diversidade da oferta gastronómica em Luanda.",
-      "url": "https://expansao.co.ao/weekend/agenda/detalhe/the-paring-premeia-10-chefs-de-10-restaurantes-75433.html",
-      "source": "Expansão",
-      "_key": "dedeac378f27b140"
-    },
-    {
-      "title": "Integração tardia das regras de segurança e conformidade pode comprometer projectos tecnológicosA Finastra, em parceria com a Innovation Makers e a Teciem, reuniu, esta quarta-feira, representantes do sector bancário, especialistas em tecnologia financeira e responsáveis pela transformação digital no Angola Reimagine Banking Forum, realizado em Luanda. Sob o tema \"Reimagine Banking: Adapt. Evolve. Thrive.\", o encontro debateu os desafios da modernização da banca, com destaque para a necessidade ",
-      "url": "https://expansao.co.ao/empresas/detalhe/integracao-tardia-das-regras-de-seguranca-e-conformidade-pode-comprometer-projectos-tecnologicos-75434.html",
-      "source": "Expansão",
-      "_key": "48646abdeab362dc"
-    },
-    {
-      "title": "Angola e Cantábria reforçam cooperação académica e oportunidades de investimento",
-      "url": "https://holdonangola.com/angola-e-cantabria-reforcam-cooperacao-academica-e-oportunidades-de-investimento/",
-      "source": "Hold On Angola",
-      "_key": "e75657fae8b5231d"
-    },
-    {
-      "title": "Tribunal absolve jornalistas e activistas detidos em Angola, mas mantém medidas de coacção",
-      "url": "https://holdonangola.com/tribunal-absolve-jornalistas-e-activistas-detidos-em-angola-mas-mantem-medidas-de-coaccao/",
-      "source": "Hold On Angola",
-      "_key": "2495b87cdb215de3"
-    },
-    {
-      "title": "Cabinda: dois activistas em prisão preventiva após realizarem…",
-      "url": "https://holdonangola.com/cabinda-dois-activistas-em-prisao-preventiva-apos-realizarem-sondagem-sobre-o-futuro-do-territorio/",
-      "source": "Hold On Angola",
-      "_key": "1a28bcf11751c7ce"
-    },
-    {
-      "title": "Década perdida: o balanço de uma promessa chamada…",
-      "url": "https://holdonangola.com/decada-perdida-o-balanco-de-uma-promessa-chamada-joao-lourenco/",
-      "source": "Hold On Angola",
-      "_key": "651a82af6b322068"
-    },
-    {
-      "title": "Sábado, 17 de Outubro, 2026",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_3601aad2968ed9"
-    },
-    {
-      "title": "Destaque Reforçada busca para identificar crianças com vacinação incompleta em LuandaO Ministério da Saúde (MINSA) reforçou, esta sexta-feira, o apelo aos pais e encarregados de educação para cumprirem rigorosamente o Calendário Nacional de Vacinação, de modo a garantir a protecção das crianças contra doenças preveníveis e reduzir complicações de saúde nos primeiros anos de vida.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687621/refor%C3%A7ada-busca-para-identificar-crian%C3%A7as-com-vacina%C3%A7%C3%A3o-incompleta-em-luanda",
+      "title": "Destaque País participa no Fórum de Juízes de Propriedade Intelectual em GenebraAngola participou no Fórum de Juízes de Propriedade Intelectual de 2026, sob a égide da Organização Mundial da Propriedade Intelectual (OMPI) que decorreu, na última quarta e quinta-feira, em Genebra, na Suíça.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687663/pa%C3%ADs-participa-no-f%C3%B3rum-de-ju%C3%ADzes-de-propriedade-intelectual-em-genebra",
       "source": "Jornal de Angola",
-      "_key": "fa9196c7d8e03f13"
+      "_key": "8f89d0b62c0bcc3c"
     },
     {
-      "title": "Destaque Embaixada chinesa atribui subsídios a estudantes angolanosA Embaixada da China em Angola atribuiu, hoje, subsídios de estudo a 40 estudantes angolanos, uma iniciativa destinada a apoiar jovens com mérito académico e incentivar a continuidade dos estudos.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687617/embaixada-chinesa-atribui-subs%C3%ADdios-a-estudantes-angolanos",
+      "title": "Destaque Angola defende medidas para eliminação total das armas nucleares Angola defendeu, sexta-feira, na sede das Nações Unidas, em Nova Iorque, a adopção de medidas concretas e mensuráveis para a eliminação total, verificável e irreversível das armas nucleares.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687662/angola-defende-medidas-para-elimina%C3%A7%C3%A3o-total-das-armas-nucleares-",
       "source": "Jornal de Angola",
-      "_key": "fcda2fd1e4a949b9"
+      "_key": "9c7dbf9de9a73c44"
     },
     {
-      "title": "Destaque Destacados avanços do país no empoderamento femininoAngola reafirmou, quinta-feira, em Genebra, o seu compromisso com a eliminação de todas as formas de discriminação contra as mulheres, durante a 93.ª Sessão do Comité para a Eliminação de Todas as Formas de Discriminação contra as Mulheres (CEDAW), que encerrou, esta sexta-feira, no palácio das Nações Unidas, em Genebra, Suíça.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687615/destacados-avan%C3%A7os-do-pa%C3%ADs-no-empoderamento-feminino",
+      "title": "Destaque Feira do Empreendedor de Luanda arranca com mais de 200 expositoresA segunda edição da Feira do Empreendedor de Luanda arrancou, sexta-feira, na Marginal, com a participação de mais de 200 expositores, entre micro, pequenas e médias empresas, focadas na comercialização de bens e serviços.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687665/feira-do-empreendedor-de-luanda-arranca-com-mais-de-200-expositores",
       "source": "Jornal de Angola",
-      "_key": "79c61c535fda9002"
+      "_key": "622c395658c33f7f"
     },
     {
-      "title": "Parceria com a Espanha prevê estágios profissionais Angola e Espanha pretendem priorizar a criação de mecanismos que facilitem estágios curriculares e profissionais. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687624/parceria-com-a-espanha-prev%C3%AA-est%C3%A1gios-profissionais--",
+      "title": "Destaque Moxico proíbe entrada de animais e seus derivados após surto na NamíbiaO Governo da província do Moxico informou, este sábado, aos criadores de gado, comerciantes , transportadores e demais operadores da cadeia pecuária, que está, temporariamente, proibida a entrada, na província, de animais e determinados produtos de origem animal, na sequência da confirmação de um surto de febre aftosa na vizinha Republica da Namíbia.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687664/moxico-pro%C3%ADbe-entrada-de-animais-e-seus-derivados-ap%C3%B3s-surto-na-nam%C3%ADbia",
       "source": "Jornal de Angola",
-      "_key": "36f6b5e1091a24fc"
+      "_key": "b0ec33472e3cb799"
     },
     {
-      "title": "Angola apresenta avanços no reforço do poder da mulher O país apresentou, ontem, em Genebra, Suíça, os avanços alcançados no empoderamento e reforço do papel da mulher em vários domínios da vida nacional. ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687622/angola-apresenta-avan%C3%A7os-no-refor%C3%A7o-do-poder-da-mulher-",
+      "title": "Mundo Protestos em França resultam em confrontos entre policia e manifestantes ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/687668/protestos-em-fran%C3%A7a-resultam-em-confrontos-entre-policia-e-manifestantes",
       "source": "Jornal de Angola",
-      "_key": "9e05cd27dda65f07"
+      "_key": "a151b7b29f599881"
     },
     {
-      "title": "Política Angola reafirma apoio à paz nos Grandes Lagos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687660/angola-reafirma-apoio-%C3%A0-paz-nos-grandes-lagos",
+      "title": "Sociedade Angola participa no Conclave Ministerial sobre Capital Humano na Tailândia ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687667/angola-participa-no-conclave-ministerial-sobre-capital-humano-na-tail%C3%A2ndia",
       "source": "Jornal de Angola",
-      "_key": "216803aab2286749"
+      "_key": "bbb57bbf5b8961eb"
     },
     {
-      "title": "Política EUA vai continuar a apoiar projectos do Corredor do Lobito ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687657/eua-vai-continuar-a-apoiar-projectos-do-corredor-do-lobito",
+      "title": "Sociedade Higiene e Segurança no trabalho abordadas em conferência ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687666/higiene-e-seguran%C3%A7a-no-trabalho-abordadas-em-confer%C3%AAncia",
       "source": "Jornal de Angola",
-      "_key": "fda84bd4daddc3dc"
+      "_key": "d9bffbeda092f0b8"
     },
     {
-      "title": "Economia Agência Marítima quer sector mais eficiente e sustentável ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687639/ag%C3%AAncia-mar%C3%ADtima-quer-sector-mais-eficiente-e-sustent%C3%A1vel-",
+      "title": "Política Destaques do Discurso sobre o Estado da nação ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687661/destaques-do-discurso-sobre-o-estado-da-na%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "3893fe45b9d156c9"
+      "_key": "f1977ab082004194"
     },
     {
-      "title": "Sociedade Angola e Namíbia preparam início das obras da barragem ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687630/angola-e-nam%C3%ADbia-preparam-in%C3%ADcio-das-obras-da-barragem",
-      "source": "Jornal de Angola",
-      "_key": "57cbe61016503509"
-    },
-    {
-      "title": "Política Secretário de Estado propõe concretização das conclusões ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687625/secret%C3%A1rio-de-estado-prop%C3%B5e-concretiza%C3%A7%C3%A3o-das-conclus%C3%B5es",
-      "source": "Jornal de Angola",
-      "_key": "799088cb0bed0bfb"
-    },
-    {
-      "title": "Política País partilha experiência sobre Ensino Profissional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687623/pa%C3%ADs-partilha-experi%C3%AAncia--sobre-ensino-profissional-----",
-      "source": "Jornal de Angola",
-      "_key": "313ca714c127843b"
-    },
-    {
-      "title": "Regiões População no Cunene saúdam projectos de combate à seca ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687620/popula%C3%A7%C3%A3o-no-cunene-sa%C3%BAdam-projectos-de-combate-%C3%A0-seca",
-      "source": "Jornal de Angola",
-      "_key": "49b51ab626cd7b98"
-    },
-    {
-      "title": "Regiões Novo complexo escolar beneficia mais de 600 alunos em Kalandula ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687619/novo-complexo-escolar-beneficia-mais-de-600-alunos-em-kalandula",
-      "source": "Jornal de Angola",
-      "_key": "d3052895f491dbdb"
-    },
-    {
-      "title": "Regiões Polícia detém jovens acusados de agredir professores nas escolas de Malanje ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687618/pol%C3%ADcia-det%C3%A9m-jovens-acusados-de-agredir-professores-nas-escolas-de-malanje",
-      "source": "Jornal de Angola",
-      "_key": "482512095fe96391"
-    },
-    {
-      "title": "12:19 / 17 out. 2026 Cooperação com Portugal inclui formação de quadros ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687659/coopera%C3%A7%C3%A3o-com-portugal-inclui-forma%C3%A7%C3%A3o-de-quadros",
-      "source": "Jornal de Angola",
-      "_key": "ff8b90df9faf0224"
-    },
-    {
-      "title": "10:29 / 17 out. 2026 Caconda actualiza dados oficiosos de 11 mil cidadãos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687628/caconda-actualiza-dados--oficiosos-de-11-mil-cidad%C3%A3os-",
-      "source": "Jornal de Angola",
-      "_key": "0da5bde957c0e74a"
-    },
-    {
-      "title": "10:28 / 17 out. 2026 Fátima Jardim quer reforço da prevenção da corrupção ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687627/f%C3%A1tima-jardim-quer-refor%C3%A7o--da-preven%C3%A7%C3%A3o-da-corrup%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "b3ab8d96ba757f2f"
-    },
-    {
-      "title": "10:27 / 17 out. 2026 FAA sugere modernização e transformação digital ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687626/faa-sugere-moderniza%C3%A7%C3%A3o--e-transforma%C3%A7%C3%A3o-digital-",
-      "source": "Jornal de Angola",
-      "_key": "5e7e75569eab1b75"
-    },
-    {
-      "title": "Última hora Angola e Estados Unidos abordam promoção das relações económicas",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687614/angola-e-estados-unidos-abordam-promo%C3%A7%C3%A3o-das-rela%C3%A7%C3%B5es-econ%C3%B3micas",
-      "source": "Jornal de Angola",
-      "_key": "26a26a57370ca9e0"
-    },
-    {
-      "title": "Última hora Presidente da República planta árvore no jardim da Casa das Leis ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687598/presidente-da-rep%C3%BAblica-planta-%C3%A1rvore-no-jardim-da-casa-das-leis-",
-      "source": "Jornal de Angola",
-      "_key": "e75904019ee32dce"
-    },
-    {
-      "title": "«Não se trata apenas de vender alimentos, mas sim de...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/nao-se-trata-apenas-de-vender-alimentos-mas-sim-de-criar-condicoes-para-que-angola-produza-mais-para-os-angolanos-embaixador-nomeado-da-russia-alexander-bryantsev-75427.html",
-      "source": "Novo Jornal",
-      "_key": "5fa53a74a006ade3"
-    },
-    {
-      "title": "Após entrada em vigor das novas regras, sacos plásticos...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/apos-entrada-em-vigor-das-novas-regras-sacos-plasticos-proibidos-continuam-a-circular-nos-mercados-75423.html",
-      "source": "Novo Jornal",
-      "_key": "223be80f7c12075a"
-    },
-    {
-      "title": "Casos de cirurgias complexas de catarata: IONA reduziu...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/casos-de-cirurgias-complexas-de-catarata-iona-reduziu-para-90-evacuacoes-para-o-exterior-75422.html",
-      "source": "Novo Jornal",
-      "_key": "8c9a81361a772fcc"
-    },
-    {
-      "title": "Rádio Marginal – um ano em sintonia com a pluralidade...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/radio-marginal-um-ano-em-sintonia-com-a-pluralidade-informativa-75428.html",
-      "source": "Novo Jornal",
-      "_key": "9db71b945d51953a"
-    },
-    {
-      "title": "SONANGOL já vê gás puro em Benguela após anos de perfurações...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/sonangol-ja-ve-gas-puro-em-benguela-apos-anos-de-perfuracoes-inglorias-75424.html",
-      "source": "Novo Jornal",
-      "_key": "03a7dcdec1542925"
-    },
-    {
-      "title": "Papa Leão XIV tem este Sábado alta hospitalar",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/papa-leao-xiv-tem-este-sabado-alta-hospitalar-75436.html",
-      "source": "Novo Jornal",
-      "_key": "d452879193ec3576"
-    },
-    {
-      "title": "Tunda Mu Njila: Nobel pela Palestina",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/tunda-mu-njila-nobel-pela-palestina-75429.html",
-      "source": "Novo Jornal",
-      "_key": "e138af765548351b"
-    },
-    {
-      "title": "DESPORTO MARGINAL: ANÁLISE DO DESPORTO NACIONAL E INTERNACIONAL. AFROTAÇAS, LIGA DOS CAMPEÕES DA CAF E COPA DAS CONFEDERAÇÕES DA CAF.",
-      "url": "https://marginal.co.ao/programas/desporto-marginal?ep=75432",
-      "source": "Novo Jornal",
-      "_key": "f10b89782683ae5c"
-    },
-    {
-      "title": "MPLA realiza hoje acto político de massas em Luanda para saudar IX Congresso Ordinário",
-      "url": "https://opais.ao/politica/mpla-realiza-hoje-acto-politico-de-massas-em-luanda-para-saudar-ix-congresso-ordinario/",
+      "title": "Luís Nunes promete recuperar Luanda para o MPLA em 2027",
+      "url": "https://opais.ao/politica/luis-nunes-promete-recuperar-luanda-para-o-mpla-em-2027/",
       "source": "O País",
-      "_key": "e4996425dba059b7"
+      "_key": "3927eae50845ddf7"
     },
     {
-      "title": "Angola e Portugal preparam dois novos projectos para reforçar o sector da Justiça",
-      "url": "https://opais.ao/politica/angola-e-portugal-preparam-dois-novos-projectos-para-reforcar-o-sector-da-justica/",
+      "title": "Polícia Nacional desmantela grupos criminosos envolvidos em roubos no Kilamba",
+      "url": "https://opais.ao/ultima_hora/pna-desmantela-grupos-criminosos-envolvidos-em-roubos-no-kilamba/",
       "source": "O País",
-      "_key": "088ba5b8ba1f7cf4"
+      "_key": "fa36a398252f9dcb"
     },
     {
-      "title": "PCA do Porto do Lobito defende formação de quadros e modernização do sector marítimo-portuário",
-      "url": "https://opais.ao/economia/pca-do-porto-do-lobito-defende-formacao-de-quadros-e-modernizacao-do-sector-maritimo-portuario/",
+      "title": "Waku Kungo precisa de 80 milhões de dólares para reabilitação urbana",
+      "url": "https://opais.ao/sociedade/waku-kungo-precisa-de-80-milhoes-de-dolares-para-reabilitacao-urbana-2/",
       "source": "O País",
-      "_key": "0310e703836676e5"
+      "_key": "5b2c9868d6f5b30b"
     },
     {
-      "title": "Angola participa na Conferência Mundial sobre Ensino Técnico e Profissional na China",
-      "url": "https://opais.ao/politica/angola-participa-na-conferencia-mundial-sobre-ensino-tecnico-e-profissional-na-china/",
+      "title": "Angola participa em conclave ministerial sobre capital humano na era da IA na Tailândia",
+      "url": "https://opais.ao/ultima_hora/angola-participa-em-conclave-ministerial-sobre-capital-humano-na-era-da-ia-na-tailandia/",
       "source": "O País",
-      "_key": "c022b5269058a153"
+      "_key": "72a1dd3a3c79407f"
     },
     {
-      "title": "Francisco Destino e Carol Portilho destacam comunicação e gestão das emoções no CEDX Experience",
-      "url": "https://opais.ao/ultima_hora/francisco-destino-e-carol-portilho-destacam-comunicacao-e-gestao-das-emocoes-no-cedx-experience/",
+      "title": "Presidente da República apela a consenso parlamentar para desbloqueio da implementação das autarquias",
+      "url": "https://opais.ao/politica/presidente-da-republica-apela-a-consenso-parlamentar-para-desbloqueio-da-implementacao-das-autarquias/",
       "source": "O País",
-      "_key": "1d732ae8fb715fa1"
-    },
-    {
-      "title": "“A nossa capacidade de abraçar e perdoar é fundamental para construirmos um país próspero”",
-      "url": "https://opais.ao/politica/a-nossa-capacidade-de-abracar-e-perdoar-e-fundamental-para-construirmos-um-pais-prospero/",
-      "source": "O País",
-      "_key": "3b5e1159989a0cd4"
-    },
-    {
-      "title": "Presidente da República defende preservação da história para evitar repetição dos erros do passado",
-      "url": "https://opais.ao/politica/presidente-da-republica-defende-preservacao-da-historia-para-evitar-repeticao-dos-erros-do-passado/",
-      "source": "O País",
-      "_key": "105ad6b463def59a"
-    },
-    {
-      "title": "Sector do turismo cria mais de nove mil empregos e 600 milhões de dólares em receitas",
-      "url": "https://opais.ao/economia/sector-do-turismo-cria-mais-de-nove-mil-empregos-e-600-milhoes-de-dolares-em-receitas/",
-      "source": "O País",
-      "_key": "b8bfca86d208e4dd"
-    },
-    {
-      "title": "Taxa de prevalência do VIH na juventude angolana reduziu 40%",
-      "url": "https://opais.ao/sociedade/taxa-de-prevalencia-do-vih-na-juventude-angolana-reduziu-40/",
-      "source": "O País",
-      "_key": "34d769a96323de02"
+      "_key": "ead9920097c2ef7f"
     }
   ]
 }
