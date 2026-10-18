@@ -1,105 +1,49 @@
 {
   "date": "2026-10-18",
-  "total_new": 39,
-  "total_filtered": 14,
+  "total_new": 21,
+  "total_filtered": 6,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Instalação de posto do SME no Ministério do Interior suscita críticas internas por alegado tratamento de favor",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_d9cfabdb6a1f7c",
-      "score": 9
-    },
-    {
-      "title": "    Investigação Instalação de posto do SME no Ministério do Interior suscita críticas internas por alegado tratamento de favor A instalação de um posto de atendimento do Serviço de Migração e Estrangeiros (SME) no edifício-sede do Ministério do Interior, em Luanda, e... ",
-      "url": "https://namiradocrime.info/show/17797",
-      "source": "Na Mira do Crime",
-      "_key": "790f66d0775e0cc4",
-      "score": 9
-    },
-    {
-      "title": "Caculo Cabaça começa a produzir energia em 2027",
-      "url": "https://opais.ao/economia/caculo-cabaca-comeca-a-produzir-energia-em-2027/",
-      "source": "O País",
-      "_key": "797f426f508299c2",
-      "score": 8
-    },
-    {
-      "title": "Polícia Nacional e AGT reforçam controlo das fronteiras",
-      "url": "https://opais.ao/ultima_hora/policia-nacional-e-agt-reforcam-controlo-das-fronteiras/",
-      "source": "O País",
-      "_key": "a9a3e4117614ac0d",
-      "score": 8
-    },
-    {
-      "title": "No 30 - Polícia detém bandido de 20 anos de idade em posse de arma de guerra",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_5f7b7de8551fee",
-      "score": 7
-    },
-    {
-      "title": "    Assalto No 30 - Polícia detém bandido de 20 anos de idade em posse de arma de guerra Um cidadão de 20 anos de idade identificado como Pedro Chingalungue foi detido, na noite desta sexta-feira, 16, por efectivos da Brigada Mot... ",
-      "url": "https://namiradocrime.info/show/17796",
-      "source": "Na Mira do Crime",
-      "_key": "0fe8670f4ac226af",
-      "score": 7
-    },
-    {
-      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. ESTADO DA NAÇÃO E OS DEZ ANOS DE PODER: O BALANÇO COMPLEXO DA GOVERNAÇÃO DE JOÃO LOURENÇO.",
-      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=75440",
-      "source": "Novo Jornal",
-      "_key": "fdf933b1ada4d160",
-      "score": 7
-    },
-    {
-      "title": "Angola e Namíbia criam Posto de Fronteira Único em Oshikango-Santa Clara",
-      "url": "https://correiokianda.info/angola-e-namibia-criam-posto-de-fronteira-unico-em-oshikango-santa-clara/",
+      "title": "Executivo prevê duplicar capacidade hidroeléctrica com entrada em funcionamento de Caculo Cabaça",
+      "url": "https://correiokianda.info/executivo-preve-duplicar-capacidade-hidroelectrica-com-entrada-em-funcionamento-de-caculo-cabaca/",
       "source": "Correio Kianda",
-      "_key": "4960a7b185345428",
+      "_key": "41ae5ca6fc99f319",
+      "score": 9
+    },
+    {
+      "title": "Caculo Cabaça entra em funcionamento no segundo semestre do próximo ano As obras da Barragem de Caculo Cabaça, no Cuanza-Norte, atingiram os 60% de execução física. A previsão das autoridades indica que o maior complexo hidroeléctrico do país entrará em funcionamento parcial após o primeiro semestre de 2027.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687669/caculo-caba%C3%A7a-entra-em-funcionamento-no-segundo-semestre-do-pr%C3%B3ximo-ano",
+      "source": "Jornal de Angola",
+      "_key": "071f86409b3d914b",
+      "score": 9
+    },
+    {
+      "title": "Economia Reuniões Anuais do Banco Mundial e FMI encerram hoje ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687678/reuni%C3%B5es-anuais-do-banco-mundial-e-fmi-encerram-hoje",
+      "source": "Jornal de Angola",
+      "_key": "f5128a4e58fbd886",
+      "score": 7
+    },
+    {
+      "title": "Economia TAAG cumpre 98% de voos programados ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687679/taag-cumpre-98%25-de-voos-programados",
+      "source": "Jornal de Angola",
+      "_key": "0af744fc37557d1c",
       "score": 6
     },
     {
-      "title": "    Positivo e Negativo NOTA NEGATIVA DA SEMANA: Tribunal com botão de “voltar atrás” O Tribunal da Comarca de Luanda libertou provisoriamente Hélder Dimas Paulino, agente do DIIP acusado de matar a tiro Fernando Castelo, de 2... ",
-      "url": "https://namiradocrime.info/show/17795",
-      "source": "Na Mira do Crime",
-      "_key": "549b539c9be57823",
-      "score": 6
-    },
-    {
-      "title": "PONTO & CONTRAPONTO: O ESTADO DA NAÇÃO. O ESTADO DA NAÇÃO NA ÓPTICA DOS ANALISTAS DA RÁDIO MARGINAL.",
-      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=75441",
-      "source": "Novo Jornal",
-      "_key": "6757c2d6b6499bba",
-      "score": 6
-    },
-    {
-      "title": "Presidente da Namíbia inicia hoje visita de Estado a Angola com foco na agenda política e económica",
-      "url": "https://opais.ao/politica/presidente-da-namibia-inicia-hoje-visita-de-estado-a-angola-com-foco-na-agenda-politica-e-economica/",
-      "source": "O País",
-      "_key": "57747723d0afbc6e",
-      "score": 6
-    },
-    {
-      "title": "Entre divergência e optimismo: actores sociais reagem ao discurso sobre o estado da Nação",
-      "url": "https://opais.ao/politica/entre-divergencia-e-optimismo-actores-sociais-reagem-ao-discurso-sobre-o-estado-da-nacao/",
-      "source": "O País",
-      "_key": "b4951a051d1df67b",
-      "score": 6
-    },
-    {
-      "title": "NOTA NEGATIVA DA SEMANA: Tribunal com botão de “voltar atrás”",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_06b05e5f4f068f",
+      "title": "Mundo SADC apela maior investimento em mecanismos de desastres ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/687696/sadc-apela-maior-investimento-em-mecanismos-de-desastres-",
+      "source": "Jornal de Angola",
+      "_key": "ac9c9e1d7b02b8d5",
       "score": 5
     },
     {
-      "title": "Recuperação de 43 barragens no Namibe vai reduzir conflitos entre criadores de gado",
-      "url": "https://opais.ao/ultima_hora/recuperacao-de-43-barragens-no-namibe-vai-reduzir-conflitos-entre-criadores-de-gado/",
-      "source": "O País",
-      "_key": "609bb2c24f434801",
+      "title": "Desarmar, reintegrar e reconstruir (conclusão)",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/687671/desarmar-reintegrar--e-reconstruir-%28conclus%C3%A3o%29",
+      "source": "Jornal de Angola",
+      "_key": "6d2d06c201b58d36",
       "score": 5
     }
   ]
