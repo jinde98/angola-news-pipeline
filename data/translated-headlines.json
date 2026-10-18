@@ -1,80 +1,120 @@
 {
-  "date": "2026-10-17",
-  "total_new": 18,
-  "total_filtered": 9,
+  "date": "2026-10-18",
+  "total_new": 39,
+  "total_filtered": 14,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Executivo vai contrair dívida de 212,5 milhões de euros para construir estrada de 155 km no Moxico",
-      "url": "https://correiokianda.info/executivo-vai-contrair-divida-de-2125-milhoes-de-euros-para-construir-estrada-de-155-km-no-moxico/",
-      "source": "Correio Kianda",
-      "_key": "24bcced25b75a7fa",
+      "title": "Instalação de posto do SME no Ministério do Interior suscita críticas internas por alegado tratamento de favor",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_d9cfabdb6a1f7c",
+      "score": 9,
+      "title_cn": "内政部设移民局服务点引内部批评，被指涉嫌优待"
+    },
+    {
+      "title": "    Investigação Instalação de posto do SME no Ministério do Interior suscita críticas internas por alegado tratamento de favor A instalação de um posto de atendimento do Serviço de Migração e Estrangeiros (SME) no edifício-sede do Ministério do Interior, em Luanda, e... ",
+      "url": "https://namiradocrime.info/show/17797",
+      "source": "Na Mira do Crime",
+      "_key": "790f66d0775e0cc4",
+      "score": 9,
+      "title_cn": "调查：内政部设移民局服务点引内部批评，被指涉嫌优待"
+    },
+    {
+      "title": "Caculo Cabaça começa a produzir energia em 2027",
+      "url": "https://opais.ao/economia/caculo-cabaca-comeca-a-produzir-energia-em-2027/",
+      "source": "O País",
+      "_key": "797f426f508299c2",
       "score": 8,
-      "title_cn": "政府将举债2.125亿欧元在莫希科省修建155公里公路"
+      "title_cn": "卡库洛卡巴萨水电站将于2027年开始发电"
     },
     {
-      "title": "Política Destaques do Discurso sobre o Estado da nação ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/687661/destaques-do-discurso-sobre-o-estado-da-na%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "f1977ab082004194",
-      "score": 7,
-      "title_cn": "国情咨文亮点"
-    },
-    {
-      "title": "Polícia Nacional desmantela grupos criminosos envolvidos em roubos no Kilamba",
-      "url": "https://opais.ao/ultima_hora/pna-desmantela-grupos-criminosos-envolvidos-em-roubos-no-kilamba/",
+      "title": "Polícia Nacional e AGT reforçam controlo das fronteiras",
+      "url": "https://opais.ao/ultima_hora/policia-nacional-e-agt-reforcam-controlo-das-fronteiras/",
       "source": "O País",
-      "_key": "fa36a398252f9dcb",
-      "score": 7,
-      "title_cn": "国家警察捣毁基兰巴抢劫犯罪团伙"
+      "_key": "a9a3e4117614ac0d",
+      "score": 8,
+      "title_cn": "安哥拉国家警察与税务总局加强边境管控"
     },
     {
-      "title": "Waku Kungo precisa de 80 milhões de dólares para reabilitação urbana",
-      "url": "https://opais.ao/sociedade/waku-kungo-precisa-de-80-milhoes-de-dolares-para-reabilitacao-urbana-2/",
-      "source": "O País",
-      "_key": "5b2c9868d6f5b30b",
+      "title": "No 30 - Polícia detém bandido de 20 anos de idade em posse de arma de guerra",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_5f7b7de8551fee",
       "score": 7,
-      "title_cn": "瓦库昆戈需8000万美元用于城市重建"
+      "title_cn": "警方逮捕一名20岁匪徒，缴获军用武器"
     },
     {
-      "title": "Presidente da República apela a consenso parlamentar para desbloqueio da implementação das autarquias",
-      "url": "https://opais.ao/politica/presidente-da-republica-apela-a-consenso-parlamentar-para-desbloqueio-da-implementacao-das-autarquias/",
-      "source": "O País",
-      "_key": "ead9920097c2ef7f",
+      "title": "    Assalto No 30 - Polícia detém bandido de 20 anos de idade em posse de arma de guerra Um cidadão de 20 anos de idade identificado como Pedro Chingalungue foi detido, na noite desta sexta-feira, 16, por efectivos da Brigada Mot... ",
+      "url": "https://namiradocrime.info/show/17796",
+      "source": "Na Mira do Crime",
+      "_key": "0fe8670f4ac226af",
       "score": 7,
-      "title_cn": "总统呼吁议会达成共识以推动地方政府实施"
+      "title_cn": "抢劫案：警方逮捕20岁匪徒佩德罗·钦加隆格，缴获军用武器"
     },
     {
-      "title": "Renova Angola quer crescimento económico traduzido em bem-estar social",
-      "url": "https://correiokianda.info/renova-angola-quer-crescimento-economico-traduzido-em-bem-estar-social/",
+      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. ESTADO DA NAÇÃO E OS DEZ ANOS DE PODER: O BALANÇO COMPLEXO DA GOVERNAÇÃO DE JOÃO LOURENÇO.",
+      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=75440",
+      "source": "Novo Jornal",
+      "_key": "fdf933b1ada4d160",
+      "score": 7,
+      "title_cn": "国情咨文与执政十年：若昂·洛伦索政府的复杂评估"
+    },
+    {
+      "title": "Angola e Namíbia criam Posto de Fronteira Único em Oshikango-Santa Clara",
+      "url": "https://correiokianda.info/angola-e-namibia-criam-posto-de-fronteira-unico-em-oshikango-santa-clara/",
       "source": "Correio Kianda",
-      "_key": "e5682eea8ccce1eb",
+      "_key": "4960a7b185345428",
       "score": 6,
-      "title_cn": "“安哥拉革新”旨在实现经济增长与社会福祉"
+      "title_cn": "安哥拉与纳米比亚在奥希坎戈-圣克拉拉设立单一边境口岸"
     },
     {
-      "title": "Destaque Moxico proíbe entrada de animais e seus derivados após surto na NamíbiaO Governo da província do Moxico informou, este sábado, aos criadores de gado, comerciantes , transportadores e demais operadores da cadeia pecuária, que está, temporariamente, proibida a entrada, na província, de animais e determinados produtos de origem animal, na sequência da confirmação de um surto de febre aftosa na vizinha Republica da Namíbia.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/687664/moxico-pro%C3%ADbe-entrada-de-animais-e-seus-derivados-ap%C3%B3s-surto-na-nam%C3%ADbia",
-      "source": "Jornal de Angola",
-      "_key": "b0ec33472e3cb799",
+      "title": "    Positivo e Negativo NOTA NEGATIVA DA SEMANA: Tribunal com botão de “voltar atrás” O Tribunal da Comarca de Luanda libertou provisoriamente Hélder Dimas Paulino, agente do DIIP acusado de matar a tiro Fernando Castelo, de 2... ",
+      "url": "https://namiradocrime.info/show/17795",
+      "source": "Na Mira do Crime",
+      "_key": "549b539c9be57823",
       "score": 6,
-      "title_cn": "莫希科省因纳米比亚疫情禁止动物及制品入境"
+      "title_cn": "罗安达法院临时释放枪杀嫌犯埃尔德·迪马斯·保利诺引争议"
     },
     {
-      "title": "Destaque Feira do Empreendedor de Luanda arranca com mais de 200 expositoresA segunda edição da Feira do Empreendedor de Luanda arrancou, sexta-feira, na Marginal, com a participação de mais de 200 expositores, entre micro, pequenas e médias empresas, focadas na comercialização de bens e serviços.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/687665/feira-do-empreendedor-de-luanda-arranca-com-mais-de-200-expositores",
-      "source": "Jornal de Angola",
-      "_key": "622c395658c33f7f",
-      "score": 5,
-      "title_cn": "罗安达创业博览会开幕，逾200家参展商参与"
+      "title": "PONTO & CONTRAPONTO: O ESTADO DA NAÇÃO. O ESTADO DA NAÇÃO NA ÓPTICA DOS ANALISTAS DA RÁDIO MARGINAL.",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=75441",
+      "source": "Novo Jornal",
+      "_key": "6757c2d6b6499bba",
+      "score": 6,
+      "title_cn": "分析师视角下的安哥拉国情咨文"
     },
     {
-      "title": "Sociedade Higiene e Segurança no trabalho abordadas em conferência ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/687666/higiene-e-seguran%C3%A7a-no-trabalho-abordadas-em-confer%C3%AAncia",
-      "source": "Jornal de Angola",
-      "_key": "d9bffbeda092f0b8",
+      "title": "Presidente da Namíbia inicia hoje visita de Estado a Angola com foco na agenda política e económica",
+      "url": "https://opais.ao/politica/presidente-da-namibia-inicia-hoje-visita-de-estado-a-angola-com-foco-na-agenda-politica-e-economica/",
+      "source": "O País",
+      "_key": "57747723d0afbc6e",
+      "score": 6,
+      "title_cn": "纳米比亚总统今日起对安哥拉进行国事访问，聚焦政治经济议程"
+    },
+    {
+      "title": "Entre divergência e optimismo: actores sociais reagem ao discurso sobre o estado da Nação",
+      "url": "https://opais.ao/politica/entre-divergencia-e-optimismo-actores-sociais-reagem-ao-discurso-sobre-o-estado-da-nacao/",
+      "source": "O País",
+      "_key": "b4951a051d1df67b",
+      "score": 6,
+      "title_cn": "社会各界对国情咨文反应不一：分歧与乐观并存"
+    },
+    {
+      "title": "NOTA NEGATIVA DA SEMANA: Tribunal com botão de “voltar atrás”",
+      "url": "",
+      "source": "Na Mira do Crime",
+      "_key": "t_06b05e5f4f068f",
       "score": 5,
-      "title_cn": "职业健康与安全议题在会议上探讨"
+      "title_cn": "本周负面新闻：法院“反悔”引争议"
+    },
+    {
+      "title": "Recuperação de 43 barragens no Namibe vai reduzir conflitos entre criadores de gado",
+      "url": "https://opais.ao/ultima_hora/recuperacao-de-43-barragens-no-namibe-vai-reduzir-conflitos-entre-criadores-de-gado/",
+      "source": "O País",
+      "_key": "609bb2c24f434801",
+      "score": 5,
+      "title_cn": "纳米贝省修复43座水坝，将减少牧民冲突"
     }
   ]
 }
