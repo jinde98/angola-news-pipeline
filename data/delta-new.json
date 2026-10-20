@@ -1,986 +1,224 @@
 {
   "date": "2026-10-20",
-  "total_extracted": 882,
-  "total_new": 163,
-  "total_existing": 719,
+  "total_extracted": 761,
+  "total_new": 36,
+  "total_existing": 725,
   "articles": [
     {
-      "title": "Justiça dos EUA emite ordem de prisão a Raúl Castro, diz procurador-geral da Flórida",
-      "url": "https://angola24horas.com/internacional/item/35188-justica-dos-eua-emite-ordem-de-prisao-a-raul-castro-diz-procurador-geral-da-florida",
-      "source": "Angola 24 Horas",
-      "_key": "8b4fd1cd662558e5"
-    },
-    {
-      "title": "TAAG assegura todos os voos no primeiro dia de greve e prevê manter mais de 94% da operação até 15 de Outubro",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35155-taag-assegura-todos-os-voos-no-primeiro-dia-de-greve-e-preve-manter-mais-de-94-da-operacao-ate-15-de-outubro",
-      "source": "Angola 24 Horas",
-      "_key": "d76a56ec1f3c89d5"
-    },
-    {
-      "title": "Mondlane acusa Procuradoria de agir por motivações políticas após desbloqueio das contas",
-      "url": "https://angola24horas.com/internacional/item/35151-mondlane-acusa-procuradoria-de-agir-por-motivacoes-politicas-apos-desbloqueio-das-contas",
-      "source": "Angola 24 Horas",
-      "_key": "38877ce3bfcdb688"
-    },
-    {
-      "title": "MED abre inscrições para promoção de mais de 20 mil professores após acordo com o SINPROF",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35149-med-abre-inscricoes-para-promocao-de-mais-de-20-mil-professores-apos-acordo-com-o-sinprof",
-      "source": "Angola 24 Horas",
-      "_key": "663ad521e053470b"
-    },
-    {
-      "title": "Cuba deve 223 milhões USD a Angola e lidera dívida de 1,27 mil milhões USD de 12 países",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35132-cuba-deve-223-milhoes-usd-a-angola-e-lidera-divida-de-1-27-mil-milhoes-usd-de-12-paises",
-      "source": "Angola 24 Horas",
-      "_key": "06dcc4cf45885a4b"
-    },
-    {
-      "title": "TAAG reforça gestão da rota Luanda–Cabinda e liberta cerca de 9.800 lugares",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35131-taag-reforca-gestao-da-rota-luanda-cabinda-e-liberta-cerca-de-9-800-lugares",
-      "source": "Angola 24 Horas",
-      "_key": "3b9e4feb2297f759"
-    },
-    {
-      "title": "Contas da filha de Agostinho Neto congeladas em Portugal no caso Carlos de São Vicente",
-      "url": "https://angola24horas.com/component/k2/item/35190-contas-da-filha-de-agostinho-neto-congeladas-em-portugal-no-caso-carlos-de-sao-vicente",
-      "source": "Angola 24 Horas",
-      "_key": "ef626e0a51bdb58a"
-    },
-    {
-      "title": "Adalberto Costa Júnior: «Angola não pode ser governada como propriedade de um só partido»",
-      "url": "https://angola24horas.com/politica/item/35193-adalberto-costa-junior-angola-nao-pode-ser-governada-como-propriedade-de-um-so-partido",
-      "source": "Angola 24 Horas",
-      "_key": "45372b0a5250c2ef"
-    },
-    {
-      "title": "Valdir Cônego promete apoiar João Lourenço se for candidato único ao congresso do MPLA",
-      "url": "https://angola24horas.com/politica/item/35192-valdir-conego-promete-apoiar-joao-lourenco-se-for-candidato-unico-ao-congresso-do-mpla",
-      "source": "Angola 24 Horas",
-      "_key": "29969bfa641d767a"
-    },
-    {
-      "title": "MPLA reúne Bureau Político para avaliar preparação do 9.º Congresso e reclamação de Higino Carneiro",
-      "url": "https://angola24horas.com/politica/item/35191-mpla-reune-bureau-politico-para-avaliar-preparacao-do-9-congresso-e-reclamacao-de-higino-carneiro",
-      "source": "Angola 24 Horas",
-      "_key": "778c345d38e09638"
-    },
-    {
-      "title": "Luís Nunes desafia Carlos Rosado a apresentar provas sobre contratos da Omatapalo com o Estado",
-      "url": "https://angola24horas.com/politica/item/35189-luis-nunes-desafia-carlos-rosado-a-apresentar-provas-sobre-contratos-da-omatapalo-com-o-estado",
-      "source": "Angola 24 Horas",
-      "_key": "6bb924f9cd365494"
-    },
-    {
-      "title": "“Não há membros do regime a favor do pluralismo”: Costa Júnior critica João Lourenço",
-      "url": "https://angola24horas.com/politica/item/35186-nao-ha-membros-do-regime-a-favor-do-pluralismo-costa-junior-critica-joao-lourenco",
-      "source": "Angola 24 Horas",
-      "_key": "fcfe7b45b5ddaf9b"
-    },
-    {
-      "title": "João Lourenço quer Namíbia como accionista da megarefinaria do Lobito",
-      "url": "https://angola24horas.com/politica/item/35185-joao-lourenco-quer-namibia-como-accionista-da-megarefinaria-do-lobito",
-      "source": "Angola 24 Horas",
-      "_key": "81f994b8f9e46fe5"
-    },
-    {
-      "title": "Tribunal Constitucional anula expulsão de Valdir Cónego do MPLA",
-      "url": "https://angola24horas.com/politica/item/35182-tribunal-constitucional-anula-expulsao-de-valdir-conego-do-mpla",
-      "source": "Angola 24 Horas",
-      "_key": "8390967a239dc250"
-    },
-    {
-      "title": "Comité Central da FNLA destitui Nimi a Simbi da presidência e convoca congresso extraordinário",
-      "url": "https://angola24horas.com/politica/item/35183-comite-central-da-fnla-destitui-nimi-a-simbi-da-presidencia-e-convoca-congresso-extraordinario",
-      "source": "Angola 24 Horas",
-      "_key": "96b5c3c13a683b30"
-    },
-    {
-      "title": "Arrendar casa em Luanda pode consumir mais de 90% do salário anual, alerta Adalberto Costa Júnior",
-      "url": "https://angola24horas.com/politica/item/35181-arrendar-casa-em-luanda-pode-consumir-mais-de-90-do-salario-anual-alerta-adalberto-costa-junior",
-      "source": "Angola 24 Horas",
-      "_key": "c82d8d03ca0a9e33"
-    },
-    {
-      "title": "Constituição angolana “não é democrática” e gera instabilidade, afirma UNITA",
-      "url": "https://angola24horas.com/component/k2/item/35184-constituicao-angolana-nao-e-democratica-e-gera-instabilidade-afirma-unita",
-      "source": "Angola 24 Horas",
-      "_key": "425a1db0d3a62718"
-    },
-    {
-      "title": "Angola, 2027: a crise de sucessão do MPLA e a \"janela de oportunidade\" da oposição",
-      "url": "https://angola24horas.com/component/k2/item/35180-angola-2027-a-crise-de-sucessao-do-mpla-e-a-janela-de-oportunidade-da-oposicao",
-      "source": "Angola 24 Horas",
-      "_key": "b547a724ace4fdf4"
-    },
-    {
-      "title": "PRA-JA mobiliza estruturas provinciais e municipais para impedir desvio de urnas e duplicação de votos em 2027",
-      "url": "https://angola24horas.com/component/k2/item/35179-pra-ja-mobiliza-estruturas-provinciais-e-municipais-para-impedir-desvio-de-urnas-e-duplicacao-de-votos-em-2027",
-      "source": "Angola 24 Horas",
-      "_key": "a739b57c9a272b1e"
-    },
-    {
-      "title": "João Lourenço pede à oposição que desbloqueie criação do poder autárquico",
-      "url": "https://angola24horas.com/component/k2/item/35168-joao-lourenco-pede-a-oposicao-que-desbloqueie-criacao-do-poder-autarquico",
-      "source": "Angola 24 Horas",
-      "_key": "6b63911c229d7a03"
-    },
-    {
-      "title": "UNITA contesta voto único para Presidente e Parlamento e exige revisão da Constituição",
-      "url": "https://angola24horas.com/component/k2/item/35162-unita-contesta-voto-unico-para-presidente-e-parlamento-e-exige-revisao-da-constituicao",
-      "source": "Angola 24 Horas",
-      "_key": "327e553b553c8fdc"
-    },
-    {
-      "title": "«A televisão pública diz só MPLA, MPLA, MPLA»: Chivukuvuku denuncia «fraude» antes de 2027 e questiona independência da …",
-      "url": "https://angola24horas.com/component/k2/item/35154-a-televisao-publica-diz-so-mpla-mpla-mpla-chivukuvuku-denuncia-fraude-antes-de-2027-e-questiona-independencia-da-cne",
-      "source": "Angola 24 Horas",
-      "_key": "7a1754b562137369"
-    },
-    {
-      "title": "A Política monetária angolana: desafios actuais e alternativas para o crescimento económico",
-      "url": "https://angola24horas.com/opiniao/item/35175-a-politica-monetaria-angolana-desafios-actuais-e-alternativas-para-o-crescimento-economico",
-      "source": "Angola 24 Horas",
-      "_key": "24355d0d778a940a"
-    },
-    {
-      "title": "Porque razão ainda não temos reconciliação genuína em Angola?",
-      "url": "https://angola24horas.com/opiniao/item/35174-porque-razao-ainda-nao-temos-reconciliacao-genuina-em-angola",
-      "source": "Angola 24 Horas",
-      "_key": "70090c27bda749d1"
-    },
-    {
-      "title": "O mundo está fabricando diplomas e condenando jovens ao desemprego",
-      "url": "https://angola24horas.com/opiniao/item/35172-o-mundo-esta-fabricando-diplomas-e-condenando-jovens-ao-desemprego",
-      "source": "Angola 24 Horas",
-      "_key": "42affc6a203e5a10"
-    },
-    {
-      "title": "A Queda da Publicidade e a ascensão das relações públicas na era digital",
-      "url": "https://angola24horas.com/opiniao/item/35163-a-queda-da-publicidade-e-a-ascensao-das-relacoes-publicas-na-era-digital",
-      "source": "Angola 24 Horas",
-      "_key": "0d33cf187ee6454d"
-    },
-    {
-      "title": "Sonangol e a mineração: diversificar Angola não é diversificar demasiado a Sonangol",
-      "url": "https://angola24horas.com/opiniao/item/35124-sonangol-e-a-mineracao-diversificar-angola-nao-e-diversificar-demasiado-a-sonangol",
-      "source": "Angola 24 Horas",
-      "_key": "bf61970672727ceb"
-    },
-    {
-      "title": "MPLA considera que João Lourenço apresentou “fotografia real” do estado da Nação",
-      "url": "https://angola24horas.com/politica/item/35171-mpla-considera-que-joao-lourenco-apresentou-fotografia-real-do-estado-da-nacao",
-      "source": "Angola 24 Horas",
-      "_key": "f67beae1e393df95"
-    },
-    {
-      "title": "João Lourenço aponta \"fatores adversos\" que dificultaram execução nos seus mandatos",
-      "url": "https://angola24horas.com/politica/item/35170-joao-lourenco-aponta-fatores-adversos-que-dificultaram-execucao-nos-seus-mandatos",
-      "source": "Angola 24 Horas",
-      "_key": "690406ea1aa05a95"
-    },
-    {
-      "title": "Líder da UNITA critica discurso de João Lourenço e aponta falta de diálogo e inclusão",
-      "url": "https://angola24horas.com/politica/item/35169-lider-da-unita-critica-discurso-de-joao-lourenco-e-aponta-falta-de-dialogo-e-inclusao",
-      "source": "Angola 24 Horas",
-      "_key": "5430fbe0d7fff4e2"
-    },
-    {
-      "title": "BAI Europa confirma colaboração com a PJ após buscas em investigação a fraude fiscal",
-      "url": "https://angola24horas.com/sociedade/item/35178-bai-europa-confirma-colaboracao-com-a-pj-apos-buscas-em-investigacao-a-fraude-fiscal",
-      "source": "Angola 24 Horas",
-      "_key": "ac159e487c59528e"
-    },
-    {
-      "title": "FADA sob pressão: créditos sem contratos, auditoria por esclarecer e atrasos nos projectos agrícolas",
-      "url": "https://angola24horas.com/sociedade/item/35173-fada-sob-pressao-creditos-sem-contratos-auditoria-por-esclarecer-e-atrasos-nos-projectos-agricolas",
-      "source": "Angola 24 Horas",
-      "_key": "98b690357b764f46"
-    },
-    {
-      "title": "FADA sob suspeita: denúncias de perseguições, concentração de poderes e fragilização do controlo interno",
-      "url": "https://angola24horas.com/sociedade/item/35160-fada-sob-suspeita-denuncias-de-perseguicoes-concentracao-de-poderes-e-fragilizacao-do-controlo-interno",
-      "source": "Angola 24 Horas",
-      "_key": "c688eb8ae9bd6385"
-    },
-    {
-      "title": "PJ faz buscas ao Banco BAI em Portugal por suspeitas de fraude fiscal e branqueamento",
-      "url": "https://angola24horas.com/sociedade/item/35159-pj-faz-busca-ao-banco-bai-em-portugal-por-suspeitas-de-fraude-fiscal-e-branqueamento",
-      "source": "Angola 24 Horas",
-      "_key": "2b74836ff99b122d"
-    },
-    {
-      "title": "Angolanos na diáspora exigem mudança política e alertam para saída crescente de jovens",
-      "url": "https://angola24horas.com/sociedade/item/35148-angolanos-na-diaspora-exigem-mudanca-politica-e-alertam-para-saida-crescente-de-jovens",
-      "source": "Angola 24 Horas",
-      "_key": "58a80148710f052e"
-    },
-    {
-      "title": "CPJ denuncia perseguição judicial a jornalistas em Angola e alerta para risco de prisão antes das eleições de 2027",
-      "url": "https://angola24horas.com/component/k2/item/35143-cpj-denuncia-perseguicao-judicial-a-jornalistas-em-angola-e-alerta-para-risco-de-prisao-antes-das-eleicoes-de-2027",
-      "source": "Angola 24 Horas",
-      "_key": "dfaf79b459bce472"
-    },
-    {
-      "title": "Tribunal julga pastor “profeta Israel” acusado de abusar sexualmente de seis jovens",
-      "url": "https://angola24horas.com/sociedade/item/35142-tribunal-julga-pastor-profeta-israel-acusado-de-abusar-sexualmente-de-seis-jovens",
-      "source": "Angola 24 Horas",
-      "_key": "8ae8b7457af4d6ca"
-    },
-    {
-      "title": "Governo angolano mantém plano de aumento gradual dos preços dos combustíveis",
-      "url": "https://angola24horas.com/economia/item/35177-governo-angolano-mantem-plano-de-aumento-gradual-dos-precos-dos-combustiveis",
-      "source": "Angola 24 Horas",
-      "_key": "cb5174f792f28039"
-    },
-    {
-      "title": "Governo angolano prevê crescimento de 5,7% em 2026, acima das estimativas do FMI",
-      "url": "https://angola24horas.com/economia/item/35176-governo-angolano-preve-crescimento-de-5-7-em-2026-acima-das-estimativas-do-fmi",
-      "source": "Angola 24 Horas",
-      "_key": "972a60a303fa04c2"
-    },
-    {
-      "title": "África deve evitar subsídios generalizados e estabelecer prioridades - FMI",
-      "url": "https://angola24horas.com/economia/item/35165-africa-deve-evitar-subsidios-generalizados-e-estabelecer-prioridades-fmi",
-      "source": "Angola 24 Horas",
-      "_key": "f8aaa1a63a1ef22f"
-    },
-    {
-      "title": "Inflação em Angola cai para 8,43% em setembro, mas Educação regista maior subida de preços",
-      "url": "https://angola24horas.com/economia/item/35146-inflacao-em-angola-cai-para-8-43-em-setembro-mas-educacao-regista-maior-subida-de-precos",
-      "source": "Angola 24 Horas",
-      "_key": "4b9c567dd9671fa2"
-    },
-    {
-      "title": "Jurista questiona postura de ACJ perante Memorial às Vítimas dos Conflitos Políticos",
-      "url": "https://correiokianda.info/jurista-questiona-postura-de-acj-perante-memorial-as-vitimas-dos-conflitos-politicos/",
+      "title": "PADDA-Aliança Patriótica aposta na capacitação de quadros para os desafios políticos",
+      "url": "https://correiokianda.info/padda-alianca-patriotica-aposta-na-capacitacao-de-quadros-para-os-desafios-politicos/",
       "source": "Correio Kianda",
-      "_key": "0a692370d9f98ba1"
+      "_key": "4a8ed325948fef18"
     },
     {
-      "title": "João Lourenço quer Namíbia como parceira na Refinaria do Lobito",
-      "url": "https://correiokianda.info/joao-lourenco-quer-namibia-como-parceira-na-refinaria-do-lobito/",
+      "title": "Subcomissão de mandatos da FNLA aprova recandidatura de Nimi a Simbi",
+      "url": "https://correiokianda.info/subcomissao-de-mandatos-da-fnla-aprova-recandidatura-de-nimi-a-simbi/",
       "source": "Correio Kianda",
-      "_key": "9c66e7ba8d30a0d0"
+      "_key": "6e998457104e0be8"
     },
     {
-      "title": "MPLA reúne Bureau Político para avaliar preparação do IX Congresso Ordinário",
-      "url": "https://correiokianda.info/mpla-reune-bureau-politico-para-avaliar-preparacao-do-ix-congresso-ordinario/",
+      "title": "Bureau Político recomenda que Comité Central decida recurso de Higino Carneiro",
+      "url": "https://correiokianda.info/bureau-politico-recomenda-que-comite-central-decida-recurso-de-higino-carneiro/",
       "source": "Correio Kianda",
-      "_key": "89c45a67446b45f7"
+      "_key": "9d8a52ec581151b1"
     },
     {
-      "title": "Presidente namibiana destaca no Parlamento contributo dos angolanos na independência do país",
-      "url": "https://correiokianda.info/presidente-namibiana-destaca-no-parlamento-contributo-dos-angolanos-na-independencia-do-pais/",
+      "title": "Candidatos ao concurso público do MININT já têm calendário dos testes psicotécnicos",
+      "url": "https://correiokianda.info/candidatos-ao-concurso-publico-do-minint-ja-tem-calendario-dos-testes-psicotecnicos/",
       "source": "Correio Kianda",
-      "_key": "7fdcc270e6802917"
+      "_key": "9f7d5aa0808f71be"
     },
     {
-      "title": "Adão de Almeida defende concretização urgente do projecto hidroeléctrico de Baynes entre Angola e Namíbia",
-      "url": "https://correiokianda.info/adao-de-almeida-defende-concretizacao-urgente-do-projecto-hidroelectrico-de-baynes-entre-angola-e-namibia/",
-      "source": "Correio Kianda",
-      "_key": "ffa959e059163a6f"
+      "title": "Mudanças na Justiça alargam reconfiguração das estruturas do Estado na Guiné-Bissau",
+      "url": "https://forbesafricalusofona.com/mudancas-na-justica-alargam-reconfiguracao-das-estruturas-do-estado-na-guine-bissau/",
+      "source": "Forbes África",
+      "_key": "b258d17983c85e38"
     },
     {
-      "title": "Brent regista queda mas mantém-se acima dos 109 dólares por barril",
-      "url": "https://correiokianda.info/brent-regista-queda-mas-mantem-se-acima-dos-109-dolares-por-barril/",
-      "source": "Correio Kianda",
-      "_key": "d5673e74ed360e17"
+      "title": "Justiça angolana precisa de maior autonomia financeira e política, defende bastonário da Ordem dos Advogados",
+      "url": "https://forbesafricalusofona.com/justica-angolana-precisa-de-maior-autonomia-financeira-e-politica-defende-bastonario-da-ordem-dos-advogados/",
+      "source": "Forbes África",
+      "_key": "287c478d4a63920d"
     },
     {
-      "title": "Namíbia exportou 31,59 milhões de dólares para Angola em 2025",
-      "url": "https://correiokianda.info/namibia-exportou-3159-milhoes-de-dolares-para-angola-em-2025/",
-      "source": "Correio Kianda",
-      "_key": "cbb438845d51cdb3"
+      "title": "Governo de Cabo Verde disponibiliza 45 mil euros para desconto no gasóleo das pescas",
+      "url": "https://forbesafricalusofona.com/governo-de-cabo-verde-disponibiliza-45-mil-euros-para-desconto-no-gasoleo-das-pescas/",
+      "source": "Forbes África",
+      "_key": "39ef54214d6299ff"
     },
     {
-      "title": "BNA prevê reservas internacionais de 16,5 mil milhões de dólares até Dezembro",
-      "url": "https://correiokianda.info/bna-preve-reservas-internacionais-de-165-mil-milhoes-de-dolares-ate-dezembro/",
-      "source": "Correio Kianda",
-      "_key": "2547a9088e3a69c6"
+      "title": "Governo de Moçambique reafirma garantia soberana a credores de megaprojecto de gás",
+      "url": "https://forbesafricalusofona.com/governo-de-mocambique-reafirma-garantia-soberana-a-credores-de-megaprojecto-de-gas/",
+      "source": "Forbes África",
+      "_key": "c47b7bdf767bea1f"
     },
     {
-      "title": "Falso funcionário de embaixadas detido por cobrar até dois milhões de kwanzas por vistos",
-      "url": "https://correiokianda.info/falso-funcionario-de-embaixadas-detido-por-cobrar-ate-dois-milhoes-de-kwanzas-por-vistos/",
-      "source": "Correio Kianda",
-      "_key": "1e31cfe7685c2b9a"
-    },
-    {
-      "title": "Especialista aponta falhas na fiscalização da ocupação de terrenos em Luanda",
-      "url": "https://correiokianda.info/especialista-aponta-falhas-na-fiscalizacao-da-ocupacao-de-terrenos-em-luanda/",
-      "source": "Correio Kianda",
-      "_key": "f6cd6bcfc1fc8115"
-    },
-    {
-      "title": "FestiPub junta profissionais de seis países para avaliar peças publicitárias",
-      "url": "https://correiokianda.info/festipub-junta-profissionais-de-seis-paises-para-avaliar-pecas-publicitarias/",
-      "source": "Correio Kianda",
-      "_key": "506a18d97b0847d4"
-    },
-    {
-      "title": "Inclusão Produtiva reforça capacidade de produção das cooperativas da Huíla",
-      "url": "https://correiokianda.info/inclusao-produtiva-reforca-capacidade-de-producao-das-cooperativas-da-huila/",
-      "source": "Correio Kianda",
-      "_key": "7cdb2e6d8caf2440"
-    },
-    {
-      "title": "SINPROF diz que promoção de 20 mil professores sinaliza cumprimento dos compromissos do Governo",
-      "url": "https://correiokianda.info/sinprof-diz-que-promocao-de-20-mil-professores-sinaliza-cumprimento-dos-compromissos-do-governo/",
-      "source": "Correio Kianda",
-      "_key": "d9f1560803c374a0"
-    },
-    {
-      "title": "EUA querem deter ex-presidente cubano Raúl Castro por abate de dois aviões em 1996",
-      "url": "https://correiokianda.info/eua-querem-deter-ex-presidente-cubano-raul-castro-por-abate-de-dois-avioes-em-1996/",
-      "source": "Correio Kianda",
-      "_key": "abf8b0bb390500a7"
-    },
-    {
-      "title": "Padre morre após ser atingido por crucifixo durante missa no Equador",
-      "url": "https://correiokianda.info/padre-morre-apos-ser-atingido-por-crucifixo-durante-missa-no-equador/",
-      "source": "Correio Kianda",
-      "_key": "0b72163df4784a46"
-    },
-    {
-      "title": "Brasil: Tribunal Eleitoral dá 24 horas à META para provar igualdade entre campanhas de Lula e Flávio Bolsonaro",
-      "url": "https://correiokianda.info/brasil-tribunal-eleitoral-da-24-horas-a-meta-para-provar-igualdade-entre-campanhas-de-lula-e-flavio-bolsonaro/",
-      "source": "Correio Kianda",
-      "_key": "fab4459940cedb30"
-    },
-    {
-      "title": "João Pedro Sousa já não é treinador do Petro de Luanda",
-      "url": "https://correiokianda.info/joao-pedro-sousa-ja-nao-e-treinador-do-petro-de-luanda/",
-      "source": "Correio Kianda",
-      "_key": "9fad3eb4ca2b383b"
-    },
-    {
-      "title": "Inspecção da FAF avalia condições do estádio do TAF, em Cabinda",
-      "url": "https://correiokianda.info/inspeccao-da-faf-avalia-condicoes-do-estadio-do-taf-em-cabinda/",
-      "source": "Correio Kianda",
-      "_key": "6509e18c6b271cf7"
-    },
-    {
-      "title": "Palancas Negras viram resultado frente à Argélia e garantem final do CAN de futsal",
-      "url": "https://correiokianda.info/palancas-negras-viram-resultado-frente-a-argelia-e-garantem-final-do-can-de-futsal/",
-      "source": "Correio Kianda",
-      "_key": "346a0fca6b6c7380"
-    },
-    {
-      "title": "Desportivo da Huíla vence em Luanda e aproxima-se dos lugares cimeiros",
-      "url": "https://correiokianda.info/desportivo-da-huila-vence-em-luanda-e-aproxima-se-dos-lugares-cimeiros/",
-      "source": "Correio Kianda",
-      "_key": "887f258729fe7bb6"
-    },
-    {
-      "title": "Já é conhecido o castigo de Cristiano Ronaldo por abandonar estágio da Selecção Portuguesa",
-      "url": "https://correiokianda.info/ja-e-conhecido-o-castigo-de-cristiano-ronaldo-por-abandonar-estagio-da-seleccao-portuguesa/",
-      "source": "Correio Kianda",
-      "_key": "d54883c661da291d"
-    },
-    {
-      "title": "Angola melhorou 2 lugares e é o 17.º país com maior incidência de pobreza multidimensional grave",
-      "url": "https://expansao.co.ao/angola/detalhe/angola-melhorou-2-lugares-e-e-o-17-pais-com-maior-incidencia-de-pobreza-multidimensional-grave-75411.html",
-      "source": "Expansão",
-      "_key": "4de8e441be7fd8d0"
-    },
-    {
-      "title": "Passageiros dizem que gastam menos com comboio do que com carro ou táxi",
+      "title": "Error 403 - Forbidden",
       "url": "",
-      "source": "Expansão",
-      "_key": "t_b226208413c5ce"
-    },
-    {
-      "title": "Devedores do INH têm 60 dias para regularizar dívidas",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_8dea718fa4e9e4"
-    },
-    {
-      "title": "XI FÓRUM SEGUROS do EXPANSÃO: \"O Papel dos Seguros Obrigatórios e da Resseguradora Nacional\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/xi-forum-seguros-do-expansao-o-papel-dos-seguros-obrigatorios-e-da-resseguradora-nacional-75488.html",
-      "source": "Expansão",
-      "_key": "084b88755fe94dba"
-    },
-    {
-      "title": "Brent volta a superar os 110 dólares à boleia da escalada no Médio Oriente",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-superar-os-110-dolares-a-boleia-da-escalada-no-medio-oriente-75474.html",
-      "source": "Expansão",
-      "_key": "7ce35e1ea8b90f76"
-    },
-    {
-      "title": "\"Baixar os preços de forma indiscriminada para competir não é uma estratégia viável\"",
-      "url": "https://expansao.co.ao/grande-entrevista/detalhe/baixar-os-precos-de-forma-indiscriminada-para-competir-nao-e-uma-estrategia-viavel-75416.html",
-      "source": "Expansão",
-      "_key": "817814612773f397"
-    },
-    {
-      "title": "Netumbo Nandi-Ndaitwah destaca papel de Angola na luta pela libertação da Namíbia",
-      "url": "https://forbesafricalusofona.com/netumbo-nandi-ndaitwah-destaca-papel-de-angola-na-luta-pela-libertacao-da-namibia/",
-      "source": "Forbes África",
-      "_key": "1dbeaaf4a7f3efcb"
-    },
-    {
-      "title": "Namíbia ambiciona transformar laços históricos com Angola em benefícios económicos e sociais concretos",
-      "url": "https://forbesafricalusofona.com/namibia-ambiciona-transformar-lacos-historicos-com-angola-em-beneficios-economicos-e-sociais-concretos/",
-      "source": "Forbes África",
-      "_key": "6f1296f60906df2d"
-    },
-    {
-      "title": "Namíbia defende reforço da capacidade produtiva para impulsionar desenvolvimento de Angola e África",
-      "url": "https://forbesafricalusofona.com/namibia-defende-reforco-da-capacidade-produtiva-para-impulsionar-desenvolvimento-de-angola-e-africa/",
-      "source": "Forbes África",
-      "_key": "cb84ab72f4d64aeb"
-    },
-    {
-      "title": "Banco de Desenvolvimento de Moçambique arranca com capital de 444,4 milhões de euros",
-      "url": "https://forbesafricalusofona.com/banco-de-desenvolvimento-de-mocambique-arranca-com-capital-de-4444-milhoes-de-euros/",
-      "source": "Forbes África",
-      "_key": "7a37e08c82d4f6d1"
-    },
-    {
-      "title": "Governo de Timor-Leste reafirma compromisso com a liberdade de imprensa e destaca responsabilidade e rigor na era digital",
-      "url": "https://forbesafricalusofona.com/governo-de-timor-leste-reafirma-compromisso-com-a-liberdade-de-imprensa-e-destaca-responsabilidade-e-rigor-na-era-digital/",
-      "source": "Forbes África",
-      "_key": "04479217777fbcc0"
-    },
-    {
-      "title": "PR moçambicano garante que saída do BPI do BCI pode abrir espaço para accionistas nacionais",
-      "url": "https://forbesafricalusofona.com/pr-mocambicano-garante-que-saida-do-bpi-do-bci-pode-abrir-espaco-para-accionistas-nacionais/",
-      "source": "Forbes África",
-      "_key": "3111d57c8c9fb0e9"
-    },
-    {
-      "title": "Montepuez Ruby Mining arrecada 44,2 milhões de euros em leilão de rubis",
-      "url": "https://forbesafricalusofona.com/montepuez-ruby-mining-arrecada-442-milhoes-de-euros-em-leilao-de-rubis/",
-      "source": "Forbes África",
-      "_key": "170616ae4ac4880e"
-    },
-    {
-      "title": "Insegurança alimentar grave volta a aumentar em Cabo Verde",
-      "url": "https://forbesafricalusofona.com/inseguranca-alimentar-grave-volta-a-aumentar-em-cabo-verde/",
-      "source": "Forbes África",
-      "_key": "8f866b6d559140c8"
-    },
-    {
-      "title": "Samora Machel continua a inspirar a paz e a independência económica de Moçambique – Daniel Chapo",
-      "url": "https://forbesafricalusofona.com/samora-machel-continua-a-inspirar-a-paz-e-a-independencia-economica-de-mocambique-daniel-chapo/",
-      "source": "Forbes África",
-      "_key": "19b2614a805a2c3d"
-    },
-    {
-      "title": "Nova colectânea sistematiza legislação sobre insolvência em Angola",
-      "url": "https://forbesafricalusofona.com/nova-colectanea-sistematiza-legislacao-sobre-insolvencia-em-angola/",
-      "source": "Forbes África",
-      "_key": "715e8ebe72c74dda"
-    },
-    {
-      "title": "Luís Silva defende parcerias empresariais entre Angola e Namíbia para conquistar mercados regionaisPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/luis-silva-defende-parcerias-empresariais-entre-angola-e-namibia-para-conquistar-mercados-regionais/",
-      "source": "Forbes África",
-      "_key": "371d8113956e0ec0"
-    },
-    {
-      "title": "Angola reforça diversificação económica com sector não petrolífero a representar 85% do PIBPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/angola-reforca-diversificacao-economica-com-sector-nao-petrolifero-a-representar-85-do-pib/",
-      "source": "Forbes África",
-      "_key": "f2c329bae76ef767"
-    },
-    {
-      "title": "Namíbia apresenta projectos de investimento a Angola nos sectores da agricultura, turismo e indústriaPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/namibia-apresenta-projectos-de-investimento-a-angola-nos-sectores-da-agricultura-turismo-e-industria/",
-      "source": "Forbes África",
-      "_key": "874977803201dda3"
-    },
-    {
-      "title": "Angola e Namíbia procuram ampliar trocas comerciais e oportunidades de investimentoPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/angola-e-namibia-procuram-ampliar-trocas-comerciais-e-oportunidades-de-investimento/",
-      "source": "Forbes África",
-      "_key": "db1ea03a74195a0e"
-    },
-    {
-      "title": "MPLA convoca Comité Central para apreciar reclamação de Higino Carneiro sobre candidatura à liderança",
-      "url": "https://holdonangola.com/mpla-convoca-comite-central-para-apreciar-reclamacao-de-higino-carneiro-sobre-candidatura-a-lideranca/",
       "source": "Hold On Angola",
-      "_key": "fb326675de78d1f0"
+      "_key": "t_d01b4a8eb6e8df"
     },
     {
-      "title": "Funcionário da Sonangol condenado a seis meses de prisão em França por contrabando de tabaco",
-      "url": "https://holdonangola.com/funcionario-da-sonangol-condenado-a-seis-meses-de-prisao-em-franca-por-contrabando-de-tabaco/",
-      "source": "Hold On Angola",
-      "_key": "1989ac5bd3139fd2"
+      "title": "Política",
+      "url": "https://www.jornaldeangola.ao/noticias/0/1/pol%C3%ADtica",
+      "source": "Jornal de Angola",
+      "_key": "ee60925af2de3165"
     },
     {
-      "title": "FNLA destitui Nimi a Simbi e convoca congresso extraordinário para Outubro",
-      "url": "https://holdonangola.com/fnla-destitui-nimi-a-simbi-e-convoca-congresso-extraordinario-para-outubro/",
-      "source": "Hold On Angola",
-      "_key": "6eeb825be8aa8e7d"
+      "title": "Sociedade",
+      "url": "https://www.jornaldeangola.ao/noticias/0/3/sociedade",
+      "source": "Jornal de Angola",
+      "_key": "a0ba7cd4713bfbc4"
     },
     {
-      "title": "Sonangol afasta Yuri Alberto após condenação em França…",
-      "url": "https://holdonangola.com/sonangol-afasta-yuri-alberto-apos-condenacao-em-franca-por-contrabando-de-tabaco/",
-      "source": "Hold On Angola",
-      "_key": "536f9fb24e13a065"
+      "title": "Economia",
+      "url": "https://www.jornaldeangola.ao/noticias/0/4/economia",
+      "source": "Jornal de Angola",
+      "_key": "783405706b8412fc"
     },
     {
-      "title": "Angola promove Carnaval de Luanda em fórum internacional…",
-      "url": "https://holdonangola.com/angola-promove-carnaval-de-luanda-em-forum-internacional-nas-ilhas-canarias/",
-      "source": "Hold On Angola",
-      "_key": "9f07a27941b6d734"
+      "title": "Reportagem",
+      "url": "https://www.jornaldeangola.ao/noticias/0/8/reportagem",
+      "source": "Jornal de Angola",
+      "_key": "07e62ded8294839d"
     },
     {
-      "title": "AnySolve Notícias",
-      "url": "https://noticias.anysolve.net/",
-      "source": "Hold On Angola",
-      "_key": "0a0feec28f0c6dc4"
+      "title": "Opinião",
+      "url": "https://www.jornaldeangola.ao/noticias/0/9/opini%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "fd17d0fba1eaabdb"
     },
     {
-      "title": "Angola convida Namíbia a ser acionista da refinaria do Lobito",
-      "url": "https://jornaloguardiao.com/2026/10/19/angola-convida-namibia-a-ser-acionista-da-refinaria-do-lobito/",
-      "source": "Jornal O Guardião",
-      "_key": "c1b8a7946e90e66b"
-    },
-    {
-      "title": "Constituição angolana “não é democrática” e gera instabilidade — UNITA",
-      "url": "https://jornaloguardiao.com/2026/10/19/constituicao-angolana-nao-e-democratica-e-gera-instabilidade-unita/",
-      "source": "Jornal O Guardião",
-      "_key": "5d487cfa7455c918"
-    },
-    {
-      "title": "Namíbia pede conclusão urgente de projeto transfronteiriço para apoiar setor agrícola",
-      "url": "https://jornaloguardiao.com/2026/10/19/namibia-pede-conclusao-urgente-de-projeto-transfronteirico-para-apoiar-setor-agricola/",
-      "source": "Jornal O Guardião",
-      "_key": "43ea112b1ffcf208"
-    },
-    {
-      "title": "Terça-feira, 20 de Outubro, 2026",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_9fb4294475b91a"
-    },
-    {
-      "title": " Angola convida Namíbia a ser acionista da refinaria do Lobito ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ac7236f6e6853d"
-    },
-    {
-      "title": " Constituição angolana “não é democrática” e gera instabilidade — UNITA ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_64708c6f6cc02c"
-    },
-    {
-      "title": " Namíbia pede conclusão urgente de projeto transfronteiriço para apoiar setor agrícola ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b704ef8abc5016"
-    },
-    {
-      "title": "Marido foi condenado a 9 anos de prisão a pagar uma indemnização de 4,5 mil milhões de dólares ao Estado angolano e perda de todos os bens: Irene Neto diz-se vítima dos tribunais portugueses",
+      "title": "Patrão mauritaniano deve dinheiro - Empregada rompe a casa do patrão e leva vários móveis após este viajar para Luanda",
       "url": "",
       "source": "Na Mira do Crime",
-      "_key": "t_f1bf4a59ffb042"
+      "_key": "t_313d52db3989f9"
     },
     {
-      "title": "Quadro da Sonangol condenado em França por contrabandear mais de 11 mil maços de cigarro",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_233c74b43a7482"
-    },
-    {
-      "title": "Governador de Luanda nega conflito de interesses e diz que obras realizadas em Luanda pela sua empresa (Omatapalo) foram acordadas antes da sua nomeação",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_8d1fe594aaf021"
-    },
-    {
-      "title": "Comandante-Geral defende cooperação internacional para uniformizar procedimentos policiais",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_3a457902551ca4"
-    },
-    {
-      "title": "Grupo de seis bandidos saídos de Benguela e Huíla trocam tiros com a BAC do DIIP após assalto na Via Expressa",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_538ad4f3ba2e28"
-    },
-    {
-      "title": "Patrão mauritaniano deve dinheiro - Empregada rompe a casa do patrão e leva vários imóveis após este viajar para Luanda",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_e0d98b673fd523"
-    },
-    {
-      "title": "    Corrupção Marido foi condenado a 9 anos de prisão a pagar uma indemnização de 4,5 mil milhões de dólares ao Estado angolano e perda de todos os bens: Irene Neto diz-se vítima dos tribunais portugueses Irene Neto viu dezenas de contas bancárias suas e dos filhos congeladas em Portugal a pedido das autoridades de Angola, no âmbito de um proc... ",
-      "url": "https://namiradocrime.info/show/17824",
-      "source": "Na Mira do Crime",
-      "_key": "c9254ff48aca2e5a"
-    },
-    {
-      "title": "    Sociedade Quadro da Sonangol condenado em França por contrabandear mais de 11 mil maços de cigarro A Sonangol Distribuição & Comercialização (SD&C) afastou Yuri Patrício dos Santos Alberto do cargo de supervisor operacional da instalação d... ",
-      "url": "https://namiradocrime.info/show/17823",
-      "source": "Na Mira do Crime",
-      "_key": "3e5f9aa5d82b4937"
-    },
-    {
-      "title": "    Política Governador de Luanda nega conflito de interesses e diz que obras realizadas em Luanda pela sua empresa (Omatapalo) foram acordadas antes da sua nomeação ​O governador da província de Luanda, Luís Nunes, rejeitou categoricamente, nesta segunda-feira, 19, as acusações que o apontam como benefic... ",
-      "url": "https://namiradocrime.info/show/17822",
-      "source": "Na Mira do Crime",
-      "_key": "505cb01fa2f318c5"
-    },
-    {
-      "title": "    Política Comandante-Geral defende cooperação internacional para uniformizar procedimentos policiais O Comandante-Geral da Polícia Nacional de Angola (PNA), Comissário-Geral Francisco Monteiro Ribas da Silva, defendeu, nesta segunda-feira, 1... ",
-      "url": "https://namiradocrime.info/show/17821",
-      "source": "Na Mira do Crime",
-      "_key": "8994fdf92438908b"
-    },
-    {
-      "title": "  Assalto Grupo de seis bandidos saídos de Benguela e Huíla trocam tiros com a BAC do DIIP após assalto na Via Expressa adminHá 1 hora4 min de leitura ",
-      "url": "https://namiradocrime.info/show/17826",
-      "source": "Na Mira do Crime",
-      "_key": "32b50c382c8c1922"
-    },
-    {
-      "title": "  Assalto Patrão mauritaniano deve dinheiro - Empregada rompe a casa do patrão e leva vários imóveis após este viajar para Luanda adminHá 1 hora1 min de leitura ",
-      "url": "https://namiradocrime.info/show/17825",
-      "source": "Na Mira do Crime",
-      "_key": "79b2497a08ca099c"
-    },
-    {
-      "title": " Catador de lixo da \"Recolix\" assassinado com facada no pescoço por causa de uma caixa de salsicha adminHá 6 horas3 min de leitura",
-      "url": "https://namiradocrime.info/show/17818",
-      "source": "Na Mira do Crime",
-      "_key": "a507976977cf149b"
-    },
-    {
-      "title": " Em Cacuaco: Cidadão de 54 anos morre após ser espancado pela esposa e dois dos seus filhos na Boa Esperança III — Suspeitos foram soltos com processo n.º 907/2026 DIIP adminHá 20 horas6 min de leitura",
-      "url": "https://namiradocrime.info/show/17813",
-      "source": "Na Mira do Crime",
-      "_key": "cf6f403eb41eacb9"
-    },
-    {
-      "title": "ONG pedem inclusão imediata da legislação autárquica...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/ong-pedem-inclusao-imediata-da-legislacao-autarquica-na-agenda-parlamentar-75487.html",
+      "title": "Julgamento de Yola Araújo: Yuri da Cunha e Ary exigem...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/julgamento-de-yola-araujo-yuri-da-cunha-e-ary-exigem-indemnizacao-de-250-milhoes-kz-por-danos-morais-e-patrimoniais-75495.html",
       "source": "Novo Jornal",
-      "_key": "fefa6510197a48a9"
+      "_key": "73ef5b52eb5a1c53"
     },
     {
-      "title": "GPL retira títulos de concessão de terrenos a \"incumpridores\"...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/gpl-retira-titulos-de-concessao-de-terrenos-a-incumpridores-e-aponta-kilamba-belas-e-camama-como-os-municipios-mais-problematicos-75481.html",
+      "title": "Burlão fazia-se passar por funcionário de embaixadas...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/burlao-fazia-se-passar-por-funcionario-de-embaixadas-e-cobrava-quase-2-milhoes-kz-para-facilitar-obtencao-de-vistos-para-o-estrangeiro-75492.html",
       "source": "Novo Jornal",
-      "_key": "ca7eb12c894ed38e"
+      "_key": "8abf39e5e51bf21b"
     },
     {
-      "title": "BP do Comité Central do MPLA reúne-se hoje, para avaliar...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/bp-do-comite-central-do-mpla-reune-se-hoje-para-avaliar-preparacao-do-9-congresso-e-o-fim-das-conferencias-provinciais-de-renovacao-de-mandatos-75479.html",
+      "title": "Brasil: Protestos contra favorecimento da empresa dona...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/brasil-protestos-contra-favorecimento-da-empresa-dona-do-facebook-e-do-instagram-meta-a-flavio-bolsonaro-nas-eleicoes-75489.html",
       "source": "Novo Jornal",
-      "_key": "7885e3fc58d2a9e6"
+      "_key": "f0c56f013f966d6d"
     },
     {
-      "title": "Educação: Candidatos ao concurso em Luanda que não...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/candidatos-ao-concurso-para-na-educacao-em-luanda-que-nao-entregarem-os-documentos-ate-28-de-outubro-vao-perder-vaga-75486.html",
+      "title": "Futebol: Má prestação na Liga dos Campeões leva Petro...",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/futebol-ma-prestacao-na-liga-dos-campeoes-leva-petro-a-demitir-treinador-joao-pedro-sousa-a-tres-dias-do-jogo-da-segunda-mao-com-o-scottland-fc-do-zimbabwe-75493.html",
       "source": "Novo Jornal",
-      "_key": "7286d2cdce42163b"
+      "_key": "519c572289f1801c"
     },
     {
-      "title": "Cacuaco: Homem espancado até à morte pela mulher e...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cacuaco-homem-espancado-ate-a-morte-pela-mulher-e-os-filhos-75484.html",
-      "source": "Novo Jornal",
-      "_key": "f6f8daa240d32281"
-    },
-    {
-      "title": "INAC assinala mais de 700 denúncias de violência contra...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/inac-assinala-mais-de-700-denuncias-de-violencia-contra-criancas-75483.html",
-      "source": "Novo Jornal",
-      "_key": "9b5c528312076235"
-    },
-    {
-      "title": "Petróleo: barril \"flutuava\" nas águas revoltas do Golfo...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-flutuava-nas-aguas-revoltas-do-golfo-persico-e-agora-voa-alto-sobre-o-escaldante-medio-oriente-ameaca-de-regresso-a-guerra-total-incendeia-mercados-75482.html",
-      "source": "Novo Jornal",
-      "_key": "79f9aff38b57108e"
-    },
-    {
-      "title": "Europa treme sob gigantescos protestos populares contra...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/europa-treme-sob-gigantescos-protestos-populares-contra-perda-de-qualidade-de-vida-albania-franca-e-portugal-lideram-abalo-civico-no-velho-continente-75478.html",
-      "source": "Novo Jornal",
-      "_key": "11d12c4b2d4b78de"
-    },
-    {
-      "title": "Lei em campo: Educação e Desporto: Dois Caminhos, Um...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/lei-em-campo-educacao-e-desporto-dois-caminhos-um-mesmo-futuro-75475.html",
-      "source": "Novo Jornal",
-      "_key": "2337a1467cafbb87"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: PRESIDENTE JÁ ASSINOU 20,2 MIL MILHÕES USD. Presidente da República já assinou 20,2 mil milhões de USD em ajustes directos este ano.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=75468",
-      "source": "Novo Jornal",
-      "_key": "f34e4a21e1796349"
-    },
-    {
-      "title": "ELAS EM FOCO: POLÍTICA E SOCIEDADE EM FOCO. DISCURSO DO ESTADO DA NAÇÃOREALOJAMENTO DOS ANGOLANOS REGRESSADOS DA ÁFRICA DO SUL.",
-      "url": "https://marginal.co.ao/programas/elas-em-foco?ep=75470",
-      "source": "Novo Jornal",
-      "_key": "3d7a831e246b410d"
-    },
-    {
-      "title": "LUANDA DOWNTOWN: ENTRADA DE ANGOLA NA SADC. Benefícios e Riscos para a Indústria Angolana.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=75469",
-      "source": "Novo Jornal",
-      "_key": "e24426fb5283dded"
-    },
-    {
-      "title": "Cantora Yola Araújo regressa esta terça-feira ao tribunal para início do julgamento, após adiamento na semana passada",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cantora-yola-araujo-regressa-esta-terca-feira-ao-tribunal-para-inicio-do-julgamento-apos-adiamento-na-semana-passada-75476.html",
-      "source": "Novo Jornal",
-      "_key": "911a24c39dbb1c64"
-    },
-    {
-      "title": "Falso funcionário de embaixadas detido por burlar cidadãos com promessas de vistos",
-      "url": "https://opais.ao/ultima_hora/falso-funcionario-de-embaixadas-detido-por-burlar-cidadaos-com-promessas-de-vistos/",
+      "title": "Detidos 101 cidadãos e desmantelados três grupos criminosos em Malanje",
+      "url": "https://opais.ao/sociedade/detidos-101-cidadaos-e-desmantelados-tres-grupos-criminosos-em-malanje/",
       "source": "O País",
-      "_key": "015a8862ce621621"
+      "_key": "fcc79c4d22c58758"
     },
     {
-      "title": "Angola contabiliza 92 casos activos de Mpox",
-      "url": "https://opais.ao/ultima_hora/angola-contabiliza-92-casos-activos-de-mpox/",
+      "title": "Operação Bálsamo leva à detenção de 18 cidadãos por suspeita de crimes no Cuito",
+      "url": "https://opais.ao/sociedade/operacao-balsamo-leva-a-detencao-de-18-cidadaos-por-suspeita-de-crimes-no-cuito/",
       "source": "O País",
-      "_key": "f1988c64025ac548"
+      "_key": "2ed05eb2302981a8"
     },
     {
-      "title": "Oposição desafia MPLA a fazer concessões para viabilizar as autarquias",
-      "url": "https://opais.ao/politica/oposicao-desafia-mpla-a-fazer-concessoes-para-viabilizar-as-autarquias/",
+      "title": "Ministério do Interior realiza testes psicotécnicos de 26 a 30 de Outubro",
+      "url": "https://opais.ao/ultima_hora/ministerio-do-interior-realiza-testes-psicotecnicos-de-26-a-30-de-outubro/",
       "source": "O País",
-      "_key": "683ae24b8c8c58da"
+      "_key": "d7a6c5d6a597e9e8"
     },
     {
-      "title": "FIFA sanciona Federação Angolana de Futebol por incumprimento de decisão disciplinar sobre o 1.º de Agosto",
-      "url": "https://opais.ao/desporto/fifa-sanciona-federacao-angolana-de-futebol-por-incumprimento-de-decisao-disciplinar-sobre-o-1-o-de-agosto/",
+      "title": "Presidente da Namíbia termina visita de Estado a Angola",
+      "url": "https://opais.ao/politica/presidente-da-namibia-termina-visita-de-estado-a-angola/",
       "source": "O País",
-      "_key": "378e32fb88062180"
+      "_key": "576d18e5086b1863"
     },
     {
-      "title": "Nimi a Simbi destituído da FNLA",
-      "url": "https://opais.ao/politica/nimi-a-simbi-destituido-da-fnla/",
+      "title": "Angola reafirma compromisso com o combate ao crime organizado transnacional",
+      "url": "https://opais.ao/politica/angola-reafirma-compromisso-com-o-combate-ao-crime-organizado-transnacional/",
       "source": "O País",
-      "_key": "d9c40a7b02083265"
+      "_key": "7b85db075ff9d61f"
     },
     {
-      "title": "Angola bate Argélia e carimba passaporte à final do Africano de futsal",
-      "url": "https://opais.ao/desporto/angola-bate-argelia-e-carimba-passaporte-a-final-do-africano-de-futsal/",
+      "title": "INQ prepara segunda fase do RVCC após conclusão do registo dos profissionais sem certificação",
+      "url": "https://opais.ao/sociedade/inq-prepara-segunda-fase-do-rvcc-apos-conclusao-do-registo-dos-profissionais-sem-certificacao/",
       "source": "O País",
-      "_key": "0c03a9c7775afbb9"
+      "_key": "0163de1282397e71"
     },
     {
-      "title": "Defesa da família da vítima afirma não ter sido notificada sobre qualquer alteração da decisão do Tribunal",
-      "url": "https://opais.ao/sociedade/defesa-da-familia-da-vitima-afirma-nao-ter-sido-notificada-sobre-qualquer-alteracao-da-decisao-do-tribunal/",
+      "title": "Presidente da Namíbia visita Refinaria de Luanda",
+      "url": "https://opais.ao/politica/presidente-da-namibia-visita-refinaria-de-luanda/",
       "source": "O País",
-      "_key": "e0a1bbc690fdf456"
+      "_key": "18da139c1b8df643"
     },
     {
-      "title": "Petro perde diante do Scottland do Zimbabwe na corrida à fase de grupos",
-      "url": "https://opais.ao/desporto/petro-perde-diante-do-scottland-do-zimbabwe-na-corrida-a-fase-de-grupos/",
+      "title": "Huambo instala equipamentos para facilitar actualização eleitoral",
+      "url": "https://opais.ao/politica/huambo-instala-equipamentos-para-facilitar-actualizacao-eleitoral/",
       "source": "O País",
-      "_key": "4dd29142282c845c"
+      "_key": "56f9faffe1af6472"
     },
     {
-      "title": "MPLA avalia hoje preparativos para o IX Congresso Ordinário e celebração dos 70 anos",
-      "url": "https://opais.ao/politica/mpla-avalia-hoje-preparativos-para-o-ix-congresso-ordinario-e-celebracao-dos-70-anos/",
+      "title": "Valdir Cónego pode recuperar militância no MPLA após decisão judicial",
+      "url": "https://opais.ao/politica/valdir-conego-pode-recuperar-militancia-no-mpla-apos-decisao-judicial/",
       "source": "O País",
-      "_key": "3c25cc151bf6f252"
+      "_key": "41a0daa6ce791e62"
     },
     {
-      "title": "Teresa Jamba lança livro sobre prevenção e diagnóstico precoce do cancro",
-      "url": "https://opais.ao/ultima_hora/teresa-jamba-lanca-livro-sobre-prevencao-e-diagnostico-precoce-do-cancro/",
+      "title": "João Lourenço defende execução efectiva dos acordos com a Namíbia",
+      "url": "https://opais.ao/politica/joao-lourenco-defende-execucao-efectiva-dos-acordos-com-a-namibia/",
       "source": "O País",
-      "_key": "8ab63daa367b348c"
+      "_key": "003271de3e8be1b1"
     },
     {
-      "title": "Miguel Bembe promove cooperação académica entre Angola e Senegal",
-      "url": "https://opais.ao/politica/miguel-bembe-promove-cooperacao-academica-entre-angola-e-senegal/",
+      "title": "MPLA no Zaire aponta disciplina e coesão como premissas para os desafios eleitorais",
+      "url": "https://opais.ao/politica/mpla-no-zaire-aponta-disciplina-e-coesao-como-premissas-para-os-desafios-eleitorais/",
       "source": "O País",
-      "_key": "2f43027df9909ee0"
+      "_key": "b96343cd8a338ece"
     },
     {
-      "title": "Governo de Luanda reabre três ruas no quadro da requalificação do Nova Vida",
-      "url": "https://opais.ao/ultima_hora/governo-de-luanda-reabre-tres-ruas-no-quadro-da-requalificacao-do-nova-vida/",
+      "title": "Porto do Lobito reforça liderança e comunicação estratégica no CEDX EXPERIENCE 2026",
+      "url": "https://opais.ao/economia/porto-do-lobito-reforca-lideranca-e-comunicacao-estrategica-no-cedx-experience-2026/",
       "source": "O País",
-      "_key": "85b63b8102f9cef3"
+      "_key": "0246629507a747e3"
     },
     {
-      "title": "Mais de seis mil candidatos avançam para exames de especialização em Enfermagem",
-      "url": "https://opais.ao/ultima_hora/mais-de-seis-mil-candidatos-avancam-para-exames-de-especializacao-em-enfermagem/",
+      "title": "Taxistas e profissionais de saúde unem-se em campanha de doação de sangue",
+      "url": "https://opais.ao/sociedade/taxistas-e-profissionais-de-saude-unem-se-em-campanha-de-doacao-de-sangue/",
       "source": "O País",
-      "_key": "1dba7bb83de6081a"
+      "_key": "366f919685a698c2"
     },
     {
-      "title": "Polícia Nacional na Huíla recebe 33 novos meios para reforçar segurança pública",
-      "url": "https://opais.ao/sociedade/policia-nacional-na-huila-recebe-33-novos-meios-para-reforcar-seguranca-publica/",
-      "source": "O País",
-      "_key": "3d4cd20204650597"
-    },
-    {
-      "title": "IRPS em Angola: entre a justiça fiscal e o peso no bolso dos cidadãos",
-      "url": "https://opais.ao/opiniao/irps-em-angola-entre-a-justica-fiscal-e-o-peso-no-bolso-dos-cidadaos/",
-      "source": "O País",
-      "_key": "ae749603f68f0c43"
-    },
-    {
-      "title": "A fronteira entre a frontalidade e o respeito",
-      "url": "https://opais.ao/opiniao/a-fronteira-entre-a-frontalidade-e-o-respeito/",
-      "source": "O País",
-      "_key": "511164fc2aed6097"
-    },
-    {
-      "title": "É de hoje… A luta agridoce pelas autarquias",
-      "url": "https://opais.ao/opiniao/e-de-hoje-a-luta-agridoce-pelas-autarquias/",
-      "source": "O País",
-      "_key": "34d5845458813389"
-    },
-    {
-      "title": "É de hoje… Ainda não é um adeus, camaradas!",
-      "url": "https://opais.ao/opiniao/e-de-hoje-ainda-nao-e-um-adeus-camaradas-2/",
-      "source": "O País",
-      "_key": "e44e29d133d8b90d"
-    },
-    {
-      "title": "Editorial: Luanda e Windhoek de mãos dadas",
-      "url": "https://opais.ao/editorial/editorial-luanda-e-windhoek-de-maos-dadas/",
-      "source": "O País",
-      "_key": "fedafd59e5850907"
-    },
-    {
-      "title": "Editorial: Cooperação global",
-      "url": "https://opais.ao/editorial/editorial-cooperacao-global/",
-      "source": "O País",
-      "_key": "911f18ea66a71ec7"
-    },
-    {
-      "title": "Ministro da Agricultura inicia amanhã visita de trabalho ao Cunene",
-      "url": "https://opais.ao/economia/ministro-da-agricultura-inicia-amanha-visita-de-trabalho-ao-cunene/",
-      "source": "O País",
-      "_key": "e71f4ccccce605b9"
-    },
-    {
-      "title": "Exploração de recursos naturais no sul em debate a partir de amanhã no Lubango",
-      "url": "https://opais.ao/sociedade/exploracao-de-recursos-naturais-no-sul-em-debate-a-partir-de-amanha-no-lubango/",
-      "source": "O País",
-      "_key": "122202906f0e70ac"
-    },
-    {
-      "title": "Detido grupo suspeito de assaltar residência e levantar 11 milhões de kwanzas através de TPA",
-      "url": "https://opais.ao/ultima_hora/detido-grupo-suspeito-de-assaltar-residencia-e-levantar-11-milhoes-de-kwanzas-atraves-de-tpa/",
-      "source": "O País",
-      "_key": "c7a8e4633e647c58"
-    },
-    {
-      "title": "Angola e Namíbia elevam cooperação e assinam oito instrumentos para reforçar parcerias",
-      "url": "https://opais.ao/politica/angola-e-namibia-elevam-cooperacao-e-assinam-oito-instrumentos-para-reforcar-parcerias/",
-      "source": "O País",
-      "_key": "b8b643c395c316e2"
-    },
-    {
-      "title": "Angola e Namíbia reforçam parceria com assinatura de oito acordos em Luanda",
-      "url": "https://opais.ao/politica/angola-e-namibia-reforcam-parceria-com-assinatura-de-oito-acordos-em-luanda/",
-      "source": "O País",
-      "_key": "e3ff3106b3ef2031"
-    },
-    {
-      "title": "Renova Angola defende uma governação focada em soluções credíveis para os problemas estruturais das famílias angolanas",
-      "url": "https://opais.ao/politica/renova-angola-defende-uma-governacao-focada-em-solucoes-crediveis-para-os-problemas-estruturais-das-familias-angolanas/",
-      "source": "O País",
-      "_key": "8fc56cf758fc0ced"
-    },
-    {
-      "title": "João Lourenço reúne-se com homóloga namibiana no Palácio Presidencial",
-      "url": "https://opais.ao/politica/joao-lourenco-reune-se-com-homologa-namibiana-no-palacio-presidencial/",
-      "source": "O País",
-      "_key": "02cf81192940faa3"
-    },
-    {
-      "title": "Angola e Namíbia iniciam hoje nova etapa de cooperação bilateral",
-      "url": "https://opais.ao/politica/angola-e-namibia-iniciam-hoje-nova-etapa-de-cooperacao-bilateral/",
-      "source": "O País",
-      "_key": "e1213e0c62c7a4e8"
-    },
-    {
-      "title": "Mais de sete mil pensionistas irregulares retirados do sistema do ISS das FAA",
-      "url": "https://opais.ao/politica/mais-de-sete-mil-pensionistas-irregulares-retirados-do-sistema-do-iss-das-faa/",
-      "source": "O País",
-      "_key": "8dfc03e024cba41f"
-    },
-    {
-      "title": "Angola promove gastronomia como instrumento diplomático no Botswana",
-      "url": "https://opais.ao/politica/angola-promove-gastronomia-como-instrumento-diplomatico-no-botswana/",
-      "source": "O País",
-      "_key": "2b9d08fe37cbc04c"
-    },
-    {
-      "title": "OIT defende mais inserção de mulheres no sector marítimo",
-      "url": "https://opais.ao/economia/oit-defende-mais-insercao-de-mulheres-no-sector-maritimo/",
-      "source": "O País",
-      "_key": "8b0f121cbe15f51f"
-    },
-    {
-      "title": "Bombeiros no Cuanza-Norte reforçados com meios técnicos complementares",
-      "url": "https://opais.ao/ultima_hora/bombeiros-no-cuanza-norte-reforcados-com-meios-tecnicos-complementares/",
-      "source": "O País",
-      "_key": "a8d9f9da03314c0d"
-    },
-    {
-      "title": "Papa “passou bem a noite, levantou-se e tomou o pequeno-almoço”",
-      "url": "https://opais.ao/mundo/papa-passou-bem-a-noite-levantou-se-e-tomou-o-pequeno-almoco/",
-      "source": "O País",
-      "_key": "62691b07a0324b18"
-    },
-    {
-      "title": "Clube de leitura aborda doença vitiligo com crianças e adolescentes",
-      "url": "https://opais.ao/cultura/clube-de-leitura-aborda-doenca-vitiligo-com-criancas-e-adolescentes/",
-      "source": "O País",
-      "_key": "654028fd9da83629"
-    },
-    {
-      "title": "Caldo do Poeira presta tributo ao músico Dom Caetano",
-      "url": "https://opais.ao/cultura/caldo-do-poeira-presta-tributo-ao-musico-dom-caetano/",
-      "source": "O País",
-      "_key": "e0f9c295206481b6"
-    },
-    {
-      "title": "ARSEG exige que seguradoras adoptem matriz para avaliar riscos socioambientais",
-      "url": "https://valoreconomico.co.ao/artigo/arseg-exige-que-seguradoras-adoptem-matriz-para-avaliar-riscos-socioambientais",
+      "title": "80% dos trabalhadores da Lunda Sul continuam na informalidade",
+      "url": "https://valoreconomico.co.ao/artigo/80-dos-trabalhadores-da-lunda-sul-continuam-na-informalidade",
       "source": "Valor Económico",
-      "_key": "3e766f5a51e1d8e0"
+      "_key": "9354bbf8e6b2b5c8"
     },
     {
-      "title": "Falta de unidades de conservação ameaça escoamento do tomate, alertam...",
-      "url": "https://valoreconomico.co.ao/artigo/falta-de-unidades-de-conservacao-ameaca-escoamento-do-tomate-alertam-agronomos",
+      "title": "Mais de 69% das empresas em Angola sem acesso regular...",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-69-das-empresas-em-angola-sem-acesso-regular-a-rede-electrica-publica",
       "source": "Valor Económico",
-      "_key": "3c311f969a04e9b2"
+      "_key": "cf270c8903bfd789"
     },
     {
-      "title": "“Não faço negócios comigo próprio”: Luís Nunes rejeita conflito de...",
-      "url": "https://valoreconomico.co.ao/artigo/nao-faco-negocios-comigo-proprio-luis-nunes-rejeita-conflito-de-interesses-e-desafia-criticos",
+      "title": "Tribunal do Brasil duplica multa à Meta para um milhão...",
+      "url": "https://valoreconomico.co.ao/artigo/tribunal-do-brasil-duplica-multa-a-meta-para-um-milhao-de-reais-por-incumprimento-de-ordem-eleitoral-15262",
       "source": "Valor Económico",
-      "_key": "990bf82e59cc1486"
+      "_key": "b17e2d5d198565a3"
     },
     {
-      "title": "Exportações sustentam crescimento da economia chinesa apesar da fraqueza do...",
-      "url": "https://valoreconomico.co.ao/artigo/exportacoes-sustentam-crescimento-da-economia-chinesa-apesar-da-fraqueza-do-consumo",
+      "title": "África do Sul prepara-se para perder benefícios comerciais dos EUA",
+      "url": "https://valoreconomico.co.ao/artigo/africa-do-sul-prepara-se-para-perder-beneficios-comerciais-dos-eua",
       "source": "Valor Económico",
-      "_key": "77046bd0cd96c8ae"
-    },
-    {
-      "title": "Brent recua para 108 dólares após máximos de cinco meses",
-      "url": "https://valoreconomico.co.ao/artigo/brent-recua-para-108-dolares-apos-maximos-de-cinco-meses",
-      "source": "Valor Económico",
-      "_key": "6bbb54a211217d3f"
-    },
-    {
-      "title": "João Lourenço convida Namíbia a integrar estrutura accionista da Refinaria do Lobito",
-      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-convida-namibia-a-integrar-estrutura-accionista-da-refinaria-do-lobito",
-      "source": "Valor Económico",
-      "_key": "7634544e1cdc5660"
+      "_key": "e6f272fb7d7a33a8"
     }
   ]
 }

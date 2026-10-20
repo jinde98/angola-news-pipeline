@@ -1,536 +1,96 @@
 {
   "date": "2026-10-20",
-  "total_new": 163,
-  "total_filtered": 66,
+  "total_new": 36,
+  "total_filtered": 11,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Governo angolano mantém plano de aumento gradual dos preços dos combustíveis",
-      "url": "https://angola24horas.com/economia/item/35177-governo-angolano-mantem-plano-de-aumento-gradual-dos-precos-dos-combustiveis",
-      "source": "Angola 24 Horas",
-      "_key": "cb5174f792f28039",
+      "title": "Porto do Lobito reforça liderança e comunicação estratégica no CEDX EXPERIENCE 2026",
+      "url": "https://opais.ao/economia/porto-do-lobito-reforca-lideranca-e-comunicacao-estrategica-no-cedx-experience-2026/",
+      "source": "O País",
+      "_key": "0246629507a747e3",
       "score": 9,
-      "title_cn": "安哥拉政府维持燃油价格逐步上涨计划"
+      "title_cn": "洛比托港在CEDX EXPERIENCE 2026活动中加强领导力与战略沟通"
     },
     {
-      "title": "Inflação em Angola cai para 8,43% em setembro, mas Educação regista maior subida de preços",
-      "url": "https://angola24horas.com/economia/item/35146-inflacao-em-angola-cai-para-8-43-em-setembro-mas-educacao-regista-maior-subida-de-precos",
-      "source": "Angola 24 Horas",
-      "_key": "4b9c567dd9671fa2",
-      "score": 9,
-      "title_cn": "安哥拉9月通胀降至8.43%，但教育领域物价涨幅最大"
-    },
-    {
-      "title": "Brent regista queda mas mantém-se acima dos 109 dólares por barril",
-      "url": "https://correiokianda.info/brent-regista-queda-mas-mantem-se-acima-dos-109-dolares-por-barril/",
-      "source": "Correio Kianda",
-      "_key": "d5673e74ed360e17",
-      "score": 9,
-      "title_cn": "布伦特原油下跌，但仍保持在每桶109美元以上"
-    },
-    {
-      "title": "BNA prevê reservas internacionais de 16,5 mil milhões de dólares até Dezembro",
-      "url": "https://correiokianda.info/bna-preve-reservas-internacionais-de-165-mil-milhoes-de-dolares-ate-dezembro/",
-      "source": "Correio Kianda",
-      "_key": "2547a9088e3a69c6",
-      "score": 9,
-      "title_cn": "安哥拉国家银行预计12月前国际储备达165亿美元"
-    },
-    {
-      "title": "Falso funcionário de embaixadas detido por cobrar até dois milhões de kwanzas por vistos",
-      "url": "https://correiokianda.info/falso-funcionario-de-embaixadas-detido-por-cobrar-ate-dois-milhoes-de-kwanzas-por-vistos/",
-      "source": "Correio Kianda",
-      "_key": "1e31cfe7685c2b9a",
-      "score": 9,
-      "title_cn": "假冒使馆人员因签证收费高达200万宽扎被捕"
-    },
-    {
-      "title": "Brent volta a superar os 110 dólares à boleia da escalada no Médio Oriente",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-volta-a-superar-os-110-dolares-a-boleia-da-escalada-no-medio-oriente-75474.html",
-      "source": "Expansão",
-      "_key": "7ce35e1ea8b90f76",
-      "score": 9,
-      "title_cn": "受中东局势升级影响，布伦特原油再次突破110美元"
-    },
-    {
-      "title": "Petróleo: barril \"flutuava\" nas águas revoltas do Golfo...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-flutuava-nas-aguas-revoltas-do-golfo-persico-e-agora-voa-alto-sobre-o-escaldante-medio-oriente-ameaca-de-regresso-a-guerra-total-incendeia-mercados-75482.html",
-      "source": "Novo Jornal",
-      "_key": "79f9aff38b57108e",
-      "score": 9,
-      "title_cn": "石油：原油桶在波涛汹涌的海湾中“漂浮”"
-    },
-    {
-      "title": "Exportações sustentam crescimento da economia chinesa apesar da fraqueza do...",
-      "url": "https://valoreconomico.co.ao/artigo/exportacoes-sustentam-crescimento-da-economia-chinesa-apesar-da-fraqueza-do-consumo",
+      "title": "Mais de 69% das empresas em Angola sem acesso regular...",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-69-das-empresas-em-angola-sem-acesso-regular-a-rede-electrica-publica",
       "source": "Valor Económico",
-      "_key": "77046bd0cd96c8ae",
-      "score": 9,
-      "title_cn": "尽管经济疲软，出口仍支撑中国经济增长"
-    },
-    {
-      "title": "Brent recua para 108 dólares após máximos de cinco meses",
-      "url": "https://valoreconomico.co.ao/artigo/brent-recua-para-108-dolares-apos-maximos-de-cinco-meses",
-      "source": "Valor Económico",
-      "_key": "6bbb54a211217d3f",
-      "score": 9,
-      "title_cn": "布伦特原油在创五个月新高后回落至108美元"
-    },
-    {
-      "title": "João Lourenço convida Namíbia a integrar estrutura accionista da Refinaria do Lobito",
-      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-convida-namibia-a-integrar-estrutura-accionista-da-refinaria-do-lobito",
-      "source": "Valor Económico",
-      "_key": "7634544e1cdc5660",
-      "score": 9,
-      "title_cn": "若昂·洛伦索（João Lourenço）邀请纳米比亚加入洛比托炼油厂股东结构"
-    },
-    {
-      "title": "João Lourenço quer Namíbia como accionista da megarefinaria do Lobito",
-      "url": "https://angola24horas.com/politica/item/35185-joao-lourenco-quer-namibia-como-accionista-da-megarefinaria-do-lobito",
-      "source": "Angola 24 Horas",
-      "_key": "81f994b8f9e46fe5",
+      "_key": "cf270c8903bfd789",
       "score": 8,
-      "title_cn": "若昂·洛伦索（João Lourenço）希望纳米比亚成为洛比托大型炼油厂股东"
+      "title_cn": "安哥拉逾69%企业缺乏稳定服务"
     },
     {
-      "title": "A Política monetária angolana: desafios actuais e alternativas para o crescimento económico",
-      "url": "https://angola24horas.com/opiniao/item/35175-a-politica-monetaria-angolana-desafios-actuais-e-alternativas-para-o-crescimento-economico",
-      "source": "Angola 24 Horas",
-      "_key": "24355d0d778a940a",
-      "score": 8,
-      "title_cn": "安哥拉货币政策：当前挑战与经济增长替代方案"
+      "title": "Angola reafirma compromisso com o combate ao crime organizado transnacional",
+      "url": "https://opais.ao/politica/angola-reafirma-compromisso-com-o-combate-ao-crime-organizado-transnacional/",
+      "source": "O País",
+      "_key": "7b85db075ff9d61f",
+      "score": 7,
+      "title_cn": "安哥拉重申打击跨国有组织犯罪承诺"
     },
     {
-      "title": "Governo angolano prevê crescimento de 5,7% em 2026, acima das estimativas do FMI",
-      "url": "https://angola24horas.com/economia/item/35176-governo-angolano-preve-crescimento-de-5-7-em-2026-acima-das-estimativas-do-fmi",
-      "source": "Angola 24 Horas",
-      "_key": "972a60a303fa04c2",
-      "score": 8,
-      "title_cn": "安哥拉政府预计2026年经济增长5.7%，高于国际货币基金组织预测"
-    },
-    {
-      "title": "João Lourenço quer Namíbia como parceira na Refinaria do Lobito",
-      "url": "https://correiokianda.info/joao-lourenco-quer-namibia-como-parceira-na-refinaria-do-lobito/",
-      "source": "Correio Kianda",
-      "_key": "9c66e7ba8d30a0d0",
-      "score": 8,
-      "title_cn": "若昂·洛伦索（João Lourenço）希望纳米比亚成为洛比托炼油厂合作伙伴"
-    },
-    {
-      "title": "Nova colectânea sistematiza legislação sobre insolvência em Angola",
-      "url": "https://forbesafricalusofona.com/nova-colectanea-sistematiza-legislacao-sobre-insolvencia-em-angola/",
-      "source": "Forbes África",
-      "_key": "715e8ebe72c74dda",
-      "score": 8,
-      "title_cn": "新汇编系统化安哥拉破产立法"
-    },
-    {
-      "title": "Angola reforça diversificação económica com sector não petrolífero a representar 85% do PIBPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/angola-reforca-diversificacao-economica-com-sector-nao-petrolifero-a-representar-85-do-pib/",
-      "source": "Forbes África",
-      "_key": "f2c329bae76ef767",
-      "score": 8,
-      "title_cn": "安哥拉加强经济多元化，非石油部门占GDP的85%"
-    },
-    {
-      "title": "Angola convida Namíbia a ser acionista da refinaria do Lobito",
-      "url": "https://jornaloguardiao.com/2026/10/19/angola-convida-namibia-a-ser-acionista-da-refinaria-do-lobito/",
-      "source": "Jornal O Guardião",
-      "_key": "c1b8a7946e90e66b",
-      "score": 8,
-      "title_cn": "安哥拉邀请纳米比亚成为洛比托炼油厂的民族主义者"
-    },
-    {
-      "title": " Angola convida Namíbia a ser acionista da refinaria do Lobito ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_ac7236f6e6853d",
-      "score": 8,
-      "title_cn": "安哥拉邀请纳米比亚成为洛比托炼油厂股东"
-    },
-    {
-      "title": "Grupo de seis bandidos saídos de Benguela e Huíla trocam tiros com a BAC do DIIP após assalto na Via Expressa",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_538ad4f3ba2e28",
-      "score": 8,
-      "title_cn": "六名来自本格拉和威拉的匪徒在高速公路抢劫后与DIIP特警队交火"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: PRESIDENTE JÁ ASSINOU 20,2 MIL MILHÕES USD. Presidente da República já assinou 20,2 mil milhões de USD em ajustes directos este ano.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=75468",
+      "title": "Burlão fazia-se passar por funcionário de embaixadas...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/burlao-fazia-se-passar-por-funcionario-de-embaixadas-e-cobrava-quase-2-milhoes-kz-para-facilitar-obtencao-de-vistos-para-o-estrangeiro-75492.html",
       "source": "Novo Jornal",
-      "_key": "f34e4a21e1796349",
-      "score": 8,
-      "title_cn": "总统今年已签署202.2亿美元直接调整协议"
+      "_key": "8abf39e5e51bf21b",
+      "score": 6,
+      "title_cn": "骗子冒充使馆工作人员行骗"
     },
     {
-      "title": "Falso funcionário de embaixadas detido por burlar cidadãos com promessas de vistos",
-      "url": "https://opais.ao/ultima_hora/falso-funcionario-de-embaixadas-detido-por-burlar-cidadaos-com-promessas-de-vistos/",
+      "title": "Detidos 101 cidadãos e desmantelados três grupos criminosos em Malanje",
+      "url": "https://opais.ao/sociedade/detidos-101-cidadaos-e-desmantelados-tres-grupos-criminosos-em-malanje/",
       "source": "O País",
-      "_key": "015a8862ce621621",
-      "score": 8,
-      "title_cn": "假冒使馆人员因承诺办理签证诈骗公民被捕"
+      "_key": "fcc79c4d22c58758",
+      "score": 6,
+      "title_cn": "马兰热逮捕101人，捣毁三个犯罪团伙"
     },
     {
-      "title": "IRPS em Angola: entre a justiça fiscal e o peso no bolso dos cidadãos",
-      "url": "https://opais.ao/opiniao/irps-em-angola-entre-a-justica-fiscal-e-o-peso-no-bolso-dos-cidadaos/",
+      "title": "Operação Bálsamo leva à detenção de 18 cidadãos por suspeita de crimes no Cuito",
+      "url": "https://opais.ao/sociedade/operacao-balsamo-leva-a-detencao-de-18-cidadaos-por-suspeita-de-crimes-no-cuito/",
       "source": "O País",
-      "_key": "ae749603f68f0c43",
-      "score": 8,
-      "title_cn": "安哥拉个人所得税：在税收公平与公民负担之间"
+      "_key": "2ed05eb2302981a8",
+      "score": 6,
+      "title_cn": "“香膏行动”：奎托18人涉嫌犯罪被捕"
     },
     {
-      "title": "Arrendar casa em Luanda pode consumir mais de 90% do salário anual, alerta Adalberto Costa Júnior",
-      "url": "https://angola24horas.com/politica/item/35181-arrendar-casa-em-luanda-pode-consumir-mais-de-90-do-salario-anual-alerta-adalberto-costa-junior",
-      "source": "Angola 24 Horas",
-      "_key": "c82d8d03ca0a9e33",
-      "score": 7,
-      "title_cn": "阿达尔贝托·科斯塔·儒尼奥尔（Adalberto Costa Júnior）警告：罗安达租房可耗费年薪90%以上"
-    },
-    {
-      "title": "Adão de Almeida defende concretização urgente do projecto hidroeléctrico de Baynes entre Angola e Namíbia",
-      "url": "https://correiokianda.info/adao-de-almeida-defende-concretizacao-urgente-do-projecto-hidroelectrico-de-baynes-entre-angola-e-namibia/",
-      "source": "Correio Kianda",
-      "_key": "ffa959e059163a6f",
-      "score": 7,
-      "title_cn": "阿达奥·德·阿尔梅达（Adão de Almeida）呼吁安哥拉与纳米比亚紧急落实拜恩斯水电项目"
-    },
-    {
-      "title": "Namíbia ambiciona transformar laços históricos com Angola em benefícios económicos e sociais concretos",
-      "url": "https://forbesafricalusofona.com/namibia-ambiciona-transformar-lacos-historicos-com-angola-em-beneficios-economicos-e-sociais-concretos/",
-      "source": "Forbes África",
-      "_key": "6f1296f60906df2d",
-      "score": 7,
-      "title_cn": "纳米比亚旨在将与安哥拉的历史纽带转化为具体经济社会效益"
-    },
-    {
-      "title": "Namíbia defende reforço da capacidade produtiva para impulsionar desenvolvimento de Angola e África",
-      "url": "https://forbesafricalusofona.com/namibia-defende-reforco-da-capacidade-produtiva-para-impulsionar-desenvolvimento-de-angola-e-africa/",
-      "source": "Forbes África",
-      "_key": "cb84ab72f4d64aeb",
-      "score": 7,
-      "title_cn": "纳米比亚主张增强生产力，以促进安哥拉和非洲发展"
-    },
-    {
-      "title": "Luís Silva defende parcerias empresariais entre Angola e Namíbia para conquistar mercados regionaisPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/luis-silva-defende-parcerias-empresariais-entre-angola-e-namibia-para-conquistar-mercados-regionais/",
-      "source": "Forbes África",
-      "_key": "371d8113956e0ec0",
-      "score": 7,
-      "title_cn": "路易斯·席尔瓦（Luís Silva）主张安哥拉与纳米比亚企业合作开拓区域市场"
-    },
-    {
-      "title": "Namíbia apresenta projectos de investimento a Angola nos sectores da agricultura, turismo e indústriaPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/namibia-apresenta-projectos-de-investimento-a-angola-nos-sectores-da-agricultura-turismo-e-industria/",
-      "source": "Forbes África",
-      "_key": "874977803201dda3",
-      "score": 7,
-      "title_cn": "纳米比亚向安哥拉展示农业、旅游和工业投资项目"
-    },
-    {
-      "title": "Angola e Namíbia procuram ampliar trocas comerciais e oportunidades de investimentoPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/angola-e-namibia-procuram-ampliar-trocas-comerciais-e-oportunidades-de-investimento/",
-      "source": "Forbes África",
-      "_key": "db1ea03a74195a0e",
-      "score": 7,
-      "title_cn": "安哥拉与纳米比亚寻求扩大贸易往来和投资机会"
-    },
-    {
-      "title": "Namíbia pede conclusão urgente de projeto transfronteiriço para apoiar setor agrícola",
-      "url": "https://jornaloguardiao.com/2026/10/19/namibia-pede-conclusao-urgente-de-projeto-transfronteirico-para-apoiar-setor-agricola/",
-      "source": "Jornal O Guardião",
-      "_key": "43ea112b1ffcf208",
-      "score": 7,
-      "title_cn": "纳米比亚呼吁紧急完成跨境项目以支持农业"
-    },
-    {
-      "title": " Namíbia pede conclusão urgente de projeto transfronteiriço para apoiar setor agrícola ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_b704ef8abc5016",
-      "score": 7,
-      "title_cn": "纳米比亚呼吁紧急完成跨境项目以支持农业"
-    },
-    {
-      "title": "  Assalto Grupo de seis bandidos saídos de Benguela e Huíla trocam tiros com a BAC do DIIP após assalto na Via Expressa adminHá 1 hora4 min de leitura ",
-      "url": "https://namiradocrime.info/show/17826",
-      "source": "Na Mira do Crime",
-      "_key": "32b50c382c8c1922",
-      "score": 7,
-      "title_cn": "六名来自本格拉和威拉的匪徒在高速公路抢劫后与DIIP特警队交火"
-    },
-    {
-      "title": "GPL retira títulos de concessão de terrenos a \"incumpridores\"...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/gpl-retira-titulos-de-concessao-de-terrenos-a-incumpridores-e-aponta-kilamba-belas-e-camama-como-os-municipios-mais-problematicos-75481.html",
-      "source": "Novo Jornal",
-      "_key": "ca7eb12c894ed38e",
-      "score": 7,
-      "title_cn": "罗安达省政府收回“违约者”的土地特许权"
-    },
-    {
-      "title": "LUANDA DOWNTOWN: ENTRADA DE ANGOLA NA SADC. Benefícios e Riscos para a Indústria Angolana.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=75469",
-      "source": "Novo Jornal",
-      "_key": "e24426fb5283dded",
-      "score": 7,
-      "title_cn": "罗安达市中心：安哥拉加入南部非洲发展共同体。对安哥拉工业的利弊"
-    },
-    {
-      "title": "Exploração de recursos naturais no sul em debate a partir de amanhã no Lubango",
-      "url": "https://opais.ao/sociedade/exploracao-de-recursos-naturais-no-sul-em-debate-a-partir-de-amanha-no-lubango/",
+      "title": "Presidente da Namíbia visita Refinaria de Luanda",
+      "url": "https://opais.ao/politica/presidente-da-namibia-visita-refinaria-de-luanda/",
       "source": "O País",
-      "_key": "122202906f0e70ac",
-      "score": 7,
-      "title_cn": "南部自然资源开发明日起在卢班戈展开辩论"
+      "_key": "18da139c1b8df643",
+      "score": 6,
+      "title_cn": "纳米比亚总统访问罗安达炼油厂"
     },
     {
-      "title": "Detido grupo suspeito de assaltar residência e levantar 11 milhões de kwanzas através de TPA",
-      "url": "https://opais.ao/ultima_hora/detido-grupo-suspeito-de-assaltar-residencia-e-levantar-11-milhoes-de-kwanzas-atraves-de-tpa/",
+      "title": "João Lourenço defende execução efectiva dos acordos com a Namíbia",
+      "url": "https://opais.ao/politica/joao-lourenco-defende-execucao-efectiva-dos-acordos-com-a-namibia/",
       "source": "O País",
-      "_key": "c7a8e4633e647c58",
-      "score": 7,
-      "title_cn": "涉嫌入室抢劫并用POS机盗取1100万宽扎的团伙被捕"
-    },
-    {
-      "title": "TAAG assegura todos os voos no primeiro dia de greve e prevê manter mais de 94% da operação até 15 de Outubro",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35155-taag-assegura-todos-os-voos-no-primeiro-dia-de-greve-e-preve-manter-mais-de-94-da-operacao-ate-15-de-outubro",
-      "source": "Angola 24 Horas",
-      "_key": "d76a56ec1f3c89d5",
+      "_key": "003271de3e8be1b1",
       "score": 6,
-      "title_cn": "安哥拉航空（TAAG）确保罢工首日所有航班，预计10月15日前维持94%以上运营"
+      "title_cn": "若昂·洛伦索（João Lourenço）主张有效执行与纳米比亚的协议"
     },
     {
-      "title": "Sonangol e a mineração: diversificar Angola não é diversificar demasiado a Sonangol",
-      "url": "https://angola24horas.com/opiniao/item/35124-sonangol-e-a-mineracao-diversificar-angola-nao-e-diversificar-demasiado-a-sonangol",
-      "source": "Angola 24 Horas",
-      "_key": "bf61970672727ceb",
-      "score": 6,
-      "title_cn": "安哥拉国家石油公司（Sonangol）与采矿业：安哥拉多元化不等于Sonangol过度多元化"
-    },
-    {
-      "title": "BAI Europa confirma colaboração com a PJ após buscas em investigação a fraude fiscal",
-      "url": "https://angola24horas.com/sociedade/item/35178-bai-europa-confirma-colaboracao-com-a-pj-apos-buscas-em-investigacao-a-fraude-fiscal",
-      "source": "Angola 24 Horas",
-      "_key": "ac159e487c59528e",
-      "score": 6,
-      "title_cn": "欧洲BAI银行证实，在税务欺诈调查搜查后与葡萄牙司法警察合作"
-    },
-    {
-      "title": "PJ faz buscas ao Banco BAI em Portugal por suspeitas de fraude fiscal e branqueamento",
-      "url": "https://angola24horas.com/sociedade/item/35159-pj-faz-busca-ao-banco-bai-em-portugal-por-suspeitas-de-fraude-fiscal-e-branqueamento",
-      "source": "Angola 24 Horas",
-      "_key": "2b74836ff99b122d",
-      "score": 6,
-      "title_cn": "葡萄牙司法警察搜查BAI银行，涉嫌税务欺诈和洗钱"
-    },
-    {
-      "title": "Angola melhorou 2 lugares e é o 17.º país com maior incidência de pobreza multidimensional grave",
-      "url": "https://expansao.co.ao/angola/detalhe/angola-melhorou-2-lugares-e-e-o-17-pais-com-maior-incidencia-de-pobreza-multidimensional-grave-75411.html",
-      "source": "Expansão",
-      "_key": "4de8e441be7fd8d0",
-      "score": 6,
-      "title_cn": "安哥拉排名上升2位，仍是多维严重贫困发生率第17高的国家"
-    },
-    {
-      "title": "Passageiros dizem que gastam menos com comboio do que com carro ou táxi",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_b226208413c5ce",
-      "score": 6,
-      "title_cn": "乘客称乘火车比乘汽车或出租车花费更少"
-    },
-    {
-      "title": "XI FÓRUM SEGUROS do EXPANSÃO: \"O Papel dos Seguros Obrigatórios e da Resseguradora Nacional\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/xi-forum-seguros-do-expansao-o-papel-dos-seguros-obrigatorios-e-da-resseguradora-nacional-75488.html",
-      "source": "Expansão",
-      "_key": "084b88755fe94dba",
-      "score": 6,
-      "title_cn": "第十一届EXPANSÃO保险论坛：“强制保险与国家再保险公司的作用”"
-    },
-    {
-      "title": "Marido foi condenado a 9 anos de prisão a pagar uma indemnização de 4,5 mil milhões de dólares ao Estado angolano e perda de todos os bens: Irene Neto diz-se vítima dos tribunais portugueses",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_f1bf4a59ffb042",
-      "score": 6,
-      "title_cn": "丈夫被判9年监禁，赔偿安哥拉国家45亿美元并没收全部财产；艾琳·内托（Irene Neto）称自己是葡萄牙法院的受害者"
-    },
-    {
-      "title": "Governador de Luanda nega conflito de interesses e diz que obras realizadas em Luanda pela sua empresa (Omatapalo) foram acordadas antes da sua nomeação",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_8d1fe594aaf021",
-      "score": 6,
-      "title_cn": "罗安达省长否认利益冲突，称其公司（Omatapalo）在罗安达的工程在其任命前已达成协议"
-    },
-    {
-      "title": "Comandante-Geral defende cooperação internacional para uniformizar procedimentos policiais",
-      "url": "",
-      "source": "Na Mira do Crime",
-      "_key": "t_3a457902551ca4",
-      "score": 6,
-      "title_cn": "总司令主张国际合作以统一警务程序"
-    },
-    {
-      "title": "    Corrupção Marido foi condenado a 9 anos de prisão a pagar uma indemnização de 4,5 mil milhões de dólares ao Estado angolano e perda de todos os bens: Irene Neto diz-se vítima dos tribunais portugueses Irene Neto viu dezenas de contas bancárias suas e dos filhos congeladas em Portugal a pedido das autoridades de Angola, no âmbito de um proc... ",
-      "url": "https://namiradocrime.info/show/17824",
-      "source": "Na Mira do Crime",
-      "_key": "c9254ff48aca2e5a",
-      "score": 6,
-      "title_cn": "腐败案：丈夫被判9年监禁，赔偿安哥拉国家45亿美元并没收全部财产；艾琳·内托（Irene Neto）称自己是葡萄牙法院的受害者"
-    },
-    {
-      "title": "    Sociedade Quadro da Sonangol condenado em França por contrabandear mais de 11 mil maços de cigarro A Sonangol Distribuição & Comercialização (SD&C) afastou Yuri Patrício dos Santos Alberto do cargo de supervisor operacional da instalação d... ",
-      "url": "https://namiradocrime.info/show/17823",
-      "source": "Na Mira do Crime",
-      "_key": "3e5f9aa5d82b4937",
-      "score": 6,
-      "title_cn": "安哥拉国家石油公司（Sonangol）高管因走私1.1万多包香烟在法国被判刑"
-    },
-    {
-      "title": "Polícia Nacional na Huíla recebe 33 novos meios para reforçar segurança pública",
-      "url": "https://opais.ao/sociedade/policia-nacional-na-huila-recebe-33-novos-meios-para-reforcar-seguranca-publica/",
-      "source": "O País",
-      "_key": "3d4cd20204650597",
-      "score": 6,
-      "title_cn": "威拉省国家警察获33套新装备以加强公共安全"
-    },
-    {
-      "title": "ARSEG exige que seguradoras adoptem matriz para avaliar riscos socioambientais",
-      "url": "https://valoreconomico.co.ao/artigo/arseg-exige-que-seguradoras-adoptem-matriz-para-avaliar-riscos-socioambientais",
+      "title": "80% dos trabalhadores da Lunda Sul continuam na informalidade",
+      "url": "https://valoreconomico.co.ao/artigo/80-dos-trabalhadores-da-lunda-sul-continuam-na-informalidade",
       "source": "Valor Económico",
-      "_key": "3e766f5a51e1d8e0",
+      "_key": "9354bbf8e6b2b5c8",
       "score": 6,
-      "title_cn": "安哥拉保险监管局（ARSEG）要求保险公司采用矩阵评估社会环境风险"
+      "title_cn": "南隆达省80%工人仍处于非正规就业"
     },
     {
-      "title": "TAAG reforça gestão da rota Luanda–Cabinda e liberta cerca de 9.800 lugares",
-      "url": "https://angola24horas.com/angola-24-horas-noticias/item/35131-taag-reforca-gestao-da-rota-luanda-cabinda-e-liberta-cerca-de-9-800-lugares",
-      "source": "Angola 24 Horas",
-      "_key": "3b9e4feb2297f759",
+      "title": "Economia",
+      "url": "https://www.jornaldeangola.ao/noticias/0/4/economia",
+      "source": "Jornal de Angola",
+      "_key": "783405706b8412fc",
       "score": 5,
-      "title_cn": "安哥拉航空（TAAG）加强罗安达-卡宾达航线管理，释放约9800个座位"
+      "title_cn": "经济"
     },
     {
-      "title": "Constituição angolana “não é democrática” e gera instabilidade, afirma UNITA",
-      "url": "https://angola24horas.com/component/k2/item/35184-constituicao-angolana-nao-e-democratica-e-gera-instabilidade-afirma-unita",
-      "source": "Angola 24 Horas",
-      "_key": "425a1db0d3a62718",
-      "score": 5,
-      "title_cn": "安盟（UNITA）称安哥拉宪法“不民主”并制造不稳定"
-    },
-    {
-      "title": "PRA-JA mobiliza estruturas provinciais e municipais para impedir desvio de urnas e duplicação de votos em 2027",
-      "url": "https://angola24horas.com/component/k2/item/35179-pra-ja-mobiliza-estruturas-provinciais-e-municipais-para-impedir-desvio-de-urnas-e-duplicacao-de-votos-em-2027",
-      "source": "Angola 24 Horas",
-      "_key": "a739b57c9a272b1e",
-      "score": 5,
-      "title_cn": "PRA-JA动员省市机构，阻止2027年投票箱转移和重复投票"
-    },
-    {
-      "title": "UNITA contesta voto único para Presidente e Parlamento e exige revisão da Constituição",
-      "url": "https://angola24horas.com/component/k2/item/35162-unita-contesta-voto-unico-para-presidente-e-parlamento-e-exige-revisao-da-constituicao",
-      "source": "Angola 24 Horas",
-      "_key": "327e553b553c8fdc",
-      "score": 5,
-      "title_cn": "安盟（UNITA）反对总统和议会单一投票制，要求修改宪法"
-    },
-    {
-      "title": "«A televisão pública diz só MPLA, MPLA, MPLA»: Chivukuvuku denuncia «fraude» antes de 2027 e questiona independência da …",
-      "url": "https://angola24horas.com/component/k2/item/35154-a-televisao-publica-diz-so-mpla-mpla-mpla-chivukuvuku-denuncia-fraude-antes-de-2027-e-questiona-independencia-da-cne",
-      "source": "Angola 24 Horas",
-      "_key": "7a1754b562137369",
-      "score": 5,
-      "title_cn": "希武库武库（Chivukuvuku）谴责2027年前的“欺诈”，质疑公共电视台独立性"
-    },
-    {
-      "title": "Constituição angolana “não é democrática” e gera instabilidade — UNITA",
-      "url": "https://jornaloguardiao.com/2026/10/19/constituicao-angolana-nao-e-democratica-e-gera-instabilidade-unita/",
-      "source": "Jornal O Guardião",
-      "_key": "5d487cfa7455c918",
-      "score": 5,
-      "title_cn": "安盟（UNITA）称安哥拉宪法“不民主”并制造不稳定"
-    },
-    {
-      "title": " Constituição angolana “não é democrática” e gera instabilidade — UNITA ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_64708c6f6cc02c",
-      "score": 5,
-      "title_cn": "安盟（UNITA）称安哥拉宪法“不民主”并制造不稳定"
-    },
-    {
-      "title": "    Política Governador de Luanda nega conflito de interesses e diz que obras realizadas em Luanda pela sua empresa (Omatapalo) foram acordadas antes da sua nomeação ​O governador da província de Luanda, Luís Nunes, rejeitou categoricamente, nesta segunda-feira, 19, as acusações que o apontam como benefic... ",
-      "url": "https://namiradocrime.info/show/17822",
-      "source": "Na Mira do Crime",
-      "_key": "505cb01fa2f318c5",
-      "score": 5,
-      "title_cn": "罗安达省长否认利益冲突，称其公司（Omatapalo）在罗安达的工程在其任命前已达成协议"
-    },
-    {
-      "title": "    Política Comandante-Geral defende cooperação internacional para uniformizar procedimentos policiais O Comandante-Geral da Polícia Nacional de Angola (PNA), Comissário-Geral Francisco Monteiro Ribas da Silva, defendeu, nesta segunda-feira, 1... ",
-      "url": "https://namiradocrime.info/show/17821",
-      "source": "Na Mira do Crime",
-      "_key": "8994fdf92438908b",
-      "score": 5,
-      "title_cn": "总司令主张国际合作以统一警务程序"
-    },
-    {
-      "title": "ONG pedem inclusão imediata da legislação autárquica...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/ong-pedem-inclusao-imediata-da-legislacao-autarquica-na-agenda-parlamentar-75487.html",
-      "source": "Novo Jornal",
-      "_key": "fefa6510197a48a9",
-      "score": 5,
-      "title_cn": "非政府组织呼吁立即纳入地方自治立法"
-    },
-    {
-      "title": "ELAS EM FOCO: POLÍTICA E SOCIEDADE EM FOCO. DISCURSO DO ESTADO DA NAÇÃOREALOJAMENTO DOS ANGOLANOS REGRESSADOS DA ÁFRICA DO SUL.",
-      "url": "https://marginal.co.ao/programas/elas-em-foco?ep=75470",
-      "source": "Novo Jornal",
-      "_key": "3d7a831e246b410d",
-      "score": 5,
-      "title_cn": "聚焦女性：政治与社会。国情咨文：南非归国安哥拉人安置问题"
-    },
-    {
-      "title": "Governo de Luanda reabre três ruas no quadro da requalificação do Nova Vida",
-      "url": "https://opais.ao/ultima_hora/governo-de-luanda-reabre-tres-ruas-no-quadro-da-requalificacao-do-nova-vida/",
+      "title": "Presidente da Namíbia termina visita de Estado a Angola",
+      "url": "https://opais.ao/politica/presidente-da-namibia-termina-visita-de-estado-a-angola/",
       "source": "O País",
-      "_key": "85b63b8102f9cef3",
+      "_key": "576d18e5086b1863",
       "score": 5,
-      "title_cn": "罗安达政府在“新生活”改造框架下重开三条街道"
-    },
-    {
-      "title": "João Lourenço reúne-se com homóloga namibiana no Palácio Presidencial",
-      "url": "https://opais.ao/politica/joao-lourenco-reune-se-com-homologa-namibiana-no-palacio-presidencial/",
-      "source": "O País",
-      "_key": "02cf81192940faa3",
-      "score": 5,
-      "title_cn": "若昂·洛伦索（João Lourenço）在总统府会见纳米比亚总统"
-    },
-    {
-      "title": "Mais de sete mil pensionistas irregulares retirados do sistema do ISS das FAA",
-      "url": "https://opais.ao/politica/mais-de-sete-mil-pensionistas-irregulares-retirados-do-sistema-do-iss-das-faa/",
-      "source": "O País",
-      "_key": "8dfc03e024cba41f",
-      "score": 5,
-      "title_cn": "超过7000名不合规养老金领取者被从武装部队社会保障系统移除"
-    },
-    {
-      "title": "Falta de unidades de conservação ameaça escoamento do tomate, alertam...",
-      "url": "https://valoreconomico.co.ao/artigo/falta-de-unidades-de-conservacao-ameaca-escoamento-do-tomate-alertam-agronomos",
-      "source": "Valor Económico",
-      "_key": "3c311f969a04e9b2",
-      "score": 5,
-      "title_cn": "缺乏保鲜设施威胁番茄销售，专家警告"
-    },
-    {
-      "title": "“Não faço negócios comigo próprio”: Luís Nunes rejeita conflito de...",
-      "url": "https://valoreconomico.co.ao/artigo/nao-faco-negocios-comigo-proprio-luis-nunes-rejeita-conflito-de-interesses-e-desafia-criticos",
-      "source": "Valor Económico",
-      "_key": "990bf82e59cc1486",
-      "score": 5,
-      "title_cn": "路易斯·努内斯（Luís Nunes）否认利益冲突：“我不会和自己做生意”"
+      "title_cn": "纳米比亚总统结束对安哥拉国事访问"
     }
   ]
 }
