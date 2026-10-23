@@ -1,424 +1,160 @@
 {
   "date": "2026-10-23",
-  "total_new": 135,
-  "total_filtered": 52,
+  "total_new": 51,
+  "total_filtered": 19,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "SME vai conceder vistos de trabalho a estrangeiros...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/sme-vai-conceder-vistos-de-trabalho-a-estrangeiros-que-trabalham-em-empresas-legais-no-pais-programa-de-regularizacao-arranca-no-proximo-mes-75574.html",
-      "source": "Novo Jornal",
-      "_key": "b3b7ead0914590ec",
+      "title": "Petróleo Brent sobe e atinge os 115 dólares por barril...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-sobe-e-atinge-os-115-dolares-por-barril-em-meio-a-tensao-no-medio-oriente",
+      "source": "Valor Económico",
+      "_key": "9c8cf5108367a2f4",
       "score": 10,
-      "title_cn": "移民局将向外国人发放工作签证。"
+      "title_cn": "布伦特原油价格上涨，每桶达115美元。"
     },
     {
-      "title": "Petróleo: Semana termina \"on fire\" nos mercados internacionais...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-semana-termina-on-fire-nos-mercados-internacionais-por-causa-do-fogo-que-consome-as-infra-estruturas-energeticas-na-arabia-saudita-75550.html",
-      "source": "Novo Jornal",
-      "_key": "cc161a7f03c1c0b8",
-      "score": 10,
-      "title_cn": "石油：国际市场本周“火爆”收官。"
-    },
-    {
-      "title": "GAFI revê progressos da lista cinzenta para a semana",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_1ff892e3cc30d7",
-      "score": 9,
-      "title_cn": "金融行动特别工作组（GAFI）审查本周灰名单进展。"
-    },
-    {
-      "title": "GAFI revê progressos da lista cinzenta para a semanaA primeira reunião plenária do Grupo de Acção Financeira (GA FI) sob a presidência do britânico Giles Thomson decorre em Paris, entre 28 e 30 de Outubro de 2026. A reunião encerra a Semana do GAFI, que começa a 26 de Outubro. Delegados de mais de 200 jurisdições e organizações observadoras da Rede Global do GAFI vão reunir-se para discutir \"as ameaças em evolução à integridade e à segurança financeira global\".",
-      "url": "https://expansao.co.ao/angola/detalhe/gafi-reve-progressos-da-lista-cinzenta-para-a-semana-75544.html",
-      "source": "Expansão",
-      "_key": "7ce24e3395119df0",
-      "score": 9,
-      "title_cn": "金融行动特别工作组（GAFI）在巴黎召开全体会议，审查灰名单进展。"
-    },
-    {
-      "title": "Governo abre concurso público para extensão da rede...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-abre-concurso-publico-para-extensao-da-rede-de-banda-larga-75556.html",
-      "source": "Novo Jornal",
-      "_key": "003ce8e60adc47cf",
-      "score": 9,
-      "title_cn": "政府启动网络扩展公开招标。"
-    },
-    {
-      "title": "PR autoriza mais 70 milhões de dólares para a transformação...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-mais-70-milhoes-de-dolares-para-a-transformacao-digital-do-pais",
-      "source": "Valor Económico",
-      "_key": "3351bf26806914da",
-      "score": 9,
-      "title_cn": "总统批准追加7000万美元用于转型项目。"
-    },
-    {
-      "title": "Poucas oportunidades e concorrência desleal mancham lei do Conteúdo Local",
-      "url": "https://diariodosnegocios.com/poucas-oportunidades-e-concorrencia-desleal-mancham-lei-do-conteudo-local/",
+      "title": "Estrangeiros irregulares com emprego formal podem legalizar situação a partir de 5 de Novembro",
+      "url": "https://diariodosnegocios.com/estrangeiros-irregulares-com-emprego-formal-podem-legalizar-situacao-a-partir-de-5-de-novembro/",
       "source": "Diário dos Negócios",
-      "_key": "287c6b2ea54acaa8",
-      "score": 8,
-      "title_cn": "机会匮乏与不正当竞争玷污本地内容法。"
+      "_key": "a4cb2c01c1490cdd",
+      "score": 9,
+      "title_cn": "11月5日起，有正式工作的非法外国人可合法化身份。"
     },
     {
-      "title": "Barreira linguística trava expansão de empresas lusófonas na China, alerta CNLP",
-      "url": "https://forbesafricalusofona.com/barreira-linguistica-trava-expansao-de-empresas-lusofonas-na-china-alerta-cnlp/",
-      "source": "Forbes África",
-      "_key": "7111bad6db36a1fb",
-      "score": 8,
-      "title_cn": "CNLP警告：语言障碍阻碍葡语国家企业在华扩张。"
-    },
-    {
-      "title": "Ministro de Estado destaca diversificação económica e investimento privado na cimeira do Financial Times",
-      "url": "https://opais.ao/economia/ministro-de-estado-destaca-diversificacao-economica-e-investimento-privado-na-cimeira-do-financial-times/",
-      "source": "O País",
-      "_key": "a4bec736198c650d",
-      "score": 8,
-      "title_cn": "国务部长在《金融时报》峰会强调经济多元化和私人投资。"
-    },
-    {
-      "title": "Governo aprova plano ‘Investe Turismo’ para atrair capital privado ao...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-aprova-plano-investe-turismo-para-atrair-capital-privado-ao-sector",
-      "source": "Valor Económico",
-      "_key": "877f455f41781c3d",
-      "score": 8,
-      "title_cn": "政府批准“投资旅游”计划，以吸引私人资本…"
-    },
-    {
-      "title": "PR autoriza 50 milhões USD para levar banda larga a zonas sem cobertura, mas OGE prevê 67 milhões",
-      "url": "https://diariodosnegocios.com/pr-autoriza-50-milhoes-usd-para-levar-banda-larga-a-zonas-sem-cobertura-mas-oge-preve-67-milhoes/",
-      "source": "Diário dos Negócios",
-      "_key": "00d6171377d2d684",
-      "score": 7,
-      "title_cn": "总统批准5000万美元用于无宽带覆盖区，但国家预算预计6700万。"
-    },
-    {
-      "title": "Estado gastou mais de 750 milhões USD em veículos no ano passado",
-      "url": "https://diariodosnegocios.com/estado-gastou-mais-de-750-milhoes-usd-em-veiculos-no-ano-passado/",
-      "source": "Diário dos Negócios",
-      "_key": "e94f5f7dec219504",
-      "score": 7,
-      "title_cn": "去年政府在车辆上花费超过7.5亿美元。"
-    },
-    {
-      "title": "Estado gastou mais de 750 milhões USD em veículos no ano passado",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_8a8ee496fd0fbe",
-      "score": 7,
-      "title_cn": "去年政府在车辆上花费超过7.5亿美元。"
-    },
-    {
-      "title": "Do fisco ao crédito | Pode a conformidade fiscal abrir o financiamento às PMEs angolanas?",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_8c36a2db7c8b17",
-      "score": 7,
-      "title_cn": "从税务到信贷：税务合规能否为安哥拉中小企业打开融资渠道？"
-    },
-    {
-      "title": "Estado gastou mais de 750 milhões USD em veículos no ano passadoA administração pública e as empresas estatais tinham em sua posse um total de 73.341 veículos no final de 2025. Em três anos, a compra de veículos já ultrapassa os 1.100 milhões USD. O aumento ocorre num ano de aperto orçamental e num país onde a viatura de serviço continua a ser sinal de estatuto na administração pública.",
-      "url": "https://expansao.co.ao/angola/detalhe/estado-gastou-mais-de-750-milhoes-usd-em-veiculos-no-ano-passado-75543.html",
-      "source": "Expansão",
-      "_key": "9987d2d2bd6c5ac0",
-      "score": 7,
-      "title_cn": "去年政府在车辆上花费逾7.5亿美元，公共部门和国企拥有73341辆车。"
-    },
-    {
-      "title": "CONVIDADOWilson AfonsoDo fisco ao crédito | Pode a conformidade fiscal abrir o financiamento às PMEs angolanas?",
-      "url": "https://expansao.co.ao/opiniao/detalhe/do-fisco-ao-credito-pode-a-conformidade-fiscal-abrir-o-financiamento-as-pmes-angolanas-75499.html",
-      "source": "Expansão",
-      "_key": "2d28653782ccc2db",
-      "score": 7,
-      "title_cn": "嘉宾Wilson Afonso（威尔逊·阿丰索）：税务合规能否为安哥拉中小企业融资？"
-    },
-    {
-      "title": "Namíbia e Angola querem reforçar capacidade produtiva e…",
-      "url": "https://holdonangola.com/namibia-e-angola-querem-reforcar-capacidade-produtiva-e-comercio-regional/",
-      "source": "Hold On Angola",
-      "_key": "0b1e3d154789bed7",
-      "score": 7,
-      "title_cn": "纳米比亚和安哥拉旨在加强生产能力。"
-    },
-    {
-      "title": "Política Discurso proferido pelo Presidente João Lourenço na abertura da 4.ª da Bienal de Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688005/discurso-proferido-pelo-presidente-jo%C3%A3o-louren%C3%A7o-na-abertura-da-4.%C2%AA-da-bienal-de-luanda",
-      "source": "Jornal de Angola",
-      "_key": "ffd1cdec37edba0e",
-      "score": 7,
-      "title_cn": "政治：若昂·洛伦索总统在第四届罗安达双年展上的开幕致辞。"
-    },
-    {
-      "title": "João Lourenço diz que projectos contra a seca estão a mudar a realidade do sul de Angola",
-      "url": "https://correiokianda.info/joao-lourenco-diz-que-projectos-contra-a-seca-estao-a-mudar-a-realidade-do-sul-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "63c3830b973f818e",
-      "score": 6,
-      "title_cn": "若昂·洛伦索称抗旱项目正改变安哥拉南部现状。"
-    },
-    {
-      "title": "        África7 horas atrás  Violência xenófoba volta a fazer vítima mortal na África do Sul Um cidadão estrangeiro morreu esta sexta-feira, na cidade de Durban, na África do Sul, após ser espancado por um grupo de cerca de 50 pessoas, num...   ",
-      "url": "https://correiokianda.info/violencia-xenofoba-volta-a-fazer-vitima-mortal-na-africa-do-sul/",
-      "source": "Correio Kianda",
-      "_key": "1bfd8c987bd8389c",
-      "score": 6,
-      "title_cn": "南非仇外暴力再致死：一外国公民在德班遭殴打身亡。"
-    },
-    {
-      "title": "“Precisamos que a agricultura venha ter connosco, que ganhe tracção, ganhe velocidade”",
-      "url": "https://diariodosnegocios.com/precisamos-que-a-agricultura-venha-ter-connosco-que-ganhe-traccao-ganhe-velocidade/",
-      "source": "Diário dos Negócios",
-      "_key": "9c343497c8c3d045",
-      "score": 6,
-      "title_cn": "“我们需要农业发展起来，获得牵引力，加快速度。”"
-    },
-    {
-      "title": "Está a decorrer o XI Fórum Seguros do Expansão sobre o papel dos seguros obrigatórios e resseguro nacional",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_41e8617b6a25ea",
-      "score": 6,
-      "title_cn": "第十一届Expansão保险论坛探讨强制保险和国家再保险的作用。"
-    },
-    {
-      "title": "Está a decorrer o XI Fórum Seguros do Expansão sobre o papel dos seguros obrigatórios e resseguro nacionalEstá a decorrer, no Centro de Convenções de Talatona (CCTA), em Luanda, a 11.ª edição do Fórum Seguros promovido pelo jornal Expansão. Sob o tema \"O Papel dos Seguros Obrigatórios e da Resseguradora Nacional\", o evento reúne especialistas e operadores do sector para analisar os caminhos para o alargamento do mercado e o reforço da capacidade de retenção de prémios no País. O XI Fórum Seguros",
-      "url": "https://expansao.co.ao/empresas/detalhe/esta-a-decorrer-o-xi-forum-seguros-do-expansao-sobre-o-papel-dos-seguros-obrigatorios-e-resseguro-nacional-75555.html",
-      "source": "Expansão",
-      "_key": "fffa1314f3e3617c",
-      "score": 6,
-      "title_cn": "第十一届Expansão保险论坛在罗安达塔拉托纳会议中心举行，探讨强制保险和国家再保险。"
-    },
-    {
-      "title": "HubIE defende descentralização da inovação tecnológica para impulsionar economia no interior de Angola",
-      "url": "https://forbesafricalusofona.com/hubie-defende-descentralizacao-da-inovacao-tecnologica-para-impulsionar-economia-no-interior-de-angola/",
-      "source": "Forbes África",
-      "_key": "25f7522d21987f97",
-      "score": 6,
-      "title_cn": "HubIE主张技术创新去中心化，以推动安哥拉内陆经济发展。"
-    },
-    {
-      "title": "Angola é classificada como autocracia eleitoral no relatório do V-Dem de 2026",
-      "url": "https://holdonangola.com/angola-e-classificada-como-autocracia-eleitoral-no-relatorio-do-v-dem-de-2026/",
-      "source": "Hold On Angola",
-      "_key": "b264669bb647a860",
-      "score": 6,
-      "title_cn": "2026年V-Dem报告将安哥拉列为选举式独裁国家。"
-    },
-    {
-      "title": "João Lourenço exonera e renomeia administração do Instituto…",
-      "url": "https://holdonangola.com/joao-lourenco-exonera-e-renomeia-administracao-do-instituto-geologico-de-angola/",
-      "source": "Hold On Angola",
-      "_key": "48137d1ccae53b13",
-      "score": 6,
-      "title_cn": "若昂·洛伦索解雇并重新任命研究所管理层。"
-    },
-    {
-      "title": "Angola capacita técnicos do sector eléctrico em normas electrotécnicas",
-      "url": "https://holdonangola.com/angola-capacita-tecnicos-do-sector-electrico-em-normas-electrotecnicas/",
-      "source": "Hold On Angola",
-      "_key": "b73b826444335170",
-      "score": 6,
-      "title_cn": "安哥拉培训电力行业技术人员掌握电工标准。"
-    },
-    {
-      "title": "Regiões Expo-Icolo e Bengo divulga potencialidades ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/688020/expo-icolo-e-bengo-divulga-potencialidades",
-      "source": "Jornal de Angola",
-      "_key": "52fb7bb72b21022c",
-      "score": 6,
-      "title_cn": "伊科洛-本戈博览区展示区域潜力。"
-    },
-    {
-      "title": "Política Director-Geral da UNESCO destaca papel de Angola na mediação regional ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688000/director-geral-da-unesco-destaca-papel-de-angola-na-media%C3%A7%C3%A3o-regional",
-      "source": "Jornal de Angola",
-      "_key": "e1233232ad90d61f",
-      "score": 6,
-      "title_cn": "政治：联合国教科文组织总干事强调安哥拉在区域调解中的作用。"
-    },
-    {
-      "title": "10:46 / 23 out. 2026 Vice-Presidente da República lança Campanha Nacional de Vacinação ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688037/vice-presidente-da-rep%C3%BAblica-lan%C3%A7a-campanha-nacional-de-vacina%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "181da061133b7ddf",
-      "score": 6,
-      "title_cn": "共和国副总统启动全国疫苗接种运动。"
-    },
-    {
-      "title": "10:13 / 23 out. 2026 Alterações climáticas e investimentos em água dominam segundo dia da Bienal de Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688030/altera%C3%A7%C3%B5es-clim%C3%A1ticas-e-investimentos-em-%C3%A1gua-dominam-segundo-dia-da-bienal-de-luanda",
-      "source": "Jornal de Angola",
-      "_key": "82befb98b1bb7e07",
-      "score": 6,
-      "title_cn": "气候变化和水资源投资主导罗安达双年展第二天议程。"
-    },
-    {
-      "title": " ''Picolé'' capturado pela população após denúncias de furtos em residências no Cuanza-Sul adminHá 4 horas2 min de leitura",
-      "url": "https://namiradocrime.info/show/17854",
-      "source": "Na Mira do Crime",
-      "_key": "e1b165e2802e8d4f",
-      "score": 6,
-      "title_cn": "南宽扎居民举报盗窃后，绰号“Picolé”的嫌犯被捕。"
-    },
-    {
-      "title": "Crime: Grupo armado com catanas invade autocarro e rouba passageiros – Caso inédito em Angola mas com \"pergaminhos\" noutros países do continente",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/crime-grupo-armado-com-catanas-invade-autocarro-e-rouba-passageiros-caso-inedito-em-angola-mas-com-pergaminhos-noutros-paises-do-continente-75554.html",
-      "source": "Novo Jornal",
-      "_key": "8e2b7137264e9dda",
-      "score": 6,
-      "title_cn": "犯罪：持砍刀武装团伙袭击巴士抢劫乘客，安哥拉首例，非洲大陆其他国家常见。"
-    },
-    {
-      "title": "Renda, luz, água: como negociar contas e evitar cortes",
-      "url": "https://opais.ao/opiniao/renda-luz-agua-como-negociar-contas-e-evitar-cortes/",
-      "source": "O País",
-      "_key": "a38954466fd05a1a",
-      "score": 6,
-      "title_cn": "租金、水电费：如何协商账单并避免停供。"
-    },
-    {
-      "title": "Sonagás apela ao fim de soluções improvisadas para apertar redutores",
-      "url": "https://valoreconomico.co.ao/artigo/sonagas-apela-ao-fim-de-solucoes-improvisadas-para-apertar-redutores",
-      "source": "Valor Económico",
-      "_key": "6791aa8e840d3e55",
-      "score": 6,
-      "title_cn": "安哥拉国家天然气公司呼吁停止使用临时方案拧紧减压器。"
-    },
-    {
-      "title": "Huíla: delinquência tira sono a munícipes de Cacula",
-      "url": "https://correiokianda.info/huila-delinquencia-tira-sono-a-municipes-de-cacula/",
-      "source": "Correio Kianda",
-      "_key": "b6a265af6e8cf460",
-      "score": 5,
-      "title_cn": "威拉省：卡库拉市居民因犯罪问题夜不能寐。"
-    },
-    {
-      "title": "Tecnologia e dados são a chave para alavancar a penetração dos seguros em Angola",
-      "url": "https://expansao.co.ao/empresas/detalhe/tecnologia-e-dados-sao-a-chave-para-alavancar-a-penetracao-dos-seguros-em-angola-75570.html",
-      "source": "Expansão",
-      "_key": "9035de026b8e1b63",
-      "score": 5,
-      "title_cn": "技术和数据是提升安哥拉保险普及率的关键。"
-    },
-    {
-      "title": "\"Desconcentrar o mercado segurador não é apenas redistribuir quota. É ampliar capacidade, inovação e disciplina técnica\", defende Henda Mondlane Silva",
-      "url": "https://expansao.co.ao/empresas/detalhe/desconcentrar-o-mercado-segurador-nao-e-apenas-redistribuir-quota-e-ampliar-capacidade-inovacao-e-disciplina-tecnica-defende-henda-mondlane-silva-75561.html",
-      "source": "Expansão",
-      "_key": "df0147673644d08e",
-      "score": 5,
-      "title_cn": "Henda Mondlane Silva（亨达·蒙德拉内·席尔瓦）主张：分散保险市场不仅是重新分配份额，更是扩大能力、创新和技术规范。"
-    },
-    {
-      "title": "\"O sucesso deste mercado não se medirá apenas em prémios. Medir-se-á em pessoas protegidas\"",
-      "url": "https://expansao.co.ao/empresas/detalhe/o-sucesso-deste-mercado-nao-se-medira-apenas-em-premios-medir-se-a-em-pessoas-protegidas-75559.html",
-      "source": "Expansão",
-      "_key": "5e91708b3816b67f",
-      "score": 5,
-      "title_cn": "“这个市场的成功不仅体现在保费上，更体现在受保护的人数上。”"
-    },
-    {
-      "title": "\"As seguradoras que recebem os prémios têm a obrigação de indemnizar com solidariedade e transparência\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_b95cbe22a7810d",
-      "score": 5,
-      "title_cn": "“收取保费的保险公司有义务团结透明地进行赔偿。”"
-    },
-    {
-      "title": "\"As seguradoras que recebem os prémios têm a obrigação de indemnizar com solidariedade e transparência\"O presidente da secção angolana da Associação Internacional de Direito dos Seguros (AIDA Angola), Jorge Jay Manuel, defendeu esta quinta-feira, durante o XI Fórum Seguros do Expansão, que as companhias de seguros têm o dever ético e institucional de responder com rigor perante os segurados.",
-      "url": "https://expansao.co.ao/empresas/detalhe/as-seguradoras-que-recebem-os-premios-tem-a-obrigacao-de-indemnizar-com-solidariedade-e-transparencia-75557.html",
-      "source": "Expansão",
-      "_key": "98a1c91a3ec53054",
-      "score": 5,
-      "title_cn": "国际保险法协会安哥拉分会主席表示：“收取保费的保险公司有义务团结透明地进行赔偿。”"
-    },
-    {
-      "title": "Zolana João: o engenheiro que colocou Angola na rota da economia espacial",
-      "url": "https://forbesafricalusofona.com/zolana-joao-o-engenheiro-que-colocou-angola-na-rota-da-economia-espacial/",
-      "source": "Forbes África",
-      "_key": "502ef2d6b99957e5",
-      "score": 5,
-      "title_cn": "Zolana João（佐拉纳·若昂）：将安哥拉带入太空经济轨道的工程师。"
-    },
-    {
-      "title": "João Lourenço defende pacto continental para a governação da água em África",
-      "url": "https://holdonangola.com/joao-lourenco-defende-pacto-continental-para-a-governacao-da-agua-em-africa/",
-      "source": "Hold On Angola",
-      "_key": "d711c8f2bd2eb54c",
-      "score": 5,
-      "title_cn": "若昂·洛伦索倡导非洲大陆水资源治理协议。"
-    },
-    {
-      "title": "Sociedade Agência de Protecção de Dados alerta para riscos em plataformas digitais ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688010/ag%C3%AAncia-de-protec%C3%A7%C3%A3o-de-dados-alerta-para-riscos-em-plataformas-digitais",
-      "source": "Jornal de Angola",
-      "_key": "efb20e4149f9ee80",
-      "score": 5,
-      "title_cn": "社会：数据保护局警告数字平台风险。"
-    },
-    {
-      "title": "12:35 / 23 out. 2026 Mais de 24 milhões de doses de vacinas disponíveis para Campanha Nacional de Vacinação ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688074/mais-de-24-milh%C3%B5es-de-doses-de-vacinas-dispon%C3%ADveis-para-campanha-nacional-de-vacina%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "c92c5346ae50d3f2",
-      "score": 5,
-      "title_cn": "超过2400万剂疫苗可用于全国疫苗接种运动。"
-    },
-    {
-      "title": "Polícia captura bandido que saiu dos Mulenvos para roubar motorizada no Belo Monte com pistola de lodo",
+      "title": "\"Ribeiro\" e \"Adiloy\" do ataque ao carro-forte fizeram arrastão no Ramiros horas antes de fugirem para o Bailundo - Os prejuízos estão avaliados em vários milhões de kwanzas",
       "url": "",
       "source": "Na Mira do Crime",
-      "_key": "t_971e7b7a32f1b1",
-      "score": 5,
-      "title_cn": "警方抓获一名从穆伦沃斯到贝洛蒙特持泥浆枪抢劫摩托车的匪徒。"
+      "_key": "t_ef54eb3487175a",
+      "score": 8,
+      "title_cn": "袭击运钞车的Ribeiro（里贝罗）和Adiloy（阿迪洛伊）在逃往Bailundo（拜伦多）前，于Ramiros（拉米罗斯）抢劫，造成数百万宽扎损失。"
     },
     {
-      "title": "    Assalto Polícia captura bandido que saiu dos Mulenvos para roubar motorizada no Belo Monte com pistola de lodo Efectivos da Polícia Nacional (PN), afectos ao Comando Municipal de Cacuaco, colocados na Esquadra da Handa, no bairro Belo Monte, frustrara... ",
-      "url": "https://namiradocrime.info/show/17858",
+      "title": "    Busca e Captura \"Ribeiro\" e \"Adiloy\" do ataque ao carro-forte fizeram arrastão no Ramiros horas antes de fugirem para o Bailundo - Os prejuízos estão avaliados em vários milhões de kwanzas Dois marginais tidos como altamente perigosos e procurados pelas autoridades policiais, nomeadamente Aldair Luís Macedo Manuel \"Aldair\" ou \"... ",
+      "url": "https://namiradocrime.info/show/17859",
       "source": "Na Mira do Crime",
-      "_key": "3d107a285e0ae322",
-      "score": 5,
-      "title_cn": "抢劫：警方抓获一名从穆伦沃斯到贝洛蒙特持泥浆枪抢劫摩托车的匪徒。"
+      "_key": "071b7301762678e8",
+      "score": 8,
+      "title_cn": "搜捕：袭击运钞车的Ribeiro（里贝罗）和Adiloy（阿迪洛伊）在逃往Bailundo（拜伦多）前，于Ramiros（拉米罗斯）抢劫，损失数百万宽扎。"
     },
     {
-      "title": "Esperança da Costa reafirma compromisso do Executivo com o investimento no sector da saúde",
-      "url": "https://opais.ao/politica/esperanca-da-costa-reafirma-compromisso-do-executivo-com-o-investimento-no-sector-da-saude/",
-      "source": "O País",
-      "_key": "fd9606d9532ce96d",
-      "score": 5,
-      "title_cn": "Esperança da Costa（埃斯佩兰萨·达·科斯塔）重申政府对卫生部门投资的承诺。"
+      "title": "Política Projectos de água criados no país avaliados em 428 mil milhões de dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688103/projectos-de-%C3%A1gua-criados-no-pa%C3%ADs-avaliados-em-428-mil-milh%C3%B5es-de-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "8c0dd4262947ae45",
+      "score": 7,
+      "title_cn": "全国水利项目估值达4280亿美元。"
     },
     {
-      "title": "Apenas 0,2% da população investe no mercado de capitais correspondendo 61 mil angolanos",
-      "url": "https://opais.ao/economia/apenas-02-da-populacao-investe-no-mercado-de-capitais-correspondendo-61-mil-angolanos/",
+      "title": "Sindicato distingue PCA do Porto do Lobito pelo mérito profissional",
+      "url": "https://opais.ao/ultima_hora/sindicato-distingue-pca-do-porto-do-lobito-pelo-merito-profissional/",
       "source": "O País",
-      "_key": "411cf746fbe43988",
-      "score": 5,
-      "title_cn": "仅0.2%人口（6.1万安哥拉人）投资资本市场。"
+      "_key": "731b725e8ee2b99a",
+      "score": 7,
+      "title_cn": "工会表彰洛比托港行政委员会主席的专业成就。"
     },
     {
-      "title": "Imbono, UCT e Universidade de Abu Dhabi firmam parceria para reforçar resiliência das infra-estruturas em África",
-      "url": "https://opais.ao/economia/imbono-uct-e-universidade-de-abu-dhabi-firmam-parceria-para-reforcar-resiliencia-das-infra-estruturas-em-africa/",
-      "source": "O País",
-      "_key": "bb5a453f1a0129de",
-      "score": 5,
-      "title_cn": "Imbono、开普敦大学和阿布扎比大学合作加强非洲基础设施韧性。"
+      "title": "Seca provocada pelo El Niño agrava risco de fome no...",
+      "url": "https://valoreconomico.co.ao/artigo/seca-provocada-pelo-el-nino-agrava-risco-de-fome-no-sudao",
+      "source": "Valor Económico",
+      "_key": "a0d5a2008fae4f5a",
+      "score": 7,
+      "title_cn": "厄尔尼诺现象引发干旱，加剧饥荒风险。"
     },
     {
-      "title": "Instituto Técnico Agrário do Negage passa a beneficiar de Internet via ANGOSAT-2",
-      "url": "https://opais.ao/ultima_hora/instituto-tecnico-agrario-do-negage-passa-a-beneficiar-de-internet-via-angosat-2/",
-      "source": "O País",
-      "_key": "013c51958fd87808",
-      "score": 5,
-      "title_cn": "内加热农业技术学院将通过安哥拉卫星2号接入互联网。"
+      "title": "Política Ministra defende reforço da educação ambiental e investimentos para enfrentar alterações climáticas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688101/ministra-defende-refor%C3%A7o-da-educa%C3%A7%C3%A3o-ambiental-e-investimentos-para-enfrentar-altera%C3%A7%C3%B5es-clim%C3%A1ticas",
+      "source": "Jornal de Angola",
+      "_key": "b754e0d5a090f288",
+      "score": 6,
+      "title_cn": "部长倡导加强环境教育和投资，以应对气候变化。"
     },
     {
-      "title": "Comandante da URP e antigo notário ouvidos em tribunal por suspeita de venda fraudulenta de bens no caso “herança milionária”",
-      "url": "https://opais.ao/sociedade/comandante-da-urp-e-antigo-notario-ouvidos-em-tribunal-por-suspeita-de-venda-fraudulenta-de-bens-no-caso-heranca-milionaria/",
+      "title": "Regiões Barragem do Hita Hita com 23 por cento de execução física ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/688090/barragem-do-hita-hita-com-23-por-cento-de-execu%C3%A7%C3%A3o-f%C3%ADsica",
+      "source": "Jornal de Angola",
+      "_key": "a183378164f2ffd5",
+      "score": 6,
+      "title_cn": "Hita Hita（希塔希塔）大坝工程进度已完成23%。"
+    },
+    {
+      "title": "Ministra do Ambiente defende tratamento das águas residuais para evitar contaminação",
+      "url": "https://opais.ao/sociedade/ministra-do-ambiente-defende-tratamento-das-aguas-residuais-para-evitar-contaminacao/",
       "source": "O País",
-      "_key": "81db037f7fd59bde",
+      "_key": "95cf66d1fa509bd1",
+      "score": 6,
+      "title_cn": "环境部长倡导废水处理，以避免污染。"
+    },
+    {
+      "title": "Ministra defende participação das comunidades nos projectos de desenvolvimento",
+      "url": "https://opais.ao/sociedade/ministra-defende-participacao-das-comunidades-nos-projectos-de-desenvolvimento/",
+      "source": "O País",
+      "_key": "5f7b7eefbc5e8a68",
+      "score": 6,
+      "title_cn": "部长倡导社区参与发展项目。"
+    },
+    {
+      "title": "TAAG conclui recuperação de dois aviões e prevê melhorias na...",
+      "url": "https://valoreconomico.co.ao/artigo/taag-conclui-recuperacao-de-dois-avioes-e-preve-melhorias-na-regularidade-dos-voos",
+      "source": "Valor Económico",
+      "_key": "41c2645da86c9df7",
+      "score": 6,
+      "title_cn": "TAAG航空公司完成两架飞机修复，预计将有改进。"
+    },
+    {
+      "title": "Angola: Standard Bank Financiou Mais de 220 MPME em 14 Meses",
+      "url": "https://diariodosnegocios.com/angola-standard-bank-financiou-mais-de-220-mpme-em-14-meses/",
+      "source": "Diário dos Negócios",
+      "_key": "6fa4ea87ac954d0b",
       "score": 5,
-      "title_cn": "URP指挥官和前公证员因“百万遗产”案涉嫌欺诈性出售资产出庭受审。"
+      "title_cn": "安哥拉：渣打银行14个月内资助逾220家中小微企业。"
+    },
+    {
+      "title": "Timor-Leste e China reforçam diálogo para ampliar comércio e investimento",
+      "url": "https://forbesafricalusofona.com/timor-leste-e-china-reforcam-dialogo-para-ampliar-comercio-e-investimento/",
+      "source": "Forbes África",
+      "_key": "c32b052074254b2c",
+      "score": 5,
+      "title_cn": "东帝汶与中国加强对话，扩大贸易和投资。"
+    },
+    {
+      "title": "Especialistas defendem inclusão das comunidades na governação da água",
+      "url": "https://opais.ao/ultima_hora/especialistas-defendem-inclusao-das-comunidades-na-governacao-da-agua/",
+      "source": "O País",
+      "_key": "66c60a8e347465e1",
+      "score": 5,
+      "title_cn": "专家倡导社区参与水资源治理。"
+    },
+    {
+      "title": "Governo desembolsa mais de 500 milhões de kwanzas para edifício do INEMA",
+      "url": "https://opais.ao/ultima_hora/governo-desembolsa-mais-de-500-milhoes-de-kwanzas-para-edificio-do-inema/",
+      "source": "O País",
+      "_key": "e46376cd3588b64c",
+      "score": 5,
+      "title_cn": "政府拨款逾5亿宽扎用于INEMA大楼建设。"
+    },
+    {
+      "title": "União Africana defende protecção das infra-estruturas hídricas em zonas de conflito",
+      "url": "https://opais.ao/politica/uniao-africana-defende-proteccao-das-infra-estruturas-hidricas-em-zonas-de-conflito/",
+      "source": "O País",
+      "_key": "3580f2a8fcdb67eb",
+      "score": 5,
+      "title_cn": "非盟倡导保护冲突地区的水利基础设施。"
+    },
+    {
+      "title": "Ministros e jovens líderes preparam propostas sobre água e prevenção de conflitos em África",
+      "url": "https://opais.ao/politica/ministros-e-jovens-lideres-preparam-propostas-sobre-agua-e-prevencao-de-conflitos-em-africa/",
+      "source": "O País",
+      "_key": "d4ad730623e53d31",
+      "score": 5,
+      "title_cn": "部长和青年领袖为非洲水资源与冲突预防准备提案。"
+    },
+    {
+      "title": "Standard Bank ultrapassa UNITEL e reassume o topo das negociações...",
+      "url": "https://valoreconomico.co.ao/artigo/standard-bank-ultrapassa-unitel-e-reassume-o-topo-das-negociacoes-na-bodiva",
+      "source": "Valor Económico",
+      "_key": "f946124aed7c08a9",
+      "score": 5,
+      "title_cn": "渣打银行超越UNITEL，重回谈判榜首。"
     }
   ]
 }
