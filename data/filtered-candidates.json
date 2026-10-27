@@ -1,385 +1,483 @@
 {
-  "date": "2026-10-26",
-  "total_new": 135,
-  "total_filtered": 54,
+  "date": "2026-10-27",
+  "total_new": 152,
+  "total_filtered": 68,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Corredor do Lobito identifica oportunidades de negócio de 13 mil milhões de dólares",
-      "url": "https://forbesafricalusofona.com/corredor-do-lobito-identifica-oportunidades-de-negocio-de-13-mil-milhoes-de-dolares/",
-      "source": "Forbes África",
-      "_key": "464e58a07e2ad7de",
+      "title": "Economia Destacado papel do Corredor do Lobito na promoção do comércio na SADC ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688351/destacado-papel-do-corredor-do-lobito-na-promo%C3%A7%C3%A3o-do-com%C3%A9rcio-na-sadc",
+      "source": "Jornal de Angola",
+      "_key": "f545fbd7ca3fb6bb",
       "score": 10
     },
     {
-      "title": "Política Angola participa nas reuniões dos países exportadores de petróleo em Moscovo ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688296/angola-participa-nas-reuni%C3%B5es-dos-pa%C3%ADses-exportadores-de-petr%C3%B3leo-em-moscovo",
-      "source": "Jornal de Angola",
-      "_key": "ebbaaea544c8e230",
+      "title": "Falso funcionário de embaixadas detido em Luanda por burlar cidadãos com promessas de vistos",
+      "url": "https://angola24horas.com/sociedade/item/35195-falso-funcionario-de-embaixadas-detido-em-luanda-por-burlar-cidadaos-com-promessas-de-vistos",
+      "source": "Angola 24 Horas",
+      "_key": "de69a0f68f1b036a",
       "score": 9
     },
     {
-      "title": "Subsídios aos combustíveis disparam para 4,2 mil milhões USD este ano",
-      "url": "https://expansao.co.ao/angola/detalhe/subsidios-aos-combustiveis-disparam-para-42-mil-milhoes-usd-este-ano-75587.html",
+      "title": "Angola prepara-se para entrar nos mercados de dívida da China e do mundo islâmico",
+      "url": "https://angola24horas.com/economia/item/35200-angola-prepara-se-para-entrar-nos-mercados-de-divida-da-china-e-do-mundo-islamico",
+      "source": "Angola 24 Horas",
+      "_key": "bbdb699de54fd64d",
+      "score": 9
+    },
+    {
+      "title": "Preços no produtor disparam 28,7% em Setembro com pressão da indústria petrolífera",
+      "url": "https://correiokianda.info/precos-no-produtor-disparam-287-em-setembro-com-pressao-da-industria-petrolifera/",
+      "source": "Correio Kianda",
+      "_key": "7b37bae4ee88243c",
+      "score": 9
+    },
+    {
+      "title": "Produção petrolífera estagna, mas receitas fiscais sobem 1.200 milhões USD à boleia dos preços",
+      "url": "https://expansao.co.ao/economia/detalhe/producao-petrolifera-estagna-mas-receitas-fiscais-sobem-1200-milhoes-usd-a-boleia-dos-precos-75625.html",
       "source": "Expansão",
-      "_key": "77fd755f6e894952",
+      "_key": "c865ee76c410f29c",
+      "score": 9
+    },
+    {
+      "title": "Destaque Executivo elimina certificado de habitabilidade para actividades económicasO Executivo anunciou, hoje, a eliminação da exigência do certificado de habitabilidade para o exercício de actividades económicas, no quadro das medidas destinadas à melhoria contínua do ambiente de negócios no país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688352/executivo-elimina-certificado-de-habitabilidade-para-actividades-econ%C3%B3micas",
+      "source": "Jornal de Angola",
+      "_key": "b4fc343cb6c0458b",
+      "score": 9
+    },
+    {
+      "title": "Destaque Angola participa no Fórum de Investimento RIF 2026 na RDCAngola participa, desde segunda-feira, na 3.ª edição do Fórum de Investimento em Infraestruturas de Transportes e Logística (RIF 2026), que decorre na República Democrática do Congo (RDC).",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688341/angola-participa-no-f%C3%B3rum-de-investimento-rif-2026-na-rdc",
+      "source": "Jornal de Angola",
+      "_key": "c31a306a6e098dea",
+      "score": 9
+    },
+    {
+      "title": "Destaque OGE de 2027 prevê receitas e despesas de 37,34 biliões de kwanzasO Orçamento Geral do Estado (OGE) para 2027, instrumento que reflecte a política económica e financeira do Estado, prevê receitas e despesas na ordem dos 37,34 biliões de kwanzas.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688354/oge-de-2027-prev%C3%AA-receitas-e-despesas-de-3734-bili%C3%B5es-de-kwanzas",
+      "source": "Jornal de Angola",
+      "_key": "1f0c88182a88a3b8",
+      "score": 9
+    },
+    {
+      "title": "Política Falta de consenso suspende votação do Imposto sobre Rendimento das Pessoas Colectivas ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688333/falta-de-consenso-suspende-vota%C3%A7%C3%A3o--do-imposto-sobre-rendimento-das-pessoas-colectivas",
+      "source": "Jornal de Angola",
+      "_key": "bf43ed3f5400bfb2",
+      "score": 9
+    },
+    {
+      "title": "Passageiros da Macon atacados com catanas durante assalto a autocarro em Luanda",
+      "url": "https://angola24horas.com/sociedade/item/35212-passageiros-da-macon-atacados-com-catanas-durante-assalto-a-autocarro-em-luanda",
+      "source": "Angola 24 Horas",
+      "_key": "793ddd1dd710a3ef",
+      "score": 8
+    },
+    {
+      "title": "AGT e Policia angolana vão reforçar fiscalização nas fronteiras para travar práticas ilícitas",
+      "url": "https://angola24horas.com/sociedade/item/35211-agt-e-policia-angolana-vao-reforcar-fiscalizacao-nas-fronteiras-para-travar-praticas-ilicitas",
+      "source": "Angola 24 Horas",
+      "_key": "46dddb01e15180fd",
+      "score": 8
+    },
+    {
+      "title": "Governo cria equipa multidisciplinar para revelar donos de 'empresas fantasma' em Angola",
+      "url": "https://angola24horas.com/sociedade/item/35207-governo-cria-equipa-multidisciplinar-para-revelar-donos-de-empresas-fantasma-em-angola",
+      "source": "Angola 24 Horas",
+      "_key": "4cdcfc6adef8dab8",
+      "score": 8
+    },
+    {
+      "title": "Materiais de construção com subida mais lenta em Setembro",
+      "url": "https://correiokianda.info/materiais-de-construcao-com-subida-mais-lenta-em-setembro/",
+      "source": "Correio Kianda",
+      "_key": "4528707d894d9d7c",
+      "score": 8
+    },
+    {
+      "title": "Estado usa dívida de 9 milhões USD de obra concluída para obter empréstimo de 105 milhões",
+      "url": "https://expansao.co.ao/angola/detalhe/estado-usa-divida-de-9-milhoes-usd-de-obra-concluida-para-obter-emprestimo-de-105-milhoes-75624.html",
+      "source": "Expansão",
+      "_key": "fba5924985badd46",
+      "score": 8
+    },
+    {
+      "title": "Cadeia de frio serve de ensaio à futura Plataforma Logística da Caála",
+      "url": "https://expansao.co.ao/angola/detalhe/cadeia-de-frio-serve-de-ensaio-a-futura-plataforma-logistica-da-caala-75627.html",
+      "source": "Expansão",
+      "_key": "34d4056b9e2fae74",
+      "score": 8
+    },
+    {
+      "title": "Investimento ganha peso no segundo mandato, pobreza, fome e corrupção perdem força",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_289a0b55737318",
       "score": 8
     },
     {
       "title": "Construir continua mais caro apesar da forte desaceleração dos preços dos materiais",
-      "url": "https://expansao.co.ao/angola/detalhe/construir-continua-mais-caro-apesar-da-forte-desaceleracao-dos-precos-dos-materiais-75588.html",
+      "url": "",
       "source": "Expansão",
-      "_key": "2d4c44cdadf965c7",
+      "_key": "t_e95e4cc92fd592",
       "score": 8
     },
     {
-      "title": "Será o turismo o novo petróleo de Angola?",
-      "url": "https://forbesafricalusofona.com/sera-o-turismo-o-novo-petroleo-de-angola/",
+      "title": "\"Precisamos que a agricultura venha ter connosco, que ganhe tracção, ganhe velocidade\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/precisamos-que-a-agricultura-venha-ter-connosco-que-ganhe-traccao-ganhe-velocidade-75626.html",
+      "source": "Expansão",
+      "_key": "a934f2f776fe7fb3",
+      "score": 8
+    },
+    {
+      "title": "AIPEX considera privatizações um sinal de abertura ao investimento privado em Angola",
+      "url": "https://forbesafricalusofona.com/aipex-considera-privatizacoes-um-sinal-de-abertura-ao-investimento-privado-em-angola/",
       "source": "Forbes África",
-      "_key": "d02bd0d57d10fa5f",
+      "_key": "6fb3429ce36436f9",
       "score": 8
     },
     {
-      "title": "Economia Países exportadores de gás devem estar preparados para desafios actuais do sector ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688304/pa%C3%ADses-exportadores-de-g%C3%A1s-devem-estar-preparados-para-desafios-actuais-do-sector",
-      "source": "Jornal de Angola",
-      "_key": "5a45802a238a9aee",
+      "title": "“A exploração dos recursos minerais deve gerar riqueza, emprego e conhecimento”, defende Paulo Tanganha",
+      "url": "https://forbesafricalusofona.com/a-exploracao-dos-recursos-minerais-deve-gerar-riqueza-emprego-e-conhecimento-defende-paulo-tanganha/",
+      "source": "Forbes África",
+      "_key": "b37e5c44242287dd",
       "score": 8
     },
     {
-      "title": "Economia Ministério dos Recursos Minerais reforça aposta na mineração sustentável ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688303/minist%C3%A9rio-dos-recursos-minerais-refor%C3%A7a-aposta-na-minera%C3%A7%C3%A3o-sustent%C3%A1vel",
-      "source": "Jornal de Angola",
-      "_key": "113eb53c0a912a58",
-      "score": 8
-    },
-    {
-      "title": "Política Angola capta investimento no sector do turismo em fórum de Doha ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688300/angola-capta-investimento-no-sector-do-turismo-em-f%C3%B3rum-de-doha",
-      "source": "Jornal de Angola",
-      "_key": "a77b9d31515f0bba",
-      "score": 8
-    },
-    {
-      "title": "Economia / Há 6 horas Soyo é estratégico para a economia de Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688274/soyo-%C3%A9-estrat%C3%A9gico-para-a-economia-de-angola",
-      "source": "Jornal de Angola",
-      "_key": "ae315bf3f840a56a",
-      "score": 8
-    },
-    {
-      "title": "Angola começa a preparar a Cimeira da Indústria Financeira em África, que vai discutir em Luanda formas de mobilizar capital para o investimento produtivo",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-comeca-a-preparar-a-cimeira-da-industria-financeira-em-africa-que-vai-discutir-em-luanda-formas-de-mobilizar-capital-para-o-investimento-produtivo-75606.html",
+      "title": "Conselho de Ministros aprecia OGE2027 estimado em 37,34 biliões de kwanzas",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/conselho-de-ministros-aprecia-oge2027-estimado-em-3734-bilioes-de-kwanzas-75650.html",
       "source": "Novo Jornal",
-      "_key": "8b5e41728c063d3b",
+      "_key": "fb6c3b91099a4197",
       "score": 8
     },
     {
-      "title": "Polícia Nacional regista mais de 100 crimes durante o fim-de-semana em Luanda",
-      "url": "https://opais.ao/ultima_hora/policia-nacional-regista-mais-de-100-crimes-durante-o-fim-de-semana-em-luanda/",
+      "title": "Governo do Zaire anula contratos com 16 empresas por incumprimento nas obras do PIIM",
+      "url": "https://opais.ao/ultima_hora/governo-do-zaire-anula-contratos-com-16-empresas-por-incumprimento-nas-obras-do-piim/",
       "source": "O País",
-      "_key": "251012adc6e7c678",
+      "_key": "430dcc47e5ba59c4",
       "score": 8
     },
     {
-      "title": "Executivo lança concurso público internacional para modernizar e reforçar a infra-estrutura do Simplifica",
-      "url": "https://opais.ao/politica/executivo-lanca-concurso-publico-internacional-para-modernizar-e-reforcar-a-infra-estrutura-do-simplifica/",
+      "title": "Porto do Lobito esclarece detenção de funcionário pelo SIC",
+      "url": "https://opais.ao/economia/porto-do-lobito-esclarece-detencao-de-funcionario-pelo-sic/",
       "source": "O País",
-      "_key": "9bc7dde52c88313e",
+      "_key": "e8e86b37d7a1c9d9",
       "score": 8
     },
     {
-      "title": "PR autoriza 2,57 mil milhões de kwanzas para serviços da...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-autoriza-2-57-mil-milhoes-de-kwanzas-para-servicos-da-cimeira-da-industria-financeira-em-africa",
+      "title": "Custos da energia disparam e aceleram Índice de Preços no...",
+      "url": "https://valoreconomico.co.ao/artigo/custos-da-energia-disparam-e-aceleram-indice-de-precos-no-produtor-em-angola-para-28-70-em-setembro",
       "source": "Valor Económico",
-      "_key": "71c7ade43bb831bf",
+      "_key": "508b346322d327c0",
       "score": 8
     },
     {
-      "title": "Angola injecta 2,5 mil milhões Kz para acolher cimeira sobre fontes de financiamento em África",
-      "url": "https://diariodosnegocios.com/angola-injecta-25-mil-milhoes-kz-para-acolher-cimeira-sobre-fontes-de-financiamento-em-africa/",
+      "title": "Estado recupera mais de 177 mil milhões de kz de incumprimento do PROPRIV",
+      "url": "https://correiokianda.info/estado-recupera-mais-de-177-mil-milhoes-de-kz-de-incumprimento-do-propriv/",
+      "source": "Correio Kianda",
+      "_key": "e34f58c35ca64f13",
+      "score": 7
+    },
+    {
+      "title": "\"Uma das funções dos impostos é a redistribuição da riqueza\", José Leiria",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_c31a57624646bb",
+      "score": 7
+    },
+    {
+      "title": "\"Uma das funções dos impostos é a redistribuição da riqueza\", José LeiriaO secretário de Estado para os Assuntos Tributários, José Leiria, procedeu à abertura oficial do XI Fórum Seguros do Expansão, ocasião em que destacou o papel da política fiscal na redistribuição da riqueza e a importância da articulação entre os diferentes intervenientes para o desenvolvimento do setor segurador.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/uma-das-funcoes-dos-impostos-e-a-redistribuicao-da-riqueza-jose-leiria-75638.html",
+      "source": "Expansão",
+      "_key": "f82549d729d794ee",
+      "score": 7
+    },
+    {
+      "title": "Corredor marítimo Cabo Verde–Guiné-Bissau mobiliza projectos de 66 milhões de euros",
+      "url": "https://forbesafricalusofona.com/corredor-maritimo-cabo-verde-guine-bissau-mobiliza-projectos-de-66-milhoes-de-euros/",
+      "source": "Forbes África",
+      "_key": "c1088314e3604ca6",
+      "score": 7
+    },
+    {
+      "title": "Forbes África Lusófona Annual Summit 2026: conheça os temas que vão marcar o debate sobre o futuro de Angola",
+      "url": "https://forbesafricalusofona.com/forbes-africa-lusofona-annual-summit-2026-programa/",
+      "source": "Forbes África",
+      "_key": "1edaba98df8acdb7",
+      "score": 7
+    },
+    {
+      "title": "Destaque Presidente da República orienta 9.ª Sessão Ordinária do Conselho de MinistrosO Presidente da República, João Lourenço, orienta, neste momento, no Palácio presidencial da Cidade Alta, em Luanda, a 9.ª Sessão Ordinária do Conselho de Ministros.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688327/presidente-da-rep%C3%BAblica-orienta-9.%C2%AA-sess%C3%A3o-ordin%C3%A1ria-do-conselho-de-ministros",
+      "source": "Jornal de Angola",
+      "_key": "57aad1ea528cbae2",
+      "score": 7
+    },
+    {
+      "title": "Executivo e deputados não se entendem sobre taxas do...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/executivo-e-deputados-nao-se-entendem-sobre-taxas-do-imposto-sobre-o-rendimento-das-pessoas-colectivas-75620.html",
+      "source": "Novo Jornal",
+      "_key": "7c67c1c059ff9ed0",
+      "score": 7
+    },
+    {
+      "title": "Angola defende abordagem estratégica e criativa para combater pobreza energética",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/angola-defende-abordagem-estrategica-e-criativa-para-combater-pobreza-energetica-75622.html",
+      "source": "Novo Jornal",
+      "_key": "80768860fd302d28",
+      "score": 7
+    },
+    {
+      "title": "Sector mineiro chamado a impulsionar a transformação económica",
+      "url": "https://opais.ao/economia/sector-mineiro-chamado-a-impulsionar-a-transformacao-economica/",
+      "source": "O País",
+      "_key": "1137513d633181cd",
+      "score": 7
+    },
+    {
+      "title": "Executivo propõe aumento salarial de 10% para a Função Pública em 2027",
+      "url": "https://opais.ao/ultima_hora/executivo-propoe-aumento-salarial-de-10-para-a-funcao-publica-em-2027/",
+      "source": "O País",
+      "_key": "385711fe7c2a529b",
+      "score": 7
+    },
+    {
+      "title": "Taxa de emprego informal de 80% ameaça futuras reformas dos...",
+      "url": "https://valoreconomico.co.ao/artigo/taxa-de-emprego-informal-de-80-ameaca-futuras-reformas-dos-trabalhadores",
+      "source": "Valor Económico",
+      "_key": "0859a8351f984f8e",
+      "score": 7
+    },
+    {
+      "title": "Governo propõe aumento salarial de 10% para a Função Pública...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-propoe-aumento-salarial-de-10-para-a-funcao-publica-em-2027",
+      "source": "Valor Económico",
+      "_key": "b33e435506066daa",
+      "score": 7
+    },
+    {
+      "title": "Governo gasta mais de mil milhões de dólares em viaturas e Adalberto Costa Júnior questiona: «Não há dinheiro?»",
+      "url": "https://angola24horas.com/politica/item/35220-governo-gasta-mais-de-mil-milhoes-de-dolares-em-viaturas-e-adalberto-costa-junior-questiona-nao-ha-dinheiro",
+      "source": "Angola 24 Horas",
+      "_key": "7e2b64d2d6c115d3",
+      "score": 6
+    },
+    {
+      "title": "João Lourenço no centro da crise que ameaça dividir o MPLA",
+      "url": "https://angola24horas.com/opiniao/item/35213-joao-lourenco-no-centro-da-crise-que-ameaca-dividir-o-mpla",
+      "source": "Angola 24 Horas",
+      "_key": "e2aa5cd6f64830ea",
+      "score": 6
+    },
+    {
+      "title": "Executivo vai gastar 26,5 milhões de dólares na contratação de 341 médicos russos",
+      "url": "https://correiokianda.info/executivo-vai-gastar-265-milhoes-de-dolares-na-contratacao-de-341-medicos-russos/",
+      "source": "Correio Kianda",
+      "_key": "c51e33056749ee50",
+      "score": 6
+    },
+    {
+      "title": "Huíla: funcionária denuncia assalto à mão armada de sete milhões de kwanzas e acaba detida com mototaxistas",
+      "url": "https://correiokianda.info/funcionaria-denuncia-assalto-a-mao-armada-de-sete-milhoes-de-kwanzas-e-acaba-detida-com-mototaxista/",
+      "source": "Correio Kianda",
+      "_key": "a6c7a78f3cdf7e37",
+      "score": 6
+    },
+    {
+      "title": "ADRA alerta que Angola só tem garantidos até 20% dos fertilizantes necessários para o ano agrícola",
+      "url": "https://correiokianda.info/adra-alerta-que-angola-so-tem-garantidos-ate-20-dos-fertilizantes-necessarios-para-o-ano-agricola/",
+      "source": "Correio Kianda",
+      "_key": "f3286c0989f3a115",
+      "score": 6
+    },
+    {
+      "title": "África tem de se preparar para ciberameaças em larga escala impulsionadas pela IA",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7754406c7b0873",
+      "score": 6
+    },
+    {
+      "title": "Instabilidade internacional exige diversificação de parcerias e reforço da resiliência económica, defende Janira Hoffer Almada",
+      "url": "https://forbesafricalusofona.com/instabilidade-internacional-exige-diversificacao-de-parcerias-e-reforco-da-resiliencia-economica-defende-janira-hoffer-almada/",
+      "source": "Forbes África",
+      "_key": "dda1c51837b20987",
+      "score": 6
+    },
+    {
+      "title": "Fundo de Cooperação Económica da CPLP mobiliza 300 milhões de euros para financiar projectos empresariais",
+      "url": "https://forbesafricalusofona.com/fundo-de-cooperacao-economica-da-cplp-mobiliza-300-milhoes-de-euros-para-financiar-projectos-empresariais/",
+      "source": "Forbes África",
+      "_key": "e63a79ddf1ba72bf",
+      "score": 6
+    },
+    {
+      "title": "Sociedade Angola regista quatro novos casos de Mpox nas últimas 24 horas ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688347/angola-regista-quatro-novos-casos-de-mpox-nas-%C3%BAltimas-24-horas-",
+      "source": "Jornal de Angola",
+      "_key": "ebfa208dfdc5a19e",
+      "score": 6
+    },
+    {
+      "title": "Economia Luanda acolhe debate sobre oportunidades da engenharia africana ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688311/luanda-acolhe-debate-sobre-oportunidades-da-engenharia-africana",
+      "source": "Jornal de Angola",
+      "_key": "9274f1ed7a8a54af",
+      "score": 6
+    },
+    {
+      "title": " Banco Mundial defende criação de emprego como sucesso dos investimentos africanos ",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/688306/banco-mundial-defende-cria%C3%A7%C3%A3o-de-emprego-como-sucesso-dos-investimentos-africanos",
+      "source": "Jornal de Angola",
+      "_key": "ec1c0548ead6d6ed",
+      "score": 6
+    },
+    {
+      "title": "Assalto a autocarro por gangue armado de facas e catanas já tem cinco detidos, avança fonte policial",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/assalto-a-autocarro-por-gangue-armado-de-facas-e-catanas-ja-tem-cinco-detidos-avanca-fonte-policial-75637.html",
+      "source": "Novo Jornal",
+      "_key": "613d50757d2c70ec",
+      "score": 6
+    },
+    {
+      "title": "Governo e partidos políticos reúnem-se após denúncias de irregularidades sobre o Registo Eleitoral Oficioso",
+      "url": "https://opais.ao/politica/governo-e-partidos-politicos-reunem-se-apos-denuncias-de-irregularidades-sobre-o-registo-eleitoral-oficioso/",
+      "source": "O País",
+      "_key": "7e859f6c84051bef",
+      "score": 6
+    },
+    {
+      "title": "MAT e partidos políticos abordam actualização do registo eleitoral oficioso",
+      "url": "https://opais.ao/politica/mat-e-partidos-politicos-abordam-actualizacao-do-registo-eleitoral-oficioso-2/",
+      "source": "O País",
+      "_key": "d7358f7796cdbcfd",
+      "score": 6
+    },
+    {
+      "title": "AFES 2026 posiciona Angola no diálogo continental sobre o futuro da engenharia africana",
+      "url": "https://opais.ao/economia/afes-2026-posiciona-angola-no-dialogo-continental-sobre-o-futuro-da-engenharia-africana/",
+      "source": "O País",
+      "_key": "ba0ac5a0bb133a3b",
+      "score": 6
+    },
+    {
+      "title": "Acções do BFA e Standard Bank caem na BODIVA",
+      "url": "https://valoreconomico.co.ao/artigo/accoes-do-bfa-e-standard-bank-caem-na-bodiva",
+      "source": "Valor Económico",
+      "_key": "e6c7f4b3ba5ed7e8",
+      "score": 6
+    },
+    {
+      "title": "Governo propõe aumento salarial de 10% para 2027, mas sindicatos consideram insuficiente",
+      "url": "https://angola24horas.com/component/k2/item/35228-governo-propoe-aumento-salarial-de-10-para-2027-mas-sindicatos-consideram-insuficiente",
+      "source": "Angola 24 Horas",
+      "_key": "09f89345062c81de",
+      "score": 5
+    },
+    {
+      "title": "João Lourenço felicita Lula da Silva pela reeleição e defende reforço da cooperação bilateral",
+      "url": "https://angola24horas.com/politica/item/35223-joao-lourenco-felicita-lula-da-silva-pela-reeleicao-e-defende-reforco-da-cooperacao-bilateral",
+      "source": "Angola 24 Horas",
+      "_key": "cc77bd81044db14d",
+      "score": 5
+    },
+    {
+      "title": "Crescimento demográfico e falta de planeamento agravam crise da habitação em Angola - OAA",
+      "url": "https://angola24horas.com/sociedade/item/35215-crescimento-demografico-e-falta-de-planeamento-agravam-crise-da-habitacao-em-angola-oaa",
+      "source": "Angola 24 Horas",
+      "_key": "eadf9fa2c107401e",
+      "score": 5
+    },
+    {
+      "title": "Sucessão no MPLA: João Lourenço arrisca tornar-se um fardo eleitoral em 2027",
+      "url": "https://angola24horas.com/opiniao/item/35205-sucessao-no-mpla-joao-lourenco-arrisca-tornar-se-um-fardo-eleitoral-em-2027",
+      "source": "Angola 24 Horas",
+      "_key": "08eff00ac8c21af2",
+      "score": 5
+    },
+    {
+      "title": "UNITA alerta que falhas no registo eleitoral e na emissão do BI podem comprometer eleições de 2027",
+      "url": "https://angola24horas.com/politica/item/35208-unita-alerta-que-falhas-no-registo-eleitoral-e-na-emissao-do-bi-podem-comprometer-eleicoes-de-2027",
+      "source": "Angola 24 Horas",
+      "_key": "ed7ada47201fca91",
+      "score": 5
+    },
+    {
+      "title": "Dívida de energia no Zango ultrapassa dois mil milhões de kwanzas e envolve 26 mil famílias",
+      "url": "https://correiokianda.info/divida-de-energia-no-zango-ultrapassa-dois-mil-milhoes-de-kwanzas-e-envolve-26-mil-familias/",
+      "source": "Correio Kianda",
+      "_key": "508ef927a3ce2033",
+      "score": 5
+    },
+    {
+      "title": "Presidente João Lourenço felicita Lula da Silva pela vitória nas eleições presidenciais do Brasil",
+      "url": "https://diariodosnegocios.com/presidente-joao-lourenco-felicita-lula-da-silva-pela-vitoria-nas-eleicoes-presidenciais-do-brasil/",
       "source": "Diário dos Negócios",
-      "_key": "32d53e791a01774a",
-      "score": 7
+      "_key": "66802400eed3e6a1",
+      "score": 5
     },
     {
-      "title": "Investimento ganha peso no segundo mandato, pobreza, fome e corrupção perdem força",
-      "url": "https://expansao.co.ao/angola/detalhe/investimento-ganha-peso-no-segundo-mandato-pobreza-fome-e-corrupcao-perdem-forca-75586.html",
-      "source": "Expansão",
-      "_key": "5435e6fe5ebd7975",
-      "score": 7
-    },
-    {
-      "title": "Papel dos seguros obrigatórios e da resseguradora nacional passa pelo crivo dos gestores do sector",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_5690f651ce0fee",
-      "score": 7
-    },
-    {
-      "title": "Banco Mundial prevê mobilizar 23 mil milhões de dólares em capital privado para África até 2030",
-      "url": "https://forbesafricalusofona.com/banco-mundial-preve-mobilizar-23-mil-milhoes-de-dolares-em-capital-privado-para-africa-ate-2030/",
+      "title": "Presidente de Angola felicita Lula pela victória nas Eleições Presidenciais da República Federativa do Brasil",
+      "url": "https://forbesafricalusofona.com/presidente-de-angola-felicita-lula-pela-victoria-nas-eleicoes-presidenciais-da-republica-federativa-do-brasil/",
       "source": "Forbes África",
-      "_key": "79459650cfea2aa7",
-      "score": 7
+      "_key": "09ce7fb9fa795d31",
+      "score": 5
     },
     {
-      "title": "Ethiopis Tafara destaca potencial de investimento da África lusófona e apela à transformação de oportunidades em empregos",
-      "url": "https://forbesafricalusofona.com/ethiopis-tafara-destaca-potencial-de-investimento-da-africa-lusofona-e-apela-a-transformacao-de-oportunidades-em-empregos/",
+      "title": "Financial Times e MIGA distinguem empresas africanas por inovação e impacto económicoPorFrancisco de AndradeForbes Staff",
+      "url": "https://forbesafricalusofona.com/financial-times-e-miga-distinguem-empresas-africanas-por-inovacao-e-impacto-economico/",
       "source": "Forbes África",
-      "_key": "37f1752dffa7ad2d",
-      "score": 7
+      "_key": "9100e5b234fb09e4",
+      "score": 5
     },
     {
-      "title": "Desafio do sector financeiro angolano está em transformar legislação em prática, defende Sofia Vale",
-      "url": "https://forbesafricalusofona.com/desafio-do-sector-financeiro-angolano-esta-em-transformar-legislacao-em-pratica-defende-sofia-vale/",
-      "source": "Forbes África",
-      "_key": "742f4a39e9184691",
-      "score": 7
-    },
-    {
-      "title": "Presidente autoriza verba para a realização da Cimeira da Indústria Financeira em África O Presidente da República autorizou, há dias, verbas e a formalização da abertura de um procedimento de contratação simplificada, para a aquisição de todos os serviços necessários à realização da Cimeira da Indústria Financeira em África (AFIS 2026), que a capital angolana acolhe na próxima semana.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688264/presidente-autoriza-verba-para-a-realiza%C3%A7%C3%A3o-da-cimeira-da-ind%C3%BAstria-financeira-em-%C3%A1frica--",
+      "title": "Política João Lourenço felicita Lula da Silva pela vitória nas eleições ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688319/jo%C3%A3o-louren%C3%A7o-felicita-lula-da-silva-pela-vit%C3%B3ria-nas-elei%C3%A7%C3%B5es",
       "source": "Jornal de Angola",
-      "_key": "152bb4b31e830a14",
-      "score": 7
+      "_key": "cfc96383e973674b",
+      "score": 5
     },
     {
-      "title": "Jovens são chamados a apostar na agriculturaO ministro de Estado para a Coordenação Económica, José de Lima Massano, apelou ao envolvimento dos jovens angolanos nos sectores da Agricultura e da Pecuária. ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688276/jovens-s%C3%A3o-chamados--a-apostar-na-agricultura",
+      "title": "Sociedade Bolsas europeias em alta com queda do petróleo ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688307/bolsas-europeias-em-alta-com-queda-do-petr%C3%B3leo",
       "source": "Jornal de Angola",
-      "_key": "98b0356da6333da3",
-      "score": 7
+      "_key": "5f22d93771b5ba4e",
+      "score": 5
     },
     {
-      "title": "Economia / Há 6 horas INE inicia mapeamento de unidades económicas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688283/ine-inicia-mapeamento-de-unidades-econ%C3%B3micas",
+      "title": "Economia informal em África: nem tudo é o que parece",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/688339/economia-informal--em-%C3%A1frica:-nem-tudo--%C3%A9-o-que-parece",
       "source": "Jornal de Angola",
-      "_key": "e6b003769757e33d",
-      "score": 7
+      "_key": "77ca5c99a6ef5989",
+      "score": 5
     },
     {
-      "title": "Economia / Há 6 horas Expo realiza negócios acima dos 400 milhões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688282/expo-realiza-neg%C3%B3cios-acima-dos-400-milh%C3%B5es-de-kwanzas",
+      "title": "Fazer o capital chegar à economia real",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/688338/fazer-o-capital-chegar--%C3%A0-economia-real",
       "source": "Jornal de Angola",
-      "_key": "cc64dc99d927af4b",
-      "score": 7
+      "_key": "89b04a64f3b483d2",
+      "score": 5
     },
     {
-      "title": "Luanda: DIIP deteve dois homens envolvidos no roubo...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-diip-deteve-dois-homens-envolvidos-no-roubo-de-86-milhoes-kz-de-viatura-de-transporte-de-valores-75619.html",
-      "source": "Novo Jornal",
-      "_key": "f41da1c426f93faf",
-      "score": 7
-    },
-    {
-      "title": "PR avaliza contratação de 341 médicos russos por 26,5 milhões USD",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-avaliza-contratacao-de-341-medicos-russos-por-265-milhoes-usd-75598.html",
-      "source": "Novo Jornal",
-      "_key": "8ddc70686dd2aae7",
-      "score": 7
-    },
-    {
-      "title": "Especialistas defendem aplicação efectiva das normas para reforçar confiança na banca angolana",
-      "url": "https://opais.ao/economia/especialistas-defendem-aplicacao-efectiva-das-normas-para-reforcar-confianca-na-banca-angolana/",
+      "title": "Acidentes rodoviários matam 439 pessoas no Cuanza-Sul entre Janeiro e Outubro",
+      "url": "https://opais.ao/sociedade/acidentes-rodoviarios-matam-439-pessoas-no-cuanza-sul-entre-janeiro-e-outubro/",
       "source": "O País",
-      "_key": "6a667df3bd393833",
-      "score": 7
+      "_key": "771ac07f024a2eb4",
+      "score": 5
     },
     {
-      "title": "Banco Nacional de Angola lança moeda de 50 kwanzas para...",
-      "url": "https://valoreconomico.co.ao/artigo/banco-nacional-de-angola-lanca-moeda-de-50-kwanzas-para-assinalar-cinquentenario",
-      "source": "Valor Económico",
-      "_key": "190741dbb702fc1a",
-      "score": 7
-    },
-    {
-      "title": "Dionísio Manuel da Fonseca chefia delegação angolana à III Cimeira Rússia-África",
-      "url": "https://correiokianda.info/dionisio-manuel-da-fonseca-chefia-delegacao-angolana-a-iii-cimeira-russia-africa/",
-      "source": "Correio Kianda",
-      "_key": "22b6cd9119049d06",
-      "score": 6
-    },
-    {
-      "title": "Produção alimentar chega a 33 milhões de toneladas na campanha 2025/2026",
-      "url": "https://correiokianda.info/producao-alimentar-chega-a-33-milhoes-de-toneladas-na-campanha-2025-2026/",
-      "source": "Correio Kianda",
-      "_key": "e3d2d1f9b9982bbc",
-      "score": 6
-    },
-    {
-      "title": "Conflito por ouro termina em morte e destruição de residências no Uíge",
-      "url": "https://correiokianda.info/conflito-por-ouro-termina-em-morte-e-destruicao-de-residencias-no-uige/",
-      "source": "Correio Kianda",
-      "_key": "612d144bac02c4f1",
-      "score": 6
-    },
-    {
-      "title": "Registo Nacional Agro-pecuário ultrapassa 500 mil produtores cadastrados",
-      "url": "https://diariodosnegocios.com/dn-2da8d9145ab1087d7a7d1d84/",
-      "source": "Diário dos Negócios",
-      "_key": "470df349231544ad",
-      "score": 6
-    },
-    {
-      "title": "\"Não queremos ser medidos pelo número de normas publicadas, mas pela qualidade do mercado que ajudamos a construir\"",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_bc8b34ef0e621d",
-      "score": 6
-    },
-    {
-      "title": "Tecnologia e dados são a chave para alavancar a penetração dos seguros em Angola",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_7de64e6249ac1d",
-      "score": 6
-    },
-    {
-      "title": "Um corredor não vale apenas pelo que passa. Vale pelo que fica”: Salim Valá alerta para os desafios do investimento em Moçambique",
-      "url": "https://forbesafricalusofona.com/um-corredor-nao-vale-apenas-pelo-que-passa-vale-pelo-que-fica-salim-vala-alerta-para-os-desafios-do-investimento-em-mocambique/",
-      "source": "Forbes África",
-      "_key": "37afa93861612f8e",
-      "score": 6
-    },
-    {
-      "title": "Tribunais de Contas da CPLP abordam os desafios do sectorA capital angolana acolhe, a partir de amanhã até ao dia 29 de Outubro, o IX Seminário da Organização das Instituições Superiores de Controlo da CPLP (OISC-CPLP). O Palácio da Justiça será o palco do encontro, que reúne os presidentes dos Tribunais de Contas da Comunidade dos Países de Língua Portuguesa.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688263/tribunais-de-contas-da-cplp-abordam-os-desafios-do-sector",
-      "source": "Jornal de Angola",
-      "_key": "e7e6e9cf23d961e9",
-      "score": 6
-    },
-    {
-      "title": "Política Angola prepara participação na Cimeira Rússia-África ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688284/angola-prepara-participa%C3%A7%C3%A3o--na-cimeira-r%C3%BAssia-%C3%A1frica",
-      "source": "Jornal de Angola",
-      "_key": "d6506b46f9bbab30",
-      "score": 6
-    },
-    {
-      "title": "AFIS: mais do que os holofotes, o capital",
-      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/688281/afis:-mais-do-que-os-holofotes-o-capital",
-      "source": "Jornal de Angola",
-      "_key": "8b2fd59fd33da3d4",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 6 horas Isaac Maria dos Anjos defende mecanização ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688275/isaac-maria-dos-anjos-defende-mecaniza%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "52acb292d5a7a6d1",
-      "score": 6
-    },
-    {
-      "title": "Economia / Há 6 horas Cunene: Lançado projecto de ordenamento pecuário ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688273/cunene:-lan%C3%A7ado-projecto-de-ordenamento-pecu%C3%A1rio",
-      "source": "Jornal de Angola",
-      "_key": "6552b97efceba89e",
-      "score": 6
-    },
-    {
-      "title": "SPCB assinala 21 mortes e 72 feridos no fim-de-semana",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/spcb-assinala-21-mortes-e-72-feridos-no-fim-de-semana-75614.html",
-      "source": "Novo Jornal",
-      "_key": "0a089781964e4565",
-      "score": 6
-    },
-    {
-      "title": "José de Lima Massano incentiva jovens a investir na agricultura",
-      "url": "https://opais.ao/economia/jose-de-lima-massano-incentiva-jovens-a-investir-na-agricultura/",
+      "title": "Editorial: Motor de comércio",
+      "url": "https://opais.ao/editorial/editorial-motor-de-comercio/",
       "source": "O País",
-      "_key": "14b7b1b71d71ca4f",
-      "score": 6
+      "_key": "9ab447ea98720644",
+      "score": 5
     },
     {
-      "title": "Intervenientes do Summit Normas & Banca + defendem inclusão bancária em Angola",
-      "url": "https://opais.ao/economia/intervenientes-do-summit-normas-banca-defendem-inclusao-bancaria-em-angola/",
+      "title": "Angola apresenta “Investe Turismo” em Cabo Verde",
+      "url": "https://opais.ao/economia/angola-apresenta-investe-turismo-em-cabo-verde/",
       "source": "O País",
-      "_key": "32ed469865717236",
-      "score": 6
-    },
-    {
-      "title": "Ministro desafia jovens a apostar no campo após anunciar produção...",
-      "url": "https://valoreconomico.co.ao/artigo/ministro-desafia-jovens-a-apostar-no-campo-apos-anunciar-producao-recorde-de-33-milhoes-de-toneladas",
-      "source": "Valor Económico",
-      "_key": "1a95cf31e10c9964",
-      "score": 6
-    },
-    {
-      "title": "João Lourenço espera reforço da cooperação entre Angola e Brasil no novo mandato de Lula",
-      "url": "https://correiokianda.info/joao-lourenco-espera-reforco-da-cooperacao-entre-angola-e-brasil-no-novo-mandato-de-lula/",
-      "source": "Correio Kianda",
-      "_key": "84875f213886f600",
-      "score": 5
-    },
-    {
-      "title": "Executivo quer transformar combate à seca em soluções estruturais no sul de Angola",
-      "url": "https://correiokianda.info/executivo-quer-transformar-combate-a-seca-em-solucoes-estruturais-no-sul-de-angola/",
-      "source": "Correio Kianda",
-      "_key": "2a2967a246fbd080",
-      "score": 5
-    },
-    {
-      "title": "TAAG inicia comercialização da rota Luanda–Praia para voos a partir de 12 de Dezembro",
-      "url": "https://forbesafricalusofona.com/taag-inicia-comercializacao-da-rota-luanda-praia-para-voos-a-partir-de-12-de-dezembro/",
-      "source": "Forbes África",
-      "_key": "070512751337326d",
-      "score": 5
-    },
-    {
-      "title": "Destaque Presidente João Lourenço felicita Lula da Silva pela reeleição no Brasil O Presidente da República, João Lourenço, felicitou, esta segunda-feira, o homólogo brasileiro, Luiz Inácio Lula da Silva, pela vitória nas eleições presidenciais realizadas no domingo, no Brasil.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688295/presidente-jo%C3%A3o-louren%C3%A7o-felicita-lula-da-silva-pela-reelei%C3%A7%C3%A3o-no-brasil",
-      "source": "Jornal de Angola",
-      "_key": "aa18cae17710f08c",
-      "score": 5
-    },
-    {
-      "title": "Sociedade Luís Nunes recebe em audiência embaixador de Portugal em Angola ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/688297/lu%C3%ADs-nunes-recebe-em-audi%C3%AAncia-embaixador-de-portugal-em-angola",
-      "source": "Jornal de Angola",
-      "_key": "05283cb71417d035",
-      "score": 5
-    },
-    {
-      "title": "João Lourenço felicita Lula da Silva pela reeleição",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/joao-lourenco-felicita-lula-da-silva-pela-reeleicao-75617.html",
-      "source": "Novo Jornal",
-      "_key": "d16765775690e905",
-      "score": 5
-    },
-    {
-      "title": "Herança Soviética: relações históricas angolanas postas...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/heranca-sovietica-relacoes-historicas-angolanas-postas-a-prova-na-iii-cimeira-russia-africa-antevisao-75601.html",
-      "source": "Novo Jornal",
-      "_key": "1bfbd60cd16d672c",
-      "score": 5
-    },
-    {
-      "title": "PR felicita Lula da Silva pela vitória nas eleições presidenciais do Brasil",
-      "url": "https://opais.ao/politica/pr-felicita-lula-da-silva-pela-vitoria-nas-eleicoes-presidenciais-do-brasil/",
-      "source": "O País",
-      "_key": "5d07dee9a976977c",
-      "score": 5
-    },
-    {
-      "title": "Lula vence eleições no Brasil e garante quarto mandato presidencial",
-      "url": "https://opais.ao/politica/lula-vence-eleicoes-no-brasil-e-garante-quarto-mandato-presidencial/",
-      "source": "O País",
-      "_key": "f5f3bf236ec68aeb",
-      "score": 5
-    },
-    {
-      "title": "Zâmbia inaugura refinaria de ouro, mas cobre domina exportações",
-      "url": "https://valoreconomico.co.ao/artigo/zambia-inaugura-refinaria-de-ouro-mas-cobre-domina-exportacoes",
-      "source": "Valor Económico",
-      "_key": "7669c05227c1eae4",
-      "score": 5
-    },
-    {
-      "title": "Lula é reeleito para 4.º mandato e volta a vencer...",
-      "url": "https://valoreconomico.co.ao/artigo/lula-e-reeleito-para-4-mandato-e-volta-a-vencer-em-angola-na-segunda-volta",
-      "source": "Valor Económico",
-      "_key": "e75d9f6efd84cc34",
+      "_key": "c5462c448f55ee2e",
       "score": 5
     }
   ]
