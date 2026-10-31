@@ -1,525 +1,154 @@
 {
-  "date": "2026-10-30",
-  "total_new": 160,
-  "total_filtered": 74,
+  "date": "2026-10-31",
+  "total_new": 101,
+  "total_filtered": 21,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Zambia–Lobito Railway Moves Forward with Selection of Construction Consortia",
-      "url": "https://www.negociosdeangola.com/en/zambia-lobito-railway-moves-forward-with-selection-of-construction-consortia/",
-      "source": "Negócios de Angola",
-      "_key": "9f7f63b0904bf42b",
+      "title": "João Lourenço destaca ligação entre os corredores do Lobito e TAZARA durante viagem a Dodoma",
+      "url": "https://diariodosnegocios.com/joao-lourenco-destaca-ligacao-entre-os-corredores-do-lobito-e-tazara-durante-viagem-a-dodoma/",
+      "source": "Diário dos Negócios",
+      "_key": "050c1e01edb2d21b",
       "score": 10
     },
     {
-      "title": "Petróleo: Barril inafundável resiste acima dos 100...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-inafundavel-resiste-acima-dos-100-usd-desde-o-inicio-de-setembro-75729.html",
-      "source": "Novo Jornal",
-      "_key": "e8c95d59757155ad",
-      "score": 10
-    },
-    {
-      "title": "Alta do petróleo impulsiona balança comercial de Angola, que dispara...",
-      "url": "https://valoreconomico.co.ao/artigo/alta-do-petroleo-impulsiona-balanca-comercial-de-angola-que-dispara-72-em-setembro",
-      "source": "Valor Económico",
-      "_key": "814236f9133a48fa",
-      "score": 10
-    },
-    {
-      "title": "Executivo elimina Certificado de Habitabilidade para abertura de negócios",
-      "url": "https://correiokianda.info/executivo-elimina-certificado-de-habitabilidade-para-abertura-de-negocios/",
+      "title": "Brent fecha semana acima dos 100 dólares e garante folga extra ao OGE 2026",
+      "url": "https://correiokianda.info/brent-fecha-semana-acima-dos-100-dolares-e-garante-folga-extra-ao-oge-2026/",
       "source": "Correio Kianda",
-      "_key": "559daf1011243b35",
+      "_key": "d583438d66649fb0",
       "score": 9
     },
     {
-      "title": "Do Lobito a Dar es Salaam: Angola quer ligar o Atlântico ao Índico e reforçar a cooperação económica com a Tanzânia",
-      "url": "https://diariodosnegocios.com/visita-estado-joao-lourenco-tanzania-cooperacao-angolavisita-de-estado-a-dar-es-salaam-reforca-ligacao-do-corredor-do-lobito-a-tazara-e-apoio-a-josefa-sacko/",
+      "title": "Angola e China procuram aprofundar cooperação nos sectores da energia e águas",
+      "url": "https://opais.ao/politica/angola-e-china-procuram-aprofundar-cooperacao-nos-sectores-da-energia-e-aguas/",
+      "source": "O País",
+      "_key": "5a88414b0d6a5e50",
+      "score": 9
+    },
+    {
+      "title": "Angola e China defendem reforço da cooperação académica e científica",
+      "url": "https://correiokianda.info/angola-e-china-defendem-reforco-da-cooperacao-academica-e-cientifica/",
+      "source": "Correio Kianda",
+      "_key": "8a233bcee649541a",
+      "score": 8
+    },
+    {
+      "title": "Governo entrega proposta do OGE 2027 de 37,34 biliões de kwanzas",
+      "url": "https://diariodosnegocios.com/governo-entrega-proposta-do-oge-2027-de-3734-bilioes-de-kwanzas/",
       "source": "Diário dos Negócios",
-      "_key": "0cdf946f69a747c6",
-      "score": 9
+      "_key": "512bbbf18f4e28ee",
+      "score": 8
     },
     {
-      "title": "Bancos compraram 10 mil milhões USD em divisas, mas oferta continua aquém da procura",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_edc66cf9f9138e",
-      "score": 9
-    },
-    {
-      "title": "Petróleo a 71 USD e queda de 44,8 mil barris/dia",
-      "url": "https://expansao.co.ao/economia/detalhe/petroleo-a-71-usd-e-queda-de-448-mil-barrisdia-75723.html",
-      "source": "Expansão",
-      "_key": "4da4cf387b94aeb2",
-      "score": 9
-    },
-    {
-      "title": "Receitas petrolíferas de Angola sobem 31,82% com valorização do crude",
-      "url": "https://forbesafricalusofona.com/receitas-petroliferas-de-angola-sobem-3182-com-valorizacao-do-crude/",
+      "title": "Governo angolano leva à Assembleia Nacional proposta orçamental de 37,34 biliões de kwanzas",
+      "url": "https://forbesafricalusofona.com/governo-angolano-leva-a-assembleia-nacional-proposta-orcamental-de-3734-bilioes-de-kwanzas/",
       "source": "Forbes África",
-      "_key": "0e49060ced4af446",
-      "score": 9
+      "_key": "3c9cb36cbc16723b",
+      "score": 8
     },
     {
-      "title": "Executivo elimina Certificado de Habitabilidade para abertura de actividades económicas",
-      "url": "https://holdonangola.com/executivo-elimina-certificado-de-habitabilidade-para-abertura-de-actividades-economicas/",
-      "source": "Hold On Angola",
-      "_key": "c5a46638509a3aad",
-      "score": 9
-    },
-    {
-      "title": "Destaque João Lourenço destaca importância de ligação ferroviária com a Tanzânia O Presidente da República, João Lourenço, destacou, nesta sexta-feira, durante a viagem de comboio de Dar es Salaam para a província de Dodoma, a importância do estabelecimento de uma ligação ferroviária entre Angola e a Tanzânia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688586/jo%C3%A3o-louren%C3%A7o-destaca-import%C3%A2ncia-de-liga%C3%A7%C3%A3o-ferrovi%C3%A1ria-com-a-tanz%C3%A2nia-",
+      "title": "Política Proposta do Orçamento Geral entregue ao Parlamento para apreciação e votação ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688613/proposta-do-or%C3%A7amento-geral-entregue-ao-parlamento-para-aprecia%C3%A7%C3%A3o-e-vota%C3%A7%C3%A3o",
       "source": "Jornal de Angola",
-      "_key": "33220b267af9155f",
-      "score": 9
+      "_key": "9f931a41dc21e7d1",
+      "score": 8
     },
     {
-      "title": "Economia Exportações de petróleo rendem 3,4 mil milhões de dólares ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688542/exporta%C3%A7%C3%B5es-de-petr%C3%B3leo-rendem-34-mil-milh%C3%B5es-de-d%C3%B3lares",
+      "title": "Economia / Há 20 horas Ministro de Estado destaca continuidade do investimento público no OGE 2027 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688595/ministro-de-estado-destaca-continuidade-do-investimento-p%C3%BAblico-no-oge-2027",
       "source": "Jornal de Angola",
-      "_key": "83a562e8f56a0dac",
-      "score": 9
-    },
-    {
-      "title": "Exportação de petróleo rende 8,33 mil milhões de dólares ao Estado no 3.º trimestre",
-      "url": "https://opais.ao/economia/exportacao-de-petroleo-rende-833-mil-milhoes-de-dolares-ao-estado-no-3-o-trimestre/",
-      "source": "O País",
-      "_key": "69120f12198a20ba",
-      "score": 9
-    },
-    {
-      "title": "Cerca de 15 mil milhões de dólares investidos no sector petrolífero em Angola anualmente",
-      "url": "https://opais.ao/economia/cerca-de-15-mil-milhoes-de-dolares-investidos-no-sector-petrolifero-em-angola-anualmente/",
-      "source": "O País",
-      "_key": "48a284139a7c26b7",
-      "score": 9
-    },
-    {
-      "title": "Cimeira dos líderes do sector energético coloca Angola no centro do investimento",
-      "url": "https://opais.ao/economia/cimeira-dos-lideres-do-sector-energetico-coloca-angola-no-centro-do-investimento/",
-      "source": "O País",
-      "_key": "c18517fad4d171f3",
-      "score": 9
-    },
-    {
-      "title": "Investimento privado em Angola atinge 14,9 mil milhões de dólares em três anos",
-      "url": "https://correiokianda.info/investimento-privado-em-angola-atinge-149-mil-milhoes-de-dolares-em-tres-anos/",
-      "source": "Correio Kianda",
-      "_key": "bca997d16acf938c",
+      "_key": "323f86343e3a8e8c",
       "score": 8
     },
     {
-      "title": "A Inflação até ao 3.º Trimestre de 2026",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_5f3cbe2f294fde",
-      "score": 8
-    },
-    {
-      "title": "Custos com importação de combustíveis disparam 77% para 3.197 milhões USD",
-      "url": "https://expansao.co.ao/economia/detalhe/custos-com-importacao-de-combustiveis-disparam-77-para-3197-milhoes-usd-75721.html",
-      "source": "Expansão",
-      "_key": "75f44a8c4589c0eb",
-      "score": 8
-    },
-    {
-      "title": "CHANCELA DO CINVESTEC Talaia FerreiraA Inflação até ao 3.º Trimestre de 2026",
-      "url": "https://expansao.co.ao/opiniao/detalhe/a-inflacao-ate-ao-3-trimestre-de-2026-75668.html",
-      "source": "Expansão",
-      "_key": "6c1eece9a6cb60d6",
-      "score": 8
-    },
-    {
-      "title": "Economia MINFIN apresenta hoje o OGE/2027 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688543/minfin-apresenta-hoje-o-oge2027",
+      "title": "Última hora José de Lima Massano entrega proposta do OGE à Assembleia Nacional",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688592/jos%C3%A9-de-lima-massano-entrega-proposta-do-oge-%C3%A0-assembleia-nacional",
       "source": "Jornal de Angola",
-      "_key": "c854ec9b64945209",
+      "_key": "67985866da1a63f4",
       "score": 8
     },
     {
-      "title": "Etu Energias Moves Forward with Sale of Stakes in Blocks 3/05 and 3/05A",
-      "url": "https://www.negociosdeangola.com/en/etu-energias-moves-forward-with-sale-of-stakes-in-blocks-3-05-and-3-05a/",
-      "source": "Negócios de Angola",
-      "_key": "8cda702845c57740",
-      "score": 8
-    },
-    {
-      "title": "BNA: Financiamento ao sector real da economia cresce...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-financiamento-ao-sector-real-da-economia-cresce-233-e-fixa-se-nos-21-bilioes-kz-em-setembro-75743.html",
-      "source": "Novo Jornal",
-      "_key": "8f26947c02a65d46",
-      "score": 8
-    },
-    {
-      "title": "Executivo autoriza 50 milhões de dólares para expansão da internet em Angola",
-      "url": "https://opais.ao/economia/executivo-autoriza-50-milhoes-de-dolares-para-expansao-da-internet-em-angola/",
-      "source": "O País",
-      "_key": "eb4ec1673546273a",
-      "score": 8
-    },
-    {
-      "title": "“No Minfin, se um processo estiver for resolvido com gasosa ou os...",
-      "url": "https://valoreconomico.co.ao/artigo/no-minfin-se-um-processo-estiver-for-resolvido-com-gasosa-ou-os-famosos-30-e-tratado-de-forma-diferente",
+      "title": "OGE 2027 fixado em 37,34 biliões de kwanzas prevê crescimento...",
+      "url": "https://valoreconomico.co.ao/artigo/oge-2027-fixado-em-37-34-bilioes-de-kwanzas-preve-crescimento-de-5-5",
       "source": "Valor Económico",
-      "_key": "2d311084ed999abf",
+      "_key": "5447e9a9e9f468b1",
       "score": 8
     },
     {
-      "title": "Lunda Sul: autorizada construção de estrada de 117 quilómetros entre Alto Chicapa e Luma Cassai",
-      "url": "https://correiokianda.info/lunda-sul-autorizada-construcao-de-estrada-de-117-quilometros-entre-alto-chicapa-e-luma-cassai/",
+      "title": "Fronteiras seguras, vidas protegidas: o desafio de Angola na gestão da imigração irregular",
+      "url": "https://correiokianda.info/fronteiras-seguras-vidas-protegidas-o-desafio-de-angola-na-gestao-da-imigracao-irregular/",
       "source": "Correio Kianda",
-      "_key": "f13375bd515fa3d8",
+      "_key": "2250e533188721f8",
       "score": 7
     },
     {
-      "title": "Expansão da internet no país reforçado com 50 milhões de dólares ",
-      "url": "https://correiokianda.info/expansao-da-internet-no-pais-reforcado-com-50-milhoes-de-dolares/",
-      "source": "Correio Kianda",
-      "_key": "7395f24fedce452c",
-      "score": 7
-    },
-    {
-      "title": "Angola e Tanzânia assinam acordos de cooperação em aviação, justiça e tecnologia",
-      "url": "https://diariodosnegocios.com/angola-e-tanzania-assinam-acordos-de-cooperacao-em-aviacao-justica-e-tecnologia/",
+      "title": "Bancos têm mais fragilidades, face ao risco de branqueamento de capitais e financiamento do terrorismo",
+      "url": "https://diariodosnegocios.com/bancos-tem-mais-fragilidades-face-ao-risco-de-branqueamento-de-capitais-e-financiamento-do-terrorismo/",
       "source": "Diário dos Negócios",
-      "_key": "b7c28c10aaf99f8c",
+      "_key": "4050923e30a3ee43",
       "score": 7
     },
     {
-      "title": "Como compatibilizar a segurança jurídica à nova realidade tecnológica e fiscal assente na IA",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_840c3680c590a1",
-      "score": 7
-    },
-    {
-      "title": "Agricultura pesa 23% no PIB, mas continua sem protecção dos seguros",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_d4dd3f49b33a57",
-      "score": 7
-    },
-    {
-      "title": "CONVIDADOWilson Agostinho DongeComo compatibilizar a segurança jurídica à nova realidade tecnológica e fiscal assente na IA",
-      "url": "https://expansao.co.ao/opiniao/detalhe/como-compatibilizar-a-seguranca-juridica-a-nova-realidade-tecnologica-e-fiscal-assente-na-ia-75725.html",
-      "source": "Expansão",
-      "_key": "73ea616d994d2f30",
-      "score": 7
-    },
-    {
-      "title": "Parceria entre QUANTUN SHIFT e INPROITEC posiciona Angola para novas oportunidades de investimento",
-      "url": "https://forbesafricalusofona.com/parceria-entre-quantun-shift-e-inproitec-posiciona-angola-para-novas-oportunidades-de-investimento/",
-      "source": "Forbes África",
-      "_key": "b917a3f41124b253",
-      "score": 7
-    },
-    {
-      "title": "Angola foi o terceiro maior produtor mundial de diamantes em 2025",
-      "url": "https://forbesafricalusofona.com/angola-foi-o-terceiro-maior-produtor-mundial-de-diamantes-em-2025/",
-      "source": "Forbes África",
-      "_key": "d590179414c6a1a1",
-      "score": 7
-    },
-    {
-      "title": "Crédito à economia real cresce 23,3% e supera expansão do crédito total em Angola",
-      "url": "https://forbesafricalusofona.com/credito-a-economia-real-cresce-233-e-supera-expansao-do-credito-total-em-angola/",
-      "source": "Forbes África",
-      "_key": "464ef8a0a30891b9",
-      "score": 7
-    },
-    {
-      "title": "Angola e Tanzânia assinam acordos de cooperação em…",
-      "url": "https://holdonangola.com/angola-e-tanzania-assinam-acordos-de-cooperacao-em-quatro-areas/",
-      "source": "Hold On Angola",
-      "_key": "7bab4b34cb82112d",
-      "score": 7
-    },
-    {
-      "title": "Regiões Barragem de Luachimo com Superávit de energia eléctrica ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/688556/barragem-de-luachimo-com-super%C3%A1vit-de-energia-el%C3%A9ctrica-",
-      "source": "Jornal de Angola",
-      "_key": "688dd06c5208e8eb",
-      "score": 7
-    },
-    {
-      "title": "Ministro de Estado aponta linhas de acção do ExecutivoO ministro de Estado e chefe da Casa Civil do Presidente da República apresentou, ontem, em Moscovo, as principais linhas de força da acção governativa do Executivo angolano, destacando os investimentos realizados e em curso nos sectores da Energia, Agricultura, Pescas, Transportes, Mineração e Infra-estruturas, áreas estratégicas para a diversificação da economia, o reforço da capacidade produtiva e a promoção do desenvolvimento sustentável.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688560/ministro-de-estado-aponta-linhas-de-ac%C3%A7%C3%A3o-do-executivo",
-      "source": "Jornal de Angola",
-      "_key": "9b05f69c2bf4f1f7",
-      "score": 7
-    },
-    {
-      "title": "Government Detects More Than 31,000 Possible “Ghost Employees” in Public Service",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10374",
-      "source": "Negócios de Angola",
-      "_key": "b27aff6efbe5f0a5",
-      "score": 7
-    },
-    {
-      "title": "Proposta de Lei da Identificação Civil e Criminal:...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-da-identificacao-civil-e-criminal-deputados-propoem-reforco-de-dados-pessoais-e-clarificacao-de-conceitos-juridicos-75739.html",
-      "source": "Novo Jornal",
-      "_key": "38885949900955e0",
-      "score": 7
-    },
-    {
-      "title": "Governo entrega ao Parlamento proposta do Orçamento...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-entrega-ao-parlamento-proposta-do-orcamento-geral-do-estado-para-2027-75732.html",
-      "source": "Novo Jornal",
-      "_key": "222d166cfd51bc0f",
-      "score": 7
-    },
-    {
-      "title": "Polícia Nacional lança Operação “Fim-de-semana Prolongado Seguro 2”",
-      "url": "https://opais.ao/ultima_hora/policia-nacional-lanca-operacao-fim-de-semana-prolongado-seguro-2/",
-      "source": "O País",
-      "_key": "3dab9eb2341adb01",
-      "score": 7
-    },
-    {
-      "title": "Ministro dos transportes propõe mecanismo de financiamento reembolsável para ligar capitais africanas",
-      "url": "https://opais.ao/economia/ministro-dos-transportes-propoe-mecanismo-de-financiamento-reembolsavel-para-ligar-capitais-africanas/",
-      "source": "O País",
-      "_key": "9ba150b9d9248d51",
-      "score": 7
-    },
-    {
-      "title": "Sector privado concentra 84,9% do crédito em Angola em Setembro",
-      "url": "https://correiokianda.info/sector-privado-concentra-849-do-credito-em-angola-em-setembro/",
+      "title": "Deputados regressam ao plenário para discutir OGE e matérias eleitorais",
+      "url": "https://correiokianda.info/deputados-regressam-ao-plenario-para-discutir-oge-e-materias-eleitorais/",
       "source": "Correio Kianda",
-      "_key": "36ea171d5108e98a",
+      "_key": "aec098e6ae56eaec",
       "score": 6
     },
     {
-      "title": "Crédito à economia em moeda nacional atinge 7,6 biliões de kwanzas",
-      "url": "https://correiokianda.info/credito-a-economia-em-moeda-nacional-atinge-76-bilioes-de-kwanzas/",
-      "source": "Correio Kianda",
-      "_key": "9e3cdb3878dcf15d",
-      "score": 6
-    },
-    {
-      "title": "Especialistas defendem investimento no capital humano e continuidade das reformas financeiras",
-      "url": "https://correiokianda.info/especialistas-defendem-investimento-no-capital-humano-e-continuidade-das-reformas-financeiras/",
-      "source": "Correio Kianda",
-      "_key": "d18bc682f65f9ce5",
-      "score": 6
-    },
-    {
-      "title": "Acordo para duplicar salários da função pública fica-se pelos 51%",
-      "url": "https://expansao.co.ao/angola/detalhe/acordo-para-duplicar-salarios-da-funcao-publica-fica-se-pelos-51-75720.html",
+      "title": "Express já movimenta mais dinheiro que ATM e TPA juntos",
+      "url": "https://expansao.co.ao/angola/detalhe/express-ja-movimenta-mais-dinheiro-que-atm-e-tpa-juntos-75758.html",
       "source": "Expansão",
-      "_key": "c3e1dff8ac437d9a",
+      "_key": "7f733e5e487e70ef",
       "score": 6
     },
     {
-      "title": "Angola e Indonésia exploram oportunidades de investimento no sector agrícola",
-      "url": "https://forbesafricalusofona.com/angola-e-indonesia-exploram-oportunidades-de-investimento-no-sector-agricola/",
-      "source": "Forbes África",
-      "_key": "f024b7250221b994",
+      "title": "Unitel convoca accionistas para decidir futuro do BFA",
+      "url": "https://expansao.co.ao/empresas/detalhe/unitel-convoca-accionistas-para-decidir-futuro-do-bfa-75762.html",
+      "source": "Expansão",
+      "_key": "54a6ec30b66d10d5",
       "score": 6
     },
     {
-      "title": "Bengo: violações sexuais e homicídios expõem fragilidades da…",
-      "url": "https://holdonangola.com/bengo-violacoes-sexuais-e-homicidios-expoem-fragilidades-da-seguranca-no-panguila/",
+      "title": "João Lourenço autoriza contratação para construção de edifícios da PGR",
+      "url": "https://correiokianda.info/joao-lourenco-autoriza-contratacao-para-construcao-de-edificios-da-pgr/",
+      "source": "Correio Kianda",
+      "_key": "e894dae66e7295ed",
+      "score": 5
+    },
+    {
+      "title": "Lei de Identificação Civil e Criminal reforça protecção…",
+      "url": "https://holdonangola.com/lei-de-identificacao-civil-e-criminal-reforca-proteccao-de-dados-de-menores/",
       "source": "Hold On Angola",
-      "_key": "0504e887ce39cc7c",
-      "score": 6
+      "_key": "de8fd755f75733f2",
+      "score": 5
     },
     {
-      "title": "Crédito à economia em moeda nacional cresce 11,9%…",
-      "url": "https://holdonangola.com/credito-a-economia-em-moeda-nacional-cresce-119-em-setembro/",
+      "title": "MCK acusa Governo de inverter valores e questiona combate à corrupção em Angola",
+      "url": "https://holdonangola.com/mck-acusa-governo-de-inverter-valores-e-questiona-combate-a-corrupcao-em-angola/",
       "source": "Hold On Angola",
-      "_key": "7f862c6f7caf6c93",
-      "score": 6
+      "_key": "b07cd8939a7e565b",
+      "score": 5
     },
     {
-      "title": "Regiões Navio Tchiowa completa 30 dias na rota Soyo–Cabinda ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/688590/navio-tchiowa-completa-30-dias-na-rota-soyo%E2%80%93cabinda",
+      "title": "Economia Associações agrícolas e industriais definem regras para safra 2026/2027 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688600/associa%C3%A7%C3%B5es-agr%C3%ADcolas-e-industriais-definem-regras-para-safra-20262027",
       "source": "Jornal de Angola",
-      "_key": "960c06463256ef5e",
-      "score": 6
+      "_key": "5be2bde1231f3919",
+      "score": 5
     },
     {
-      "title": "Economia Comité de governadores de bancos centrais avalia avanços na SADC ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/688537/comit%C3%A9-de-governadores-de-bancos-centrais-avalia-avan%C3%A7os-na-sadc",
-      "source": "Jornal de Angola",
-      "_key": "9b71789807c35410",
-      "score": 6
-    },
-    {
-      "title": "2026/2027 Agricultural Season Opens Today in Cunene Province",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10366",
-      "source": "Negócios de Angola",
-      "_key": "28338374a0d85336",
-      "score": 6
-    },
-    {
-      "title": "Apreendidos mais de 150 mil dólares camuflados numa...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/apreendidos-mais-de-150-mil-dolares-camuflados-numa-caixa-no-aiaan-75742.html",
-      "source": "Novo Jornal",
-      "_key": "e8e6e3c77b577040",
-      "score": 6
-    },
-    {
-      "title": "João Lourenço testemunha inauguração da Cidade Governamental de Mtumba",
-      "url": "https://opais.ao/politica/joao-lourenco-testemunha-inauguracao-da-cidade-governamental-de-mtumba/",
+      "title": "ENSA inaugura nova agência e instalações para Gestão de Fundos de Pensões na Marginal",
+      "url": "https://opais.ao/ultima_hora/ensa-inaugura-nova-agencia-e-instalacoes-para-gestao-de-fundos-de-pensoes-na-marginal/",
       "source": "O País",
-      "_key": "ee2256142b51e0f2",
-      "score": 6
+      "_key": "910431ee80acad2b",
+      "score": 5
     },
     {
-      "title": "Angola ocupa terceira posição no ranking mundial de produção de diamantes",
-      "url": "https://opais.ao/economia/angola-ocupa-terceira-posicao-no-ranking-mundial-de-producao-de-diamantes/",
-      "source": "O País",
-      "_key": "ebdb608bf36be13c",
-      "score": 6
-    },
-    {
-      "title": "Embaixadora de Angola em França aborda oportunidades de investimento com Grupo CANAL+",
-      "url": "https://opais.ao/economia/embaixadora-de-angola-em-franca-aborda-oportunidades-de-investimento-com-grupo-canal/",
-      "source": "O País",
-      "_key": "eae272cbbfd619c3",
-      "score": 6
-    },
-    {
-      "title": "Aumento do endividamento das famílias alavanca financiamento bancário",
-      "url": "https://valoreconomico.co.ao/artigo/aumento-do-endividamento-das-familias-alavanca-financiamento-bancario",
+      "title": "ARSEG exige pagamento pontual das pensões e defende inclusão do...",
+      "url": "https://valoreconomico.co.ao/artigo/arseg-exige-pagamento-pontual-das-pensoes-e-defende-inclusao-do-mercado-informal",
       "source": "Valor Económico",
-      "_key": "323076bd1c4c8735",
-      "score": 6
-    },
-    {
-      "title": "João Lourenço na Tanzânia para reforçar cooperação económica e virar página de...",
-      "url": "https://valoreconomico.co.ao/artigo/joao-lourenco-na-tanzania-para-reforcar-cooperacao-economica-e-virar-pagina-de-47-anos-de-interregno-diplomatico",
-      "source": "Valor Económico",
-      "_key": "89c2ec2a20bc18af",
-      "score": 6
-    },
-    {
-      "title": "Tanzânia anuncia reabertura da embaixada em Angola para reforçar cooperação bilateral",
-      "url": "https://correiokianda.info/legado-de-agostinho-neto-e-julius-nyerere-inspira-aproximacao-entre-angola-e-tanzania/",
-      "source": "Correio Kianda",
-      "_key": "bd4855cb6ff44f67",
-      "score": 5
-    },
-    {
-      "title": "Governo estende campanha de vacinação para alcançar 95% de cobertura",
-      "url": "https://correiokianda.info/governo-estende-campanha-de-vacinacao-para-alcancar-95-de-cobertura/",
-      "source": "Correio Kianda",
-      "_key": "8c97026486fbd755",
-      "score": 5
-    },
-    {
-      "title": "João Lourenço destaca papel da Tanzânia na libertação de África durante visita de Estado",
-      "url": "https://diariodosnegocios.com/joao-lourenco-destaca-papel-da-tanzania-na-libertacao-de-africa-durante-visita-de-estado/",
-      "source": "Diário dos Negócios",
-      "_key": "20e5f23b66478056",
-      "score": 5
-    },
-    {
-      "title": "Angola lidera África em dispositivos pirateados por hackers",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_20e1aa8c9ec094",
-      "score": 5
-    },
-    {
-      "title": "Transformar ambição em acção para que comércio internacional beneficie os mais vulneráveis",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_47aa95b3cbcb9c",
-      "score": 5
-    },
-    {
-      "title": "Ciências e tecnologias espaciais abrem porta a cursos alinhados à economia",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_5feca9a47e4bbf",
-      "score": 5
-    },
-    {
-      "title": "CONVIDADOXiangchen ZhangTransformar ambição em acção para que comércio internacional beneficie os mais vulneráveis",
-      "url": "https://expansao.co.ao/opiniao/detalhe/transformar-ambicao-em-accao-para-que-comercio-internacional-beneficie-os-mais-vulneraveis-75691.html",
-      "source": "Expansão",
-      "_key": "f3502fe3c226ba90",
-      "score": 5
-    },
-    {
-      "title": "Presidente do Tribunal de Contas de Angola defende modernização do controlo público e reforço da transparência na CPLP",
-      "url": "https://forbesafricalusofona.com/presidente-do-tribunal-de-contas-de-angola-defende-modernizacao-do-controlo-publico-e-reforco-da-transparencia-na-cplp/",
-      "source": "Forbes África",
-      "_key": "cad551b99cc3d52e",
-      "score": 5
-    },
-    {
-      "title": "Jovens auditores da CPLP recomendam reforço da transformação digital e da transparência nas instituições de controlo",
-      "url": "https://forbesafricalusofona.com/jovens-auditores-da-cplp-recomendam-reforco-da-transformacao-digital-e-da-transparencia-nas-instituicoes-de-controlo/",
-      "source": "Forbes África",
-      "_key": "2c07c44087504553",
-      "score": 5
-    },
-    {
-      "title": "João Lourenço autoriza contratação de 341 médicos especialistas por 26,5 milhões de dólares",
-      "url": "https://holdonangola.com/joao-lourenco-autoriza-contratacao-de-341-medicos-especialistas-por-265-milhoes-de-dolares/",
-      "source": "Hold On Angola",
-      "_key": "5ccc2a8adfffd011",
-      "score": 5
-    },
-    {
-      "title": "Destaque Presidente João Lourenço testemunha inauguração da cidade de Dodoma na Tanzânia O Presidente da República, João Lourenço, vai testemunhar, esta sexta-feira, a inauguração da cidade de Dodoma, no quadro da sua visita de Estado à República Unida da Tanzânia.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688555/presidente-jo%C3%A3o-louren%C3%A7o-testemunha-inaugura%C3%A7%C3%A3o-da-cidade-de-dodoma-na-tanz%C3%A2nia-",
-      "source": "Jornal de Angola",
-      "_key": "cae3fd73739879e7",
-      "score": 5
-    },
-    {
-      "title": "14:29 / 30 out. 2026 Discurso proferido pelo Presidente João Lourenço na cidade de Dodoma ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/688585/discurso-proferido-pelo-presidente-jo%C3%A3o-louren%C3%A7o-na-cidade-de-dodoma",
-      "source": "Jornal de Angola",
-      "_key": "781a8f8da2eb5b3c",
-      "score": 5
-    },
-    {
-      "title": "More Than 1.6 Million Vehicles in Angola Operate Without Mandatory Insurance",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10438",
-      "source": "Negócios de Angola",
-      "_key": "79d1c77999c04a72",
-      "score": 5
-    },
-    {
-      "title": "Luanda será a cidade mais populosa da África subsaariana em 2050",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-sera-a-cidade-mais-populosa-da-africa-subsaariana-em-2050-75734.html",
-      "source": "Novo Jornal",
-      "_key": "5f4abb2da604600c",
-      "score": 5
-    },
-    {
-      "title": "Detidos quatro cidadãos suspeitos de homicídio no Cuanza-Sul",
-      "url": "https://opais.ao/ultima_hora/detidos-quatro-cidadaos-suspeitos-de-homicidio-no-cuanza-sul/",
-      "source": "O País",
-      "_key": "b99644c603e3b00a",
-      "score": 5
-    },
-    {
-      "title": "Angola regista produção de 664 mil toneladas de pescado",
-      "url": "https://opais.ao/economia/angola-regista-producao-de-664-mil-toneladas-de-pescado/",
-      "source": "O País",
-      "_key": "833c2a88fa7ea54d",
-      "score": 5
-    },
-    {
-      "title": "Pequenos negócios, grandes desafios: como precificar sem perder clientes",
-      "url": "https://opais.ao/opiniao/pequenos-negocios-grandes-desafios-como-precificar-sem-perder-clientes/",
-      "source": "O País",
-      "_key": "4ce62a1de06aa7c3",
-      "score": 5
-    },
-    {
-      "title": "Ébola: RDCongo ultrapassa 10 mil casos e aproxima-se de cinco mil mortes",
-      "url": "https://opais.ao/mundo/ebola-rdcongo-ultrapassa-10-mil-casos-e-aproxima-se-de-cinco-mil-mortes/",
-      "source": "O País",
-      "_key": "3d9e5c7a05ab76a6",
+      "_key": "e14f5f44539bb8ea",
       "score": 5
     }
   ]
