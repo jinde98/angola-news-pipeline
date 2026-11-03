@@ -1,15 +1,309 @@
 {
-  "date": "2026-11-02",
-  "total_new": 2,
-  "total_filtered": 1,
+  "date": "2026-11-03",
+  "total_new": 118,
+  "total_filtered": 43,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Adão de Almeida exige medidas concretas para reforçar o papel...",
-      "url": "https://valoreconomico.co.ao/artigo/adao-de-almeida-exige-medidas-concretas-para-reforcar-o-papel-das-mulheres-na-economia-e-na-paz-em-africa",
+      "title": "Governo lança programa para regularizar trabalhadores estrangeiros em Angola",
+      "url": "https://opais.ao/ultima_hora/governo-lanca-programa-para-regularizar-trabalhadores-estrangeiros-em-angola/",
+      "source": "O País",
+      "_key": "34f45d1543f897ee",
+      "score": 10
+    },
+    {
+      "title": "Brent recupera terreno após queda de 8%",
+      "url": "https://expansao.co.ao/economia/detalhe/brent-recupera-terreno-apos-queda-de-8-75803.html",
+      "source": "Expansão",
+      "_key": "ff50714cd5d2718c",
+      "score": 9
+    },
+    {
+      "title": "Exportações de petróleo em Angola rendem 8,33 mil…",
+      "url": "https://holdonangola.com/exportacoes-de-petroleo-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "e08818fab822be55",
+      "score": 9
+    },
+    {
+      "title": "Petróleo Brent recua 2,56% e negoceia a 101,66 dólares por...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-recua-2-56-e-negoceia-a-101-66-dolares-por-barril",
       "source": "Valor Económico",
-      "_key": "4c6ac2ad8e658ec3",
+      "_key": "1b51b439302fda7f",
+      "score": 9
+    },
+    {
+      "title": "Subsídios aos combustíveis disparam para 4,2 mil milhões USD este ano",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_50ab203167fb31",
+      "score": 8
+    },
+    {
+      "title": "BFA, BAI e Standard \"açambarcam\" quase metade das divisas vendidas pelo Tesouro",
+      "url": "https://expansao.co.ao/empresas/detalhe/bfa-bai-e-standard-acambarcam-quase-metade-das-divisas-vendidas-pelo-tesouro-75794.html",
+      "source": "Expansão",
+      "_key": "bb5bc326d8ff23ba",
+      "score": 8
+    },
+    {
+      "title": "\"Os pagamentos em Kz e a falta de financiamento têm tirado competitividade às empresas nacionais\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/os-pagamentos-em-kz-e-a-falta-de-financiamento-tem-tirado-competitividade-as-empresas-nacionais-75793.html",
+      "source": "Expansão",
+      "_key": "83ed98dc3d05006d",
+      "score": 8
+    },
+    {
+      "title": "IFC investe mil milhões de dólares em Angola e prepara novos investimentos nos sectores bancário e agrícola",
+      "url": "https://forbesafricalusofona.com/ifc-investe-mil-milhoes-de-dolares-em-angola-e-prepara-novos-investimentos-nos-sectores-bancario-e-agricola/",
+      "source": "Forbes África",
+      "_key": "ac4d44695f0348f1",
+      "score": 8
+    },
+    {
+      "title": "Angola é dona do porto, mas conseguirá captar o valor...",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/angola-e-dona-do-porto-mas-conseguira-captar-o-valor-industrial-do-corredor-ii-75797.html",
+      "source": "Novo Jornal",
+      "_key": "6b4e0f73889679bd",
+      "score": 8
+    },
+    {
+      "title": "PIB nominal de mais de 100 mil milhões de dólares torna Angola sexta maior economia de África",
+      "url": "https://opais.ao/economia/pib-nominal-de-mais-de-100-mil-milhoes-de-dolares-torna-angola-sexta-maior-economia-de-africa/",
+      "source": "O País",
+      "_key": "fea3e38cfcec3f53",
+      "score": 8
+    },
+    {
+      "title": "Sexta edição da Cimeira Africana sobre Financiamento arranca amanhã em Luanda",
+      "url": "https://opais.ao/economia/sexta-edicao-da-cimeira-africana-sobre-financiamento-arranca-amanha-em-luanda/",
+      "source": "O País",
+      "_key": "57147089bf11f87a",
+      "score": 8
+    },
+    {
+      "title": "Massano alerta que escassez de crédito ameaça transformação económica de...",
+      "url": "https://valoreconomico.co.ao/artigo/massano-alerta-que-escassez-de-credito-ameaca-transformacao-economica-de-africa",
+      "source": "Valor Económico",
+      "_key": "79bada085a7ad39e",
+      "score": 8
+    },
+    {
+      "title": "Mota-Engil e Odebrecht ganham concurso para nova ligação ferroviária",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_0061984a04c6a8",
+      "score": 7
+    },
+    {
+      "title": "DIP Angola arranca obras de projecto residencial avaliado em 500 milhões USD",
+      "url": "https://expansao.co.ao/empresas/detalhe/dip-angola-arranca-obras-de-projecto-residencial-avaliado-em-500-milhoes-usd-75815.html",
+      "source": "Expansão",
+      "_key": "1d2e52a72e2d5b7f",
+      "score": 7
+    },
+    {
+      "title": "“África precisa de instituições estáveis para captar investimentos de longo prazoˮ, considera ministra das Finanças de Angola",
+      "url": "https://forbesafricalusofona.com/africa-precisa-de-instituicoes-estaveis-para-captar-investimentos-de-longo-prazo%cb%ae-considera-ministra-das-financas-de-angola/",
+      "source": "Forbes África",
+      "_key": "13e67c67289c7f3f",
+      "score": 7
+    },
+    {
+      "title": "Empresários angolanos chamados a cumprir requisitos bancários para obter financiamento",
+      "url": "https://forbesafricalusofona.com/empresarios-angolanos-chamados-a-cumprir-requisitos-bancarios-para-obter-financiamento/",
+      "source": "Forbes África",
+      "_key": "eb8f6b3f9ed19700",
+      "score": 7
+    },
+    {
+      "title": "Polícia regista redução de 23,3% da criminalidade durante fim-de-semana prolongado",
+      "url": "https://opais.ao/ultima_hora/policia-regista-reducao-de-233-da-criminalidade-durante-fim-de-semana-prolongado/",
+      "source": "O País",
+      "_key": "9a45348691ebffdc",
+      "score": 7
+    },
+    {
+      "title": "Petróleo, guerra e ilusão fiscal",
+      "url": "https://opais.ao/opiniao/petroleo-guerra-e-ilusao-fiscal/",
+      "source": "O País",
+      "_key": "212e327912e4dd9a",
+      "score": 7
+    },
+    {
+      "title": "Ministro de Estado quer financiamento traduzido em crescimento económico",
+      "url": "https://opais.ao/economia/ministro-de-estado-quer-financiamento-traduzido-em-crescimento-economico/",
+      "source": "O País",
+      "_key": "6c8f52abcb7f950e",
+      "score": 7
+    },
+    {
+      "title": "Ministro defende alargamento de instrumentos de financiamento à economia",
+      "url": "https://opais.ao/economia/ministro-defende-alargamento-de-instrumentos-de-financiamento-a-economia/",
+      "source": "O País",
+      "_key": "0d39e8426916918f",
+      "score": 7
+    },
+    {
+      "title": "Vera Daves adverte para a paragem do investimento em períodos...",
+      "url": "https://valoreconomico.co.ao/artigo/vera-daves-adverte-para-a-paragem-do-investimento-em-periodos-eleitorais-em-africa",
+      "source": "Valor Económico",
+      "_key": "578e1e5dd8d06cc0",
+      "score": 7
+    },
+    {
+      "title": "Angola integra fundo climático de 690 milhões de dólares para...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-integra-fundo-climatico-de-690-milhoes-de-dolares-para-financiamento-de-projectos-sustentaveis-15398",
+      "source": "Valor Económico",
+      "_key": "4f47077e7d775f6c",
+      "score": 7
+    },
+    {
+      "title": "Economista defende aposta no pagamento do endividamento interno no OGE 2027",
+      "url": "https://correiokianda.info/economista-defende-aposta-no-pagamento-do-endividamento-interno-no-oge-2027/",
+      "source": "Correio Kianda",
+      "_key": "3d6fe3da43d21a86",
       "score": 6
+    },
+    {
+      "title": "Desemprego em Luanda atinge 40,5% e os jovens são os mais penalizados",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_321fc7a1960f28",
+      "score": 6
+    },
+    {
+      "title": "Governo angolano defende maior mobilização de capital para financiar a transformação económica de África",
+      "url": "https://forbesafricalusofona.com/governo-angolano-defende-maior-mobilizacao-de-capital-para-financiar-a-transformacao-economica-de-africa/",
+      "source": "Forbes África",
+      "_key": "632e1400bb35cc08",
+      "score": 6
+    },
+    {
+      "title": "Expansão da rede eléctrica em Luanda e Icolo e Bengo...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/expansao-da-rede-electrica-em-luanda-e-icolo-e-bengo-consome-mais-201-milhoes-de-euros-75802.html",
+      "source": "Novo Jornal",
+      "_key": "bd52b81375163402",
+      "score": 6
+    },
+    {
+      "title": "Médio Oriente: A guerra pode estar de regresso em larga...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-a-guerra-pode-estar-de-regresso-em-larga-escala-resultado-das-eleicoes-de-hoje-nos-eua-e-determinante-para-todo-o-planeta-75800.html",
+      "source": "Novo Jornal",
+      "_key": "84308e5c2cf0dc8c",
+      "score": 6
+    },
+    {
+      "title": "LUANDA DOWNTOWN: DESAFIOS DA ECONOMIA DIGITAL E O EMPREGO EM ANGOLA.  ",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=75814",
+      "source": "Novo Jornal",
+      "_key": "95d214cb1cb75df9",
+      "score": 6
+    },
+    {
+      "title": "PR autoriza 45,9 milhões USD para reabilitação \"chave-na-mão\" da sede do Ministério da Educação",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-autoriza-459-milhoes-usd-para-reabilitacao-chave-na-mao-da-sede-do-ministerio-da-educacao-75799.html",
+      "source": "Novo Jornal",
+      "_key": "cb0070f90906c37e",
+      "score": 6
+    },
+    {
+      "title": "Angola acolhe quinta edição do BlueInvest África em Junho de 2027",
+      "url": "https://opais.ao/economia/angola-acolhe-quinta-edicao-do-blueinvest-africa-em-junho-de-2027/",
+      "source": "O País",
+      "_key": "5041dfa84f948c26",
+      "score": 6
+    },
+    {
+      "title": "Recomendações do GAFI levam Executivo a investir nas infra- estruturas da PGR",
+      "url": "https://opais.ao/politica/recomendacoes-do-gafi-levam-executivo-a-investir-nas-infra-estruturas-da-pgr/",
+      "source": "O País",
+      "_key": "8db60eb3a9cd9bd6",
+      "score": 6
+    },
+    {
+      "title": "Ministro de Estado destaca acções do Executivo no desenvolvimento de Angola na 3.ª Cimeira Rússia–África",
+      "url": "https://opais.ao/politica/ministro-de-estado-destaca-accoes-do-executivo-no-desenvolvimento-de-angola-na-3-a-cimeira-russia-africa/",
+      "source": "O País",
+      "_key": "da4d835a0aeff35e",
+      "score": 6
+    },
+    {
+      "title": "Angola distinguida nos Africa Tourism Awards 2026 pelo trabalho de atracção de investimentos",
+      "url": "https://opais.ao/economia/angola-distinguida-nos-africa-tourism-awards-2026-pelo-trabalho-de-atraccao-de-investimentos/",
+      "source": "O País",
+      "_key": "a5806d462074816d",
+      "score": 6
+    },
+    {
+      "title": "África regista surto de Ébola mais rápido, com quase 5 400 mortos",
+      "url": "https://opais.ao/mundo/africa-regista-surto-de-ebola-mais-rapido-com-quase-5-400-mortos/",
+      "source": "O País",
+      "_key": "d3a341b251766983",
+      "score": 6
+    },
+    {
+      "title": "Fim dos benefícios comerciais dos EUA ameaça milhares de empregos...",
+      "url": "https://valoreconomico.co.ao/artigo/fim-dos-beneficios-comerciais-dos-eua-ameaca-milhares-de-empregos-na-africa-do-sul",
+      "source": "Valor Económico",
+      "_key": "6efdf07fe18e84ec",
+      "score": 6
+    },
+    {
+      "title": "Ministra das Finanças autoriza 161,9 milhões por ajuste directo para alimentação da...",
+      "url": "https://valoreconomico.co.ao/artigo/ministra-das-financas-autoriza-161-9-milhoes-por-ajuste-directo-para-alimentacao-da-cimeira-afis-que-arrancou-hoje",
+      "source": "Valor Económico",
+      "_key": "da792b949dd7244e",
+      "score": 6
+    },
+    {
+      "title": "Executivo promete 3.600 novas salas de aula para 2027 e garante reforço financeiro",
+      "url": "https://correiokianda.info/executivo-promete-3-600-novas-salas-de-aula-para-2027-e-garante-reforco-financeiro/",
+      "source": "Correio Kianda",
+      "_key": "33f13213002ca2c3",
+      "score": 5
+    },
+    {
+      "title": "SIC deteve mais um suspeito de envolvimento na morte...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-deteve-mais-um-suspeito-de-envolvimento-na-morte-de-cidadao-chines-no-shopping-nova-era-75810.html",
+      "source": "Novo Jornal",
+      "_key": "260e6e608b46b6d2",
+      "score": 5
+    },
+    {
+      "title": "Petróleo: África abre banco para apoiar investimentos...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-africa-abre-banco-para-apoiar-investimentos-no-oil-gas-e-fugir-a-dependencia-de-investidores-externos-75818.html",
+      "source": "Novo Jornal",
+      "_key": "353a01089b9bdbc5",
+      "score": 5
+    },
+    {
+      "title": "SPCB sinaliza 27 mortos e 88 feridos no fim-de-semana prolongado",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/spcb-sinaliza-23-mortos-e-82-feridos-no-fim-de-semana-prolongado-75801.html",
+      "source": "Novo Jornal",
+      "_key": "62ee2de801157dac",
+      "score": 5
+    },
+    {
+      "title": "Acidentes de viação provocam 32 mortos e 229 feridos durante o feriado prolongado",
+      "url": "https://opais.ao/ultima_hora/acidentes-de-viacao-provocam-32-mortos-e-229-feridos-durante-o-feriado-prolongado/",
+      "source": "O País",
+      "_key": "6f8190d1589efed7",
+      "score": 5
+    },
+    {
+      "title": "Polícia Nacional detém três jovens e apreende pistola com três munições no Cazenga",
+      "url": "https://opais.ao/sociedade/policia-nacional-detem-tres-jovens-e-apreende-pistola-com-tres-municoes-no-cazenga/",
+      "source": "O País",
+      "_key": "c924bdc8c395bb27",
+      "score": 5
+    },
+    {
+      "title": "Bombeiros registam 27 mortos e mais de 100 feridos durante o feriado prolongado",
+      "url": "https://opais.ao/ultima_hora/bombeiros-registam-27-mortos-e-mais-de-100-feridos-durante-o-feriado-prolongado/",
+      "source": "O País",
+      "_key": "14691c54c5ec4741",
+      "score": 5
     }
   ]
 }
