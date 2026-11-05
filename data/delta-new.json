@@ -1,38 +1,788 @@
 {
-  "date": "2026-11-04",
-  "total_extracted": 843,
-  "total_new": 5,
-  "total_existing": 838,
+  "date": "2026-11-05",
+  "total_extracted": 844,
+  "total_new": 130,
+  "total_existing": 714,
   "articles": [
     {
-      "title": "Dois empregos, menos imposto | O que muda com o novo IRPS?",
-      "url": "https://expansao.co.ao/opiniao/detalhe/dois-empregos-menos-imposto-o-que-muda-com-o-novo-irps-75826.html",
+      "title": "Governo Provincial de Luanda terá 40 mil milhões de kwanzas para projectos estruturantes",
+      "url": "https://correiokianda.info/governo-provincial-de-luanda-tera-40-mil-milhoes-de-kwanzas-para-projectos-estruturantes/",
+      "source": "Correio Kianda",
+      "_key": "60bd8483baad0f58"
+    },
+    {
+      "title": "Congresso que elegeu Carlito Roberto aprofunda divisão interna na FNLA",
+      "url": "https://correiokianda.info/congresso-que-elegeu-carlito-roberto-aprofunda-divisao-interna-na-fnla/",
+      "source": "Correio Kianda",
+      "_key": "b37433de32377ee4"
+    },
+    {
+      "title": "“Atrasos na actualização de dados estão na origem de funcionários fantasmas”, diz Vera Daves",
+      "url": "https://correiokianda.info/atrasos-na-actualizacao-de-dados-estao-na-origem-de-funcionarios-fantasmas-diz-vera-daves/",
+      "source": "Correio Kianda",
+      "_key": "8944c9b227266a67"
+    },
+    {
+      "title": "Nova moeda metálica de 50 kwanzas entra em circulação em Janeiro",
+      "url": "https://correiokianda.info/nova-moeda-metalica-de-50-kwanzas-entra-em-circulacao-em-janeiro/",
+      "source": "Correio Kianda",
+      "_key": "796148e15bcd9b8b"
+    },
+    {
+      "title": "UNITEL conquista quatro prémios no FestiPub 2026 e leva distinção de Campanha do Ano",
+      "url": "https://correiokianda.info/unitel-conquista-quatro-premios-no-festipub-2026-e-leva-distincao-de-campanha-do-ano/",
+      "source": "Correio Kianda",
+      "_key": "2b7e4c675e5e04fc"
+    },
+    {
+      "title": "SADC une bancos centrais contra crises financeiras",
+      "url": "https://correiokianda.info/sadc-une-bancos-centrais-contra-crises-financeiras/",
+      "source": "Correio Kianda",
+      "_key": "b6def9ff71eecef3"
+    },
+    {
+      "title": "Guilhermina Prata destaca potencial do Corredor do Lobito",
+      "url": "https://correiokianda.info/guilhermina-prata-destaca-potencial-do-corredor-do-lobito/",
+      "source": "Correio Kianda",
+      "_key": "b2c2d312f06e983b"
+    },
+    {
+      "title": "ENDE mobiliza equipas para reparar avarias provocadas pela chuva em Luanda",
+      "url": "https://correiokianda.info/ende-mobiliza-equipas-para-reparar-avarias-provocadas-pela-chuva-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "d163d0308cde16b2"
+    },
+    {
+      "title": "“Monitorização permanente é fundamental para reduzir mortes nas UCI”, alerta médico",
+      "url": "https://correiokianda.info/monitorizacao-permanente-e-fundamental-para-reduzir-mortes-nas-uci-alerta-medico/",
+      "source": "Correio Kianda",
+      "_key": "8c30f2b027d4c9c1"
+    },
+    {
+      "title": "Filha menor morre com a mãe após serem surpreendidas por elefante no Cunene",
+      "url": "https://correiokianda.info/filha-menor-morre-com-a-mae-apos-serem-surpreendidas-por-elefante-no-cunene/",
+      "source": "Correio Kianda",
+      "_key": "5e7d437e32c51fa5"
+    },
+    {
+      "title": "Primeira-dama defende empoderamento feminino em Angola",
+      "url": "https://correiokianda.info/primeira-dama-defende-empoderamento-feminino/",
+      "source": "Correio Kianda",
+      "_key": "a15f4b947f391e02"
+    },
+    {
+      "title": "Especialistas defendem reforma administrativa para facilitar acesso à habitação em Angola",
+      "url": "https://correiokianda.info/especialistas-defendem-reforma-administrativa-para-facilitar-acesso-a-habitacao-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "efd5bc7388a588ae"
+    },
+    {
+      "title": "ANC lidera com 32% dos votos nas autárquicas sul-africanas",
+      "url": "https://correiokianda.info/anc-lidera-com-32-dos-votos-nas-autarquicas-sul-africanas/",
+      "source": "Correio Kianda",
+      "_key": "4222e9e61a0f8813"
+    },
+    {
+      "title": "Francisco Rodrigues dos Santos desvincula-se do CDS",
+      "url": "https://correiokianda.info/francisco-rodrigues-dos-santos-desvincula-se-do-cds/",
+      "source": "Correio Kianda",
+      "_key": "6ef7e9d5f84e25f0"
+    },
+    {
+      "title": "JD Vance culpa guerra no Irão por derrota dos republicanos",
+      "url": "https://correiokianda.info/jd-vance-culpa-guerra-no-irao-por-derrota-dos-republicanos/",
+      "source": "Correio Kianda",
+      "_key": "b28074bcb9039ad0"
+    },
+    {
+      "title": "Namíbia inaugura primeira ambulância aérea estatal",
+      "url": "https://correiokianda.info/namibia-inaugura-primeira-ambulancia-aerea-estatal/",
+      "source": "Correio Kianda",
+      "_key": "c816fef12e34f006"
+    },
+    {
+      "title": "Cristiano Ronaldo anuncia despedida da seleção portuguesa",
+      "url": "https://correiokianda.info/cristiano-ronaldo-anuncia-despedida-da-selecao-portuguesa/",
+      "source": "Correio Kianda",
+      "_key": "f73d5c8fb819bd61"
+    },
+    {
+      "title": "FC Porto brilha diante do Nápoles numa jornada marcada por goleada histórica do Como",
+      "url": "https://correiokianda.info/fc-porto-brilha-diante-do-napoles-numa-jornada-marcada-por-goleada-historica-do-como/",
+      "source": "Correio Kianda",
+      "_key": "d5cc364ca2e8c85a"
+    },
+    {
+      "title": "RDC em destaque nos CAF Awards; Angola ausente",
+      "url": "https://correiokianda.info/rdc-em-destaque-nos-nomeados-angola-ausente/",
+      "source": "Correio Kianda",
+      "_key": "02fd674e2b00f0fc"
+    },
+    {
+      "title": "D’Agosto e Wiliete de Benguela empatam sem golos no França Ndalo",
+      "url": "https://correiokianda.info/dagosto-e-wiliete-de-benguela-empatam-sem-golos-no-franca-ndalo/",
+      "source": "Correio Kianda",
+      "_key": "01f8356214802186"
+    },
+    {
+      "title": "Senegal: quando a promessa de ruptura política esbarra na realidade económica",
+      "url": "https://correiokianda.info/senegal-quando-a-promessa-de-ruptura-politica-esbarra-na-realidade-economica/",
+      "source": "Correio Kianda",
+      "_key": "b3a777ab88121175"
+    },
+    {
+      "title": "JD Vance e 2028: a sucessão de Trump já começou?",
+      "url": "https://correiokianda.info/jd-vance-e-2028-a-sucessao-de-trump-ja-comecou/",
+      "source": "Correio Kianda",
+      "_key": "a67d7a5ea4cb2645"
+    },
+    {
+      "title": "África do Sul: o declínio do ANC e a consolidação de uma nova era de competição política",
+      "url": "https://correiokianda.info/africa-do-sul-o-declinio-do-anc-e-a-consolidacao-de-uma-nova-era-de-competicao-politica/",
+      "source": "Correio Kianda",
+      "_key": "9a1418cb09b60ba1"
+    },
+    {
+      "title": "A democracia do centralismo democrático: entre o espírito e o congresso ordinário do MPLA",
+      "url": "https://correiokianda.info/centralismo-democratico-e-os-desafios-da-democracia-interna-no-mpla/",
+      "source": "Correio Kianda",
+      "_key": "78f2531613e2f513"
+    },
+    {
+      "title": "A derrota de Trump e a reconfiguração do poder em Washington: que consequências para a ordem internacional?",
+      "url": "https://correiokianda.info/a-derrota-de-trump-e-a-reconfiguracao-do-poder-em-washington-que-consequencias-para-a-ordem-internacional/",
+      "source": "Correio Kianda",
+      "_key": "e1f05fe907150ca9"
+    },
+    {
+      "title": "        África32 minutos atrás  Moçambique: Daniel Chapo alerta para riscos do crescimento populacional acima da capacidade económica O Presidente de Moçambique, Daniel Chapo, alertou esta quinta-feira, 4, para os riscos de o crescimento da população ultrapassar o ritmo de expansão da economia, considerando...   ",
+      "url": "https://correiokianda.info/mocambique-daniel-chapo-alerta-para-riscos-do-crescimento-populacional-acima-da-capacidade-economica/",
+      "source": "Correio Kianda",
+      "_key": "321bf6f402dac2e1"
+    },
+    {
+      "title": "Serviço de Protecção Civil e Bombeiros expulsa seis efectivos e despromove dois oficiais",
+      "url": "https://diariodosnegocios.com/dn-6deff6cb39a190ed656335ed/",
+      "source": "Diário dos Negócios",
+      "_key": "fe2dcf6bd7a728d7"
+    },
+    {
+      "title": "Centenas de milhões autorizados e apenas três ruas reabertas na Nova Vida",
+      "url": "",
       "source": "Expansão",
-      "_key": "62a31c33684fe683"
+      "_key": "t_74559e9e5fa7dc"
     },
     {
-      "title": "ANAMOLA integra Internacional Liberal por unanimidade no 65.º…",
-      "url": "https://holdonangola.com/anamola-integra-internacional-liberal/",
+      "title": "População de Moçambique poderá atingir 60 milhões de habitantes até 2050",
+      "url": "https://forbesafricalusofona.com/populacao-de-mocambique-podera-atingir-60-milhoes-de-habitantes-ate-2050/",
+      "source": "Forbes África",
+      "_key": "df73d821a710460f"
+    },
+    {
+      "title": "Governo angolano aumenta gastos com viagens para 274 mil milhões kz e ‘corta’ na malária",
+      "url": "https://forbesafricalusofona.com/governo-angolano-aumenta-gastos-com-viagens-para-274-mil-milhoes-kz-e-corta-na-malaria/",
+      "source": "Forbes África",
+      "_key": "cf4d5005d48be4cd"
+    },
+    {
+      "title": "De Beers mobiliza mais de 30 milhões de dólares para exploração e projectos ambientais em Angola",
+      "url": "https://forbesafricalusofona.com/de-beers-mobiliza-mais-de-30-milhoes-de-dolares-para-exploracao-e-projectos-ambientais-em-angola/",
+      "source": "Forbes África",
+      "_key": "4458605c604b28c7"
+    },
+    {
+      "title": "PGR de Cabo Verde investiga candidato presidencial Gilson Alves por suspeita de incitação ao crime",
+      "url": "https://forbesafricalusofona.com/pgr-de-cabo-verde-investiga-candidato-presidencial-gilson-alves-por-suspeita-de-incitacao-ao-crime/",
+      "source": "Forbes África",
+      "_key": "3305ace1ee251f43"
+    },
+    {
+      "title": "Cabo Verde e Japão assinam acordo de assistência alimentar de 1,4 milhões de euros",
+      "url": "https://forbesafricalusofona.com/cabo-verde-e-japao-assinam-acordo-de-assistencia-alimentar-de-14-milhoes-de-euros/",
+      "source": "Forbes África",
+      "_key": "737290bfd5eebc13"
+    },
+    {
+      "title": "Governo moçambicano prevê investir 56 milhões de dólares na recuperação de infra-estruturas e serviços públicos",
+      "url": "https://forbesafricalusofona.com/governo-mocambicano-preve-investir-56-milhoes-de-dolares-na-recuperacao-de-infra-estruturas-e-servicos-publicos/",
+      "source": "Forbes África",
+      "_key": "55091b54be8d0eff"
+    },
+    {
+      "title": "Luanda acolhe lançamento da Rede dos Bancos Centrais dos Países de Língua Portuguesa",
+      "url": "https://forbesafricalusofona.com/luanda-acolhe-lancamento-da-rede-dos-bancos-centrais-dos-paises-de-lingua-portuguesa/",
+      "source": "Forbes África",
+      "_key": "700d85bfbba8ca60"
+    },
+    {
+      "title": "CPLP felicita Angola pela entrada na Comunidade Ibero-Americana como Estado Observador Associado",
+      "url": "https://forbesafricalusofona.com/cplp-felicita-angola-pela-entrada-na-comunidade-ibero-americana-como-estado-observador-associado/",
+      "source": "Forbes África",
+      "_key": "8a8147801fc78667"
+    },
+    {
+      "title": "PR de Moçambique alerta para riscos do crescimento populacional superar expansão económica em Moçambique",
+      "url": "https://forbesafricalusofona.com/pr-de-mocambique-alerta-para-riscos-do-crescimento-populacional-superar-expansao-economica-em-mocambique/",
+      "source": "Forbes África",
+      "_key": "1ac2821a03b5e13e"
+    },
+    {
+      "title": "B𝐚𝐧𝐜𝐨 𝐒𝐨𝐥 𝐞 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐨𝐫𝐚 𝐢𝐧𝐭𝐞𝐫𝐧𝐚𝐜𝐢𝐨𝐧𝐚𝐥 𝐀𝐥𝐯𝐚𝐫𝐞𝐳 & 𝐌𝐚𝐫𝐬𝐚𝐥 𝐥𝐞𝐯𝐚𝐦 𝐜𝐫𝐞́𝐝𝐢𝐭𝐨 𝐦𝐚𝐥𝐩𝐚𝐫𝐚𝐝𝐨 𝐚 𝐝𝐞𝐛𝐚𝐭𝐞",
+      "url": "https://forbesafricalusofona.com/b%f0%9d%90%9a%f0%9d%90%a7%f0%9d%90%9c%f0%9d%90%a8-%f0%9d%90%92%f0%9d%90%a8%f0%9d%90%a5-%f0%9d%90%9e-%f0%9d%90%9c%f0%9d%90%a8%f0%9d%90%a7%f0%9d%90%ac%f0%9d%90%ae%f0%9d%90%a5%f0%9d%90%ad%f0%9d%90%a8/",
+      "source": "Forbes África",
+      "_key": "b9472ad0fda3617a"
+    },
+    {
+      "title": "Angola 2035: diplomacia e soberania em destaque no colóquio internacional em Paris",
+      "url": "https://holdonangola.com/angola-2035-diplomacia-soberania/",
       "source": "Hold On Angola",
-      "_key": "3e6cb4dc7def9f77"
+      "_key": "52663b77569c083c"
     },
     {
-      "title": "Angola e China reforçam cooperação nos sectores da energia e das águas",
-      "url": "https://opais.ao/politica/angola-e-china-reforcam-cooperacao-nos-sectores-da-energia-e-das-aguas/",
+      "title": "Adalberto Costa Júnior propõe refinarias modulares para reduzir a importação de combustíveis",
+      "url": "https://holdonangola.com/adalberto-costa-junior-propoe-refinarias-modulares/",
+      "source": "Hold On Angola",
+      "_key": "78fc80e25bbf8f90"
+    },
+    {
+      "title": "MPLA chumba candidatura de António Venâncio à liderança…",
+      "url": "https://holdonangola.com/mpla-chumba-candidatura-de-antonio-venancio-a-lideranca-do-partido/",
+      "source": "Hold On Angola",
+      "_key": "a126b42fb4a0b592"
+    },
+    {
+      "title": "Angola 2035: representante adjunto da UNITA em França…",
+      "url": "https://holdonangola.com/angola-2035-representante-adjunto-da-unita-em-franca-questiona-transparencia-das-receitas-do-corredor-do-lobito/",
+      "source": "Hold On Angola",
+      "_key": "18b0b4f0e2d20bd9"
+    },
+    {
+      "title": "Helena Bonguela Abel defende maior poder das mulheres…",
+      "url": "https://holdonangola.com/helena-bonguela-abel-mulheres-paz/",
+      "source": "Hold On Angola",
+      "_key": "3b029563f4850d1d"
+    },
+    {
+      "title": "Quinta-feira, 5 de Novembro, 2026",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_d75d34788db3cf"
+    },
+    {
+      "title": "Bancos centrais de África prevêem criação de moeda única até 2034Os 18 governadores de bancos centrais africanos que participaram na VI edição da Africa Financial Summit (AFIS) 2026, encerrada quarta-feira em Luanda, convergiram na necessidade de criar uma moeda única continental até 2034. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698775/bancos-centrais-de-%C3%A1frica-prev%C3%AAem-cria%C3%A7%C3%A3o-de-moeda-%C3%BAnica-at%C3%A9-2034",
+      "source": "Jornal de Angola",
+      "_key": "ccda53d649926b4a"
+    },
+    {
+      "title": "Téte António convida homólogo espanhol a visitar AngolaO ministro das Relações Exteriores, Téte António, manteve, na quarta-feira, em Madrid, um encontro de trabalho com o ministro dos Negócios Estrangeiros, União Europeia e Cooperação do Reino de Espanha, José Manuel Albares, ocasião em que o convidou a efectuar uma visita oficial a Angola.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698774/t%C3%A9te-ant%C3%B3nio-convida-hom%C3%B3logo-espanhol-a-visitar-angola",
+      "source": "Jornal de Angola",
+      "_key": "1460831edab13c24"
+    },
+    {
+      "title": "Destaque Embaixador chinês recebido no Palácio PresidencialO Presidente da República, João Lourenço, recebeu, esta quarta-feira, em audiência, o Embaixador Extraordinário e Plenipotenciário da República Popular da China acreditado em Angola, Zhang Bin.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698772/embaixador-chin%C3%AAs-recebido-no-pal%C3%A1cio-presidencial",
+      "source": "Jornal de Angola",
+      "_key": "6011e984bbef3f28"
+    },
+    {
+      "title": "Destaque João Lourenço orienta V Reunião Extraordinária do Comité Central do MPLAO Presidente do MPLA, João Lourenço, orienta, neste momento, a V Reunião Extraordinária do Comité Central do referido partido politico.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698843/jo%C3%A3o-louren%C3%A7o-orienta-v-reuni%C3%A3o-extraordin%C3%A1ria-do-comit%C3%A9-central-do-mpla",
+      "source": "Jornal de Angola",
+      "_key": "5311d7594db0ae40"
+    },
+    {
+      "title": "Destaque Formalizada adesão de Angola à Comunidade Ibero-Americana A adesão de Angola à Comunidade Ibero-Americana, na qualidade de Estado Observador Associado, foi formalizada, quarta-feira, durante a 30.ª Cimeira Ibero-Americana de Chefes de Estado e de Governo que decorre em Madrid, na Espanha.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698830/formalizada-ades%C3%A3o-de-angola-%C3%A0-comunidade-ibero-americana",
+      "source": "Jornal de Angola",
+      "_key": "caac5b1f0f33c183"
+    },
+    {
+      "title": "Economia Corredor do Lobito destacado como motor de desenvolvimento e soberania ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698853/corredor-do-lobito-destacado-como-motor-de-desenvolvimento-e-soberania",
+      "source": "Jornal de Angola",
+      "_key": "fabbe5d92a3caa5d"
+    },
+    {
+      "title": "Desporto Angola recebe pela primeira vez prova internacional de aventura Land Rover Defender Trophy ",
+      "url": "https://www.jornaldeangola.ao/noticias/6/desporto/698852/angola-recebe-pela-primeira-vez-prova-internacional-de-aventura-land-rover-defender-trophy",
+      "source": "Jornal de Angola",
+      "_key": "a8a3176db83e4198"
+    },
+    {
+      "title": "Sociedade Luanda acolhe Culto de cânticos corais e oração para assinalar o Dia da Independência ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698851/luanda-acolhe-culto-de-c%C3%A2nticos-corais-e-ora%C3%A7%C3%A3o-para-assinalar-o-dia-da-independ%C3%AAncia-",
+      "source": "Jornal de Angola",
+      "_key": "de036f503b96273f"
+    },
+    {
+      "title": "Regiões Descarga elétrica mata uma pessoa no Zaire ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/698850/descarga-el%C3%A9trica-mata-uma-pessoa-no-zaire",
+      "source": "Jornal de Angola",
+      "_key": "95ee405cbe13156d"
+    },
+    {
+      "title": "Sociedade Instituto de Saúde e Ordem dos Médicos avaliam medidas para fortalecer formação especializada ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698849/instituto-de-sa%C3%BAde-e-ordem-dos-m%C3%A9dicos-avaliam-medidas-para-fortalecer-forma%C3%A7%C3%A3o-especializada",
+      "source": "Jornal de Angola",
+      "_key": "cef4a205ec33c870"
+    },
+    {
+      "title": "Política Angola e Coreia do Sul reforçam cooperação no domínio da Inteligência Artificial ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698848/angola-e-coreia-do-sul-refor%C3%A7am-coopera%C3%A7%C3%A3o-no-dom%C3%ADnio-da-intelig%C3%AAncia-artificial",
+      "source": "Jornal de Angola",
+      "_key": "6e8f8bb5f2e3be73"
+    },
+    {
+      "title": "Sociedade Angola na primeira conferência internacional sobre serviços de busca e salvamento em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698847/angola-na-primeira-confer%C3%AAncia-internacional-sobre-servi%C3%A7os-de-busca-e-salvamento-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "718248bd46c497be"
+    },
+    {
+      "title": "Política CPLP felicita Angola pelo estatuto de Estado Observador Associado da Comunidade Ibero-Americana ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698845/cplp-felicita-angola-pelo-estatuto-de-estado-observador-associado-da-comunidade-ibero-americana",
+      "source": "Jornal de Angola",
+      "_key": "44cac2150c701ad3"
+    },
+    {
+      "title": "Sociedade ENDE garante restabelecimento da energia eléctrica em zonas afectadas devido à chuva ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698836/ende-garante-restabelecimento-da-energia-el%C3%A9ctrica-em-zonas-afectadas-devido-%C3%A0-chuva",
+      "source": "Jornal de Angola",
+      "_key": "a972e9173092f146"
+    },
+    {
+      "title": "Mundo Vice-presidente da Baviera encontrado morto em quarto de hotel em Berlim ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/698791/vice-presidente-da-baviera-encontrado-morto-em-quarto-de-hotel-em-berlim",
+      "source": "Jornal de Angola",
+      "_key": "2b1eb0b4cb15fb57"
+    },
+    {
+      "title": "Economia Executivo quer maior engajamento dos governos provinciais na promoção da empregabilidade ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698787/executivo-quer-maior-engajamento-dos-governos-provinciais-na-promo%C3%A7%C3%A3o-da-empregabilidade",
+      "source": "Jornal de Angola",
+      "_key": "38786d1718fcf6cb"
+    },
+    {
+      "title": "Política Parlamentares da região exigem fim de barreiras à integração da mulher ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/698786/parlamentares-da-regi%C3%A3o-exigem-fim--de-barreiras-%C3%A0-integra%C3%A7%C3%A3o-da-mulher",
+      "source": "Jornal de Angola",
+      "_key": "33165698ca6cc7a3"
+    },
+    {
+      "title": "O Ano Agrícola e a força de uma Angola que produz",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/698844/o-ano-agr%C3%ADcola--e-a-for%C3%A7a-de-uma-angola-que-produz",
+      "source": "Jornal de Angola",
+      "_key": "2f92f62a27cc3cf4"
+    },
+    {
+      "title": "Rússia – África: Cimeira de Moscovo reforça parceria e abre novas perspectivas de cooperação com Angola",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/698841/r%C3%BAssia-%E2%80%93-%C3%A1frica:-cimeira--de-moscovo-refor%C3%A7a-parceria--e-abre-novas-perspectivas--de-coopera%C3%A7%C3%A3o-com-angola",
+      "source": "Jornal de Angola",
+      "_key": "05901ba4294c5dc0"
+    },
+    {
+      "title": "O talento angolano em destaque",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/698839/o-talento-angolano--em-destaque",
+      "source": "Jornal de Angola",
+      "_key": "db9acd07a4a4e8c3"
+    },
+    {
+      "title": "Mundo05/11/2026Membros do Governo etíope submetidos a treino militar",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/698838/membros-do-governo-et%C3%ADope-submetidos-a-treino-militar",
+      "source": "Jornal de Angola",
+      "_key": "dfe449d44620c4fe"
+    },
+    {
+      "title": "Mundo05/11/2026Guiné-Bissau quer financiar Plano de Desenvolvimento",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/698829/guin%C3%A9-bissau-quer-financiar-plano-de-desenvolvimento",
+      "source": "Jornal de Angola",
+      "_key": "2fbf594d0aa29e92"
+    },
+    {
+      "title": "Mundo05/11/2026Líder ucraniano condecora Primeira-Dama americana",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/698828/l%C3%ADder-ucraniano-condecora--primeira-dama-americana",
+      "source": "Jornal de Angola",
+      "_key": "cb0b9ae76f6a8ca8"
+    },
+    {
+      "title": "Mundo05/11/2026Vitória dos democratas gera mudanças nos EUA",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/698824/vit%C3%B3ria-dos-democratas-gera-mudan%C3%A7as-nos-eua",
+      "source": "Jornal de Angola",
+      "_key": "0946e21e532e3fef"
+    },
+    {
+      "title": "Última hora Angola e Banco Mundial avaliam preenchimento de 735 vagas de formação para 2027",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698770/angola-e-banco-mundial-avaliam-preenchimento-de-735-vagas-de-forma%C3%A7%C3%A3o-para-2027",
+      "source": "Jornal de Angola",
+      "_key": "9cef5b003565cc4c"
+    },
+    {
+      "title": "Última hora Embaixador José Patrício: Angola tem portas abertas para investimento no turismo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698769/embaixador-jos%C3%A9-patr%C3%ADcio:-angola-tem-portas-abertas-para-investimento-no-turismo-",
+      "source": "Jornal de Angola",
+      "_key": "fb44a3d3c1ee9949"
+    },
+    {
+      "title": "Bureau político e comité central do MPLA reunidos esta...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/bureau-politico-e-comite-central-do-mpla-reunidos-esta-quinta-feira-sob-orientacao-de-joao-lourenco-dossier-do-9-congresso-domina-o-encontro-75862.html",
+      "source": "Novo Jornal",
+      "_key": "60d26553edc77538"
+    },
+    {
+      "title": "PR aprova despesa de 133,5 mil milhões de kwanzas para...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-aprova-despesa-de-1335-mil-milhoes-de-kwanzas-para-construcao-de-108-km-do-troco-cacoloalto-chicapa-por-ajuste-directo-75861.html",
+      "source": "Novo Jornal",
+      "_key": "6308056f5594836e"
+    },
+    {
+      "title": "PR autoriza empréstimos de mais de 350 milhões USD...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-autoriza-emprestimos-de-mais-de-350-milhoes-usd-para-infraestruturas-em-luanda-e-apoio-a-tesouraria-75853.html",
+      "source": "Novo Jornal",
+      "_key": "ecb0f516925724b2"
+    },
+    {
+      "title": "Luanda: Bombeiros expulsam seis efectivos e despromovem...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-bombeiros-expulsam-seis-efectivos-e-despromovem-dois-oficiais-superiores-por-burla-e-abandono-do-posto-de-trabalho-75864.html",
+      "source": "Novo Jornal",
+      "_key": "bae3e1fee563a122"
+    },
+    {
+      "title": "Sambizanga: Trabalhadores da ELISAL assaltados e agredidos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sambizanga-trabalhadores-da-elisal-assaltados-e-agredidos-durante-limpeza-apos-chuva-desta-quarta-feira-empresa-diz-que-assaltos-tem-sido-recorrentes-75863.html",
+      "source": "Novo Jornal",
+      "_key": "2191e08122c9fab4"
+    },
+    {
+      "title": "Cabinda: Apreendidas centenas de viaturas com depósitos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cabinda-apreendidas-centenas-de-viaturas-com-depositos-adulterados-e-cabecilhas-do-contrabando-de-combustiveis-detidos-gestores-de-bombas-identificados-como-coniventes-75858.html",
+      "source": "Novo Jornal",
+      "_key": "8ecc5fcc6392427b"
+    },
+    {
+      "title": "OGE 2027: Quase metade do novo endividamento de Angola...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/oge-2027-quase-metade-do-novo-endividamento-de-angola-serve-para-pagar-divida-antiga-75845.html",
+      "source": "Novo Jornal",
+      "_key": "84e6a5155b5358b6"
+    },
+    {
+      "title": "Petróleo: Barril de Brent está nos \"cuidados intensivos\"...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-de-brent-esta-nos-cuidados-intensivos-depois-de-colisao-com-as-eleicoes-norte-americanas-75854.html",
+      "source": "Novo Jornal",
+      "_key": "712791d79ba72687"
+    },
+    {
+      "title": "Ébola: A epidemia mais difícil de combater na RDC é...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/ebola-a-epidemia-mais-dificil-de-combate-na-rdc-e-tambem-a-que-mais-gera-estigma-social-75865.html",
+      "source": "Novo Jornal",
+      "_key": "93cf242dc5dbbbac"
+    },
+    {
+      "title": "CR7 abandona a selecção portuguesa em definitivo",
+      "url": "https://www.novojornal.co.ao/desporto/detalhe/cr7-abandona-a-seleccao-portuguesa-em-definitivo-75859.html",
+      "source": "Novo Jornal",
+      "_key": "baa3dd601774333a"
+    },
+    {
+      "title": "A inteligência artificial, a economia e o futuro",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-inteligencia-artificial-a-economia-e-o-futuro-75852.html",
+      "source": "Novo Jornal",
+      "_key": "81934dcef65d02ec"
+    },
+    {
+      "title": "Cuanza-Sul: Homem mata a mulher à pancada e enterra o corpo num matagal",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cuanza-sul-homem-mata-a-mulher-a-pancada-e-enterra-o-corpo-num-matagal-75855.html",
+      "source": "Novo Jornal",
+      "_key": "679d7a9f32ddcbb7"
+    },
+    {
+      "title": "Lunda-Norte: Agente dos bombeiros condenado a 11 meses de prisão por ameaçar superior com arma de fogo",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/lunda-norte-agente-dos-bombeiros-condenado-a-11-meses-de-prisao-por-ameacar-superior-com-arma-de-fogo-75857.html",
+      "source": "Novo Jornal",
+      "_key": "f9cecba2e2b79a69"
+    },
+    {
+      "title": "Cidadão de 32 anos detido por suspeita de assassinar a esposa de 62 no Cuanza-Sul",
+      "url": "https://opais.ao/ultima_hora/cidadao-de-32-anos-detido-por-suspeita-de-assassinar-a-esposa-de-62-no-cuanza-sul/",
       "source": "O País",
-      "_key": "208d57d2ff466486"
+      "_key": "ee11b17a2aad432d"
     },
     {
-      "title": "FAA defendem preservação da memória dos militares tombados em defesa da Pátria",
-      "url": "https://opais.ao/politica/faa-defendem-preservacao-da-memoria-dos-militares-tombados-em-defesa-da-patria/",
+      "title": "Polícia Nacional detém cidadão que se fazia passar por agente da corporação",
+      "url": "https://opais.ao/sociedade/policia-nacional-detem-cidadao-que-se-fazia-passar-por-agente-da-corporacao/",
       "source": "O País",
-      "_key": "453cecc5fb01576e"
+      "_key": "c2283c74e5d96543"
     },
     {
-      "title": "Governo quer cartões internacionais aceites em toda a rede de...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-quer-cartoes-internacionais-aceites-em-toda-a-rede-de-pagamentos-em-angola",
+      "title": "SIC apreende 40 supostas pedras de diamantes no Lucapa",
+      "url": "https://opais.ao/ultima_hora/sic-apreende-40-supostas-pedras-de-diamantes-no-lucapa/",
+      "source": "O País",
+      "_key": "8d915e35e22b5670"
+    },
+    {
+      "title": "SPCB demite seis efectivos e despromove dois oficiais superiores por actos de burla",
+      "url": "https://opais.ao/ultima_hora/spcb-demite-seis-efectivos-e-despromove-dois-oficiais-superiores-por-actos-de-burla/",
+      "source": "O País",
+      "_key": "bdca02c65e0cddd1"
+    },
+    {
+      "title": "CR7 anuncia saída da Seleção Portuguesa",
+      "url": "https://opais.ao/desporto/cr7-anuncia-saida-da-selecao-portuguesa/",
+      "source": "O País",
+      "_key": "5e79a69338b5fd8d"
+    },
+    {
+      "title": "1.º de Agosto e Wiliete repartem pontos no França Ndalu",
+      "url": "https://opais.ao/desporto/1-o-de-agosto-e-wiliete-repartem-pontos-no-franca-ndalu/",
+      "source": "O País",
+      "_key": "d78bf6f3363e2e35"
+    },
+    {
+      "title": "AGT regista adesão de mais de 85 mil contribuintes à facturação electrónica",
+      "url": "https://opais.ao/economia/agt-regista-adesao-de-mais-de-85-mil-contribuintes-a-facturacao-electronica/",
+      "source": "O País",
+      "_key": "764cd48297aa5452"
+    },
+    {
+      "title": "MAPTSS mobiliza governos provinciais para dinamizar projectos de emprego juvenil",
+      "url": "https://opais.ao/politica/maptss-mobiliza-governos-provinciais-para-dinamizar-projectos-de-emprego-juvenil/",
+      "source": "O País",
+      "_key": "b3e6d5ea2d9bf50d"
+    },
+    {
+      "title": "De BEERS reafirma interesse em continuar a investir em Angola.",
+      "url": "https://opais.ao/politica/de-beers-reafirma-interesse-em-continuar-a-investir-em-angola/",
+      "source": "O País",
+      "_key": "d14d22f209271b8c"
+    },
+    {
+      "title": "GPL e ERCA promovem seminário sobre literacia mediática e integridade da informação",
+      "url": "https://opais.ao/sociedade/gpl-e-erca-promovem-seminario-sobre-literacia-mediatica-e-integridade-da-informacao/",
+      "source": "O País",
+      "_key": "2c33ccea95eb777c"
+    },
+    {
+      "title": "Vice-presidente do Governo da Baviera encontrado morto no quarto de um hotel",
+      "url": "https://opais.ao/politica/vice-presidente-do-governo-da-baviera-encontrado-morto-no-quarto-de-um-hotel/",
+      "source": "O País",
+      "_key": "edcc43108aa88db2"
+    },
+    {
+      "title": "A conformidade que se prova abre portas",
+      "url": "https://opais.ao/opiniao/a-conformidade-que-se-prova-abre-portas/",
+      "source": "O País",
+      "_key": "3821a5872c1a622b"
+    },
+    {
+      "title": "A democracia do centralismo democrático: entre o espírito e o congresso ordinário do MPLA",
+      "url": "https://opais.ao/opiniao/a-democracia-do-centralismo-democratico-entre-o-espirito-e-o-congresso-ordinario-do-mpla/",
+      "source": "O País",
+      "_key": "7315196c5e4821d8"
+    },
+    {
+      "title": "A internet tornou-se, para as pessoas, uma ‘zona desconfortável’?!",
+      "url": "https://opais.ao/opiniao/a-internet-tornou-se-para-as-pessoas-uma-zona-desconfortavel/",
+      "source": "O País",
+      "_key": "0d9ff72218ea2ec4"
+    },
+    {
+      "title": "Vender muito não significa ganhar muito: a importância do inventário",
+      "url": "https://opais.ao/opiniao/vender-muito-nao-significa-ganhar-muito-a-importancia-do-inventario/",
+      "source": "O País",
+      "_key": "be68b693201a7a1f"
+    },
+    {
+      "title": "Editorial: Reforço do multilateralismo",
+      "url": "https://opais.ao/editorial/editorial-reforco-do-multilateralismo-2/",
+      "source": "O País",
+      "_key": "64df16f7b35bff2a"
+    },
+    {
+      "title": "Formalizada adesão de Angola à Comunidade Ibero-Americana",
+      "url": "https://opais.ao/politica/formalizada-adesao-de-angola-a-comunidade-ibero-americana/",
+      "source": "O País",
+      "_key": "d2eb1fde8c030861"
+    },
+    {
+      "title": "Jornalistas angolanos ‘transformam missão’ à China em livro",
+      "url": "https://opais.ao/cultura/jornalistas-angolanos-transformam-missao-a-china-em-livro/",
+      "source": "O País",
+      "_key": "f08334af51dcb788"
+    },
+    {
+      "title": "Conecta Angola disponibiliza 10 vagas de estágio profissional em cinco províncias",
+      "url": "https://opais.ao/ultima_hora/conecta-angola-disponibiliza-10-vagas-de-estagio-profissional-em-cinco-provincias/",
+      "source": "O País",
+      "_key": "c93074580c4ced24"
+    },
+    {
+      "title": "MPLA em Luanda promove debate sobre inclusão financeira e bancarização",
+      "url": "https://opais.ao/politica/mpla-em-luanda-promove-debate-sobre-inclusao-financeira-e-bancarizacao/",
+      "source": "O País",
+      "_key": "6c1e5357b02403b4"
+    },
+    {
+      "title": "Angola e China negoceiam novos investimentos nos sectores da Energia e das Águas",
+      "url": "https://opais.ao/politica/angola-e-china-negoceiam-novos-investimentos-nos-sectores-da-energia-e-das-aguas/",
+      "source": "O País",
+      "_key": "b82a4d83848fa0cb"
+    },
+    {
+      "title": "Angola e Polónia analisam cooperação nos sectores da aviação e agroaviação",
+      "url": "https://opais.ao/politica/angola-e-polonia-analisam-cooperacao-nos-sectores-da-aviacao-e-agroaviacao/",
+      "source": "O País",
+      "_key": "63b9372c4db7f5ff"
+    },
+    {
+      "title": "Angola reafirma compromisso com a preservação das zonas húmidas em Genebra",
+      "url": "https://opais.ao/politica/angola-reafirma-compromisso-com-a-preservacao-das-zonas-humidas-em-genebra/",
+      "source": "O País",
+      "_key": "7613a4887175ee05"
+    },
+    {
+      "title": "Embaixador José Patrício integra presidência honorária da câmara de Comércio Reino Unido – Angola",
+      "url": "https://opais.ao/politica/embaixador-jose-patricio-integra-presidencia-honoraria-da-camara-de-comercio-reino-unido-angola/",
+      "source": "O País",
+      "_key": "d1ac93b827e4bdc4"
+    },
+    {
+      "title": "Angola procura reforçar ligações económicas e diplomáticas com a América Latina",
+      "url": "https://opais.ao/politica/angola-procura-reforcar-ligacoes-economicas-e-diplomaticas-com-a-america-latina/",
+      "source": "O País",
+      "_key": "6f641131f57d6ac1"
+    },
+    {
+      "title": "Grandes Moagens distinguida pelo contributo para substituição de importações",
+      "url": "https://opais.ao/economia/grandes-moagens-distinguida-pelo-contributo-para-substituicao-de-importacoes/",
+      "source": "O País",
+      "_key": "9c06a0d45d79d9c3"
+    },
+    {
+      "title": "Utentes denunciam presumível desvio de medicamentos no Centro de Saúde do Kilamba",
+      "url": "https://opais.ao/sociedade/utentes-denunciam-presumivel-desvio-de-medicamentos-no-centro-de-saude-do-kilamba/",
+      "source": "O País",
+      "_key": "e494ebc153ca80af"
+    },
+    {
+      "title": "IES e Ordem dos Médicos analisam avaliação dos exames de especialidade da 2.ª época",
+      "url": "https://opais.ao/ultima_hora/ies-e-ordem-dos-medicos-analisam-avaliacao-dos-exames-de-especialidade-da-2-a-epoca/",
+      "source": "O País",
+      "_key": "5b23acccedc8b8ba"
+    },
+    {
+      "title": "MINSA avalia preenchimento de 735 vagas de formação no Brasil para 2027",
+      "url": "https://opais.ao/sociedade/minsa-avalia-preenchimento-de-735-vagas-de-formacao-no-brasil-para-2027/",
+      "source": "O País",
+      "_key": "3c479d7a273c1e08"
+    },
+    {
+      "title": "Montenegro chama partidos da oposição para discutir habitação",
+      "url": "https://opais.ao/mundo/montenegro-chama-partidos-da-oposicao-para-discutir-habitacao/",
+      "source": "O País",
+      "_key": "862099bb4f7f3d65"
+    },
+    {
+      "title": "Estados Unidos: vitória democrata nas intercalares trava poder de Trump e políticas anti-clima",
+      "url": "https://opais.ao/mundo/estados-unidos-vitoria-democrata-nas-intercalares-trava-poder-de-trump-e-politicas-anti-clima/",
+      "source": "O País",
+      "_key": "b6b1d4d0a217abb4"
+    },
+    {
+      "title": "Derrota de Trump nas eleições dos EUA pode alterar rumo das guerras no Irão e na Ucrânia e afectar Israel",
+      "url": "https://opais.ao/mundo/derrota-de-trump-nas-eleicoes-dos-eua-pode-alterar-rumo-das-guerras-no-irao-e-na-ucrania-e-afectar-israel/",
+      "source": "O País",
+      "_key": "14576912d61e0184"
+    },
+    {
+      "title": "Acidente com 115 mortos: Espanha anuncia 30 milhões de euros em apoios",
+      "url": "https://opais.ao/mundo/acidente-com-115-mortos-espanha-anuncia-30-milhoes-de-euros-em-apoios/",
+      "source": "O País",
+      "_key": "6a239eab7b16d507"
+    },
+    {
+      "title": "Presidente de Ceuta acusa Marrocos de planear entrada de 100 mil pessoas",
+      "url": "https://opais.ao/mundo/presidente-de-ceuta-acusa-marrocos-de-planear-entrada-de-100-mil-pessoas/",
+      "source": "O País",
+      "_key": "3e17faf441ed90bb"
+    },
+    {
+      "title": "“Acto Fúnebre — O Defunto Tem a Palavra” homenageia actor Aílton Silvério e convida à reflexão sobre a vida",
+      "url": "https://opais.ao/cultura/acto-funebre-o-defunto-tem-a-palavra-homenageia-actor-ailton-silverio-e-convida-a-reflexao-sobre-a-vida/",
+      "source": "O País",
+      "_key": "c8d351bb94b14ba5"
+    },
+    {
+      "title": "Sakaungo Sangalangui quer resgatar valores culturais do povo ovimbundu com o livro “Ekalo Lyetu Etu Ovimbundu”",
+      "url": "https://opais.ao/cultura/sakaungo-sangalangui-quer-resgatar-valores-culturais-do-povo-ovimbundu-com-o-livro-ekalo-lyetu-etu-ovimbundu/",
+      "source": "O País",
+      "_key": "80ff2ad7b2bb5ac3"
+    },
+    {
+      "title": "Angola e Ucrânia alinham cooperação nos domínios da juventude e do desporto",
+      "url": "https://opais.ao/desporto/angola-e-ucrania-alinham-cooperacao-nos-dominios-da-juventude-e-do-desporto/",
+      "source": "O País",
+      "_key": "5f520ab6e298a323"
+    },
+    {
+      "title": "MINJUD projecta Centro de Treinamento Equestre em Luanda para capacitar quadros",
+      "url": "https://opais.ao/desporto/minjud-projecta-centro-de-treinamento-equestre-em-luanda-para-capacitar-quadros/",
+      "source": "O País",
+      "_key": "03df7d4ab1fe8ea4"
+    },
+    {
+      "title": "IDIIA prevê investir 210 milhões em frota própria de cinco...",
+      "url": "https://valoreconomico.co.ao/artigo/idiia-preve-investir-210-milhoes-em-frota-propria-de-cinco-viaturas-para-cortar-custos-com-alugueres",
       "source": "Valor Económico",
-      "_key": "588afe8a3769d440"
+      "_key": "32e304d11ac99f39"
+    },
+    {
+      "title": "UIF confiante em novos resultados para sair da lista cinzenta...",
+      "url": "https://valoreconomico.co.ao/artigo/uif-confiante-em-novos-resultados-para-sair-da-lista-cinzenta-do-gafi-mas-avisa-que-o-caminho-e-longo",
+      "source": "Valor Económico",
+      "_key": "90fe69d5970335d5"
+    },
+    {
+      "title": "AGT quer integrar dois milhões de contribuintes na factura electrónica...",
+      "url": "https://valoreconomico.co.ao/artigo/agt-quer-integrar-dois-milhoes-de-contribuintes-na-factura-electronica-ate-2027",
+      "source": "Valor Económico",
+      "_key": "1af6b496eb78b92f"
+    },
+    {
+      "title": "Unitel domina operações na BODIVA",
+      "url": "https://valoreconomico.co.ao/artigo/unitel-domina-operacoes-na-bodiva",
+      "source": "Valor Económico",
+      "_key": "8485e232430da9df"
+    },
+    {
+      "title": "Standard Investimento cresce em Setembro e recupera a liderança dos...",
+      "url": "https://valoreconomico.co.ao/artigo/standard-investimento-cresce-em-setembro-e-recupera-a-lideranca-dos-agentes-de-intermediacao",
+      "source": "Valor Económico",
+      "_key": "0c310616f1e8a8d7"
+    },
+    {
+      "title": "Ataque à Binance leva reguladores norte-americanos a inspeccionar sistemas bancários",
+      "url": "https://valoreconomico.co.ao/artigo/ataque-a-binance-leva-reguladores-norte-americanos-a-inspeccionar-sistemas-bancarios",
+      "source": "Valor Económico",
+      "_key": "58dac6cf39b7072f"
+    },
+    {
+      "title": "Moedas da Nigéria e Uganda devem valorizar-se face ao dólar",
+      "url": "https://valoreconomico.co.ao/artigo/moedas-da-nigeria-e-uganda-devem-valorizar-se-face-ao-dolar",
+      "source": "Valor Económico",
+      "_key": "3330a4143af0ff74"
+    },
+    {
+      "title": "Ouro atinge máximo de duas semanas com desvalorização do dólar...",
+      "url": "https://valoreconomico.co.ao/artigo/ouro-atinge-maximo-de-duas-semanas-com-desvalorizacao-do-dolar-e-queda-do-petroleo",
+      "source": "Valor Económico",
+      "_key": "0e8c09e59fe88bb2"
+    },
+    {
+      "title": "Ministro dos Recursos Minerais exige mais dinamismo ao IGEO para...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-dos-recursos-minerais-exige-mais-dinamismo-ao-igeo-para-atrair-investimento",
+      "source": "Valor Económico",
+      "_key": "fc53c05a20d0d13d"
     }
   ]
 }
