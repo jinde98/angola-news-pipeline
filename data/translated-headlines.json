@@ -1,24 +1,408 @@
 {
-  "date": "2026-11-05",
-  "total_new": 4,
-  "total_filtered": 2,
+  "date": "2026-11-06",
+  "total_new": 152,
+  "total_filtered": 50,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Angola negocia com chineses investimentos na Central de Ciclo Combinado do Soyo",
-      "url": "https://opais.ao/politica/angola-negocia-com-chineses-investimentos-na-central-de-ciclo-combinado-do-soyo/",
-      "source": "O País",
-      "_key": "11c90bec3797d129",
-      "score": 9,
-      "title_cn": "安哥拉与中方谈判索约联合循环电厂投资"
+      "title": "Angola destaca potencial da cooperação China-África para o desenvolvimento industrial lusófono",
+      "url": "https://forbesafricalusofona.com/angola-destaca-potencial-da-cooperacao-china-africa-para-o-desenvolvimento-industrial-lusofono/",
+      "source": "Forbes África",
+      "_key": "dd7acaf154f1e569",
+      "score": 10,
+      "title_cn": "安哥拉强调中非合作对葡语国家工业发展的潜力"
     },
     {
-      "title": "Banco Sol e Alvarez & Marsal debatem soluções para reduzir crédito malparado no AFIS 2026",
-      "url": "https://opais.ao/economia/banco-sol-e-alvarez-marsal-debatem-solucoes-para-reduzir-credito-malparado-no-afis-2026/",
+      "title": "Petróleo Brent recua 0,83% e negoceia a 98,49 dólares por...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-recua-0-83-e-negoceia-a-98-49-dolares-por-barril",
+      "source": "Valor Económico",
+      "_key": "08d16e2704dc5a0f",
+      "score": 10,
+      "title_cn": "布伦特原油下跌0.83%，交易价为每桶98.49美元"
+    },
+    {
+      "title": "“O visto para Angola continua a ser difícil para os franceses, assim como o acesso às divisas”",
+      "url": "https://diariodosnegocios.com/o-visto-para-angola-continua-a-ser-dificil-para-os-franceses-assim-como-o-acesso-as-divisas/",
+      "source": "Diário dos Negócios",
+      "_key": "01cf2352da718f70",
+      "score": 9,
+      "title_cn": "法国人办理安哥拉签证及获取外汇仍面临困难"
+    },
+    {
+      "title": "Destaque Angola apresenta à Alemanha prioridades de investimento e cooperaçãoA preparação de projectos para atrair investimento privado, o desenvolvimento do Corredor do Lobito e a formação técnico-profissional dominaram a audiência concedida, na quinta-feira, em Luanda, pelo ministro do Planeamento, Victor Hugo Guilherme, a uma delegação alemã chefiada pelo secretário de Estado do Ministério Federal das Relações Externas da Alemanha, Géza Andreas von Geyr.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698870/angola-apresenta-%C3%A0-alemanha-prioridades-de-investimento-e-coopera%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "20e85143b094c9d5",
+      "score": 9,
+      "title_cn": "安哥拉向德国介绍投资合作重点：吸引私人投资、发展洛比托走廊及技术培训"
+    },
+    {
+      "title": "Petróleo volta às perdas numa semana de pânico nas...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-volta-as-perdas-numa-semana-de-panico-nas-bolsas-mundiais-75887.html",
+      "source": "Novo Jornal",
+      "_key": "26fd54690107b1c0",
+      "score": 9,
+      "title_cn": "石油在恐慌一周后再次下跌"
+    },
+    {
+      "title": "Angola participa na 9.ª edição da exposição internacional de importação da China",
+      "url": "https://opais.ao/economia/angola-participa-na-9-a-edicao-da-exposicao-internacional-de-importacao-da-china/",
       "source": "O País",
-      "_key": "ed9d89aebca1844d",
+      "_key": "9bdf88955819fd33",
+      "score": 9,
+      "title_cn": "安哥拉排名第九。第二届中国国际进口博览会"
+    },
+    {
+      "title": "Ministro afasta pressões e garante refinaria do lobito a 100%...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-afasta-pressoes-e-garante-refinaria-do-lobito-a-100-na-posse-da-sonangol",
+      "source": "Valor Económico",
+      "_key": "4d26c5d1ad2b3233",
+      "score": 9,
+      "title_cn": "部长排除压力，保证洛比托炼油厂100%建成投产"
+    },
+    {
+      "title": "Access Bank aprova crédito de 230 milhões USD para o sector petrolífero",
+      "url": "https://diariodosnegocios.com/access-bank-aprova-credito-de-230-milhoes-usd-para-o-sector-petrolifero/",
+      "source": "Diário dos Negócios",
+      "_key": "9ecdeff38e2a8913",
+      "score": 8,
+      "title_cn": "Access银行批准向石油部门提供2.3亿美元信贷"
+    },
+    {
+      "title": "Banco Mundial prevê reforçar investimentos em Angola na agricultura, agronegócio e telecomunicações",
+      "url": "https://diariodosnegocios.com/banco-mundial-preve-reforcar-investimentos-em-angola-na-agricultura-agronegocio-e-telecomunicacoes/",
+      "source": "Diário dos Negócios",
+      "_key": "abae94a47879c87d",
+      "score": 8,
+      "title_cn": "世界银行计划加强在安哥拉农业、农产品加工和电信领域的投资"
+    },
+    {
+      "title": "Estado deve 2,3 biliões Kz a fornecedores e só prevê pagar 22% em 2027",
+      "url": "https://expansao.co.ao/economia/detalhe/estado-deve-23-bilioes-kz-a-fornecedores-e-so-preve-pagar-22-em-2027-75872.html",
+      "source": "Expansão",
+      "_key": "2d33654a38afb113",
+      "score": 8,
+      "title_cn": "安哥拉政府欠供应商2.3万亿宽扎，预计2027年仅支付22%"
+    },
+    {
+      "title": "Economia angolana regista crescimento de 8,74% no segundo trimestre de 2026",
+      "url": "https://holdonangola.com/economia-angolana-cresce-2026/",
+      "source": "Hold On Angola",
+      "_key": "c2746586c52cb155",
+      "score": 8,
+      "title_cn": "安哥拉经济在2026年第二季度增长8.74%"
+    },
+    {
+      "title": "Government Caps Rent Increases and Links Ceiling to Inflation from 202711/06/2026",
+      "url": "https://www.negociosdeangola.com/en/government-caps-rent-increases-and-links-ceiling-to-inflation-from-2027/",
+      "source": "Negócios de Angola",
+      "_key": "dcd40b40c7e518e5",
+      "score": 8,
+      "title_cn": "安哥拉政府将从2027年起限制租金上涨，并与通胀挂钩"
+    },
+    {
+      "title": "Grupo Castel expõe potencial industrial de Angola na China",
+      "url": "https://opais.ao/economia/grupo-castel-expoe-potencial-industrial-de-angola-na-china/",
+      "source": "O País",
+      "_key": "ee20d3d1fb93d99d",
+      "score": 8,
+      "title_cn": "卡斯特尔集团在中国展示安哥拉工业潜力"
+    },
+    {
+      "title": "AFIS 2026: Governo aposta em capital das seguradoras para financiar infra-estruturas",
+      "url": "https://opais.ao/economia/afis-2026-governo-aposta-em-capital-das-seguradoras-para-financiar-infra-estruturas/",
+      "source": "O País",
+      "_key": "eec8b3247be7b8b6",
+      "score": 8,
+      "title_cn": "AFIS 2026：安哥拉政府利用保险公司资本资助基础设施建设"
+    },
+    {
+      "title": "África quer moeda única até 2034, anunciam governadores em Luanda",
+      "url": "https://valoreconomico.co.ao/artigo/africa-quer-moeda-unica-ate-2034-anunciam-governadores-em-luanda",
+      "source": "Valor Económico",
+      "_key": "81fce3989b2e5bba",
+      "score": 8,
+      "title_cn": "非洲各国央行行长在罗安达宣布，非洲力争2034年实现单一货币"
+    },
+    {
+      "title": "João Lourenço autoriza 150 milhões de dólares para obras no Nó da Samba",
+      "url": "https://correiokianda.info/joao-lourenco-autoriza-150-milhoes-de-dolares-para-obras-no-no-da-samba/",
+      "source": "Correio Kianda",
+      "_key": "3193344bbf1f5c39",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统授权1.5亿美元用于桑巴枢纽工程"
+    },
+    {
+      "title": "Inflação de um dígito continua entre as prioridades do Banco Nacional de Angola",
+      "url": "https://correiokianda.info/inflacao-de-um-digito-continua-entre-as-prioridades-do-banco-nacional-de-angola/",
+      "source": "Correio Kianda",
+      "_key": "d6ca9d9a80fb3a2a",
+      "score": 7,
+      "title_cn": "安哥拉国家银行将个位数通胀作为优先目标"
+    },
+    {
+      "title": "Executivo quer reforçar investimento na agricultura e indústria para travar inflação",
+      "url": "https://correiokianda.info/executivo-quer-reforcar-investimento-na-agricultura-e-industria-para-travar-inflacao/",
+      "source": "Correio Kianda",
+      "_key": "ce969919f8ad3913",
+      "score": 7,
+      "title_cn": "安哥拉政府希望加强农业和工业投资以遏制通胀"
+    },
+    {
+      "title": "João Lourenço autoriza 150 milhões de dólares para obras no Nó da Samba",
+      "url": "https://diariodosnegocios.com/joao-lourenco-autoriza-150-milhoes-de-dolares-para-obras-no-no-da-samba/",
+      "source": "Diário dos Negócios",
+      "_key": "8b4aa6b986e82239",
+      "score": 7,
+      "title_cn": "若昂·洛伦索（João Lourenço）总统授权1.5亿美元用于桑巴枢纽工程"
+    },
+    {
+      "title": "Mota-Engil e Odebrecht ganham concurso para nova ligação ferroviária",
+      "url": "https://diariodosnegocios.com/mota-engil-e-odebrecht-ganham-concurso-para-nova-ligacao-ferroviaria/",
+      "source": "Diário dos Negócios",
+      "_key": "dc0856a9f68a72a2",
+      "score": 7,
+      "title_cn": "莫塔-恩吉尔和奥德布雷希特赢得新铁路连接线项目招标"
+    },
+    {
+      "title": "Juros da dívida disparam para 7,5 biliões Kz e défice bate nos 6,7 biliões Kz",
+      "url": "https://expansao.co.ao/angola/detalhe/juros-da-divida-disparam-para-75-bilioes-kz-e-defice-bate-nos-67-bilioes-kz-75871.html",
+      "source": "Expansão",
+      "_key": "5a32b845538878d5",
+      "score": 7,
+      "title_cn": "安哥拉债务利息飙升至7.5万亿宽扎，赤字达6.7万亿宽扎"
+    },
+    {
+      "title": "Exportações do PRODESI sobem 74%, mas longe de substituir importações",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_dba51027f83f09",
+      "score": 7,
+      "title_cn": "PRODESI项目出口增长74%，但远未能取代进口"
+    },
+    {
+      "title": "DIP Angola arranca obras de projecto residencial avaliado em 500 milhões USD",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_baae26e7cab998",
+      "score": 7,
+      "title_cn": "DIP安哥拉启动估值5亿美元的住宅项目工程"
+    },
+    {
+      "title": "Governo angolano quer disciplina orçamental e investimento produtivo para preservar estabilidade dos preços.",
+      "url": "https://forbesafricalusofona.com/governo-angolano-quer-disciplina-orcamental-e-investimento-produtivo-para-preservar-estabilidade-dos-precos/",
+      "source": "Forbes África",
+      "_key": "7b9ffbc1c936c16f",
+      "score": 7,
+      "title_cn": "安哥拉政府呼吁财政纪律和生产性投资以保持物价稳定"
+    },
+    {
+      "title": "Executivo reafirma aposta na disciplina orçamental e no crescimento económicoA estabilidade de preços deve ser encarada como um bem público essencial para o país, afirmou quinta-feira, em Luanda, o ministro de Estado para a Coordenação Económica, José de Lima Massano.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698871/executivo-reafirma-aposta-na-disciplina-or%C3%A7amental-e-no-crescimento-econ%C3%B3mico",
+      "source": "Jornal de Angola",
+      "_key": "6b714fc6a91004ae",
+      "score": 7,
+      "title_cn": "安哥拉政府重申财政纪律和经济增长承诺，强调物价稳定是国家基本公共产品"
+    },
+    {
+      "title": "Última hora Massano defende consolidação da desinflação e reforço da credibilidade da política monetária",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698854/massano-defende-consolida%C3%A7%C3%A3o-da-desinfla%C3%A7%C3%A3o-e-refor%C3%A7o-da-credibilidade-da-pol%C3%ADtica-monet%C3%A1ria",
+      "source": "Jornal de Angola",
+      "_key": "bae66107550545e5",
+      "score": 7,
+      "title_cn": "马萨诺（Massano）主张巩固通胀下降，增强货币政策可信度"
+    },
+    {
+      "title": "Food Life Angola Holds Talks with Financial Institutions to Fund Agro-Industrial Projects11/06/2026",
+      "url": "https://www.negociosdeangola.com/en/food-life-angola-holds-talks-with-financial-institutions-to-fund-agro-industrial-projects/",
+      "source": "Negócios de Angola",
+      "_key": "d742d9af48e7e57a",
+      "score": 7,
+      "title_cn": "Food Life安哥拉与金融机构会谈，寻求农工项目融资"
+    },
+    {
+      "title": "OGE2027: CNE absorve mais de 500 milhões USD em dois...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/oge2027-cne-absorve-mais-de-500-milhoes-usd-em-dois-anos-para-preparar-e-realizar-eleicoes-75891.html",
+      "source": "Novo Jornal",
+      "_key": "97eb2ae3a0c6b35f",
+      "score": 7,
+      "title_cn": "2027年国家总预算：国家选举委员会获得逾5亿美元资金"
+    },
+    {
+      "title": "O VALOR DO KUMBU: A SUA LIGAÇÃO COM O MUNDO DA BANCA. Menos juros na dívida pública, mais pressão sobre os bancos: chegou a hora de financiar a economia real?",
+      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=75883",
+      "source": "Novo Jornal",
+      "_key": "44666d4c53d8f861",
+      "score": 7,
+      "title_cn": "宽布（Kumbu）与银行业：公共债务利息减少，银行压力增大，是时候资助实体经济了吗？"
+    },
+    {
+      "title": "Projecto Bita avança para concretização de parceria público-privada",
+      "url": "https://opais.ao/politica/projecto-bita-avanca-para-concretizacao-de-parceria-publico-privada/",
+      "source": "O País",
+      "_key": "59897720ad183ee8",
+      "score": 7,
+      "title_cn": "比塔项目推进公私合营模式"
+    },
+    {
+      "title": "Governo poderá investir até mil milhões de dólares no turismo",
+      "url": "https://valoreconomico.co.ao/artigo/governo-podera-investir-ate-mil-milhoes-de-dolares-no-turismo",
+      "source": "Valor Económico",
+      "_key": "69a07318b94f1410",
+      "score": 7,
+      "title_cn": "安哥拉政府或将投资高达10亿美元发展旅游业"
+    },
+    {
+      "title": "Governador do BNA defende diversificação da economia sem comprometer estabilidade financeira",
+      "url": "https://correiokianda.info/governador-do-bna-defende-diversificacao-da-economia-sem-comprometer-estabilidade-financeira/",
+      "source": "Correio Kianda",
+      "_key": "e781589db37c87ac",
       "score": 6,
-      "title_cn": "Banco Sol与Alvarez & Marsal在AFIS 2026探讨不良贷款解决方案"
+      "title_cn": "安哥拉国家银行行长主张经济多元化，不损害金融稳定"
+    },
+    {
+      "title": "Moçambique coloca até 50 projectos turísticos na rota do investimento internacional",
+      "url": "https://forbesafricalusofona.com/mocambique-coloca-ate-50-projectos-turisticos-na-rota-do-investimento-internacional/",
+      "source": "Forbes África",
+      "_key": "bffe312896990ca7",
+      "score": 6,
+      "title_cn": "莫桑比克推出多达50个旅游项目吸引国际投资"
+    },
+    {
+      "title": "Ricardo de Abreu apela a investimentos cruzados entre Angola, Cabo Verde e Moçambique",
+      "url": "https://forbesafricalusofona.com/ricardo-de-abreu-apela-a-investimentos-cruzados-entre-angola-cabo-verde-e-mocambique/",
+      "source": "Forbes África",
+      "_key": "128c72120e57b982",
+      "score": 6,
+      "title_cn": "里卡多·德·阿布雷乌（Ricardo de Abreu）呼吁安哥拉、佛得角和莫桑比克进行交叉投资"
+    },
+    {
+      "title": "Economia Transformação da economia contribui para estabilidade de preços ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/698934/transforma%C3%A7%C3%A3o-da-economia-contribui-para-estabilidade-de-pre%C3%A7os",
+      "source": "Jornal de Angola",
+      "_key": "1c9e2162a7aad875",
+      "score": 6,
+      "title_cn": "经济转型有助于物价稳定"
+    },
+    {
+      "title": "Sociedade Testes para funcionamento do Sistema 4 Bita da EPAL arrancam em Janeiro de 2027 ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698919/testes-para-funcionamento-do-sistema-4-bita-da-epal-arrancam-em-janeiro-de-2027",
+      "source": "Jornal de Angola",
+      "_key": "409d645a04a1effd",
+      "score": 6,
+      "title_cn": "EPAL比塔4号系统运行测试将于2027年1月启动"
+    },
+    {
+      "title": "Sociedade MINEA apresenta resultados da Parceria Público-Privada do Projecto Bita ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/698861/minea-apresenta-resultados-da-parceria-p%C3%BAblico-privada-do-projecto-bita",
+      "source": "Jornal de Angola",
+      "_key": "2c856c8e4ab84e8e",
+      "score": 6,
+      "title_cn": "矿产、石油和天然气部公布比塔项目公私合营成果"
+    },
+    {
+      "title": "IFC to Finance Carrinho Group Expansion with Up to $40 Million",
+      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10387",
+      "source": "Negócios de Angola",
+      "_key": "bf2aebe8c818014d",
+      "score": 6,
+      "title_cn": "国际金融公司将为卡里尼奥集团扩张提供高达4000万美元融资"
+    },
+    {
+      "title": "Francisco Queiroz: “Não precisamos de eliminar a economia informal para fortalecer a outra. Precisamos de encontrar um modelo que aproveite as potencialidades de ambas”",
+      "url": "https://opais.ao/economia/francisco-queiroz-nao-precisamos-de-eliminar-a-economia-informal-para-fortalecer-a-outra-precisamos-de-encontrar-um-modelo-que-aproveite-as-potencialidades-de-ambas/",
+      "source": "O País",
+      "_key": "04bc00d34225e1d8",
+      "score": 6,
+      "title_cn": "弗朗西斯科·凯罗斯（Francisco Queiroz）：无需消除非正规经济，应寻求模式利用两者潜力"
+    },
+    {
+      "title": "MAPTSS reafirma apostas do Executivo com a promoção do emprego juvenil",
+      "url": "https://opais.ao/politica/maptss-reafirma-apostas-do-executivo-com-a-promocao-do-emprego-juvenil/",
+      "source": "O País",
+      "_key": "d92bd4271e00cddb",
+      "score": 6,
+      "title_cn": "公共行政、劳动和社会保障部重申政府促进青年就业的承诺"
+    },
+    {
+      "title": "Ministro do Planeamento apresenta áreas prioritárias de investimentos à delegação Alemã",
+      "url": "https://opais.ao/politica/ministro-do-planeamento-apresenta-areas-prioritarias-de-investimentos-a-delegacao-alema/",
+      "source": "O País",
+      "_key": "b23af3f46a47b682",
+      "score": 6,
+      "title_cn": "计划部长向德国代表团介绍优先投资领域"
+    },
+    {
+      "title": "BAI mobiliza 57,5 mil milhões de kwanzas com Emissão das Obrigações Sustentáveis",
+      "url": "https://opais.ao/economia/bai-mobiliza-575-mil-milhoes-de-kwanzas-com-emissao-das-obrigacoes-sustentaveis/",
+      "source": "O País",
+      "_key": "03608a1e5935482a",
+      "score": 6,
+      "title_cn": "安哥拉投资银行通过发行可持续债券筹集575亿宽扎"
+    },
+    {
+      "title": "ARSEG impõe critérios ESG que podem encarecer seguros mas reduzir perdas",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b4979bb9b285be",
+      "score": 5,
+      "title_cn": "安哥拉保险监管局实施ESG标准，或提高保险成本但减少损失"
+    },
+    {
+      "title": "Angola defende reforço do financiamento e transparência de tecnologias para acelerar protecção ambiental",
+      "url": "https://forbesafricalusofona.com/angola-defende-reforco-do-financiamento-e-transparencia-de-tecnologias-para-acelerar-proteccao-ambiental/",
+      "source": "Forbes África",
+      "_key": "546305622b7c6d74",
+      "score": 5,
+      "title_cn": "安哥拉主张加强融资和技术透明度，加速环境保护"
+    },
+    {
+      "title": "Estado da Nação 2026: reorganização administrativa e desafios da descentralização local",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/698905/estado-da-na%C3%A7%C3%A3o-2026:--reorganiza%C3%A7%C3%A3o-administrativa--e-desafios-da-descentraliza%C3%A7%C3%A3o-local",
+      "source": "Jornal de Angola",
+      "_key": "5d55e2c9433d1950",
+      "score": 5,
+      "title_cn": "2026年国情咨文：行政重组与地方分权挑战"
+    },
+    {
+      "title": "Ministério do Turismo abre concurso externo sem anunciar...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ministerio-do-turismo-abre-concurso-externo-sem-anunciar-numero-de-vagas-75893.html",
+      "source": "Novo Jornal",
+      "_key": "442546e6be61bb93",
+      "score": 5,
+      "title_cn": "旅游部启动外部招聘，但未公布具体信息"
+    },
+    {
+      "title": "Bengo prevê preencher mais de seis mil vagas de emprego até Dezembro",
+      "url": "https://opais.ao/politica/bengo-preve-preencher-mais-de-seis-mil-vagas-de-emprego-ate-dezembro/",
+      "source": "O País",
+      "_key": "abef1c801c11bb4e",
+      "score": 5,
+      "title_cn": "本戈计划在12月前培训6000多名游行者。"
+    },
+    {
+      "title": "Jurista propõe ao Executivo novo modelo de crédito à habitação",
+      "url": "https://opais.ao/economia/jurista-propoe-ao-executivo-novo-modelo-de-credito-a-habitacao/",
+      "source": "O País",
+      "_key": "75f66c5403a89c4f",
+      "score": 5,
+      "title_cn": "法学家向政府提议新的住房信贷模式"
+    },
+    {
+      "title": "INAPEM investe 90 milhões de kwanzas na renovação da imagem...",
+      "url": "https://valoreconomico.co.ao/artigo/inapem-investe-90-milhoes-de-kwanzas-na-renovacao-da-imagem-institucional",
+      "source": "Valor Económico",
+      "_key": "9c8f3e87534f1aae",
+      "score": 5,
+      "title_cn": "中小企业支持机构投资9000万宽扎用于形象更新"
+    },
+    {
+      "title": "ARSEG exige registo a operadores turísticos sob pena de multas...",
+      "url": "https://valoreconomico.co.ao/artigo/arseg-exige-registo-a-operadores-turisticos-sob-pena-de-multas-ate-100-milhoes-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "cee547933b5da4c6",
+      "score": 5,
+      "title_cn": "安哥拉保险监管局要求旅游运营商注册，否则将处以罚款"
     }
   ]
 }
