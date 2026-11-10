@@ -1,105 +1,392 @@
 {
-  "date": "2026-11-09",
-  "total_new": 34,
-  "total_filtered": 14,
+  "date": "2026-11-10",
+  "total_new": 142,
+  "total_filtered": 55,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Economia / Há 9 horas Jantar de negócios junta cerca de 400 empresários angolanos e chineses ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699113/jantar-de-neg%C3%B3cios-junta-cerca-de-400-empres%C3%A1rios-angolanos-e-chineses",
-      "source": "Jornal de Angola",
-      "_key": "fc7aa19faa4717cf",
+      "title": "Petróleo cai abaixo dos 90 dólares, após Trump minimizar possibilidade de escalada do conflito com o Irão",
+      "url": "https://expansao.co.ao/economia/detalhe/petroleo-cai-abaixo-dos-90-dolares-apos-trump-minimizar-possibilidade-de-escalada-do-conflito-com-o-irao-75969.html",
+      "source": "Expansão",
+      "_key": "3ad10862ed05275d",
       "score": 10
     },
     {
-      "title": "Destaque Governo aprova concessão à Startimes para distribuição de televisão por subscriçãoO Executivo aprovou a minuta do Contrato de Concessão Específica à empresa Startimes Angola, Limitada, como título habilitante para a oferta do serviço de distribuição de televisão por subscrição de âmbito nacional.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699158/governo-aprova-concess%C3%A3o-%C3%A0-startimes-para-distribui%C3%A7%C3%A3o-de-televis%C3%A3o-por-subscri%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "74645bdf6afe3253",
-      "score": 9
-    },
-    {
-      "title": "Destaque Albano Lopes na China para Fórum de Inovação e Conferência Mundial sobre a Língua ChinesaO ministro do Ensino Superior, Ciência, Tecnologia e Inovação, Albano Lopes, chegou, na tarde desta segunda-feira, à cidade de Guangzhou, República Popular da China, de onde seguirá para Wuhan, capital da província de Hubei, para participar no Fórum de Inovação África-China e na Conferência Mundial sobre a Língua Chinesa.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699167/albano-lopes-na-china-para-f%C3%B3rum-de-inova%C3%A7%C3%A3o-e-confer%C3%AAncia-mundial-sobre-a-l%C3%ADngua-chinesa",
-      "source": "Jornal de Angola",
-      "_key": "73c83a63ea901c95",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 8 horas Preço do Brent acumula perdas semanais de 16,4 por cento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699132/--pre%C3%A7o-do-brent-acumula-perdas-semanais-de-164-por-cento-",
-      "source": "Jornal de Angola",
-      "_key": "b30d48d7518a97fe",
-      "score": 9
-    },
-    {
-      "title": "Inflação em Angola abranda para 8,16% em Outubro de 2026",
-      "url": "https://forbesafricalusofona.com/inflacao-em-angola-abranda-para-816-em-outubro-de-2026/",
+      "title": "Angola prepara novas medidas para dinamizar o investimento privado no Corredor do Lobito",
+      "url": "https://forbesafricalusofona.com/angola-prepara-novas-medidas-para-dinamizar-o-investimento-privado-no-corredor-do-lobito/",
       "source": "Forbes África",
-      "_key": "9ed7a294a559a6b1",
-      "score": 7
+      "_key": "80851c77ac27dcfc",
+      "score": 10
     },
     {
-      "title": " Angola mantém a gasolina mais barata de África O país mantém-se entre os países com os preços mais baixos da gasolina, ao ocupar a segunda posição no ranking africano e a quarta a nível mundial, segundo dados da Global Petrol Prices referentes ao mês de Outubro.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699115/--angola--mant%C3%A9m-a-gasolina-mais-barata-de-%C3%A1frica-",
-      "source": "Jornal de Angola",
-      "_key": "e1b3120a90cf4587",
-      "score": 7
+      "title": "Petróleo: Trump anuncia fim da guerra com Irão e barril...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-trump-anuncia-fim-da-guerra-com-irao-e-barril-afunda-mas-ainda-e-cedo-para-festejar-75966.html",
+      "source": "Novo Jornal",
+      "_key": "8e10d2c78c720437",
+      "score": 10
     },
     {
-      "title": "Luanda acolhe primeira edição do PetroFest com foco no debate sobre o sector petrolífero",
-      "url": "https://opais.ao/economia/luanda-acolhe-primeira-edicao-do-petrofest-com-foco-no-debate-sobre-o-sector-petrolifero/",
-      "source": "O País",
-      "_key": "795056238a4e0ad0",
-      "score": 7
-    },
-    {
-      "title": "Corte de água dispara preços em Luanda: cisterna de 10...",
-      "url": "https://valoreconomico.co.ao/artigo/corte-de-agua-dispara-precos-em-luanda-cisterna-de-10-mil-litros-passa-a-custar-30-mil-kwanzas",
+      "title": "Preço do Brent cai para mínimos desde Agosto após Trump...",
+      "url": "https://valoreconomico.co.ao/artigo/preco-do-brent-cai-para-minimos-desde-agosto-apos-trump-considerar-guerra-com-irao-praticamente-encerrada",
       "source": "Valor Económico",
-      "_key": "9c0c9d256c650988",
+      "_key": "6870e11760a54225",
+      "score": 10
+    },
+    {
+      "title": "Saída da lista cinzenta do GAFI continua longe, apesar de recentes avanços na supervisão",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_2020910697222f",
+      "score": 9
+    },
+    {
+      "title": "Pólo Industrial de Viana vai finalmente receber energia da rede pública",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7b2f625ed43921",
+      "score": 9
+    },
+    {
+      "title": "Saída da lista cinzenta do GAFI continua longe, apesar de recentes avanços na supervisãoAngola deu mais um pequeno passo, mas ainda está longe da porta de saída. Com o Governo a apontar para a saída da lista de monitorização reforçada em 2027, faltam mais investigações e condenações.",
+      "url": "https://expansao.co.ao/angola/detalhe/saida-da-lista-cinzenta-do-gafi-continua-longe-apesar-de-recentes-avancos-na-supervisao-75962.html",
+      "source": "Expansão",
+      "_key": "5f037ca271f5777a",
+      "score": 9
+    },
+    {
+      "title": "NJ ÀS TERÇAS: ESPECIAL INFORMAÇÃO COM DIAMANTINO DE AZEVEDO. \"Precisamos de criar condições para que esses recursos energéticos contribuam para combater a pobreza energética\".",
+      "url": "https://marginal.co.ao/programas/nj-as-tercas?ep=75974",
+      "source": "Novo Jornal",
+      "_key": "f661d315d967ce08",
+      "score": 9
+    },
+    {
+      "title": "Angola participa na 9.ª edição da CIIE com lema “Angola Exporta”",
+      "url": "https://opais.ao/economia/angola-participa-na-9-a-edicao-da-ciie-com-lema-angola-exporta/",
+      "source": "O País",
+      "_key": "14f6e12ce4c38b4d",
+      "score": 9
+    },
+    {
+      "title": "Inflação fixa-se em 8,16% em Outubro segundo o INE",
+      "url": "https://correiokianda.info/inflacao-fixa-se-8-16-outubro-segundo-ine/",
+      "source": "Correio Kianda",
+      "_key": "495a1bda18953957",
+      "score": 8
+    },
+    {
+      "title": "Construção da Barragem de Cacombo em Benguela, avaliada em 661 milhões USD, vai avançar por ajuste directo",
+      "url": "https://diariodosnegocios.com/construcao-da-barragem-de-cacombo-em-benguela-avaliada-em-661-milhoes-usd-vai-avancar-por-ajuste-directo/",
+      "source": "Diário dos Negócios",
+      "_key": "0a4ebbbda51b900c",
+      "score": 8
+    },
+    {
+      "title": "Dívida do Estado à Sonangol e à TAAG cresce 253% e atinge 6,9 biliões Kz",
+      "url": "https://diariodosnegocios.com/divida-do-estado-a-sonangol-e-a-taag-cresce-253-e-atinge-69-bilioes-kz/",
+      "source": "Diário dos Negócios",
+      "_key": "b81dfbc6d50da2d1",
+      "score": 8
+    },
+    {
+      "title": "Corte de água dispara preços em Luanda: cisterna de 10 mil litros passa a custar 30 mil kwanzas",
+      "url": "https://diariodosnegocios.com/corte-de-agua-dispara-precos-em-luanda-cisterna-de-10-mil-litros-passa-a-custar-30-mil-kwanzas/",
+      "source": "Diário dos Negócios",
+      "_key": "e85e75b88fb13f7b",
+      "score": 8
+    },
+    {
+      "title": "Governo trava aumentos das rendas acima da inflação",
+      "url": "https://expansao.co.ao/economia/detalhe/governo-trava-aumentos-das-rendas-acima-da-inflacao-75958.html",
+      "source": "Expansão",
+      "_key": "d1627be305c9f45f",
+      "score": 8
+    },
+    {
+      "title": "Angola reforça segurança hídrica no Sul com investimento de 4,2 mil milhões de dólares",
+      "url": "https://forbesafricalusofona.com/angola-reforca-seguranca-hidrica-no-sul-com-investimento-de-42-mil-milhoes-de-dolares/",
+      "source": "Forbes África",
+      "_key": "f7a026234874380e",
+      "score": 8
+    },
+    {
+      "title": "Cabinda: Operação \"Stop Pambala\" trava desvio de combustível para a RDC e Congo-Brazzaville e devolve normalidade aos postos de abastecimento",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/cabinda-operacao-stop-pambala-trava-desvio-de-combustivel-para-a-rdc-e-congo-brazzaville-e-devolve-normalidade-aos-postos-de-abastecimento-75961.html",
+      "source": "Novo Jornal",
+      "_key": "b40b56deae888652",
+      "score": 8
+    },
+    {
+      "title": "Execução do OGE do 2º trimestre de 2026 revela défice de 396 mil milhões de kwanzas.",
+      "url": "https://correiokianda.info/execucao-do-oge-do-2o-trimestre-de-2026-revela-defice-de-396-mil-milhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "03784d17e0b501d4",
       "score": 7
     },
     {
-      "title": "OGE 2027 prevê aumento salarial de 10% na função pública e regularização de 512 mil milhões de kwanzas em atrasados comerciais",
-      "url": "https://correiokianda.info/oge-2027-preve-aumento-salarial-de-10-na-funcao-publica-e-regularizacao-de-512-mil-milhoes-de-kwanzas-em-atrasados-comerciais/",
+      "title": "Trump afirma que guerra com o Irão está “efectivamente terminada”",
+      "url": "https://correiokianda.info/trump-afirma-que-guerra-com-o-irao-esta-efectivamente-terminada/",
       "source": "Correio Kianda",
-      "_key": "8613313eac2a9d36",
-      "score": 6
+      "_key": "0b6f9423b7bd66d8",
+      "score": 7
     },
     {
-      "title": "Economia / Há 7 horas Bodiva movimenta 8,3 biliões e supera record anual de 2023 ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699135/bodiva-movimenta-83-bili%C3%B5es-e-supera-record-anual-de-2023",
-      "source": "Jornal de Angola",
-      "_key": "4cbb5a56e723643f",
-      "score": 6
+      "title": "Estado vende participação de 1,44% no BCA por 674,2 milhões Kz em leilão",
+      "url": "https://diariodosnegocios.com/estado-vende-participacao-de-144-no-bca-por-6742-milhoes-kz-em-leilao/",
+      "source": "Diário dos Negócios",
+      "_key": "7c51ee4a911b0444",
+      "score": 7
     },
     {
-      "title": "Executivo reforça medidas para aliviar pressão sobre o custo de vida das famílias de baixo rendimento",
-      "url": "https://opais.ao/politica/executivo-reforca-medidas-para-aliviar-pressao-sobre-o-custo-de-vida-das-familias-de-baixo-rendimento/",
+      "title": "As ações da Nvidia caem enquanto investiga suposto escândalo de espionagem chinesa",
+      "url": "https://diariodosnegocios.com/as-acoes-da-nvidia-caem-enquanto-investiga-suposto-escandalo-de-espionagem-chinesa/",
+      "source": "Diário dos Negócios",
+      "_key": "aa3d80bdfafe8b24",
+      "score": 7
+    },
+    {
+      "title": "Benefício fiscal à criação de emprego",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_19f298fb2d73c0",
+      "score": 7
+    },
+    {
+      "title": "Benefício fiscal à criação de empregoA Empresa ABC, S.A., uma sociedade residente para efeitos fiscais em Angola, desenvolve a sua actividade no sector da prestação de serviços de limpeza e manutenção de instalações. No âmbito da sua estratégia de expansão, a Empresa ABC, S.A., tem vindo a contratar - e prevê continuar a contratar - um número significativo de trabalhadores em diferentes Províncias.",
+      "url": "https://expansao.co.ao/gestao/detalhe/beneficio-fiscal-a-criacao-de-emprego-75965.html",
+      "source": "Expansão",
+      "_key": "a8d022de8b3554e7",
+      "score": 7
+    },
+    {
+      "title": "Ex-chefe dos RH do Supremo detida pelo SIC e levada...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/ex-chefe-dos-rh-do-supremo-detida-pelo-sic-e-levada-ao-juiz-de-garantias-tribunal-barrou-acesso-da-imprensa-a-dados-sobre-o-caso-75977.html",
+      "source": "Novo Jornal",
+      "_key": "549be9c54ee24396",
+      "score": 7
+    },
+    {
+      "title": "Médio Oriente: Trump anuncia \"fim\" da guerra mas para...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/medio-oriente-trump-anuncia-fim-da-guerra-mas-para-o-irao-isso-nao-chega-teerao-diz-ao-presidente-dos-eua-que-tem-dividas-deste-jogo-para-pagar-antes-de-sair-75957.html",
+      "source": "Novo Jornal",
+      "_key": "7229dbb5730acbe8",
+      "score": 7
+    },
+    {
+      "title": "DIIP na Huíla desmantela rede criminosa especializada em assaltos à mão armada",
+      "url": "https://opais.ao/ultima_hora/diip-na-huila-desmantela-rede-criminosa-especializada-em-assaltos-a-mao-armada/",
       "source": "O País",
-      "_key": "682a090827399d32",
+      "_key": "e94d9c36d7e5ef1b",
+      "score": 7
+    },
+    {
+      "title": "Mário Oliveira reafirma aposta no reforço das infra-estruturas de telecomunicações",
+      "url": "https://opais.ao/sociedade/mario-oliveira-reafirma-aposta-no-reforco-das-infra-estruturas-de-telecomunicacoes/",
+      "source": "O País",
+      "_key": "7275fc42d9783e9e",
+      "score": 7
+    },
+    {
+      "title": "Interesse em investimento privado no turismo com carteira de oito mil milhões de dólares",
+      "url": "https://opais.ao/economia/interesse-em-investimento-privado-no-turismo-com-carteira-de-oito-mil-milhoes-de-dolares/",
+      "source": "O País",
+      "_key": "e9ff999175e8a36a",
+      "score": 7
+    },
+    {
+      "title": "Ministro de Estado avalia andamento das obras de construção do Aeroporto Internacional de Mbanza Kongo",
+      "url": "https://opais.ao/sociedade/ministro-de-estado-avalia-andamento-das-obras-de-construcao-do-aeroporto-internacional-de-mbanza-kongo/",
+      "source": "O País",
+      "_key": "c3331cf175e33589",
+      "score": 7
+    },
+    {
+      "title": "Queda de 45% no preço médio dos diamantes da De...",
+      "url": "https://valoreconomico.co.ao/artigo/queda-de-45-no-preco-medio-dos-diamantes-da-de-beers-pressiona-receitas-de-angola",
+      "source": "Valor Económico",
+      "_key": "e90db303493e939a",
+      "score": 7
+    },
+    {
+      "title": "Execução do OGE revela baixa aplicação de verbas em programas de combate à pobreza",
+      "url": "https://correiokianda.info/execucao-do-oge-revela-baixa-aplicacao-de-verbas-em-programas-de-combate-a-pobreza/",
+      "source": "Correio Kianda",
+      "_key": "681cf485b295b02e",
       "score": 6
     },
     {
-      "title": "Destaque Ministro de Estado para Coordenação Económica trabalha no Zaire O ministro de Estado para Coordenação Económica, José de Lima Massano, trabalha, neste momento, no Zaire, onde avalia várias obras de impacto económico e social, em curso em cinco municípios.",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/699153/ministro-de-estado-para-coordena%C3%A7%C3%A3o-econ%C3%B3mica-trabalha-no-zaire-",
+      "title": "OGE 2027: Tesouro garante quase metade de toda a receita",
+      "url": "https://correiokianda.info/oge-2027-receita-total-fixada-37-trilioes/",
+      "source": "Correio Kianda",
+      "_key": "54799e0419bffeb2",
+      "score": 6
+    },
+    {
+      "title": "João Lourenço recebe CEO da Embraer no Palácio Presidencial",
+      "url": "https://diariodosnegocios.com/joao-lourenco-recebe-ceo-da-embraer-no-palacio-presidencial/",
+      "source": "Diário dos Negócios",
+      "_key": "9461097811306190",
+      "score": 6
+    },
+    {
+      "title": "Superintendente-chefe e quatro agentes do SIC respondem por furto de gerador e electrodomésticos",
+      "url": "https://diariodosnegocios.com/superintendente-chefe-e-quatro-agentes-do-sic-respondem-por-furto-de-gerador-e-electrodomesticos/",
+      "source": "Diário dos Negócios",
+      "_key": "6d2180a0b96f6f28",
+      "score": 6
+    },
+    {
+      "title": "Obras no Camama custam, em média, 4 milhões USD por quilómetro",
+      "url": "https://diariodosnegocios.com/obras-no-camama-custam-em-media-4-milhoes-usd-por-quilometro/",
+      "source": "Diário dos Negócios",
+      "_key": "4a142ebbe0c95f6a",
+      "score": 6
+    },
+    {
+      "title": "\"Angola não precisa de eliminar a economia informal, mas de aprender a beneficiar da sua capacidade produtiva\"",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b9052b69fc88a5",
+      "score": 6
+    },
+    {
+      "title": "CEAST exige transparência na gestão pública e combate à corrupção em Angola",
+      "url": "https://holdonangola.com/ceast-exige-transparencia-na-gestao-publica-e-combate-a-corrupcao-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "d1776a4abef0eb62",
+      "score": 6
+    },
+    {
+      "title": "Destaque Presidente João Lourenço recebe CEO da multinacional EMBRAER  O Chefe de Estado, João Lourenço, recebeu no final da manhã desta terça-feira, em Luanda, o presidente e CEO da gigante brasileira da aviação EMBRAER, Bosco Costa Júnior.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699233/presidente-jo%C3%A3o-louren%C3%A7o-recebe-ceo-da-multinacional-embraer-",
       "source": "Jornal de Angola",
-      "_key": "5b4a9d6037b31d89",
+      "_key": "9de8486dcb8e2e68",
+      "score": 6
+    },
+    {
+      "title": "Ministra das Finanças aprova ajuste directo de 102...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/ministra-das-financas-aprova-ajuste-directo-de-102-milhoes-kz-para-transporte-de-colaboradores-da-comissao-do-mercado-de-capitais-apos-fracasso-de-concurso-publico-75973.html",
+      "source": "Novo Jornal",
+      "_key": "3812680787fbefca",
+      "score": 6
+    },
+    {
+      "title": "Executivo reforça medidas de combate ao branqueamento no sector imobiliário",
+      "url": "https://opais.ao/politica/executivo-reforca-medidas-de-combate-ao-branqueamento-no-sector-imobiliario/",
+      "source": "O País",
+      "_key": "47eb68478afe79e5",
+      "score": 6
+    },
+    {
+      "title": "Encruzilhada do MPLA (II): continuidade de João Lourenço e o futuro",
+      "url": "https://opais.ao/opiniao/encruzilhada-do-mpla-ii-continuidade-de-joao-lourenco-e-o-futuro/",
+      "source": "O País",
+      "_key": "4cfc338390e95e73",
+      "score": 6
+    },
+    {
+      "title": "Comité Nacional reforça combate ao terrorismo",
+      "url": "https://opais.ao/politica/comite-nacional-reforca-combate-ao-terrorismo/",
+      "source": "O País",
+      "_key": "cb704724975e9f71",
+      "score": 6
+    },
+    {
+      "title": "Pinto Matamba reafirma apoio à candidatura de João Lourenço à liderança do MPLA",
+      "url": "https://opais.ao/politica/pinto-matamba-reafirma-apoio-a-candidatura-de-joao-lourenco-a-lideranca-do-mpla/",
+      "source": "O País",
+      "_key": "797aed4ea8d23521",
+      "score": 6
+    },
+    {
+      "title": "Banco Mundial avalia execução do Projecto Diversifica Mais",
+      "url": "https://opais.ao/economia/banco-mundial-avalia-execucao-do-projecto-diversifica-mais/",
+      "source": "O País",
+      "_key": "efc76b38d1e984a8",
+      "score": 6
+    },
+    {
+      "title": "Cabinda prepara mais de 64 mil hectares para cultivo na campanha agrícola 2026/2027",
+      "url": "https://opais.ao/economia/cabinda-prepara-mais-de-64-mil-hectares-para-cultivo-na-campanha-agricola-2026-2027/",
+      "source": "O País",
+      "_key": "2387caae959c6b99",
+      "score": 6
+    },
+    {
+      "title": "Concurso sem propostas 'obriga' ministra a ajuste directo de 102...",
+      "url": "https://valoreconomico.co.ao/artigo/concurso-sem-propostas-obriga-ministra-a-ajuste-directo-de-102-milhoes-para-transportes-da-cmc",
+      "source": "Valor Económico",
+      "_key": "c885f283ad60616c",
+      "score": 6
+    },
+    {
+      "title": "Chuvas provocam queda de ponte e condicionam circulação entre dois municípios de Benguela",
+      "url": "https://correiokianda.info/chuvas-provocam-queda-de-ponte-e-condicionam-circulacao-entre-dois-municipios-de-benguela/",
+      "source": "Correio Kianda",
+      "_key": "f0ca0e1937333bda",
       "score": 5
     },
     {
-      "title": "Economia / Há 8 horas Vietnamitas investem em mandioca no Bié ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699133/vietnamitas-investem-em-mandioca-no-bi%C3%A9",
-      "source": "Jornal de Angola",
-      "_key": "62b3f6bc2fab3093",
+      "title": "\"Conclusão dos processos em tribunal é decisiva para o sucesso da Recredit\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/conclusao-dos-processos-em-tribunal-e-decisiva-para-o-sucesso-da-recredit-75960.html",
+      "source": "Expansão",
+      "_key": "1186719d03c0b9d2",
       "score": 5
     },
     {
-      "title": "Última hora Mário Oliveira reafirma compromisso de Angola na construção do ecossistema digital sustentável",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699091/m%C3%A1rio-oliveira-reafirma-compromisso-de-angola-na-constru%C3%A7%C3%A3o-do-ecossistema-digital-sustent%C3%A1vel",
+      "title": "\"Conclusão dos processos em tribunal é decisiva para o sucesso da Recredit\"Dez anos depois, a Recredit procura transformar activos tóxicos em valor para o Estado. A recuperação representa 58% do valor investido na carteira adquirida, mas só 14% do valor nominal. Mirian Ferreira aborda os desafios do BPC e do BDA, revela contratos com dois bancos privados, no valor de 142 mil milhões Kz.",
+      "url": "https://expansao.co.ao/multimedia/detalhe/conclusao-dos-processos-em-tribunal-e-decisiva-para-o-sucesso-da-recredit-75959.html",
+      "source": "Expansão",
+      "_key": "45c6c80a03d84e4f",
+      "score": 5
+    },
+    {
+      "title": "Economia / Há 2 horas Mário Centeno vai ser orador em conferência hoje em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699210/m%C3%A1rio-centeno-vai-ser-orador-em-confer%C3%AAncia-hoje-em-luanda",
       "source": "Jornal de Angola",
-      "_key": "9221f7a086556919",
+      "_key": "f71d6427ca626ef6",
+      "score": 5
+    },
+    {
+      "title": "Detido \"Bebucho Straga\", suspeito de raptar mulheres...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-bebucho-straga-suspeito-de-raptar-mulheres-de-quem-abusava-sexualmente-e-de-matar-algumas-para-impedir-denuncias-75972.html",
+      "source": "Novo Jornal",
+      "_key": "6fd10684964007a4",
+      "score": 5
+    },
+    {
+      "title": "SIC apreende 181 quilogramas de liamba e mil embrulhos de droga em Cacuaco",
+      "url": "https://opais.ao/ultima_hora/sic-apreende-181-quilogramas-de-liamba-e-mil-embrulhos-de-droga-em-cacuaco/",
+      "source": "O País",
+      "_key": "88f5a77e5288af4f",
+      "score": 5
+    },
+    {
+      "title": "SPCB de Luanda reforça estratégias de prevenção para 2027",
+      "url": "https://opais.ao/ultima_hora/spcb-de-luanda-reforca-estrategias-de-prevencao-para-2027/",
+      "source": "O País",
+      "_key": "3225ea22f0a20632",
+      "score": 5
+    },
+    {
+      "title": "João Lourenço e CEO da Embraer abordam reforço da cooperação no sector da aviação",
+      "url": "https://opais.ao/politica/joao-lourenco-e-ceo-da-embraer-abordam-reforco-da-cooperacao-no-sector-da-aviacao/",
+      "source": "O País",
+      "_key": "e9d41f7d9da2ee5a",
+      "score": 5
+    },
+    {
+      "title": "Editorial: Cooperativas agrícolas",
+      "url": "https://opais.ao/editorial/editorial-cooperativas-agricolas/",
+      "source": "O País",
+      "_key": "63c1cdc7509482e4",
+      "score": 5
+    },
+    {
+      "title": "Plano prevê facilitar investimentos transfronteiriços em dez países da África...",
+      "url": "https://valoreconomico.co.ao/artigo/plano-preve-facilitar-investimentos-transfronteiricos-em-dez-paises-da-africa-ocidental-reduzir-a-dependencia-do-dolar-e-ampliar-o-financiamento-de-projectos-de-infra-estruturas",
+      "source": "Valor Económico",
+      "_key": "bb689a934fd80814",
       "score": 5
     }
   ]
