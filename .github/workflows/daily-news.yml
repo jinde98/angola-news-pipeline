@@ -34,7 +34,16 @@ jobs:
       - name: Install agent-browser and Playwright
         run: |
           npm install -g agent-browser
-          npx playwright install --with-deps chromium
+          for attempt in 1 2 3; do
+            echo "Playwright install attempt $attempt/3"
+            if npx playwright install chromium; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              sleep $((attempt * 15))
+            fi
+          done
+          exit 1
 
       - name: Configure environment
         run: |
