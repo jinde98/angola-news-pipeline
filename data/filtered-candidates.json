@@ -1,49 +1,168 @@
 {
-  "date": "2026-11-10",
-  "total_new": 18,
-  "total_filtered": 6,
+  "date": "2026-11-11",
+  "total_new": 118,
+  "total_filtered": 23,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Destaque Angola reforça coordenação institucional no combate ao terrorismoO Comité Nacional de Designação realizou, esta terça-feira, a 1.ª Reunião Ordinária de 2026, sob orientação do ministro do Interior, Manuel Homem, na qualidade de coordenador do órgão.",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699245/angola-refor%C3%A7a-coordena%C3%A7%C3%A3o-institucional-no-combate-ao-terrorismo",
+      "title": "Petróleo Brent cai para 92,53 dólares devido sinais de fim da guerra com o Irão",
+      "url": "https://correiokianda.info/petroleo-brent-cai-para-9253-dolares-devido-sinais-de-fim-da-guerra-com-o-irao/",
+      "source": "Correio Kianda",
+      "_key": "e61b84498970907f",
+      "score": 9
+    },
+    {
+      "title": "Política Dalva Ringote Allen realça valorização da história de Angola e amizade com a China ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699291/dalva-ringote-allen-real%C3%A7a-valoriza%C3%A7%C3%A3o-da-hist%C3%B3ria-de-angola-e-amizade-com-a-china",
       "source": "Jornal de Angola",
-      "_key": "a325aad3c6a6fdbb",
+      "_key": "925874f5bdfdcd2f",
+      "score": 9
+    },
+    {
+      "title": "Angola melhora, mas segue entre os piores africanos para negócios",
+      "url": "https://valoreconomico.co.ao/artigo/angola-melhora-mas-segue-entre-os-piores-africanos-para-negocios",
+      "source": "Valor Económico",
+      "_key": "f33ea62370d2bd30",
+      "score": 9
+    },
+    {
+      "title": "Executivo mantém abertura a investidores, mas sem pressa para fechar parcerias na Refinaria do Lobito",
+      "url": "https://correiokianda.info/executivo-mantem-abertura-a-investidores-mas-sem-pressa-para-fechar-parcerias-na-refinaria-do-lobito/",
+      "source": "Correio Kianda",
+      "_key": "acf525797c9ba8da",
+      "score": 8
+    },
+    {
+      "title": "Passivo da Sonangol eleva stock da dívida pública para 80 mil milhões USD no terceiro trimestre",
+      "url": "https://diariodosnegocios.com/passivo-da-sonangol-eleva-stock-da-divida-publica-para-80-mil-milhoes-usd-no-terceiro-trimestre/",
+      "source": "Diário dos Negócios",
+      "_key": "3733b339fcee98db",
+      "score": 8
+    },
+    {
+      "title": "PCA do Porto do Lobito defende que riquezas de Angola devem beneficiar prioritariamente os angolanos",
+      "url": "https://opais.ao/ultima_hora/pca-do-porto-do-lobito-defende-que-riquezas-de-angola-devem-beneficiar-prioritariamente-os-angolanos/",
+      "source": "O País",
+      "_key": "3898f1a6e2efecfc",
+      "score": 8
+    },
+    {
+      "title": "Angola duplica emissões de dívida externa e paga juros mais...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-duplica-emissoes-de-divida-externa-e-paga-juros-mais-caros",
+      "source": "Valor Económico",
+      "_key": "aeb77b2642808160",
+      "score": 8
+    },
+    {
+      "title": "AGT arrecada 1,6 biliões kz com IVA, mas devolve apenas...",
+      "url": "https://valoreconomico.co.ao/artigo/agt-arrecada-1-6-bilioes-kz-com-iva-mas-devolve-apenas-24-do-valor-solicitado",
+      "source": "Valor Económico",
+      "_key": "b1420ba4c9612000",
+      "score": 8
+    },
+    {
+      "title": "Obra sobre diplomacia económica destaca papel do Estado na atracção de investimentos para Angola",
+      "url": "https://correiokianda.info/obra-sobre-diplomacia-economica-destaca-papel-do-estado-na-atraccao-de-investimentos-para-angola/",
+      "source": "Correio Kianda",
+      "_key": "4d91d413fca951b1",
       "score": 7
     },
     {
-      "title": "Executivo quer aumentar peso do turismo na economia angolana",
-      "url": "https://correiokianda.info/executivo-quer-aumentar-peso-do-turismo-na-economia-angolana/",
-      "source": "Correio Kianda",
-      "_key": "bf8f63465836d353",
-      "score": 6
+      "title": "Novo Aeroporto Internacional de Cabinda com inauguração prevista para 2029",
+      "url": "https://opais.ao/ultima_hora/novo-aeroporto-internacional-de-cabinda-com-inauguracao-prevista-para-2029/",
+      "source": "O País",
+      "_key": "8137fd52900151d7",
+      "score": 7
     },
     {
-      "title": "Assinatura electrónica já tem lei, mas ainda falta criar condições para funcionar",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_1eda55e6163be0",
-      "score": 6
-    },
-    {
-      "title": "PR recebe presidente- da Embraer para abordar cooperação no sector...",
-      "url": "https://valoreconomico.co.ao/artigo/pr-recebe-presidente-da-embraer-para-abordar-cooperacao-no-sector-da-aviacao",
+      "title": "AN aprova amanhã proposta de lei de validação do OGE...",
+      "url": "https://valoreconomico.co.ao/artigo/an-aprova-amanha-proposta-de-lei-de-validacao-do-oge-2027",
       "source": "Valor Económico",
-      "_key": "7585b6f0a0029927",
+      "_key": "a7c63b17b977be31",
+      "score": 7
+    },
+    {
+      "title": "África50 identifica oportunidades de investimento em Angola",
+      "url": "https://valoreconomico.co.ao/artigo/africa50-identifica-oportunidades-de-investimento-em-angola",
+      "source": "Valor Económico",
+      "_key": "44126361a40de152",
+      "score": 7
+    },
+    {
+      "title": "Executivo poderá bloquear parte do dinheiro destinado aos sectores públicos no OGE 2027",
+      "url": "https://correiokianda.info/executivo-podera-bloquear-parte-do-dinheiro-destinado-aos-sectores-publicos-no-oge-2027/",
+      "source": "Correio Kianda",
+      "_key": "afd883d4d69b5742",
       "score": 6
     },
     {
-      "title": "Sector empresarial pede mais financiamento e oportunidades para empresas nacionais",
-      "url": "https://correiokianda.info/sector-empresarial-pede-mais-financiamento-e-oportunidades-para-empresas-nacionais/",
-      "source": "Correio Kianda",
-      "_key": "9b5b7cafe91fdea6",
+      "title": "Controlo das despesas públicas reforça poderes do Presidente da República para cativar até 30% do OGE",
+      "url": "https://diariodosnegocios.com/controlo-das-despesas-publicas-reforca-poderes-do-presidente-da-republica-para-cativar-ate-30-do-oge/",
+      "source": "Diário dos Negócios",
+      "_key": "3cf9a7677166a9aa",
+      "score": 6
+    },
+    {
+      "title": "Sete cotadas lucram 644 mil milhões Kz, mas resultados não travam queda das acções",
+      "url": "https://expansao.co.ao/empresas/detalhe/sete-cotadas-lucram-644-mil-milhoes-kz-mas-resultados-nao-travam-queda-das-accoes-75990.html",
+      "source": "Expansão",
+      "_key": "477b401086d7462a",
+      "score": 6
+    },
+    {
+      "title": "Ministra Teresa Rodrigues Dias reitera compromisso do Executivo com a melhoria dos salários na Função Pública",
+      "url": "https://opais.ao/politica/ministra-teresa-rodrigues-dias-reitera-compromisso-do-executivo-com-a-melhoria-dos-salarios-na-funcao-publica/",
+      "source": "O País",
+      "_key": "23ddcd192f8ec91e",
+      "score": 6
+    },
+    {
+      "title": "Controlo das despesas públicas reforça poderes do Presidente da República para cativar até 30% do OGE",
+      "url": "https://opais.ao/politica/controlo-das-despesas-publicas-reforca-poderes-do-presidente-da-republica-para-cativar-ate-30-do-oge/",
+      "source": "O País",
+      "_key": "07ba1867883f60f1",
+      "score": 6
+    },
+    {
+      "title": "Cristina Lourenço admite que Mercado de Capitais ainda não financia...",
+      "url": "https://valoreconomico.co.ao/artigo/cristina-lourenco-admite-que-mercado-de-capitais-ainda-nao-financia-economia-real-na-dimensao-esperada",
+      "source": "Valor Económico",
+      "_key": "90980cab04c382ff",
+      "score": 6
+    },
+    {
+      "title": "Nigéria aprova 145 novas operações de perfuração de poços para...",
+      "url": "https://valoreconomico.co.ao/artigo/nigeria-aprova-145-novas-operacoes-de-perfuracao-de-pocos-para-impulsionar-producao-de-petroleo",
+      "source": "Valor Económico",
+      "_key": "6e90180b3a09574d",
+      "score": 6
+    },
+    {
+      "title": "51 ANOS DE INDEPENDÊNCIA, MAS CADA VEZ MAIS DEPENDENTES",
+      "url": "https://valoreconomico.co.ao/artigo/51-anos-de-independencia-mas-cada-vez-mais-dependentes",
+      "source": "Valor Económico",
+      "_key": "053388afd880a97e",
+      "score": 6
+    },
+    {
+      "title": "Doze programas ultrapassam os orçamentos, enquanto combate à pobreza...",
+      "url": "https://valoreconomico.co.ao/artigo/doze-programas-ultrapassam-os-orcamentos-enquanto-combate-a-pobreza-executa-apenas-15",
+      "source": "Valor Económico",
+      "_key": "2f2256addb000efd",
+      "score": 6
+    },
+    {
+      "title": "Regiões Zaire: Comandante provincial ordena combate sem tréguas ao crime ",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/699248/zaire:-comandante-provincial-ordena-combate-sem-tr%C3%A9guas-ao-crime",
+      "source": "Jornal de Angola",
+      "_key": "880025e6e8b15544",
       "score": 5
     },
     {
-      "title": "BFA recupera em força na BODIVA e dispara 5,2% após...",
-      "url": "https://valoreconomico.co.ao/artigo/bfa-recupera-em-forca-na-bodiva-e-dispara-5-2-apos-sessao-de-quedas",
-      "source": "Valor Económico",
-      "_key": "30846db76ccb0872",
+      "title": "PNA abre inquérito contra efectivos acusados de agredir dois cidadãos em Luanda",
+      "url": "https://opais.ao/ultima_hora/pna-abre-inquerito-contra-efectivos-acusados-de-agredir-dois-cidadaos-em-luanda/",
+      "source": "O País",
+      "_key": "5060722c86c78215",
       "score": 5
     }
   ]
