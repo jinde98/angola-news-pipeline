@@ -1,64 +1,456 @@
 {
-  "date": "2026-11-12",
-  "total_new": 30,
-  "total_filtered": 7,
+  "date": "2026-11-13",
+  "total_new": 128,
+  "total_filtered": 56,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "14:03 / 12 nov. 2026 Cooperação com a China abordada no Fórum de Paris ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699357/coopera%C3%A7%C3%A3o-com-a-china--abordada-no-f%C3%B3rum-de-paris",
-      "source": "Jornal de Angola",
-      "_key": "206803bc32903fb3",
+      "title": "Dívida externa da Sonangol sobe 5,4 mil milhões USD em apenas nove meses",
+      "url": "https://expansao.co.ao/empresas/detalhe/divida-externa-da-sonangol-sobe-54-mil-milhoes-usd-em-apenas-nove-meses-76027.html",
+      "source": "Expansão",
+      "_key": "a996307f7556e665",
       "score": 9,
-      "title_cn": "巴黎论坛讨论与中国合作"
+      "title_cn": "Sonangol外债九个月内激增54亿美元"
     },
     {
-      "title": "Preços dos enchidos disparam até 66% em Luanda devido a...",
-      "url": "https://valoreconomico.co.ao/artigo/precos-dos-enchidos-disparam-ate-66-em-luanda-devido-a-restricoes-nas-importacoes",
+      "title": "Orçamento do Estado aprovado em Angola com críticas ao peso da dívida pública",
+      "url": "https://jornaloguardiao.com/2026/11/13/orcamento-do-estado-aprovado-em-angola-com-criticas-ao-peso-da-divida-publica/",
+      "source": "Jornal O Guardião",
+      "_key": "fedfd9b6fb44674b",
+      "score": 9,
+      "title_cn": "安哥拉批准国家预算，批评公共债务过重"
+    },
+    {
+      "title": " Orçamento do Estado aprovado em Angola com críticas ao peso da dívida pública ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9875e4bc0155fb",
+      "score": 9,
+      "title_cn": "安哥拉批准国家预算，批评公共债务过重"
+    },
+    {
+      "title": "Economia Diamantino Azevedo e representante do GDC abordam participação de Angola na De Beers ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699473/diamantino-azevedo-e-representante-do-gdc-abordam-participa%C3%A7%C3%A3o-de-angola-na-de-beers",
+      "source": "Jornal de Angola",
+      "_key": "ca90ffe1f12ebf96",
+      "score": 9,
+      "title_cn": "Diamantino Azevedo与GDC代表讨论安哥拉在De Beers的参与"
+    },
+    {
+      "title": "Angola compra acções da De Beers e redefine estratégia...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-compra-accoes-da-de-beers-e-redefine-estrategia-no-sector-mineiro-76035.html",
+      "source": "Novo Jornal",
+      "_key": "b87a34ff6fb9cb57",
+      "score": 9,
+      "title_cn": "安哥拉收购De Beers股份并重新定义战略"
+    },
+    {
+      "title": "Um lugar à mesa da De Beers",
+      "url": "https://www.novojornal.co.ao/opiniao/editorial/detalhe/um-lugar-a-mesa-da-de-beers-76032.html",
+      "source": "Novo Jornal",
+      "_key": "b63e36c168100fa4",
+      "score": 9,
+      "title_cn": "获得De Beers的一席之地"
+    },
+    {
+      "title": "Angola aborda cooperação com a China no Fórum de Paris sobre a Paz",
+      "url": "https://opais.ao/politica/angola-aborda-cooperacao-com-a-china-no-forum-de-paris-sobre-a-paz/",
+      "source": "O País",
+      "_key": "5477d1d7ea7ee2f0",
+      "score": 9,
+      "title_cn": "安哥拉在巴黎和平论坛讨论对华合作"
+    },
+    {
+      "title": "Governo usa receitas extraordinárias do petróleo para diversificar economia",
+      "url": "https://valoreconomico.co.ao/artigo/governo-usa-receitas-extraordinarias-do-petroleo-para-diversificar-economia",
       "source": "Valor Económico",
-      "_key": "4dc935a3de9dc643",
+      "_key": "e64710c24b52be10",
+      "score": 9,
+      "title_cn": "政府利用石油额外收入实现经济多元化"
+    },
+    {
+      "title": "Oferta mundial de petróleo deverá superar procura no quarto trimestre,...",
+      "url": "https://valoreconomico.co.ao/artigo/oferta-mundial-de-petroleo-devera-superar-procura-no-quarto-trimestre-preve-aie",
+      "source": "Valor Económico",
+      "_key": "763f9abf0e012622",
+      "score": 9,
+      "title_cn": "全球石油供应将在第四季度超过需求"
+    },
+    {
+      "title": "Executivo quer maior controlo da qualidade dos produtos disponíveis no mercado nacional",
+      "url": "https://correiokianda.info/executivo-quer-maior-controlo-da-qualidade-dos-produtos-disponiveis-no-mercado-nacional/",
+      "source": "Correio Kianda",
+      "_key": "c451895f04656b55",
       "score": 8,
-      "title_cn": "罗安达香肠价格飙升高达66%"
+      "title_cn": "执政当局希望加强对国内市场产品质量的管控"
     },
     {
-      "title": "Destaque Proposta do Orçamento Geral do Estado votada hoje na GeneralidadeA Proposta de Lei que aprova do Orçamento Geral do Estado (OGE) para 2027, avaliada em 37,34 biliões de kwanzas, está a ser apreciada, neste momento, pelos deputados à Assembleia Nacional, antes de ser submetida à votação na generalidade.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699339/proposta-do-or%C3%A7amento-geral-do-estado-votada-hoje-na-generalidade",
+      "title": "Privatizações e investimentos marcam conferência sobre regulação económica",
+      "url": "https://correiokianda.info/privatizacoes-e-investimentos-marcam-conferencia-sobre-regulacao-economica/",
+      "source": "Correio Kianda",
+      "_key": "2f0ce65d0cf6d068",
+      "score": 8,
+      "title_cn": "私有化和投资成为经济监管会议的焦点"
+    },
+    {
+      "title": "Executivo elege sectores produtivos como motores da diversificação económica",
+      "url": "https://correiokianda.info/executivo-elege-sectores-produtivos-como-motores-da-diversificacao-economica/",
+      "source": "Correio Kianda",
+      "_key": "d27c8907a719af1f",
+      "score": 8,
+      "title_cn": "执政当局选定生产部门作为经济多元化引擎"
+    },
+    {
+      "title": "País entra no capital da De Beers com 10% através de consórcio africano",
+      "url": "https://diariodosnegocios.com/pais-entra-no-capital-da-de-beers-com-10-atraves-de-consorcio-africano/",
+      "source": "Diário dos Negócios",
+      "_key": "c65ed76ed70f5df2",
+      "score": 8,
+      "title_cn": "安哥拉通过非洲财团以10%入股De Beers"
+    },
+    {
+      "title": "IRPS | Uma reforma da tributação das pessoas que as empresas não podem ignorar",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_b18f19efdb2068",
+      "score": 8,
+      "title_cn": "IRPS | 个人所得税改革不容企业忽视"
+    },
+    {
+      "title": "OGE 2027: prioridades que exigem resultados",
+      "url": "https://www.jornaldeangola.ao/noticias/9/opini%C3%A3o/699404/oge-2027:-prioridades-que-exigem-resultados",
       "source": "Jornal de Angola",
-      "_key": "7919044a359710d0",
+      "_key": "491bf271e8671428",
+      "score": 8,
+      "title_cn": "2027年国家预算：需要结果的重点"
+    },
+    {
+      "title": "PR autoriza mais de 135 milhões USD para electrificação...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-autoriza-mais-de-135-milhoes-usd-para-electrificacao-do-cuanza-sul-com-recurso-a-linha-de-credito-da-gemcorp-76045.html",
+      "source": "Novo Jornal",
+      "_key": "793978f621755c5b",
+      "score": 8,
+      "title_cn": "总统批准1.35亿美元用于电气化"
+    },
+    {
+      "title": "Sonangol garante normalização do fornecimento de combustível em Luanda, Huambo, Moxico, Cunene e Lunda Sul",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sonangol-garante-normalizacao-do-fornecimento-de-combustivel-em-luanda-huambo-moxico-cunene-e-lunda-sul-76037.html",
+      "source": "Novo Jornal",
+      "_key": "c0340ae3db46af97",
+      "score": 8,
+      "title_cn": "Sonangol保证罗安达等五地燃料供应恢复正常"
+    },
+    {
+      "title": "Transafrica e Sonangol assinam acordo para o Projecto Petroquímico do Zaire",
+      "url": "https://opais.ao/economia/transafrica-e-sonangol-assinam-acordo-para-o-projecto-petroquimico-do-zaire/",
+      "source": "O País",
+      "_key": "a0bc1d2c557c914e",
+      "score": 8,
+      "title_cn": "Transafrica与Sonangol签署扎伊尔石化项目协议"
+    },
+    {
+      "title": "Apagão global da Microsoft afeta operações da banca em Angola",
+      "url": "https://valoreconomico.co.ao/artigo/apagao-global-da-microsoft-afeta-operacoes-da-banca-em-angola",
+      "source": "Valor Económico",
+      "_key": "3299b5f74f8c74ee",
+      "score": 8,
+      "title_cn": "微软全球宕机影响安哥拉银行业务"
+    },
+    {
+      "title": "Transafrica aponta início de 2027 para avançar com refinaria no...",
+      "url": "https://valoreconomico.co.ao/artigo/transafrica-aponta-inicio-de-2027-para-avancar-com-refinaria-no-soyo",
+      "source": "Valor Económico",
+      "_key": "de70cb95d52ba42b",
+      "score": 8,
+      "title_cn": "Transafrica预计2027年启动炼油厂项目"
+    },
+    {
+      "title": "Transafrica e Sonangol assinam acordo para Projecto Petroquímico do...",
+      "url": "https://valoreconomico.co.ao/artigo/transafrica-e-sonangol-assinam-acordo-para-projecto-petroquimico-do-zaire",
+      "source": "Valor Económico",
+      "_key": "12863fe5fdc6371f",
+      "score": 8,
+      "title_cn": "Transafrica与Sonangol签署石化项目协议"
+    },
+    {
+      "title": "Associações empresariais condicionam impacto da inflação ao reforço do poder de compra",
+      "url": "https://valoreconomico.co.ao/artigo/associacoes-empresariais-condicionam-impacto-da-inflacao-ao-reforco-do-poder-de-compra",
+      "source": "Valor Económico",
+      "_key": "0784e6136ef74bfd",
+      "score": 8,
+      "title_cn": "商会认为通胀影响取决于购买力增强"
+    },
+    {
+      "title": "Maquela do Zombo prepara-se para reforçar comércio entre Angola e RDC",
+      "url": "https://correiokianda.info/maquela-do-zombo-prepara-se-para-reforcar-comercio-entre-angola-e-rdc/",
+      "source": "Correio Kianda",
+      "_key": "dfafc34a175aaffb",
       "score": 7,
-      "title_cn": "2027年国家总预算草案今日进行总体审议"
+      "title_cn": "Maquela do Zombo准备加强安哥拉与刚果（金）贸易"
     },
     {
-      "title": "OGE 2027: Governo prevê reforçar produção nacional e reduzir custo de vidaO Executivo prevê reforçar a produção nacional e reduzir o custo de vida dos angolanos, afirmou, esta quinta-feira, a ministra das Finanças, Vera Daves de Sousa, durante a II Reunião Plenária Extraordinária da 5.ª Sessão Legislativa da V Legislatura da Assembleia Nacional.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699396/oge-2027:-governo-prev%C3%AA-refor%C3%A7ar-produ%C3%A7%C3%A3o-nacional-e-reduzir-custo-de-vida",
-      "source": "Jornal de Angola",
-      "_key": "335d5f4ac3c85fba",
+      "title": "Sonangol garante combustível suficiente para responder à procura no mercado nacional",
+      "url": "https://correiokianda.info/sonangol-garante-combustivel-suficiente-para-responder-a-procura-no-mercado-nacional/",
+      "source": "Correio Kianda",
+      "_key": "cda20d2e50b0a52b",
       "score": 7,
-      "title_cn": "2027年国家总预算：政府计划加强生产、降低生活成本"
+      "title_cn": "Sonangol保证国内市场燃料供应充足"
     },
     {
-      "title": "13:56 / 12 nov. 2026 Téte António defende parcerias económicas mais equilibradas ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699355/t%C3%A9te-ant%C3%B3nio-defende-parcerias--econ%C3%B3micas-mais-equilibradas-",
-      "source": "Jornal de Angola",
-      "_key": "609b516ff5757b67",
+      "title": "Zimbabué avança na refinação para proibir saída de lítio em bruto",
+      "url": "https://expansao.co.ao/mundo/detalhe/zimbabue-avanca-na-refinacao-para-proibir-saida-de-litio-em-bruto-76030.html",
+      "source": "Expansão",
+      "_key": "7fccb279503802d1",
       "score": 7,
-      "title_cn": "特特·安东尼奥（Téte António）主张建立更平衡的经济伙伴关系"
+      "title_cn": "津巴布韦推进精炼以禁止原锂出口"
     },
     {
-      "title": "Destaque OGE 2027 destina 47,56% da despesa fiscal primária a iniciativas sociais O ministro de Estado para a Coordenação Económica, José de Lima Massano, destacou, esta quinta-feira, a dimensão social como uma das principais prioridades da proposta do Orçamento Geral do Estado (OGE) para 2027, que reserva 47,56% da despesa fiscal primária a iniciativas de desenvolvimento do capital humano, protecção social e redução das desigualdades.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699397/oge-2027-destina-4756%25-da-despesa-fiscal-prim%C3%A1ria-a-iniciativas-sociais-",
+      "title": "Bastonário da OEA alerta para riscos de uma regulação excessiva na economia angolana",
+      "url": "https://forbesafricalusofona.com/bastonario-da-oea-alerta-para-riscos-de-uma-regulacao-excessiva-na-economia-angolana/",
+      "source": "Forbes África",
+      "_key": "3a46e5dc05b26227",
+      "score": 7,
+      "title_cn": "美洲国家组织负责人警告安哥拉经济过度监管风险"
+    },
+    {
+      "title": "ARC de Angola regista 15 processos de concentração de empresas e sete investigações por práticas anticoncorrenciais em 2026",
+      "url": "https://forbesafricalusofona.com/autoridade-reguladora-da-concorrencia/",
+      "source": "Forbes África",
+      "_key": "c86d63d8536f7fa8",
+      "score": 7,
+      "title_cn": "安哥拉竞争局2026年记录15起企业并购案及7起反垄断调查"
+    },
+    {
+      "title": "Angola propõe aproximação económica entre MERCOSUL e mercado africano",
+      "url": "https://forbesafricalusofona.com/angola-propoe-aproximacao-economica-entre-mercosul-e-mercado-africano/",
+      "source": "Forbes África",
+      "_key": "19daef72a77ec7a7",
+      "score": 7,
+      "title_cn": "安哥拉提议Mercosul与非洲市场经济一体化"
+    },
+    {
+      "title": "Fracas colheitas colocam quase dois milhões de angolanos em risco de fome – Nações Unidas",
+      "url": "https://jornaloguardiao.com/2026/11/13/fracas-colheitas-colocam-quase-dois-milhoes-de-angolanos-em-risco-de-fome-nacoes-unidas/",
+      "source": "Jornal O Guardião",
+      "_key": "c39f93b581f767d9",
+      "score": 7,
+      "title_cn": "联合国：农作物歉收使近200万安哥拉人面临饥饿风险"
+    },
+    {
+      "title": " Fracas colheitas colocam quase dois milhões de angolanos em risco de fome – Nações Unidas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_9861727e992777",
+      "score": 7,
+      "title_cn": "联合国：农作物歉收使近200万安哥拉人面临饥饿风险"
+    },
+    {
+      "title": "Destaque Emprego em Angola aumenta 2,8% no terceiro trimestre de 2026A população empregada com 15 ou mais anos foi estimada em 10.452.752 pessoas, no terceiro trimestre de 2026, das quais 5.337.860 homens e 5.114.892 mulheres, contra 10.171.244 pessoas no trimestre anterior, o que corresponde a um aumento de 2,8%.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699439/emprego-em-angola-aumenta-28%25-no-terceiro-trimestre-de-2026",
       "source": "Jornal de Angola",
-      "_key": "9c74575b9357e242",
+      "_key": "d3fb3c674d46f66f",
+      "score": 7,
+      "title_cn": "亮点：2026年第三季度安哥拉就业增长2.8%"
+    },
+    {
+      "title": "Angola e Nigéria reforçam parceria estratégica com acordo de isenção de vistos",
+      "url": "https://opais.ao/politica/angola-e-nigeria-reforcam-parceria-estrategica-com-acordo-de-isencao-de-vistos/",
+      "source": "O País",
+      "_key": "628d9eccae68135d",
+      "score": 7,
+      "title_cn": "安哥拉与尼日利亚签署免签协议加强战略伙伴关系"
+    },
+    {
+      "title": "Maus-tratos a 58 crianças levam à detenção de quatro estrangeiros em Luanda",
+      "url": "https://correiokianda.info/maus-tratos-a-58-criancas-levam-a-detencao-de-quatro-estrangeiros-em-luanda/",
+      "source": "Correio Kianda",
+      "_key": "dff6a7f6eee3c374",
       "score": 6,
-      "title_cn": "2027年国家总预算：47.56%初级财政支出用于社会项目"
+      "title_cn": "罗安达58名儿童遭虐待，四名外国人被捕"
     },
     {
-      "title": "Política Angola é destacada como a 6.ª maior economia de África na Austrália ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699370/angola-%C3%A9-destacada-como-a-6.%C2%AA-maior-economia-de-%C3%A1frica-na-austr%C3%A1lia-",
-      "source": "Jornal de Angola",
-      "_key": "60ada7c0760766c2",
+      "title": "João Lourenço inaugura Centro Industrial de Tecnologia Avançada em Icolo e Bengo",
+      "url": "https://diariodosnegocios.com/joao-lourenco-inaugura-centro-industrial-de-tecnologia-avancada-em-icolo-e-bengo/",
+      "source": "Diário dos Negócios",
+      "_key": "ca0b7801cdc43356",
       "score": 6,
-      "title_cn": "安哥拉在澳大利亚被誉为非洲第六大经济体"
+      "title_cn": "若昂·洛伦索在Icolo e Bengo启用先进技术工业中心"
+    },
+    {
+      "title": "Access Bank admite vender até 25% das filiais africanas, e Angola pode estar na lista",
+      "url": "https://diariodosnegocios.com/access-bank-admite-vender-ate-25-das-filiais-africanas-e-angola-pode-estar-na-lista/",
+      "source": "Diário dos Negócios",
+      "_key": "d02123613b8202ec",
+      "score": 6,
+      "title_cn": "Access Bank承认可能出售最多25%的非洲子公司，安哥拉可能在列"
+    },
+    {
+      "title": "Política fiscal e desenvolvimento económico",
+      "url": "https://forbesafricalusofona.com/politica-fiscal-e-desenvolvimento-economico/",
+      "source": "Forbes África",
+      "_key": "a9bfd48a44796d54",
+      "score": 6,
+      "title_cn": "财政政策与经济发展"
+    },
+    {
+      "title": "TAAG recebe sétimo Airbus A220-300 e reforça estratégia de modernização da frota",
+      "url": "https://jornaloguardiao.com/2026/11/13/taag-recebe-setimo-airbus-a220-300-e-reforca-estrategia-de-modernizacao-da-frota/",
+      "source": "Jornal O Guardião",
+      "_key": "bc26a2dfe1ccb306",
+      "score": 6,
+      "title_cn": "TAAG接收第七架空客A220-300，强化机队现代化战略"
+    },
+    {
+      "title": " TAAG recebe sétimo Airbus A220-300 e reforça estratégia de modernização da frota ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_ce309148af8c7a",
+      "score": 6,
+      "title_cn": "TAAG接收第七架空客A220-300，强化机队现代化战略"
+    },
+    {
+      "title": "Destaque Falha no sistema da Microsoft afecta milhões de utilizadores em todo o mundoOs serviços Microsoft 365 para empresas a nível do mundial, incluindo Angola, continuam com falhas, dificultando o acesso ao correio electrónico Outlook e ao serviço de 'cloud' OneDrive, apesar de melhorias anunciadas pela empresa norte-americana.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699469/falha-no-sistema-da-microsoft-afecta-milh%C3%B5es-de-utilizadores-em-todo-o-mundo",
+      "source": "Jornal de Angola",
+      "_key": "01e06df107595de5",
+      "score": 6,
+      "title_cn": "亮点：微软系统故障影响全球数百万用户"
+    },
+    {
+      "title": "Destaque Turistas do cruzeiro MS Europa 2 visitam encantos turísticos do Lobito O navio de cruzeiro MS Europa 2, atracou, na quarta-feira, no Porto do Lobito, na província de Benguela, em trânsito para a Namíbia, Cidade do Cabo, na África do Sul, e Tanzânia, com 180 turistas de nacionalidade alemã.",
+      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/699455/turistas-do-cruzeiro-ms-europa-2-visitam-encantos-tur%C3%ADsticos-do-lobito-",
+      "source": "Jornal de Angola",
+      "_key": "45f1205201e507c9",
+      "score": 6,
+      "title_cn": "亮点：MS Europa 2号游轮停靠洛比托游览"
+    },
+    {
+      "title": "Destaque Chefe de Estado defende formação dos jovens para responder às necessidades da indústriaO Presidente João Lourenço defendeu, esta sexta-feira, a importância da formação técnico-profissional dos jovens, considerando que a preparação adequada aumenta as possibilidades de acesso a empregos sustentáveis e contribui para a resolução dos problemas das famílias e do país.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699475/chefe-de-estado-defende-forma%C3%A7%C3%A3o-dos-jovens-para-responder-%C3%A0s-necessidades-da-ind%C3%BAstria",
+      "source": "Jornal de Angola",
+      "_key": "da9dc484646851a4",
+      "score": 6,
+      "title_cn": "亮点：国家元首主张青年培训以适应工业需求"
+    },
+    {
+      "title": "Economia TAAG inaugura Lounge Kalandula no Aeroporto Internacional Dr. António Agostinho Neto ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699434/taag-inaugura-lounge-kalandula-no-aeroporto-internacional-dr.-ant%C3%B3nio-agostinho-neto",
+      "source": "Jornal de Angola",
+      "_key": "f3a3abe7bc02a7d7",
+      "score": 6,
+      "title_cn": "TAAG经济部在4月4日机场启用Kalandula休息室"
+    },
+    {
+      "title": "Política Presidente João Lourenço inaugura Centro Industrial de Tecnologia Avançada ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699430/presidente-jo%C3%A3o-louren%C3%A7o-inaugura-centro-industrial-de-tecnologia-avan%C3%A7ada",
+      "source": "Jornal de Angola",
+      "_key": "1f10124bfa71601d",
+      "score": 6,
+      "title_cn": "政治：若昂·洛伦索启用先进技术工业中心"
+    },
+    {
+      "title": "João Lourenço inaugura hoje Centro Industrial de Tecnologia Avançada",
+      "url": "https://opais.ao/politica/joao-lourenco-inaugura-hoje-centro-industrial-de-tecnologia-avancada/",
+      "source": "O País",
+      "_key": "f68d53b1b14319d1",
+      "score": 6,
+      "title_cn": "若昂·洛伦索今日启用先进技术工业中心"
+    },
+    {
+      "title": "Mais de metade da população empregada no país trabalha por conta própria",
+      "url": "https://valoreconomico.co.ao/artigo/mais-de-metade-da-populacao-empregada-no-pais-trabalha-por-conta-propria",
+      "source": "Valor Económico",
+      "_key": "b2f69339deb2051a",
+      "score": 6,
+      "title_cn": "超过一半就业人口从事个体经营"
+    },
+    {
+      "title": "Qualificação profissional ganha impulso com entrada em funcionamento do CITAV",
+      "url": "https://correiokianda.info/qualificacao-profissional-ganha-impulso-com-entrada-em-funcionamento-do-citav/",
+      "source": "Correio Kianda",
+      "_key": "ed3a0f9987bf92d9",
+      "score": 5,
+      "title_cn": "CITAV启用推动职业资格认证"
+    },
+    {
+      "title": "João Lourenço diz que ainda não sabe quem será o próximo candidato do MPLA à Presidência",
+      "url": "https://correiokianda.info/joao-lourenco-diz-que-ainda-nao-sabe-quem-sera-o-proximo-candidato-do-mpla-a-presidencia/",
+      "source": "Correio Kianda",
+      "_key": "a874a24caa009c6c",
+      "score": 5,
+      "title_cn": "若昂·洛伦索称尚不知MPLA下任总统候选人是谁"
+    },
+    {
+      "title": "Obrigações sustentáveis do BAI passam a negociar na Bolsa de Luxemburgo",
+      "url": "https://forbesafricalusofona.com/obrigacoes-sustentaveis-do-bai-passam-a-negociar-na-bolsa-de-luxemburgo/",
+      "source": "Forbes África",
+      "_key": "9453ce19ee36d854",
+      "score": 5,
+      "title_cn": "BAI可持续债券开始在卢森堡证券交易所交易"
+    },
+    {
+      "title": "Candidato do MPLA a PR será conhecido a seu tempo — João Lourenço",
+      "url": "https://jornaloguardiao.com/2026/11/13/candidato-do-mpla-a-pr-sera-conhecido-a-seu-tempo-joao-lourenco/",
+      "source": "Jornal O Guardião",
+      "_key": "a2a5c9b58042ea9a",
+      "score": 5,
+      "title_cn": "若昂·洛伦索：MPLA总统候选人将择时公布"
+    },
+    {
+      "title": " Candidato do MPLA a PR será conhecido a seu tempo — João Lourenço ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_6cc7c3ac3bc675",
+      "score": 5,
+      "title_cn": "若昂·洛伦索：MPLA总统候选人将择时公布"
+    },
+    {
+      "title": "Destaque João Lourenço: “Quando chegar a altura, vamos conhecer o candidato do MPLA\"O Presidente da República e líder do MPLA, João Lourenço, afirmou, esta sexta-feira, na província do Icolo e Bengo, que ainda não sabe quando será conhecido o candidato à presidência do partido, reforçando que “quando chegar a altura, nós vamos conhecê-lo”.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699471/jo%C3%A3o-louren%C3%A7o:-%E2%80%9Cquando-chegar-a-altura-vamos-conhecer-o-candidato-do-mpla%22",
+      "source": "Jornal de Angola",
+      "_key": "4e55886a61cc4d67",
+      "score": 5,
+      "title_cn": "约翰·洛伦索：届时将公布MPLA候选人"
+    },
+    {
+      "title": "Angola destacada e reconhecida pelas iniciativas de desenvolvimento A directora do projecto em Angola da revista Time Africa, Maura Florbela Muehombo, afirmou ontem, em Luanda, que o país foi seleccionado como uma das primeiras grandes iniciativas da plataforma devido às acções de desenvolvimento em curso, dando origem à reportagem especial intitulada “This is Angola”.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699463/angola-destacada-e-reconhecida---pelas-iniciativas-de-desenvolvimento-",
+      "source": "Jornal de Angola",
+      "_key": "40622ce8e97a0894",
+      "score": 5,
+      "title_cn": "安哥拉因发展举措获认可 Time Africa项目主任称该国入选"
+    },
+    {
+      "title": "João Lourenço diz que MPLA ainda não tem candidato...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/joao-lourenco-diz-que-mpla-ainda-nao-tem-candidato-a-cabeca-de-lista-para-as-proximas-eleicoes-e-que-partido-nao-vai-rever-os-estatutos-76080.html",
+      "source": "Novo Jornal",
+      "_key": "06295ff199e7e4c2",
+      "score": 5,
+      "title_cn": "约翰·洛伦索：MPLA尚未选出候选人"
+    },
+    {
+      "title": "SIC desmantela quadrilha envolvida em seis homicídios na Huíla",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sic-desmantela-quadrilha-envolvida-em-seis-homicidios-na-huila-76046.html",
+      "source": "Novo Jornal",
+      "_key": "dd4a75bfd855e4e4",
+      "score": 5,
+      "title_cn": "SIC捣毁希拉省涉六起谋杀案团伙"
+    },
+    {
+      "title": "TAAG inaugura Lounge Kalandula no Novo Aeroporto",
+      "url": "https://opais.ao/ultima_hora/taag-inaugura-lounge-kalandula-no-novo-aeroporto/",
+      "source": "O País",
+      "_key": "546a25d4686ca7f4",
+      "score": 5,
+      "title_cn": "TAAG在罗安达新机场启用卡兰杜拉休息室"
+    },
+    {
+      "title": "Governador de Luanda inaugura nova esquadra no Bairro 5 Fios",
+      "url": "https://opais.ao/ultima_hora/governador-de-luanda-inaugura-nova-esquadra-no-bairro-5-fios/",
+      "source": "O País",
+      "_key": "a06034b58e82348d",
+      "score": 5,
+      "title_cn": "罗安达省长在5 Fios区启用新警局"
     }
   ]
 }
