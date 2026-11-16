@@ -1,31 +1,336 @@
 {
-  "date": "2026-11-15",
-  "total_new": 12,
-  "total_filtered": 3,
+  "date": "2026-11-16",
+  "total_new": 106,
+  "total_filtered": 41,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Executivo mobiliza 1,7 biliões de kwanzas para estimular investimento nacional",
-      "url": "https://correiokianda.info/executivo-mobiliza-17-bilioes-de-kwanzas-para-estimular-investimento-nacional/",
-      "source": "Correio Kianda",
-      "_key": "b3645f7de9d602b6",
-      "score": 6,
-      "title_cn": "安哥拉政府筹集17亿宽扎刺激国内投资"
-    },
-    {
-      "title": "Acidentes de viação matam 1.576 pessoas em Angola em seis meses",
-      "url": "https://correiokianda.info/acidentes-de-viacao-matam-1-576-pessoas-em-angola-em-seis-meses/",
-      "source": "Correio Kianda",
-      "_key": "8ecac9f6d3c1d00d",
-      "score": 5
-    },
-    {
-      "title": "Sessão da União Africana sobre saúde e desenvolvimento humano arranca amanhã em Luanda",
-      "url": "https://opais.ao/ultima_hora/sessao-da-uniao-africana-sobre-saude-e-desenvolvimento-humano-arranca-amanha-em-luanda/",
+      "title": "Angola e China negociam novas formas de financiamento",
+      "url": "https://opais.ao/economia/angola-e-china-negociam-novas-formas-de-financiamento/",
       "source": "O País",
-      "_key": "1218a907df63dec8",
+      "_key": "9f662c3ec99cced5",
+      "score": 10,
+      "title_cn": "安哥拉与中国协商新的融资方式"
+    },
+    {
+      "title": "Exportações de gás valem 3 mil milhões USD em nove meses apesar da quebra na produção",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_165cfaa5162215",
+      "score": 9,
+      "title_cn": "尽管产量下降，安哥拉九个月天然气出口额仍达30亿美元"
+    },
+    {
+      "title": "Exportações de gás valem 3 mil milhões USD em nove meses apesar da quebra na produçãoParagem da fábrica Angola LNG, no Soyo, durante mais de 30 dias provocou uma forte redução das quantidades exportadas no III trimestre. Subida dos preços internacionais compensou parte das perdas e permitiu manter as receitas próximas das registadas no período homólogo. Índia domina as compras do gás angolano.",
+      "url": "https://expansao.co.ao/empresas/detalhe/exportacoes-de-gas-valem-3-mil-milhoes-usd-em-nove-meses-apesar-da-quebra-na-producao-76078.html",
+      "source": "Expansão",
+      "_key": "53db2637f2fc7150",
+      "score": 9,
+      "title_cn": "安哥拉九个月天然气出口额30亿美元，但索约（Soyo）液化天然气厂停产致产量大降"
+    },
+    {
+      "title": "O dilema da liberalização das exportações de derivados de Petróleo em Angola: Uma estratégia para a mitigação do contrabando e maximização da receita fiscal",
+      "url": "https://forbesafricalusofona.com/o-dilema-da-liberalizacao-das-exportacoes-de-derivados-de-petroleo-em-angola-uma-estrategia-para-a-mitigacao-do-contrabando-e-maximizacao-da-receita-fiscal/",
+      "source": "Forbes África",
+      "_key": "d64ae43837caa213",
+      "score": 9,
+      "title_cn": "安哥拉石油衍生品出口自由化困境：打击走私、最大化税收的策略"
+    },
+    {
+      "title": "Ministro dos Transportes exige rigor e garante continuidade dos projectos...",
+      "url": "https://valoreconomico.co.ao/artigo/ministro-dos-transportes-exige-rigor-e-garante-continuidade-dos-projectos-apos-eleicoes-gerais",
+      "source": "Valor Económico",
+      "_key": "08d25a9fa8e0bf70",
+      "score": 9,
+      "title_cn": "交通部长要求严格执行并确保项目持续推进"
+    },
+    {
+      "title": "EMIS reduz para uma hora validade dos códigos de levantamento sem cartão",
+      "url": "https://correiokianda.info/emis-reduz-para-uma-hora-validade-dos-codigos-de-levantamento-sem-cartao/",
+      "source": "Correio Kianda",
+      "_key": "160fe4b37fdac553",
+      "score": 8,
+      "title_cn": "EMIS将无卡取款码有效期缩短至一小时"
+    },
+    {
+      "title": "EMIS reduz para 60 minutos Levantamento Sem Cartão",
+      "url": "https://diariodosnegocios.com/emis-reduz-para-60-minutos-levantamento-sem-cartao/",
+      "source": "Diário dos Negócios",
+      "_key": "a4adfc3c01ecf7ba",
+      "score": 8,
+      "title_cn": "EMIS将无卡取款时间缩短至60分钟"
+    },
+    {
+      "title": "Transafrica e Sonangol assinam acordo para Projecto Petroquímico do Zaire",
+      "url": "https://diariodosnegocios.com/transafrica-e-sonangol-assinam-acordo-para-projecto-petroquimico-do-zaire/",
+      "source": "Diário dos Negócios",
+      "_key": "c911bd38a1cd093f",
+      "score": 8,
+      "title_cn": "Transafrica与Sonangol签署扎伊尔（Zaire）石化项目协议"
+    },
+    {
+      "title": "A partir de hoje, levantamento sem cartão no multicaixa passa a durar apenas uma hora",
+      "url": "https://expansao.co.ao/angola/detalhe/a-partir-de-hoje-levantamento-sem-cartao-no-multicaixa-passa-a-durar-apenas-uma-hora-76104.html",
+      "source": "Expansão",
+      "_key": "854b1fcb519607b4",
+      "score": 8,
+      "title_cn": "即日起，多功能取款机无卡取款有效期仅为一小时"
+    },
+    {
+      "title": "Sede e sucursal: qual o papel dos preços de transferência?",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_03617e5fbe4ee7",
+      "score": 8,
+      "title_cn": "总公司与分公司：转让定价的作用是什么？"
+    },
+    {
+      "title": "Sede e sucursal: qual o papel dos preços de transferência?Enquanto director-geral de uma sucursal angolana, devo assegurar que os encargos imputados pela sede à sucursal observam o princípio de plena concorrência, apesar de ambas integrarem a mesma pessoa jurídica e de a sucursal não dispor de personalidade jurídica autónoma?",
+      "url": "https://expansao.co.ao/gestao/detalhe/sede-e-sucursal-qual-o-papel-dos-precos-de-transferencia-76043.html",
+      "source": "Expansão",
+      "_key": "c5b5244f27787e20",
+      "score": 8,
+      "title_cn": "总公司与分公司：转让定价的作用及安哥拉分公司费用合规性"
+    },
+    {
+      "title": "MULTICAIXA Express: Prazo de levantamento sem cartão...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/multicaixa-express-prazo-de-levantamento-sem-cartao-passa-de-seis-para-uma-hora-esta-e-a-segunda-reducao-em-quatro-meses-76100.html",
+      "source": "Novo Jornal",
+      "_key": "c2bc467c9571a9e4",
+      "score": 8,
+      "title_cn": "MULTICAIXA Express：无卡取款期限"
+    },
+    {
+      "title": "Levantamentos sem cartão passam a durar apenas uma hora a partir de hoje",
+      "url": "https://opais.ao/economia/levantamentos-sem-cartao-passam-a-durar-apenas-uma-hora-a-partir-de-hoje/",
+      "source": "O País",
+      "_key": "95ebd8571563b43a",
+      "score": 8,
+      "title_cn": "即日起，无卡取款有效期仅为一小时"
+    },
+    {
+      "title": "Luanda regista 100 crimes durante o fim-de-semana",
+      "url": "https://opais.ao/ultima_hora/luanda-regista-100-crimes-durante-o-fim-de-semana/",
+      "source": "O País",
+      "_key": "6f79d3d69fda0edf",
+      "score": 8,
+      "title_cn": "罗安达周末发生100起犯罪案件"
+    },
+    {
+      "title": "Deputados aprovam proposta do OGE 2027 avaliado em 37,34 biliões de kwanzas",
+      "url": "https://opais.ao/politica/deputados-aprovam-proposta-do-oge-2027-avaliado-em-3734-bilioes-de-kwanzas/",
+      "source": "O País",
+      "_key": "4ed5cf556555d864",
+      "score": 8,
+      "title_cn": "议员批准2027年国家总预算提案，估值37.34万亿宽扎"
+    },
+    {
+      "title": "Códigos de levantamento sem cartão passam a expirar em uma...",
+      "url": "https://valoreconomico.co.ao/artigo/codigos-de-levantamento-sem-cartao-passam-a-expirar-em-uma-hora",
+      "source": "Valor Económico",
+      "_key": "5e45517bd653ebd7",
+      "score": 8,
+      "title_cn": "无卡取款码有效期缩短至一小时"
+    },
+    {
+      "title": "BAI estreia-se na Bolsa do Luxemburgo e torna-se primeira empresa angolana cotada num mercado internacional",
+      "url": "https://correiokianda.info/bai-estreia-se-na-bolsa-do-luxemburgo-e-torna-se-primeira-empresa-angolana-cotada-num-mercado-internacional/",
+      "source": "Correio Kianda",
+      "_key": "8c315a8208c25ed8",
+      "score": 7,
+      "title_cn": "BAI银行在卢森堡证券交易所上市，成为首家国际上市的安哥拉公司"
+    },
+    {
+      "title": "BAI estreia obrigações sustentáveis na bolsa do Luxemburgo",
+      "url": "https://expansao.co.ao/empresas/detalhe/bai-estreia-obrigacoes-sustentaveis-na-bolsa-do-luxemburgo-76098.html",
+      "source": "Expansão",
+      "_key": "b2361d8fd77034ce",
+      "score": 7,
+      "title_cn": "BAI银行在卢森堡证券交易所发行可持续债券"
+    },
+    {
+      "title": "Três jovens encontrados mortos na via pública no Sequele",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/tres-jovens-encontrados-mortos-na-via-publica-no-sequele-76102.html",
+      "source": "Novo Jornal",
+      "_key": "6ae728e7270cfac2",
+      "score": 7,
+      "title_cn": "塞奎莱（Sequele）街头发现三名青年死亡"
+    },
+    {
+      "title": "O que os números do OGE 2027 ainda não explicam",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/o-que-os-numeros-do-oge-2027-ainda-nao-explicam-76091.html",
+      "source": "Novo Jornal",
+      "_key": "8ef4e29b74156935",
+      "score": 7,
+      "title_cn": "2027年国家总预算数据仍未解释的问题"
+    },
+    {
+      "title": "Detidos 193 cidadãos envolvidos em alegados crimes durante o fim-de-semana",
+      "url": "https://opais.ao/ultima_hora/detidos-193-cidadaos-envolvidos-em-alegados-crimes-durante-o-fim-de-semana/",
+      "source": "O País",
+      "_key": "a7f95e728418e230",
+      "score": 7,
+      "title_cn": "周末193名涉嫌犯罪公民被捕"
+    },
+    {
+      "title": "Mito da robustez económica à crise da sobrevivência: uma análise socioeconómica da degradação das condições de vida em Angola",
+      "url": "https://opais.ao/opiniao/mito-da-robustez-economica-a-crise-da-sobrevivencia-uma-analise-socioeconomica-da-degradacao-das-condicoes-de-vida-em-angola/",
+      "source": "O País",
+      "_key": "f588231632b0712e",
+      "score": 7,
+      "title_cn": "从经济强劲神话到生存危机：安哥拉生活条件恶化的社会经济分析"
+    },
+    {
+      "title": "Instituto Veterinária lança concurso de 2,4 mil milhões de kwanzas para aquisição...",
+      "url": "https://valoreconomico.co.ao/artigo/instituto-veterinaria-lanca-concurso-de-2-4-mil-milhoes-de-kwanzas-para-aquisicao-de-35-viaturas-e-tratores-15513",
+      "source": "Valor Económico",
+      "_key": "3d1a9201498a0a42",
+      "score": 7,
+      "title_cn": "兽医研究所启动24亿宽扎采购招标"
+    },
+    {
+      "title": "Comissões especializadas recolhem propostas para melhorar o Orçamento de 2027",
+      "url": "https://correiokianda.info/comissoes-especializadas-recolhem-propostas-para-melhorar-o-orcamento-de-2027/",
+      "source": "Correio Kianda",
+      "_key": "ab7682d730d04fd7",
+      "score": 6,
+      "title_cn": "专门委员会征集提案以改进2027年预算"
+    },
+    {
+      "title": "Executivo avança com projecto de expansão da rede eléctrica no Cuanza Sul",
+      "url": "https://correiokianda.info/executivo-avanca-com-projecto-de-expansao-da-rede-electrica-no-cuanza-sul/",
+      "source": "Correio Kianda",
+      "_key": "06bb983d983b28fa",
+      "score": 6,
+      "title_cn": "政府推进南宽扎（Cuanza Sul）电网扩建项目"
+    },
+    {
+      "title": "Desemprego desce para 20,9% em Angola, mas quatro em cada dez jovens continuam sem trabalho",
+      "url": "https://diariodosnegocios.com/desemprego-desce-para-209-em-angola-mas-quatro-em-cada-dez-jovens-continuam-sem-trabalho/",
+      "source": "Diário dos Negócios",
+      "_key": "4cd568b80bdac8f8",
+      "score": 6,
+      "title_cn": "安哥拉失业率降至20.9%，但每十名青年中仍有四人失业"
+    },
+    {
+      "title": "Orçamento da Defesa e Segurança já derrapou, Educação e Saúde só executou metade",
+      "url": "https://expansao.co.ao/angola/detalhe/orcamento-da-defesa-e-seguranca-ja-derrapou-educacao-e-saude-so-executou-metade-76061.html",
+      "source": "Expansão",
+      "_key": "7ddee15216217fa3",
+      "score": 6,
+      "title_cn": "国防与安全预算超支，教育与卫生预算仅执行一半"
+    },
+    {
+      "title": "Futuro da economia lusófona em debate amanhã no Forbes Annual Summit 2026",
+      "url": "https://forbesafricalusofona.com/futuro-da-economia-lusofona-em-debate-amanha-no-forbes-annual-summit-2026/",
+      "source": "Forbes África",
+      "_key": "bd519800c888f2ff",
+      "score": 6,
+      "title_cn": "未来经济lusófona em辩论amanhã福布斯2026年度峰会"
+    },
+    {
+      "title": "Governo avança com estudo de 82 milhões kz para rentabilizar...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-avanca-com-estudo-de-82-milhoes-kz-para-rentabilizar-o-palacio-de-convencoes-de-luanda-76094.html",
+      "source": "Novo Jornal",
+      "_key": "f1038cc2541c304d",
+      "score": 6,
+      "title_cn": "政府推进8200万宽扎研究以实现盈利"
+    },
+    {
+      "title": "Cerca de 10 milhões de pessoas em idade activa estão fora da força de trabalho",
+      "url": "https://opais.ao/economia/cerca-de-10-milhoes-de-pessoas-em-idade-activa-estao-fora-da-forca-de-trabalho/",
+      "source": "O País",
+      "_key": "ff40d4b8c3a93dab",
+      "score": 6,
+      "title_cn": "约1000万适龄劳动人口不在劳动力队伍中"
+    },
+    {
+      "title": "Governo do Cubango rescinde contrato com empresa que abandonou obras do Hospital do Cuchi",
+      "url": "https://correiokianda.info/governo-do-cubango-rescinde-contrato-com-empresa-que-abandonou-obras-do-hospital-do-cuchi/",
+      "source": "Correio Kianda",
+      "_key": "5d92a68882fb6c1f",
       "score": 5,
-      "title_cn": "非洲联盟健康与人类发展会议明日罗安达开幕"
+      "title_cn": "库班戈（Cubango）政府终止与放弃库奇（Cuchi）医院工程公司的合同"
+    },
+    {
+      "title": "A arquitectura da racionalidade económica: quem financia, quem fiscaliza e quem garante a independência do INE? ",
+      "url": "https://correiokianda.info/a-arquitectura-da-racionalidade-economica-quem-financia-quem-fiscaliza-e-quem-garante-a-independencia-do-ine/",
+      "source": "Correio Kianda",
+      "_key": "4182581523f8ee39",
+      "score": 5,
+      "title_cn": "经济理性架构：谁来资助、监督并保障国家统计局（INE）的独立性？"
+    },
+    {
+      "title": "Governo pede firmeza da polícia para reduzir mortes nas estradas",
+      "url": "https://jornaloguardiao.com/2026/11/16/governo-angolano-pede-firmeza-da-policia-para-reduzir-mortes-nas-estradas/",
+      "source": "Jornal O Guardião",
+      "_key": "d312d53a69adb64e",
+      "score": 5,
+      "title_cn": "政府要求警方严厉执法以减少道路死亡事故"
+    },
+    {
+      "title": " Governo pede firmeza da polícia para reduzir mortes nas estradas ",
+      "url": "",
+      "source": "Jornal O Guardião",
+      "_key": "t_528153376dc818",
+      "score": 5,
+      "title_cn": "政府要求警方严厉执法以减少道路死亡事故"
+    },
+    {
+      "title": "Governo quer travar sinistralidade rodoviária com prevenção...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-quer-travar-sinistralidade-rodoviaria-com-prevencao-diaria-mais-de-1570-mortos-nas-estradas-em-seis-meses-76095.html",
+      "source": "Novo Jornal",
+      "_key": "8e97fe406871da16",
+      "score": 5,
+      "title_cn": "政府希望通过预防措施遏制道路交通事故"
+    },
+    {
+      "title": "Bombeiros sinalizam 23 mortos e 43 feridos no fim-de-semana",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/bombeiros-sinalizam-23-mortos-e-43-feridos-no-fim-de-semana-76096.html",
+      "source": "Novo Jornal",
+      "_key": "24bf32dcb409e2d0",
+      "score": 5,
+      "title_cn": "消防部门报告周末23人死亡，43人受伤"
+    },
+    {
+      "title": "Donald Trump e Vladimir Putin encontram-se com Xi Jinping...",
+      "url": "https://www.novojornal.co.ao/internacional/detalhe/donald-trump-e-vladimir-putin-encontram-se-com-xi-jinping-para-encontro-revolucionario-em-shenzen-e-o-mundo-nao-lhes-perdoaria-se-tudo-ficasse-na-mesma-76097.html",
+      "source": "Novo Jornal",
+      "_key": "bdaac690d6a03ed2",
+      "score": 5,
+      "title_cn": "唐纳德·特朗普（Donald Trump）和弗拉基米尔·普京（Vladimir Putin）会见习近平"
+    },
+    {
+      "title": "Mais de 29 mil pessoas perderam a vida nas estradas de Angola nos últimos dez anos",
+      "url": "https://opais.ao/sociedade/mais-de-29-mil-pessoas-perderam-a-vida-nas-estradas-de-angola-nos-ultimos-dez-anos/",
+      "source": "O País",
+      "_key": "4d8e5952ea08813c",
+      "score": 5,
+      "title_cn": "过去十年，安哥拉道路交通事故致逾2.9万人死亡"
+    },
+    {
+      "title": "Cinco séculos, uma Nação: como Angola aprendeu a produzir riqueza",
+      "url": "https://opais.ao/opiniao/cinco-seculos-uma-nacao-como-angola-aprendeu-a-produzir-riqueza/",
+      "source": "O País",
+      "_key": "ac4d834de4f7c87c",
+      "score": 5,
+      "title_cn": "五百年，一个国家：安哥拉如何学会创造财富"
+    },
+    {
+      "title": "Acidentes de viação matam seis pessoas e deixam 15 feridos nas últimas 72 horas",
+      "url": "https://opais.ao/ultima_hora/acidentes-de-viacao-matam-seis-pessoas-e-deixam-15-feridos-nas-ultimas-72-horas/",
+      "source": "O País",
+      "_key": "b6edc5eb6bb0729b",
+      "score": 5,
+      "title_cn": "过去72小时，交通事故致6人死亡，15人受伤"
+    },
+    {
+      "title": "Angola sem ganhos significativos no IDH global há uma década...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-sem-ganhos-significativos-no-idh-global-ha-uma-decada-apesar-de-superar-media-africana",
+      "source": "Valor Económico",
+      "_key": "7811a6b2e3452ad7",
+      "score": 5,
+      "title_cn": "安哥拉近十年在全球人类发展指数（IDH）上无显著进步"
     }
   ]
 }
