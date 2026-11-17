@@ -1,64 +1,528 @@
 {
-  "date": "2026-11-16",
-  "total_new": 29,
-  "total_filtered": 7,
-  "scored_by": "glm-flash",
+  "date": "2026-11-17",
+  "total_new": 138,
+  "total_filtered": 65,
+  "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "China já investiu cinco mil milhões de dólares no sector não petrolífero em Angola",
-      "url": "https://correiokianda.info/china-reforca-presenca-em-angola-com-cinco-mil-milhoes-de-dolares-no-sector-nao-petrolifero/",
-      "source": "Correio Kianda",
-      "_key": "d06601b4fb414544",
-      "score": 9,
-      "title_cn": "中国已向安哥拉非石油领域投资50亿美元"
+      "title": "Dívidas e atrasos nas obras levam ministro à China para pressionar construtoras",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_73af3c765b4931",
+      "score": 10,
+      "title_cn": "部长赴华施压建筑公司，解决债务和工程延误问题"
     },
     {
-      "title": "Petróleo Brent recua 2,31% e negoceia a 93,63 dólares por...",
-      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-recua-2-31-e-negoceia-a-93-63-dolares-por-barril",
-      "source": "Valor Económico",
-      "_key": "44330a938788a751",
-      "score": 9,
-      "title_cn": "布伦特原油下跌2.31%，交易价93.63美元"
-    },
-    {
-      "title": "A verdadeira natureza da diplomacia chinesa em Angola e em África ",
-      "url": "https://correiokianda.info/a-verdadeira-natureza-da-diplomacia-chinesa-em-angola-e-em-africa/",
-      "source": "Correio Kianda",
-      "_key": "213ca4d0f8c683d7",
-      "score": 8,
-      "title_cn": "中国在安哥拉和非洲外交的本质"
-    },
-    {
-      "title": "Interferência estatal e falta de mão-de-obra condicionam actividade extractiva",
-      "url": "https://valoreconomico.co.ao/artigo/interferencia-estatal-e-falta-de-mao-de-obra-condicionam-actividade-extractiva",
-      "source": "Valor Económico",
-      "_key": "cbd401dd3ea3cfb6",
-      "score": 7,
-      "title_cn": "国家干预和劳动力短缺制约采掘业"
-    },
-    {
-      "title": "Mulenvos recebe primeira escola construída com tecnologia de impressão 3D em Angola",
-      "url": "https://correiokianda.info/mulenvos-recebe-primeira-escola-construida-com-tecnologia-de-impressao-3d-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "d593e500bdd8959f",
-      "score": 6,
-      "title_cn": "Mulenvos建成安哥拉首所3D打印技术学校"
-    },
-    {
-      "title": "BNA realiza hoje 132ª reunião ordinária do comité de política monetária na Lunda-Sul",
-      "url": "https://opais.ao/economia/bna-realiza-hoje-132a-reuniao-ordinaria-do-comite-de-politica-monetaria-na-lunda-sul/",
-      "source": "O País",
-      "_key": "01089b8519e917e8",
-      "score": 6,
-      "title_cn": "安哥拉国家银行今天在南隆达省举行货币政策委员会第132次例会"
-    },
-    {
-      "title": "OGE 2027: Parlamento inicia auscultação a diferentes...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/oge-2027-parlamento-inicia-auscultacao-a-diferentes-sectores-da-sociedade-76108.html",
+      "title": "PGR aponta Cidade da China como fonte de tráfico de pessoas e denuncia que há angolanos que acobertam chineses",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pgr-aponta-cidade-da-china-como-fonte-de-trafico-de-pessoas-e-denuncia-que-ha-angolanos-que-acobertam-chineses-76126.html",
       "source": "Novo Jornal",
-      "_key": "3b84af8fab6ac4dd",
+      "_key": "4046cff08095cdf2",
+      "score": 10,
+      "title_cn": "安哥拉总检察院：中国城是人口贩运源头，有安哥拉人庇护中国人"
+    },
+    {
+      "title": "Grandes Moagens de Angola inicia exportação de farinha de trigo para RDC através do Corredor do Lobito",
+      "url": "https://forbesafricalusofona.com/grandes-moagens-de-angola-inicia-exportacao-de-farinha-de-trigo-para-rdc-atraves-do-corredor-do-lobito/",
+      "source": "Forbes África",
+      "_key": "bb0936cd1f6049bf",
+      "score": 9,
+      "title_cn": "安哥拉大型面粉厂经洛比托走廊向刚果（金）出口小麦粉"
+    },
+    {
+      "title": "Economia / Há 5 horas Petróleo Brent está a negociar nos USD 95 na bolsa de Londres ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699728/petr%C3%B3leo-brent-est%C3%A1-a-negociar-nos-usd-95-na-bolsa-de-londres-",
+      "source": "Jornal de Angola",
+      "_key": "991f85e95fb22f94",
+      "score": 9,
+      "title_cn": "布伦特原油在伦敦证券交易所交易价达95美元"
+    },
+    {
+      "title": "BNA corta taxa de juro de referência para 14% com...",
+      "url": "https://valoreconomico.co.ao/artigo/bna-corta-taxa-de-juro-de-referencia-para-14-com-recuo-da-inflacao",
+      "source": "Valor Económico",
+      "_key": "23a6a48b7fa13a8a",
+      "score": 9,
+      "title_cn": "安哥拉国家银行将基准利率下调至14%"
+    },
+    {
+      "title": "Projecto de reservatórios e gasoduto na Namíbia \"rouba\" mercados à Refinaria do Lobito",
+      "url": "https://expansao.co.ao/mundo/africa/detalhe/projecto-de-reservatorios-e-gasoduto-na-namibia-rouba-mercados-a-refinaria-do-lobito-76077.html",
+      "source": "Expansão",
+      "_key": "787074b66bc9d636",
+      "score": 8,
+      "title_cn": "纳米比亚储罐和天然气管道项目抢占洛比托炼油厂市场"
+    },
+    {
+      "title": "BNA reduz juros em 0,75 pontos percentuais e fixa taxa directora em 14%",
+      "url": "https://expansao.co.ao/economia/detalhe/bna-reduz-juros-em-075-pontos-percentuais-e-fixa-taxa-directora-em-14-76133.html",
+      "source": "Expansão",
+      "_key": "fcf89983659b159d",
+      "score": 8,
+      "title_cn": "安哥拉国家银行降息0.75个百分点，指导利率定为14%"
+    },
+    {
+      "title": "Destaque BNA reduz taxa de juros de 14,75% para 14%O Comité de Política Monetária do Banco Nacional de Angola (BNA) reuniu-se nos dias 16 e 17 de Novembro, na província de Luanda Sul, tendo decidido reduzir a taxa de juros de 14,75% para 14%.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699773/bna-reduz-taxa-de-juros-de-1475%25-para-14%25",
+      "source": "Jornal de Angola",
+      "_key": "aec36747ed42ce66",
+      "score": 8,
+      "title_cn": "安哥拉国家银行将利率从14.75%降至14%"
+    },
+    {
+      "title": "NJ ÀS TERÇAS: ESPECIAL INFORMAÇÃO. Angola compra acções da De Beers e redefine estratégia no sector mineiro.",
+      "url": "https://marginal.co.ao/programas/nj-as-tercas?ep=76130",
+      "source": "Novo Jornal",
+      "_key": "deebc726dfa1bf53",
+      "score": 8,
+      "title_cn": "安哥拉购入戴比尔斯股份，重新定义矿业战略"
+    },
+    {
+      "title": "Aumento da produção nacional reduz importação de frango em 35%",
+      "url": "https://opais.ao/economia/aumento-da-producao-nacional-reduz-importacao-de-frango-em-35/",
+      "source": "O País",
+      "_key": "c5a72585c4621258",
+      "score": 8,
+      "title_cn": "国内鸡肉产量增加，进口量减少35%"
+    },
+    {
+      "title": "Japão prepara investimento de 262,6 milhões de dólares em energia e abastecimento de água em Angola",
+      "url": "https://opais.ao/economia/japao-prepara-investimento-de-2626-milhoes-de-dolares-em-energia-e-abastecimento-de-agua-em-angola/",
+      "source": "O País",
+      "_key": "508b28c54fb65ea1",
+      "score": 8,
+      "title_cn": "日本拟向安哥拉能源和供水领域投资2.626亿美元"
+    },
+    {
+      "title": "Cabinda terá segunda fonte de energia com construção de central fotovoltaica de 90 MWp",
+      "url": "https://opais.ao/ultima_hora/cabinda-tera-segunda-fonte-de-energia-com-construcao-de-central-fotovoltaica-de-90-mwp/",
+      "source": "O País",
+      "_key": "1781d58a565a4b99",
+      "score": 8,
+      "title_cn": "卡宾达将建90兆瓦光伏电站，新增第二能源"
+    },
+    {
+      "title": "Decisão do BNA pode abrir caminho para crédito mais barato em Angola",
+      "url": "https://correiokianda.info/decisao-do-bna-pode-abrir-caminho-para-credito-mais-barato-em-angola/",
+      "source": "Correio Kianda",
+      "_key": "671a8ea859e92ecf",
+      "score": 7,
+      "title_cn": "安哥拉国家银行的决定或将降低安哥拉信贷成本"
+    },
+    {
+      "title": "Angola regista queda nos preços das exportações, mas mantém subida anual",
+      "url": "https://correiokianda.info/angola-regista-queda-nos-precos-das-exportacoes-mas-mantem-subida-anual/",
+      "source": "Correio Kianda",
+      "_key": "aea2d553f7b63773",
+      "score": 7,
+      "title_cn": "安哥拉出口价格下跌，但仍保持年度增长"
+    },
+    {
+      "title": "“Angola não tem dificuldade em obter intenções de financiamento”",
+      "url": "https://forbesafricalusofona.com/angola-nao-tem-dificuldade-em-obter-intencoes-de-financiamento/",
+      "source": "Forbes África",
+      "_key": "f847824a40ba5314",
+      "score": 7,
+      "title_cn": "安哥拉：获得融资意向并非难事"
+    },
+    {
+      "title": "Economia / Há 5 horas Novas infra-estruturas dinamizam Transportes ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699733/novas-infra-estruturas--dinamizam-transportes-",
+      "source": "Jornal de Angola",
+      "_key": "51bc8a36db041589",
+      "score": 7,
+      "title_cn": "新基础设施推动交通运输发展"
+    },
+    {
+      "title": "Economia / Há 5 horas CPM apresenta hoje resultados da última reunião do ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699730/cpm-apresenta-hoje-resultados-da-%C3%BAltima-reuni%C3%A3o-do-ano",
+      "source": "Jornal de Angola",
+      "_key": "ae754140a24e81aa",
+      "score": 7,
+      "title_cn": "货币政策委员会今日公布年度末次会议结果"
+    },
+    {
+      "title": "Economia / Há 5 horas Clima económico do país positivo no III trimestre ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699724/clima-econ%C3%B3mico-do-pa%C3%ADs-positivo-no-iii-trimestre",
+      "source": "Jornal de Angola",
+      "_key": "793780f112b8e3d6",
+      "score": 7,
+      "title_cn": "安哥拉第三季度经济形势积极向好"
+    },
+    {
+      "title": "Angola participa na Cimeira de Investimentos e Industrialização de África",
+      "url": "https://opais.ao/economia/angola-participa-na-cimeira-de-investimentos-e-industrializacao-de-africa/",
+      "source": "O País",
+      "_key": "9cd0c9e6013cc6d6",
+      "score": 7,
+      "title_cn": "安哥拉参加非洲投资与工业化峰会"
+    },
+    {
+      "title": "SonaGás descarta escassez de gás até Janeiro face à greve...",
+      "url": "https://valoreconomico.co.ao/artigo/sonagas-descarta-escassez-de-gas-ate-janeiro-face-a-greve-e-corrida-as-botijas",
+      "source": "Valor Económico",
+      "_key": "7c3bf94c96837564",
+      "score": 7,
+      "title_cn": "面对罢工，安哥拉国家天然气公司排除一月前天然气短缺"
+    },
+    {
+      "title": "Mercado bolsista cresce 103% no terceiro trimestre",
+      "url": "https://valoreconomico.co.ao/artigo/mercado-bolsista-cresce-103-no-terceiro-trimestre",
+      "source": "Valor Económico",
+      "_key": "486f884201e8f933",
+      "score": 7,
+      "title_cn": "第三季度股市增长103%"
+    },
+    {
+      "title": "Despesa pública sobe 13,7% à boleia dos juros e subsídios enquanto investimento...",
+      "url": "https://valoreconomico.co.ao/artigo/despesa-publica-sobe-13-7-a-boleia-dos-juros-e-subsidios-enquanto-investimento-cai",
+      "source": "Valor Económico",
+      "_key": "0a5d6e3a67953e01",
+      "score": 7,
+      "title_cn": "受利息和补贴影响，公共支出增长13.7%"
+    },
+    {
+      "title": "O acesso aos mercados internacionais pode abrir novas oportunidades para a economia angolana",
+      "url": "https://correiokianda.info/o-acesso-aos-mercados-internacionais-pode-abrir-novas-oportunidades-para-a-economia-angolana/",
+      "source": "Correio Kianda",
+      "_key": "f4229c435fbac38b",
+      "score": 6,
+      "title_cn": "进入国际市场可为安哥拉经济开辟新机遇"
+    },
+    {
+      "title": "Trabalhadores acusam Sonangás de não cumprir acordo e retomam greve",
+      "url": "https://correiokianda.info/trabalhadores-acusam-sonangas-de-nao-cumprir-acordo-e-retomam-greve/",
+      "source": "Correio Kianda",
+      "_key": "9965d987d9098e79",
+      "score": 6,
+      "title_cn": "工人指责安哥拉国家石油公司不履约，恢复罢工"
+    },
+    {
+      "title": "        Sociedade9 horas atrás  INEA defende maior investimento na conservação da rede rodoviária nacional O Instituto de Estradas de Angola (INEA) defende o reforço dos investimentos na conservação e manutenção da Rede Rodoviária Nacional, considerando que a degradação de determinados...   ",
+      "url": "https://correiokianda.info/inea-defende-maior-investimento-na-conservacao-da-rede-rodoviaria-nacional/",
+      "source": "Correio Kianda",
+      "_key": "ecd0f1e6346e13bf",
+      "score": 6,
+      "title_cn": "安哥拉公路局主张加大国家公路网养护投资"
+    },
+    {
+      "title": "BAI torna-se a primeira empresa angolana a listar obrigações na Bolsa de Luxemburgo",
+      "url": "https://diariodosnegocios.com/bai-torna-se-a-primeira-empresa-angolana-a-listar-obrigacoes-na-bolsa-de-luxemburgo/",
+      "source": "Diário dos Negócios",
+      "_key": "c480007a7a138fec",
+      "score": 6,
+      "title_cn": "安哥拉投资银行成为首家在卢森堡证券交易所上市债券的安哥拉公司"
+    },
+    {
+      "title": "Governo prepara seguro soberano para proteger Angola de catástrofes naturais",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-prepara-seguro-soberano-para-proteger-angola-de-catastrofes-naturais-76040.html",
+      "source": "Expansão",
+      "_key": "6a039d850bad1e25",
+      "score": 6,
+      "title_cn": "安哥拉政府准备主权保险，以应对自然灾害"
+    },
+    {
+      "title": "Orçamento da Defesa e Segurança já derrapou, Educação e Saúde só executou metade",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7699c903853697",
+      "score": 6,
+      "title_cn": "安哥拉国防安全预算已超支，教育卫生预算仅执行一半"
+    },
+    {
+      "title": "BAI estreia obrigações sustentáveis na bolsa do Luxemburgo",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_7e54b3ded7176a",
+      "score": 6,
+      "title_cn": "安哥拉投资银行在卢森堡证券交易所首次发行可持续债券"
+    },
+    {
+      "title": "Annual Summit 2026: Empresários apontam falta de quadros e de investimento como travão à agricultura africana",
+      "url": "https://forbesafricalusofona.com/annual-summit-2026-empresarios-apontam-falta-de-quadros-e-de-investimento-como-travao-a-agricultura-africana/",
+      "source": "Forbes África",
+      "_key": "a8bb2122bcfe2cb0",
+      "score": 6,
+      "title_cn": "2026年度峰会：企业家指人才和投资不足阻碍非洲农业发展"
+    },
+    {
+      "title": "Futuro da economia lusófona em debate esta Terça-feira no Forbes Annual Summit 2026",
+      "url": "https://forbesafricalusofona.com/futuro-da-economia-lusofona-em-debate-esta-terca-feira-no-forbes-annual-summit-2026/",
+      "source": "Forbes África",
+      "_key": "c8e386f31f94c75b",
+      "score": 6,
+      "title_cn": "葡语经济体未来将在福布斯2026年度峰会辩论"
+    },
+    {
+      "title": "Política Parlamento ausculta parceiros sobre desafios dos sectores económico e produtivo ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699767/parlamento-ausculta-parceiros-sobre-desafios-dos-sectores-econ%C3%B3mico-e-produtivo",
+      "source": "Jornal de Angola",
+      "_key": "b2e4bad8eb42178a",
+      "score": 6,
+      "title_cn": "议会听取合作伙伴意见，探讨经济和生产部门挑战"
+    },
+    {
+      "title": "Economia / Há 5 horas AV Group adquire participação do Lulo ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699731/av-group-adquire--participa%C3%A7%C3%A3o-do-lulo",
+      "source": "Jornal de Angola",
+      "_key": "6e348ce3a3e3856a",
+      "score": 6,
+      "title_cn": "AV集团收购卢洛（Lulo）股份"
+    },
+    {
+      "title": "Economia / Há 5 horas Empresários nacionais convidados a investir ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699729/empres%C3%A1rios-nacionais-convidados-a-investir",
+      "source": "Jornal de Angola",
+      "_key": "d565f90715457558",
+      "score": 6,
+      "title_cn": "安哥拉邀请本国企业家投资"
+    },
+    {
+      "title": "Economia / Há 6 horas Mais de quatro mil itens com Selo “Feito em Angola” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699723/mais-de-quatro-mil-itens--com-selo-%E2%80%9Cfeito-em-angola%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "ef792727d527958a",
+      "score": 6,
+      "title_cn": "超过四千种商品获“安哥拉制造”标签"
+    },
+    {
+      "title": "IGAE cria unidade técnica para acelerar certificação...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/igae-cria-unidade-tecnica-para-acelerar-certificacao-da-divida-publica-atrasada-76127.html",
+      "source": "Novo Jornal",
+      "_key": "6072a817b5db0bce",
+      "score": 6,
+      "title_cn": "国家行政总监察局设立技术部门加速认证"
+    },
+    {
+      "title": "Trabalhadores da SonaGás em greve a partir desta terça-feira...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/trabalhadores-da-sonagas-em-greve-a-partir-desta-terca-feira---luanda-ja-enfrenta-escassez-de-gas-de-cozinha-76136.html",
+      "source": "Novo Jornal",
+      "_key": "bd9715ff74b2f6cd",
+      "score": 6,
+      "title_cn": "安哥拉国家天然气公司工人周二起罢工"
+    },
+    {
+      "title": "EXPANSÃO EM DIRECTO: ATÉ AO III TRIMESTRE DE 2026. Orçamento da Defesa e Segurança já derrapou, Saúde e Educação só executaram metade.",
+      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=76117",
+      "source": "Novo Jornal",
+      "_key": "157c804cc48aa0b4",
+      "score": 6,
+      "title_cn": "国防安全预算已超支，卫生教育预算仅执行一半"
+    },
+    {
+      "title": "LUANDA DOWNTOWN: DISCUSSÕES QUE MOLDAM O MERCADO.  ",
+      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=76118",
+      "source": "Novo Jornal",
+      "_key": "970cd010e56c6431",
+      "score": 6,
+      "title_cn": "罗安达市中心：塑造市场的讨论"
+    },
+    {
+      "title": "País destaca construção de 3.600 unidades sanitárias no reforço da assistência médica",
+      "url": "https://opais.ao/ultima_hora/pais-destaca-construcao-de-3-600-unidades-sanitarias-no-reforco-da-assistencia-medica/",
+      "source": "O País",
+      "_key": "2262ab75423ff6a8",
+      "score": 6,
+      "title_cn": "安哥拉强调建设3600个医疗单位以加强医疗援助"
+    },
+    {
+      "title": "Angola prepara defesa do Semba na China e trabalha na candidatura de outros patrimónios à UNESCO",
+      "url": "https://opais.ao/cultura/angola-prepara-defesa-do-semba-na-china-e-trabalha-na-candidatura-de-outros-patrimonios-a-unesco/",
+      "source": "O País",
+      "_key": "0b32d98067b7e720",
+      "score": 6,
+      "title_cn": "安哥拉准备在中国推广森巴舞，并致力于其他遗产的联合国教科文组织申遗"
+    },
+    {
+      "title": "INSS investe 71 milhões de kwanzas em auditoria para fazer...",
+      "url": "https://valoreconomico.co.ao/artigo/inss-investe-71-milhoes-de-kwanzas-em-auditoria-para-fazer-um-raio-x-ao-futuro-e-sustentabilidade-das-pensoes",
+      "source": "Valor Económico",
+      "_key": "9611013e6dfe8e65",
+      "score": 6,
+      "title_cn": "国家社会保障局投资7100万宽扎用于审计"
+    },
+    {
+      "title": "Pobreza multidimensional atinge quatro em cada dez angolanos e supera...",
+      "url": "https://valoreconomico.co.ao/artigo/pobreza-multidimensional-atinge-quatro-em-cada-dez-angolanos-e-supera-os-80-no-meio-rural-revela-ine",
+      "source": "Valor Económico",
+      "_key": "1611143b32515981",
+      "score": 6,
+      "title_cn": "安哥拉十分之四人口面临多维度贫困"
+    },
+    {
+      "title": "IGAE cria unidade técnica para apoiar a certificação da dívida...",
+      "url": "https://valoreconomico.co.ao/artigo/igae-cria-unidade-tecnica-para-apoiar-a-certificacao-da-divida-interna-atrasada",
+      "source": "Valor Económico",
+      "_key": "265ac6277a084cfa",
+      "score": 6,
+      "title_cn": "国家行政总监察局设立技术部门支持债务认证"
+    },
+    {
+      "title": "Trump, Putin e Xi Jinping discutem caminhos para a paz mundial",
+      "url": "https://correiokianda.info/trump-putin-e-xi-jinping-discutem-caminhos-para-a-paz-mundial/",
+      "source": "Correio Kianda",
+      "_key": "228171ba1e0702eb",
       "score": 5,
-      "title_cn": "2027年预算：议会开始征询各方意见"
+      "title_cn": "特朗普、普京、习近平讨论世界和平之路"
+    },
+    {
+      "title": "Casa Branca confirma presença de Donald Trump na China para encontro com Xi Jinping e Vladimir Putin",
+      "url": "https://diariodosnegocios.com/casa-branca-confirma-presenca-de-donald-trump-na-china-para-encontro-com-xi-jinping-e-vladimir-putin/",
+      "source": "Diário dos Negócios",
+      "_key": "f2c2e54b28e45064",
+      "score": 5,
+      "title_cn": "白宫证实唐纳德·特朗普（Donald Trump）将赴华会晤习近平和普京"
+    },
+    {
+      "title": "Quinto em progressão, 18.º pior em governação: Saúde, Educação e Justiça amarram Angola",
+      "url": "https://expansao.co.ao/angola/detalhe/quinto-em-progressao-18-pior-em-governacao-saude-educacao-e-justica-amarram-angola-76059.html",
+      "source": "Expansão",
+      "_key": "5f508c3b59a8a685",
+      "score": 5,
+      "title_cn": "安哥拉进步第五，治理倒数第18：卫生、教育和司法拖累发展"
+    },
+    {
+      "title": "A partir de hoje, levantamento sem cartão no multicaixa passa a durar apenas uma hora",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_eac783d2f0de4b",
+      "score": 5,
+      "title_cn": "即日起，自动取款机无卡取款限时一小时"
+    },
+    {
+      "title": "Ministro da Planificação e Desenvolvimento de Moçambique: “Queremos erguer uma pujante economia diversificada”",
+      "url": "https://forbesafricalusofona.com/ministro-da-planificacao-e-desenvolvimento-de-mocambique-queremos-erguer-uma-pujante-economia-diversificada/",
+      "source": "Forbes África",
+      "_key": "6abd6a1cd2535cd4",
+      "score": 5,
+      "title_cn": "莫桑比克规划与发展部长：我们希望建立强大的多元化经济"
+    },
+    {
+      "title": "N’gunu Tiny defende transição de África da resiliência para a competitividade",
+      "url": "https://forbesafricalusofona.com/ngunu-tiny-defende-transicao-de-africa-da-resiliencia-para-a-competitividade/",
+      "source": "Forbes África",
+      "_key": "0f3962567f0a4451",
+      "score": 5,
+      "title_cn": "恩古努·蒂尼（N’gunu Tiny）主张非洲从韧性转向竞争力"
+    },
+    {
+      "title": "CCIAM assinala três anos e reforça aposta na cooperação económica entre Angola e Moçambique",
+      "url": "https://forbesafricalusofona.com/gola-mocambique-pretende-intensificar-as-parcerias-empresariais-at/",
+      "source": "Forbes África",
+      "_key": "8982b24ca8c7a54b",
+      "score": 5,
+      "title_cn": "安哥拉-莫桑比克工商会成立三周年，加强两国经济合作"
+    },
+    {
+      "title": "Destaque João Lourenço felicita José Maria Neves pela reeleição em Cabo VerdeO Presidente da República, João Lourenço, felicitou, hoje, José Maria Neves pela reeleição ao cargo de Chefe de Estado de Cabo Verde, em mensagem enviada em nome do Executivo angolano e no seu próprio.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699766/jo%C3%A3o-louren%C3%A7o-felicita-jos%C3%A9-maria-neves-pela-reelei%C3%A7%C3%A3o-em-cabo-verde",
+      "source": "Jornal de Angola",
+      "_key": "02b4e91522d04e3f",
+      "score": 5,
+      "title_cn": "若昂·洛伦索（João Lourenço）祝贺若泽·马里亚·内维斯（José Maria Neves）再次当选佛得角总统"
+    },
+    {
+      "title": "Destaque INE apresenta novos indicadores sobre a pobreza multidimensionalO Instituto Nacional de Estatística (INE), em parceria com o Programa das Nações Unidas para o Desenvolvimento (PNUD), o Fundo das Nações Unidas para a Infância (UNICEF) e a Iniciativa de Oxford sobre Pobreza e Desenvolvimento Humano (OPHI), elaborou o Relatório sobre a Pobreza Multidimensional em Angola 2023/2024, que apresenta dados actualizados sobre as condições de vida da população. ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699732/ine-apresenta-novos-indicadores-sobre-a-pobreza-multidimensional",
+      "source": "Jornal de Angola",
+      "_key": "2962fe0ce45d7b48",
+      "score": 5,
+      "title_cn": "国家统计局发布多维度贫困新指标"
+    },
+    {
+      "title": "Mundo Homens armados matam 17 pessoas em dois ataques na África do Sul ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/699747/homens-armados-matam-17-pessoas-em-dois-ataques-na-%C3%A1frica-do-sul",
+      "source": "Jornal de Angola",
+      "_key": "6dec5601be453427",
+      "score": 5,
+      "title_cn": "南非发生两起袭击，武装分子致17人死亡"
+    },
+    {
+      "title": "Mundo União Africana lança manuais para promover eficiência energética em África ",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/699722/uni%C3%A3o-africana-lan%C3%A7a-manuais-para-promover-efici%C3%AAncia-energ%C3%A9tica-em-%C3%A1frica",
+      "source": "Jornal de Angola",
+      "_key": "dae49d0915f0b3e2",
+      "score": 5,
+      "title_cn": "非洲联盟发布手册，促进非洲能源效率"
+    },
+    {
+      "title": "Economia / Há 5 horas Bengo acolhe fórum dos jovens agricultores da SADC ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699738/bengo-acolhe-f%C3%B3rum-dos-jovens-agricultores--da-sadc-",
+      "source": "Jornal de Angola",
+      "_key": "df0f19729a70c7ec",
+      "score": 5,
+      "title_cn": "本戈省主办南部非洲发展共同体青年农民论坛"
+    },
+    {
+      "title": "Economia / Há 5 horas Startups destacam soluções inovadoras ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699737/startups-destacam-solu%C3%A7%C3%B5es-inovadoras",
+      "source": "Jornal de Angola",
+      "_key": "f37b061a94353e2d",
+      "score": 5,
+      "title_cn": "初创企业展示创新解决方案"
+    },
+    {
+      "title": "Economia / Há 5 horas Café valoriza 0,28% e vê aumento no preço a subir mas 9,0 dólares ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699727/caf%C3%A9-valoriza-028%25-e-v%C3%AA-aumento-no-pre%C3%A7o-a-subir-mas-90-d%C3%B3lares-",
+      "source": "Jornal de Angola",
+      "_key": "3ef1464ca32a665a",
+      "score": 5,
+      "title_cn": "咖啡价格上涨0.28%，突破9美元"
+    },
+    {
+      "title": "Segurança e preservação ambiental entre os desafios da nova época balnearAos 19 anos, o kudurista Mano Chaba perdeu a vida por afogamento, a 21 de Janeiro do ano passado, na Ilha de Luanda, durante um momento de lazer com amigos. Natural do bairro Paraíso, província de Luanda, o jovem artista, conhecido pelos temas musicais “Sonhos” e “Regra do Jogo”, deixou o país de luto com uma morte trágica que serve de alerta para os perigos do mar.",
+      "url": "https://www.jornaldeangola.ao/noticias/8/reportagem/699696/seguran%C3%A7a-e-preserva%C3%A7%C3%A3o-ambiental-entre-os-desafios-da-nova-%C3%A9poca-balnear",
+      "source": "Jornal de Angola",
+      "_key": "080c63d5e3f8259d",
+      "score": 5,
+      "title_cn": "新泳季面临安全与环境保护挑战"
+    },
+    {
+      "title": "Luanda: Subinspector da Polícia condenado a seis anos de prisão e expulso da corporação por disparar contra um agente",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-subinspector-da-policia-condenado-a-seis-anos-de-prisao-e-expulso-da-corporacao-por-disparar-contra-um-agente-76123.html",
+      "source": "Novo Jornal",
+      "_key": "70e120514405c15a",
+      "score": 5,
+      "title_cn": "罗安达：警察副督察因枪击警员被判六年监禁并开除"
+    },
+    {
+      "title": "Efectivo da DIIP que matou jovem a tiro no Morro Bento volta ao banco dos réus esta terça-feira",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/efectivo-da-diip-que-matou-jovem-a-tiro-no-morro-bento-volta-ao-banco-dos-reus-esta-terca-feira-76115.html",
+      "source": "Novo Jornal",
+      "_key": "cff638a9005821e5",
+      "score": 5,
+      "title_cn": "本托山枪杀青年案：DIIP成员周二再次受审"
+    },
+    {
+      "title": "Mais de 15 milhões de pessoas vivem em situação de pobreza em Angola",
+      "url": "https://opais.ao/ultima_hora/mais-de-15-milhoes-de-pessoas-vivem-em-situacao-de-pobreza-em-angola/",
+      "source": "O País",
+      "_key": "a101f5c7e8c9de59",
+      "score": 5,
+      "title_cn": "安哥拉超过1500万人生活在贫困中"
+    },
+    {
+      "title": "Angola defende novas medidas de prevenção e combate ao consumo de drogas",
+      "url": "https://opais.ao/ultima_hora/angola-defende-novas-medidas-de-prevencao-e-combate-ao-consumo-de-drogas/",
+      "source": "O País",
+      "_key": "b8d6d599bda651bd",
+      "score": 5,
+      "title_cn": "安哥拉主张采取新措施预防和打击吸毒"
+    },
+    {
+      "title": "Banco Mundial destaca avanços na formação de profissionais de saúde em Angola",
+      "url": "https://opais.ao/economia/banco-mundial-destaca-avancos-na-formacao-de-profissionais-de-saude-em-angola/",
+      "source": "O País",
+      "_key": "ef06669af6bb7e16",
+      "score": 5,
+      "title_cn": "世界银行强调安哥拉卫生专业人员培训取得进展"
+    },
+    {
+      "title": "OMS alerta que epidemia de ébola continua a alastrar na República Democrática do Congo",
+      "url": "https://opais.ao/mundo/oms-alerta-que-epidemia-de-ebola-continua-a-alastrar-na-republica-democratica-do-congo/",
+      "source": "O País",
+      "_key": "a113cd77d6c51489",
+      "score": 5,
+      "title_cn": "世卫组织警告：刚果（金）埃博拉疫情持续蔓延"
     }
   ]
 }
