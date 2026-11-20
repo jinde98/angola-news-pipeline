@@ -1,360 +1,368 @@
 {
-  "date": "2026-11-19",
-  "total_new": 107,
-  "total_filtered": 44,
+  "date": "2026-11-20",
+  "total_new": 122,
+  "total_filtered": 45,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Executivo quer pôr ordem na contratação de trabalhadores estrangeiros",
-      "url": "https://correiokianda.info/executivo-quer-por-ordem-na-contratacao-de-trabalhadores-estrangeiros/",
+      "title": "Executivo prepara política para regular saída e entrada de trabalhadores migrantes",
+      "url": "https://correiokianda.info/executivo-prepara-politica-para-regular-saida-e-entrada-de-trabalhadores-migrantes/",
       "source": "Correio Kianda",
-      "_key": "e0c1f87898aebb00",
+      "_key": "dfeec97ca058f730",
       "score": 10,
-      "title_cn": "政府拟规范外国工人雇佣"
+      "title_cn": "政府制定政策规范移民工人出入境"
     },
     {
-      "title": "Brent sobe 1,94% e aproxima-se dos 94 dólares por barril",
-      "url": "https://valoreconomico.co.ao/artigo/brent-sobe-1-94-e-aproxima-se-dos-94-dolares-por-barril",
-      "source": "Valor Económico",
-      "_key": "b7e4bc270742d660",
+      "title": "Governo compra 2,1 mil milhões USD em petróleo para pagar dívida à China",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-compra-21-mil-milhoes-usd-em-petroleo-para-pagar-divida-a-china-76191.html",
+      "source": "Expansão",
+      "_key": "1d1928c3206e84ab",
       "score": 10,
-      "title_cn": "布伦特原油上涨1.94%，逼近每桶94美元"
+      "title_cn": "安哥拉政府购买21亿美元石油偿还中国债务"
     },
     {
-      "title": "Presidente da República autoriza despesas adicionais para construção do Porto do Caio",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-despesas-adicionais-para-construcao-do-porto-do-caio/",
-      "source": "Correio Kianda",
-      "_key": "17f5e07315b41a2c",
+      "title": "Empresas que gerem \"Cidade da China\" negam qualquer ligação a crimes de tráfico de seres humanos que possam ocorrer no interior do Centro Comercial",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/empresas-que-gerem-cidade-da-china-negam-qualquer-ligacao-a-crimes-de-trafico-de-seres-humanos-que-possam-ocorrer-no-interior-do-centro-comercial-76206.html",
+      "source": "Novo Jornal",
+      "_key": "099ea13a109d5b69",
+      "score": 10,
+      "title_cn": "管理“中国城”的公司否认与商场内可能发生的人口贩卖犯罪有关"
+    },
+    {
+      "title": "ANPG e Sonangol descobrem petróleo no norte do bloco 5/06",
+      "url": "https://expansao.co.ao/angola/detalhe/anpg-e-sonangol-descobrem-petroleo-no-norte-do-bloco-506-76190.html",
+      "source": "Expansão",
+      "_key": "54d4455ad8243fc5",
       "score": 9,
-      "title_cn": "总统批准卡约港建设追加支出"
+      "title_cn": "安哥拉国家石油局与安哥拉国家石油公司在5/06区块北部发现石油"
     },
     {
-      "title": "Sonangol anuncia nova descoberta de petróleo em Angola",
-      "url": "https://correiokianda.info/sonangol-anuncia-nova-descoberta-de-petroleo-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "ae68730401b8f02f",
-      "score": 9,
-      "title_cn": "安哥拉国家石油公司宣布在安哥拉发现新油田"
-    },
-    {
-      "title": "Presidente autoriza reforço de cerca de 159 milhões de dólares para obra do Porto de Caio",
-      "url": "https://diariodosnegocios.com/presidente-autoriza-reforco-de-cerca-de-159-milhoes-de-dolares-para-obra-do-porto-de-caio/",
-      "source": "Diário dos Negócios",
-      "_key": "84baf93c715e0dfd",
-      "score": 9,
-      "title_cn": "总统批准卡约港工程追加约1.59亿美元"
-    },
-    {
-      "title": "Exportações de gás angolano geram 3,03 mil milhões de dólares até Setembro",
-      "url": "https://diariodosnegocios.com/exportacoes-de-gas-angolano-geram-303-mil-milhoes-de-dolares-ate-setembro/",
-      "source": "Diário dos Negócios",
-      "_key": "adf4614b3ec1d706",
-      "score": 9,
-      "title_cn": "截至9月，安哥拉天然气出口创收30.3亿美元"
-    },
-    {
-      "title": "Trump, Xi Jinping e Putin acordam aumentar produção e fornecimento...",
-      "url": "https://valoreconomico.co.ao/artigo/trump-xi-jinping-e-putin-acordam-aumentar-producao-e-fornecimento-de-derivados-de-petroleo-em-beneficio-de-todas-as-nacoes",
-      "source": "Valor Económico",
-      "_key": "1c565c9f94626184",
-      "score": 9,
-      "title_cn": "特朗普（Trump）、习近平、普京（Putin）同意增加生产和供应"
-    },
-    {
-      "title": "Angola inaugura primeira refinaria de ouro no Pólo Industrial de Viana",
-      "url": "https://diariodosnegocios.com/angola-inaugura-primeira-refinaria-de-ouro-no-polo-industrial-de-viana/",
-      "source": "Diário dos Negócios",
-      "_key": "edde23f09032bdb3",
-      "score": 8,
-      "title_cn": "安哥拉首座炼金厂在维亚纳工业园落成"
-    },
-    {
-      "title": "Sonangol prepara expansão comercial em África e reforça frota com dois novos petroleiros",
-      "url": "https://diariodosnegocios.com/sonangol-prepara-expansao-comercial-em-africa-e-reforca-frota-com-dois-novos-petroleiros/",
-      "source": "Diário dos Negócios",
-      "_key": "583834761bb9a116",
-      "score": 8,
-      "title_cn": "安哥拉国家石油公司拟拓展非洲市场，增购两艘油轮"
-    },
-    {
-      "title": "BNA reduz taxa de referência em 0,75 pontos percentuais para 14%",
-      "url": "https://jornaloguardiao.com/2026/11/19/bna-reduz-taxa-de-referencia-em-075-pontos-percentuais-para-14/",
-      "source": "Jornal O Guardião",
-      "_key": "aaad87972c262543",
-      "score": 8,
-      "title_cn": "安哥拉国家银行下调基准利率0.75个百分点至14%"
-    },
-    {
-      "title": " BNA reduz taxa de referência em 0,75 pontos percentuais para 14% ",
+      "title": "Projecto de reservatórios e gasoduto na Namíbia \"rouba\" mercados à Refinaria do Lobito",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_3bbcd2e45a72ba",
-      "score": 8,
-      "title_cn": "安哥拉国家银行下调基准利率0.75个百分点至14%"
+      "source": "Expansão",
+      "_key": "t_e11ca2e2ae50e4",
+      "score": 9,
+      "title_cn": "纳米比亚储油罐和天然气管道项目抢占洛比托炼油厂市场"
     },
     {
-      "title": "Lunda Norte: Cafunfo, uma terra de diamantes e de ouro...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/lunda-norte-cafunfo-uma-terra-de-diamantes-e-de-ouro-que-ninguem-conhece-lamenta-presidente-do-prs-76179.html",
+      "title": "Plataforma Logística de Kimbata poderá reduzir custos e impulsionar comércio entre Angola e RDC",
+      "url": "https://forbesafricalusofona.com/plataforma-logistica-de-kimbata-podera-reduzir-custos-e-impulsionar-comercio-entre-angola-e-rdc/",
+      "source": "Forbes África",
+      "_key": "8538448f24c37b21",
+      "score": 9,
+      "title_cn": "金巴塔物流平台有望降低成本，促进安哥拉与刚果民主共和国贸易"
+    },
+    {
+      "title": "Destaque ExxonMobil investe quatro mil milhões de dólares nos projectos petrolíferos Kizomba A e BA ExxonMobil e os parceiros do Bloco 15 formalizaram, quinta-feira, a Decisão Final de Investimento (FID), no valor de quatro mil milhões de dólares, para o redesenvolvimento dos projectos petrolíferos Kizomba A e Kizomba B.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699951/exxonmobil-investe-quatro-mil-milh%C3%B5es-de-d%C3%B3lares-nos-projectos-petrol%C3%ADferos-kizomba-a-e-b",
+      "source": "Jornal de Angola",
+      "_key": "0ff1c9f987047362",
+      "score": 9,
+      "title_cn": "埃克森美孚投资40亿美元于Kizomba A和BA石油项目，并与15区块合作伙伴正式敲定最终投资决定"
+    },
+    {
+      "title": "Sociedade Reunião do Conselho Consultivo do SME debate modernização ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699925/reuni%C3%A3o-do-conselho-consultivo-do-sme-debate-moderniza%C3%A7%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "93c84349ea33a2f2",
+      "score": 9,
+      "title_cn": "中小企业咨询委员会会议讨论现代化议题"
+    },
+    {
+      "title": "Destaque ANPG e Sonangol anunciam nova descoberta de petróleo no bloco 5/06A Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG) e a Sonangol Exploração & Produção (E&P) anunciaram, esta quarta-feira, uma nova descoberta de petróleo através do poço de exploração Burututu-1, localizado na zona marítima da Bacia do Kwanza.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699790/anpg-e-sonangol-anunciam-nova-descoberta-de-petr%C3%B3leo-no-bloco-506",
+      "source": "Jornal de Angola",
+      "_key": "719c2af1f61bb672",
+      "score": 9,
+      "title_cn": "安哥拉国家石油局与安哥拉国家石油公司宣布在5/06A区块有新石油发现"
+    },
+    {
+      "title": "Governo angolano subconcessiona terminal portuário...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-angolano-subconcessiona-terminal-portuario-e-infraestruturas-da-zona-franca-da-barra-do-dande-por-25-anos-a-multinacional-bw-76205.html",
       "source": "Novo Jornal",
-      "_key": "ca57cfbb4824db0e",
-      "score": 8,
-      "title_cn": "北隆达省卡丰福：钻石与黄金之地"
+      "_key": "9427b5a98dfe8f40",
+      "score": 9,
+      "title_cn": "安哥拉政府转让港口码头特许经营权"
     },
     {
-      "title": "Angola inaugura esta sexta-feira a primeira refinaria...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/angola-inaugura-esta-sexta-feira-a-primeira-refinaria-de-ouro-76163.html",
+      "title": "PONTO AO: TESLA VAI DESCONTINUAR CYBERTRUCK APÓS ANOS DE FRACAS VENDAS. StarTimes recebeu autorização do Governo de Angola para prestar serviços de televisão por subscrição em todo o território nacional. ",
+      "url": "https://marginal.co.ao/programas/ponto-ao?ep=76186",
       "source": "Novo Jornal",
-      "_key": "6c943bd0a461b871",
-      "score": 8,
-      "title_cn": "安哥拉首座精炼厂本周五落成"
+      "_key": "b765e25144f46c35",
+      "score": 9,
+      "title_cn": "特斯拉因销量不佳将停产赛博卡车；四达时代获安哥拉政府授权提供全国付费电视服务"
     },
     {
-      "title": "Azule Energy prepara nova zona de exploração petrolífera em águas...",
-      "url": "https://valoreconomico.co.ao/artigo/azule-energy-prepara-nova-zona-de-exploracao-petrolifera-em-aguas-ultraprofundas",
+      "title": "Porto do Lobito distinguido em prémio internacional de qualidade",
+      "url": "https://valoreconomico.co.ao/artigo/porto-do-lobito-distinguido-em-premio-internacional-de-qualidade",
       "source": "Valor Económico",
-      "_key": "7ac9ad3a1ae41122",
+      "_key": "536cf45a821faf84",
+      "score": 9,
+      "title_cn": "洛比托港荣获国际质量奖"
+    },
+    {
+      "title": "Presidente da República autoriza compra de dois navios e construção de cais no Soyo e em Cabinda",
+      "url": "https://correiokianda.info/presidente-da-republica-autoriza-compra-de-dois-navios-e-construcao-de-cais-no-soyo-e-em-cabinda/",
+      "source": "Correio Kianda",
+      "_key": "4867d2e4da40c8df",
       "score": 8,
-      "title_cn": "阿祖莱能源公司筹备新水域石油勘探区"
+      "title_cn": "总统授权购买两艘船并在索约和卡宾达建造码头"
     },
     {
-      "title": "Trump, Xi e Putin defendem cooperação, mas mantêm divergências sobre...",
-      "url": "https://valoreconomico.co.ao/artigo/trump-xi-e-putin-defendem-cooperacao-mas-mantem-divergencias-sobre-armas-nucleares-comercio-e-conflitos",
-      "source": "Valor Económico",
-      "_key": "5156d5768cee3f83",
+      "title": "Executivo promete combater interesses no negócio de importação de alimentos",
+      "url": "https://correiokianda.info/executivo-promete-combater-interesses-no-negocio-de-importacao-de-alimentos/",
+      "source": "Correio Kianda",
+      "_key": "8917fedee3f5a468",
       "score": 8,
-      "title_cn": "特朗普（Trump）、习近平、普京（Putin）主张合作，但仍存分歧"
-    },
-    {
-      "title": "BNA diz que inflação mais baixa está a aliviar bolso das famílias",
-      "url": "https://correiokianda.info/bna-diz-que-inflacao-mais-baixa-esta-a-aliviar-bolso-das-familias/",
-      "source": "Correio Kianda",
-      "_key": "d4eaeb4dd6e985d7",
-      "score": 7,
-      "title_cn": "安哥拉国家银行：低通胀减轻家庭负担"
-    },
-    {
-      "title": "EUA, Rússia e China juntam-se para discutir os principais conflitos mundiais",
-      "url": "https://correiokianda.info/eua-russia-e-china-juntam-se-para-discutir-os-principais-conflitos-mundiais/",
-      "source": "Correio Kianda",
-      "_key": "dff8378a2d59c9f3",
-      "score": 7,
-      "title_cn": "美俄中齐聚讨论全球主要冲突"
-    },
-    {
-      "title": "Trump, Xi Jinping e Putin: o que está verdadeiramente em jogo no encontro das três grandes potências?",
-      "url": "https://correiokianda.info/trump-xi-jinping-e-putin-o-que-esta-verdadeiramente-em-jogo-no-encontro-das-tres-grandes-potencias/",
-      "source": "Correio Kianda",
-      "_key": "1303f0b012d96732",
-      "score": 7,
-      "title_cn": "特朗普（Trump）、习近平、普京（Putin）会晤：三大强国博弈何在？"
-    },
-    {
-      "title": "Défice do Governo Central cai 52,9% para 599,9 mil milhões de kwanzas no terceiro trimestre",
-      "url": "https://diariodosnegocios.com/defice-do-governo-central-cai-529-para-5999-mil-milhoes-de-kwanzas-no-terceiro-trimestre/",
-      "source": "Diário dos Negócios",
-      "_key": "38b219c51469b017",
-      "score": 7,
-      "title_cn": "第三季度中央政府赤字下降52.9%至5999亿宽扎"
+      "title_cn": "政府承诺打击食品进口业务中的利益集团"
     },
     {
       "title": "Votação final global do OGE vai acontecer até 15 de Dezembro",
-      "url": "https://expansao.co.ao/angola/detalhe/votacao-final-global-do-oge-vai-acontecer-ate-15-de-dezembro-76065.html",
-      "source": "Expansão",
-      "_key": "b52b1be97a35531e",
-      "score": 7,
-      "title_cn": "国家总预算最终投票将于12月15日前举行"
-    },
-    {
-      "title": "Angola aumenta exportação de bens alimentares para cerca de 131 milhões de dólares até setembro",
-      "url": "https://jornaloguardiao.com/2026/11/19/angola-aumenta-exportacao-de-bens-alimentares-para-cerca-de-131-milhoes-de-dolares-ate-setembro/",
-      "source": "Jornal O Guardião",
-      "_key": "99a255a39535bb63",
-      "score": 7,
-      "title_cn": "截至9月，安哥拉食品出口增至约1.31亿美元"
-    },
-    {
-      "title": "Exploração ilegal de ouro soma 160 detidos este ano na província angolana do Uíje",
-      "url": "https://jornaloguardiao.com/2026/11/19/exploracao-ilegal-de-ouro-soma-160-detidos-este-ano-na-provincia-angolana-do-uije/",
-      "source": "Jornal O Guardião",
-      "_key": "d6f6d92c5eb2b36a",
-      "score": 7,
-      "title_cn": "安哥拉威热省今年160人因非法采金被捕"
-    },
-    {
-      "title": " Angola aumenta exportação de bens alimentares para cerca de 131 milhões de dólares até setembro ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_c9fe87c58793a6",
-      "score": 7,
-      "title_cn": "截至9月，安哥拉食品出口增至约1.31亿美元"
-    },
-    {
-      "title": " Exploração ilegal de ouro soma 160 detidos este ano na província angolana do Uíje ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_039e18e56216a7",
-      "score": 7,
-      "title_cn": "安哥拉威热省今年160人因非法采金被捕"
-    },
-    {
-      "title": "Conselho de Ministros chamado a aprovar nova política...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/conselho-de-ministros-chamado-a-aprovar-nova-politica-nacional-de-migracao-laboral-76169.html",
-      "source": "Novo Jornal",
-      "_key": "15667b594408e2e9",
-      "score": 7,
-      "title_cn": "部长会议将批准新政策"
-    },
-    {
-      "title": "Shenzhen: Xi, Putin e Trump divulgam declaração conjunta...",
-      "url": "https://www.novojornal.co.ao/internacional/detalhe/shenzhen-xi-putin-e-trump-divulgam-declaracao-conjunta-aquem-das-expectativas-mas-com-peso-historico-claro-76172.html",
-      "source": "Novo Jornal",
-      "_key": "e4d7aefa66381f68",
-      "score": 7,
-      "title_cn": "深圳：习近平、普京（Putin）、特朗普（Trump）发布联合声明"
-    },
-    {
-      "title": "Executivo lança nova estrada para responder ao aumento do trânsito no Quilómetro 30",
-      "url": "https://correiokianda.info/executivo-lanca-nova-estrada-para-responder-ao-aumento-do-transito-no-quilometro-30/",
-      "source": "Correio Kianda",
-      "_key": "787bb9a53953a6c1",
-      "score": 6,
-      "title_cn": "政府启动新公路项目，应对30公里处交通增长"
-    },
-    {
-      "title": "FADA desembolsa mais de 9 mil milhões de kwanzas para projectos agrícolas no Huambo",
-      "url": "https://correiokianda.info/fada-desembolsa-mais-de-9-mil-milhoes-de-kwanzas-para-projectos-agricolas-no-huambo/",
-      "source": "Correio Kianda",
-      "_key": "f690d88c67c654f1",
-      "score": 6,
-      "title_cn": "安哥拉农业发展基金向万博省农业项目拨付逾90亿宽扎"
-    },
-    {
-      "title": "“Pagamentos iniciais para construção de estádios nas Lundas e Cuanza Norte já foram efectuados”, garante Rui Falcão",
-      "url": "https://correiokianda.info/pagamentos-iniciais-para-construcao-de-estadios-nas-lundas-e-cuanza-norte-ja-foram-efectuados-garante-rui-falcao/",
-      "source": "Correio Kianda",
-      "_key": "fecf15ef37433d86",
-      "score": 6,
-      "title_cn": "鲁伊·法尔考（Rui Falcão）保证隆达和北宽扎省体育场建设首付款已支付"
-    },
-    {
-      "title": "Quinto em progressão, 18.º pior em governação: Saúde, Educação e Justiça amarram Angola",
       "url": "",
       "source": "Expansão",
-      "_key": "t_7e8d154b843360",
-      "score": 6,
-      "title_cn": "进步第五，治理倒数第18：卫生、教育、司法拖累安哥拉"
+      "_key": "t_5695381ea36c22",
+      "score": 8,
+      "title_cn": "国家总预算最终全体投票将于12月15日前进行"
     },
     {
-      "title": "Conectividade rural entra na estratégia de expansão da Africell em Angola",
-      "url": "https://forbesafricalusofona.com/conectividade-rural-entra-na-estrategia-de-expansao-da-africell-em-angola/",
+      "title": "Angola entra na era da refinação de ouro com investimento de 20,7 milhões de dólares",
+      "url": "https://forbesafricalusofona.com/angola-entra-na-era-da-refinacao-de-ouro-com-investimento-de-207-milhoes-de-dolares/",
       "source": "Forbes África",
-      "_key": "a5e37e5b730b293f",
-      "score": 6,
-      "title_cn": "农村互联互通纳入非洲之星安哥拉扩张战略"
+      "_key": "7782ab2752af55a1",
+      "score": 8,
+      "title_cn": "安哥拉投资2070万美元进入黄金精炼时代"
     },
     {
-      "title": "Sentença dos efectivos do SIC que invadiram estaleiro no Sequele adiado para segunda-feira",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/sentenca-dos-efectivos-do-sic-que-invadiram-estaleiro-no-sequele-adiado-para-segunda-feira-76165.html",
+      "title": "Custo de vida em Angola: 5 desafios económicos…",
+      "url": "https://holdonangola.com/custo-de-vida-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "698cc23118fcc93d",
+      "score": 8,
+      "title_cn": "安哥拉生活成本：面临5大经济挑战"
+    },
+    {
+      "title": "Economia Primeira Refinaria de Ouro do país entra funcionamento ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699937/primeira-refinaria-de-ouro-do-pa%C3%ADs-entra-funcionamento",
+      "source": "Jornal de Angola",
+      "_key": "25bde36966d74358",
+      "score": 8,
+      "title_cn": "安哥拉首个黄金精炼厂投入运营"
+    },
+    {
+      "title": "Ligação marítima Soyo-Cabinda reforçada com investimento...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/ligacao-maritima-soyo-cabinda-arranca-com-investimento-de-120-milhoes-usd-em-navios-e-cais-76201.html",
       "source": "Novo Jornal",
-      "_key": "c79f09a953e5dfba",
-      "score": 6,
-      "title_cn": "刑事调查局人员闯入塞奎莱工地案判决推迟至周一"
+      "_key": "7c7f1effa673dcab",
+      "score": 8,
+      "title_cn": "索约-卡宾达海上航线获投资加强"
     },
     {
-      "title": "Efectivos do SIC que invadiram estaleiro no Sequele e furtaram gerador e electrodomésticos conhecem sentença hoje",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/efectivos-do-sic-que-invadiram-estaleiro-no-sequele-e-furtaram-gerador-e-electrodomesticos-conhecem-sentenca-hoje-76161.html",
-      "source": "Novo Jornal",
-      "_key": "c3728e85302d2c02",
-      "score": 6,
-      "title_cn": "刑事调查局人员闯入塞奎莱工地盗窃案今日宣判"
-    },
-    {
-      "title": "Executivo quer atrair investidores através de parceria com a CNN",
-      "url": "https://correiokianda.info/executivo-quer-atrair-investidores-atraves-de-parceria-com-a-cnn/",
+      "title": "Angola deixa de depender do exterior para refinar e certificar o ouro",
+      "url": "https://correiokianda.info/angola-deixa-de-depender-do-exterior-para-refinar-e-certificar-o-ouro/",
       "source": "Correio Kianda",
-      "_key": "ef80a1d42ad6996b",
-      "score": 5,
-      "title_cn": "政府拟与CNN合作吸引投资者"
+      "_key": "b0591aceb8a90752",
+      "score": 7,
+      "title_cn": "安哥拉不再依赖外部进行黄金精炼和认证"
     },
     {
-      "title": "Jurista pede mão pesada contra comerciantes que especulam preços no Natal",
-      "url": "https://correiokianda.info/jurista-pede-mao-pesada-contra-comerciantes-que-especulam-precos-no-natal/",
-      "source": "Correio Kianda",
-      "_key": "abbef0c7673ad43b",
-      "score": 5,
-      "title_cn": "法学家呼吁严惩圣诞节哄抬物价商家"
-    },
-    {
-      "title": "        África3 horas atrás  Serviços de inteligência da SADC discutem na Huíla soluções para conflitos regionais Os serviços de inteligência e defesa dos países membros da Comunidade de Desenvolvimento da África Austral (SADC) estão reunidos, na cidade do Lubango, província da Huíla,...   ",
-      "url": "https://correiokianda.info/servicos-de-inteligencia-da-sadc-discutem-na-huila-solucoes-para-conflitos-regionais/",
-      "source": "Correio Kianda",
-      "_key": "a2d2e232a57bff56",
-      "score": 5,
-      "title_cn": "南部非洲发展共同体情报部门在威拉省讨论区域冲突解决方案"
-    },
-    {
-      "title": "Lista negra europeia: sete companhias angolanas proibidas, a TAAG escapa",
-      "url": "https://diariodosnegocios.com/lista-negra-europeia-sete-companhias-angolanas-proibidas-a-taag-escapa/",
+      "title": "Greve na distribuição de gás provoca filas e especulação de preços",
+      "url": "https://diariodosnegocios.com/greve-na-distribuicao-de-gas-provoca-filas-e-especulacao-de-precos/",
       "source": "Diário dos Negócios",
-      "_key": "c356fe342988ed5d",
-      "score": 5,
-      "title_cn": "欧盟黑名单：七家安哥拉公司被禁，安哥拉航空幸免"
+      "_key": "57c17d269d19889c",
+      "score": 7,
+      "title_cn": "天然气分销罢工导致排队和价格投机"
     },
     {
-      "title": "ExxonMobil prevê investimento final no projecto Rovuma LNG até 2026 e anuncia potencial de geração de 100 mil milhões USD para Moçambique",
-      "url": "https://forbesafricalusofona.com/exxonmobil-preve-investimento-final-no-projecto-rovuma-lng-ate-2026-e-anuncia-potencial-de-geracao-de-100-mil-milhoes-usd-para-mocambique/",
+      "title": "Bolsas globais recuam na semanaOs mercados globais registaram uma semana negativa, marcada pela queda das bolsas, maior aversão ao risco no sector tecnológico, perspectivas de excesso de oferta petrolífera e expectativas de política monetária mais restritiva nos EUA.",
+      "url": "https://expansao.co.ao/empresas/detalhe/bolsas-globais-recuam-na-semana-76195.html",
+      "source": "Expansão",
+      "_key": "8f35401fd3be0a9e",
+      "score": 7,
+      "title_cn": "全球股市本周下跌，科技股风险规避加剧，石油供应过剩预期显现"
+    },
+    {
+      "title": "Angola projecta economia diversificada e crescimento sustentável até 2050",
+      "url": "https://forbesafricalusofona.com/angola-projecta-economia-diversificada-e-crescimento-sustentavel-ate-2050/",
       "source": "Forbes África",
-      "_key": "7b946d2757c3e550",
-      "score": 5,
-      "title_cn": "埃克森美孚预计2026年前完成鲁伍马液化天然气项目投资，莫桑比克或创收千亿美元"
+      "_key": "e2e07b4800ef4273",
+      "score": 7,
+      "title_cn": "安哥拉规划到2050年实现经济多元化和可持续增长"
     },
     {
-      "title": "Angola tem quase 13 milhões de crianças pobres com privações em várias áreas- índice",
-      "url": "https://jornaloguardiao.com/2026/11/19/angola-tem-quase-13-milhoes-de-criancas-pobres-com-privacoes-em-varias-areas-indice/",
+      "title": "Banca angolana precisa de fusões e aquisições para ganhar escala e financiar grandes projectos, defende Head da EY-Parthenon",
+      "url": "https://forbesafricalusofona.com/banca-angolana-precisa-de-fusoes-e-aquisicoes-para-ganhar-escala-e-financiar-grandes-projectos-defende-head-da-ey-parthenon/",
+      "source": "Forbes África",
+      "_key": "da2172b01c902b6b",
+      "score": 7,
+      "title_cn": "安永-帕特农负责人称，安哥拉银行业需并购以扩大规模并资助大型项目"
+    },
+    {
+      "title": "Líder da UNITA denuncia risco de golpe institucional nas eleições de Angola",
+      "url": "https://jornaloguardiao.com/2026/11/20/lider-da-unita-denuncia-risco-de-golpe-institucional-nas-eleicoes-de-angola/",
       "source": "Jornal O Guardião",
-      "_key": "b685ca9fb55b7a3c",
-      "score": 5,
-      "title_cn": "指数显示：安哥拉近1300万儿童多领域贫困"
+      "_key": "e64f475218a3b1c4",
+      "score": 7,
+      "title_cn": "安盟领导人谴责安哥拉选举存在机构政变风险"
     },
     {
-      "title": "VIH/SIDA continua a aumentar em Angola com 21 mil casos anuais – ANASO",
-      "url": "https://jornaloguardiao.com/2026/11/19/vih-sida-continua-a-aumentar-em-angola-com-21-mil-casos-anuais-anaso/",
-      "source": "Jornal O Guardião",
-      "_key": "a70b21268d5867c3",
-      "score": 5,
-      "title_cn": "安哥拉国家艾滋病防治协会：安哥拉艾滋病每年新增2.1万例"
-    },
-    {
-      "title": " Angola tem quase 13 milhões de crianças pobres com privações em várias áreas- índice ",
+      "title": " Líder da UNITA denuncia risco de golpe institucional nas eleições de Angola ",
       "url": "",
       "source": "Jornal O Guardião",
-      "_key": "t_b61cd243ca037f",
-      "score": 5,
-      "title_cn": "指数显示：安哥拉近1300万儿童多领域贫困"
+      "_key": "t_d060a224d424ae",
+      "score": 7,
+      "title_cn": "安盟领导人谴责安哥拉选举存在机构政变风险"
     },
     {
-      "title": " VIH/SIDA continua a aumentar em Angola com 21 mil casos anuais – ANASO ",
+      "title": "Destaque BNA recebe barra de ouro avaliada em 125 mil dólaresA Endiama ofereceu, hoje, ao Banco Nacional de Angola (BNA), uma barra de ouro de 24 quilates, com cerca de um quilograma, avaliada em 125 mil dólares, para integrar as reservas da instituição como símbolo da capacidade do país de entrar no mercado do ouro e desenvolver operações neste segmento.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699950/bna-recebe-barra-de-ouro-avaliada-em-125-mil-d%C3%B3lares",
+      "source": "Jornal de Angola",
+      "_key": "e7d63eb468707af0",
+      "score": 7,
+      "title_cn": "安哥拉国家银行收到安哥拉钻石公司赠送的价值12.5万美元金条"
+    },
+    {
+      "title": "Sociedade SIC detém cinco cidadãos por sequestro e tortura de homem em Luanda ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699953/sic-det%C3%A9m-cinco-cidad%C3%A3os-por-sequestro-e-tortura-de-homem-em-luanda",
+      "source": "Jornal de Angola",
+      "_key": "0a8c205d25a171ec",
+      "score": 7,
+      "title_cn": "刑事调查局在罗安达逮捕五名涉嫌绑架和酷刑男子公民"
+    },
+    {
+      "title": "18/11/2026Fecho de Ormuz afecta comércio no continente",
+      "url": "https://www.jornaldeangola.ao/noticias/0/%20/699848/fecho-de-ormuz-afecta-com%C3%A9rcio-no-continente",
+      "source": "Jornal de Angola",
+      "_key": "0a198a289a294542",
+      "score": 7,
+      "title_cn": "霍尔木兹海峡关闭影响非洲大陆贸易"
+    },
+    {
+      "title": "Bloco Democrático exige transparência sobre dívida pública e financiamento real...",
+      "url": "https://valoreconomico.co.ao/artigo/bloco-democratico-exige-transparencia-sobre-divida-publica-e-financiamento-real-aos-produtores-no-oge-2027",
+      "source": "Valor Económico",
+      "_key": "f4e18e22f244281a",
+      "score": 7,
+      "title_cn": "民主集团要求公共债务和实际融资透明化"
+    },
+    {
+      "title": "Governo inaugura refinaria de ouro; projecto desafia país a acelerar...",
+      "url": "https://valoreconomico.co.ao/artigo/governo-inaugura-refinaria-de-ouro-projecto-desafia-pais-a-acelerar-producao-nacional",
+      "source": "Valor Económico",
+      "_key": "6ce037348de2885f",
+      "score": 7,
+      "title_cn": "政府启用黄金精炼厂；该项目挑战国家加速发展"
+    },
+    {
+      "title": "Angola ganha 131 milhões de dólares com exportação de alimentos em seis meses",
+      "url": "https://correiokianda.info/angola-ganha-131-milhoes-de-dolares-com-exportacao-de-alimentos-em-seis-meses/",
+      "source": "Correio Kianda",
+      "_key": "af40be426a5625e5",
+      "score": 6,
+      "title_cn": "安哥拉六个月内食品出口创收1.31亿美元"
+    },
+    {
+      "title": "Proposta de 10% do Executivo confronta acordo de 2024 e exigências sindicais de 100%",
+      "url": "https://diariodosnegocios.com/proposta-de-10-do-executivo-confronta-acordo-de-2024-e-exigencias-sindicais-de-100/",
+      "source": "Diário dos Negócios",
+      "_key": "c326c7c4f7e0eade",
+      "score": 6,
+      "title_cn": "政府10%提案与2024年协议及工会100%要求相悖"
+    },
+    {
+      "title": "Angola relança portal para divulgar produção nacional e aproximar produtores do mercado",
+      "url": "https://forbesafricalusofona.com/angola-relanca-portal-para-divulgar-producao-nacional-e-aproximar-produtores-do-mercado/",
+      "source": "Forbes África",
+      "_key": "88764057fc24dc73",
+      "score": 6,
+      "title_cn": "安哥拉重启门户网站，推广国内产品，拉近生产者与市场距离"
+    },
+    {
+      "title": "Política Angola reforça mecanismos de prevenção da poluição e gestão de produtos químicos ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699994/angola-refor%C3%A7a-mecanismos-de-preven%C3%A7%C3%A3o-da-polui%C3%A7%C3%A3o-e-gest%C3%A3o-de-produtos-qu%C3%ADmicos",
+      "source": "Jornal de Angola",
+      "_key": "ea4a388439f85b18",
+      "score": 6,
+      "title_cn": "安哥拉加强污染防治和化学品管理机制"
+    },
+    {
+      "title": "Mundo18/11/2026Donald Trump chega a Shenzhen para cimeira com Xi Jinping",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/699784/donald-trump-chega-a-shenzhen-para-cimeira-com-xi-jinping",
+      "source": "Jornal de Angola",
+      "_key": "45026b7259c2c026",
+      "score": 6,
+      "title_cn": "唐纳德·特朗普（Donald Trump）抵达深圳与习近平举行峰会"
+    },
+    {
+      "title": "A Independência, o OGE e o chouriço do Lubango",
+      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-independencia-o-oge-e-o-chourico-do-lubango-76197.html",
+      "source": "Novo Jornal",
+      "_key": "754df48738eeaadd",
+      "score": 6,
+      "title_cn": "独立、国家总预算与卢班戈香肠"
+    },
+    {
+      "title": "Sem talento não há inteligência artificial | A nova divisão digital na África Subsaariana e em Angola",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_a4705e464528f4",
+      "source": "Expansão",
+      "_key": "t_d3cbeba5069ced",
       "score": 5,
-      "title_cn": "安哥拉国家艾滋病防治协会：安哥拉艾滋病每年新增2.1万例"
+      "title_cn": "没有人才就没有人工智能——撒哈拉以南非洲和安哥拉新的数字鸿沟"
     },
     {
-      "title": "Validade de uma hora nos códigos sem cartão dificulta levantamentos...",
-      "url": "https://valoreconomico.co.ao/artigo/validade-de-uma-hora-nos-codigos-sem-cartao-dificulta-levantamentos-devido-as-filas-nos-atm",
-      "source": "Valor Económico",
-      "_key": "c4deab92cdc2d482",
+      "title": "Bolsas globais recuam na semana",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_578db3e843164a",
       "score": 5,
-      "title_cn": "无卡取款码一小时有效期致取款困难"
+      "title_cn": "全球股市本周下跌"
     },
     {
-      "title": "BFA Capital Markets assegura liderança da intermediação com 27,7% da...",
-      "url": "https://valoreconomico.co.ao/artigo/bfa-capital-markets-assegura-lideranca-da-intermediacao-com-27-7-da-quota-de-mercado",
-      "source": "Valor Económico",
-      "_key": "c3a14bfd59bb28da",
+      "title": "CONVIDADOFrancisco Xavier PedroSem talento não há inteligência artificial | A nova divisão digital na África Subsaariana e em Angola",
+      "url": "https://expansao.co.ao/opiniao/detalhe/sem-talento-nao-ha-inteligencia-artificial-a-nova-divisao-digital-na-africa-subsaariana-e-em-angola-76057.html",
+      "source": "Expansão",
+      "_key": "634ef9b520f6ed72",
       "score": 5,
-      "title_cn": "BFA资本市场以27.7%份额确保中介业务领先地位"
+      "title_cn": "弗朗西斯科·哈维尔·佩德罗（Francisco Xavier Pedro）：没有人才就没有人工智能 | 撒哈拉以南非洲和安哥拉的新数字鸿沟"
+    },
+    {
+      "title": "Angola Like Never Before: INFOTUR lança nova narrativa para conquistar turistas e investidores",
+      "url": "https://forbesafricalusofona.com/angola-like-never-before-infotur-lanca-nova-narrativa-para-conquistar-turistas-e-investidores/",
+      "source": "Forbes África",
+      "_key": "7d32222ab2d7c470",
+      "score": 5,
+      "title_cn": "安哥拉旅游信息局推出新叙事，吸引游客和投资者"
+    },
+    {
+      "title": "Luanda procura converter potencial turístico em oportunidades de investimento",
+      "url": "https://forbesafricalusofona.com/luanda-procura-converter-potencial-turistico-em-oportunidades-de-investimento/",
+      "source": "Forbes África",
+      "_key": "36f38d6162d08b61",
+      "score": 5,
+      "title_cn": "罗安达寻求将旅游潜力转化为投资机会"
+    },
+    {
+      "title": "Turismo em Angola gera 667 milhões USD e representa 1,4% do PIB, avança governante",
+      "url": "https://forbesafricalusofona.com/turismo-em-angola-gera-667-milhoes-usd-e-representa-14-do-pib-avanca-governante/",
+      "source": "Forbes África",
+      "_key": "ddadea29a2b9c3fa",
+      "score": 5,
+      "title_cn": "政府官员称，安哥拉旅游业创造6.67亿美元，占GDP的1.4%"
+    },
+    {
+      "title": "Política País considera estabilidade factor de progresso na região ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699941/pa%C3%ADs-considera-estabilidade--factor-de-progresso-na-regi%C3%A3o",
+      "source": "Jornal de Angola",
+      "_key": "5d5140c0b4f66424",
+      "score": 5,
+      "title_cn": "安哥拉认为稳定是地区进步的因素"
+    },
+    {
+      "title": "Aumento salarial da função pública: Braço de ferro...",
+      "url": "https://www.novojornal.co.ao/economia/detalhe/aumento-salarial-da-funcao-publica-braco-de-ferro-entre-governo-e-sindicato-trava-nova-proposta-salarial-76203.html",
+      "source": "Novo Jornal",
+      "_key": "369c0364e7fa48a1",
+      "score": 5,
+      "title_cn": "公务员工资增长：一场拉锯战"
     }
   ]
 }
