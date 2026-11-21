@@ -1,322 +1,210 @@
 {
-  "date": "2026-11-20",
-  "total_new": 122,
-  "total_filtered": 45,
+  "date": "2026-11-21",
+  "total_new": 77,
+  "total_filtered": 29,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Executivo prepara política para regular saída e entrada de trabalhadores migrantes",
-      "url": "https://correiokianda.info/executivo-prepara-politica-para-regular-saida-e-entrada-de-trabalhadores-migrantes/",
-      "source": "Correio Kianda",
-      "_key": "dfeec97ca058f730",
+      "title": "Conselho de Ministros analisa nova Política Nacional de Migração Laboral",
+      "url": "https://diariodosnegocios.com/conselho-de-ministros-analisa-nova-politica-nacional-de-migracao-laboral/",
+      "source": "Diário dos Negócios",
+      "_key": "c0a09ebc4a9e9182",
       "score": 10
     },
     {
-      "title": "Governo compra 2,1 mil milhões USD em petróleo para pagar dívida à China",
-      "url": "https://expansao.co.ao/angola/detalhe/governo-compra-21-mil-milhoes-usd-em-petroleo-para-pagar-divida-a-china-76191.html",
-      "source": "Expansão",
-      "_key": "1d1928c3206e84ab",
-      "score": 10
-    },
-    {
-      "title": "Empresas que gerem \"Cidade da China\" negam qualquer ligação a crimes de tráfico de seres humanos que possam ocorrer no interior do Centro Comercial",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/empresas-que-gerem-cidade-da-china-negam-qualquer-ligacao-a-crimes-de-trafico-de-seres-humanos-que-possam-ocorrer-no-interior-do-centro-comercial-76206.html",
-      "source": "Novo Jornal",
-      "_key": "099ea13a109d5b69",
-      "score": 10
+      "title": "Angola liquida 595,3 milhões de dólares ao Eximbank e encerra dívida garantida por petróleo com este credor",
+      "url": "https://diariodosnegocios.com/angola-liquida-5953-milhoes-de-dolares-ao-eximbank-e-encerra-divida-garantida-por-petroleo-com-este-credor/",
+      "source": "Diário dos Negócios",
+      "_key": "357c8177a33ec210",
+      "score": 9
     },
     {
       "title": "ANPG e Sonangol descobrem petróleo no norte do bloco 5/06",
-      "url": "https://expansao.co.ao/angola/detalhe/anpg-e-sonangol-descobrem-petroleo-no-norte-do-bloco-506-76190.html",
-      "source": "Expansão",
-      "_key": "54d4455ad8243fc5",
-      "score": 9
-    },
-    {
-      "title": "Projecto de reservatórios e gasoduto na Namíbia \"rouba\" mercados à Refinaria do Lobito",
       "url": "",
       "source": "Expansão",
-      "_key": "t_e11ca2e2ae50e4",
+      "_key": "t_f0ad1aec80de00",
       "score": 9
     },
     {
-      "title": "Plataforma Logística de Kimbata poderá reduzir custos e impulsionar comércio entre Angola e RDC",
-      "url": "https://forbesafricalusofona.com/plataforma-logistica-de-kimbata-podera-reduzir-custos-e-impulsionar-comercio-entre-angola-e-rdc/",
-      "source": "Forbes África",
-      "_key": "8538448f24c37b21",
-      "score": 9
-    },
-    {
-      "title": "Destaque ExxonMobil investe quatro mil milhões de dólares nos projectos petrolíferos Kizomba A e BA ExxonMobil e os parceiros do Bloco 15 formalizaram, quinta-feira, a Decisão Final de Investimento (FID), no valor de quatro mil milhões de dólares, para o redesenvolvimento dos projectos petrolíferos Kizomba A e Kizomba B.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699951/exxonmobil-investe-quatro-mil-milh%C3%B5es-de-d%C3%B3lares-nos-projectos-petrol%C3%ADferos-kizomba-a-e-b",
-      "source": "Jornal de Angola",
-      "_key": "0ff1c9f987047362",
-      "score": 9
-    },
-    {
-      "title": "Sociedade Reunião do Conselho Consultivo do SME debate modernização ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699925/reuni%C3%A3o-do-conselho-consultivo-do-sme-debate-moderniza%C3%A7%C3%A3o",
-      "source": "Jornal de Angola",
-      "_key": "93c84349ea33a2f2",
-      "score": 9
-    },
-    {
-      "title": "Destaque ANPG e Sonangol anunciam nova descoberta de petróleo no bloco 5/06A Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG) e a Sonangol Exploração & Produção (E&P) anunciaram, esta quarta-feira, uma nova descoberta de petróleo através do poço de exploração Burututu-1, localizado na zona marítima da Bacia do Kwanza.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699790/anpg-e-sonangol-anunciam-nova-descoberta-de-petr%C3%B3leo-no-bloco-506",
-      "source": "Jornal de Angola",
-      "_key": "719c2af1f61bb672",
-      "score": 9
-    },
-    {
-      "title": "Governo angolano subconcessiona terminal portuário...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/governo-angolano-subconcessiona-terminal-portuario-e-infraestruturas-da-zona-franca-da-barra-do-dande-por-25-anos-a-multinacional-bw-76205.html",
-      "source": "Novo Jornal",
-      "_key": "9427b5a98dfe8f40",
-      "score": 9
-    },
-    {
-      "title": "PONTO AO: TESLA VAI DESCONTINUAR CYBERTRUCK APÓS ANOS DE FRACAS VENDAS. StarTimes recebeu autorização do Governo de Angola para prestar serviços de televisão por subscrição em todo o território nacional. ",
-      "url": "https://marginal.co.ao/programas/ponto-ao?ep=76186",
-      "source": "Novo Jornal",
-      "_key": "b765e25144f46c35",
-      "score": 9
-    },
-    {
-      "title": "Porto do Lobito distinguido em prémio internacional de qualidade",
-      "url": "https://valoreconomico.co.ao/artigo/porto-do-lobito-distinguido-em-premio-internacional-de-qualidade",
-      "source": "Valor Económico",
-      "_key": "536cf45a821faf84",
-      "score": 9
-    },
-    {
-      "title": "Presidente da República autoriza compra de dois navios e construção de cais no Soyo e em Cabinda",
-      "url": "https://correiokianda.info/presidente-da-republica-autoriza-compra-de-dois-navios-e-construcao-de-cais-no-soyo-e-em-cabinda/",
+      "title": "Refinaria de ouro prevê movimentar 924 milhões de dólares por ciclo de produção",
+      "url": "https://correiokianda.info/refinaria-de-ouro-preve-movimentar-924-milhoes-de-dolares-por-ciclo-de-producao/",
       "source": "Correio Kianda",
-      "_key": "4867d2e4da40c8df",
+      "_key": "ade1854ebb7810af",
       "score": 8
     },
     {
-      "title": "Executivo promete combater interesses no negócio de importação de alimentos",
-      "url": "https://correiokianda.info/executivo-promete-combater-interesses-no-negocio-de-importacao-de-alimentos/",
+      "title": "“Angola possui reservas de ouro avaliadas em 2,5 mil milhões de dólares”, revela BNA",
+      "url": "https://correiokianda.info/angola-possui-reservas-de-ouro-avaliadas-em-25-mil-milhoes-de-dolares-revela-bna/",
       "source": "Correio Kianda",
-      "_key": "8917fedee3f5a468",
+      "_key": "52abd144dcb54dfd",
       "score": 8
     },
     {
-      "title": "Votação final global do OGE vai acontecer até 15 de Dezembro",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_5695381ea36c22",
+      "title": "País passa a refinar e certificar ouro em território nacional",
+      "url": "https://diariodosnegocios.com/pais-passa-a-refinar-e-certificar-ouro-em-territorio-nacional/",
+      "source": "Diário dos Negócios",
+      "_key": "1f48766dbe634ca7",
       "score": 8
     },
     {
-      "title": "Angola entra na era da refinação de ouro com investimento de 20,7 milhões de dólares",
-      "url": "https://forbesafricalusofona.com/angola-entra-na-era-da-refinacao-de-ouro-com-investimento-de-207-milhoes-de-dolares/",
+      "title": "Executivo assegura continuidade da protecção à produção nacional O Executivo vai manter firme a política de protecção à produção nacional, com destaque para os bens de primeira necessidade e os materiais de construção, assegurou ontem o ministro de Estado para a Coordenação Económica, José de Lima Massano.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700017/executivo-assegura-continuidade--da-protec%C3%A7%C3%A3o-%C3%A0-produ%C3%A7%C3%A3o-nacional-",
+      "source": "Jornal de Angola",
+      "_key": "cdd71baba185195f",
+      "score": 8
+    },
+    {
+      "title": "Economia Pólo Industrial de Viana entra no “mapa do ouro” ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700046/p%C3%B3lo-industrial-de-viana-entra-no-%E2%80%9Cmapa-do-ouro%E2%80%9D",
+      "source": "Jornal de Angola",
+      "_key": "f32f717f7d43124c",
+      "score": 8
+    },
+    {
+      "title": "Economia Primeira Refinaria de Ouro arranca com 25 quilogramas ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700044/primeira-refinaria-de-ouro-arranca-com-25-quilogramas",
+      "source": "Jornal de Angola",
+      "_key": "391af04cf0008a4d",
+      "score": 8
+    },
+    {
+      "title": "Política Destacados investimentos nas energias renováveis ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700020/destacados-investimentos-nas-energias-renov%C3%A1veis",
+      "source": "Jornal de Angola",
+      "_key": "467ba0dd529de17a",
+      "score": 8
+    },
+    {
+      "title": "Conselho Económico e Social recomenda construção de estradas mais baratas",
+      "url": "https://correiokianda.info/conselho-economico-e-social-recomenda-construcao-de-estradas-mais-baratas/",
+      "source": "Correio Kianda",
+      "_key": "bf9ec6b02b8eb2ec",
+      "score": 7
+    },
+    {
+      "title": "Especialista considera inconclusivo encontro entre Trump, Putin e Xi Jinping",
+      "url": "https://correiokianda.info/especialista-considera-inconclusivo-encontro-entre-trump-putin-e-xi-jinping/",
+      "source": "Correio Kianda",
+      "_key": "d1b7485847245862",
+      "score": 7
+    },
+    {
+      "title": "Mercado de capitais angolano ganha dinamismo, mas continua a ser complementar ao sector bancário",
+      "url": "https://forbesafricalusofona.com/mercado-de-capitais-angolano-ganha-dinamismo-mas-continua-a-ser-complementar-ao-sector-bancario/",
       "source": "Forbes África",
-      "_key": "7782ab2752af55a1",
-      "score": 8
+      "_key": "ace15715d1494cb3",
+      "score": 7
     },
     {
-      "title": "Custo de vida em Angola: 5 desafios económicos…",
-      "url": "https://holdonangola.com/custo-de-vida-em-angola/",
+      "title": "UNITA alerta para riscos de instabilidade política nas eleições de 2027",
+      "url": "https://holdonangola.com/unita-instabilidade-politica-eleicoes-2027/",
       "source": "Hold On Angola",
-      "_key": "698cc23118fcc93d",
-      "score": 8
+      "_key": "3b367ba100723adc",
+      "score": 7
     },
     {
-      "title": "Economia Primeira Refinaria de Ouro do país entra funcionamento ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699937/primeira-refinaria-de-ouro-do-pa%C3%ADs-entra-funcionamento",
+      "title": "Sociedade Gás de cozinha é vendido a preços especulativos no mercado informal ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700031/g%C3%A1s-de-cozinha-%C3%A9-vendido-a-pre%C3%A7os-especulativos-no-mercado-informal",
       "source": "Jornal de Angola",
-      "_key": "25bde36966d74358",
-      "score": 8
+      "_key": "156bef265cde78ff",
+      "score": 7
     },
     {
-      "title": "Ligação marítima Soyo-Cabinda reforçada com investimento...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/ligacao-maritima-soyo-cabinda-arranca-com-investimento-de-120-milhoes-usd-em-navios-e-cais-76201.html",
-      "source": "Novo Jornal",
-      "_key": "7c7f1effa673dcab",
-      "score": 8
-    },
-    {
-      "title": "Angola deixa de depender do exterior para refinar e certificar o ouro",
-      "url": "https://correiokianda.info/angola-deixa-de-depender-do-exterior-para-refinar-e-certificar-o-ouro/",
+      "title": "Segurança privada em Angola terá novo órgão para discutir problemas do sector",
+      "url": "https://correiokianda.info/seguranca-privada-em-angola-tera-novo-orgao-para-discutir-problemas-do-sector/",
       "source": "Correio Kianda",
-      "_key": "b0591aceb8a90752",
-      "score": 7
+      "_key": "68b1a0aeb6a097df",
+      "score": 6
     },
     {
-      "title": "Greve na distribuição de gás provoca filas e especulação de preços",
-      "url": "https://diariodosnegocios.com/greve-na-distribuicao-de-gas-provoca-filas-e-especulacao-de-precos/",
-      "source": "Diário dos Negócios",
-      "_key": "57c17d269d19889c",
-      "score": 7
-    },
-    {
-      "title": "Bolsas globais recuam na semanaOs mercados globais registaram uma semana negativa, marcada pela queda das bolsas, maior aversão ao risco no sector tecnológico, perspectivas de excesso de oferta petrolífera e expectativas de política monetária mais restritiva nos EUA.",
-      "url": "https://expansao.co.ao/empresas/detalhe/bolsas-globais-recuam-na-semana-76195.html",
-      "source": "Expansão",
-      "_key": "8f35401fd3be0a9e",
-      "score": 7
-    },
-    {
-      "title": "Angola projecta economia diversificada e crescimento sustentável até 2050",
-      "url": "https://forbesafricalusofona.com/angola-projecta-economia-diversificada-e-crescimento-sustentavel-ate-2050/",
-      "source": "Forbes África",
-      "_key": "e2e07b4800ef4273",
-      "score": 7
-    },
-    {
-      "title": "Banca angolana precisa de fusões e aquisições para ganhar escala e financiar grandes projectos, defende Head da EY-Parthenon",
-      "url": "https://forbesafricalusofona.com/banca-angolana-precisa-de-fusoes-e-aquisicoes-para-ganhar-escala-e-financiar-grandes-projectos-defende-head-da-ey-parthenon/",
-      "source": "Forbes África",
-      "_key": "da2172b01c902b6b",
-      "score": 7
-    },
-    {
-      "title": "Líder da UNITA denuncia risco de golpe institucional nas eleições de Angola",
-      "url": "https://jornaloguardiao.com/2026/11/20/lider-da-unita-denuncia-risco-de-golpe-institucional-nas-eleicoes-de-angola/",
-      "source": "Jornal O Guardião",
-      "_key": "e64f475218a3b1c4",
-      "score": 7
-    },
-    {
-      "title": " Líder da UNITA denuncia risco de golpe institucional nas eleições de Angola ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_d060a224d424ae",
-      "score": 7
-    },
-    {
-      "title": "Destaque BNA recebe barra de ouro avaliada em 125 mil dólaresA Endiama ofereceu, hoje, ao Banco Nacional de Angola (BNA), uma barra de ouro de 24 quilates, com cerca de um quilograma, avaliada em 125 mil dólares, para integrar as reservas da instituição como símbolo da capacidade do país de entrar no mercado do ouro e desenvolver operações neste segmento.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/699950/bna-recebe-barra-de-ouro-avaliada-em-125-mil-d%C3%B3lares",
-      "source": "Jornal de Angola",
-      "_key": "e7d63eb468707af0",
-      "score": 7
-    },
-    {
-      "title": "Sociedade SIC detém cinco cidadãos por sequestro e tortura de homem em Luanda ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/699953/sic-det%C3%A9m-cinco-cidad%C3%A3os-por-sequestro-e-tortura-de-homem-em-luanda",
-      "source": "Jornal de Angola",
-      "_key": "0a8c205d25a171ec",
-      "score": 7
-    },
-    {
-      "title": "18/11/2026Fecho de Ormuz afecta comércio no continente",
-      "url": "https://www.jornaldeangola.ao/noticias/0/%20/699848/fecho-de-ormuz-afecta-com%C3%A9rcio-no-continente",
-      "source": "Jornal de Angola",
-      "_key": "0a198a289a294542",
-      "score": 7
-    },
-    {
-      "title": "Bloco Democrático exige transparência sobre dívida pública e financiamento real...",
-      "url": "https://valoreconomico.co.ao/artigo/bloco-democratico-exige-transparencia-sobre-divida-publica-e-financiamento-real-aos-produtores-no-oge-2027",
-      "source": "Valor Económico",
-      "_key": "f4e18e22f244281a",
-      "score": 7
-    },
-    {
-      "title": "Governo inaugura refinaria de ouro; projecto desafia país a acelerar...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-inaugura-refinaria-de-ouro-projecto-desafia-pais-a-acelerar-producao-nacional",
-      "source": "Valor Económico",
-      "_key": "6ce037348de2885f",
-      "score": 7
-    },
-    {
-      "title": "Angola ganha 131 milhões de dólares com exportação de alimentos em seis meses",
-      "url": "https://correiokianda.info/angola-ganha-131-milhoes-de-dolares-com-exportacao-de-alimentos-em-seis-meses/",
+      "title": "Sonagás pede tranquilidade aos consumidores e garante disponibilidade de gás",
+      "url": "https://correiokianda.info/sonagas-pede-tranquilidade-aos-consumidores-e-garante-disponibilidade-de-gas/",
       "source": "Correio Kianda",
-      "_key": "af40be426a5625e5",
+      "_key": "995dd44e7a57ccd7",
       "score": 6
     },
     {
-      "title": "Proposta de 10% do Executivo confronta acordo de 2024 e exigências sindicais de 100%",
-      "url": "https://diariodosnegocios.com/proposta-de-10-do-executivo-confronta-acordo-de-2024-e-exigencias-sindicais-de-100/",
-      "source": "Diário dos Negócios",
-      "_key": "c326c7c4f7e0eade",
-      "score": 6
-    },
-    {
-      "title": "Angola relança portal para divulgar produção nacional e aproximar produtores do mercado",
-      "url": "https://forbesafricalusofona.com/angola-relanca-portal-para-divulgar-producao-nacional-e-aproximar-produtores-do-mercado/",
-      "source": "Forbes África",
-      "_key": "88764057fc24dc73",
-      "score": 6
-    },
-    {
-      "title": "Política Angola reforça mecanismos de prevenção da poluição e gestão de produtos químicos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699994/angola-refor%C3%A7a-mecanismos-de-preven%C3%A7%C3%A3o-da-polui%C3%A7%C3%A3o-e-gest%C3%A3o-de-produtos-qu%C3%ADmicos",
-      "source": "Jornal de Angola",
-      "_key": "ea4a388439f85b18",
-      "score": 6
-    },
-    {
-      "title": "Mundo18/11/2026Donald Trump chega a Shenzhen para cimeira com Xi Jinping",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/699784/donald-trump-chega-a-shenzhen-para-cimeira-com-xi-jinping",
-      "source": "Jornal de Angola",
-      "_key": "45026b7259c2c026",
-      "score": 6
-    },
-    {
-      "title": "A Independência, o OGE e o chouriço do Lubango",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-independencia-o-oge-e-o-chourico-do-lubango-76197.html",
-      "source": "Novo Jornal",
-      "_key": "754df48738eeaadd",
-      "score": 6
-    },
-    {
-      "title": "Sem talento não há inteligência artificial | A nova divisão digital na África Subsaariana e em Angola",
-      "url": "",
+      "title": "Só 8 em cada 100 novos empregos surgiram no mercado formal este ano",
+      "url": "https://expansao.co.ao/angola/detalhe/so-8-em-cada-100-novos-empregos-surgiram-no-mercado-formal-este-ano-76224.html",
       "source": "Expansão",
-      "_key": "t_d3cbeba5069ced",
-      "score": 5
+      "_key": "9a9429ee7a2162db",
+      "score": 6
     },
     {
-      "title": "Bolsas globais recuam na semana",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_578db3e843164a",
-      "score": 5
-    },
-    {
-      "title": "CONVIDADOFrancisco Xavier PedroSem talento não há inteligência artificial | A nova divisão digital na África Subsaariana e em Angola",
-      "url": "https://expansao.co.ao/opiniao/detalhe/sem-talento-nao-ha-inteligencia-artificial-a-nova-divisao-digital-na-africa-subsaariana-e-em-angola-76057.html",
-      "source": "Expansão",
-      "_key": "634ef9b520f6ed72",
-      "score": 5
-    },
-    {
-      "title": "Angola Like Never Before: INFOTUR lança nova narrativa para conquistar turistas e investidores",
-      "url": "https://forbesafricalusofona.com/angola-like-never-before-infotur-lanca-nova-narrativa-para-conquistar-turistas-e-investidores/",
+      "title": "Quinze empresas húngaras avaliam oportunidades de investimento em Angola",
+      "url": "https://forbesafricalusofona.com/quinze-empresas-hungaras-avaliam-oportunidades-de-investimento-em-angola/",
       "source": "Forbes África",
-      "_key": "7d32222ab2d7c470",
-      "score": 5
+      "_key": "868725a9bccba232",
+      "score": 6
     },
     {
-      "title": "Luanda procura converter potencial turístico em oportunidades de investimento",
-      "url": "https://forbesafricalusofona.com/luanda-procura-converter-potencial-turistico-em-oportunidades-de-investimento/",
+      "title": "FGC e Banco Mundial reforçam acompanhamento de investimentos industriais em Benguela",
+      "url": "https://forbesafricalusofona.com/fgc-e-banco-mundial-reforcam-acompanhamento-de-investimentos-industriais-em-benguela/",
       "source": "Forbes África",
-      "_key": "36f38d6162d08b61",
-      "score": 5
+      "_key": "8696b1d06af49137",
+      "score": 6
     },
     {
-      "title": "Turismo em Angola gera 667 milhões USD e representa 1,4% do PIB, avança governante",
-      "url": "https://forbesafricalusofona.com/turismo-em-angola-gera-667-milhoes-usd-e-representa-14-do-pib-avanca-governante/",
-      "source": "Forbes África",
-      "_key": "ddadea29a2b9c3fa",
-      "score": 5
+      "title": "Bloco Democrático critica OGE 2027 e alerta para agravamento das desigualdades sociais",
+      "url": "https://holdonangola.com/bloco-democratico-critica-oge-2027-e-alerta-para-agravamento-das-desigualdades-sociais/",
+      "source": "Hold On Angola",
+      "_key": "d9c534287ba22718",
+      "score": 6
     },
     {
-      "title": "Política País considera estabilidade factor de progresso na região ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/699941/pa%C3%ADs-considera-estabilidade--factor-de-progresso-na-regi%C3%A3o",
+      "title": "Destaque Executivo reforça aposta na expansão do acesso à água potável e ao saneamentoO Ministério da Energia e Águas (MINEA) reafirmou, sexta-feira, na província do Icolo e Bengo, o compromisso do Executivo com a transformação do sector da água e saneamento, durante a realização do Fórum Nacional de Água e Saneamento (FONAS 2026).",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700004/executivo-refor%C3%A7a-aposta-na-expans%C3%A3o-do-acesso-%C3%A0-%C3%A1gua-pot%C3%A1vel-e-ao-saneamento",
       "source": "Jornal de Angola",
-      "_key": "5d5140c0b4f66424",
+      "_key": "71cec207a4fc63e5",
+      "score": 6
+    },
+    {
+      "title": "Política Executivo vai melhorar a distribuição de água ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700013/executivo-vai-melhorar-a-distribui%C3%A7%C3%A3o-de-%C3%A1gua",
+      "source": "Jornal de Angola",
+      "_key": "0078eda92a698e23",
+      "score": 6
+    },
+    {
+      "title": "12:52 / 21 nov. 2026 MGA apreende embarcações por ameaça à segurança naval ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700027/mga-apreende-embarca%C3%A7%C3%B5es-por-amea%C3%A7a-%C3%A0-seguran%C3%A7a-naval",
+      "source": "Jornal de Angola",
+      "_key": "475e0a8796416991",
+      "score": 6
+    },
+    {
+      "title": "Mara Quiosa diz que Angola está a avançar e apela à união dos cidadãos",
+      "url": "https://correiokianda.info/mara-quiosa-diz-que-angola-esta-a-avancar-e-apela-a-uniao-dos-cidadaos/",
+      "source": "Correio Kianda",
+      "_key": "ea8ffffe26399fe3",
       "score": 5
     },
     {
-      "title": "Aumento salarial da função pública: Braço de ferro...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/aumento-salarial-da-funcao-publica-braco-de-ferro-entre-governo-e-sindicato-trava-nova-proposta-salarial-76203.html",
-      "source": "Novo Jornal",
-      "_key": "369c0364e7fa48a1",
+      "title": "Receitas fiscais dos jogos crescem 23% para 8,4 mil milhões Kz em nove meses",
+      "url": "https://expansao.co.ao/angola/detalhe/receitas-fiscais-dos-jogos-crescem-23-para-84-mil-milhoes-kz-em-nove-meses-76223.html",
+      "source": "Expansão",
+      "_key": "3edc9c187e181513",
+      "score": 5
+    },
+    {
+      "title": "Operadoras de Telecomunicações em Angola: 9 Empresas e Serviços",
+      "url": "https://holdonangola.com/operadoras-de-telecomunicacoes-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "3b5750ebc70085a5",
+      "score": 5
+    },
+    {
+      "title": "Mais de 180 mil turistas estrangeiros registados nas entradas até SetembroO país registou, até ao III Trimestre do corrente ano, a entrada de 184.722 turistas internacionais, o que representa um crescimento de 19 por cento face ao período homólogo de 2025, informou ontem, em Luanda, o ministro do Turismo, Márcio Daniel.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700009/mais-de-180-mil-turistas-estrangeiros-registados-nas-entradas-at%C3%A9-setembro",
+      "source": "Jornal de Angola",
+      "_key": "0c60983eded91653",
+      "score": 5
+    },
+    {
+      "title": "Política Magistrado defende revisão da lei para responder aos desafios actuais ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700024/magistrado-defende-revis%C3%A3o-da-lei-para-responder-aos-desafios-actuais-",
+      "source": "Jornal de Angola",
+      "_key": "ed70eaba1ed6153c",
       "score": 5
     }
   ]
