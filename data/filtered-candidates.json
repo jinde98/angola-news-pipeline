@@ -1,28 +1,119 @@
 {
   "date": "2026-11-22",
-  "total_new": 15,
-  "total_filtered": 3,
+  "total_new": 60,
+  "total_filtered": 16,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "        África7 horas atrás  Angola assume presidência do Comité de Saúde da União Africana até 2028 Angola assumiu, a 19 de Novembro, a presidência da Mesa do Comité Técnico Especializado da União Africana sobre Saúde, Nutrição, População e Controlo de Drogas, que...   ",
-      "url": "https://correiokianda.info/angola-assume-presidencia-do-comite-de-saude-da-uniao-africana-ate-2028/",
+      "title": "ExxonMobil anuncia investimento de 4 mil milhões de dólares em Angola",
+      "url": "https://holdonangola.com/exxonmobil-anuncia-investimento-de-4-mil-milhoes-de-dolares-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "95c2e137dcd3405e",
+      "score": 8
+    },
+    {
+      "title": "Economia BNA mantém projecção de inflação de 8,6% até final do ano ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700102/bna-mant%C3%A9m-projec%C3%A7%C3%A3o-de-infla%C3%A7%C3%A3o-de-86%25-at%C3%A9-final-do-ano-",
+      "source": "Jornal de Angola",
+      "_key": "27bee576bea6ceef",
+      "score": 8
+    },
+    {
+      "title": "Mundo22/11/2026Petroleiros atingidos no Estreito de Ormuz",
+      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/700134/petroleiros-atingidos-no-estreito-de-ormuz",
+      "source": "Jornal de Angola",
+      "_key": "6914ffa1122ab213",
+      "score": 8
+    },
+    {
+      "title": "Turismo em Angola atrai fundos de investimento e seguradoras para financiar expansão do sector",
+      "url": "https://forbesafricalusofona.com/turismo-em-angola-atrai-fundos-de-investimento-e-seguradoras-para-financiar-expansao-do-sector/",
+      "source": "Forbes África",
+      "_key": "e3ee9261a889c741",
+      "score": 7
+    },
+    {
+      "title": "Economia / Há 9 horas Benguela beneficia de 4,2 mil milhões para projectos agrários ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700089/benguela-beneficia-de-42-mil-milh%C3%B5es-para-projectos-agr%C3%A1rios",
+      "source": "Jornal de Angola",
+      "_key": "aad69ce6c82640fc",
+      "score": 7
+    },
+    {
+      "title": "Escassez de gasolina provoca enchentes e especulação de preços no Luena",
+      "url": "https://correiokianda.info/escassez-de-gasolina-provoca-enchentes-e-especulacao-de-precos-no-luena/",
       "source": "Correio Kianda",
-      "_key": "a28b240cb628543d",
+      "_key": "7f5b6904f4aa62e4",
       "score": 6
     },
     {
-      "title": "Angola assume presidência do Comité de Saúde da…",
-      "url": "https://holdonangola.com/angola-presidencia-saude-uniao-africana-2028/",
-      "source": "Hold On Angola",
-      "_key": "d312e857700133d8",
+      "title": "Exportações de produtos alimentares no 1.° semestre em Angola superam total de 2025",
+      "url": "https://forbesafricalusofona.com/estado-para-a-coordenacao/",
+      "source": "Forbes África",
+      "_key": "f655a7d6cd8f06a5",
       "score": 6
     },
     {
-      "title": "Ntoni-a-Nzinga defende distribuição justa dos recursos minerais em Angola",
-      "url": "https://holdonangola.com/recursos-minerais-em-angola-ntoni-a-nzinga/",
+      "title": "Laura Macedo critica falta de fiscalização às empresas…",
+      "url": "https://holdonangola.com/laura-macedo-critica-falta-de-fiscalizacao-as-empresas-mineiras-em-angola/",
       "source": "Hold On Angola",
-      "_key": "68ffd782398ad11a",
+      "_key": "d4dd2fda8e2853d9",
+      "score": 6
+    },
+    {
+      "title": "ANRM alerta para riscos ambientais da exploração de…",
+      "url": "https://holdonangola.com/exploracao-de-ouro-em-angola-riscos-ambientais/",
+      "source": "Hold On Angola",
+      "_key": "9f2e29eff268f8df",
+      "score": 6
+    },
+    {
+      "title": "Ministério dos Recursos Minerais defende protecção das comunidades…",
+      "url": "https://holdonangola.com/codigo-mineiro-de-angola-direitos-comunidades/",
+      "source": "Hold On Angola",
+      "_key": "b63300d48ad1a9a1",
+      "score": 6
+    },
+    {
+      "title": "Economia / Há 9 horas Grupo Kibabo inaugura shopping no Zango 8000 ",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700090/grupo-kibabo-inaugura-shopping-no-zango-8000",
+      "source": "Jornal de Angola",
+      "_key": "b54acbcdd04779b7",
+      "score": 6
+    },
+    {
+      "title": "PONTO & CONTRAPONTO: PERFIL IDEAL PARA CANDIDATO DO MPLA A PRESIDENTE DA REPÚBLICA. Intelectual, Tecnocrata, Militante com Formação Militar ou \"Jovem\" de Inquestionável Lealdade ao Líder?",
+      "url": "https://marginal.co.ao/programas/ponto-e-contraponto?ep=76233",
+      "source": "Novo Jornal",
+      "_key": "062bcfed88616f18",
+      "score": 6
+    },
+    {
+      "title": "MAKKAS NA SANZALA: OPINIÃO DESALINHADA. 19 MILHÕES DE ANGOLANOS SEM BILHETE DE IDENTIDADE CORREM O RISCO DE NÃO PODEREM VOTAR EM 2027.",
+      "url": "https://marginal.co.ao/programas/makkas-na-sanzala?ep=76231",
+      "source": "Novo Jornal",
+      "_key": "3731ed8196e83ff0",
+      "score": 6
+    },
+    {
+      "title": "Sérgio Calundungo defende respeito pelos direitos humanos na exploração mineira",
+      "url": "https://holdonangola.com/direitos-humanos-na-mineracao-sergio-calundungo/",
+      "source": "Hold On Angola",
+      "_key": "97c6c512c863ca64",
+      "score": 5
+    },
+    {
+      "title": "Destaque Ministro Márcio Daniel visita espaço do Jornal Economia & Finanças na BITUR O ministro do Turismo, Márcio Daniel, visitou, este domingo, o espaço do Jornal de Economia & Finanças, durante a 9.ª edição da Bolsa Internacional de Turismo de Angola (BITUR), onde inteirou-se sobre dos serviços e das iniciativas desenvolvidas pela publicação.",
+      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700147/ministro-m%C3%A1rcio-daniel-visita-espa%C3%A7o-do-jornal-economia-&amp;-finan%C3%A7as-na-bitur",
+      "source": "Jornal de Angola",
+      "_key": "ec1317f5e7cff146",
+      "score": 5
+    },
+    {
+      "title": "Cultura Cooperação com a OMPI marca nova era na Propriedade Intelectual ",
+      "url": "https://www.jornaldeangola.ao/noticias/5/cultura/700107/coopera%C3%A7%C3%A3o-com-a-ompi-marca-nova-era-na-propriedade-intelectual%C2%A0",
+      "source": "Jornal de Angola",
+      "_key": "f410926111ba850f",
       "score": 5
     }
   ]
