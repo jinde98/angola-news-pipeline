@@ -1,376 +1,184 @@
 {
-  "date": "2026-11-23",
-  "total_new": 114,
-  "total_filtered": 46,
+  "date": "2026-11-24",
+  "total_new": 62,
+  "total_filtered": 22,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Petróleo: Barril entra na 4ª semana consecutiva de...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/petroleo-barril-entra-na-4-semana-consecutiva-de-perdas-76256.html",
+      "title": "Detido chinês suspeito de abusar sexualmente de crianças...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detido-chines-suspeito-de-abusar-sexualmente-de-criancas-no-bengo-76279.html",
       "source": "Novo Jornal",
-      "_key": "a70b310115a7c522",
+      "_key": "d9c9be166f5adb8a",
       "score": 10,
-      "title_cn": "油价连续第四周..."
+      "title_cn": "一名中国籍男子涉嫌性侵儿童被捕"
     },
     {
-      "title": "Barra do Dande recebe investimentos privados de 801 milhões USD para desenvolver terminal portuário e infra-estruturas",
-      "url": "https://forbesafricalusofona.com/barra-do-dande-recebe-investimentos-privados-de-801-milhoes-usd-para-desenvolver-terminal-portuario-e-infra-estruturas/",
+      "title": "Fáusio Mussá alerta que 94% das exportações de Angola continuam dependentes do petróleo",
+      "url": "https://forbesafricalusofona.com/fausio-mussa-alerta-que-94-das-exportacoes-de-angola-continuam-dependentes-do-petroleo/",
       "source": "Forbes África",
-      "_key": "b22dfbf936e12a04",
+      "_key": "09f59804bf6361da",
       "score": 9,
-      "title_cn": "丹德巴拉港获8.01亿美元私人投资，开发港口及基础设施"
+      "title_cn": "Fáusio Mussá（福西奥·穆萨）警告：安哥拉94%的出口仍依赖石油"
     },
     {
-      "title": "Angola inaugura primeira refinaria de ouro, investimento de 20,7 milhões de dólares",
-      "url": "https://jornaloguardiao.com/2026/11/23/angola-inaugura-primeira-refinaria-de-ouro-investimento-de-207-milhoes-de-dolares/",
-      "source": "Jornal O Guardião",
-      "_key": "e0812c028cf413c1",
+      "title": "Produção petrolífera de Angola fica 1,41% abaixo da meta em...",
+      "url": "https://valoreconomico.co.ao/artigo/producao-petrolifera-de-angola-fica-1-41-abaixo-da-meta-em-outubro",
+      "source": "Valor Económico",
+      "_key": "ae6c5135f54e16cb",
       "score": 9,
-      "title_cn": "安哥拉首座黄金精炼厂落成，投资2070万美元"
+      "title_cn": "安哥拉石油产量低于目标1.41%"
     },
     {
-      "title": " Angola inaugura primeira refinaria de ouro, investimento de 20,7 milhões de dólares ",
-      "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_6cc0d095c4b4e1",
-      "score": 9,
-      "title_cn": "安哥拉首座黄金精炼厂落成，投资2070万美元"
+      "title": "Barra do Dande vai receber investimento de 408 mil milhões de kwanzas",
+      "url": "https://correiokianda.info/barra-do-dande-vai-receber-investimento-de-408-mil-milhoes-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "2cb7cf4c988fbd96",
+      "score": 8,
+      "title_cn": "丹德河口将获得4080亿宽扎投资"
     },
     {
-      "title": "Economia / Há 12 horas Sector Petrolífero ganha 4 mil milhões de dólares ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700154/sector-petrol%C3%ADfero-ganha-4-mil-milh%C3%B5es-de-d%C3%B3lares",
-      "source": "Jornal de Angola",
-      "_key": "31236ec12450aedb",
-      "score": 9,
-      "title_cn": "安哥拉石油部门获利40亿美元"
+      "title": "Proposta de OGE é \"continuidade fiscal em momento de mudança\" e pouco \"amigo\" das empresas",
+      "url": "https://expansao.co.ao/economia/detalhe/proposta-de-oge-e-continuidade-fiscal-em-momento-de-mudanca-e-pouco-amigo-das-empresas-76266.html",
+      "source": "Expansão",
+      "_key": "2b781322c7defc48",
+      "score": 8,
+      "title_cn": "国家总预算提案被指“变革时期的财政延续”，对企业不友好"
     },
     {
-      "title": "A economia angolana cresce, a inflação desacelera,...",
-      "url": "https://www.novojornal.co.ao/opiniao/detalhe/a-economia-angolana-cresce-a-inflacao-desacelera-mas-onde-esta-a-prosperidade-76238.html",
-      "source": "Novo Jornal",
-      "_key": "0ef0d5e8d8b87fbe",
-      "score": 9,
-      "title_cn": "安哥拉经济增长，通胀放缓"
+      "title": "Facturação electrónica chega a mais empresas em 2027, mas isenta...",
+      "url": "https://valoreconomico.co.ao/artigo/facturacao-electronica-chega-a-mais-empresas-em-2027-mas-isenta-negocios-ate-25-milhoes-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "176b409cb49bab44",
+      "score": 8,
+      "title_cn": "电子发票将于2027年推广至更多企业，但部分豁免"
+    },
+    {
+      "title": "“Desaceleração da inflação não alivia dificuldades das famílias”, consideram especialistas",
+      "url": "https://correiokianda.info/desaceleracao-da-inflacao-nao-alivia-dificuldades-das-familias-consideram-especialistas/",
+      "source": "Correio Kianda",
+      "_key": "988dd43e70b183d7",
+      "score": 7,
+      "title_cn": "专家认为：“通胀放缓并未缓解家庭困境”"
     },
     {
       "title": "Lucro da banca comercial sobe 13% para 938 milhões USD nos primeiros nove meses do ano",
-      "url": "https://expansao.co.ao/empresas/detalhe/lucro-da-banca-comercial-sobe-13-para-938-milhoes-usd-nos-primeiros-nove-meses-do-ano-76245.html",
-      "source": "Expansão",
-      "_key": "a9893e186b6470e1",
-      "score": 8,
-      "title_cn": "前九个月商业银行利润增长13%至9.38亿美元"
-    },
-    {
-      "title": "Mundo Macau apoia empresas lusófonas da saúde na entrada no mercado chinês ",
-      "url": "https://www.jornaldeangola.ao/noticias/10/mundo/700214/macau-apoia-empresas-lus%C3%B3fonas-da-sa%C3%BAde-na-entrada-no-mercado-chin%C3%AAs",
-      "source": "Jornal de Angola",
-      "_key": "8c8da5177a109fef",
-      "score": 8,
-      "title_cn": "澳门支持葡语系医疗企业进入中国市场"
-    },
-    {
-      "title": "Sociedade Jovem angolano aposta no aprofundamento da aproximação com a China ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700168/jovem-angolano-aposta--no-aprofundamento--da-aproxima%C3%A7%C3%A3o-com-a-china-",
-      "source": "Jornal de Angola",
-      "_key": "d7d081dbaa53e025",
-      "score": 8,
-      "title_cn": "安哥拉青年致力于深化与中国关系"
-    },
-    {
-      "title": "BFA Forecasts 8.3 Trillion Kwanza Budget Deficit in 202723/11/2026",
-      "url": "https://www.negociosdeangola.com/en/bfa-forecasts-8-3-trillion-kwanza-budget-deficit-in-2027/",
-      "source": "Negócios de Angola",
-      "_key": "b1e2a387dd63f6f7",
-      "score": 8,
-      "title_cn": "BFA预测安哥拉2027年预算赤字达8.3万亿宽扎"
-    },
-    {
-      "title": "Government Caps Rent Increases and Links Ceiling to Inflation from 2027",
-      "url": "https://www.negociosdeangola.com/en/?post_type=post&p=10444",
-      "source": "Negócios de Angola",
-      "_key": "1e701c6188086c20",
-      "score": 8,
-      "title_cn": "政府将从2027年起限制租金涨幅并与通胀挂钩"
-    },
-    {
-      "title": "Huambo: PR aprova adenda de 5,3 milhões USD para obras...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/huambo-pr-aprova-adenda-de-53-milhoes-usd-para-obras-do-centro-cultural-manuel-rui-inaugurado-em-2024-76257.html",
-      "source": "Novo Jornal",
-      "_key": "6d037eaa4421dabc",
-      "score": 8,
-      "title_cn": "万博：总统批准530万美元工程追加拨款"
-    },
-    {
-      "title": "BNA: Sector privado absorve 84% do crédito bancário...",
-      "url": "https://www.novojornal.co.ao/economia/detalhe/bna-sector-privado-absorve-84-do-credito-bancario-e-atinge-83-bilioes-de-kwanzas-76243.html",
-      "source": "Novo Jornal",
-      "_key": "6443fbd5bbb85c11",
-      "score": 8,
-      "title_cn": "安哥拉国家银行：私人部门吸收84%银行信贷"
-    },
-    {
-      "title": "Angola aponta 2027 para deixar 'lista cinzenta' do GAFI, revela...",
-      "url": "https://valoreconomico.co.ao/artigo/angola-aponta-2027-para-deixar-lista-cinzenta-do-gafi-revela-jose-de-lima-massano",
-      "source": "Valor Económico",
-      "_key": "ebcdd989312c7345",
-      "score": 8,
-      "title_cn": "安哥拉目标2027年脱离FATF“灰名单”"
-    },
-    {
-      "title": "Recuo do Brent esconde persistente escassez de diesel nos mercados...",
-      "url": "https://valoreconomico.co.ao/artigo/recuo-do-brent-esconde-persistente-escassez-de-diesel-nos-mercados-internacionais",
-      "source": "Valor Económico",
-      "_key": "fff8624d5a76c90a",
-      "score": 8,
-      "title_cn": "布伦特原油下跌，但市场柴油短缺持续"
-    },
-    {
-      "title": "Mais de 30 fábricas vão integrar novo pólo industrial de rochas ornamentais no Namibe",
-      "url": "https://correiokianda.info/mais-de-30-fabricas-vao-integrar-novo-polo-industrial-de-rochas-ornamentais-no-namibe/",
-      "source": "Correio Kianda",
-      "_key": "a170c8dcf2627536",
-      "score": 7,
-      "title_cn": "纳米贝将建观赏石新工业园，逾30家工厂入驻"
-    },
-    {
-      "title": "Populares em Luanda denunciam aumento da insegurança pública nos bairros da capital",
-      "url": "https://correiokianda.info/populares-em-luanda-denunciam-aumento-da-inseguranca-publica-nos-bairros-da-capital/",
-      "source": "Correio Kianda",
-      "_key": "438aa48ae7dc25ef",
-      "score": 7,
-      "title_cn": "罗安达居民谴责首都社区公共安全恶化"
-    },
-    {
-      "title": "Diamantes perdem brilho mas Angola mantém aposta na De Beers",
-      "url": "https://expansao.co.ao/economia/detalhe/diamantes-perdem-brilho-mas-angola-mantem-aposta-na-de-beers-76248.html",
-      "source": "Expansão",
-      "_key": "30f26b4d8ae0b224",
-      "score": 7,
-      "title_cn": "钻石市场失色，但安哥拉仍押注戴比尔斯"
-    },
-    {
-      "title": "A formalização da actividade económica: um desafio nacional e uma oportunidade para o desenvolvimento de Angola",
-      "url": "https://forbesafricalusofona.com/a-formalizacao-da-actividade-economica-um-desafio-nacional-e-uma-oportunidade-para-o-desenvolvimento-de-angola/",
-      "source": "Forbes África",
-      "_key": "7fb629a7fce714d3",
-      "score": 7,
-      "title_cn": "经济活动正规化：安哥拉发展面临的挑战与机遇"
-    },
-    {
-      "title": "Moçambique reforça cooperação com empresa chinesa para aumentar produção nacional de arroz",
-      "url": "https://forbesafricalusofona.com/mocambique-reforca-cooperacao-com-empresa-chinesa-para-aumentar-producao-nacional-de-arroz/",
-      "source": "Forbes África",
-      "_key": "7c4d426f9168e171",
-      "score": 7,
-      "title_cn": "莫桑比克加强与中国企业合作，提高本国大米产量"
-    },
-    {
-      "title": "Governo de Angola defende turismo como motor da diversificação económica e da criação de emprego",
-      "url": "https://forbesafricalusofona.com/governo-de-angola-defende-turismo-como-motor-da-diversificacao-economica-e-da-criacao-de-emprego/",
-      "source": "Forbes África",
-      "_key": "20956f8c058e2879",
-      "score": 7,
-      "title_cn": "安哥拉政府倡导旅游业作为经济多元化和就业引擎"
-    },
-    {
-      "title": "MIREX realiza XI Conselho Consultivo e X reunião de embaixadoresO Ministério das Relações Exteriores (MIREX) realiza, nos dias 25, 26 e 27 de Novembro, na Academia Diplomática Venâncio de Moura, em Luanda, o XI Conselho Consultivo e a X Reunião de Embaixadores, dois encontros destinados à avaliação do desempenho institucional e ao reforço da actuação da diplomacia angolana.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700210/mirex-realiza-xi-conselho-consultivo-e-x-reuni%C3%A3o-de-embaixadores",
-      "source": "Jornal de Angola",
-      "_key": "2e9b54da831359b9",
-      "score": 7,
-      "title_cn": "安哥拉外交部举行第十一届咨询委员会和第十届大使会议"
-    },
-    {
-      "title": "Economia / Há 12 horas Novas dívidas do Estado angolano priorizam prazos mais alargados ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700155/novas-d%C3%ADvidas-do-estado-angolano-priorizam-prazos-mais-alargados",
-      "source": "Jornal de Angola",
-      "_key": "cc87da3126ece263",
-      "score": 7,
-      "title_cn": "安哥拉新国债优先考虑更长还款期限"
-    },
-    {
-      "title": "EXPANSÃO EM DIRECTO: GOVERNO COMPRA 2,1 MIL MILHÕES USD EM PETRÓLEO PARA PAGAR À CHINA. Exercer direito de preferência obriga Unitel a lançar uma OPA ao BFA.",
-      "url": "https://marginal.co.ao/programas/expansao-em-directo?ep=76262",
-      "source": "Novo Jornal",
-      "_key": "d60d3dbab0345dba",
-      "score": 7,
-      "title_cn": "直接扩张：政府购买210亿美元的石油来支付中国。为了行使优先权，Unitel必须向BFA发起收购。"
-    },
-    {
-      "title": "Consultora considera limitada margem para novos cortes das taxas de...",
-      "url": "https://valoreconomico.co.ao/artigo/consultora-considera-limitada-margem-para-novos-cortes-das-taxas-de-juro-em-angola",
-      "source": "Valor Económico",
-      "_key": "351d2400cdee4cbd",
-      "score": 7,
-      "title_cn": "咨询公司认为进一步降息空间有限"
-    },
-    {
-      "title": "Executivo assegura existência de stocks de gás para responder à procura na quadra festiva",
-      "url": "https://correiokianda.info/executivo-assegura-existencia-de-stocks-de-gas-para-responder-a-procura-na-quadra-festiva/",
-      "source": "Correio Kianda",
-      "_key": "2163ca1acac9be90",
-      "score": 6,
-      "title_cn": "政府确保节日期间天然气储备充足以满足需求"
-    },
-    {
-      "title": "Executivo investe 100 mil milhões de kwanzas na recuperação de dois portos pesqueiros",
-      "url": "https://correiokianda.info/executivo-investe-100-mil-milhoes-de-kwanzas-na-recuperacao-de-dois-portos-pesqueiros/",
-      "source": "Correio Kianda",
-      "_key": "a6cc25450b81f68d",
-      "score": 6,
-      "title_cn": "政府投资1000亿宽扎修复两座渔港"
-    },
-    {
-      "title": "Só 8 em cada 100 novos empregos surgiram no mercado formal este ano",
       "url": "",
       "source": "Expansão",
-      "_key": "t_9a18ae09a01009",
-      "score": 6,
-      "title_cn": "今年新增就业中仅8%来自正规市场"
+      "_key": "t_fa0d52475d5f15",
+      "score": 7,
+      "title_cn": "今年前九个月商业银行利润增长13%，达9.38亿美元"
     },
     {
-      "title": "Receitas fiscais dos jogos crescem 23% para 8,4 mil milhões Kz em nove meses",
-      "url": "",
-      "source": "Expansão",
-      "_key": "t_aacf574eb47ea3",
-      "score": 6,
-      "title_cn": "Receitas fiscais dos jogos crescem 23% para 840 milhoes Kz em nove mesos"
-    },
-    {
-      "title": "Estado angolano arrecada mais de 674 milhões de kwanzas com leilão da participação no BCAPorPedro Mbinza",
-      "url": "https://forbesafricalusofona.com/estado-angolano-arrecada-mais-de-674-milhoes-de-kwanzas-com-leilao-da-participacao-no-bca/",
+      "title": "Tribunal de Contas Angola defende fiscalização rigorosa das receitas da indústria extractiva para evitar perdas ao Estado",
+      "url": "https://forbesafricalusofona.com/tribunal-de-contas-angola-defende-fiscalizacao-rigorosa-das-receitas-da-industria-extractiva-para-evitar-perdas-ao-estado/",
       "source": "Forbes África",
-      "_key": "8aaf20f99e146da9",
-      "score": 6,
-      "title_cn": "安哥拉政府通过BCA股权拍卖筹集逾6.74亿宽扎"
+      "_key": "40bdbe30a7087da3",
+      "score": 7,
+      "title_cn": "安哥拉审计法院主张严格监管采掘业收入，避免国家损失"
     },
     {
-      "title": "Destaque Fundo Soberano de Angola aposta na mineração africana com parceria estratégica na Serra LeoaO Fundo Soberano de Angola (FSDEA), através da ASF Yova Mining Holding Ltd, e a Boxmoor AU FZCO estabeleceram uma parceria estratégica para criar uma plataforma conjunta de investimento destinada a identificar e desenvolver oportunidades no sector mineiro em África, com enfoque inicial na Serra Leoa.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700213/fundo-soberano-de-angola-aposta-na-minera%C3%A7%C3%A3o-africana-com-parceria-estrat%C3%A9gica-na-serra-leoa",
-      "source": "Jornal de Angola",
-      "_key": "d75f80f91af9cfbf",
-      "score": 6,
-      "title_cn": "安哥拉主权基金与塞拉利昂战略合作，投资非洲采矿业"
-    },
-    {
-      "title": "BITUR regista 4.000 visitantes em três diasA Bolsa Internacional de Turismo (BITUR) encerrou, domingo, em Luanda, com o registo de quatro mil visitantes ao longo dos três dias do certame.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700149/bitur-regista-4.000-visitantes-em-tr%C3%AAs-dias",
-      "source": "Jornal de Angola",
-      "_key": "f772e1214284fc49",
-      "score": 6,
-      "title_cn": "罗安达国际旅游展三天吸引4000名参观者"
-    },
-    {
-      "title": "Economia / Há 12 horas Pescas e Aquicultura dão 2,37% para o PIB ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700152/pescas-e-aquicultura-d%C3%A3o-237%25-para-o-pib-",
-      "source": "Jornal de Angola",
-      "_key": "5290567e128b6131",
-      "score": 6,
-      "title_cn": "渔业和水产养殖业贡献安哥拉GDP的2.37%"
-    },
-    {
-      "title": "Economia / Há 12 horas Reservas de gás butano aguentam vários meses ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700151/reservas-de-g%C3%A1s-butano-aguentam-v%C3%A1rios-meses",
-      "source": "Jornal de Angola",
-      "_key": "864da3f60c0c98d9",
-      "score": 6,
-      "title_cn": "安哥拉丁烷气储备可维持数月"
-    },
-    {
-      "title": "Government Invests 100 Billion Kwanzas in Rehabilitation of Luanda and Porto Amboim Fishing Ports23/11/2026",
-      "url": "https://www.negociosdeangola.com/en/government-invests-100-billion-kwanzas-in-rehabilitation-of-luanda-and-porto-amboim-fishing-ports/",
-      "source": "Negócios de Angola",
-      "_key": "b71f9229f01a6dec",
-      "score": 6,
-      "title_cn": "政府投资1000亿宽扎修复罗安达和安博因港渔港"
-    },
-    {
-      "title": "Detidos três homens suspeitos do assassinato de uma...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/detidos-tres-homens-suspeitos-do-assassinato-de-uma-menina-em-viana-76252.html",
+      "title": "Angola abre leilão de 2,6 milhões USD para medicamentos",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/angola-prepara-se-para-comprar-26-milhoes-de-dolares-em-medicamentos-76272.html",
       "source": "Novo Jornal",
-      "_key": "6d0b4589517239f7",
-      "score": 6,
-      "title_cn": "三名男子因涉嫌谋杀被捕"
+      "_key": "2a8771160b319e32",
+      "score": 7,
+      "title_cn": "安哥拉举行260万美元药品拍卖"
     },
     {
-      "title": "Financiamento sobe 11,8% em Outubro com privado a concentrar 84%...",
-      "url": "https://valoreconomico.co.ao/artigo/financiamento-sobe-11-8-em-outubro-com-privado-a-concentrar-84-do-credito",
+      "title": "Angola aumenta capacidade de converter recursos naturais em receitas públicas,...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-aumenta-capacidade-de-converter-recursos-naturais-em-receitas-publicas-destaca-jose-leiria",
       "source": "Valor Económico",
-      "_key": "7b4059aad15ad139",
-      "score": 6,
-      "title_cn": "10月融资增长11.8%，私人部门占84%"
+      "_key": "e9895d9c01c730c8",
+      "score": 7,
+      "title_cn": "安哥拉提高将自然资源转化为公共收入的能力"
     },
     {
-      "title": "Ajuste directo volta a liderar contratações públicas em Outubro",
-      "url": "https://valoreconomico.co.ao/artigo/ajuste-directo-volta-a-liderar-contratacoes-publicas-em-outubro",
+      "title": "Falhas de controlo e concessões irregulares reduzem receitas, alerta Tribunal de Contas",
+      "url": "https://valoreconomico.co.ao/artigo/falhas-de-controlo-e-concessoes-irregulares-reduzem-receitas-alerta-tribunal-de-contas",
       "source": "Valor Económico",
-      "_key": "d07cd79c4dd69509",
-      "score": 6,
-      "title_cn": "10月直接采购再次主导公共合同"
+      "_key": "0deb48de621207ed",
+      "score": 7,
+      "title_cn": "审计法院警告：控制失误和违规特许导致收入减少"
     },
     {
-      "title": "Cinco funcionários da Ordem dos Médicos detidos por suspeita de desvio de fundos",
-      "url": "https://correiokianda.info/cinco-funcionarios-da-ordem-dos-medicos-detidos-por-suspeita-de-desvio-de-fundos/",
+      "title": "Executivo proíbe cobrança de taxas extras na homologação de diplomas",
+      "url": "https://correiokianda.info/executivo-proibe-cobranca-de-taxas-extras-na-homologacao-de-diplomas/",
       "source": "Correio Kianda",
-      "_key": "7e57436f2d8d4ad4",
-      "score": 5,
-      "title_cn": "医生协会五名员工因涉嫌挪用资金被捕"
+      "_key": "159ffa74790fa4f5",
+      "score": 6,
+      "title_cn": "政府禁止在文凭认证中收取额外费用"
     },
     {
-      "title": "Estado gasta 37 mil milhões Kz em livros que não chegam às escolas mas aparecem nos mercados",
-      "url": "https://expansao.co.ao/angola/detalhe/estado-gasta-37-mil-milhoes-kz-em-livros-que-nao-chegam-as-escolas-mas-aparecem-nos-mercados-76246.html",
+      "title": "        África4 horas atrás  África procura novos investimentos para impulsionar integração económica África procura mobilizar novos investimentos e reforçar as parcerias internacionais para acelerar a integração económica, desenvolver infra-estruturas regionais e criar mais oportunidades de emprego, sobretudo para...   ",
+      "url": "https://correiokianda.info/africa-procura-novos-investimentos-para-impulsionar-integracao-economica/",
+      "source": "Correio Kianda",
+      "_key": "c2f5ee3518350a63",
+      "score": 6,
+      "title_cn": "非洲寻求新投资以推动经济一体化"
+    },
+    {
+      "title": "\"Queremos MPMEs cada vez mais resilientes e com menos informalidade\"",
+      "url": "https://expansao.co.ao/grande-entrevista/detalhe/queremos-mpmes-cada-vez-mais-resilientes-e-com-menos-informalidade-76267.html",
       "source": "Expansão",
-      "_key": "2e790a52d7311524",
-      "score": 5,
-      "title_cn": "政府斥资370亿宽扎购买图书，却未到校流入市场"
+      "_key": "3bcd5f15a57ecfa3",
+      "score": 6,
+      "title_cn": "我们希望中小微企业更具韧性，减少非正规性"
     },
     {
-      "title": "Kenmare anuncia acordo de 484 milhões de euros para venda da mina de Moma em Moçambique",
-      "url": "https://forbesafricalusofona.com/kenmare-anuncia-acordo-de-484-milhoes-de-euros-para-venda-da-mina-de-moma-em-mocambique/",
+      "title": "Fundo Soberano de Angola fecha parceria para desenvolver projecto de ouro na Serra Leoa",
+      "url": "https://forbesafricalusofona.com/fundo-soberano-de-angola-fecha-parceria-para-desenvolver-projecto-de-ouro-na-serra-leoa/",
       "source": "Forbes África",
-      "_key": "dc37ad1f80dca258",
-      "score": 5,
-      "title_cn": "Kenmare宣布以4.84亿欧元出售莫桑比克莫马矿"
+      "_key": "5a5bd06d96ca2af4",
+      "score": 6,
+      "title_cn": "安哥拉主权基金与塞拉利昂合作开发黄金项目"
     },
     {
-      "title": "Ministro da Economia de Moçambique desafia investidores a apostar na produção local e criação de emprego",
-      "url": "https://forbesafricalusofona.com/ministro-da-economia-de-mocambique-desafia-investidores-a-apostar-na-producao-local-e-criacao-de-emprego/",
+      "title": "Falta de transparência nas operações preocupa autoridades do sector imobiliário",
+      "url": "https://correiokianda.info/falta-de-transparencia-nas-operacoes-preocupa-autoridades-do-sector-imobiliario/",
+      "source": "Correio Kianda",
+      "_key": "fc268a62e688d0d0",
+      "score": 5,
+      "title_cn": "房地产行业运营缺乏透明度引主管部门担忧"
+    },
+    {
+      "title": "Cinco agentes do SIC confessam furto e são condenados a prisão efectiva",
+      "url": "https://correiokianda.info/cinco-agentes-do-sic-confessam-furto-e-sao-condenados-a-prisao-efectiva/",
+      "source": "Correio Kianda",
+      "_key": "2f78371707b35d29",
+      "score": 5,
+      "title_cn": "五名SIC特工承认盗窃并被判处实刑"
+    },
+    {
+      "title": "Governo lança mais um plano de 208 mil milhões Kz para proteger a biodiversidade",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-lanca-mais-um-plano-de-208-mil-milhoes-kz-para-proteger-a-biodiversidade-76270.html",
+      "source": "Expansão",
+      "_key": "4fe6bc514a40d25f",
+      "score": 5,
+      "title_cn": "政府启动2080亿宽扎计划以保护生物多样性"
+    },
+    {
+      "title": "Palace Beach reforça oferta de restauração e lazer na Ilha de Luanda e cria 72 postos de trabalho",
+      "url": "https://forbesafricalusofona.com/palace-beach-reforca-oferta-de-restauracao-e-lazer-na-ilha-de-luanda-e-cria-72-postos-de-trabalho/",
       "source": "Forbes África",
-      "_key": "1f44c2198760ee53",
+      "_key": "392592bd7d01f45c",
       "score": 5,
-      "title_cn": "莫桑比克经济部长敦促投资者关注本地生产和就业"
+      "title_cn": "Palace Beach加强罗安达岛餐饮休闲服务，创造72个就业岗位"
     },
     {
-      "title": "Economia / Há 12 horas Armadores pedem ao Governo mapeamento de terras para aquicultura ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700153/armadores-pedem-ao-governo-mapeamento-de-terras-para-aquicultura",
-      "source": "Jornal de Angola",
-      "_key": "9ae3366f36fa24b9",
-      "score": 5,
-      "title_cn": "渔民呼吁政府绘制水产养殖用地地图"
-    },
-    {
-      "title": "Luanda: Efectivos do SIC condenados a penas de até...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/luanda-efectivos-do-sic-condenados-a-penas-entre-ate-dois-anos-e-meio-de-prisao-efectiva-por-furto-de-materiais-num-estaleiro-no-sequele-76259.html",
+      "title": "Furta 50 mil USD destinados a tratamento médico de...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/furta-50-mil-usd-destinado-a-tratamento-medico-de-parente-e-gasta-o-em-champagne-mas-acaba-na-prisao-76277.html",
       "source": "Novo Jornal",
-      "_key": "725e254a5b99d7ab",
+      "_key": "adecc1bb12034621",
       "score": 5,
-      "title_cn": "罗安达：刑事调查局人员被判刑"
+      "title_cn": "5万美元医疗费被盗"
     },
     {
-      "title": "Malanje: Detidos director da agricultura do Quela e...",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/malanje-detidos-director-da-agricultura-do-quela-e-chefe-de-seccao-por-desvio-de-mais-de-130-sacos-de-fertilizantes-76258.html",
-      "source": "Novo Jornal",
-      "_key": "b488ff35d5c2ebb0",
+      "title": "Angola mantém níveis elevados de minas antipessoal e pode falhar...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-mantem-niveis-elevados-de-minas-antipessoal-e-pode-falhar-meta-de-desminagem",
+      "source": "Valor Económico",
+      "_key": "ecefec52bc362401",
       "score": 5,
-      "title_cn": "Malanje: Detidos director da agricultura do Quela e…"
-    },
-    {
-      "title": "PGF reforça fronteiras com mais de 500 efectivos que concluem formação técnica",
-      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pgf-reforca-fronteiras-com-mais-de-500-efectivos-que-concluem-formacao-tecnica-76247.html",
-      "source": "Novo Jornal",
-      "_key": "8d6694f435d91138",
-      "score": 5,
-      "title_cn": "边境警察局增派500余名完成技术培训人员加强边境"
+      "title_cn": "安哥拉仍有大量杀伤性地雷，可能无法实现目标"
     }
   ]
 }
