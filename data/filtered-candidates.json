@@ -1,210 +1,399 @@
 {
-  "date": "2026-11-26",
-  "total_new": 92,
-  "total_filtered": 29,
+  "date": "2026-11-27",
+  "total_new": 167,
+  "total_filtered": 56,
   "scored_by": "gemini-flash",
   "articles": [
     {
-      "title": "Denúncias levam à detenção de cidadão chinês suspeito de abuso sexual no Bengo",
-      "url": "https://correiokianda.info/denuncias-levam-a-detencao-de-cidadao-chines-suspeito-de-abuso-sexual-no-bengo/",
-      "source": "Correio Kianda",
-      "_key": "a6d054ec8be3982b",
-      "score": 9
-    },
-    {
-      "title": "Economia / Há 1 dia Sector de Petróleos arrecada 7,8 biliões de kwanzas ",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700253/sector-de-petr%C3%B3leos-arrecada-78-bili%C3%B5es-de-kwanzas",
-      "source": "Jornal de Angola",
-      "_key": "0c41c3202522d147",
-      "score": 9
-    },
-    {
-      "title": "Parlamento decide esta sexta-feira sobre o novo Código do Imposto...",
-      "url": "https://valoreconomico.co.ao/artigo/parlamento-decide-esta-sexta-feira-sobre-o-novo-codigo-do-imposto-sobre-os-lucros-das-empresas",
-      "source": "Valor Económico",
-      "_key": "b88e4e9f030084c0",
-      "score": 9
-    },
-    {
-      "title": "IGEO identifica cerca de 3.000 ocorrências minerais em Angola e propõe acelerar estudos para atrair investimentos",
-      "url": "https://forbesafricalusofona.com/igeo-identifica-cerca-de-3-000-ocorrencias-minerais-em-angola-e-propoe-acelerar-estudos-para-atrair-investimentos/",
-      "source": "Forbes África",
-      "_key": "9a442b89bd91a756",
-      "score": 8
-    },
-    {
-      "title": "Moçambique prevê poupar 401,7 milhões de euros com reperfilamento da dívida à China até 2032",
-      "url": "https://forbesafricalusofona.com/mocambique-preve-poupar-4017-milhoes-de-euros-com-reperfilamento-da-divida-a-china-ate-2032/",
-      "source": "Forbes África",
-      "_key": "aa475c4433aab361",
-      "score": 8
-    },
-    {
-      "title": "Destaque Angola reafirma compromisso com atracção de investimentos no sector mineiroO secretário de Estado para os Recursos Minerais, Jânio Victor, reafirmou, esta quinta-feira, em Luanda, o compromisso do Executivo em valorizar o potencial geológico e mineiro, através da criação de condições favoráveis à atracção de investimentos, à inovação e ao desenvolvimento sustentável.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700368/angola-reafirma-compromisso-com-atrac%C3%A7%C3%A3o-de-investimentos-no-sector-mineiro",
-      "source": "Jornal de Angola",
-      "_key": "596d98be1cb93118",
-      "score": 8
-    },
-    {
-      "title": "Angola reafirma compromisso com atracção de investimentos no sector mineiroO secretário de Estado para os Recursos Minerais, Jânio Victor, reafirmou, esta quinta-feira, em Luanda, o compromisso do Executivo em valorizar o potencial geológico e mineiro, através da criação de condições favoráveis à atracção de investimentos, à inovação e ao desenvolvimento sustentável.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700369/angola-reafirma-compromisso-com-atrac%C3%A7%C3%A3o-de-investimentos-no-sector-mineiro",
-      "source": "Jornal de Angola",
-      "_key": "0960756e5a231a81",
-      "score": 8
-    },
-    {
-      "title": "Sociedade Bombeiros inauguram quartel na Cidade da China na sexta-feira ",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700370/bombeiros-inauguram-quartel-na-cidade-da-china-na-sexta-feira",
-      "source": "Jornal de Angola",
-      "_key": "006120864a4bee89",
-      "score": 8
-    },
-    {
-      "title": "PR aprova investimento de 88,5 milhões USD para modernizar...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/pr-aprova-investimento-de-885-milhoes-usd-para-modernizar-gestao-da-agua-em-benguela-com-recurso-a-linha-de-credito-da-gemcorp-76310.html",
-      "source": "Novo Jornal",
-      "_key": "95e14245a28272b7",
-      "score": 8
-    },
-    {
-      "title": "Bolsas europeias e asiáticas recuperam com alívio sobre tarifas dos...",
-      "url": "https://valoreconomico.co.ao/artigo/bolsas-europeias-e-asiaticas-recuperam-com-alivio-sobre-tarifas-dos-eua",
-      "source": "Valor Económico",
-      "_key": "4898671fe90410ac",
-      "score": 8
-    },
-    {
-      "title": "Política Proposta de OGE para 2027 tem mais de 2.600 projectos ",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700311/proposta-de-oge-para-2027-tem-mais-de-2.600-projectos",
-      "source": "Jornal de Angola",
-      "_key": "83f92aeeff126de1",
-      "score": 7
-    },
-    {
-      "title": "O VALOR DO KUMBU: COMO PREPARAR AS PEQUENAS E MÉDIAS EMPRESAS PARA TEREM ACESSO A FINANCIAMENTO BANCÁRIO EM ANGOLA.  ",
-      "url": "https://marginal.co.ao/programas/o-valor-do-kumbu?ep=76318",
-      "source": "Novo Jornal",
-      "_key": "51c500a364a30165",
-      "score": 7
-    },
-    {
-      "title": "LUANDA DOWNTOWN: INOVAÇÃO TECNOLÓGICA E ECONOMIA DIGITAL. Panorama de Negócios e Empresas.",
-      "url": "https://marginal.co.ao/programas/luanda-downtown?ep=76309",
-      "source": "Novo Jornal",
-      "_key": "474738c3e4703475",
-      "score": 7
-    },
-    {
-      "title": "Fim das subvenções e falta de financiamento travam mobilidade urbana",
-      "url": "https://valoreconomico.co.ao/artigo/fim-das-subvencoes-e-falta-de-financiamento-travam-mobilidade-urbana",
-      "source": "Valor Económico",
-      "_key": "33b189d791aa5a12",
-      "score": 7
-    },
-    {
-      "title": "Serviços imobiliários contribuíram com 2,2% para o PIB em 2025",
-      "url": "https://correiokianda.info/servicos-imobiliarios-contribuiram-com-22-para-o-pib-em-2025/",
-      "source": "Correio Kianda",
-      "_key": "869410d4580b84bd",
-      "score": 6
-    },
-    {
-      "title": "Eleições em Angola 2027: O que os eleitores precisam de saber",
-      "url": "https://holdonangola.com/eleicoes-em-angola-2027-2/",
+      "title": "Investir em Angola em 2027: 10 sectores e…",
+      "url": "https://holdonangola.com/investir-em-angola-em-2027/",
       "source": "Hold On Angola",
-      "_key": "3cc07a6d5aca4961",
-      "score": 6
+      "_key": "79fa396656c4a182",
+      "score": 10
     },
     {
-      "title": "Governo prevê distribuir 1.400 casas até DezembroO Executivo prevê entregar cerca de 1.400 unidades habitacionais, até Dezembro deste ano, na Centralidade KK 5800, no âmbito de uma parceria com operadores privados, anunciou o director do Instituto Nacional de Habitação (INH), António Neto.",
-      "url": "https://www.jornaldeangola.ao/noticias/4/economia/700254/governo-prev%C3%AA-distribuir--1.400-casas-at%C3%A9-dezembro",
+      "title": "Destaque Deputados aprovam Código do Imposto sobre o Rendimento das Pessoas ColectivasOs deputados à Assembleia Nacional aprovaram, na manhã desta sexta-feira, a Proposta de Lei que aprova o Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), com 95 votos a favor, 55 contra e uma abstenção.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700409/deputados-aprovam-c%C3%B3digo-do-imposto-sobre-o-rendimento-das-pessoas-colectivas",
       "source": "Jornal de Angola",
-      "_key": "739491009b51de59",
-      "score": 6
+      "_key": "609ee9a3bfa429b6",
+      "score": 10
     },
     {
-      "title": "Sociedade26/11/2026Ministério da Energia e Águas defende maior eficiência e sustentabilidade dos serviços",
-      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700323/minist%C3%A9rio-da-energia-e-%C3%A1guas-defende-maior-efici%C3%AAncia-e-sustentabilidade-dos-servi%C3%A7os",
-      "source": "Jornal de Angola",
-      "_key": "48567b37b09255d6",
-      "score": 6
-    },
-    {
-      "title": "Governo anuncia ingresso de mais de 85 mil trabalhadores na...",
-      "url": "https://valoreconomico.co.ao/artigo/governo-anuncia-ingresso-de-mais-de-85-mil-trabalhadores-na-funcao-publica",
+      "title": "Petróleo Brent recua 0,19% e negoceia a 91,52 dólares por...",
+      "url": "https://valoreconomico.co.ao/artigo/petroleo-brent-recua-0-19-e-negoceia-a-91-52-dolares-por-barril",
       "source": "Valor Económico",
-      "_key": "a561194c94b48b03",
-      "score": 6
+      "_key": "497dbb250e894d3d",
+      "score": 10
     },
     {
-      "title": "AIPEX investe 434 milhões de kwanzas para renovar frota obsoleta",
-      "url": "https://valoreconomico.co.ao/artigo/aipex-investe-434-milhoes-de-kwanzas-para-renovar-frota-obsoleta",
-      "source": "Valor Económico",
-      "_key": "5f37f84f38577d9b",
-      "score": 6
+      "title": "Corrida por terras raras chega à província do Zaire",
+      "url": "https://expansao.co.ao/angola/detalhe/corrida-por-terras-raras-chega-a-provincia-do-zaire-76324.html",
+      "source": "Expansão",
+      "_key": "0171cee9a5bc3ee0",
+      "score": 9
     },
     {
-      "title": "Maus-tratos e abuso sexual de menores poderão ter penas mais pesadas em Angola",
-      "url": "https://correiokianda.info/maus-tratos-e-abuso-sexual-de-menores-poderao-ter-penas-mais-pesadas-em-angola/",
-      "source": "Correio Kianda",
-      "_key": "a1f2dc4d246334c9",
-      "score": 5
+      "title": "Factura da luz quadruplica e deixa indústria em alerta",
+      "url": "https://expansao.co.ao/empresas/detalhe/factura-da-luz-quadruplica-e-deixa-industria-em-alerta-76326.html",
+      "source": "Expansão",
+      "_key": "987b1b7f2c694c09",
+      "score": 9
     },
     {
-      "title": "Executivo angolano propõe até 20 anos de prisão para crimes contra menores",
-      "url": "https://forbesafricalusofona.com/executivo-angolano-propoe-ate-20-anos-de-prisao-para-crimes-contra-menores/",
+      "title": "Ministro angolano quer maior valorização dos recursos minerais antes da exportação",
+      "url": "https://forbesafricalusofona.com/ministro-angolano-quer-maior-valorizacao-dos-recursos-minerais-antes-da-exportacao/",
       "source": "Forbes África",
-      "_key": "4d1681acbd4b2855",
-      "score": 5
+      "_key": "d34dcb9d171eb8ce",
+      "score": 9
     },
     {
-      "title": "Isabel dos Santos convidada para a 10.ª edição da Future Investment Initiative",
-      "url": "https://holdonangola.com/isabel-dos-santos-convidada-fii10/",
+      "title": "Sonangol: história, actividades e importância na economia angolana",
+      "url": "https://holdonangola.com/sonangol/",
       "source": "Hold On Angola",
-      "_key": "23e74110f11c1465",
-      "score": 5
+      "_key": "f0a4849b0e3ee705",
+      "score": 9
     },
     {
-      "title": "Angola em risco de falhar meta de desminagem em 2030 – Relatório",
-      "url": "https://jornaloguardiao.com/2026/11/26/angola-em-risco-de-falhar-meta-de-desminagem-em-2030-relatorio/",
-      "source": "Jornal O Guardião",
-      "_key": "bc2ebcb1361a669b",
-      "score": 5
+      "title": "PN detém mais de 160 cidadãos estrangeiros e nacionais...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/pn-detem-mais-de-160-cidadaos-estrangeiros-e-nacionais-por-infraccoes-migratorias-76335.html",
+      "source": "Novo Jornal",
+      "_key": "a70fd4ba7e8826d4",
+      "score": 9
     },
     {
-      "title": " Angola em risco de falhar meta de desminagem em 2030 – Relatório ",
+      "title": "Angola perde 150 mil barris de petróleo por ano devido...",
+      "url": "https://valoreconomico.co.ao/artigo/angola-perde-150-mil-barris-de-petroleo-por-ano-devido-ao-declinio-natural-dos-campos",
+      "source": "Valor Económico",
+      "_key": "d9408ffaec2651cb",
+      "score": 9
+    },
+    {
+      "title": "Travão às importações obriga KFC a encurtar horário em dois...",
+      "url": "https://valoreconomico.co.ao/artigo/travao-as-importacoes-obriga-kfc-a-encurtar-horario-em-dois-restaurantes",
+      "source": "Valor Económico",
+      "_key": "7c6e13778060fcb1",
+      "score": 9
+    },
+    {
+      "title": "PRÓPRIV anuncia privatização de 122 activos públicos e contratos de 1,79 bilião de kwanzas",
+      "url": "https://correiokianda.info/propriv-ja-privatizou-122-activos-publicos-e-contratos-atingem-179-biliao-de-kwanzas/",
+      "source": "Correio Kianda",
+      "_key": "9dcf5ca80568a73c",
+      "score": 8
+    },
+    {
+      "title": "Governo já atribuiu 49 concessões de ouro mas apenas 4 estão em produção",
+      "url": "https://expansao.co.ao/angola/detalhe/governo-ja-atribuiu-49-concessoes-de-ouro-mas-apenas-4-estao-em-producao-76327.html",
+      "source": "Expansão",
+      "_key": "6cf135235a271694",
+      "score": 8
+    },
+    {
+      "title": "Ataques cibernéticos miram redes de telecom e Oil and Gas no País",
       "url": "",
-      "source": "Jornal O Guardião",
-      "_key": "t_f6499b5f54a4aa",
-      "score": 5
+      "source": "Expansão",
+      "_key": "t_8272b22329fc85",
+      "score": 8
     },
     {
-      "title": "Destaque Conselho de Ministros propõe agravamento das penas para crimes contra menoresO Conselho de Ministros apreciou, esta quinta-feira, para remessa à Assembleia Nacional, a Proposta de Lei que altera o Código Penal Angolano, com vista ao reforço da protecção das crianças vítimas de diferentes formas de violência.",
-      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700348/conselho-de-ministros-prop%C3%B5e-agravamento-das-penas-para-crimes-contra-menores",
+      "title": "Política Parlamento aprova Lei da Identificação Civil e Criminal ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700433/parlamento-aprova-lei-da-identifica%C3%A7%C3%A3o-civil-e-criminal",
       "source": "Jornal de Angola",
-      "_key": "6264cf88a3e9e463",
-      "score": 5
+      "_key": "58a05938b0d63215",
+      "score": 8
     },
     {
-      "title": "Regiões Água volta a jorrar nas torneiras do Soyo 20 anos depois ",
-      "url": "https://www.jornaldeangola.ao/noticias/2/regi%C3%B5es/700299/%C3%A1gua-volta-a-jorrar-nas-torneiras-do-soyo-20-anos-depois",
+      "title": "Luanda ganha quatro novas estações ferroviárias",
+      "url": "https://opais.ao/economia/luanda-ganha-quatro-novas-estacoes-ferroviarias/",
+      "source": "O País",
+      "_key": "9f8428f5a56ed363",
+      "score": 8
+    },
+    {
+      "title": "Bengo prevê inaugurar três novas unidades industriais avaliadas em 448 milhões de dólares na Barra do Dande em 2027",
+      "url": "https://opais.ao/economia/bengo-preve-inaugurar-tres-novas-unidades-industriais-avaliadas-em-448-milhoes-de-dolares-na-barra-do-dande-em-2027/",
+      "source": "O País",
+      "_key": "f0295d07fbcd6abf",
+      "score": 8
+    },
+    {
+      "title": "Economista pede articulação entre Estado e banca para agilizar exportações",
+      "url": "https://opais.ao/economia/economista-pede-articulacao-entre-estado-e-banca-para-agilizar-exportacoes/",
+      "source": "O País",
+      "_key": "e784afafff3b52cc",
+      "score": 8
+    },
+    {
+      "title": "Turismo atrai manifestações de investimento de oito mil milhões de dólares em 2026",
+      "url": "https://opais.ao/economia/turismo-atrai-manifestacoes-de-investimento-de-oito-mil-milhoes-de-dolares-em-2026/",
+      "source": "O País",
+      "_key": "6169fb3b96893042",
+      "score": 8
+    },
+    {
+      "title": "China ameaça retaliar contra novas tarifas comerciais propostas pelos EUA",
+      "url": "https://valoreconomico.co.ao/artigo/china-ameaca-retaliar-contra-novas-tarifas-comerciais-propostas-pelos-eua",
+      "source": "Valor Económico",
+      "_key": "8a0a662f2c106ac8",
+      "score": 8
+    },
+    {
+      "title": "Angola assinala 50 anos do Ministério das Finanças com apelo à transparência, rigor e melhor gestão dos recursos públicos",
+      "url": "https://forbesafricalusofona.com/angola-assinala-50-anos-do-ministerio-das-financas-com-apelo-a-transparencia-rigor-e-melhor-gestao-dos-recursos-publicos/",
+      "source": "Forbes África",
+      "_key": "0e0a806f3a8909dc",
+      "score": 7
+    },
+    {
+      "title": "Bosch eleva quota de mercado em Angola de 16% para 31% e prepara nova fase de expansão",
+      "url": "https://forbesafricalusofona.com/bosch-eleva-quota-de-mercado-em-angola-de-16-para-31-e-prepara-nova-fase-de-expansao/",
+      "source": "Forbes África",
+      "_key": "0382cbdd0144adc0",
+      "score": 7
+    },
+    {
+      "title": "Bancos angolanos: os 22 bancos em actividade em…",
+      "url": "https://holdonangola.com/bancos-angolanos/",
+      "source": "Hold On Angola",
+      "_key": "495a72326841db35",
+      "score": 7
+    },
+    {
+      "title": "Destaque Conselho de concertaçao analisa desempenho das empresas de segurança privada A Polícia Nacional e os entes que intervêm no exercício da actividade privada de segurança poderão consultar o Conselho de Concertação Nacional da Actividade Privada de Segurança (CCNAPS) para analisar e emitir pareceres sobre matérias ligadas à área. ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700445/conselho-de-concerta%C3%A7ao-analisa-desempenho-das-empresas-de-seguran%C3%A7a-privada-",
       "source": "Jornal de Angola",
-      "_key": "2cdaaa78ae0b73a6",
+      "_key": "43fbbbcdbda7f943",
+      "score": 7
+    },
+    {
+      "title": "João Lourenço orienta 10.ª Sessão Ordinária do Conselho de MinistrosO Presidente da República, João Lourenço, orientou, hoje, no Palácio Presidencial, na Cidade Alta, em Luanda, a 10.ª Sessão Ordinária do Conselho de Ministros.",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700318/jo%C3%A3o-louren%C3%A7o-orienta-10.%C2%AA-sess%C3%A3o-ordin%C3%A1ria-do-conselho-de-ministros",
+      "source": "Jornal de Angola",
+      "_key": "247a096361b03467",
+      "score": 7
+    },
+    {
+      "title": "Parlamento: Proposta de Lei sobre pesticidas, fertilizantes...",
+      "url": "https://www.novojornal.co.ao/politica/detalhe/parlamento-proposta-de-lei-sobre-pesticidas-fertilizantes-e-correctivos-agricolas-em-debate-esta-sexta-feira-na-generalidade-76334.html",
+      "source": "Novo Jornal",
+      "_key": "59ea8e7399035fc7",
+      "score": 7
+    },
+    {
+      "title": "Levantamento sem cartão: EMIS revolta usuários e expõe...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/levantamento-sem-cartao-emis-revolta-usuarios-e-expoe-fragilidade-do-sistema-financeiro-76344.html",
+      "source": "Novo Jornal",
+      "_key": "50390ab1165fc844",
+      "score": 7
+    },
+    {
+      "title": "Executivo cria Conselho para avaliar empresas de segurança privada",
+      "url": "https://opais.ao/politica/executivo-cria-conselho-para-avaliar-empresas-de-seguranca-privada/",
+      "source": "O País",
+      "_key": "0a60d2fb18a1d3b1",
+      "score": 7
+    },
+    {
+      "title": "Câmara de Comércio da Arábia Saudita quer atrair investidores para o sector mineiro angolano",
+      "url": "https://opais.ao/economia/camara-de-comercio-da-arabia-saudita-quer-atrair-investidores-para-o-sector-mineiro-angolano-2/",
+      "source": "O País",
+      "_key": "ea38ded62facaba2",
+      "score": 7
+    },
+    {
+      "title": "Presidente autoriza instalação de sistemas tecnológicos na portagem do Xangongo",
+      "url": "https://correiokianda.info/presidente-autoriza-instalacao-de-sistemas-tecnologicos-na-portagem-do-xangongo/",
+      "source": "Correio Kianda",
+      "_key": "dd7e702851262ca9",
+      "score": 6
+    },
+    {
+      "title": "Económico já acumula lucros de 50 mil milhões Kz em nove meses, mas continua em falência técnica",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_3883a1cc4dca95",
+      "score": 6
+    },
+    {
+      "title": "Países Baixos reforçam parceria com Angola para desenvolver cadeia de valor do abacate",
+      "url": "https://forbesafricalusofona.com/paises-baixos-reforcam-parceria-com-angola-para-desenvolver-cadeia-de-valor-do-abacate/",
+      "source": "Forbes África",
+      "_key": "d9e2804152942c39",
+      "score": 6
+    },
+    {
+      "title": "Angola avança na estruturação da cadeia de valor do abacate",
+      "url": "https://holdonangola.com/abacate-em-angola/",
+      "source": "Hold On Angola",
+      "_key": "910f6a9769b889d1",
+      "score": 6
+    },
+    {
+      "title": "Africell Angola: planos de Internet, tarifários, serviços e…",
+      "url": "https://holdonangola.com/africell-angola/",
+      "source": "Hold On Angola",
+      "_key": "f5d7ea4f5628d098",
+      "score": 6
+    },
+    {
+      "title": "UNITEL Angola: planos de Internet, tarifários, serviços e…",
+      "url": "https://holdonangola.com/unitel-angola/",
+      "source": "Hold On Angola",
+      "_key": "149a66ca7c9d99ef",
+      "score": 6
+    },
+    {
+      "title": "Portugal e Angola: relações económicas, comerciais e diplomáticas",
+      "url": "https://holdonangola.com/portugal-e-angola/",
+      "source": "Hold On Angola",
+      "_key": "7a9625f536b7ae50",
+      "score": 6
+    },
+    {
+      "title": "Política Executivo prepara medidas para reduzir os acidentes ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700382/executivo-prepara-medidas-para-reduzir-os-acidentes",
+      "source": "Jornal de Angola",
+      "_key": "52c771a5de9eeff1",
+      "score": 6
+    },
+    {
+      "title": "RADAR DIPLOMÁTICO: RELAÇÕES INTERNACIONAIS.  ",
+      "url": "https://marginal.co.ao/programas/radar-diplomatico?ep=76355",
+      "source": "Novo Jornal",
+      "_key": "7de8945731c75125",
+      "score": 6
+    },
+    {
+      "title": "Venda clandestina de gás em residências expõe famílias ao risco de incêndios",
+      "url": "https://opais.ao/reportagem/venda-clandestina-de-gas-em-residencias-expoe-familias-ao-risco-de-incendios/",
+      "source": "O País",
+      "_key": "a413a681cd576c3d",
+      "score": 6
+    },
+    {
+      "title": "Fiscalidade dos diamantes em Angola e o papel do processo de kimberley",
+      "url": "https://opais.ao/opiniao/fiscalidade-dos-diamantes-em-angola-e-o-papel-do-processo-de-kimberley/",
+      "source": "O País",
+      "_key": "47cd13cf9fb425f7",
+      "score": 6
+    },
+    {
+      "title": "Executivo reitera aposta no reforço das infra-estruturas do ecossistema digital",
+      "url": "https://opais.ao/politica/executivo-reitera-aposta-no-reforco-das-infra-estruturas-do-ecossistema-digital/",
+      "source": "O País",
+      "_key": "2d1838326aade5ee",
+      "score": 6
+    },
+    {
+      "title": "Standard Bank lidera negociações na BODIVA com 98,5 milhões de...",
+      "url": "https://valoreconomico.co.ao/artigo/standard-bank-lidera-negociacoes-na-bodiva-com-98-5-milhoes-de-kwanzas",
+      "source": "Valor Económico",
+      "_key": "62423f082973a99a",
+      "score": 6
+    },
+    {
+      "title": "Pescas lança concurso de 180 milhões de kwanzas para limpeza e abastecimento...",
+      "url": "https://valoreconomico.co.ao/artigo/pescas-lanca-concurso-de-180-milhoes-de-kwanzas-para-limpeza-e-abastecimento-de-agua-do-navio-baia-farta",
+      "source": "Valor Económico",
+      "_key": "ac92e72d6e58956e",
+      "score": 6
+    },
+    {
+      "title": "Unitel mantém inalterada participação de 36,9% no BFA",
+      "url": "https://correiokianda.info/unitel-mantem-inalterada-participacao-36-9/",
+      "source": "Correio Kianda",
+      "_key": "d0eda98cf6e0b479",
       "score": 5
     },
     {
-      "title": "Proposta de Lei que altera o Código Penal Angolano...",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-que-altera-o-codigo-penal-angolano-a-caminho-do-parlamento-76315.html",
-      "source": "Novo Jornal",
-      "_key": "8b829cd58e59d797",
+      "title": "Mecânico que matou a esposa e quatro sobrinhas em Luanda vai passar 35 anos na cadeia",
+      "url": "https://correiokianda.info/mecanico-que-matou-a-esposa-e-quatro-sobrinhas-em-luanda-vai-passar-35-anos-na-cadeia/",
+      "source": "Correio Kianda",
+      "_key": "8480f27e39ffea1e",
       "score": 5
     },
     {
-      "title": "Cubango: PR autoriza 2,3 mil milhões kz para morgue do Hospital Municipal do Cuchi",
-      "url": "https://www.novojornal.co.ao/politica/detalhe/cubango-pr-autoriza-23-mil-milhoes-kz-para-morgue-do-hospital-municipal-do-cuchi-76305.html",
+      "title": "El Niño | Quando o clima entra no balanço das seguradoras",
+      "url": "",
+      "source": "Expansão",
+      "_key": "t_e779fbb3cec63b",
+      "score": 5
+    },
+    {
+      "title": "Unitel afasta possibilidade de OPA ao BFA ao desistir da compra da participação do BPI",
+      "url": "https://expansao.co.ao/empresas/detalhe/unitel-afasta-possibilidade-de-opa-ao-bfa-ao-desistir-da-compra-da-participacao-do-bpi-76338.html",
+      "source": "Expansão",
+      "_key": "e5458b46662f1f82",
+      "score": 5
+    },
+    {
+      "title": "CONVIDADOEdgar MassalaEl Niño | Quando o clima entra no balanço das seguradoras",
+      "url": "https://expansao.co.ao/opiniao/detalhe/el-nino-quando-o-clima-entra-no-balanco-das-seguradoras-76268.html",
+      "source": "Expansão",
+      "_key": "7c462b8186688356",
+      "score": 5
+    },
+    {
+      "title": "Moradores da Centralidade da Marconi denunciam falta de água e energia",
+      "url": "https://holdonangola.com/centralidade-da-marconi-falta-de-agua-e-energia/",
+      "source": "Hold On Angola",
+      "_key": "154414154f08691e",
+      "score": 5
+    },
+    {
+      "title": "Destaque Bombeiros registam duas mortes e 24 ocorrências durante a semanaO Serviço de Protecção Civil e Bombeiros (SPCB) registou, durante a semana que termina, duas mortes em todo o país, uma por presumível afogamento e outra por enforcamento, informou, esta sexta-feira, o subinspector bombeiro Pedro Nemambo.",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700437/bombeiros-registam-duas-mortes-e-24-ocorr%C3%AAncias-durante-a-semana",
+      "source": "Jornal de Angola",
+      "_key": "894bad89c74676c4",
+      "score": 5
+    },
+    {
+      "title": "Sociedade Unidade de Aviação reabre com seis novos helicópteros ",
+      "url": "https://www.jornaldeangola.ao/noticias/3/sociedade/700397/unidade-de-avia%C3%A7%C3%A3o-reabre-com-seis-novos-helic%C3%B3pteros",
+      "source": "Jornal de Angola",
+      "_key": "4172cf4a6df7cb00",
+      "score": 5
+    },
+    {
+      "title": "11:05 / 27 nov. 2026 Dionísio da Fonseca representa Presidente da República na Cimeira da CEEAC ",
+      "url": "https://www.jornaldeangola.ao/noticias/1/pol%C3%ADtica/700405/dion%C3%ADsio-da-fonseca-representa-presidente-da-rep%C3%BAblica-na-cimeira-da-ceeac",
+      "source": "Jornal de Angola",
+      "_key": "24b24e53911f7b2d",
+      "score": 5
+    },
+    {
+      "title": "Huambo: Reincidente volta a furtar no mesmo local menos...",
+      "url": "https://www.novojornal.co.ao/sociedade/detalhe/huambo-reincidente-volta-a-furtar-no-mesmo-local-menos-de-um-mes-apos-sair-da-prisao-e-e-condenado-a-tres-anos-de-cadeia-76343.html",
       "source": "Novo Jornal",
-      "_key": "950b235550fcff95",
+      "_key": "239ab49fd4270c6e",
+      "score": 5
+    },
+    {
+      "title": "Angola participa na XXVII.ªSessão Ordinária da CEEAC",
+      "url": "https://opais.ao/politica/angola-participa-na-xxvii-asessao-ordinaria-da-ceeac/",
+      "source": "O País",
+      "_key": "a48b0eef92af955f",
+      "score": 5
+    },
+    {
+      "title": "João Baptista Nzatuzola: “Os jovens que estão a emigrar são a população activa de Angola”",
+      "url": "https://opais.ao/ultima_hora/joao-baptista-nzatuzola-os-jovens-que-estao-a-emigrar-sao-a-populacao-activa-de-angola/",
+      "source": "O País",
+      "_key": "dcbb444d0839dcf1",
+      "score": 5
+    },
+    {
+      "title": "Executivo propõe penas mais pesadas para crimes contra menores",
+      "url": "https://opais.ao/politica/executivo-propoe-penas-mais-pesadas-para-crimes-contra-menores/",
+      "source": "O País",
+      "_key": "d8178931e90f29c2",
+      "score": 5
+    },
+    {
+      "title": "Carrinho Agri investe em tecnologia para controlar operações agrícolas",
+      "url": "https://opais.ao/economia/carrinho-agri-investe-em-tecnologia-para-controlar-operacoes-agricolas/",
+      "source": "O País",
+      "_key": "2823aca655f272a5",
       "score": 5
     }
   ]
